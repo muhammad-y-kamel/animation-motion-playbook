@@ -1,0 +1,58 @@
+CHECKPOINT FINALIZATION INCIDENT — E01 LANDSCAPE P03
+
+Observed facts
+The final path E01_landscape_P03.mp4 contained ftyp, free and mdat but no moov
+atom. Its 5,767,216-byte length was 48 + 22 * 262144. ffprobe could not open it.
+Its SHA-256 aeeb5b39a6eecf9ccbdbe59bbc71456ed500e6741a3d0cdcb4f06348d410f124
+matched the historical render receipt. That receipt nevertheless contained
+metadata and a decoded frame count of 2316. The invalid file and the original
+receipt have been preserved in this directory; they are not delivery products.
+
+The first master concat contained exactly P01 + P02: 4401 frames / 73.35 seconds,
+instead of the required 22992 frames. The final frame-count gate rejected it;
+no incomplete master was published. An explicit diagnostic using -xerror
+returned 183 and reported that P03 could not be opened because moov was absent.
+The earlier concat command had returned zero despite the error on its input;
+its stderr was not inspected when the exit status was zero.
+
+Independent scope check
+A header-only audit of the twenty completed E01 checkpoints found nineteen
+readable files with expected header frame counts. Landscape P03 was the only
+failure. See QA/Checkpoint_Header_Audit_20261023.json. This audit did not claim
+full frame decoding or listening.
+
+Writer code review
+Both render_batch.cjs and the immutable render_parallel.cjs wait for the ffmpeg
+close event. They then probe/count the temporary MP4, rename it to the final
+checkpoint path, hash the final path, and write the receipt. No missing await
+was identified. The producer did not probe the exact final path after rename.
+The Python process queue originally reused files by receipt fingerprint and
+checksum alone, so this particular inconsistent receipt was accepted.
+
+What is not established
+The evidence does not establish why the final checkpoint bytes lacked moov while
+the prior temporary-file probe had reported success. No competing writer was
+found during the subsequent inspection. Concurrency, interruption, or filesystem
+behavior must not be presented as a proven cause.
+
+Corrections
+Only the invalid landscape P03 checkpoint is regenerated. The renderer, drawing
+source, frame plan, valid checkpoints and original narration remain unchanged.
+The adopted execution source is already verified pixel-equivalent to the visual
+reference. The repair is a separate single job, not a restart of the production
+queue.
+
+The final muxer now checks SHA before and after probing headers from each exact
+final checkpoint path. Missing/invalid inputs are withheld and reported in
+QA/Checkpoint_Postcommit_QA.json. The complete final-video frame-count and decode
+gates remain in force. ffmpeg concat, AAC mux and full decode use -xerror; error
+stderr is rejected even if a command returns zero. Each concat and mux attempt
+has a unique temporary filename, and the mux watcher uses a process lock.
+A blocked input or individual product does not prevent independent valid Shorts
+or the other layout from completing. Existing verified media are reused by their
+unchanged media fingerprints.
+
+Final repair result
+See Repair_Record.json and the replacement checkpoint receipt for the eventual
+completion status, new hash and actual frame count. No completion is claimed
+until those gates pass.

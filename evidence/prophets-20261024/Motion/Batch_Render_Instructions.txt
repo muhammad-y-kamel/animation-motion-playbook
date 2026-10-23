@@ -1,0 +1,220 @@
+RESUMABLE PRODUCTION RENDER — 23 OCTOBER 2026
+
+Purpose
+Produce four complete 1920×1080 films, four native 1080×1920 portrait masters,
+and forty separate native portrait Shorts. Every output uses 60 fps and three
+genuinely distinct animation samples per output frame. Original narration files
+remain immutable. Final videos include the separately produced quiet original
+music mix required by project source 04.
+
+Approved production sources
+The immutable visual reference is Motion/Prophets_Manuscript_Motion.html,
+SHA-256 723d7185fb21075c3f110f7c3c107ad3e569773f5eaa2acea9fbe2276eab2710.
+Frame_Export_Plan.json remains tied to that reference and is not rewritten by
+the resumed production process. The parent authorized final rendering after
+visual review. The SHA argument is a reproducibility check, not a request for
+another user approval.
+
+The execution variant is Motion/Optimizations/Settled_Raster/
+Settled_Raster_Candidate.html, SHA-256
+2e68954b0b4de82a752f90a5adb45a7dc286be30c5601fc823236452dd2a8751.
+Its sole drawing optimization caches exact settled illustration states in four
+specified scenes. All moving states still execute the original vector drawing;
+the three distinct shutter samples and native dimensions remain unchanged.
+Seventy-four full-resolution comparisons match the reference pixel for pixel,
+including zero/one endpoints and before/crossing/after boundary cases in both
+layouts. Approved_Render_Variants.json binds this variant to immutable evidence.
+The complete comparison and its adoption verification are retained beside it.
+
+Recommended production command
+  python outputs/Prophets_Stories_Production/Motion/render_process_pool.py \
+    --workers 3 \
+    --source-html outputs/Prophets_Stories_Production/Motion/Optimizations/Settled_Raster/Settled_Raster_Candidate.html \
+    --approved-visual-sha 723d7185fb21075c3f110f7c3c107ad3e569773f5eaa2acea9fbe2276eab2710
+
+Add --plan-only to inspect reuse and the unique pending job list without rendering.
+The current queue runs three independent Node/browser/HTTP/ffmpeg processes, one active
+paragraph per process. This avoids a shared Node transport bottleneck. A SIGUSR1
+sent to the Python queue finishes active checkpoints and stops new assignment.
+Do not start two queue controllers against the same checkpoint directory.
+
+Run the independent final-mux watcher concurrently:
+  flock -n outputs/Prophets_Stories_Production/Motion/Render/723d7185fb21075c/Final_Mux.lock node outputs/Prophets_Stories_Production/Motion/remux_music_single_pass.cjs --watch
+
+The watcher uses Music/Music_Mix_Manifest.json, verifies immutable source and mix
+hashes, and copies completed video checkpoints into final deliverables with
+AAC stereo music-mixed audio. Do not use the legacy renderer's --assemble or
+--deliver-as-ready paths for final music-mixed delivery. The initial voice-only
+preview is under Videos/Previews and labeled PREVIEW. Files with .partial.mp4
+are incomplete intermediates and are never delivery products.
+
+Initial four-process performance measurement
+The environment has an eight-core CPU budget and 8 GiB memory. Independent ASR
+had completed before this configuration was measured. Four independent 120-frame
+jobs completed in 21.16 seconds including four browser launches and verification;
+capture and encoding took 14.54–15.58 seconds per child. Steady capture throughput
+was about 30.8 output frames per second across the four children. This exceeded
+the 28.5-frame steady throughput of six pages sharing one Node process while
+using less anonymous memory (4.51 GB versus 5.07 GB in these short measurements).
+Neither test incurred an out-of-memory event. These are bounded measurements of
+E01 at 200 seconds, not a guarantee for every scene. The real full-paragraph run
+records progress and resource statistics separately. One additional review
+browser may temporarily reduce the production rate.
+
+The first resumed controller accepted twelve legacy checkpoint receipts and
+queued the remaining sixty-eight. A subsequently detected invalid legacy P03
+was isolated and repaired, as documented separately. render_parallel.cjs preserves the original drawing and
+encoding path and records the actual execution source in every receipt. Frozen
+legacy checkpoints remain valid because the execution variant has verified
+pixel equivalence; no completed checkpoint is rendered again solely for this
+optimization. An incomplete job can be retried; documented failed partial files
+and their logs are archived before retry and are never delivery products.
+
+Current resource recovery
+At 20:21 UTC, recurrent anonymous-memory saturation coincided with new global
+OOM events and a Chromium target crash in E03 landscape P09. The record does
+not identify the kernel-selected victim process or the owner of the competing
+memory. SIGUSR1 stopped further assignment while the other active jobs finished.
+The completed inventory reached 59 valid checkpoints. The failed unfinished
+P09 and its logs were preserved under QA/Resource_Interruption_E03_P09.
+At 20:24:04 UTC the hardened queue resumed with three workers, reused all 59,
+and queued only that unfinished P09 plus the 20 previously unstarted E04 jobs.
+No correct completed checkpoint was rerendered. The old run snapshot is under
+Render/723d7185fb21075c/Interrupted_Run_20261023T2022, and the exact new queue
+source is Process_Pool_Executed_Resource_Resume_20261023.py in the run directory.
+This concurrency change does not alter dimensions, frame rate, temporal samples,
+illustration source, audio, or encoding quality.
+
+Frame generation and transport
+The browser calls the motion source's composeFrame(t, 60, 3). Its three sample
+offsets are 1.3888889, 4.1666667 and 6.9444444 milliseconds after each output
+frame's start, all inside its 180-degree shutter interval. The source draws
+the scene at each of those times and blends the actual three images. Captions
+and the part badge use one frame-start time and are overlaid once, avoiding
+double text during shutter blending.
+
+The renderer extracts the blended RGBA pixels into a Blob, sends the binary
+Blob through a loopback HTTP stream, and pipes it to ffmpeg. There is no JPEG
+encode/decode generation in the default path. An optional --transport jpeg
+retains the legacy 0.94-quality JPEG path for comparison. TypedArray request
+bodies are deliberately avoided: in this environment they triggered very
+expensive protocol copies. A Blob solved that issue.
+
+At most one upload and one newly generated frame are in flight per worker.
+The server enforces frame indices, raw byte length, and pipe backpressure.
+There is no unbounded queue of images and no per-frame base64/CDP payload.
+Only the self-contained local HTML is served; a restrictive CSP prevents it
+from requesting outside assets. No narration is uploaded to the local server
+or any internet service by this renderer.
+
+Encoding
+H.264/libx264, CRF 19, fast preset, yuv420p, 60 fps, closed GOP, 60000-Hz video
+time base, explicit limited-range BT.709 conversion/metadata, fast-start MP4.
+The final mux watcher encodes AAC 192 kb/s stereo at 48 kHz from the separate
+PCM24 music mix. It does not change video frames or original narration WAVs.
+The music mix is a distinct artifact; its final waveform includes music and
+must not be described as identical to the dry narrator waveform.
+
+Checkpoint and resume rules
+Each paragraph and layout becomes a video-only MP4 checkpoint: 80 total.
+Every checkpoint starts independently and is suitable for stream-copy concat.
+Its receipt records source HTML, audio timing, renderer and encoding settings
+fingerprints, output SHA-256, actual frame count and the sample-time evidence.
+The exact fingerprints and encoded file hash must match before reuse. The hardened
+queue also probes the exact final path and compares frame count, duration,
+dimensions, color metadata and before/after SHA. The first resumed queue used
+a hash-only reuse check; its exact executed version is preserved in the run
+directory. A separate final-path header gate in the muxer covers every current
+checkpoint and excludes invalid inputs until repaired. A partial
+file is never treated as complete. Keep render_batch.cjs, render_parallel.cjs, and both source HTML files
+unchanged during production. Receipts bind source, renderer and settings by
+fingerprint. Source equivalence is accepted only through the adoption registry
+and its checksum-bound report. Final receipts list the actual source of each
+constituent paragraph, including a mix of verified legacy and variant parts.
+
+The independent remux_music_single_pass.cjs watcher creates each final Short when its
+portrait checkpoint and episode mix are available. Once ten checkpoints of a
+layout are complete, it assembles the full master. It verifies 48 final videos.
+Matching mux receipts avoid a second AAC encode on already exported files.
+The watcher has a single-process lock and gives each mux attempt its own unique
+temporary path. It logs the encoded byte length before probing and complete
+decode; only a successful validation is renamed to the final output.
+
+The original guarded muxer remains preserved as remux_music.cjs. After 17
+products had completed, it was stopped at a finished pass with no media child
+processes. The replacement removes repeated full decodes: one strict full AV
+decode supplies the actual frame count through progress=end with passthrough
+frame timing, and rejects errors, frame duplication or frame dropping. SHA is
+measured before this decode and must equal the committed destination's SHA;
+metadata is also checked from that exact final path. Video-only concatenation
+uses header/hash checks and explicitly awaits the final product's full decode.
+The first real replacement product, E02_P05, passed with 2985 decoded frames,
+49.750 seconds, no duplicates/drops, matching hashes, and separate AAC QA.
+See QA/Single_Pass_Mux_Adoption.json. Previously completed products are reused
+by matching fingerprints and checksums; they are not decoded again.
+
+publish_committed_products.py --watch exposes each committed product immediately
+in Export_Verification.json and Incremental_Delivery.json, while the muxer may
+still be processing another product in the same pass. It accepts only the 48
+expected final paths, validates receipt fields against the immutable frame/audio
+plan, and verifies the actual final-file SHA. It never repeats the video decode
+or changes media. Its uniquely named atomic ledger writes cannot collide with
+the muxer's temporary files. Pending/error fields remain the muxer's last-pass
+snapshot; the product list includes all individually committed receipts. The
+AAC watcher consumes this list and verifies actual final AAC peak measurements.
+
+Video frames and audio boundaries
+Rendering produces 214180 unique video frames over both layouts and 642540
+distinct animation samples. The four additional full portrait masters reuse
+the portrait Shorts' frames; the 48 delivered files therefore store 321270
+frames in total, including that deliberate content reuse. Internal paragraph
+cuts are rounded to the nearest
+60-fps boundary only after verifying that the new position remains in the
+aligned pause between spoken paragraphs. The largest observed adjustment is
+8.322 ms. The frame-aligned scene boundaries are injected into the rendering
+timeline; original word and caption timings are untouched.
+
+At 44.1 kHz and 60 fps, each video frame is exactly 735 PCM samples. Internal
+audio cuts therefore use video_frame × 735; the final end uses the WAV's actual
+last sample. Each part begins at the preceding part's exact ending. The forty
+parts contain every original PCM sample once, in order. No gap, repetition,
+word truncation or generated silence is used. The final video is padded only
+by its last incomplete frame, at most 13.334 ms for these recordings.
+
+Portrait Shorts use the exact video checkpoint frames also present in the
+portrait master. Their audio is sliced from the separate 48-kHz stereo PCM mix
+by sample index (800 samples per video frame), not from compressed AAC. The
+final audio end uses the mix's actual last sample. Their separate SRT files are
+offset to the same frame-aligned cut. A successful synthetic integration test
+verified two 30-frame checkpoints, their stream-copy 60-frame join, exact
+0.5/1.0-second AAC durations and complete decoding.
+
+Locations
+  Motion/Render/<reviewed-HTML-prefix>/checkpoints/
+  Motion/Render/<reviewed-HTML-prefix>/Progress.json
+  Motion/Render/<reviewed-HTML-prefix>/Reviewed_Motion_Snapshot.html
+  Motion/Render/<reviewed-HTML-prefix>/Execution_Motion_Snapshot_<variant-prefix>.html
+  Motion/Render/<reviewed-HTML-prefix>/Process_Pool/
+  Motion/Render/<reviewed-HTML-prefix>/Process_Pool_Performance.json
+  Motion/Approved_Render_Variants.json
+  Videos/Long/E0x_YouTube_1920x1080.mp4
+  Videos/Portrait_Masters/E0x_Portrait_Master_1080x1920.mp4
+  Videos/Shorts/E0x/E0x_Pyy_Short_1080x1920.mp4
+  Videos/Incremental_Delivery.json
+  Videos/Export_Verification.json
+
+Checks actually implemented
+Four unit checks validate forty-part PCM/frame continuity, rejection of a cut
+outside a verified pause, rejection of speech across a cut, and preservation
+of all original word/caption timestamps. Source WAV hashes are compared with
+the immutable audio QA manifest before production. Each checkpoint is decoded
+to count frames. Each exported MP4 is checked for dimensions, 60 fps, H.264,
+yuv420p, AAC/48-kHz audio, actual duration and complete decode. Intermediate
+and final receipts distinguish technical export completion from playback QA.
+
+Review limitations
+Technical media checks do not establish listening accuracy or full half-speed
+visual review. No such review is claimed by this script or these instructions.
+Independent local ASR and the human-visible illustration inspection are separate
+production checks. The final delivery report must state the reviews that were
+actually performed.

@@ -1,0 +1,11 @@
+{
+  "observed_utc": "2026-10-23T18:48:38.446826+00:00",
+  "failure": "P08 initial final-mux validation could not find the moov atom in its temporary MP4. The completed video-only checkpoint is valid and unchanged.",
+  "cause": "Not established. No concurrent mux process was found during inspection.",
+  "successful_diagnostic": "The same mux command to a unique file exited 0; ffprobe read 41.35 seconds and both streams.",
+  "change": "Each production mux attempt now has a cryptographically unique temporary path, and records its encoded byte length before validation. A process lock is used for the watcher. Existing final outputs are reused by unchanged media fingerprints.",
+  "renderer_unchanged": true,
+  "narration_unchanged": true,
+  "rerender_required": false,
+  "media_transcode_change": false
+}

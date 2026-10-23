@@ -1,0 +1,2465 @@
+{
+  "status": "PIXEL_COMPARISON_GATES_PASSED",
+  "approved_reference_sha256": "723d7185fb21075c3f110f7c3c107ad3e569773f5eaa2acea9fbe2276eab2710",
+  "candidate_sha256": "2e68954b0b4de82a752f90a5adb45a7dc286be30c5601fc823236452dd2a8751",
+  "source_files": [
+    "Settled_Raster_Comparison.json",
+    "Settled_Raster_Boundary_Comparison.json",
+    "Settled_Raster_P04_Zero_Comparison.json",
+    "Settled_Raster_Final_Additional_Comparison.json"
+  ],
+  "total_compared_frames": 74,
+  "all_compared_frames_pixel_exact": true,
+  "max_abs_channel_delta": 0,
+  "original_source_unchanged": true,
+  "fps": 60,
+  "temporal_samples": 3,
+  "q_method": "Exact original source action, narrationBeats, editorialProgress evaluated against the final timeline. q values are computed for each actual shutter sample.",
+  "cache_key": [
+    "episodeId",
+    "layout",
+    "scene.id",
+    "q"
+  ],
+  "cache_scope": "Only three_days, treaty_talks, treaty, chain, at exact q0 or q1, excluding covers and first0.58s scene transition. Native dimensions, palette, geometry and seeds are immutable within the candidate HTML hash. Opaque illustrated frame is cached before text overlays; 3-sample composeFrame remains unchanged.",
+  "endpoint_coverage": [
+    {
+      "scene_id": "E03_P07",
+      "layout": "landscape",
+      "all_three_samples_at_zero_compared": true,
+      "all_three_samples_at_one_compared": true
+    },
+    {
+      "scene_id": "E03_P07",
+      "layout": "portrait",
+      "all_three_samples_at_zero_compared": true,
+      "all_three_samples_at_one_compared": true
+    },
+    {
+      "scene_id": "E04_P04",
+      "layout": "landscape",
+      "all_three_samples_at_zero_compared": true,
+      "all_three_samples_at_one_compared": true
+    },
+    {
+      "scene_id": "E04_P04",
+      "layout": "portrait",
+      "all_three_samples_at_zero_compared": true,
+      "all_three_samples_at_one_compared": true
+    },
+    {
+      "scene_id": "E04_P06",
+      "layout": "landscape",
+      "all_three_samples_at_zero_compared": true,
+      "all_three_samples_at_one_compared": true
+    },
+    {
+      "scene_id": "E04_P06",
+      "layout": "portrait",
+      "all_three_samples_at_zero_compared": true,
+      "all_three_samples_at_one_compared": true
+    },
+    {
+      "scene_id": "E04_P07",
+      "layout": "landscape",
+      "all_three_samples_at_zero_compared": true,
+      "all_three_samples_at_one_compared": true
+    },
+    {
+      "scene_id": "E04_P07",
+      "layout": "portrait",
+      "all_three_samples_at_zero_compared": true,
+      "all_three_samples_at_one_compared": true
+    }
+  ],
+  "boundary_coverage": [
+    {
+      "scene_id": "E03_P07",
+      "frame": 16482,
+      "time_seconds": 274.7,
+      "q_per_sample": [
+        0,
+        0,
+        0
+      ],
+      "layouts": {
+        "landscape": {
+          "compared": true,
+          "pixel_exact": true,
+          "max_abs_delta": 0
+        },
+        "portrait": {
+          "compared": true,
+          "pixel_exact": true,
+          "max_abs_delta": 0
+        }
+      }
+    },
+    {
+      "scene_id": "E03_P07",
+      "frame": 16483,
+      "time_seconds": 274.71666666666664,
+      "q_per_sample": [
+        0,
+        1.301902488423558e-7,
+        0.000002443551606459806
+      ],
+      "layouts": {
+        "landscape": {
+          "compared": true,
+          "pixel_exact": true,
+          "max_abs_delta": 0
+        },
+        "portrait": {
+          "compared": true,
+          "pixel_exact": true,
+          "max_abs_delta": 0
+        }
+      }
+    },
+    {
+      "scene_id": "E03_P07",
+      "frame": 16484,
+      "time_seconds": 274.73333333333335,
+      "q_per_sample": [
+        0.0000405397503805789,
+        0.000057254394531517405,
+        0.00007683723891397126
+      ],
+      "layouts": {
+        "landscape": {
+          "compared": true,
+          "pixel_exact": true,
+          "max_abs_delta": 0
+        },
+        "portrait": {
+          "compared": true,
+          "pixel_exact": true,
+          "max_abs_delta": 0
+        }
+      }
+    },
+    {
+      "scene_id": "E03_P07",
+      "frame": 16722,
+      "time_seconds": 278.7,
+      "q_per_sample": [
+        0.9999352564266921,
+        0.9999531188331888,
+        0.9999681106281884
+      ],
+      "layouts": {
+        "landscape": {
+          "compared": true,
+          "pixel_exact": true,
+          "max_abs_delta": 0
+        },
+        "portrait": {
+          "compared": true,
+          "pixel_exact": true,
+          "max_abs_delta": 0
+        }
+      }
+    },
+    {
+      "scene_id": "E03_P07",
+      "frame": 16723,
+      "time_seconds": 278.71666666666664,
+      "q_per_sample": [
+        0.9999992913177029,
+        1,
+        1
+      ],
+      "layouts": {
+        "landscape": {
+          "compared": true,
+          "pixel_exact": true,
+          "max_abs_delta": 0
+        },
+        "portrait": {
+          "compared": true,
+          "pixel_exact": true,
+          "max_abs_delta": 0
+        }
+      }
+    },
+    {
+      "scene_id": "E03_P07",
+      "frame": 16724,
+      "time_seconds": 278.73333333333335,
+      "q_per_sample": [
+        1,
+        1,
+        1
+      ],
+      "layouts": {
+        "landscape": {
+          "compared": true,
+          "pixel_exact": true,
+          "max_abs_delta": 0
+        },
+        "portrait": {
+          "compared": true,
+          "pixel_exact": true,
+          "max_abs_delta": 0
+        }
+      }
+    },
+    {
+      "scene_id": "E04_P04",
+      "frame": 8245,
+      "time_seconds": 137.41666666666666,
+      "q_per_sample": [
+        0,
+        0,
+        0
+      ],
+      "layouts": {
+        "landscape": {
+          "compared": true,
+          "pixel_exact": true,
+          "max_abs_delta": 0
+        },
+        "portrait": {
+          "compared": true,
+          "pixel_exact": true,
+          "max_abs_delta": 0
+        }
+      }
+    },
+    {
+      "scene_id": "E04_P04",
+      "frame": 8246,
+      "time_seconds": 137.43333333333334,
+      "q_per_sample": [
+        1.7794174540135056e-8,
+        2.4860616133743077e-7,
+        7.470914419516753e-7
+      ],
+      "layouts": {
+        "landscape": {
+          "compared": true,
+          "pixel_exact": true,
+          "max_abs_delta": 0
+        },
+        "portrait": {
+          "compared": true,
+          "pixel_exact": true,
+          "max_abs_delta": 0
+        }
+      }
+    },
+    {
+      "scene_id": "E04_P04",
+      "frame": 10135,
+      "time_seconds": 168.91666666666666,
+      "q_per_sample": [
+        0.9999955326689933,
+        0.9999971098992644,
+        0.9999983442635275
+      ],
+      "layouts": {
+        "landscape": {
+          "compared": true,
+          "pixel_exact": true,
+          "max_abs_delta": 0
+        },
+        "portrait": {
+          "compared": true,
+          "pixel_exact": true,
+          "max_abs_delta": 0
+        }
+      }
+    },
+    {
+      "scene_id": "E04_P04",
+      "frame": 10136,
+      "time_seconds": 168.93333333333334,
+      "q_per_sample": [
+        1,
+        1,
+        1
+      ],
+      "layouts": {
+        "landscape": {
+          "compared": true,
+          "pixel_exact": true,
+          "max_abs_delta": 0
+        },
+        "portrait": {
+          "compared": true,
+          "pixel_exact": true,
+          "max_abs_delta": 0
+        }
+      }
+    },
+    {
+      "scene_id": "E04_P06",
+      "frame": 14644,
+      "time_seconds": 244.06666666666666,
+      "q_per_sample": [
+        0,
+        0,
+        0
+      ],
+      "layouts": {
+        "landscape": {
+          "compared": true,
+          "pixel_exact": true,
+          "max_abs_delta": 0
+        },
+        "portrait": {
+          "compared": true,
+          "pixel_exact": true,
+          "max_abs_delta": 0
+        }
+      }
+    },
+    {
+      "scene_id": "E04_P06",
+      "frame": 14645,
+      "time_seconds": 244.08333333333334,
+      "q_per_sample": [
+        0.000004177843551749558,
+        0.000010533691406230851,
+        0.000019772207084870583
+      ],
+      "layouts": {
+        "landscape": {
+          "compared": true,
+          "pixel_exact": true,
+          "max_abs_delta": 0
+        },
+        "portrait": {
+          "compared": true,
+          "pixel_exact": true,
+          "max_abs_delta": 0
+        }
+      }
+    },
+    {
+      "scene_id": "E04_P06",
+      "frame": 14884,
+      "time_seconds": 248.06666666666666,
+      "q_per_sample": [
+        0.9999733026747631,
+        0.9999842688621238,
+        0.9999923547929259
+      ],
+      "layouts": {
+        "landscape": {
+          "compared": true,
+          "pixel_exact": true,
+          "max_abs_delta": 0
+        },
+        "portrait": {
+          "compared": true,
+          "pixel_exact": true,
+          "max_abs_delta": 0
+        }
+      }
+    },
+    {
+      "scene_id": "E04_P06",
+      "frame": 14885,
+      "time_seconds": 248.08333333333334,
+      "q_per_sample": [
+        1,
+        1,
+        1
+      ],
+      "layouts": {
+        "landscape": {
+          "compared": true,
+          "pixel_exact": true,
+          "max_abs_delta": 0
+        },
+        "portrait": {
+          "compared": true,
+          "pixel_exact": true,
+          "max_abs_delta": 0
+        }
+      }
+    },
+    {
+      "scene_id": "E04_P07",
+      "frame": 17075,
+      "time_seconds": 284.5833333333333,
+      "q_per_sample": [
+        0,
+        0,
+        0
+      ],
+      "layouts": {
+        "landscape": {
+          "compared": true,
+          "pixel_exact": true,
+          "max_abs_delta": 0
+        },
+        "portrait": {
+          "compared": true,
+          "pixel_exact": true,
+          "max_abs_delta": 0
+        }
+      }
+    },
+    {
+      "scene_id": "E04_P07",
+      "frame": 17076,
+      "time_seconds": 284.6,
+      "q_per_sample": [
+        3.616060903101218e-7,
+        0.0000032529477719848257,
+        0.000009031779808631946
+      ],
+      "layouts": {
+        "landscape": {
+          "compared": true,
+          "pixel_exact": true,
+          "max_abs_delta": 0
+        },
+        "portrait": {
+          "compared": true,
+          "pixel_exact": true,
+          "max_abs_delta": 0
+        }
+      }
+    },
+    {
+      "scene_id": "E04_P07",
+      "frame": 17315,
+      "time_seconds": 288.5833333333333,
+      "q_per_sample": [
+        0.9999563469697088,
+        0.9999707641601561,
+        0.9999823059165756
+      ],
+      "layouts": {
+        "landscape": {
+          "compared": true,
+          "pixel_exact": true,
+          "max_abs_delta": 0
+        },
+        "portrait": {
+          "compared": true,
+          "pixel_exact": true,
+          "max_abs_delta": 0
+        }
+      }
+    },
+    {
+      "scene_id": "E04_P07",
+      "frame": 17316,
+      "time_seconds": 288.6,
+      "q_per_sample": [
+        1,
+        1,
+        1
+      ],
+      "layouts": {
+        "landscape": {
+          "compared": true,
+          "pixel_exact": true,
+          "max_abs_delta": 0
+        },
+        "portrait": {
+          "compared": true,
+          "pixel_exact": true,
+          "max_abs_delta": 0
+        }
+      }
+    }
+  ],
+  "comparisons": [
+    {
+      "key": "E03_P07_landscape_273.1",
+      "time": 273.1,
+      "changed_channels": 0,
+      "total_channels": 6220800,
+      "changed_fraction": 0,
+      "max_abs_delta": 0,
+      "mean_abs_delta": 0,
+      "psnr_db": null,
+      "pixel_exact": true,
+      "sample_times": [
+        273.1013888888889,
+        273.1041666666667,
+        273.1069444444445
+      ],
+      "exact_action_q_per_sample": [
+        0,
+        0,
+        0
+      ],
+      "cache_eligible_per_sample": [
+        false,
+        false,
+        false
+      ],
+      "cache_metadata_note": "Eligibility derived by executing original timing/action functions; prior comparison did not instrument individual cache hits."
+    },
+    {
+      "key": "E03_P07_landscape_274",
+      "time": 274,
+      "changed_channels": 0,
+      "total_channels": 6220800,
+      "changed_fraction": 0,
+      "max_abs_delta": 0,
+      "mean_abs_delta": 0,
+      "psnr_db": null,
+      "pixel_exact": true,
+      "sample_times": [
+        274.00138888888887,
+        274.00416666666666,
+        274.00694444444446
+      ],
+      "exact_action_q_per_sample": [
+        0,
+        0,
+        0
+      ],
+      "cache_eligible_per_sample": [
+        true,
+        true,
+        true
+      ],
+      "cache_metadata_note": "Eligibility derived by executing original timing/action functions; prior comparison did not instrument individual cache hits."
+    },
+    {
+      "key": "E03_P07_landscape_276",
+      "time": 276,
+      "changed_channels": 0,
+      "total_channels": 6220800,
+      "changed_fraction": 0,
+      "max_abs_delta": 0,
+      "mean_abs_delta": 0,
+      "psnr_db": null,
+      "pixel_exact": true,
+      "sample_times": [
+        276.00138888888887,
+        276.00416666666666,
+        276.00694444444446
+      ],
+      "exact_action_q_per_sample": [
+        0.24211746345794524,
+        0.2430251696144471,
+        0.24393391140945203
+      ],
+      "cache_eligible_per_sample": [
+        false,
+        false,
+        false
+      ],
+      "cache_metadata_note": "Eligibility derived by executing original timing/action functions; prior comparison did not instrument individual cache hits."
+    },
+    {
+      "key": "E03_P07_landscape_290",
+      "time": 290,
+      "changed_channels": 0,
+      "total_channels": 6220800,
+      "changed_fraction": 0,
+      "max_abs_delta": 0,
+      "mean_abs_delta": 0,
+      "psnr_db": null,
+      "pixel_exact": true,
+      "sample_times": [
+        290.00138888888887,
+        290.00416666666666,
+        290.00694444444446
+      ],
+      "exact_action_q_per_sample": [
+        1,
+        1,
+        1
+      ],
+      "cache_eligible_per_sample": [
+        true,
+        true,
+        true
+      ],
+      "cache_metadata_note": "Eligibility derived by executing original timing/action functions; prior comparison did not instrument individual cache hits."
+    },
+    {
+      "key": "E03_P07_landscape_310",
+      "time": 310,
+      "changed_channels": 0,
+      "total_channels": 6220800,
+      "changed_fraction": 0,
+      "max_abs_delta": 0,
+      "mean_abs_delta": 0,
+      "psnr_db": null,
+      "pixel_exact": true,
+      "sample_times": [
+        310.00138888888887,
+        310.00416666666666,
+        310.00694444444446
+      ],
+      "exact_action_q_per_sample": [
+        1,
+        1,
+        1
+      ],
+      "cache_eligible_per_sample": [
+        true,
+        true,
+        true
+      ],
+      "cache_metadata_note": "Eligibility derived by executing original timing/action functions; prior comparison did not instrument individual cache hits."
+    },
+    {
+      "key": "E04_P04_landscape_140",
+      "time": 140,
+      "changed_channels": 0,
+      "total_channels": 6220800,
+      "changed_fraction": 0,
+      "max_abs_delta": 0,
+      "mean_abs_delta": 0,
+      "psnr_db": null,
+      "pixel_exact": true,
+      "sample_times": [
+        140.0013888888889,
+        140.00416666666666,
+        140.00694444444446
+      ],
+      "exact_action_q_per_sample": [
+        0.08357750342935531,
+        0.08357750342935531,
+        0.08357750342935531
+      ],
+      "cache_eligible_per_sample": [
+        false,
+        false,
+        false
+      ],
+      "cache_metadata_note": "Eligibility derived by executing original timing/action functions; prior comparison did not instrument individual cache hits."
+    },
+    {
+      "key": "E04_P04_landscape_158",
+      "time": 158,
+      "changed_channels": 0,
+      "total_channels": 6220800,
+      "changed_fraction": 0,
+      "max_abs_delta": 0,
+      "mean_abs_delta": 0,
+      "psnr_db": null,
+      "pixel_exact": true,
+      "sample_times": [
+        158.0013888888889,
+        158.00416666666666,
+        158.00694444444446
+      ],
+      "exact_action_q_per_sample": [
+        0.7582703723843929,
+        0.7585691763356034,
+        0.7588682098581149
+      ],
+      "cache_eligible_per_sample": [
+        false,
+        false,
+        false
+      ],
+      "cache_metadata_note": "Eligibility derived by executing original timing/action functions; prior comparison did not instrument individual cache hits."
+    },
+    {
+      "key": "E04_P04_landscape_182",
+      "time": 182,
+      "changed_channels": 0,
+      "total_channels": 6220800,
+      "changed_fraction": 0,
+      "max_abs_delta": 0,
+      "mean_abs_delta": 0,
+      "psnr_db": null,
+      "pixel_exact": true,
+      "sample_times": [
+        182.0013888888889,
+        182.00416666666666,
+        182.00694444444446
+      ],
+      "exact_action_q_per_sample": [
+        1,
+        1,
+        1
+      ],
+      "cache_eligible_per_sample": [
+        true,
+        true,
+        true
+      ],
+      "cache_metadata_note": "Eligibility derived by executing original timing/action functions; prior comparison did not instrument individual cache hits."
+    },
+    {
+      "key": "E04_P06_landscape_230",
+      "time": 230,
+      "changed_channels": 0,
+      "total_channels": 6220800,
+      "changed_fraction": 0,
+      "max_abs_delta": 0,
+      "mean_abs_delta": 0,
+      "psnr_db": null,
+      "pixel_exact": true,
+      "sample_times": [
+        230.0013888888889,
+        230.00416666666666,
+        230.00694444444446
+      ],
+      "exact_action_q_per_sample": [
+        0,
+        0,
+        0
+      ],
+      "cache_eligible_per_sample": [
+        true,
+        true,
+        true
+      ],
+      "cache_metadata_note": "Eligibility derived by executing original timing/action functions; prior comparison did not instrument individual cache hits."
+    },
+    {
+      "key": "E04_P06_landscape_246",
+      "time": 246,
+      "changed_channels": 0,
+      "total_channels": 6220800,
+      "changed_fraction": 0,
+      "max_abs_delta": 0,
+      "mean_abs_delta": 0,
+      "psnr_db": null,
+      "pixel_exact": true,
+      "sample_times": [
+        246.0013888888889,
+        246.00416666666666,
+        246.00694444444446
+      ],
+      "exact_action_q_per_sample": [
+        0.4705360143838665,
+        0.4715761279477659,
+        0.4726163512242531
+      ],
+      "cache_eligible_per_sample": [
+        false,
+        false,
+        false
+      ],
+      "cache_metadata_note": "Eligibility derived by executing original timing/action functions; prior comparison did not instrument individual cache hits."
+    },
+    {
+      "key": "E04_P06_landscape_255",
+      "time": 255,
+      "changed_channels": 0,
+      "total_channels": 6220800,
+      "changed_fraction": 0,
+      "max_abs_delta": 0,
+      "mean_abs_delta": 0,
+      "psnr_db": null,
+      "pixel_exact": true,
+      "sample_times": [
+        255.0013888888889,
+        255.00416666666666,
+        255.00694444444446
+      ],
+      "exact_action_q_per_sample": [
+        1,
+        1,
+        1
+      ],
+      "cache_eligible_per_sample": [
+        true,
+        true,
+        true
+      ],
+      "cache_metadata_note": "Eligibility derived by executing original timing/action functions; prior comparison did not instrument individual cache hits."
+    },
+    {
+      "key": "E04_P06_landscape_270",
+      "time": 270,
+      "changed_channels": 0,
+      "total_channels": 6220800,
+      "changed_fraction": 0,
+      "max_abs_delta": 0,
+      "mean_abs_delta": 0,
+      "psnr_db": null,
+      "pixel_exact": true,
+      "sample_times": [
+        270.00138888888887,
+        270.00416666666666,
+        270.00694444444446
+      ],
+      "exact_action_q_per_sample": [
+        1,
+        1,
+        1
+      ],
+      "cache_eligible_per_sample": [
+        true,
+        true,
+        true
+      ],
+      "cache_metadata_note": "Eligibility derived by executing original timing/action functions; prior comparison did not instrument individual cache hits."
+    },
+    {
+      "key": "E04_P07_landscape_281",
+      "time": 281,
+      "changed_channels": 0,
+      "total_channels": 6220800,
+      "changed_fraction": 0,
+      "max_abs_delta": 0,
+      "mean_abs_delta": 0,
+      "psnr_db": null,
+      "pixel_exact": true,
+      "sample_times": [
+        281.00138888888887,
+        281.00416666666666,
+        281.00694444444446
+      ],
+      "exact_action_q_per_sample": [
+        0,
+        0,
+        0
+      ],
+      "cache_eligible_per_sample": [
+        true,
+        true,
+        true
+      ],
+      "cache_metadata_note": "Eligibility derived by executing original timing/action functions; prior comparison did not instrument individual cache hits."
+    },
+    {
+      "key": "E04_P07_landscape_286",
+      "time": 286,
+      "changed_channels": 0,
+      "total_channels": 6220800,
+      "changed_fraction": 0,
+      "max_abs_delta": 0,
+      "mean_abs_delta": 0,
+      "psnr_db": null,
+      "pixel_exact": true,
+      "sample_times": [
+        286.00138888888887,
+        286.00416666666666,
+        286.00694444444446
+      ],
+      "exact_action_q_per_sample": [
+        0.2822240667565386,
+        0.2831728493019296,
+        0.28412249387471256
+      ],
+      "cache_eligible_per_sample": [
+        false,
+        false,
+        false
+      ],
+      "cache_metadata_note": "Eligibility derived by executing original timing/action functions; prior comparison did not instrument individual cache hits."
+    },
+    {
+      "key": "E04_P07_landscape_310",
+      "time": 310,
+      "changed_channels": 0,
+      "total_channels": 6220800,
+      "changed_fraction": 0,
+      "max_abs_delta": 0,
+      "mean_abs_delta": 0,
+      "psnr_db": null,
+      "pixel_exact": true,
+      "sample_times": [
+        310.00138888888887,
+        310.00416666666666,
+        310.00694444444446
+      ],
+      "exact_action_q_per_sample": [
+        1,
+        1,
+        1
+      ],
+      "cache_eligible_per_sample": [
+        true,
+        true,
+        true
+      ],
+      "cache_metadata_note": "Eligibility derived by executing original timing/action functions; prior comparison did not instrument individual cache hits."
+    },
+    {
+      "key": "E01_P06_landscape_200",
+      "time": 200,
+      "changed_channels": 0,
+      "total_channels": 6220800,
+      "changed_fraction": 0,
+      "max_abs_delta": 0,
+      "mean_abs_delta": 0,
+      "psnr_db": null,
+      "pixel_exact": true,
+      "sample_times": [
+        200.0013888888889,
+        200.00416666666666,
+        200.00694444444446
+      ],
+      "exact_action_q_per_sample": [
+        null,
+        null,
+        null
+      ],
+      "cache_eligible_per_sample": [
+        false,
+        false,
+        false
+      ],
+      "cache_metadata_note": "Eligibility derived by executing original timing/action functions; prior comparison did not instrument individual cache hits."
+    },
+    {
+      "key": "E03_P07_portrait_273.1",
+      "time": 273.1,
+      "changed_channels": 0,
+      "total_channels": 6220800,
+      "changed_fraction": 0,
+      "max_abs_delta": 0,
+      "mean_abs_delta": 0,
+      "psnr_db": null,
+      "pixel_exact": true,
+      "sample_times": [
+        273.1013888888889,
+        273.1041666666667,
+        273.1069444444445
+      ],
+      "exact_action_q_per_sample": [
+        0,
+        0,
+        0
+      ],
+      "cache_eligible_per_sample": [
+        false,
+        false,
+        false
+      ],
+      "cache_metadata_note": "Eligibility derived by executing original timing/action functions; prior comparison did not instrument individual cache hits."
+    },
+    {
+      "key": "E03_P07_portrait_274",
+      "time": 274,
+      "changed_channels": 0,
+      "total_channels": 6220800,
+      "changed_fraction": 0,
+      "max_abs_delta": 0,
+      "mean_abs_delta": 0,
+      "psnr_db": null,
+      "pixel_exact": true,
+      "sample_times": [
+        274.00138888888887,
+        274.00416666666666,
+        274.00694444444446
+      ],
+      "exact_action_q_per_sample": [
+        0,
+        0,
+        0
+      ],
+      "cache_eligible_per_sample": [
+        true,
+        true,
+        true
+      ],
+      "cache_metadata_note": "Eligibility derived by executing original timing/action functions; prior comparison did not instrument individual cache hits."
+    },
+    {
+      "key": "E03_P07_portrait_276",
+      "time": 276,
+      "changed_channels": 0,
+      "total_channels": 6220800,
+      "changed_fraction": 0,
+      "max_abs_delta": 0,
+      "mean_abs_delta": 0,
+      "psnr_db": null,
+      "pixel_exact": true,
+      "sample_times": [
+        276.00138888888887,
+        276.00416666666666,
+        276.00694444444446
+      ],
+      "exact_action_q_per_sample": [
+        0.24211746345794524,
+        0.2430251696144471,
+        0.24393391140945203
+      ],
+      "cache_eligible_per_sample": [
+        false,
+        false,
+        false
+      ],
+      "cache_metadata_note": "Eligibility derived by executing original timing/action functions; prior comparison did not instrument individual cache hits."
+    },
+    {
+      "key": "E03_P07_portrait_290",
+      "time": 290,
+      "changed_channels": 0,
+      "total_channels": 6220800,
+      "changed_fraction": 0,
+      "max_abs_delta": 0,
+      "mean_abs_delta": 0,
+      "psnr_db": null,
+      "pixel_exact": true,
+      "sample_times": [
+        290.00138888888887,
+        290.00416666666666,
+        290.00694444444446
+      ],
+      "exact_action_q_per_sample": [
+        1,
+        1,
+        1
+      ],
+      "cache_eligible_per_sample": [
+        true,
+        true,
+        true
+      ],
+      "cache_metadata_note": "Eligibility derived by executing original timing/action functions; prior comparison did not instrument individual cache hits."
+    },
+    {
+      "key": "E03_P07_portrait_310",
+      "time": 310,
+      "changed_channels": 0,
+      "total_channels": 6220800,
+      "changed_fraction": 0,
+      "max_abs_delta": 0,
+      "mean_abs_delta": 0,
+      "psnr_db": null,
+      "pixel_exact": true,
+      "sample_times": [
+        310.00138888888887,
+        310.00416666666666,
+        310.00694444444446
+      ],
+      "exact_action_q_per_sample": [
+        1,
+        1,
+        1
+      ],
+      "cache_eligible_per_sample": [
+        true,
+        true,
+        true
+      ],
+      "cache_metadata_note": "Eligibility derived by executing original timing/action functions; prior comparison did not instrument individual cache hits."
+    },
+    {
+      "key": "E04_P04_portrait_140",
+      "time": 140,
+      "changed_channels": 0,
+      "total_channels": 6220800,
+      "changed_fraction": 0,
+      "max_abs_delta": 0,
+      "mean_abs_delta": 0,
+      "psnr_db": null,
+      "pixel_exact": true,
+      "sample_times": [
+        140.0013888888889,
+        140.00416666666666,
+        140.00694444444446
+      ],
+      "exact_action_q_per_sample": [
+        0.08357750342935531,
+        0.08357750342935531,
+        0.08357750342935531
+      ],
+      "cache_eligible_per_sample": [
+        false,
+        false,
+        false
+      ],
+      "cache_metadata_note": "Eligibility derived by executing original timing/action functions; prior comparison did not instrument individual cache hits."
+    },
+    {
+      "key": "E04_P04_portrait_158",
+      "time": 158,
+      "changed_channels": 0,
+      "total_channels": 6220800,
+      "changed_fraction": 0,
+      "max_abs_delta": 0,
+      "mean_abs_delta": 0,
+      "psnr_db": null,
+      "pixel_exact": true,
+      "sample_times": [
+        158.0013888888889,
+        158.00416666666666,
+        158.00694444444446
+      ],
+      "exact_action_q_per_sample": [
+        0.7582703723843929,
+        0.7585691763356034,
+        0.7588682098581149
+      ],
+      "cache_eligible_per_sample": [
+        false,
+        false,
+        false
+      ],
+      "cache_metadata_note": "Eligibility derived by executing original timing/action functions; prior comparison did not instrument individual cache hits."
+    },
+    {
+      "key": "E04_P04_portrait_182",
+      "time": 182,
+      "changed_channels": 0,
+      "total_channels": 6220800,
+      "changed_fraction": 0,
+      "max_abs_delta": 0,
+      "mean_abs_delta": 0,
+      "psnr_db": null,
+      "pixel_exact": true,
+      "sample_times": [
+        182.0013888888889,
+        182.00416666666666,
+        182.00694444444446
+      ],
+      "exact_action_q_per_sample": [
+        1,
+        1,
+        1
+      ],
+      "cache_eligible_per_sample": [
+        true,
+        true,
+        true
+      ],
+      "cache_metadata_note": "Eligibility derived by executing original timing/action functions; prior comparison did not instrument individual cache hits."
+    },
+    {
+      "key": "E04_P06_portrait_230",
+      "time": 230,
+      "changed_channels": 0,
+      "total_channels": 6220800,
+      "changed_fraction": 0,
+      "max_abs_delta": 0,
+      "mean_abs_delta": 0,
+      "psnr_db": null,
+      "pixel_exact": true,
+      "sample_times": [
+        230.0013888888889,
+        230.00416666666666,
+        230.00694444444446
+      ],
+      "exact_action_q_per_sample": [
+        0,
+        0,
+        0
+      ],
+      "cache_eligible_per_sample": [
+        true,
+        true,
+        true
+      ],
+      "cache_metadata_note": "Eligibility derived by executing original timing/action functions; prior comparison did not instrument individual cache hits."
+    },
+    {
+      "key": "E04_P06_portrait_246",
+      "time": 246,
+      "changed_channels": 0,
+      "total_channels": 6220800,
+      "changed_fraction": 0,
+      "max_abs_delta": 0,
+      "mean_abs_delta": 0,
+      "psnr_db": null,
+      "pixel_exact": true,
+      "sample_times": [
+        246.0013888888889,
+        246.00416666666666,
+        246.00694444444446
+      ],
+      "exact_action_q_per_sample": [
+        0.4705360143838665,
+        0.4715761279477659,
+        0.4726163512242531
+      ],
+      "cache_eligible_per_sample": [
+        false,
+        false,
+        false
+      ],
+      "cache_metadata_note": "Eligibility derived by executing original timing/action functions; prior comparison did not instrument individual cache hits."
+    },
+    {
+      "key": "E04_P06_portrait_255",
+      "time": 255,
+      "changed_channels": 0,
+      "total_channels": 6220800,
+      "changed_fraction": 0,
+      "max_abs_delta": 0,
+      "mean_abs_delta": 0,
+      "psnr_db": null,
+      "pixel_exact": true,
+      "sample_times": [
+        255.0013888888889,
+        255.00416666666666,
+        255.00694444444446
+      ],
+      "exact_action_q_per_sample": [
+        1,
+        1,
+        1
+      ],
+      "cache_eligible_per_sample": [
+        true,
+        true,
+        true
+      ],
+      "cache_metadata_note": "Eligibility derived by executing original timing/action functions; prior comparison did not instrument individual cache hits."
+    },
+    {
+      "key": "E04_P06_portrait_270",
+      "time": 270,
+      "changed_channels": 0,
+      "total_channels": 6220800,
+      "changed_fraction": 0,
+      "max_abs_delta": 0,
+      "mean_abs_delta": 0,
+      "psnr_db": null,
+      "pixel_exact": true,
+      "sample_times": [
+        270.00138888888887,
+        270.00416666666666,
+        270.00694444444446
+      ],
+      "exact_action_q_per_sample": [
+        1,
+        1,
+        1
+      ],
+      "cache_eligible_per_sample": [
+        true,
+        true,
+        true
+      ],
+      "cache_metadata_note": "Eligibility derived by executing original timing/action functions; prior comparison did not instrument individual cache hits."
+    },
+    {
+      "key": "E04_P07_portrait_281",
+      "time": 281,
+      "changed_channels": 0,
+      "total_channels": 6220800,
+      "changed_fraction": 0,
+      "max_abs_delta": 0,
+      "mean_abs_delta": 0,
+      "psnr_db": null,
+      "pixel_exact": true,
+      "sample_times": [
+        281.00138888888887,
+        281.00416666666666,
+        281.00694444444446
+      ],
+      "exact_action_q_per_sample": [
+        0,
+        0,
+        0
+      ],
+      "cache_eligible_per_sample": [
+        true,
+        true,
+        true
+      ],
+      "cache_metadata_note": "Eligibility derived by executing original timing/action functions; prior comparison did not instrument individual cache hits."
+    },
+    {
+      "key": "E04_P07_portrait_286",
+      "time": 286,
+      "changed_channels": 0,
+      "total_channels": 6220800,
+      "changed_fraction": 0,
+      "max_abs_delta": 0,
+      "mean_abs_delta": 0,
+      "psnr_db": null,
+      "pixel_exact": true,
+      "sample_times": [
+        286.00138888888887,
+        286.00416666666666,
+        286.00694444444446
+      ],
+      "exact_action_q_per_sample": [
+        0.2822240667565386,
+        0.2831728493019296,
+        0.28412249387471256
+      ],
+      "cache_eligible_per_sample": [
+        false,
+        false,
+        false
+      ],
+      "cache_metadata_note": "Eligibility derived by executing original timing/action functions; prior comparison did not instrument individual cache hits."
+    },
+    {
+      "key": "E04_P07_portrait_310",
+      "time": 310,
+      "changed_channels": 0,
+      "total_channels": 6220800,
+      "changed_fraction": 0,
+      "max_abs_delta": 0,
+      "mean_abs_delta": 0,
+      "psnr_db": null,
+      "pixel_exact": true,
+      "sample_times": [
+        310.00138888888887,
+        310.00416666666666,
+        310.00694444444446
+      ],
+      "exact_action_q_per_sample": [
+        1,
+        1,
+        1
+      ],
+      "cache_eligible_per_sample": [
+        true,
+        true,
+        true
+      ],
+      "cache_metadata_note": "Eligibility derived by executing original timing/action functions; prior comparison did not instrument individual cache hits."
+    },
+    {
+      "key": "E01_P06_portrait_200",
+      "time": 200,
+      "changed_channels": 0,
+      "total_channels": 6220800,
+      "changed_fraction": 0,
+      "max_abs_delta": 0,
+      "mean_abs_delta": 0,
+      "psnr_db": null,
+      "pixel_exact": true,
+      "sample_times": [
+        200.0013888888889,
+        200.00416666666666,
+        200.00694444444446
+      ],
+      "exact_action_q_per_sample": [
+        null,
+        null,
+        null
+      ],
+      "cache_eligible_per_sample": [
+        false,
+        false,
+        false
+      ],
+      "cache_metadata_note": "Eligibility derived by executing original timing/action functions; prior comparison did not instrument individual cache hits."
+    },
+    {
+      "key": "E03_P07_landscape_274.71666666666664",
+      "time": 274.71666666666664,
+      "changed_channels": 0,
+      "total_channels": 6220800,
+      "changed_fraction": 0,
+      "max_abs_delta": 0,
+      "mean_abs_delta": 0,
+      "psnr_db": null,
+      "pixel_exact": true,
+      "sample_times": [
+        274.7180555555555,
+        274.7208333333333,
+        274.7236111111111
+      ],
+      "exact_action_q_per_sample": [
+        0,
+        1.301902488423558e-7,
+        0.000002443551606459806
+      ],
+      "cache_eligible_per_sample": [
+        true,
+        false,
+        false
+      ]
+    },
+    {
+      "key": "E03_P07_landscape_274.73333333333335",
+      "time": 274.73333333333335,
+      "changed_channels": 0,
+      "total_channels": 6220800,
+      "changed_fraction": 0,
+      "max_abs_delta": 0,
+      "mean_abs_delta": 0,
+      "psnr_db": null,
+      "pixel_exact": true,
+      "sample_times": [
+        274.7347222222222,
+        274.7375,
+        274.7402777777778
+      ],
+      "exact_action_q_per_sample": [
+        0.0000405397503805789,
+        0.000057254394531517405,
+        0.00007683723891397126
+      ],
+      "cache_eligible_per_sample": [
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "key": "E03_P07_landscape_278.71666666666664",
+      "time": 278.71666666666664,
+      "changed_channels": 0,
+      "total_channels": 6220800,
+      "changed_fraction": 0,
+      "max_abs_delta": 0,
+      "mean_abs_delta": 0,
+      "psnr_db": null,
+      "pixel_exact": true,
+      "sample_times": [
+        278.7180555555555,
+        278.7208333333333,
+        278.7236111111111
+      ],
+      "exact_action_q_per_sample": [
+        0.9999992913177029,
+        1,
+        1
+      ],
+      "cache_eligible_per_sample": [
+        false,
+        true,
+        true
+      ]
+    },
+    {
+      "key": "E03_P07_landscape_278.73333333333335",
+      "time": 278.73333333333335,
+      "changed_channels": 0,
+      "total_channels": 6220800,
+      "changed_fraction": 0,
+      "max_abs_delta": 0,
+      "mean_abs_delta": 0,
+      "psnr_db": null,
+      "pixel_exact": true,
+      "sample_times": [
+        278.7347222222222,
+        278.7375,
+        278.7402777777778
+      ],
+      "exact_action_q_per_sample": [
+        1,
+        1,
+        1
+      ],
+      "cache_eligible_per_sample": [
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "key": "E04_P04_landscape_137.43333333333334",
+      "time": 137.43333333333334,
+      "changed_channels": 0,
+      "total_channels": 6220800,
+      "changed_fraction": 0,
+      "max_abs_delta": 0,
+      "mean_abs_delta": 0,
+      "psnr_db": null,
+      "pixel_exact": true,
+      "sample_times": [
+        137.43472222222223,
+        137.4375,
+        137.4402777777778
+      ],
+      "exact_action_q_per_sample": [
+        1.7794174540135056e-8,
+        2.4860616133743077e-7,
+        7.470914419516753e-7
+      ],
+      "cache_eligible_per_sample": [
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "key": "E04_P04_landscape_137.45",
+      "time": 137.45,
+      "changed_channels": 0,
+      "total_channels": 6220800,
+      "changed_fraction": 0,
+      "max_abs_delta": 0,
+      "mean_abs_delta": 0,
+      "psnr_db": null,
+      "pixel_exact": true,
+      "sample_times": [
+        137.45138888888889,
+        137.45416666666665,
+        137.45694444444445
+      ],
+      "exact_action_q_per_sample": [
+        0.00000544087000269304,
+        0.000007295003800127314,
+        0.00000942368652533117
+      ],
+      "cache_eligible_per_sample": [
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "key": "E04_P04_landscape_168.91666666666666",
+      "time": 168.91666666666666,
+      "changed_channels": 0,
+      "total_channels": 6220800,
+      "changed_fraction": 0,
+      "max_abs_delta": 0,
+      "mean_abs_delta": 0,
+      "psnr_db": null,
+      "pixel_exact": true,
+      "sample_times": [
+        168.91805555555555,
+        168.92083333333332,
+        168.92361111111111
+      ],
+      "exact_action_q_per_sample": [
+        0.9999955326689933,
+        0.9999971098992644,
+        0.9999983442635275
+      ],
+      "cache_eligible_per_sample": [
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "key": "E04_P04_landscape_168.93333333333334",
+      "time": 168.93333333333334,
+      "changed_channels": 0,
+      "total_channels": 6220800,
+      "changed_fraction": 0,
+      "max_abs_delta": 0,
+      "mean_abs_delta": 0,
+      "psnr_db": null,
+      "pixel_exact": true,
+      "sample_times": [
+        168.93472222222223,
+        168.9375,
+        168.9402777777778
+      ],
+      "exact_action_q_per_sample": [
+        1,
+        1,
+        1
+      ],
+      "cache_eligible_per_sample": [
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "key": "E04_P06_landscape_244.06666666666666",
+      "time": 244.06666666666666,
+      "changed_channels": 0,
+      "total_channels": 6220800,
+      "changed_fraction": 0,
+      "max_abs_delta": 0,
+      "mean_abs_delta": 0,
+      "psnr_db": null,
+      "pixel_exact": true,
+      "sample_times": [
+        244.06805555555556,
+        244.07083333333333,
+        244.07361111111112
+      ],
+      "exact_action_q_per_sample": [
+        0,
+        0,
+        0
+      ],
+      "cache_eligible_per_sample": [
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "key": "E04_P06_landscape_244.08333333333334",
+      "time": 244.08333333333334,
+      "changed_channels": 0,
+      "total_channels": 6220800,
+      "changed_fraction": 0,
+      "max_abs_delta": 0,
+      "mean_abs_delta": 0,
+      "psnr_db": null,
+      "pixel_exact": true,
+      "sample_times": [
+        244.08472222222224,
+        244.0875,
+        244.0902777777778
+      ],
+      "exact_action_q_per_sample": [
+        0.000004177843551749558,
+        0.000010533691406230851,
+        0.000019772207084870583
+      ],
+      "cache_eligible_per_sample": [
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "key": "E04_P06_landscape_248.06666666666666",
+      "time": 248.06666666666666,
+      "changed_channels": 0,
+      "total_channels": 6220800,
+      "changed_fraction": 0,
+      "max_abs_delta": 0,
+      "mean_abs_delta": 0,
+      "psnr_db": null,
+      "pixel_exact": true,
+      "sample_times": [
+        248.06805555555556,
+        248.07083333333333,
+        248.07361111111112
+      ],
+      "exact_action_q_per_sample": [
+        0.9999733026747631,
+        0.9999842688621238,
+        0.9999923547929259
+      ],
+      "cache_eligible_per_sample": [
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "key": "E04_P06_landscape_248.08333333333334",
+      "time": 248.08333333333334,
+      "changed_channels": 0,
+      "total_channels": 6220800,
+      "changed_fraction": 0,
+      "max_abs_delta": 0,
+      "mean_abs_delta": 0,
+      "psnr_db": null,
+      "pixel_exact": true,
+      "sample_times": [
+        248.08472222222224,
+        248.0875,
+        248.0902777777778
+      ],
+      "exact_action_q_per_sample": [
+        1,
+        1,
+        1
+      ],
+      "cache_eligible_per_sample": [
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "key": "E04_P07_landscape_284.6",
+      "time": 284.6,
+      "changed_channels": 0,
+      "total_channels": 6220800,
+      "changed_fraction": 0,
+      "max_abs_delta": 0,
+      "mean_abs_delta": 0,
+      "psnr_db": null,
+      "pixel_exact": true,
+      "sample_times": [
+        284.6013888888889,
+        284.6041666666667,
+        284.6069444444445
+      ],
+      "exact_action_q_per_sample": [
+        3.616060903101218e-7,
+        0.0000032529477719848257,
+        0.000009031779808631946
+      ],
+      "cache_eligible_per_sample": [
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "key": "E04_P07_landscape_284.6166666666667",
+      "time": 284.6166666666667,
+      "changed_channels": 0,
+      "total_channels": 6220800,
+      "changed_fraction": 0,
+      "max_abs_delta": 0,
+      "mean_abs_delta": 0,
+      "psnr_db": null,
+      "pixel_exact": true,
+      "sample_times": [
+        284.61805555555554,
+        284.62083333333334,
+        284.62361111111113
+      ],
+      "exact_action_q_per_sample": [
+        0.0000609416359897736,
+        0.000081097638165362,
+        0.00010411701804160156
+      ],
+      "cache_eligible_per_sample": [
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "key": "E04_P07_landscape_288.5833333333333",
+      "time": 288.5833333333333,
+      "changed_channels": 0,
+      "total_channels": 6220800,
+      "changed_fraction": 0,
+      "max_abs_delta": 0,
+      "mean_abs_delta": 0,
+      "psnr_db": null,
+      "pixel_exact": true,
+      "sample_times": [
+        288.5847222222222,
+        288.5875,
+        288.59027777777777
+      ],
+      "exact_action_q_per_sample": [
+        0.9999563469697088,
+        0.9999707641601561,
+        0.9999823059165756
+      ],
+      "cache_eligible_per_sample": [
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "key": "E04_P07_landscape_288.6",
+      "time": 288.6,
+      "changed_channels": 0,
+      "total_channels": 6220800,
+      "changed_fraction": 0,
+      "max_abs_delta": 0,
+      "mean_abs_delta": 0,
+      "psnr_db": null,
+      "pixel_exact": true,
+      "sample_times": [
+        288.6013888888889,
+        288.6041666666667,
+        288.6069444444445
+      ],
+      "exact_action_q_per_sample": [
+        1,
+        1,
+        1
+      ],
+      "cache_eligible_per_sample": [
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "key": "E03_P07_portrait_274.71666666666664",
+      "time": 274.71666666666664,
+      "changed_channels": 0,
+      "total_channels": 6220800,
+      "changed_fraction": 0,
+      "max_abs_delta": 0,
+      "mean_abs_delta": 0,
+      "psnr_db": null,
+      "pixel_exact": true,
+      "sample_times": [
+        274.7180555555555,
+        274.7208333333333,
+        274.7236111111111
+      ],
+      "exact_action_q_per_sample": [
+        0,
+        1.301902488423558e-7,
+        0.000002443551606459806
+      ],
+      "cache_eligible_per_sample": [
+        true,
+        false,
+        false
+      ]
+    },
+    {
+      "key": "E03_P07_portrait_274.73333333333335",
+      "time": 274.73333333333335,
+      "changed_channels": 0,
+      "total_channels": 6220800,
+      "changed_fraction": 0,
+      "max_abs_delta": 0,
+      "mean_abs_delta": 0,
+      "psnr_db": null,
+      "pixel_exact": true,
+      "sample_times": [
+        274.7347222222222,
+        274.7375,
+        274.7402777777778
+      ],
+      "exact_action_q_per_sample": [
+        0.0000405397503805789,
+        0.000057254394531517405,
+        0.00007683723891397126
+      ],
+      "cache_eligible_per_sample": [
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "key": "E03_P07_portrait_278.71666666666664",
+      "time": 278.71666666666664,
+      "changed_channels": 0,
+      "total_channels": 6220800,
+      "changed_fraction": 0,
+      "max_abs_delta": 0,
+      "mean_abs_delta": 0,
+      "psnr_db": null,
+      "pixel_exact": true,
+      "sample_times": [
+        278.7180555555555,
+        278.7208333333333,
+        278.7236111111111
+      ],
+      "exact_action_q_per_sample": [
+        0.9999992913177029,
+        1,
+        1
+      ],
+      "cache_eligible_per_sample": [
+        false,
+        true,
+        true
+      ]
+    },
+    {
+      "key": "E03_P07_portrait_278.73333333333335",
+      "time": 278.73333333333335,
+      "changed_channels": 0,
+      "total_channels": 6220800,
+      "changed_fraction": 0,
+      "max_abs_delta": 0,
+      "mean_abs_delta": 0,
+      "psnr_db": null,
+      "pixel_exact": true,
+      "sample_times": [
+        278.7347222222222,
+        278.7375,
+        278.7402777777778
+      ],
+      "exact_action_q_per_sample": [
+        1,
+        1,
+        1
+      ],
+      "cache_eligible_per_sample": [
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "key": "E04_P04_portrait_137.43333333333334",
+      "time": 137.43333333333334,
+      "changed_channels": 0,
+      "total_channels": 6220800,
+      "changed_fraction": 0,
+      "max_abs_delta": 0,
+      "mean_abs_delta": 0,
+      "psnr_db": null,
+      "pixel_exact": true,
+      "sample_times": [
+        137.43472222222223,
+        137.4375,
+        137.4402777777778
+      ],
+      "exact_action_q_per_sample": [
+        1.7794174540135056e-8,
+        2.4860616133743077e-7,
+        7.470914419516753e-7
+      ],
+      "cache_eligible_per_sample": [
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "key": "E04_P04_portrait_137.45",
+      "time": 137.45,
+      "changed_channels": 0,
+      "total_channels": 6220800,
+      "changed_fraction": 0,
+      "max_abs_delta": 0,
+      "mean_abs_delta": 0,
+      "psnr_db": null,
+      "pixel_exact": true,
+      "sample_times": [
+        137.45138888888889,
+        137.45416666666665,
+        137.45694444444445
+      ],
+      "exact_action_q_per_sample": [
+        0.00000544087000269304,
+        0.000007295003800127314,
+        0.00000942368652533117
+      ],
+      "cache_eligible_per_sample": [
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "key": "E04_P04_portrait_168.91666666666666",
+      "time": 168.91666666666666,
+      "changed_channels": 0,
+      "total_channels": 6220800,
+      "changed_fraction": 0,
+      "max_abs_delta": 0,
+      "mean_abs_delta": 0,
+      "psnr_db": null,
+      "pixel_exact": true,
+      "sample_times": [
+        168.91805555555555,
+        168.92083333333332,
+        168.92361111111111
+      ],
+      "exact_action_q_per_sample": [
+        0.9999955326689933,
+        0.9999971098992644,
+        0.9999983442635275
+      ],
+      "cache_eligible_per_sample": [
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "key": "E04_P04_portrait_168.93333333333334",
+      "time": 168.93333333333334,
+      "changed_channels": 0,
+      "total_channels": 6220800,
+      "changed_fraction": 0,
+      "max_abs_delta": 0,
+      "mean_abs_delta": 0,
+      "psnr_db": null,
+      "pixel_exact": true,
+      "sample_times": [
+        168.93472222222223,
+        168.9375,
+        168.9402777777778
+      ],
+      "exact_action_q_per_sample": [
+        1,
+        1,
+        1
+      ],
+      "cache_eligible_per_sample": [
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "key": "E04_P06_portrait_244.06666666666666",
+      "time": 244.06666666666666,
+      "changed_channels": 0,
+      "total_channels": 6220800,
+      "changed_fraction": 0,
+      "max_abs_delta": 0,
+      "mean_abs_delta": 0,
+      "psnr_db": null,
+      "pixel_exact": true,
+      "sample_times": [
+        244.06805555555556,
+        244.07083333333333,
+        244.07361111111112
+      ],
+      "exact_action_q_per_sample": [
+        0,
+        0,
+        0
+      ],
+      "cache_eligible_per_sample": [
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "key": "E04_P06_portrait_244.08333333333334",
+      "time": 244.08333333333334,
+      "changed_channels": 0,
+      "total_channels": 6220800,
+      "changed_fraction": 0,
+      "max_abs_delta": 0,
+      "mean_abs_delta": 0,
+      "psnr_db": null,
+      "pixel_exact": true,
+      "sample_times": [
+        244.08472222222224,
+        244.0875,
+        244.0902777777778
+      ],
+      "exact_action_q_per_sample": [
+        0.000004177843551749558,
+        0.000010533691406230851,
+        0.000019772207084870583
+      ],
+      "cache_eligible_per_sample": [
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "key": "E04_P06_portrait_248.06666666666666",
+      "time": 248.06666666666666,
+      "changed_channels": 0,
+      "total_channels": 6220800,
+      "changed_fraction": 0,
+      "max_abs_delta": 0,
+      "mean_abs_delta": 0,
+      "psnr_db": null,
+      "pixel_exact": true,
+      "sample_times": [
+        248.06805555555556,
+        248.07083333333333,
+        248.07361111111112
+      ],
+      "exact_action_q_per_sample": [
+        0.9999733026747631,
+        0.9999842688621238,
+        0.9999923547929259
+      ],
+      "cache_eligible_per_sample": [
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "key": "E04_P06_portrait_248.08333333333334",
+      "time": 248.08333333333334,
+      "changed_channels": 0,
+      "total_channels": 6220800,
+      "changed_fraction": 0,
+      "max_abs_delta": 0,
+      "mean_abs_delta": 0,
+      "psnr_db": null,
+      "pixel_exact": true,
+      "sample_times": [
+        248.08472222222224,
+        248.0875,
+        248.0902777777778
+      ],
+      "exact_action_q_per_sample": [
+        1,
+        1,
+        1
+      ],
+      "cache_eligible_per_sample": [
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "key": "E04_P07_portrait_284.6",
+      "time": 284.6,
+      "changed_channels": 0,
+      "total_channels": 6220800,
+      "changed_fraction": 0,
+      "max_abs_delta": 0,
+      "mean_abs_delta": 0,
+      "psnr_db": null,
+      "pixel_exact": true,
+      "sample_times": [
+        284.6013888888889,
+        284.6041666666667,
+        284.6069444444445
+      ],
+      "exact_action_q_per_sample": [
+        3.616060903101218e-7,
+        0.0000032529477719848257,
+        0.000009031779808631946
+      ],
+      "cache_eligible_per_sample": [
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "key": "E04_P07_portrait_284.6166666666667",
+      "time": 284.6166666666667,
+      "changed_channels": 0,
+      "total_channels": 6220800,
+      "changed_fraction": 0,
+      "max_abs_delta": 0,
+      "mean_abs_delta": 0,
+      "psnr_db": null,
+      "pixel_exact": true,
+      "sample_times": [
+        284.61805555555554,
+        284.62083333333334,
+        284.62361111111113
+      ],
+      "exact_action_q_per_sample": [
+        0.0000609416359897736,
+        0.000081097638165362,
+        0.00010411701804160156
+      ],
+      "cache_eligible_per_sample": [
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "key": "E04_P07_portrait_288.5833333333333",
+      "time": 288.5833333333333,
+      "changed_channels": 0,
+      "total_channels": 6220800,
+      "changed_fraction": 0,
+      "max_abs_delta": 0,
+      "mean_abs_delta": 0,
+      "psnr_db": null,
+      "pixel_exact": true,
+      "sample_times": [
+        288.5847222222222,
+        288.5875,
+        288.59027777777777
+      ],
+      "exact_action_q_per_sample": [
+        0.9999563469697088,
+        0.9999707641601561,
+        0.9999823059165756
+      ],
+      "cache_eligible_per_sample": [
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "key": "E04_P07_portrait_288.6",
+      "time": 288.6,
+      "changed_channels": 0,
+      "total_channels": 6220800,
+      "changed_fraction": 0,
+      "max_abs_delta": 0,
+      "mean_abs_delta": 0,
+      "psnr_db": null,
+      "pixel_exact": true,
+      "sample_times": [
+        288.6013888888889,
+        288.6041666666667,
+        288.6069444444445
+      ],
+      "exact_action_q_per_sample": [
+        1,
+        1,
+        1
+      ],
+      "cache_eligible_per_sample": [
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "key": "E04_P04_landscape_137.41666666666666",
+      "time": 137.41666666666666,
+      "changed_channels": 0,
+      "total_channels": 6220800,
+      "changed_fraction": 0,
+      "max_abs_delta": 0,
+      "mean_abs_delta": 0,
+      "psnr_db": null,
+      "pixel_exact": true,
+      "sample_times": [
+        137.41805555555555,
+        137.42083333333332,
+        137.42361111111111
+      ],
+      "exact_action_q_per_sample": [
+        0,
+        0,
+        0
+      ],
+      "cache_eligible_per_sample": [
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "key": "E04_P04_portrait_137.41666666666666",
+      "time": 137.41666666666666,
+      "changed_channels": 0,
+      "total_channels": 6220800,
+      "changed_fraction": 0,
+      "max_abs_delta": 0,
+      "mean_abs_delta": 0,
+      "psnr_db": null,
+      "pixel_exact": true,
+      "sample_times": [
+        137.41805555555555,
+        137.42083333333332,
+        137.42361111111111
+      ],
+      "exact_action_q_per_sample": [
+        0,
+        0,
+        0
+      ],
+      "cache_eligible_per_sample": [
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "key": "E03_P07_landscape_274.7",
+      "time": 274.7,
+      "changed_channels": 0,
+      "total_channels": 6220800,
+      "changed_fraction": 0,
+      "max_abs_delta": 0,
+      "mean_abs_delta": 0,
+      "psnr_db": null,
+      "pixel_exact": true,
+      "sample_times": [
+        274.70138888888886,
+        274.70416666666665,
+        274.70694444444445
+      ],
+      "exact_action_q_per_sample": [
+        0,
+        0,
+        0
+      ],
+      "cache_eligible_per_sample": [
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "key": "E03_P07_landscape_278.7",
+      "time": 278.7,
+      "changed_channels": 0,
+      "total_channels": 6220800,
+      "changed_fraction": 0,
+      "max_abs_delta": 0,
+      "mean_abs_delta": 0,
+      "psnr_db": null,
+      "pixel_exact": true,
+      "sample_times": [
+        278.70138888888886,
+        278.70416666666665,
+        278.70694444444445
+      ],
+      "exact_action_q_per_sample": [
+        0.9999352564266921,
+        0.9999531188331888,
+        0.9999681106281884
+      ],
+      "cache_eligible_per_sample": [
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "key": "E04_P07_landscape_284.5833333333333",
+      "time": 284.5833333333333,
+      "changed_channels": 0,
+      "total_channels": 6220800,
+      "changed_fraction": 0,
+      "max_abs_delta": 0,
+      "mean_abs_delta": 0,
+      "psnr_db": null,
+      "pixel_exact": true,
+      "sample_times": [
+        284.5847222222222,
+        284.5875,
+        284.59027777777777
+      ],
+      "exact_action_q_per_sample": [
+        0,
+        0,
+        0
+      ],
+      "cache_eligible_per_sample": [
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "key": "E04_P07_landscape_288.56666666666666",
+      "time": 288.56666666666666,
+      "changed_channels": 0,
+      "total_channels": 6220800,
+      "changed_fraction": 0,
+      "max_abs_delta": 0,
+      "mean_abs_delta": 0,
+      "psnr_db": null,
+      "pixel_exact": true,
+      "sample_times": [
+        288.56805555555553,
+        288.5708333333333,
+        288.5736111111111
+      ],
+      "exact_action_q_per_sample": [
+        0.999809684763883,
+        0.9998412701642069,
+        0.9998700042431572
+      ],
+      "cache_eligible_per_sample": [
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "key": "E03_P07_portrait_274.7",
+      "time": 274.7,
+      "changed_channels": 0,
+      "total_channels": 6220800,
+      "changed_fraction": 0,
+      "max_abs_delta": 0,
+      "mean_abs_delta": 0,
+      "psnr_db": null,
+      "pixel_exact": true,
+      "sample_times": [
+        274.70138888888886,
+        274.70416666666665,
+        274.70694444444445
+      ],
+      "exact_action_q_per_sample": [
+        0,
+        0,
+        0
+      ],
+      "cache_eligible_per_sample": [
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "key": "E03_P07_portrait_278.7",
+      "time": 278.7,
+      "changed_channels": 0,
+      "total_channels": 6220800,
+      "changed_fraction": 0,
+      "max_abs_delta": 0,
+      "mean_abs_delta": 0,
+      "psnr_db": null,
+      "pixel_exact": true,
+      "sample_times": [
+        278.70138888888886,
+        278.70416666666665,
+        278.70694444444445
+      ],
+      "exact_action_q_per_sample": [
+        0.9999352564266921,
+        0.9999531188331888,
+        0.9999681106281884
+      ],
+      "cache_eligible_per_sample": [
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "key": "E04_P07_portrait_284.5833333333333",
+      "time": 284.5833333333333,
+      "changed_channels": 0,
+      "total_channels": 6220800,
+      "changed_fraction": 0,
+      "max_abs_delta": 0,
+      "mean_abs_delta": 0,
+      "psnr_db": null,
+      "pixel_exact": true,
+      "sample_times": [
+        284.5847222222222,
+        284.5875,
+        284.59027777777777
+      ],
+      "exact_action_q_per_sample": [
+        0,
+        0,
+        0
+      ],
+      "cache_eligible_per_sample": [
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "key": "E04_P07_portrait_288.56666666666666",
+      "time": 288.56666666666666,
+      "changed_channels": 0,
+      "total_channels": 6220800,
+      "changed_fraction": 0,
+      "max_abs_delta": 0,
+      "mean_abs_delta": 0,
+      "psnr_db": null,
+      "pixel_exact": true,
+      "sample_times": [
+        288.56805555555553,
+        288.5708333333333,
+        288.5736111111111
+      ],
+      "exact_action_q_per_sample": [
+        0.999809684763883,
+        0.9998412701642069,
+        0.9998700042431572
+      ],
+      "cache_eligible_per_sample": [
+        false,
+        false,
+        false
+      ]
+    }
+  ],
+  "benchmarks": [
+    {
+      "ep": "E03",
+      "layout": "portrait",
+      "t": 290,
+      "baseline_average_of_before_after_medians_ms": 74.625,
+      "candidate_median_ms": 25.40000000130385,
+      "draw_time_reduction_percent": 65.96314907697976
+    },
+    {
+      "ep": "E03",
+      "layout": "landscape",
+      "t": 290,
+      "baseline_average_of_before_after_medians_ms": 78.625,
+      "candidate_median_ms": 21.149999999441206,
+      "draw_time_reduction_percent": 73.10015898322263
+    },
+    {
+      "ep": "E04",
+      "layout": "portrait",
+      "t": 255,
+      "baseline_average_of_before_after_medians_ms": 77.02500000037253,
+      "candidate_median_ms": 24.700000000186265,
+      "draw_time_reduction_percent": 67.93248945139007
+    },
+    {
+      "ep": "E04",
+      "layout": "portrait",
+      "t": 310,
+      "baseline_average_of_before_after_medians_ms": 61.35000000009313,
+      "candidate_median_ms": 21.199999999254942,
+      "draw_time_reduction_percent": 65.444172780403
+    }
+  ]
+}

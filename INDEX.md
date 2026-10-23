@@ -70,3 +70,8 @@ IDs never change or get reused. New occurrence of same mechanism links the origi
 
 ## EP031 clarity rebuild and invalidated earlier pass
 | [MOKI-EP031-CLARITY-V4](entries/MOKI-EP031-CLARITY-V4.md) | creative/audio/geometry/verification | EP031 | User rejection, readable causal acting, recorded semantic sound, failed musicduck and final scoped tests | validated_with_limits |
+
+## Prophets stories production audit — 2026-10-24
+
+[12 evidence-backed records, including unresolved leads and preventive constraints](entries/PROPHETS-20261024-AUDIT.md). These are not 12 confirmed drawing defects. Full visible conversation and recovered source QA reviewed; failed export trials, rejected optimizations and review limitations retained.
+

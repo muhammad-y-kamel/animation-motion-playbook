@@ -1,0 +1,195 @@
+{
+  "source_library_file_id": "libfile_7b95c3aa9eb4819181ff99fe96bb7bde",
+  "source_package": "Editable_Motion_Source.zip",
+  "files": [
+    {
+      "path": "Motion/Batch_Render_Instructions.txt",
+      "bytes": 13922,
+      "sha256": "4db696f3a1485637054d6a0c406b43acb43d7b26d5c8127c5d5908f970feb736",
+      "source_sha256": "4db696f3a1485637054d6a0c406b43acb43d7b26d5c8127c5d5908f970feb736",
+      "redacted": false
+    },
+    {
+      "path": "Motion/Evidence_And_Shot_Notes.txt",
+      "bytes": 22773,
+      "sha256": "edc49267b950dc9648c7f7e5eb9ff0bda973303a8f70dcb60ae38ba7fd8fc846",
+      "source_sha256": "edc49267b950dc9648c7f7e5eb9ff0bda973303a8f70dcb60ae38ba7fd8fc846",
+      "redacted": false
+    },
+    {
+      "path": "Motion/QA/Framework_QA.json",
+      "bytes": 19144,
+      "sha256": "6f256139c47b31f5c06db76dfadd95c2ab1f2b60c3e5aa709ace49857f685811",
+      "source_sha256": "6f256139c47b31f5c06db76dfadd95c2ab1f2b60c3e5aa709ace49857f685811",
+      "redacted": false
+    },
+    {
+      "path": "Motion/QA/Source_Freeze_QA.json",
+      "bytes": 57580,
+      "sha256": "fd3c23178ea35a41cb2a1b914875a7c69014e2193c05289fad617795794b7ad0",
+      "source_sha256": "fd3c23178ea35a41cb2a1b914875a7c69014e2193c05289fad617795794b7ad0",
+      "redacted": false
+    },
+    {
+      "path": "Motion/QA/Final_Production_Completion.json",
+      "bytes": 35501,
+      "sha256": "83f1ec6507e2ca529939b1d9b88762a977c949a8d999d2166dbf3fbbb36264d9",
+      "source_sha256": "83f1ec6507e2ca529939b1d9b88762a977c949a8d999d2166dbf3fbbb36264d9",
+      "redacted": false
+    },
+    {
+      "path": "Motion/QA/Checkpoint_Repair_E01_P03/Writer_Code_Review.txt",
+      "bytes": 3278,
+      "sha256": "e3f19564fc805d1ba26bc8a0010d7e1ae5507eafbb4c08466a27bf783b3d1cfd",
+      "source_sha256": "e3f19564fc805d1ba26bc8a0010d7e1ae5507eafbb4c08466a27bf783b3d1cfd",
+      "redacted": false
+    },
+    {
+      "path": "Motion/QA/Checkpoint_Repair_E01_P03/Repair_Record.json",
+      "bytes": 4101,
+      "sha256": "80197e0cdd168a8f42d85a27f3bdef5d0c8cef73a55d676f9ed942cf49b67778",
+      "source_sha256": "80197e0cdd168a8f42d85a27f3bdef5d0c8cef73a55d676f9ed942cf49b67778",
+      "redacted": false
+    },
+    {
+      "path": "Motion/QA/Checkpoint_Header_Audit_20261023.json",
+      "bytes": 9602,
+      "sha256": "2eab40eaac5d8d063ebf50940c414bc2867a9083a2bfff0c9c113ddab828e561",
+      "source_sha256": "2eab40eaac5d8d063ebf50940c414bc2867a9083a2bfff0c9c113ddab828e561",
+      "redacted": false
+    },
+    {
+      "path": "Motion/QA/Checkpoint_Postcommit_QA.json",
+      "bytes": 205534,
+      "sha256": "93adc589f30816429937de91b8bffaaa07f01eeafd833c86d6672754e35a982a",
+      "source_sha256": "93adc589f30816429937de91b8bffaaa07f01eeafd833c86d6672754e35a982a",
+      "redacted": false
+    },
+    {
+      "path": "Motion/QA/E01_Concat_Diagnostic.json",
+      "bytes": 2943,
+      "sha256": "1066134008dba986c64b90f8dc01be32a765ff8be3752e795e710bd0884d3dad",
+      "source_sha256": "1066134008dba986c64b90f8dc01be32a765ff8be3752e795e710bd0884d3dad",
+      "redacted": false
+    },
+    {
+      "path": "Motion/QA/Mux_Recovery/Recovery_Note.json",
+      "bytes": 808,
+      "sha256": "5188986f4389994afa715ff85503bde7bff1b9f679ff947163a74b6617485029",
+      "source_sha256": "5188986f4389994afa715ff85503bde7bff1b9f679ff947163a74b6617485029",
+      "redacted": false
+    },
+    {
+      "path": "Motion/QA/E01_P08_Mux_Diagnostic.json",
+      "bytes": 3713,
+      "sha256": "e838c761f884a67402484e0d7ed984a4e8b7df26bc952a0e44138bd99584dbc6",
+      "source_sha256": "e838c761f884a67402484e0d7ed984a4e8b7df26bc952a0e44138bd99584dbc6",
+      "redacted": false
+    },
+    {
+      "path": "Motion/QA/Resource_Interruption_E03_P09/Recovery_Record.json",
+      "bytes": 7478,
+      "sha256": "10c80d7a7ef26a4698028f0696d7f7fc79e0a3abde511bc4c44eb09ad47d7d65",
+      "source_sha256": "10c80d7a7ef26a4698028f0696d7f7fc79e0a3abde511bc4c44eb09ad47d7d65",
+      "redacted": false
+    },
+    {
+      "path": "Motion/QA/WebCodecs_Assessment.json",
+      "bytes": 6269,
+      "sha256": "73609fdc35ed220b242f79da4c80365b63ba799e34f878882d00e3b0c80df58f",
+      "source_sha256": "73609fdc35ed220b242f79da4c80365b63ba799e34f878882d00e3b0c80df58f",
+      "redacted": false
+    },
+    {
+      "path": "Motion/QA/WebCodecs_Benchmark/Initial_Quality_Comparison.json",
+      "bytes": 1346,
+      "sha256": "4b1d38326075393e73aa1ce6a84296509d1149b8c305153376281f3b4ede9dfc",
+      "source_sha256": "4b1d38326075393e73aa1ce6a84296509d1149b8c305153376281f3b4ede9dfc",
+      "redacted": false
+    },
+    {
+      "path": "Motion/QA/WebCodecs_Benchmark/I420_Quality_Comparison.json",
+      "bytes": 605,
+      "sha256": "8a525f02090ac29cd2a9bb0e4d2414c00d5da5d119776e6c3e849acae93cf000",
+      "source_sha256": "8a525f02090ac29cd2a9bb0e4d2414c00d5da5d119776e6c3e849acae93cf000",
+      "redacted": false
+    },
+    {
+      "path": "Motion/QA/Single_Pass_Mux_Adoption.json",
+      "bytes": 7491,
+      "sha256": "8e198755f9d9b94e7ca698fd5da98a0a021d594f6fe33df96dafbeb1bb0bb67a",
+      "source_sha256": "8e198755f9d9b94e7ca698fd5da98a0a021d594f6fe33df96dafbeb1bb0bb67a",
+      "redacted": false
+    },
+    {
+      "path": "Motion/QA/Bar_Review/Written_Bar_QA_Summary.md",
+      "bytes": 1463,
+      "sha256": "eb745bbb0841c9e19734bac4c4475c7ab78a400411264ba0f37a62a848972900",
+      "source_sha256": "eb745bbb0841c9e19734bac4c4475c7ab78a400411264ba0f37a62a848972900",
+      "redacted": false
+    },
+    {
+      "path": "Motion/QA/Bar_Review/Root_Visual_Review_Summary.json",
+      "bytes": 1166,
+      "sha256": "778b373363040c39b6863f29d9360324397b519959c225885380e5f898ae9ebc",
+      "source_sha256": "778b373363040c39b6863f29d9360324397b519959c225885380e5f898ae9ebc",
+      "redacted": false
+    },
+    {
+      "path": "Motion/QA/Bar_Review/Root_Visual_Review_Summary.txt",
+      "bytes": 913,
+      "sha256": "98d6d25598c4f081e0c80f45db2fc70d87e5eed8f4c7a704dc6c8d1813a8b202",
+      "source_sha256": "98d6d25598c4f081e0c80f45db2fc70d87e5eed8f4c7a704dc6c8d1813a8b202",
+      "redacted": false
+    },
+    {
+      "path": "Motion/Optimizations/Settled_Raster/Settled_Raster_Experiment.md",
+      "bytes": 4630,
+      "sha256": "15d9a647d74cc436112f2a0bc028627c8cb97a67b04d087adc39cba646884a36",
+      "source_sha256": "15d9a647d74cc436112f2a0bc028627c8cb97a67b04d087adc39cba646884a36",
+      "redacted": false
+    },
+    {
+      "path": "Motion/Optimizations/Settled_Raster/Settled_Raster_Final_Coverage.json",
+      "bytes": 60092,
+      "sha256": "859543d861422c05ef23c71b63c4870d17ea3cd781c452e7fc05abd28ec6d06c",
+      "source_sha256": "859543d861422c05ef23c71b63c4870d17ea3cd781c452e7fc05abd28ec6d06c",
+      "redacted": false
+    },
+    {
+      "path": "Motion/Optimizations/Settled_Raster/Settled_Raster_Adoption_Verification.json",
+      "bytes": 1267,
+      "sha256": "3b6677034c282fd463ae2cc1a37943fb475f96a6af214fd5c57e26110ca049a9",
+      "source_sha256": "3b6677034c282fd463ae2cc1a37943fb475f96a6af214fd5c57e26110ca049a9",
+      "redacted": false
+    },
+    {
+      "path": "QA_Reports/Local_ASR_Review.txt",
+      "bytes": 15831,
+      "sha256": "2a0103e8f53e67358c60127b877882b3ae071a00ad53cdec640b5b912a940aa2",
+      "source_sha256": "2a0103e8f53e67358c60127b877882b3ae071a00ad53cdec640b5b912a940aa2",
+      "redacted": false
+    },
+    {
+      "path": "QA_Reports/Local_ASR_Review.json",
+      "bytes": 102570,
+      "sha256": "423467fff126a1ce25d9780b01fb82a73a8a9b13420485b658389555f07c3930",
+      "source_sha256": "0fd92659c134403968509ecb762401c375e4a0f2245333f01a25200bd31b5f47",
+      "redacted": true
+    },
+    {
+      "path": "QA_Reports/Actual_MP4_Visual_Spot_Review.txt",
+      "bytes": 2041,
+      "sha256": "7f1c1b09895840244af499200dcf87acc29dd624efce5d321977494c2eb4df75",
+      "source_sha256": "7f1c1b09895840244af499200dcf87acc29dd624efce5d321977494c2eb4df75",
+      "redacted": false
+    },
+    {
+      "path": "TTS_Text/Pronunciation_Changes.txt",
+      "bytes": 20083,
+      "sha256": "ad45e61e04ad9af1c07d1e86472f358cafc78fc43abd0fe97b1b1bfe49a8d3f3",
+      "source_sha256": "ad45e61e04ad9af1c07d1e86472f358cafc78fc43abd0fe97b1b1bfe49a8d3f3",
+      "redacted": false
+    }
+  ]
+}

@@ -1,0 +1,236 @@
+[
+  {
+    "id": "PROPHETS-001",
+    "title": "Invalid final checkpoint despite matching historical receipt",
+    "category": "export",
+    "status": "validated_with_partial_history",
+    "discovered_by": "agent",
+    "symptom": "E01 landscape P03 lacked moov; SHA aeeb5b39a6eecf9ccbdbe59bbc71456ed500e6741a3d0cdcb4f06348d410f124 matched receipt that claimed2316 decoded frames.",
+    "root_cause": "Missing moov and receipt/byte inconsistency established; underlying writer failure unknown. Missing await and competing writer were not established.",
+    "trials": [
+      "Audit20E01headers:19valid,onlyP03invalid.",
+      "Preserve failed bytes/receipt; regenerate onlyP03 with unchanged narration and approved pixel-equivalent renderer.",
+      "Probe exact final path, compare SHA before/after, require strict full decode."
+    ],
+    "best_validated_fix": "Replacement83990a260e5e38d5abbdee47d79c87d3d68564b1902f6eee37f35735c80bd1cf has2316 decoded frames.",
+    "prevention_and_regression": "Do not reuse solely by receipt+checksum; parse final-path headers and decode. Preserve valid checkpoints.",
+    "evidence": [
+      "Motion/QA/Checkpoint_Repair_E01_P03/Writer_Code_Review.txt",
+      "Motion/QA/Checkpoint_Repair_E01_P03/Repair_Record.json"
+    ]
+  },
+  {
+    "id": "PROPHETS-002",
+    "title": "Concat exit zero concealed truncated long episode",
+    "category": "export",
+    "status": "validated_with_partial_history",
+    "discovered_by": "agent",
+    "symptom": "FirstE01master had4401frames/73.35s instead of22992; no incomplete master published.",
+    "root_cause": "Concat returned0 although P03input could not open; stderr not inspected on zero exit.",
+    "trials": [
+      "Final frame-count gate rejected partialmaster.",
+      "Diagnostic -xerror returned183 and missingmoov.",
+      "Harden concat,mux,decode with -xerror,stderr inspection,exactcounts and unique temporarypaths."
+    ],
+    "best_validated_fix": "Repaired checkpoint+strict final AV gates; final production report records completed films.",
+    "prevention_and_regression": "Reject nonempty errorstderr even zeroexit; assert plannedframes and both streams from final pathname.",
+    "evidence": [
+      "Motion/QA/Checkpoint_Repair_E01_P03/Writer_Code_Review.txt",
+      "Motion/QA/E01_Concat_Diagnostic.json",
+      "Motion/QA/Final_Production_Completion.json"
+    ]
+  },
+  {
+    "id": "PROPHETS-003",
+    "title": "Temporary mux missing moov",
+    "category": "export",
+    "status": "validated_with_partial_history",
+    "discovered_by": "agent",
+    "symptom": "E01P08 initial final-mux validation found no moov; video-only checkpoint valid.",
+    "root_cause": "Unknown; inspection found no concurrent mux process.",
+    "trials": [
+      "Repeat same command to unique diagnosticfile:exit0,41.35s,bothstreams.",
+      "Cryptographically unique temp names, record encodedbytes, watcher lock, reuse verifiedfingerprints."
+    ],
+    "best_validated_fix": "Diagnostic successful; final48productgate records completion.",
+    "prevention_and_regression": "Never treat temporary partialMP4 as final; preserve failure and validate afterrename.",
+    "evidence": [
+      "Motion/QA/Mux_Recovery/Recovery_Note.json",
+      "Motion/QA/E01_P08_Mux_Diagnostic.json",
+      "Motion/QA/Final_Production_Completion.json"
+    ]
+  },
+  {
+    "id": "PROPHETS-004",
+    "title": "Browser crash during resource saturation",
+    "category": "rendering",
+    "status": "validated_with_partial_history",
+    "discovered_by": "agent",
+    "symptom": "E03landscapeP09 targetcrashed after2700/2899frames;59correctcheckpoints existed.",
+    "root_cause": "GlobalOOM events and saturation coincided; victimprocess/owner notidentified.",
+    "trials": [
+      "Gracefully stopassignment while activejobsfinish.",
+      "Preserve failedpartial e151b0f65d784cd0deba7210faee361e258ae9261698bd4fe80794a1b52ed147.",
+      "Resume3workers, reuse59valid, run onlyfailedP09 andunstartedE04."
+    ],
+    "best_validated_fix": "P09replacement3e59f63abd0ffdb3e8ccdf0bfcff3ce0c949ce69492ba4f3f6b249ff2f3498dc; finalE03strictAVdecode28383frames zeroerrors.",
+    "prevention_and_regression": "Bound concurrency, monitorresources, graceful checkpointshutdown, avoid rerendering correct outputs.",
+    "evidence": [
+      "Motion/QA/Resource_Interruption_E03_P09/Recovery_Record.json"
+    ]
+  },
+  {
+    "id": "PROPHETS-005",
+    "title": "WebCodecs color-space experiment rejected",
+    "category": "rendering",
+    "status": "experiment_rejected",
+    "discovered_by": "agent",
+    "symptom": "Canvas/RGB input encoded SMPTE170M despite explicit RGB metadata; BT709 requirement not met.",
+    "root_cause": "Observed localChromium conversion/metadata behavior; not universal codecclaim.",
+    "trials": [
+      "Canvas/RGB explicitmetadata stillSMPTE170M.",
+      "Reencode toBT709 reduced sampledRGBPSNR~36to33.7dB; rejected.",
+      "DirectI420BT709 gotBT709,~36.22–36.49dB samples but added~22ms/frame.",
+      "AVC quantizer bitrateMode unsupported."
+    ],
+    "best_validated_fix": "Retain approvedRGBA→libx264CRF19; no WebCodecs production adoption.",
+    "prevention_and_regression": "Probe actualstream metadata and decodedpixels; bitrate value notqualityproof; samplesnotwholefilm equivalence.",
+    "evidence": [
+      "Motion/QA/WebCodecs_Assessment.json"
+    ]
+  },
+  {
+    "id": "PROPHETS-006",
+    "title": "Frame transport and process bottleneck",
+    "category": "performance",
+    "status": "validated_with_limits",
+    "discovered_by": "agent",
+    "symptom": "TypedArray requests incurred expensive protocolcopies; sharedNode transport limited scaling.",
+    "root_cause": "Measured localtransport behavior, not proof of everymachine bottleneck.",
+    "trials": [
+      "LegacyJPEG/base64 transport benchmarked.",
+      "BinaryBlob loopbackstream adopted with backpressure and atmostoneupload+nextframe perworker.",
+      "4independent120framejobs about30.8steadyfps vs6pages/sharedNode28.5 undermeasuredload."
+    ],
+    "best_validated_fix": "Bounded Blob streaming and independentworkers; later3workers forresource safety.",
+    "prevention_and_regression": "Keep native resolution,60fps,3distinctsamples; compare settled/load timings without adding overlappingCPUcategories.",
+    "evidence": [
+      "Motion/Batch_Render_Instructions.txt",
+      "Motion/QA/WebCodecs_Assessment.json"
+    ]
+  },
+  {
+    "id": "PROPHETS-007",
+    "title": "General Path2D cache did not consistently improve performance",
+    "category": "performance",
+    "status": "experiment_rejected",
+    "discovered_by": "agent",
+    "symptom": "GeneralPath2Dcache lacked consistent speed benefit.",
+    "root_cause": "No detailed failedtrial timings supplied in recoveredexperiment note; do not invent.",
+    "trials": [
+      "Generalcache rejected.",
+      "Restrict rastercache to mathematicallytime-independent settledstates in4scenes; no movingstatecache.",
+      "Initial32comparisons; correction: E04P04t140 isintermediate notq0; extend explicitboundarycoverage to74comparisons."
+    ],
+    "best_validated_fix": "Settledcache candidate2e68954... all74fullresRGBcomparisons exact; eligiblecases65.4–73.1% reduction only.",
+    "prevention_and_regression": "Bound8canvases; caption/headeroutsidecache; compare0/1,before/crossing/afteractionboundary,bothlayouts andmovingcontrols.",
+    "evidence": [
+      "Motion/Optimizations/Settled_Raster/Settled_Raster_Experiment.md",
+      "Motion/Optimizations/Settled_Raster/Settled_Raster_Final_Coverage.json"
+    ]
+  },
+  {
+    "id": "PROPHETS-008",
+    "title": "Review image receipts lost at interruption",
+    "category": "review-integrity",
+    "status": "reconstructed_with_limits",
+    "discovered_by": "agent",
+    "symptom": "22PNGimages finished before receiptbatchflushed.",
+    "root_cause": "Executioninterruption before receiptflush.",
+    "trials": [
+      "Preserve andfullydecode22images; hashbytes.",
+      "Reconstructsample-time receipts fromdeterministic renderer/barplan,markreconstructed.",
+      "Remaining866records retain runtime receipt."
+    ],
+    "best_validated_fix": "888images complete with explicit22reconstructed provenance, not fabricatedruntimeobservations.",
+    "prevention_and_regression": "Flush receipts atomically perimage; distinguish reconstructedtiming fromruntimecapture.",
+    "evidence": [
+      "Motion/QA/Bar_Review/Written_Bar_QA_Summary.md"
+    ]
+  },
+  {
+    "id": "PROPHETS-009",
+    "title": "Review metadata described wrong header field",
+    "category": "review-integrity",
+    "status": "validated_with_limits",
+    "discovered_by": "agent",
+    "symptom": "Descriptive metadata didnot identify actual drawHeader field.",
+    "root_cause": "Metadata needed display_title ratherthanotherdescriptivefield; pixelsunchanged.",
+    "trials": [
+      "Correct descriptivefield todisplay_title; preserve executed/reusableversions andhashes."
+    ],
+    "best_validated_fix": "Writtenreview records metadatacorrection, no visualrepair claimed.",
+    "prevention_and_regression": "Validate reportedtext against actualdrawfunction andcount title+badge+captiontogether.",
+    "evidence": [
+      "Motion/QA/Bar_Review/Written_Bar_QA_Summary.md"
+    ]
+  },
+  {
+    "id": "PROPHETS-010",
+    "title": "ASR disagreements remain unverified pronunciation leads",
+    "category": "audio-review",
+    "status": "unresolved_leads_not_confirmed_errors",
+    "discovered_by": "reviewer",
+    "symptom": "63initialdifferencegroups/71alignmentdifferences;7persistentlexical+2unstable candidates.",
+    "root_cause": "ASR can normalize, substitute,omit orhallucinate; no directlistening completed.",
+    "trials": [
+      "Turbo fullPCMpass withoutreferenceprompt.",
+      "15originalMP3windowslarge-v3;7targetedbeam5windows.",
+      "24orthographic,10resolvedtranscription,2unstable,20grammar/boundary,7persistent."
+    ],
+    "best_validated_fix": "Notestablished; noTTSregenerationwas justified orperformed.",
+    "prevention_and_regression": "Keep exacttimedwindows andallhypotheses. Neither agreementwithinWhisperfamily nor peak/decodepass proves pronunciation.",
+    "evidence": [
+      "QA_Reports/Local_ASR_Review.txt",
+      "QA_Reports/Local_ASR_Review.json"
+    ]
+  },
+  {
+    "id": "PROPHETS-011",
+    "title": "Thumbnail archival timeout has uncertain outcome",
+    "category": "archive",
+    "status": "unresolved_at_source_delivery",
+    "discovered_by": "agent",
+    "symptom": "Finalchat explicitly couldnot confirm40portraitcovers+manifest+ZIP persisted aftertimeout.",
+    "root_cause": "Transporttimeout, notproof ofsavefailure orsuccess.",
+    "trials": [
+      "Delivered4longcoversreported; didnotclaim42filespersisted.",
+      "Requested retry ratherthan silentlycreatingduplicates."
+    ],
+    "best_validated_fix": "Notestablished in sourceconversation; currentrecovery isseparateappend-onlyfollowup.",
+    "prevention_and_regression": "InspectexistingLibraryidentity/version before retry; generatedlocalfile isnot durablearchiveproof.",
+    "evidence": [
+      "conversation-evidence.json"
+    ]
+  },
+  {
+    "id": "PROPHETS-012",
+    "title": "Preventive depiction constraint must not become invented incident",
+    "category": "project-contract",
+    "status": "preventive_not_observed_defect",
+    "discovered_by": "user",
+    "symptom": "User permitsordinaryhumans, forbidsprophetembodiment; currentbatch usesonlyobjects/environments.",
+    "root_cause": "No depictedprophet wasreported in inspectedsourceframes; thisisnot a repaireddefect.",
+    "trials": [
+      "Clarified ordinaryhuman permission vsbatchchoice.",
+      "Sourcefinalclaims noface/body/limb/shadow/reflection/substituteprophet;888stillsreview foundnone."
+    ],
+    "best_validated_fix": "No defecttofix; preserve userconstraint andboundedreview.",
+    "prevention_and_regression": "Check storyboards,sourceassets,finalvideo,covers; symbolicobjectsareeditorialnotinventedhistoricalfacts.",
+    "evidence": [
+      "conversation-evidence.json",
+      "Motion/Evidence_And_Shot_Notes.txt",
+      "Motion/QA/Bar_Review/Root_Visual_Review_Summary.json"
+    ]
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "command": [
+    "ffmpeg",
+    "-hide_banner",
+    "-loglevel",
+    "info",
+    "-xerror",
+    "-y",
+    "-f",
+    "concat",
+    "-safe",
+    "0",
+    "-i",
+    "outputs/Prophets_Stories_Production/Motion/Render/723d7185fb21075c/E01_landscape_music_concat.txt",
+    "-map",
+    "0:v:0",
+    "-c:v",
+    "copy",
+    "-an",
+    "-video_track_timescale",
+    "60000",
+    "-movflags",
+    "+faststart",
+    "outputs/Prophets_Stories_Production/Motion/Render/723d7185fb21075c/E01_landscape_concat_diagnostic.partial.mp4"
+  ],
+  "returncode": 183,
+  "stderr": "[mov,mp4,m4a,3gp,3g2,mj2 @ 0x55db4888d9c0] Auto-inserting h264_mp4toannexb bitstream filter\nInput #0, concat, from 'outputs/Prophets_Stories_Production/Motion/Render/723d7185fb21075c/E01_landscape_music_concat.txt':\n  Duration: N/A, start: 0.000000, bitrate: 1564 kb/s\n  Stream #0:0(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 1920x1080, 1564 kb/s, 60 fps, 60 tbr, 60k tbn\n    Metadata:\n      handler_name    : VideoHandler\n      vendor_id       : [0][0][0][0]\n      encoder         : Lavc60.31.102 libx264\nOutput #0, mp4, to 'outputs/Prophets_Stories_Production/Motion/Render/723d7185fb21075c/E01_landscape_concat_diagnostic.partial.mp4':\n  Metadata:\n    encoder         : Lavf60.16.100\n  Stream #0:0(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 1920x1080, q=2-31, 1564 kb/s, 60 fps, 60 tbr, 60k tbn\n    Metadata:\n      handler_name    : VideoHandler\n      vendor_id       : [0][0][0][0]\n      encoder         : Lavc60.31.102 libx264\nStream mapping:\n  Stream #0:0 -> #0:0 (copy)\nPress [q] to stop, [?] for help\nsize=       0kB time=-00:00:00.03 bitrate=  -0.0kbits/s speed=N/A    \n[mov,mp4,m4a,3gp,3g2,mj2 @ 0x55db4888d9c0] Auto-inserting h264_mp4toannexb bitstream filter\n[mov,mp4,m4a,3gp,3g2,mj2 @ 0x55db4888d9c0] moov atom not found\n[concat @ 0x55db48883e40] Impossible to open '/workspace/scratch/241cacf14d27/outputs/Prophets_Stories_Production/Motion/Render/723d7185fb21075c/checkpoints/E01_landscape_P03.mp4'\n[in#0/concat @ 0x55db48883d40] Error during demuxing: Invalid data found when processing input\n[in#0/concat @ 0x55db48883d40] Error retrieving a packet from demuxer: Invalid data found when processing input\nError while filtering: Invalid data found when processing input\n[mp4 @ 0x55db489cf6c0] Starting second pass: moving the moov atom to the beginning of the file\n[out#0/mp4 @ 0x55db488bd300] video:12057kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.434072%\nsize=   12109kB time=00:01:13.30 bitrate=1353.3kbits/s speed= 169x    \nConversion failed!\n",
+  "probe_returncode": 0,
+  "probe_stdout": "{\n    \"programs\": [\n\n    ],\n    \"streams\": [\n        {\n            \"avg_frame_rate\": \"60/1\",\n            \"duration\": \"73.350000\",\n            \"nb_frames\": \"4401\"\n        }\n    ]\n}\n",
+  "probe_stderr": ""
+}

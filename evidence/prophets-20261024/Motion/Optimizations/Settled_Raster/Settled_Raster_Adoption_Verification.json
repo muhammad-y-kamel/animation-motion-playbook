@@ -1,0 +1,18 @@
+{
+  "status": "ADOPTED_PIXEL_EQUIVALENCE_VERIFIED",
+  "original_sha256": "723d7185fb21075c3f110f7c3c107ad3e569773f5eaa2acea9fbe2276eab2710",
+  "candidate_sha256": "2e68954b0b4de82a752f90a5adb45a7dc286be30c5601fc823236452dd2a8751",
+  "all_compared_frames_pixel_exact": true,
+  "errors": [],
+  "total_compared_frames": 74,
+  "max_abs_channel_delta": 0,
+  "fps": 60,
+  "temporal_samples": 3,
+  "endpoint_coverage_complete_both_layouts": true,
+  "boundary_coverage_complete_both_layouts": true,
+  "evidence_report": "/workspace/scratch/241cacf14d27/outputs/Prophets_Stories_Production/Motion/Optimizations/Settled_Raster/Settled_Raster_Final_Coverage.json",
+  "evidence_report_sha256": "859543d861422c05ef23c71b63c4870d17ea3cd781c452e7fc05abd28ec6d06c",
+  "scope": "Only three_days, treaty_talks, treaty, chain, at exact q0 or q1, excluding covers and first0.58s scene transition. Native dimensions, palette, geometry and seeds are immutable within the candidate HTML hash. Opaque illustrated frame is cached before text overlays; 3-sample composeFrame remains unchanged.",
+  "adoption_authority": "Parent approval conditioned on exact endpoint/boundary/full-resolution pixel comparison; all stated gates verified.",
+  "adopted_utc": "2026-10-23T18:29:00.083648+00:00"
+}

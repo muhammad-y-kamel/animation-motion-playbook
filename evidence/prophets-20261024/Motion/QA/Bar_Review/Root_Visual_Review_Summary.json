@@ -1,0 +1,29 @@
+{
+  "reviewed_utc": "2026-10-23T18:45:41.247146+00:00",
+  "reviewer": "root",
+  "status": "ALL_38_CONTACT_SHEETS_VISUALLY_REVIEWED",
+  "sheets_reviewed": 38,
+  "tiles_reviewed": 888,
+  "episodes": [
+    "E01",
+    "E02",
+    "E03",
+    "E04"
+  ],
+  "layouts": [
+    "1920x1080",
+    "1080x1920"
+  ],
+  "method": "Viewed every contact-sheet tile; opened E02_B095_landscape and E03_B070_portrait at full size. Separate earlier inspection covered 80 keyframes and selected actual exported MP4 frames.",
+  "findings": "No visual defect requiring a source change observed. Arabic text, part numbering, symbolic objects and native portrait framing were checked. No prophet embodiment observed.",
+  "full_size_additional_stills": [
+    "Stills/landscape/E02_B095_landscape.png",
+    "Stills/portrait/E03_B070_portrait.png"
+  ],
+  "checklist_sha256": "b3398c7a263a72e7af6eefef7e291c2e6f8cfbdb98ae8ad9fb4c488cc85a13e4",
+  "limitations": [
+    "One planned still per musical bar. This is not continuous playback review.",
+    "No complete half-speed viewing or human listening is claimed.",
+    "Publication/source accuracy is covered by the separate editorial review."
+  ]
+}

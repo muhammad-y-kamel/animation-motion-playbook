@@ -1,0 +1,2299 @@
+{
+  "date_utc": "2026-10-23",
+  "scope": "Independent local automated lexical review of four narration episodes",
+  "status": "Automated finite review complete; listening and phonetic certification not completed",
+  "no_listening_performed": true,
+  "audio_transferred_externally": false,
+  "audio_modified": false,
+  "tts_text_modified": false,
+  "source_script_provided_to_asr": false,
+  "confirmed_audio_errors": [],
+  "retakes_triggered": [],
+  "all_checked_audio_sources_unchanged": true,
+  "total_audio_seconds": 1784.8,
+  "total_reference_words": 3419,
+  "total_asr_words": 3420,
+  "initial_candidate_groups": 63,
+  "initial_normalized_lexical_edits": 71,
+  "not_a_measured_tts_error_rate": true,
+  "classification_counts": {
+    "unresolved_ending_or_boundary": 20,
+    "representation_difference": 24,
+    "persistent_lexical_candidate": 7,
+    "context_recovered": 10,
+    "unstable_contextual_candidate": 2
+  },
+  "episodes": [
+    {
+      "clip_id": "E01",
+      "duration_seconds": 383.2,
+      "inference_seconds": 213.329,
+      "real_time_factor": 0.5567,
+      "process_peak_rss_kib": 2164420,
+      "source_unchanged": true,
+      "expected_word_count": 766,
+      "asr_word_count": 767,
+      "normalized_lexical_edit_distance": 10,
+      "transcript_disagreement_fraction": 0.013055,
+      "candidate_groups": 9
+    },
+    {
+      "clip_id": "E02",
+      "duration_seconds": 456.32,
+      "inference_seconds": 296.114,
+      "real_time_factor": 0.6489,
+      "process_peak_rss_kib": 2164420,
+      "source_unchanged": true,
+      "expected_word_count": 850,
+      "asr_word_count": 849,
+      "normalized_lexical_edit_distance": 23,
+      "transcript_disagreement_fraction": 0.027059,
+      "candidate_groups": 22
+    },
+    {
+      "clip_id": "E03",
+      "duration_seconds": 473.04,
+      "inference_seconds": 338.742,
+      "real_time_factor": 0.7161,
+      "process_peak_rss_kib": 2164428,
+      "source_unchanged": true,
+      "expected_word_count": 877,
+      "asr_word_count": 877,
+      "normalized_lexical_edit_distance": 16,
+      "transcript_disagreement_fraction": 0.018244,
+      "candidate_groups": 13
+    },
+    {
+      "clip_id": "E04",
+      "duration_seconds": 472.24,
+      "inference_seconds": 363.906,
+      "real_time_factor": 0.7706,
+      "process_peak_rss_kib": 2164668,
+      "source_unchanged": true,
+      "expected_word_count": 926,
+      "asr_word_count": 927,
+      "normalized_lexical_edit_distance": 22,
+      "transcript_disagreement_fraction": 0.023758,
+      "candidate_groups": 19
+    }
+  ],
+  "audio_sources": [
+    {
+      "clip_id": "E01",
+      "source": "/workspace/scratch/241cacf14d27/outputs/Prophets_Stories_Production/Audio/E01/E01_Narration.wav",
+      "source_sha256": "298a81f36c8371233324966d96abae04c25c94d75c1558941a1ae80bdba3abe7",
+      "source_size_bytes": 67596594,
+      "source_unchanged": true,
+      "duration_seconds": 383.2,
+      "model_configuration": {
+        "device": "cpu",
+        "compute_type": "int8",
+        "cpu_threads": 4,
+        "num_workers": 1,
+        "local_files_only": true,
+        "use_auth_token": false
+      },
+      "transcribe_options": {
+        "language": "ar",
+        "task": "transcribe",
+        "beam_size": 5,
+        "temperature": 0.0,
+        "condition_on_previous_text": false,
+        "initial_prompt": null,
+        "hotwords": null,
+        "vad_filter": false,
+        "word_timestamps": true
+      }
+    },
+    {
+      "clip_id": "E02",
+      "source": "/workspace/scratch/241cacf14d27/outputs/Prophets_Stories_Production/Audio/E02/E02_Narration.wav",
+      "source_sha256": "d4a49bd7631ba7222391740707f58915ee53de4c186d31983ac2014fddc13fb7",
+      "source_size_bytes": 80494962,
+      "source_unchanged": true,
+      "duration_seconds": 456.32,
+      "model_configuration": {
+        "device": "cpu",
+        "compute_type": "int8",
+        "cpu_threads": 4,
+        "num_workers": 1,
+        "local_files_only": true,
+        "use_auth_token": false
+      },
+      "transcribe_options": {
+        "language": "ar",
+        "task": "transcribe",
+        "beam_size": 5,
+        "temperature": 0.0,
+        "condition_on_previous_text": false,
+        "initial_prompt": null,
+        "hotwords": null,
+        "vad_filter": false,
+        "word_timestamps": true
+      }
+    },
+    {
+      "clip_id": "E03",
+      "source": "/workspace/scratch/241cacf14d27/outputs/Prophets_Stories_Production/Audio/E03/E03_Narration.wav",
+      "source_sha256": "6a36bec5f4b7cf32af416fa8edf2a87c46a8915a252309d6f0e439d34b21e4bd",
+      "source_size_bytes": 83444370,
+      "source_unchanged": true,
+      "duration_seconds": 473.04,
+      "model_configuration": {
+        "device": "cpu",
+        "compute_type": "int8",
+        "cpu_threads": 4,
+        "num_workers": 1,
+        "local_files_only": true,
+        "use_auth_token": false
+      },
+      "transcribe_options": {
+        "language": "ar",
+        "task": "transcribe",
+        "beam_size": 5,
+        "temperature": 0.0,
+        "condition_on_previous_text": false,
+        "initial_prompt": null,
+        "hotwords": null,
+        "vad_filter": false,
+        "word_timestamps": true
+      }
+    },
+    {
+      "clip_id": "E04",
+      "source": "/workspace/scratch/241cacf14d27/outputs/Prophets_Stories_Production/Audio/E04/E04_Narration.wav",
+      "source_sha256": "1169fb19a5a91b22f76eb109d4bd37eb0b4fa594ca5faf5fc691adbdffc13968",
+      "source_size_bytes": 83303250,
+      "source_unchanged": true,
+      "duration_seconds": 472.24,
+      "model_configuration": {
+        "device": "cpu",
+        "compute_type": "int8",
+        "cpu_threads": 4,
+        "num_workers": 1,
+        "local_files_only": true,
+        "use_auth_token": false
+      },
+      "transcribe_options": {
+        "language": "ar",
+        "task": "transcribe",
+        "beam_size": 5,
+        "temperature": 0.0,
+        "condition_on_previous_text": false,
+        "initial_prompt": null,
+        "hotwords": null,
+        "vad_filter": false,
+        "word_timestamps": true
+      }
+    }
+  ],
+  "greedy_recheck": {
+    "status": "complete",
+    "configuration": {
+      "device": "cpu",
+      "compute_type": "int8",
+      "cpu_threads": 4,
+      "num_workers": 1,
+      "local_files_only": true,
+      "use_auth_token": false
+    },
+    "transcribe_options": {
+      "language": "ar",
+      "task": "transcribe",
+      "beam_size": 1,
+      "temperature": 0.0,
+      "condition_on_previous_text": false,
+      "initial_prompt": null,
+      "hotwords": null,
+      "vad_filter": false,
+      "word_timestamps": true
+    },
+    "wall_seconds": 608.751,
+    "peak_rss_kib": 4019604,
+    "source_unchanged_checks": {
+      "/workspace/scratch/241cacf14d27/outputs/Prophets_Stories_Production/Raw/E01_G01.mp3": true,
+      "/workspace/scratch/241cacf14d27/outputs/Prophets_Stories_Production/Raw/E01_G02.mp3": true,
+      "/workspace/scratch/241cacf14d27/outputs/Prophets_Stories_Production/Raw/E02_G03.mp3": true,
+      "/workspace/scratch/241cacf14d27/outputs/Prophets_Stories_Production/Raw/E03_G01.mp3": true,
+      "/workspace/scratch/241cacf14d27/outputs/Prophets_Stories_Production/Raw/E03_G02.mp3": true,
+      "/workspace/scratch/241cacf14d27/outputs/Prophets_Stories_Production/Raw/E03_G03.mp3": true,
+      "/workspace/scratch/241cacf14d27/outputs/Prophets_Stories_Production/Raw/E04_G01.mp3": true,
+      "/workspace/scratch/241cacf14d27/outputs/Prophets_Stories_Production/Raw/E04_G02.mp3": true,
+      "/workspace/scratch/241cacf14d27/outputs/Prophets_Stories_Production/Raw/E04_G03.mp3": true
+    }
+  },
+  "final_beam5_recheck": {
+    "status": "complete",
+    "configuration": {
+      "device": "cpu",
+      "compute_type": "int8",
+      "cpu_threads": 4,
+      "num_workers": 1,
+      "local_files_only": true,
+      "use_auth_token": false
+    },
+    "transcribe_options": {
+      "language": "ar",
+      "task": "transcribe",
+      "beam_size": 5,
+      "temperature": 0.0,
+      "condition_on_previous_text": false,
+      "initial_prompt": null,
+      "hotwords": null,
+      "vad_filter": false,
+      "word_timestamps": false
+    },
+    "wall_seconds": 307.356,
+    "peak_rss_kib": 4218780,
+    "source_unchanged_checks": {
+      "/workspace/scratch/241cacf14d27/outputs/Prophets_Stories_Production/Raw/E01_G02.mp3": true,
+      "/workspace/scratch/241cacf14d27/outputs/Prophets_Stories_Production/Raw/E02_G03.mp3": true,
+      "/workspace/scratch/241cacf14d27/outputs/Prophets_Stories_Production/Raw/E03_G01.mp3": true,
+      "/workspace/scratch/241cacf14d27/outputs/Prophets_Stories_Production/Raw/E04_G01.mp3": true,
+      "/workspace/scratch/241cacf14d27/outputs/Prophets_Stories_Production/Raw/E04_G02.mp3": true,
+      "/workspace/scratch/241cacf14d27/outputs/Prophets_Stories_Production/Raw/E04_G03.mp3": true
+    }
+  },
+  "findings": [
+    {
+      "candidate_id": 1,
+      "expected": "ولموتى",
+      "asr": "ولموت",
+      "expected_context": "الدعاء لوالدي رحمه الله ولموتى المسلمين بالمغفرة والرحمة، ونحتسب",
+      "start_seconds": 30.36,
+      "end_seconds": 31.18,
+      "operations": [
+        "substitute"
+      ],
+      "raw_stem": "E01_G01",
+      "raw_start_seconds": 30.36,
+      "raw_end_seconds": 31.18,
+      "episode": "E01",
+      "key": "E01:1",
+      "initial_status": "ASR/pronunciation review candidate, not a confirmed audio error",
+      "initial_classification": "unresolved_morphology_or_asr_spelling",
+      "initial_review_note_ar": "الألف المقصورة في موتى لم تظهر في النموذجين؛ لا يثبت رسم ASR وحده غيابها صوتيًا. الإعادة القصيرة غير صالحة للاستدلال.",
+      "final_status": "unresolved_ending_or_boundary",
+      "review_note_ar": "الألف المقصورة في موتى لم تظهر في النموذجين؛ لا يثبت رسم ASR وحده غيابها صوتيًا. الإعادة القصيرة غير صالحة للاستدلال.",
+      "status_ar": "نهاية نحوية أو حد كلمة غير محسوم من التفريغ وحده",
+      "confirmed_audio_error": false,
+      "context_recheck_evidence": [
+        {
+          "report": "results/targeted_large_v3_rechecks.json",
+          "window_id": "E01_creator_message",
+          "beam_size": 1,
+          "global_start_seconds": 12,
+          "global_end_seconds": 43
+        }
+      ]
+    },
+    {
+      "candidate_id": 2,
+      "expected": "كانا",
+      "asr": "كان",
+      "expected_context": "إلا رجلين من إخوانه كانا يأتيانه صباحًا ومساءً. وكانت",
+      "start_seconds": 58.28,
+      "end_seconds": 58.76,
+      "operations": [
+        "substitute"
+      ],
+      "raw_stem": "E01_G01",
+      "raw_start_seconds": 58.28,
+      "raw_end_seconds": 58.76,
+      "episode": "E01",
+      "key": "E01:2",
+      "initial_status": "ASR/pronunciation review candidate, not a confirmed audio error",
+      "initial_classification": "unresolved_dual_ending",
+      "initial_review_note_ar": "التثنية مقصودة في النص. استعاد الفحص السياقي من إخوانه، لكن رسم كان/كانا ما زال غير محسوم صوتيًا.",
+      "final_status": "unresolved_ending_or_boundary",
+      "review_note_ar": "التثنية مقصودة في النص. استعاد الفحص السياقي من إخوانه، لكن رسم كان/كانا ما زال غير محسوم صوتيًا.",
+      "status_ar": "نهاية نحوية أو حد كلمة غير محسوم من التفريغ وحده",
+      "confirmed_audio_error": false,
+      "context_recheck_evidence": []
+    },
+    {
+      "candidate_id": 3,
+      "expected": "ومساءً.",
+      "asr": "ومساءا",
+      "expected_context": "إخوانه كانا يأتيانه صباحًا ومساءً. وكانت زوجته تعينه أيضًا؛",
+      "start_seconds": 60.16,
+      "end_seconds": 60.84,
+      "operations": [
+        "substitute"
+      ],
+      "raw_stem": "E01_G01",
+      "raw_start_seconds": 60.16,
+      "raw_end_seconds": 60.84,
+      "episode": "E01",
+      "key": "E01:3",
+      "initial_status": "ASR/pronunciation review candidate, not a confirmed audio error",
+      "initial_classification": "orthographic_only",
+      "initial_review_note_ar": "مساءً/مساءا رسمان لتمثيل التنوين في التفريغ؛ لا دليل على عيب نطق.",
+      "final_status": "representation_difference",
+      "review_note_ar": "مساءً/مساءا رسمان لتمثيل التنوين في التفريغ؛ لا دليل على عيب نطق.",
+      "status_ar": "اختلاف رسم أو تمثيل كتابي؛ ليس بحد ذاته دليل خطأ صوتي",
+      "confirmed_audio_error": false,
+      "context_recheck_evidence": []
+    },
+    {
+      "candidate_id": 4,
+      "expected": "جاءا",
+      "asr": "جاء",
+      "expected_context": "سبب ما أصابه. وحين جاءا لزيارته، لم يصبر أحدهما",
+      "start_seconds": 96.52,
+      "end_seconds": 96.82,
+      "operations": [
+        "substitute"
+      ],
+      "raw_stem": "E01_G01",
+      "raw_start_seconds": 96.52,
+      "raw_end_seconds": 96.82,
+      "episode": "E01",
+      "key": "E01:4",
+      "initial_status": "ASR/pronunciation review candidate, not a confirmed audio error",
+      "initial_classification": "unresolved_dual_ending",
+      "initial_review_note_ar": "جاءا/جاء فرق تثنية محتمل، لكن ASR لا يثبت طول الحركة المسموعة.",
+      "final_status": "unresolved_ending_or_boundary",
+      "review_note_ar": "جاءا/جاء فرق تثنية محتمل، لكن ASR لا يثبت طول الحركة المسموعة.",
+      "status_ar": "نهاية نحوية أو حد كلمة غير محسوم من التفريغ وحده",
+      "confirmed_audio_error": false,
+      "context_recheck_evidence": []
+    },
+    {
+      "candidate_id": 5,
+      "expected": "دعا",
+      "asr": "دعى",
+      "expected_context": "أو على ذنب خفي. دعا نبي الله أيّوب عليه",
+      "start_seconds": 151.58,
+      "end_seconds": 152.66,
+      "operations": [
+        "substitute"
+      ],
+      "raw_stem": "E01_G02",
+      "raw_start_seconds": 39.58,
+      "raw_end_seconds": 40.66,
+      "episode": "E01",
+      "key": "E01:5",
+      "initial_status": "ASR/pronunciation review candidate, not a confirmed audio error",
+      "initial_classification": "orthographic_only",
+      "initial_review_note_ar": "دعا/دعى اختلاف في رسم الألف النهائية، لا اختلاف لفظي مثبت.",
+      "final_status": "representation_difference",
+      "review_note_ar": "دعا/دعى اختلاف في رسم الألف النهائية، لا اختلاف لفظي مثبت.",
+      "status_ar": "اختلاف رسم أو تمثيل كتابي؛ ليس بحد ذاته دليل خطأ صوتي",
+      "confirmed_audio_error": false,
+      "context_recheck_evidence": [
+        {
+          "report": "results/targeted_large_v3_rechecks.json",
+          "window_id": "E01_surah_name",
+          "beam_size": 1,
+          "global_start_seconds": 149,
+          "global_end_seconds": 175
+        },
+        {
+          "report": "results/final_large_v3_beam5_rechecks.json",
+          "window_id": "E01_surah_name",
+          "beam_size": 5,
+          "global_start_seconds": 151,
+          "global_end_seconds": 173
+        }
+      ]
+    },
+    {
+      "candidate_id": 6,
+      "expected": "ص",
+      "asr": "صاب",
+      "expected_context": "من يرحم. وفي سورة ص جاء ذكر ما مسه",
+      "start_seconds": 162.26,
+      "end_seconds": 162.64,
+      "operations": [
+        "substitute"
+      ],
+      "raw_stem": "E01_G02",
+      "raw_start_seconds": 50.26,
+      "raw_end_seconds": 50.64,
+      "episode": "E01",
+      "key": "E01:6",
+      "initial_status": "ASR/pronunciation review candidate, not a confirmed audio error",
+      "initial_classification": "priority_targeted_recheck",
+      "initial_review_note_ar": "اسم السورة صاد؛ كُتب هنا صاب. يحتاج فحصًا سياقيًا بالنموذج الأكبر قبل أي حكم على النطق.",
+      "final_status": "persistent_lexical_candidate",
+      "review_note_ar": "المقصود باسم السورة هو «صاد». بقيت قراءة «صاب» في المسح الكامل والمقتطفين. إن ثبتت صوتيًا فهي اختلاف في الصامت الأخير؛ اتفاق فرضيات ASR لا يثبت ذلك وحده.",
+      "context_hypotheses": {
+        "turbo": "صاب",
+        "large_v3_greedy": "صاب",
+        "large_v3_beam5": "صاب"
+      },
+      "status_ar": "مرشح معجمي مستمر يحتاج تحققًا سمعيًا أو صوتيًا مباشرًا",
+      "confirmed_audio_error": false,
+      "context_recheck_evidence": [
+        {
+          "report": "results/targeted_large_v3_rechecks.json",
+          "window_id": "E01_surah_name",
+          "beam_size": 1,
+          "global_start_seconds": 149,
+          "global_end_seconds": 175
+        },
+        {
+          "report": "results/final_large_v3_beam5_rechecks.json",
+          "window_id": "E01_surah_name",
+          "beam_size": 5,
+          "global_start_seconds": 151,
+          "global_end_seconds": 173
+        }
+      ]
+    },
+    {
+      "candidate_id": 7,
+      "expected": "تر",
+      "asr": "ترى",
+      "expected_context": "السلام، وذكرت أنها لم تر أحدًا أشبه به منه",
+      "start_seconds": 231.16,
+      "end_seconds": 231.5,
+      "operations": [
+        "substitute"
+      ],
+      "raw_stem": "E01_G02",
+      "raw_start_seconds": 119.16,
+      "raw_end_seconds": 119.5,
+      "episode": "E01",
+      "key": "E01:7",
+      "initial_status": "ASR/pronunciation review candidate, not a confirmed audio error",
+      "initial_classification": "unresolved_morphology_or_asr_spelling",
+      "initial_review_note_ar": "لم تر/لم ترى فرق رسم مرتبط بالجزم والحركة النهائية؛ لا يثبت ASR خطأ الحركة أو مدتها.",
+      "final_status": "unresolved_ending_or_boundary",
+      "review_note_ar": "لم تر/لم ترى فرق رسم مرتبط بالجزم والحركة النهائية؛ لا يثبت ASR خطأ الحركة أو مدتها.",
+      "status_ar": "نهاية نحوية أو حد كلمة غير محسوم من التفريغ وحده",
+      "confirmed_audio_error": false,
+      "context_recheck_evidence": []
+    },
+    {
+      "candidate_id": 8,
+      "expected": "ص،",
+      "asr": "صاد",
+      "expected_context": "ما يشاء. وفي سورة ص، جاء لنبي الله أيّوب",
+      "start_seconds": 303.84,
+      "end_seconds": 304.26,
+      "operations": [
+        "substitute"
+      ],
+      "raw_stem": "E01_G03",
+      "raw_start_seconds": 42.16,
+      "raw_end_seconds": 42.58,
+      "episode": "E01",
+      "key": "E01:8",
+      "initial_status": "ASR/pronunciation review candidate, not a confirmed audio error",
+      "initial_classification": "spoken_letter_name_representation",
+      "initial_review_note_ar": "المدخل ص واللفظ المقصود اسم الحرف صاد؛ التفريغ كتب الاسم المسموع المتوقع.",
+      "final_status": "representation_difference",
+      "review_note_ar": "المدخل ص واللفظ المقصود اسم الحرف صاد؛ التفريغ كتب الاسم المسموع المتوقع.",
+      "status_ar": "اختلاف رسم أو تمثيل كتابي؛ ليس بحد ذاته دليل خطأ صوتي",
+      "confirmed_audio_error": false,
+      "context_recheck_evidence": []
+    },
+    {
+      "candidate_id": 9,
+      "expected": "وألا",
+      "asr": "وأن لا",
+      "expected_context": "من نبات، فيضرب به، وألا يَحْنَث في يمينه. أرشده",
+      "start_seconds": 314.82,
+      "end_seconds": 315.82,
+      "operations": [
+        "insert",
+        "substitute"
+      ],
+      "raw_stem": "E01_G03",
+      "raw_start_seconds": 53.14,
+      "raw_end_seconds": 54.14,
+      "episode": "E01",
+      "key": "E01:9",
+      "initial_status": "ASR/pronunciation review candidate, not a confirmed audio error",
+      "initial_classification": "word_joining_only",
+      "initial_review_note_ar": "وألا/وأن لا تفكيك كتابي للتركيب نفسه؛ ليس حذفًا أو إضافة سردية.",
+      "final_status": "representation_difference",
+      "review_note_ar": "وألا/وأن لا تفكيك كتابي للتركيب نفسه؛ ليس حذفًا أو إضافة سردية.",
+      "status_ar": "اختلاف رسم أو تمثيل كتابي؛ ليس بحد ذاته دليل خطأ صوتي",
+      "confirmed_audio_error": false,
+      "context_recheck_evidence": []
+    },
+    {
+      "candidate_id": 1,
+      "expected": "داوُود",
+      "asr": "داود",
+      "expected_context": "نبي الله داوُود عليه السلام يقتل جالوت،",
+      "start_seconds": 0.64,
+      "end_seconds": 1.1,
+      "operations": [
+        "substitute"
+      ],
+      "raw_stem": "E02_G01",
+      "raw_start_seconds": 0.64,
+      "raw_end_seconds": 1.1,
+      "episode": "E02",
+      "key": "E02:1",
+      "initial_status": "ASR/pronunciation review candidate, not a confirmed audio error",
+      "initial_classification": "orthographic_name_variant",
+      "initial_review_note_ar": "داوود/داود صورتان كتابيتان لاسم النبي نفسه، ولا يدل الرسم على نقص النطق.",
+      "final_status": "representation_difference",
+      "review_note_ar": "داوود/داود صورتان كتابيتان لاسم النبي نفسه، ولا يدل الرسم على نقص النطق.",
+      "status_ar": "اختلاف رسم أو تمثيل كتابي؛ ليس بحد ذاته دليل خطأ صوتي",
+      "confirmed_audio_error": false,
+      "context_recheck_evidence": []
+    },
+    {
+      "candidate_id": 2,
+      "expected": "مسؤولية",
+      "asr": "مسئولية",
+      "expected_context": "والحكمة والعبادة، وتنتهي عند مسؤولية الحكم والرجوع إلى الله.",
+      "start_seconds": 34.48,
+      "end_seconds": 35.12,
+      "operations": [
+        "substitute"
+      ],
+      "raw_stem": "E02_G01",
+      "raw_start_seconds": 34.48,
+      "raw_end_seconds": 35.12,
+      "episode": "E02",
+      "key": "E02:2",
+      "initial_status": "ASR/pronunciation review candidate, not a confirmed audio error",
+      "initial_classification": "orthographic_only",
+      "initial_review_note_ar": "مسؤولية/مسئولية اختلاف كرسي الهمزة، لا اختلاف لفظي مثبت.",
+      "final_status": "representation_difference",
+      "review_note_ar": "مسؤولية/مسئولية اختلاف كرسي الهمزة، لا اختلاف لفظي مثبت.",
+      "status_ar": "اختلاف رسم أو تمثيل كتابي؛ ليس بحد ذاته دليل خطأ صوتي",
+      "confirmed_audio_error": false,
+      "context_recheck_evidence": []
+    },
+    {
+      "candidate_id": 3,
+      "expected": "والمتابعة",
+      "asr": "والمتابع",
+      "expected_context": "ادعم هذا المحتوى بالإعجاب والمتابعة حتى نستمر في تقديم",
+      "start_seconds": 41.28,
+      "end_seconds": 41.98,
+      "operations": [
+        "substitute"
+      ],
+      "raw_stem": "E02_G01",
+      "raw_start_seconds": 41.28,
+      "raw_end_seconds": 41.98,
+      "episode": "E02",
+      "key": "E02:3",
+      "initial_status": "ASR/pronunciation review candidate, not a confirmed audio error",
+      "initial_classification": "unresolved_word_ending",
+      "initial_review_note_ar": "المتابعة/المتابع اختلاف النهاية في تفريغ ASR؛ لا يكفي للحكم على اللفظ.",
+      "final_status": "unresolved_ending_or_boundary",
+      "review_note_ar": "المتابعة/المتابع اختلاف النهاية في تفريغ ASR؛ لا يكفي للحكم على اللفظ.",
+      "status_ar": "نهاية نحوية أو حد كلمة غير محسوم من التفريغ وحده",
+      "confirmed_audio_error": false,
+      "context_recheck_evidence": []
+    },
+    {
+      "candidate_id": 4,
+      "expected": "ولموتى",
+      "asr": "ولموت",
+      "expected_context": "الدعاء لوالدي رحمه الله ولموتى المسلمين بالمغفرة والرحمة، ونحتسب",
+      "start_seconds": 47.46,
+      "end_seconds": 48.22,
+      "operations": [
+        "substitute"
+      ],
+      "raw_stem": "E02_G01",
+      "raw_start_seconds": 47.46,
+      "raw_end_seconds": 48.22,
+      "episode": "E02",
+      "key": "E02:4",
+      "initial_status": "ASR/pronunciation review candidate, not a confirmed audio error",
+      "initial_classification": "unresolved_morphology_or_asr_spelling",
+      "initial_review_note_ar": "موتى/موت: كتابة الألف المقصورة لا تُحسم بالنموذج وحده.",
+      "final_status": "unresolved_ending_or_boundary",
+      "review_note_ar": "موتى/موت: كتابة الألف المقصورة لا تُحسم بالنموذج وحده.",
+      "status_ar": "نهاية نحوية أو حد كلمة غير محسوم من التفريغ وحده",
+      "confirmed_audio_error": false,
+      "context_recheck_evidence": []
+    },
+    {
+      "candidate_id": 5,
+      "expected": "يُعطَ",
+      "asr": "يعطى",
+      "expected_context": "بالمُلْك، واحتجوا بأنه لم يُعطَ سعة من المال. جاءهم",
+      "start_seconds": 93.34,
+      "end_seconds": 93.76,
+      "operations": [
+        "substitute"
+      ],
+      "raw_stem": "E02_G01",
+      "raw_start_seconds": 93.34,
+      "raw_end_seconds": 93.76,
+      "episode": "E02",
+      "key": "E02:5",
+      "initial_status": "ASR/pronunciation review candidate, not a confirmed audio error",
+      "initial_classification": "unresolved_morphology_or_asr_spelling",
+      "initial_review_note_ar": "لم يُعطَ/لم يعطى متعلق برسم الألف والجزم؛ لا يثبت خطأ النطق.",
+      "final_status": "unresolved_ending_or_boundary",
+      "review_note_ar": "لم يُعطَ/لم يعطى متعلق برسم الألف والجزم؛ لا يثبت خطأ النطق.",
+      "status_ar": "نهاية نحوية أو حد كلمة غير محسوم من التفريغ وحده",
+      "confirmed_audio_error": false,
+      "context_recheck_evidence": []
+    },
+    {
+      "candidate_id": 6,
+      "expected": "عليهما",
+      "asr": "عليهم",
+      "expected_context": "وآل نبي الله هارون عليهما السلام، تحمله الملائكة. هنا",
+      "start_seconds": 112.82,
+      "end_seconds": 113.3,
+      "operations": [
+        "substitute"
+      ],
+      "raw_stem": "E02_G01",
+      "raw_start_seconds": 112.82,
+      "raw_end_seconds": 113.3,
+      "episode": "E02",
+      "key": "E02:6",
+      "initial_status": "ASR/pronunciation review candidate, not a confirmed audio error",
+      "initial_classification": "unresolved_dual_ending",
+      "initial_review_note_ar": "عليهما/عليهم اختلاف نهاية التثنية المحتمل؛ يبقى مرشحًا فقط.",
+      "final_status": "unresolved_ending_or_boundary",
+      "review_note_ar": "عليهما/عليهم اختلاف نهاية التثنية المحتمل؛ يبقى مرشحًا فقط.",
+      "status_ar": "نهاية نحوية أو حد كلمة غير محسوم من التفريغ وحده",
+      "confirmed_audio_error": false,
+      "context_recheck_evidence": []
+    },
+    {
+      "candidate_id": 7,
+      "expected": "قد طلبوا",
+      "asr": "قطلبوا",
+      "expected_context": "عن اختيار المَلِك. كانوا قد طلبوا قائدًا، لكن قبول القائد",
+      "start_seconds": 123.82,
+      "end_seconds": 124.32,
+      "operations": [
+        "delete",
+        "substitute"
+      ],
+      "raw_stem": "E02_G01",
+      "raw_start_seconds": 123.82,
+      "raw_end_seconds": 124.32,
+      "episode": "E02",
+      "key": "E02:7",
+      "initial_status": "ASR/pronunciation review candidate, not a confirmed audio error",
+      "initial_classification": "word_boundary_merge",
+      "initial_review_note_ar": "دمج حدود كلمتين مع احتمال إسقاط الدال في التفريغ: قد طلبوا/قطلبوا. لا يسمى حذف كلمة صوتيًا؛ النص وحده لا يحسم سماع الدال أو قصرها قبل الطاء.",
+      "final_status": "unresolved_ending_or_boundary",
+      "review_note_ar": "دمج حدود كلمتين مع احتمال إسقاط الدال في التفريغ: قد طلبوا/قطلبوا. لا يسمى حذف كلمة صوتيًا؛ النص وحده لا يحسم سماع الدال أو قصرها قبل الطاء.",
+      "status_ar": "نهاية نحوية أو حد كلمة غير محسوم من التفريغ وحده",
+      "confirmed_audio_error": false,
+      "context_recheck_evidence": []
+    },
+    {
+      "candidate_id": 8,
+      "expected": "داوُود",
+      "asr": "داود",
+      "expected_context": "الله، وقتل نبي الله داوُود عليه السلام جالوت. عند",
+      "start_seconds": 204.24,
+      "end_seconds": 204.7,
+      "operations": [
+        "substitute"
+      ],
+      "raw_stem": "E02_G02",
+      "raw_start_seconds": 67.12,
+      "raw_end_seconds": 67.58,
+      "episode": "E02",
+      "key": "E02:8",
+      "initial_status": "ASR/pronunciation review candidate, not a confirmed audio error",
+      "initial_classification": "orthographic_name_variant",
+      "initial_review_note_ar": "داوود/داود صورتان كتابيتان لاسم النبي نفسه، ولا يدل الرسم على نقص النطق.",
+      "final_status": "representation_difference",
+      "review_note_ar": "داوود/داود صورتان كتابيتان لاسم النبي نفسه، ولا يدل الرسم على نقص النطق.",
+      "status_ar": "اختلاف رسم أو تمثيل كتابي؛ ليس بحد ذاته دليل خطأ صوتي",
+      "confirmed_audio_error": false,
+      "context_recheck_evidence": []
+    },
+    {
+      "candidate_id": 9,
+      "expected": "مسؤولية",
+      "asr": "مسئولية",
+      "expected_context": "ومع المُلْك تبدأ أمامنا مسؤولية أخرى، تتصل بما يجري",
+      "start_seconds": 221.18,
+      "end_seconds": 221.92,
+      "operations": [
+        "substitute"
+      ],
+      "raw_stem": "E02_G02",
+      "raw_start_seconds": 84.06,
+      "raw_end_seconds": 84.8,
+      "episode": "E02",
+      "key": "E02:9",
+      "initial_status": "ASR/pronunciation review candidate, not a confirmed audio error",
+      "initial_classification": "orthographic_only",
+      "initial_review_note_ar": "مسؤولية/مسئولية اختلاف كرسي الهمزة، لا اختلاف لفظي مثبت.",
+      "final_status": "representation_difference",
+      "review_note_ar": "مسؤولية/مسئولية اختلاف كرسي الهمزة، لا اختلاف لفظي مثبت.",
+      "status_ar": "اختلاف رسم أو تمثيل كتابي؛ ليس بحد ذاته دليل خطأ صوتي",
+      "confirmed_audio_error": false,
+      "context_recheck_evidence": []
+    },
+    {
+      "candidate_id": 10,
+      "expected": "داوُود",
+      "asr": "داود",
+      "expected_context": "وعلم. وهب الله نبيَّه داوُود عليه السلام الزَّبور، وقوّى",
+      "start_seconds": 229.62,
+      "end_seconds": 230.02,
+      "operations": [
+        "substitute"
+      ],
+      "raw_stem": "E02_G02",
+      "raw_start_seconds": 92.5,
+      "raw_end_seconds": 92.9,
+      "episode": "E02",
+      "key": "E02:10",
+      "initial_status": "ASR/pronunciation review candidate, not a confirmed audio error",
+      "initial_classification": "orthographic_name_variant",
+      "initial_review_note_ar": "داوود/داود صورتان كتابيتان لاسم النبي نفسه، ولا يدل الرسم على نقص النطق.",
+      "final_status": "representation_difference",
+      "review_note_ar": "داوود/داود صورتان كتابيتان لاسم النبي نفسه، ولا يدل الرسم على نقص النطق.",
+      "status_ar": "اختلاف رسم أو تمثيل كتابي؛ ليس بحد ذاته دليل خطأ صوتي",
+      "confirmed_audio_error": false,
+      "context_recheck_evidence": []
+    },
+    {
+      "candidate_id": 11,
+      "expected": "داوُود",
+      "asr": "داود",
+      "expected_context": "فضل صلاة نبي الله داوُود وصيامه. كان يصوم يومًا",
+      "start_seconds": 263.4,
+      "end_seconds": 263.96,
+      "operations": [
+        "substitute"
+      ],
+      "raw_stem": "E02_G02",
+      "raw_start_seconds": 126.28,
+      "raw_end_seconds": 126.84,
+      "episode": "E02",
+      "key": "E02:11",
+      "initial_status": "ASR/pronunciation review candidate, not a confirmed audio error",
+      "initial_classification": "orthographic_name_variant",
+      "initial_review_note_ar": "داوود/داود صورتان كتابيتان لاسم النبي نفسه، ولا يدل الرسم على نقص النطق.",
+      "final_status": "representation_difference",
+      "review_note_ar": "داوود/داود صورتان كتابيتان لاسم النبي نفسه، ولا يدل الرسم على نقص النطق.",
+      "status_ar": "اختلاف رسم أو تمثيل كتابي؛ ليس بحد ذاته دليل خطأ صوتي",
+      "confirmed_audio_error": false,
+      "context_recheck_evidence": []
+    },
+    {
+      "candidate_id": 12,
+      "expected": "تامة،",
+      "asr": "تام",
+      "expected_context": "الحديد، وأمره بصنع دروع تامة، وبإحكام حلقاتها وتناسبها. وعلمه",
+      "start_seconds": 290.86,
+      "end_seconds": 291.36,
+      "operations": [
+        "substitute"
+      ],
+      "raw_stem": "E02_G03",
+      "raw_start_seconds": 8.78,
+      "raw_end_seconds": 9.28,
+      "episode": "E02",
+      "key": "E02:12",
+      "initial_status": "ASR/pronunciation review candidate, not a confirmed audio error",
+      "initial_classification": "unresolved_word_ending",
+      "initial_review_note_ar": "تامة/تام نهاية مؤنثة/وقف قد يختلف رسمها في ASR؛ لا عيب مؤكد.",
+      "final_status": "unresolved_ending_or_boundary",
+      "review_note_ar": "تامة/تام نهاية مؤنثة/وقف قد يختلف رسمها في ASR؛ لا عيب مؤكد.",
+      "status_ar": "نهاية نحوية أو حد كلمة غير محسوم من التفريغ وحده",
+      "confirmed_audio_error": false,
+      "context_recheck_evidence": []
+    },
+    {
+      "candidate_id": 13,
+      "expected": "داوُود",
+      "asr": "داود",
+      "expected_context": "المواجهة. وكان نبي الله داوُود عليه السلام يأكل من",
+      "start_seconds": 306.14,
+      "end_seconds": 306.58,
+      "operations": [
+        "substitute"
+      ],
+      "raw_stem": "E02_G03",
+      "raw_start_seconds": 24.06,
+      "raw_end_seconds": 24.5,
+      "episode": "E02",
+      "key": "E02:13",
+      "initial_status": "ASR/pronunciation review candidate, not a confirmed audio error",
+      "initial_classification": "orthographic_name_variant",
+      "initial_review_note_ar": "داوود/داود صورتان كتابيتان لاسم النبي نفسه، ولا يدل الرسم على نقص النطق.",
+      "final_status": "representation_difference",
+      "review_note_ar": "داوود/داود صورتان كتابيتان لاسم النبي نفسه، ولا يدل الرسم على نقص النطق.",
+      "status_ar": "اختلاف رسم أو تمثيل كتابي؛ ليس بحد ذاته دليل خطأ صوتي",
+      "confirmed_audio_error": false,
+      "context_recheck_evidence": []
+    },
+    {
+      "candidate_id": 14,
+      "expected": "داوُود",
+      "asr": "داود",
+      "expected_context": "في أمره نبي الله داوُود وابنه نبي الله سُلَيْمان",
+      "start_seconds": 335.9,
+      "end_seconds": 336.46,
+      "operations": [
+        "substitute"
+      ],
+      "raw_stem": "E02_G03",
+      "raw_start_seconds": 53.82,
+      "raw_end_seconds": 54.38,
+      "episode": "E02",
+      "key": "E02:14",
+      "initial_status": "ASR/pronunciation review candidate, not a confirmed audio error",
+      "initial_classification": "orthographic_name_variant",
+      "initial_review_note_ar": "داوود/داود صورتان كتابيتان لاسم النبي نفسه، ولا يدل الرسم على نقص النطق.",
+      "final_status": "representation_difference",
+      "review_note_ar": "داوود/داود صورتان كتابيتان لاسم النبي نفسه، ولا يدل الرسم على نقص النطق.",
+      "status_ar": "اختلاف رسم أو تمثيل كتابي؛ ليس بحد ذاته دليل خطأ صوتي",
+      "confirmed_audio_error": false,
+      "context_recheck_evidence": []
+    },
+    {
+      "candidate_id": 15,
+      "expected": "داوُود",
+      "asr": "داود",
+      "expected_context": "في سيرة نبي الله داوُود عليه السلام، إلى خصومة",
+      "start_seconds": 355.02,
+      "end_seconds": 355.46,
+      "operations": [
+        "substitute"
+      ],
+      "raw_stem": "E02_G03",
+      "raw_start_seconds": 72.94,
+      "raw_end_seconds": 73.38,
+      "episode": "E02",
+      "key": "E02:15",
+      "initial_status": "ASR/pronunciation review candidate, not a confirmed audio error",
+      "initial_classification": "orthographic_name_variant",
+      "initial_review_note_ar": "داوود/داود صورتان كتابيتان لاسم النبي نفسه، ولا يدل الرسم على نقص النطق.",
+      "final_status": "representation_difference",
+      "review_note_ar": "داوود/داود صورتان كتابيتان لاسم النبي نفسه، ولا يدل الرسم على نقص النطق.",
+      "status_ar": "اختلاف رسم أو تمثيل كتابي؛ ليس بحد ذاته دليل خطأ صوتي",
+      "confirmed_audio_error": false,
+      "context_recheck_evidence": []
+    },
+    {
+      "candidate_id": 16,
+      "expected": "تبدأ",
+      "asr": "تدأ",
+      "expected_context": "عليه السلام، إلى خصومة تبدأ بدخول غير مألوف إلى",
+      "start_seconds": 357.56,
+      "end_seconds": 358.12,
+      "operations": [
+        "substitute"
+      ],
+      "raw_stem": "E02_G03",
+      "raw_start_seconds": 75.48,
+      "raw_end_seconds": 76.04,
+      "episode": "E02",
+      "key": "E02:16",
+      "initial_status": "ASR/pronunciation review candidate, not a confirmed audio error",
+      "initial_classification": "priority_targeted_recheck",
+      "initial_review_note_ar": "تبدأ/تدأ: حرف داخلي يحتاج قراءة سياقية بالنموذج الأكبر.",
+      "final_status": "persistent_lexical_candidate",
+      "review_note_ar": "استمرت «تدأ» بدل «تبدأ» في القراءات الثلاث. هذا مرشح حذف باء في التفريغ أو عدم وضوحها، وليس حذفًا صوتيًا مؤكدًا.",
+      "context_hypotheses": {
+        "turbo": "تدأ",
+        "large_v3_greedy": "تدأ",
+        "large_v3_beam5": "تدأ"
+      },
+      "status_ar": "مرشح معجمي مستمر يحتاج تحققًا سمعيًا أو صوتيًا مباشرًا",
+      "confirmed_audio_error": false,
+      "context_recheck_evidence": [
+        {
+          "report": "results/targeted_large_v3_rechecks.json",
+          "window_id": "E02_dispute_verbs",
+          "beam_size": 1,
+          "global_start_seconds": 349,
+          "global_end_seconds": 374
+        },
+        {
+          "report": "results/final_large_v3_beam5_rechecks.json",
+          "window_id": "E02_dispute_verbs",
+          "beam_size": 5,
+          "global_start_seconds": 353,
+          "global_end_seconds": 371
+        }
+      ]
+    },
+    {
+      "candidate_id": 17,
+      "expected": "تسوّر",
+      "asr": "تصور",
+      "expected_context": "غير مألوف إلى المحراب. تسوّر خصمان المحراب، ودخلا على",
+      "start_seconds": 360.56,
+      "end_seconds": 361.64,
+      "operations": [
+        "substitute"
+      ],
+      "raw_stem": "E02_G03",
+      "raw_start_seconds": 78.48,
+      "raw_end_seconds": 79.56,
+      "episode": "E02",
+      "key": "E02:17",
+      "initial_status": "ASR/pronunciation review candidate, not a confirmed audio error",
+      "initial_classification": "priority_targeted_recheck",
+      "initial_review_note_ar": "تسوّر/تصور: اختلاف حرف ومعنى يحتاج قراءة سياقية مستقلة.",
+      "final_status": "persistent_lexical_candidate",
+      "review_note_ar": "استمر رسم «تصور» بدل «تسوّر». الفرق بين السين والصاد يغير الفعل إن تحقق في الأداء، لكن الفرضيات الآلية وحدها لا تحسم النطق.",
+      "context_hypotheses": {
+        "turbo": "تصور",
+        "large_v3_greedy": "تصور",
+        "large_v3_beam5": "تصور"
+      },
+      "status_ar": "مرشح معجمي مستمر يحتاج تحققًا سمعيًا أو صوتيًا مباشرًا",
+      "confirmed_audio_error": false,
+      "context_recheck_evidence": [
+        {
+          "report": "results/targeted_large_v3_rechecks.json",
+          "window_id": "E02_dispute_verbs",
+          "beam_size": 1,
+          "global_start_seconds": 349,
+          "global_end_seconds": 374
+        },
+        {
+          "report": "results/final_large_v3_beam5_rechecks.json",
+          "window_id": "E02_dispute_verbs",
+          "beam_size": 5,
+          "global_start_seconds": 353,
+          "global_end_seconds": 371
+        }
+      ]
+    },
+    {
+      "candidate_id": 18,
+      "expected": "ودخلا",
+      "asr": "ودخل",
+      "expected_context": "المحراب. تسوّر خصمان المحراب، ودخلا على نبي الله داوُود",
+      "start_seconds": 362.82,
+      "end_seconds": 363.72,
+      "operations": [
+        "substitute"
+      ],
+      "raw_stem": "E02_G03",
+      "raw_start_seconds": 80.74,
+      "raw_end_seconds": 81.64,
+      "episode": "E02",
+      "key": "E02:18",
+      "initial_status": "ASR/pronunciation review candidate, not a confirmed audio error",
+      "initial_classification": "unresolved_dual_ending",
+      "initial_review_note_ar": "دخلا/دخل نهاية التثنية؛ يُراجع ضمن نافذة تسوّر.",
+      "final_status": "unresolved_ending_or_boundary",
+      "review_note_ar": "دخلا/دخل نهاية التثنية؛ يُراجع ضمن نافذة تسوّر.",
+      "status_ar": "نهاية نحوية أو حد كلمة غير محسوم من التفريغ وحده",
+      "confirmed_audio_error": false,
+      "context_recheck_evidence": [
+        {
+          "report": "results/targeted_large_v3_rechecks.json",
+          "window_id": "E02_dispute_verbs",
+          "beam_size": 1,
+          "global_start_seconds": 349,
+          "global_end_seconds": 374
+        },
+        {
+          "report": "results/final_large_v3_beam5_rechecks.json",
+          "window_id": "E02_dispute_verbs",
+          "beam_size": 5,
+          "global_start_seconds": 353,
+          "global_end_seconds": 371
+        }
+      ]
+    },
+    {
+      "candidate_id": 19,
+      "expected": "داوُود",
+      "asr": "داود",
+      "expected_context": "ودخلا على نبي الله داوُود عليه السلام، ففزع منهما.",
+      "start_seconds": 364.66,
+      "end_seconds": 365.1,
+      "operations": [
+        "substitute"
+      ],
+      "raw_stem": "E02_G03",
+      "raw_start_seconds": 82.58,
+      "raw_end_seconds": 83.02,
+      "episode": "E02",
+      "key": "E02:19",
+      "initial_status": "ASR/pronunciation review candidate, not a confirmed audio error",
+      "initial_classification": "orthographic_name_variant",
+      "initial_review_note_ar": "داوود/داود صورتان كتابيتان لاسم النبي نفسه، ولا يدل الرسم على نقص النطق.",
+      "final_status": "representation_difference",
+      "review_note_ar": "داوود/داود صورتان كتابيتان لاسم النبي نفسه، ولا يدل الرسم على نقص النطق.",
+      "status_ar": "اختلاف رسم أو تمثيل كتابي؛ ليس بحد ذاته دليل خطأ صوتي",
+      "confirmed_audio_error": false,
+      "context_recheck_evidence": []
+    },
+    {
+      "candidate_id": 20,
+      "expected": "داوُود",
+      "asr": "داود",
+      "expected_context": "الكلام. أجابه نبي الله داوُود بأن طلب ضم نعجته",
+      "start_seconds": 389.26,
+      "end_seconds": 389.8,
+      "operations": [
+        "substitute"
+      ],
+      "raw_stem": "E02_G03",
+      "raw_start_seconds": 107.18,
+      "raw_end_seconds": 107.72,
+      "episode": "E02",
+      "key": "E02:20",
+      "initial_status": "ASR/pronunciation review candidate, not a confirmed audio error",
+      "initial_classification": "orthographic_name_variant",
+      "initial_review_note_ar": "داوود/داود صورتان كتابيتان لاسم النبي نفسه، ولا يدل الرسم على نقص النطق.",
+      "final_status": "representation_difference",
+      "review_note_ar": "داوود/داود صورتان كتابيتان لاسم النبي نفسه، ولا يدل الرسم على نقص النطق.",
+      "status_ar": "اختلاف رسم أو تمثيل كتابي؛ ليس بحد ذاته دليل خطأ صوتي",
+      "confirmed_audio_error": false,
+      "context_recheck_evidence": []
+    },
+    {
+      "candidate_id": 21,
+      "expected": "داوُود",
+      "asr": "داود",
+      "expected_context": "لصاحبه. أدرك نبي الله داوُود عليه السلام أنه ابتلاء،",
+      "start_seconds": 412.8,
+      "end_seconds": 413.24,
+      "operations": [
+        "substitute"
+      ],
+      "raw_stem": "E02_G03",
+      "raw_start_seconds": 130.72,
+      "raw_end_seconds": 131.16,
+      "episode": "E02",
+      "key": "E02:21",
+      "initial_status": "ASR/pronunciation review candidate, not a confirmed audio error",
+      "initial_classification": "orthographic_name_variant",
+      "initial_review_note_ar": "داوود/داود صورتان كتابيتان لاسم النبي نفسه، ولا يدل الرسم على نقص النطق.",
+      "final_status": "representation_difference",
+      "review_note_ar": "داوود/داود صورتان كتابيتان لاسم النبي نفسه، ولا يدل الرسم على نقص النطق.",
+      "status_ar": "اختلاف رسم أو تمثيل كتابي؛ ليس بحد ذاته دليل خطأ صوتي",
+      "confirmed_audio_error": false,
+      "context_recheck_evidence": []
+    },
+    {
+      "candidate_id": 22,
+      "expected": "المسار",
+      "asr": "المصار",
+      "expected_context": "الذي نختم به هذا المسار هو الإنابة بعد الابتلاء،",
+      "start_seconds": 448.74,
+      "end_seconds": 449.28,
+      "operations": [
+        "substitute"
+      ],
+      "raw_stem": "E02_G03",
+      "raw_start_seconds": 166.66,
+      "raw_end_seconds": 167.2,
+      "episode": "E02",
+      "key": "E02:22",
+      "initial_status": "ASR/pronunciation review candidate, not a confirmed audio error",
+      "initial_classification": "priority_targeted_recheck",
+      "initial_review_note_ar": "المسار/المصار: اختلاف السين/الصاد يحتاج قراءة سياقية.",
+      "final_status": "context_recovered",
+      "review_note_ar": "قرأ المقتطف المستقل «المسار» مطابقًا للنص بعدما ظهر «المصار» في المسح الكامل. لم يبق الاختلاف ثابتًا بين السياقات، ولا يُعد ذلك اعتمادًا لجميع تفاصيل النطق.",
+      "context_hypotheses": {
+        "turbo": "المصار",
+        "large_v3_greedy": "المسار"
+      },
+      "status_ar": "عاد التفريغ إلى النص المتوقع في سياق مستقل؛ الاختلاف الأول غير ثابت",
+      "confirmed_audio_error": false,
+      "context_recheck_evidence": [
+        {
+          "report": "results/targeted_large_v3_rechecks.json",
+          "window_id": "E02_closing",
+          "beam_size": 1,
+          "global_start_seconds": 437,
+          "global_end_seconds": 456.32
+        }
+      ]
+    },
+    {
+      "candidate_id": 1,
+      "expected": "يَحْيى",
+      "asr": "يحيا",
+      "expected_context": "البشارة بولد يحمل اسم يَحْيى عليه السلام. وبين الدعاء",
+      "start_seconds": 8.72,
+      "end_seconds": 9.14,
+      "operations": [
+        "substitute"
+      ],
+      "raw_stem": "E03_G01",
+      "raw_start_seconds": 8.72,
+      "raw_end_seconds": 9.14,
+      "episode": "E03",
+      "key": "E03:1",
+      "initial_status": "ASR/pronunciation review candidate, not a confirmed audio error",
+      "initial_classification": "orthographic_name_variant",
+      "initial_review_note_ar": "يحيى/يحيا اختلاف رسم الألف النهائية للاسم، لا اختلاف لفظي مثبت.",
+      "final_status": "representation_difference",
+      "review_note_ar": "يحيى/يحيا اختلاف رسم الألف النهائية للاسم، لا اختلاف لفظي مثبت.",
+      "status_ar": "اختلاف رسم أو تمثيل كتابي؛ ليس بحد ذاته دليل خطأ صوتي",
+      "confirmed_audio_error": false,
+      "context_recheck_evidence": []
+    },
+    {
+      "candidate_id": 2,
+      "expected": "ولموتى",
+      "asr": "ولموت",
+      "expected_context": "الدعاء لوالدي رحمه الله ولموتى المسلمين بالمغفرة والرحمة، ونحتسب",
+      "start_seconds": 34.76,
+      "end_seconds": 35.58,
+      "operations": [
+        "substitute"
+      ],
+      "raw_stem": "E03_G01",
+      "raw_start_seconds": 34.76,
+      "raw_end_seconds": 35.58,
+      "episode": "E03",
+      "key": "E03:2",
+      "initial_status": "ASR/pronunciation review candidate, not a confirmed audio error",
+      "initial_classification": "unresolved_morphology_or_asr_spelling",
+      "initial_review_note_ar": "موتى/موت يبقى غير محسوم صوتيًا من رسم ASR.",
+      "final_status": "unresolved_ending_or_boundary",
+      "review_note_ar": "موتى/موت يبقى غير محسوم صوتيًا من رسم ASR.",
+      "status_ar": "نهاية نحوية أو حد كلمة غير محسوم من التفريغ وحده",
+      "confirmed_audio_error": false,
+      "context_recheck_evidence": []
+    },
+    {
+      "candidate_id": 3,
+      "expected": "كلما",
+      "asr": "كل ما",
+      "expected_context": "رزقًا، ويتكرر هذا الأمر كلما دخل عليها. سأل نبي",
+      "start_seconds": 90.92,
+      "end_seconds": 91.58,
+      "operations": [
+        "insert",
+        "substitute"
+      ],
+      "raw_stem": "E03_G01",
+      "raw_start_seconds": 90.92,
+      "raw_end_seconds": 91.58,
+      "episode": "E03",
+      "key": "E03:3",
+      "initial_status": "ASR/pronunciation review candidate, not a confirmed audio error",
+      "initial_classification": "word_joining_only",
+      "initial_review_note_ar": "كلما/كل ما اختلاف فصل الكلمات في التفريغ؛ لا تثبت منه إضافة كلام.",
+      "final_status": "representation_difference",
+      "review_note_ar": "كلما/كل ما اختلاف فصل الكلمات في التفريغ؛ لا تثبت منه إضافة كلام.",
+      "status_ar": "اختلاف رسم أو تمثيل كتابي؛ ليس بحد ذاته دليل خطأ صوتي",
+      "confirmed_audio_error": false,
+      "context_recheck_evidence": [
+        {
+          "report": "results/targeted_large_v3_rechecks.json",
+          "window_id": "E03_maryam_pronoun",
+          "beam_size": 1,
+          "global_start_seconds": 87,
+          "global_end_seconds": 108
+        }
+      ]
+    },
+    {
+      "candidate_id": 4,
+      "expected": "عليها",
+      "asr": "عليه",
+      "expected_context": "زَكَرِيّا عليه السلام مَرْيَم عليها السلام عن مصدر ذلك",
+      "start_seconds": 96.24,
+      "end_seconds": 96.44,
+      "operations": [
+        "substitute"
+      ],
+      "raw_stem": "E03_G01",
+      "raw_start_seconds": 96.24,
+      "raw_end_seconds": 96.44,
+      "episode": "E03",
+      "key": "E03:4",
+      "initial_status": "ASR/pronunciation review candidate, not a confirmed audio error",
+      "initial_classification": "unresolved_pronoun_ending",
+      "initial_review_note_ar": "عليها/عليه نهاية ضمير المؤنث؛ تحتاج قرينة صوتية أقوى من رسم ASR.",
+      "final_status": "context_recovered",
+      "review_note_ar": "عاد المقتطف إلى «مريم عليها السلام» مطابقًا للضمير المعتمد؛ لا يدعم ذلك نسبة اختلاف الضمير الأول إلى عيب صوتي مؤكد.",
+      "context_hypotheses": {
+        "turbo": "عليه",
+        "large_v3_greedy": "عليها"
+      },
+      "status_ar": "عاد التفريغ إلى النص المتوقع في سياق مستقل؛ الاختلاف الأول غير ثابت",
+      "confirmed_audio_error": false,
+      "context_recheck_evidence": [
+        {
+          "report": "results/targeted_large_v3_rechecks.json",
+          "window_id": "E03_maryam_pronoun",
+          "beam_size": 1,
+          "global_start_seconds": 87,
+          "global_end_seconds": 108
+        }
+      ]
+    },
+    {
+      "candidate_id": 5,
+      "expected": "زَكَرِيّا",
+      "asr": "زكري",
+      "expected_context": "يسمع. ذكر نبي الله زَكَرِيّا عليه السلام لربه ما",
+      "start_seconds": 142.38,
+      "end_seconds": 142.86,
+      "operations": [
+        "substitute"
+      ],
+      "raw_stem": "E03_G01",
+      "raw_start_seconds": 142.38,
+      "raw_end_seconds": 142.86,
+      "episode": "E03",
+      "key": "E03:5",
+      "initial_status": "ASR/pronunciation review candidate, not a confirmed audio error",
+      "initial_classification": "priority_targeted_recheck",
+      "initial_review_note_ar": "زكريا/زكري: آخر الاسم يحتاج فحصًا سياقيًا.",
+      "final_status": "context_recovered",
+      "review_note_ar": "عاد اسم «زكريا» كاملًا في كل من المقتطفين بعد صورة «زكري» في المسح الأول.",
+      "context_hypotheses": {
+        "turbo": "زكري",
+        "large_v3_greedy": "زكريا",
+        "large_v3_beam5": "زكريا"
+      },
+      "status_ar": "عاد التفريغ إلى النص المتوقع في سياق مستقل؛ الاختلاف الأول غير ثابت",
+      "confirmed_audio_error": false,
+      "context_recheck_evidence": [
+        {
+          "report": "results/targeted_large_v3_rechecks.json",
+          "window_id": "E03_name_and_phrase",
+          "beam_size": 1,
+          "global_start_seconds": 132,
+          "global_end_seconds": 160
+        },
+        {
+          "report": "results/final_large_v3_beam5_rechecks.json",
+          "window_id": "E03_name_and_phrase",
+          "beam_size": 5,
+          "global_start_seconds": 137,
+          "global_end_seconds": 158
+        }
+      ]
+    },
+    {
+      "candidate_id": 6,
+      "expected": "وما انتشر",
+      "asr": "ومن تشر",
+      "expected_context": "أصاب عظامه من الضعف، وما انتشر في رأسه من الشيب،",
+      "start_seconds": 146.56,
+      "end_seconds": 147.64,
+      "operations": [
+        "substitute",
+        "substitute"
+      ],
+      "raw_stem": "E03_G01",
+      "raw_start_seconds": 146.56,
+      "raw_end_seconds": 147.64,
+      "episode": "E03",
+      "key": "E03:6",
+      "initial_status": "ASR/pronunciation review candidate, not a confirmed audio error",
+      "initial_classification": "priority_targeted_recheck",
+      "initial_review_note_ar": "وما انتشر/ومن تشر: يحتمل دمج/تقسيمًا خاطئًا للحدود ويُراجع في سياقه.",
+      "final_status": "unresolved_ending_or_boundary",
+      "review_note_ar": "استمرت «ومن تشر» بدل «وما انتشر». القراءة الثانية غير طبيعية في السياق وتحتمل خلل تجزئة الكلمات أو تمثيل الحركات في ASR. تبقى مرشح حدود/حركات غير محسوم، ولا توصف بحذف كلمات صوتيًا.",
+      "context_hypotheses": {
+        "turbo": "ومن تشر",
+        "large_v3_greedy": "ومن تشر",
+        "large_v3_beam5": "ومن تشر"
+      },
+      "status_ar": "نهاية نحوية أو حد كلمة غير محسوم من التفريغ وحده",
+      "confirmed_audio_error": false,
+      "context_recheck_evidence": [
+        {
+          "report": "results/targeted_large_v3_rechecks.json",
+          "window_id": "E03_name_and_phrase",
+          "beam_size": 1,
+          "global_start_seconds": 132,
+          "global_end_seconds": 160
+        },
+        {
+          "report": "results/final_large_v3_beam5_rechecks.json",
+          "window_id": "E03_name_and_phrase",
+          "beam_size": 5,
+          "global_start_seconds": 137,
+          "global_end_seconds": 158
+        }
+      ]
+    },
+    {
+      "candidate_id": 7,
+      "expected": "وليّ",
+      "asr": "وليا",
+      "expected_context": "دعا بها في المحراب؛ وليّ من بعده، يجتمع له",
+      "start_seconds": 174.58,
+      "end_seconds": 175.5,
+      "operations": [
+        "substitute"
+      ],
+      "raw_stem": "E03_G01",
+      "raw_start_seconds": 174.58,
+      "raw_end_seconds": 175.5,
+      "episode": "E03",
+      "key": "E03:7",
+      "initial_status": "ASR/pronunciation review candidate, not a confirmed audio error",
+      "initial_classification": "case_ending_not_determined",
+      "initial_review_note_ar": "وليّ/وليا اختلاف تمثيل النهاية/التنوين؛ لا يحسم ASR الحركة المسموعة.",
+      "final_status": "unresolved_ending_or_boundary",
+      "review_note_ar": "وليّ/وليا اختلاف تمثيل النهاية/التنوين؛ لا يحسم ASR الحركة المسموعة.",
+      "status_ar": "نهاية نحوية أو حد كلمة غير محسوم من التفريغ وحده",
+      "confirmed_audio_error": false,
+      "context_recheck_evidence": []
+    },
+    {
+      "candidate_id": 8,
+      "expected": "يَحْيى",
+      "asr": "يحيا",
+      "expected_context": "سيولد له غلام اسمه يَحْيى عليه السلام. وجاءت البشارة",
+      "start_seconds": 190.44,
+      "end_seconds": 190.92,
+      "operations": [
+        "substitute"
+      ],
+      "raw_stem": "E03_G02",
+      "raw_start_seconds": 10.52,
+      "raw_end_seconds": 11.0,
+      "episode": "E03",
+      "key": "E03:8",
+      "initial_status": "ASR/pronunciation review candidate, not a confirmed audio error",
+      "initial_classification": "orthographic_name_variant",
+      "initial_review_note_ar": "يحيى/يحيا اختلاف رسم الاسم النهائي.",
+      "final_status": "representation_difference",
+      "review_note_ar": "يحيى/يحيا اختلاف رسم الاسم النهائي.",
+      "status_ar": "اختلاف رسم أو تمثيل كتابي؛ ليس بحد ذاته دليل خطأ صوتي",
+      "confirmed_audio_error": false,
+      "context_recheck_evidence": []
+    },
+    {
+      "candidate_id": 9,
+      "expected": "المدة،",
+      "asr": "مدة",
+      "expected_context": "أمامك الآن علامة محددة المدة، تجمع بين الامتناع عن",
+      "start_seconds": 294.88,
+      "end_seconds": 295.28,
+      "operations": [
+        "substitute"
+      ],
+      "raw_stem": "E03_G02",
+      "raw_start_seconds": 114.96,
+      "raw_end_seconds": 115.36,
+      "episode": "E03",
+      "key": "E03:9",
+      "initial_status": "ASR/pronunciation review candidate, not a confirmed audio error",
+      "initial_classification": "priority_targeted_recheck",
+      "initial_review_note_ar": "المدة/مدة: أداة التعريف لم تُكتب في ASR؛ يحتاج فحصًا سياقيًا.",
+      "final_status": "context_recovered",
+      "review_note_ar": "عاد المقتطف إلى «تلك المدة» معرفًا كما في النص؛ غياب أداة التعريف في القراءة الأولى لم يبق ثابتًا.",
+      "context_hypotheses": {
+        "turbo": "مدة",
+        "large_v3_greedy": "المدة"
+      },
+      "status_ar": "عاد التفريغ إلى النص المتوقع في سياق مستقل؛ الاختلاف الأول غير ثابت",
+      "confirmed_audio_error": false,
+      "context_recheck_evidence": [
+        {
+          "report": "results/targeted_large_v3_rechecks.json",
+          "window_id": "E03_duration_phrase",
+          "beam_size": 1,
+          "global_start_seconds": 284,
+          "global_end_seconds": 308
+        }
+      ]
+    },
+    {
+      "candidate_id": 10,
+      "expected": "وبين ما",
+      "asr": "وبينما",
+      "expected_context": "وتصل بين البشارة السابقة وبين ما آتاه الله في طفولته",
+      "start_seconds": 364.04,
+      "end_seconds": 364.9,
+      "operations": [
+        "delete",
+        "substitute"
+      ],
+      "raw_stem": "E03_G03",
+      "raw_start_seconds": 40.28,
+      "raw_end_seconds": 41.14,
+      "episode": "E03",
+      "key": "E03:10",
+      "initial_status": "ASR/pronunciation review candidate, not a confirmed audio error",
+      "initial_classification": "word_joining_only",
+      "initial_review_note_ar": "وبين ما/وبينما دمج كتابي، لا حذف صوتي مثبت.",
+      "final_status": "representation_difference",
+      "review_note_ar": "وبين ما/وبينما دمج كتابي، لا حذف صوتي مثبت.",
+      "status_ar": "اختلاف رسم أو تمثيل كتابي؛ ليس بحد ذاته دليل خطأ صوتي",
+      "confirmed_audio_error": false,
+      "context_recheck_evidence": []
+    },
+    {
+      "candidate_id": 11,
+      "expected": "اللذين",
+      "asr": "الذين",
+      "expected_context": "الناس إليه، إلى والديه اللذين وهبه الله لهما. فكان",
+      "start_seconds": 410.58,
+      "end_seconds": 411.04,
+      "operations": [
+        "substitute"
+      ],
+      "raw_stem": "E03_G03",
+      "raw_start_seconds": 86.82,
+      "raw_end_seconds": 87.28,
+      "episode": "E03",
+      "key": "E03:11",
+      "initial_status": "ASR/pronunciation review candidate, not a confirmed audio error",
+      "initial_classification": "unresolved_dual_form",
+      "initial_review_note_ar": "اللذين/الذين تثنية/جمع في الكتابة؛ يبقى مرشحًا لا عيبًا مؤكدًا.",
+      "final_status": "unresolved_ending_or_boundary",
+      "review_note_ar": "اللذين/الذين تثنية/جمع في الكتابة؛ يبقى مرشحًا لا عيبًا مؤكدًا.",
+      "status_ar": "نهاية نحوية أو حد كلمة غير محسوم من التفريغ وحده",
+      "confirmed_audio_error": false,
+      "context_recheck_evidence": [
+        {
+          "report": "results/targeted_large_v3_rechecks.json",
+          "window_id": "E03_parents_and_obedience",
+          "beam_size": 1,
+          "global_start_seconds": 403,
+          "global_end_seconds": 434
+        }
+      ]
+    },
+    {
+      "candidate_id": 12,
+      "expected": "والعصيان.",
+      "asr": "والأصيان",
+      "expected_context": "بوالديه، بعيدًا عن التكبر والعصيان. وهكذا اكتمل في خبره",
+      "start_seconds": 425.74,
+      "end_seconds": 426.44,
+      "operations": [
+        "substitute"
+      ],
+      "raw_stem": "E03_G03",
+      "raw_start_seconds": 101.98,
+      "raw_end_seconds": 102.68,
+      "episode": "E03",
+      "key": "E03:12",
+      "initial_status": "ASR/pronunciation review candidate, not a confirmed audio error",
+      "initial_classification": "priority_targeted_recheck",
+      "initial_review_note_ar": "العصيان/الأصيان اختلاف عين/همزة يستحق فحصًا سياقيًا.",
+      "final_status": "context_recovered",
+      "review_note_ar": "قرأ المقتطف «العصيان» بالعين كما في النص بعد صورة «الأصيان» في المسح الكامل.",
+      "context_hypotheses": {
+        "turbo": "والأصيان",
+        "large_v3_greedy": "والعصيان"
+      },
+      "status_ar": "عاد التفريغ إلى النص المتوقع في سياق مستقل؛ الاختلاف الأول غير ثابت",
+      "confirmed_audio_error": false,
+      "context_recheck_evidence": [
+        {
+          "report": "results/targeted_large_v3_rechecks.json",
+          "window_id": "E03_parents_and_obedience",
+          "beam_size": 1,
+          "global_start_seconds": 403,
+          "global_end_seconds": 434
+        }
+      ]
+    },
+    {
+      "candidate_id": 13,
+      "expected": "عليها",
+      "asr": "عليه",
+      "expected_context": "وجد الرزق عند مَرْيَم عليها السلام، ودعا ربه، فجاءته",
+      "start_seconds": 453.3,
+      "end_seconds": 453.48,
+      "operations": [
+        "substitute"
+      ],
+      "raw_stem": "E03_G03",
+      "raw_start_seconds": 129.54,
+      "raw_end_seconds": 129.72,
+      "episode": "E03",
+      "key": "E03:13",
+      "initial_status": "ASR/pronunciation review candidate, not a confirmed audio error",
+      "initial_classification": "unresolved_pronoun_ending",
+      "initial_review_note_ar": "عليها/عليه نهاية ضمير المؤنث؛ المصدر المعتمد باقٍ دون تغيير.",
+      "final_status": "unresolved_ending_or_boundary",
+      "review_note_ar": "عليها/عليه نهاية ضمير المؤنث؛ المصدر المعتمد باقٍ دون تغيير.",
+      "status_ar": "نهاية نحوية أو حد كلمة غير محسوم من التفريغ وحده",
+      "confirmed_audio_error": false,
+      "context_recheck_evidence": []
+    },
+    {
+      "candidate_id": 1,
+      "expected": "ولموتى",
+      "asr": "ولموت",
+      "expected_context": "الدعاء لوالدي رحمه الله ولموتى المسلمين بالمغفرة والرحمة، ونحتسب",
+      "start_seconds": 36.04,
+      "end_seconds": 36.86,
+      "operations": [
+        "substitute"
+      ],
+      "raw_stem": "E04_G01",
+      "raw_start_seconds": 36.04,
+      "raw_end_seconds": 36.86,
+      "episode": "E04",
+      "key": "E04:1",
+      "initial_status": "ASR/pronunciation review candidate, not a confirmed audio error",
+      "initial_classification": "unresolved_morphology_or_asr_spelling",
+      "initial_review_note_ar": "موتى/موت اختلاف رسم النهاية لا يحسم الصوت.",
+      "final_status": "unresolved_ending_or_boundary",
+      "review_note_ar": "موتى/موت اختلاف رسم النهاية لا يحسم الصوت.",
+      "status_ar": "نهاية نحوية أو حد كلمة غير محسوم من التفريغ وحده",
+      "confirmed_audio_error": false,
+      "context_recheck_evidence": [
+        {
+          "report": "results/targeted_large_v3_rechecks.json",
+          "window_id": "E04_calendar_and_umrah",
+          "beam_size": 1,
+          "global_start_seconds": 30,
+          "global_end_seconds": 58
+        }
+      ]
+    },
+    {
+      "candidate_id": 2,
+      "expected": "القَعْدة",
+      "asr": "القادة",
+      "expected_context": "صدقة عنه. في ذي القَعْدة من السنة السادسة للهجرة،",
+      "start_seconds": 42.88,
+      "end_seconds": 43.3,
+      "operations": [
+        "substitute"
+      ],
+      "raw_stem": "E04_G01",
+      "raw_start_seconds": 42.88,
+      "raw_end_seconds": 43.3,
+      "episode": "E04",
+      "key": "E04:2",
+      "initial_status": "ASR/pronunciation review candidate, not a confirmed audio error",
+      "initial_classification": "priority_targeted_recheck",
+      "initial_review_note_ar": "القعدة/القادة: حرف العين في اسم الشهر يحتاج فحصًا سياقيًا.",
+      "final_status": "context_recovered",
+      "review_note_ar": "استعاد المقتطف اسم الشهر «ذي القعدة» مطابقًا للنص بعد «القادة» في التفريغ الأول.",
+      "context_hypotheses": {
+        "turbo": "القادة",
+        "large_v3_greedy": "القعدة"
+      },
+      "status_ar": "عاد التفريغ إلى النص المتوقع في سياق مستقل؛ الاختلاف الأول غير ثابت",
+      "confirmed_audio_error": false,
+      "context_recheck_evidence": [
+        {
+          "report": "results/targeted_large_v3_rechecks.json",
+          "window_id": "E04_calendar_and_umrah",
+          "beam_size": 1,
+          "global_start_seconds": 30,
+          "global_end_seconds": 58
+        }
+      ]
+    },
+    {
+      "candidate_id": 3,
+      "expected": "وأربعمئة",
+      "asr": "وأربعمائة",
+      "expected_context": "وسلم ومعه نحو ألف وأربعمئة من أصحابه يريدون العمرة.",
+      "start_seconds": 49.22,
+      "end_seconds": 50.14,
+      "operations": [
+        "substitute"
+      ],
+      "raw_stem": "E04_G01",
+      "raw_start_seconds": 49.22,
+      "raw_end_seconds": 50.14,
+      "episode": "E04",
+      "key": "E04:3",
+      "initial_status": "ASR/pronunciation review candidate, not a confirmed audio error",
+      "initial_classification": "orthographic_number_variant",
+      "initial_review_note_ar": "أربعمئة/أربعمائة تمثيلان للقيمة العددية نفسها؛ لا تغير في العدد.",
+      "final_status": "representation_difference",
+      "review_note_ar": "أربعمئة/أربعمائة تمثيلان للقيمة العددية نفسها؛ لا تغير في العدد.",
+      "status_ar": "اختلاف رسم أو تمثيل كتابي؛ ليس بحد ذاته دليل خطأ صوتي",
+      "confirmed_audio_error": false,
+      "context_recheck_evidence": [
+        {
+          "report": "results/targeted_large_v3_rechecks.json",
+          "window_id": "E04_calendar_and_umrah",
+          "beam_size": 1,
+          "global_start_seconds": 30,
+          "global_end_seconds": 58
+        }
+      ]
+    },
+    {
+      "candidate_id": 4,
+      "expected": "العمرة.",
+      "asr": "العمر",
+      "expected_context": "وأربعمئة من أصحابه يريدون العمرة. وكان قد رأى أنه",
+      "start_seconds": 51.7,
+      "end_seconds": 52.06,
+      "operations": [
+        "substitute"
+      ],
+      "raw_stem": "E04_G01",
+      "raw_start_seconds": 51.7,
+      "raw_end_seconds": 52.06,
+      "episode": "E04",
+      "key": "E04:4",
+      "initial_status": "ASR/pronunciation review candidate, not a confirmed audio error",
+      "initial_classification": "unresolved_word_ending",
+      "initial_review_note_ar": "العمرة/العمر نهاية التأنيث؛ تراجع ضمن سياق تاريخ الرحلة.",
+      "final_status": "unresolved_ending_or_boundary",
+      "review_note_ar": "العمرة/العمر نهاية التأنيث؛ تراجع ضمن سياق تاريخ الرحلة.",
+      "status_ar": "نهاية نحوية أو حد كلمة غير محسوم من التفريغ وحده",
+      "confirmed_audio_error": false,
+      "context_recheck_evidence": [
+        {
+          "report": "results/targeted_large_v3_rechecks.json",
+          "window_id": "E04_calendar_and_umrah",
+          "beam_size": 1,
+          "global_start_seconds": 30,
+          "global_end_seconds": 58
+        }
+      ]
+    },
+    {
+      "candidate_id": 5,
+      "expected": "يبق",
+      "asr": "يبقى",
+      "expected_context": "الطريق إلى البيت لم يبق مفتوحًا أمامهم. علم النبي",
+      "start_seconds": 64.92,
+      "end_seconds": 65.36,
+      "operations": [
+        "substitute"
+      ],
+      "raw_stem": "E04_G01",
+      "raw_start_seconds": 64.92,
+      "raw_end_seconds": 65.36,
+      "episode": "E04",
+      "key": "E04:5",
+      "initial_status": "ASR/pronunciation review candidate, not a confirmed audio error",
+      "initial_classification": "unresolved_morphology_or_asr_spelling",
+      "initial_review_note_ar": "لم يبق/لم يبقى اختلاف كتابة الجزم والألف؛ لا يثبت الحركة الصوتية.",
+      "final_status": "unresolved_ending_or_boundary",
+      "review_note_ar": "لم يبق/لم يبقى اختلاف كتابة الجزم والألف؛ لا يثبت الحركة الصوتية.",
+      "status_ar": "نهاية نحوية أو حد كلمة غير محسوم من التفريغ وحده",
+      "confirmed_audio_error": false,
+      "context_recheck_evidence": []
+    },
+    {
+      "candidate_id": 6,
+      "expected": "ثَنِيّة",
+      "asr": "ثانية",
+      "expected_context": "حتى بلغت الناقة القَصْواء ثَنِيّة في الطريق، فبركت. حثّها",
+      "start_seconds": 80.98,
+      "end_seconds": 81.5,
+      "operations": [
+        "substitute"
+      ],
+      "raw_stem": "E04_G01",
+      "raw_start_seconds": 80.98,
+      "raw_end_seconds": 81.5,
+      "episode": "E04",
+      "key": "E04:6",
+      "initial_status": "ASR/pronunciation review candidate, not a confirmed audio error",
+      "initial_classification": "priority_targeted_recheck",
+      "initial_review_note_ar": "ثنية/ثانية كلمتان مختلفتان لو ثبت اللفظ؛ تحتاج قراءة سياقية.",
+      "final_status": "persistent_lexical_candidate",
+      "review_note_ar": "استمرت قراءة «ثانية» بدل «ثَنِيّة» في القراءات الثلاث. الفرق متعلق بالمد والتضعيف وقد يغير الكلمة من موضع في الطريق إلى عدد ترتيبي إن ثبت صوتيًا؛ لا يستطيع الرسم وحده اعتماد النطق.",
+      "context_hypotheses": {
+        "turbo": "ثانية",
+        "large_v3_greedy": "ثانية",
+        "large_v3_beam5": "ثانية"
+      },
+      "status_ar": "مرشح معجمي مستمر يحتاج تحققًا سمعيًا أو صوتيًا مباشرًا",
+      "confirmed_audio_error": false,
+      "context_recheck_evidence": [
+        {
+          "report": "results/targeted_large_v3_rechecks.json",
+          "window_id": "E04_mountain_pass",
+          "beam_size": 1,
+          "global_start_seconds": 72,
+          "global_end_seconds": 97
+        },
+        {
+          "report": "results/final_large_v3_beam5_rechecks.json",
+          "window_id": "E04_mountain_pass",
+          "beam_size": 5,
+          "global_start_seconds": 75,
+          "global_end_seconds": 94
+        }
+      ]
+    },
+    {
+      "candidate_id": 7,
+      "expected": "حثّها",
+      "asr": "حثاها",
+      "expected_context": "ثَنِيّة في الطريق، فبركت. حثّها الناس على النهوض، ثم",
+      "start_seconds": 83.34,
+      "end_seconds": 84.38,
+      "operations": [
+        "substitute"
+      ],
+      "raw_stem": "E04_G01",
+      "raw_start_seconds": 83.34,
+      "raw_end_seconds": 84.38,
+      "episode": "E04",
+      "key": "E04:7",
+      "initial_status": "ASR/pronunciation review candidate, not a confirmed audio error",
+      "initial_classification": "priority_targeted_recheck",
+      "initial_review_note_ar": "حثّها/حثاها اختلاف تمثيل الشدة/المد؛ يراجع في النافذة نفسها.",
+      "final_status": "context_recovered",
+      "review_note_ar": "عاد كلا المقتطفين إلى «حثها» بدل «حثاها»؛ لا تبقى زيادة الألف في التفريغ الأول دليلًا ثابتًا على الأداء.",
+      "context_hypotheses": {
+        "turbo": "حثاها",
+        "large_v3_greedy": "حثها",
+        "large_v3_beam5": "حثها"
+      },
+      "status_ar": "عاد التفريغ إلى النص المتوقع في سياق مستقل؛ الاختلاف الأول غير ثابت",
+      "confirmed_audio_error": false,
+      "context_recheck_evidence": [
+        {
+          "report": "results/targeted_large_v3_rechecks.json",
+          "window_id": "E04_mountain_pass",
+          "beam_size": 1,
+          "global_start_seconds": 72,
+          "global_end_seconds": 97
+        },
+        {
+          "report": "results/final_large_v3_beam5_rechecks.json",
+          "window_id": "E04_mountain_pass",
+          "beam_size": 5,
+          "global_start_seconds": 75,
+          "global_end_seconds": 94
+        }
+      ]
+    },
+    {
+      "candidate_id": 8,
+      "expected": "وشكوا",
+      "asr": "وشك",
+      "expected_context": "الناس منه حتى نفد، وشكوا العطش. فأخرج النبي صلى",
+      "start_seconds": 114.2,
+      "end_seconds": 114.92,
+      "operations": [
+        "substitute"
+      ],
+      "raw_stem": "E04_G01",
+      "raw_start_seconds": 114.2,
+      "raw_end_seconds": 114.92,
+      "episode": "E04",
+      "key": "E04:8",
+      "initial_status": "ASR/pronunciation review candidate, not a confirmed audio error",
+      "initial_classification": "unresolved_plural_ending",
+      "initial_review_note_ar": "شكوا/شك اختلاف نهاية الجمع في التفريغ لا يكفي للحكم على الصوت.",
+      "final_status": "unresolved_ending_or_boundary",
+      "review_note_ar": "شكوا/شك اختلاف نهاية الجمع في التفريغ لا يكفي للحكم على الصوت.",
+      "status_ar": "نهاية نحوية أو حد كلمة غير محسوم من التفريغ وحده",
+      "confirmed_audio_error": false,
+      "context_recheck_evidence": []
+    },
+    {
+      "candidate_id": 9,
+      "expected": "جاؤوا",
+      "asr": "جاءوا",
+      "expected_context": "لمنعهم. فبيّن له أنهم جاؤوا معتمرين، وعرض مهلة تكف",
+      "start_seconds": 144.76,
+      "end_seconds": 145.26,
+      "operations": [
+        "substitute"
+      ],
+      "raw_stem": "E04_G01",
+      "raw_start_seconds": 144.76,
+      "raw_end_seconds": 145.26,
+      "episode": "E04",
+      "key": "E04:9",
+      "initial_status": "ASR/pronunciation review candidate, not a confirmed audio error",
+      "initial_classification": "orthographic_only",
+      "initial_review_note_ar": "جاؤوا/جاءوا اختلاف رسم الهمزة.",
+      "final_status": "representation_difference",
+      "review_note_ar": "جاؤوا/جاءوا اختلاف رسم الهمزة.",
+      "status_ar": "اختلاف رسم أو تمثيل كتابي؛ ليس بحد ذاته دليل خطأ صوتي",
+      "confirmed_audio_error": false,
+      "context_recheck_evidence": []
+    },
+    {
+      "candidate_id": 10,
+      "expected": "بيعة",
+      "asr": "باعة",
+      "expected_context": "مكة. وفي غيابه وقعت بيعة الرضوان تحت الشجرة. بايع",
+      "start_seconds": 193.26,
+      "end_seconds": 193.62,
+      "operations": [
+        "substitute"
+      ],
+      "raw_stem": "E04_G02",
+      "raw_start_seconds": 9.58,
+      "raw_end_seconds": 9.94,
+      "episode": "E04",
+      "key": "E04:10",
+      "initial_status": "ASR/pronunciation review candidate, not a confirmed audio error",
+      "initial_classification": "priority_targeted_recheck",
+      "initial_review_note_ar": "بيعة/باعة: لفظ تاريخي أساسي يحتاج قراءة سياقية.",
+      "final_status": "unstable_contextual_candidate",
+      "review_note_ar": "المسح الكامل قرأ «باعة»، والمقتطف الأول قرأ «بيعة» مطابقًا، ثم عاد beam5 إلى «باعة». هذه نتيجة غير مستقرة؛ لا يصح إعلان صحة النطق أو خطئه اعتمادًا على اختيار القراءة الموافقة فقط.",
+      "context_hypotheses": {
+        "turbo": "باعة",
+        "large_v3_greedy": "بيعة",
+        "large_v3_beam5": "باعة"
+      },
+      "status_ar": "قراءة غير مستقرة: وافق سياق النص ثم عاد سياق آخر إلى الاختلاف",
+      "confirmed_audio_error": false,
+      "context_recheck_evidence": [
+        {
+          "report": "results/targeted_large_v3_rechecks.json",
+          "window_id": "E04_pledge",
+          "beam_size": 1,
+          "global_start_seconds": 183.68,
+          "global_end_seconds": 211.5
+        },
+        {
+          "report": "results/final_large_v3_beam5_rechecks.json",
+          "window_id": "E04_pledge",
+          "beam_size": 5,
+          "global_start_seconds": 188,
+          "global_end_seconds": 209
+        }
+      ]
+    },
+    {
+      "candidate_id": 11,
+      "expected": "بايع الصحابة",
+      "asr": "باعت صحابة",
+      "expected_context": "بيعة الرضوان تحت الشجرة. بايع الصحابة النبي صلى الله عليه",
+      "start_seconds": 195.0,
+      "end_seconds": 196.62,
+      "operations": [
+        "substitute",
+        "substitute"
+      ],
+      "raw_stem": "E04_G02",
+      "raw_start_seconds": 11.32,
+      "raw_end_seconds": 12.94,
+      "episode": "E04",
+      "key": "E04:11",
+      "initial_status": "ASR/pronunciation review candidate, not a confirmed audio error",
+      "initial_classification": "priority_targeted_recheck",
+      "initial_review_note_ar": "بايع الصحابة/باعت صحابة: يراجع في سياق البيعة.",
+      "final_status": "unstable_contextual_candidate",
+      "review_note_ar": "قرأ المقتطف الأول «بايع الصحابة» مطابقًا، لكن المسح الكامل والمقتطف الأخير قرآ «باعت صحابة». اختلاف تجزئة اللفظ ونهايته غير محسوم؛ المقتطف الموافق لا يمحو القراءات المتعارضة.",
+      "context_hypotheses": {
+        "turbo": "باعت صحابة",
+        "large_v3_greedy": "بايع الصحابة",
+        "large_v3_beam5": "باعت صحابة"
+      },
+      "status_ar": "قراءة غير مستقرة: وافق سياق النص ثم عاد سياق آخر إلى الاختلاف",
+      "confirmed_audio_error": false,
+      "context_recheck_evidence": [
+        {
+          "report": "results/targeted_large_v3_rechecks.json",
+          "window_id": "E04_pledge",
+          "beam_size": 1,
+          "global_start_seconds": 183.68,
+          "global_end_seconds": 211.5
+        },
+        {
+          "report": "results/final_large_v3_beam5_rechecks.json",
+          "window_id": "E04_pledge",
+          "beam_size": 5,
+          "global_start_seconds": 188,
+          "global_end_seconds": 209
+        }
+      ]
+    },
+    {
+      "candidate_id": 12,
+      "expected": "وألا يفرّوا،",
+      "asr": "وأن لا يفره",
+      "expected_context": "عليه وسلم على الثبات وألا يفرّوا، وبايع النبي عن عُثمان.",
+      "start_seconds": 199.5,
+      "end_seconds": 200.88,
+      "operations": [
+        "insert",
+        "substitute",
+        "substitute"
+      ],
+      "raw_stem": "E04_G02",
+      "raw_start_seconds": 15.82,
+      "raw_end_seconds": 17.2,
+      "episode": "E04",
+      "key": "E04:12",
+      "initial_status": "ASR/pronunciation review candidate, not a confirmed audio error",
+      "initial_classification": "priority_targeted_recheck",
+      "initial_review_note_ar": "وألا/وأن لا فصل كتابي؛ أما يفروا/يفره فيحتاج فحص السياق نفسه.",
+      "final_status": "persistent_lexical_candidate",
+      "review_note_ar": "المتوقع «وألا يفرّوا». كانت القراءة الأولى «وأن لا يفره»، ثم قرأ المقتطفان «وقال لا يفروا». استعيدت نهاية الفعل في المقتطفين لكن تركيب البداية بقي غير مطابق. لا يُستنتج من ذلك وحده إدراج كلمة في الصوت.",
+      "context_hypotheses": {
+        "turbo": "وأن لا يفره",
+        "large_v3_greedy": "وقال لا يفروا",
+        "large_v3_beam5": "وقال لا يفروا"
+      },
+      "status_ar": "مرشح معجمي مستمر يحتاج تحققًا سمعيًا أو صوتيًا مباشرًا",
+      "confirmed_audio_error": false,
+      "context_recheck_evidence": [
+        {
+          "report": "results/targeted_large_v3_rechecks.json",
+          "window_id": "E04_pledge",
+          "beam_size": 1,
+          "global_start_seconds": 183.68,
+          "global_end_seconds": 211.5
+        },
+        {
+          "report": "results/final_large_v3_beam5_rechecks.json",
+          "window_id": "E04_pledge",
+          "beam_size": 5,
+          "global_start_seconds": 188,
+          "global_end_seconds": 209
+        }
+      ]
+    },
+    {
+      "candidate_id": 13,
+      "expected": "عَمْرو",
+      "asr": "عمر",
+      "expected_context": "ثم وصل سُهَيْل بن عَمْرو ممثلًا لقريش في التفاوض",
+      "start_seconds": 217.66,
+      "end_seconds": 218.04,
+      "operations": [
+        "substitute"
+      ],
+      "raw_stem": "E04_G02",
+      "raw_start_seconds": 33.98,
+      "raw_end_seconds": 34.36,
+      "episode": "E04",
+      "key": "E04:13",
+      "initial_status": "ASR/pronunciation review candidate, not a confirmed audio error",
+      "initial_classification": "name_orthography_vowels_unresolved",
+      "initial_review_note_ar": "عمرو/عمر: الواو الفارقة ليست وحدها دليل نطق؛ ASR غير المشكول لا يحسم عَمْر/عُمَر.",
+      "final_status": "representation_difference",
+      "review_note_ar": "عمرو/عمر: الواو الفارقة ليست وحدها دليل نطق؛ ASR غير المشكول لا يحسم عَمْر/عُمَر.",
+      "status_ar": "اختلاف رسم أو تمثيل كتابي؛ ليس بحد ذاته دليل خطأ صوتي",
+      "confirmed_audio_error": false,
+      "context_recheck_evidence": []
+    },
+    {
+      "candidate_id": 14,
+      "expected": "استثقل",
+      "asr": "استفقل",
+      "expected_context": "من يأتيها من المسلمين. استثقل الصحابة هذا الشرط، فبيّن",
+      "start_seconds": 262.72,
+      "end_seconds": 264.06,
+      "operations": [
+        "substitute"
+      ],
+      "raw_stem": "E04_G02",
+      "raw_start_seconds": 79.04,
+      "raw_end_seconds": 80.38,
+      "episode": "E04",
+      "key": "E04:14",
+      "initial_status": "ASR/pronunciation review candidate, not a confirmed audio error",
+      "initial_classification": "priority_targeted_recheck",
+      "initial_review_note_ar": "استثقل/استفقل اختلاف ثاء/فاء يحتاج قراءة سياقية.",
+      "final_status": "persistent_lexical_candidate",
+      "review_note_ar": "استمر «استفقل» بدل «استثقل». الفرق ثاء/فاء يحتاج تحققًا صوتيًا مباشرًا؛ بقاء التفريغ غير الطبيعي سياقيًا لا يكفي لإثبات العيب.",
+      "context_hypotheses": {
+        "turbo": "استفقل",
+        "large_v3_greedy": "استفقل",
+        "large_v3_beam5": "استفقل"
+      },
+      "status_ar": "مرشح معجمي مستمر يحتاج تحققًا سمعيًا أو صوتيًا مباشرًا",
+      "confirmed_audio_error": false,
+      "context_recheck_evidence": [
+        {
+          "report": "results/targeted_large_v3_rechecks.json",
+          "window_id": "E04_treaty_condition",
+          "beam_size": 1,
+          "global_start_seconds": 252,
+          "global_end_seconds": 276
+        },
+        {
+          "report": "results/final_large_v3_beam5_rechecks.json",
+          "window_id": "E04_treaty_condition",
+          "beam_size": 5,
+          "global_start_seconds": 256,
+          "global_end_seconds": 276
+        }
+      ]
+    },
+    {
+      "candidate_id": 15,
+      "expected": "عَمْرو",
+      "asr": "عمر",
+      "expected_context": "جَنْدَل بن سُهَيْل بن عَمْرو قد تعرّض لتعذيب شديد",
+      "start_seconds": 279.96,
+      "end_seconds": 280.32,
+      "operations": [
+        "substitute"
+      ],
+      "raw_stem": "E04_G02",
+      "raw_start_seconds": 96.28,
+      "raw_end_seconds": 96.64,
+      "episode": "E04",
+      "key": "E04:15",
+      "initial_status": "ASR/pronunciation review candidate, not a confirmed audio error",
+      "initial_classification": "name_orthography_vowels_unresolved",
+      "initial_review_note_ar": "عمرو/عمر اختلاف رسم اسم مع بقاء ضبطه الصوتي غير محسوم من ASR.",
+      "final_status": "representation_difference",
+      "review_note_ar": "عمرو/عمر اختلاف رسم اسم مع بقاء ضبطه الصوتي غير محسوم من ASR.",
+      "status_ar": "اختلاف رسم أو تمثيل كتابي؛ ليس بحد ذاته دليل خطأ صوتي",
+      "confirmed_audio_error": false,
+      "context_recheck_evidence": []
+    },
+    {
+      "candidate_id": 16,
+      "expected": "أن",
+      "asr": "أم",
+      "expected_context": "بعد، وطلب من سُهَيْل أن يستثني أبا جَنْدَل ويتركه",
+      "start_seconds": 300.62,
+      "end_seconds": 301.12,
+      "operations": [
+        "substitute"
+      ],
+      "raw_stem": "E04_G02",
+      "raw_start_seconds": 116.94,
+      "raw_end_seconds": 117.44,
+      "episode": "E04",
+      "key": "E04:16",
+      "initial_status": "ASR/pronunciation review candidate, not a confirmed audio error",
+      "initial_classification": "priority_targeted_recheck",
+      "initial_review_note_ar": "أن/أم اختلاف نون/ميم؛ يراجع في سياق استثناء أبي جندل.",
+      "final_status": "context_recovered",
+      "review_note_ar": "قرأ المقتطف «أن يستثني أبا جندل» مطابقًا بعد «أم» في المسح الكامل.",
+      "context_hypotheses": {
+        "turbo": "أم",
+        "large_v3_greedy": "أن"
+      },
+      "status_ar": "عاد التفريغ إلى النص المتوقع في سياق مستقل؛ الاختلاف الأول غير ثابت",
+      "confirmed_audio_error": false,
+      "context_recheck_evidence": [
+        {
+          "report": "results/targeted_large_v3_rechecks.json",
+          "window_id": "E04_abu_jandal",
+          "beam_size": 1,
+          "global_start_seconds": 291,
+          "global_end_seconds": 322
+        }
+      ]
+    },
+    {
+      "candidate_id": 17,
+      "expected": "لقيه،",
+      "asr": "لقياه",
+      "expected_context": "جَنْدَل يخاطب المسلمين بما لقيه، ويسأل كيف يُعاد إلى",
+      "start_seconds": 315.14,
+      "end_seconds": 315.92,
+      "operations": [
+        "substitute"
+      ],
+      "raw_stem": "E04_G02",
+      "raw_start_seconds": 131.46,
+      "raw_end_seconds": 132.24,
+      "episode": "E04",
+      "key": "E04:17",
+      "initial_status": "ASR/pronunciation review candidate, not a confirmed audio error",
+      "initial_classification": "priority_targeted_recheck",
+      "initial_review_note_ar": "لقيه/لقياه: يراجع ضمن النافذة نفسها، ولا يغير النص.",
+      "final_status": "context_recovered",
+      "review_note_ar": "عاد المقتطف إلى «بما لقيه» مطابقًا، بدل رسم «لقياه» في التفريغ الأول.",
+      "context_hypotheses": {
+        "turbo": "لقياه",
+        "large_v3_greedy": "لقيه"
+      },
+      "status_ar": "عاد التفريغ إلى النص المتوقع في سياق مستقل؛ الاختلاف الأول غير ثابت",
+      "confirmed_audio_error": false,
+      "context_recheck_evidence": [
+        {
+          "report": "results/targeted_large_v3_rechecks.json",
+          "window_id": "E04_abu_jandal",
+          "beam_size": 1,
+          "global_start_seconds": 291,
+          "global_end_seconds": 322
+        }
+      ]
+    },
+    {
+      "candidate_id": 18,
+      "expected": "سَلَمة",
+      "asr": "سلم",
+      "expected_context": "مرات. فدخل على أم سَلَمة رضي الله عنها، وذكر",
+      "start_seconds": 386.12,
+      "end_seconds": 386.46,
+      "operations": [
+        "substitute"
+      ],
+      "raw_stem": "E04_G03",
+      "raw_start_seconds": 54.04,
+      "raw_end_seconds": 54.38,
+      "episode": "E04",
+      "key": "E04:18",
+      "initial_status": "ASR/pronunciation review candidate, not a confirmed audio error",
+      "initial_classification": "priority_targeted_recheck",
+      "initial_review_note_ar": "سلمة/سلم: نهاية اسم أم سلمة تحتاج قراءة سياقية.",
+      "final_status": "context_recovered",
+      "review_note_ar": "عاد الاسم إلى «أم سلمة» كاملًا في المقتطف المستقل بعدما ظهر «سلم» في المسح الأول.",
+      "context_hypotheses": {
+        "turbo": "سلم",
+        "large_v3_greedy": "سلمة"
+      },
+      "status_ar": "عاد التفريغ إلى النص المتوقع في سياق مستقل؛ الاختلاف الأول غير ثابت",
+      "confirmed_audio_error": false,
+      "context_recheck_evidence": [
+        {
+          "report": "results/targeted_large_v3_rechecks.json",
+          "window_id": "E04_umm_salama",
+          "beam_size": 1,
+          "global_start_seconds": 375,
+          "global_end_seconds": 398
+        }
+      ]
+    },
+    {
+      "candidate_id": 19,
+      "expected": "والنصر،",
+      "asr": "والمصر",
+      "expected_context": "تحمل بشرى الفتح والمغفرة والنصر، وتبشر المؤمنين والمؤمنات بالجنة",
+      "start_seconds": 422.52,
+      "end_seconds": 423.18,
+      "operations": [
+        "substitute"
+      ],
+      "raw_stem": "E04_G03",
+      "raw_start_seconds": 90.44,
+      "raw_end_seconds": 91.1,
+      "episode": "E04",
+      "key": "E04:19",
+      "initial_status": "ASR/pronunciation review candidate, not a confirmed audio error",
+      "initial_classification": "priority_targeted_recheck",
+      "initial_review_note_ar": "النصر/المصر اختلاف نون/ميم يحتاج قراءة سياقية.",
+      "final_status": "persistent_lexical_candidate",
+      "review_note_ar": "استمرت «المصر» بدل «النصر» في القراءات الثلاث. اختلاف النون والميم يغير الكلمة إن ثبت في الأداء؛ لا تتوافر هنا مراجعة سمعية لإثباته.",
+      "context_hypotheses": {
+        "turbo": "والمصر",
+        "large_v3_greedy": "والمصر",
+        "large_v3_beam5": "والمصر"
+      },
+      "status_ar": "مرشح معجمي مستمر يحتاج تحققًا سمعيًا أو صوتيًا مباشرًا",
+      "confirmed_audio_error": false,
+      "context_recheck_evidence": [
+        {
+          "report": "results/targeted_large_v3_rechecks.json",
+          "window_id": "E04_revelation",
+          "beam_size": 1,
+          "global_start_seconds": 411,
+          "global_end_seconds": 438
+        },
+        {
+          "report": "results/final_large_v3_beam5_rechecks.json",
+          "window_id": "E04_revelation",
+          "beam_size": 5,
+          "global_start_seconds": 416,
+          "global_end_seconds": 434
+        }
+      ]
+    }
+  ],
+  "orthographic_differences_normalized_in_initial_alignment": {
+    "E01": [],
+    "E02": [
+      {
+        "expected": "آتاه",
+        "asr": "أتاه",
+        "start_seconds": 283.42,
+        "end_seconds": 284.18,
+        "status": "Orthographic difference retained for review; equal only after Alef/Ya normalization"
+      }
+    ],
+    "E03": [
+      {
+        "expected": "الابن.",
+        "asr": "الإبن",
+        "start_seconds": 254.82,
+        "end_seconds": 255.66,
+        "status": "Orthographic difference retained for review; equal only after Alef/Ya normalization"
+      },
+      {
+        "expected": "الابن",
+        "asr": "الإبن",
+        "start_seconds": 347.82,
+        "end_seconds": 348.22,
+        "status": "Orthographic difference retained for review; equal only after Alef/Ya normalization"
+      },
+      {
+        "expected": "الابن.",
+        "asr": "الإبن",
+        "start_seconds": 459.2,
+        "end_seconds": 459.66,
+        "status": "Orthographic difference retained for review; equal only after Alef/Ya normalization"
+      },
+      {
+        "expected": "الابن",
+        "asr": "الإبن",
+        "start_seconds": 461.5,
+        "end_seconds": 461.94,
+        "status": "Orthographic difference retained for review; equal only after Alef/Ya normalization"
+      }
+    ],
+    "E04": []
+  },
+  "initial_raw_e01_artifact_review": "results/E01_G01_candidate_triage.json",
+  "limitations_ar": [
+    "لم يجر استماع بشري أو مراجعة سمعية مباشرة. هذا فحص آلي للكلمات، وليس اعتمادًا مكتملًا للنطق أو الأداء.",
+    "نص ASR فرضية قد يطبع الإملاء أو يحذف أو يبدل أو يضيف كلمات. تطابقه مع النص لا يثبت الحركات والإعراب وطول المد والمخارج والوقف وجودة الأداء.",
+    "اختلاف التفريغ المستمر بين قراءات النموذج يرفع أولوية المراجعة، لكنه لا يثبت وحده خطأ في الصوت. ولم تُعتمد أي إعادة توليد بسبب هذه النتائج.",
+    "Turbo وlarge-v3 من عائلة Whisper نفسها؛ اتفاقهما ليس بديلًا عن تحقق سمعي مستقل.",
+    "أُجبر النموذج على العربية. قيمة language_probability=1 ليست قياس ثقة مستقلًا في كشف اللغة.",
+    "التوقيتات تقريبية من ASR. المرور النهائي يثبت حدود المقتطف ولا يعيد حساب توقيت كل كلمة.",
+    "الأعداد المعروضة فروق بين النص المرجعي وتفريغ النموذج، وليست معدل أخطاء مقاسًا لصوت TTS.",
+    "المصدر 03_Prophets_Stories_ElevenLabs_TTS.txt، قسم QUALITY CHECKS، ينص على أن التفريغ الآلي أداة مساعدة ولا يحل محل الاستماع. هذا الجزء السمعي لم يُنجز هنا."
+  ],
+  "official_technical_sources": [
+    {
+      "url": "https://github.com/SYSTRAN/faster-whisper/blob/master/README.md",
+      "purpose": "Official installation, CPU INT8, local model input and decoding options"
+    },
+    {
+      "url": "https://huggingface.co/Systran/faster-whisper-large-v3",
+      "purpose": "Maintainer large-v3 conversion provenance"
+    },
+    {
+      "url": "https://huggingface.co/docs/huggingface_hub/package_reference/environment_variables",
+      "purpose": "Offline, implicit-token and telemetry flags"
+    },
+    {
+      "url": "https://opennmt.net/CTranslate2/quantization.html",
+      "purpose": "CPU quantization support"
+    },
+    {
+      "url": "https://github.com/SYSTRAN/faster-whisper/blob/master/faster_whisper/utils.py",
+      "purpose": "Official model alias routing"
+    },
+    {
+      "url": "https://huggingface.co/openai/whisper-large-v3-turbo",
+      "purpose": "Original multilingual turbo model and speed/quality tradeoff"
+    },
+    {
+      "url": "https://huggingface.co/dropbox-dash/faster-whisper-large-v3-turbo",
+      "purpose": "Public converted turbo weights; canonical redirected repository"
+    }
+  ],
+  "normalization": "NFKC, whitespace tokens, remove marks/tatweel/punctuation; Alef variants to Alef and Alef Maqsura to Ya only for lexical comparison; preserve raw spelling and separately report normalized differences; no Ta Marbuta/Ha conflation or clitic splitting.",
+  "environment_baseline": {
+    "date_utc": "2026-10-23",
+    "python": "3.12.14",
+    "cpu_visible": 9,
+    "cpu_affinity": 9,
+    "cpu_quota_cores": 8,
+    "memory_limit_bytes": 8589934592,
+    "initial_mem_available_kib": 9482044,
+    "swap_total_kib": 0,
+    "initial_disk_free_bytes": 30697594880,
+    "gpu_detected": false,
+    "existing_asr_packages": false,
+    "existing_model_cache_detected": false,
+    "chosen_model": "Systran/faster-whisper-large-v3",
+    "chosen_compute_type": "CPU int8",
+    "cpu_threads": 6,
+    "workers": 1,
+    "independent_asr": true,
+    "audio_external_upload": false
+  },
+  "remaining_di[REDACTED SECRET]": 12779876352
+}

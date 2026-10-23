@@ -1,0 +1,597 @@
+{
+  "status": "FRAMEWORK_AND_STILL_QA_ONLY_NOT_FINAL_VIDEO_QA",
+  "ready": {
+    "ready": true,
+    "font": "Noto Naskh Arabic",
+    "font_loaded": true,
+    "audio_derived": true,
+    "episodes": 4,
+    "scenes": 40
+  },
+  "console_errors": [],
+  "network_requests": [],
+  "still_count": 80,
+  "portrait_covers": 40,
+  "landscape_scene_snapshots": 40,
+  "deterministic_seek_hashes": [
+    "2e646e73d4be523a579a624c116303af45b98a6695e6cb7cc1113bfe11a38454",
+    "2e646e73d4be523a579a624c116303af45b98a6695e6cb7cc1113bfe11a38454"
+  ],
+  "seek_is_deterministic": true,
+  "stationary_camera_internal_motion_changed_channel_fraction": 0.0266365529663402,
+  "three_sample_render_ms_per_output_frame": 142.83333333333334,
+  "three_sample_test_times": [
+    207.11387188208616,
+    207.11664965986392,
+    207.11942743764172
+  ],
+  "total_inspection_seconds": 83.334,
+  "timing_validation": {
+    "ok": true,
+    "issues": [],
+    "audio_derived": true,
+    "preview_only": false
+  },
+  "stills": [
+    {
+      "episode": "E01",
+      "part": 1,
+      "layout": "landscape",
+      "scene": "stone_water",
+      "path": "/workspace/scratch/241cacf14d27/outputs/Prophets_Stories_Production/Motion/QA/E01_P01_Landscape.png"
+    },
+    {
+      "episode": "E01",
+      "part": 2,
+      "layout": "landscape",
+      "scene": "years",
+      "path": "/workspace/scratch/241cacf14d27/outputs/Prophets_Stories_Production/Motion/QA/E01_P02_Landscape.png"
+    },
+    {
+      "episode": "E01",
+      "part": 3,
+      "layout": "landscape",
+      "scene": "ink_question",
+      "path": "/workspace/scratch/241cacf14d27/outputs/Prophets_Stories_Production/Motion/QA/E01_P03_Landscape.png"
+    },
+    {
+      "episode": "E01",
+      "part": 4,
+      "layout": "landscape",
+      "scene": "ink_paths",
+      "path": "/workspace/scratch/241cacf14d27/outputs/Prophets_Stories_Production/Motion/QA/E01_P04_Landscape.png"
+    },
+    {
+      "episode": "E01",
+      "part": 5,
+      "layout": "landscape",
+      "scene": "spring_anticipation",
+      "path": "/workspace/scratch/241cacf14d27/outputs/Prophets_Stories_Production/Motion/QA/E01_P05_Landscape.png"
+    },
+    {
+      "episode": "E01",
+      "part": 6,
+      "layout": "landscape",
+      "scene": "spring",
+      "path": "/workspace/scratch/241cacf14d27/outputs/Prophets_Stories_Production/Motion/QA/E01_P06_Landscape.png"
+    },
+    {
+      "episode": "E01",
+      "part": 7,
+      "layout": "landscape",
+      "scene": "water_return",
+      "path": "/workspace/scratch/241cacf14d27/outputs/Prophets_Stories_Production/Motion/QA/E01_P07_Landscape.png"
+    },
+    {
+      "episode": "E01",
+      "part": 8,
+      "layout": "landscape",
+      "scene": "granaries",
+      "path": "/workspace/scratch/241cacf14d27/outputs/Prophets_Stories_Production/Motion/QA/E01_P08_Landscape.png"
+    },
+    {
+      "episode": "E01",
+      "part": 9,
+      "layout": "landscape",
+      "scene": "bundle",
+      "path": "/workspace/scratch/241cacf14d27/outputs/Prophets_Stories_Production/Motion/QA/E01_P09_Landscape.png"
+    },
+    {
+      "episode": "E01",
+      "part": 10,
+      "layout": "landscape",
+      "scene": "locusts",
+      "path": "/workspace/scratch/241cacf14d27/outputs/Prophets_Stories_Production/Motion/QA/E01_P10_Landscape.png"
+    },
+    {
+      "episode": "E01",
+      "part": 1,
+      "layout": "portrait",
+      "scene": "stone_water",
+      "path": "/workspace/scratch/241cacf14d27/outputs/Prophets_Stories_Production/Motion/Covers/E01_P01_Cover.png"
+    },
+    {
+      "episode": "E01",
+      "part": 2,
+      "layout": "portrait",
+      "scene": "years",
+      "path": "/workspace/scratch/241cacf14d27/outputs/Prophets_Stories_Production/Motion/Covers/E01_P02_Cover.png"
+    },
+    {
+      "episode": "E01",
+      "part": 3,
+      "layout": "portrait",
+      "scene": "ink_question",
+      "path": "/workspace/scratch/241cacf14d27/outputs/Prophets_Stories_Production/Motion/Covers/E01_P03_Cover.png"
+    },
+    {
+      "episode": "E01",
+      "part": 4,
+      "layout": "portrait",
+      "scene": "ink_paths",
+      "path": "/workspace/scratch/241cacf14d27/outputs/Prophets_Stories_Production/Motion/Covers/E01_P04_Cover.png"
+    },
+    {
+      "episode": "E01",
+      "part": 5,
+      "layout": "portrait",
+      "scene": "spring_anticipation",
+      "path": "/workspace/scratch/241cacf14d27/outputs/Prophets_Stories_Production/Motion/Covers/E01_P05_Cover.png"
+    },
+    {
+      "episode": "E01",
+      "part": 6,
+      "layout": "portrait",
+      "scene": "spring",
+      "path": "/workspace/scratch/241cacf14d27/outputs/Prophets_Stories_Production/Motion/Covers/E01_P06_Cover.png"
+    },
+    {
+      "episode": "E01",
+      "part": 7,
+      "layout": "portrait",
+      "scene": "water_return",
+      "path": "/workspace/scratch/241cacf14d27/outputs/Prophets_Stories_Production/Motion/Covers/E01_P07_Cover.png"
+    },
+    {
+      "episode": "E01",
+      "part": 8,
+      "layout": "portrait",
+      "scene": "granaries",
+      "path": "/workspace/scratch/241cacf14d27/outputs/Prophets_Stories_Production/Motion/Covers/E01_P08_Cover.png"
+    },
+    {
+      "episode": "E01",
+      "part": 9,
+      "layout": "portrait",
+      "scene": "bundle",
+      "path": "/workspace/scratch/241cacf14d27/outputs/Prophets_Stories_Production/Motion/Covers/E01_P09_Cover.png"
+    },
+    {
+      "episode": "E01",
+      "part": 10,
+      "layout": "portrait",
+      "scene": "locusts",
+      "path": "/workspace/scratch/241cacf14d27/outputs/Prophets_Stories_Production/Motion/Covers/E01_P10_Cover.png"
+    },
+    {
+      "episode": "E02",
+      "part": 1,
+      "layout": "landscape",
+      "scene": "river_mail",
+      "path": "/workspace/scratch/241cacf14d27/outputs/Prophets_Stories_Production/Motion/QA/E02_P01_Landscape.png"
+    },
+    {
+      "episode": "E02",
+      "part": 2,
+      "layout": "landscape",
+      "scene": "paper_bands",
+      "path": "/workspace/scratch/241cacf14d27/outputs/Prophets_Stories_Production/Motion/QA/E02_P02_Landscape.png"
+    },
+    {
+      "episode": "E02",
+      "part": 3,
+      "layout": "landscape",
+      "scene": "chest",
+      "path": "/workspace/scratch/241cacf14d27/outputs/Prophets_Stories_Production/Motion/QA/E02_P03_Landscape.png"
+    },
+    {
+      "episode": "E02",
+      "part": 4,
+      "layout": "landscape",
+      "scene": "river",
+      "path": "/workspace/scratch/241cacf14d27/outputs/Prophets_Stories_Production/Motion/QA/E02_P04_Landscape.png"
+    },
+    {
+      "episode": "E02",
+      "part": 5,
+      "layout": "landscape",
+      "scene": "river_after",
+      "path": "/workspace/scratch/241cacf14d27/outputs/Prophets_Stories_Production/Motion/QA/E02_P05_Landscape.png"
+    },
+    {
+      "episode": "E02",
+      "part": 6,
+      "layout": "landscape",
+      "scene": "mountains",
+      "path": "/workspace/scratch/241cacf14d27/outputs/Prophets_Stories_Production/Motion/QA/E02_P06_Landscape.png"
+    },
+    {
+      "episode": "E02",
+      "part": 7,
+      "layout": "landscape",
+      "scene": "mail",
+      "path": "/workspace/scratch/241cacf14d27/outputs/Prophets_Stories_Production/Motion/QA/E02_P07_Landscape.png"
+    },
+    {
+      "episode": "E02",
+      "part": 8,
+      "layout": "landscape",
+      "scene": "field",
+      "path": "/workspace/scratch/241cacf14d27/outputs/Prophets_Stories_Production/Motion/QA/E02_P08_Landscape.png"
+    },
+    {
+      "episode": "E02",
+      "part": 9,
+      "layout": "landscape",
+      "scene": "ninety_nine",
+      "path": "/workspace/scratch/241cacf14d27/outputs/Prophets_Stories_Production/Motion/QA/E02_P09_Landscape.png"
+    },
+    {
+      "episode": "E02",
+      "part": 10,
+      "layout": "landscape",
+      "scene": "arch_balance",
+      "path": "/workspace/scratch/241cacf14d27/outputs/Prophets_Stories_Production/Motion/QA/E02_P10_Landscape.png"
+    },
+    {
+      "episode": "E02",
+      "part": 1,
+      "layout": "portrait",
+      "scene": "river_mail",
+      "path": "/workspace/scratch/241cacf14d27/outputs/Prophets_Stories_Production/Motion/Covers/E02_P01_Cover.png"
+    },
+    {
+      "episode": "E02",
+      "part": 2,
+      "layout": "portrait",
+      "scene": "paper_bands",
+      "path": "/workspace/scratch/241cacf14d27/outputs/Prophets_Stories_Production/Motion/Covers/E02_P02_Cover.png"
+    },
+    {
+      "episode": "E02",
+      "part": 3,
+      "layout": "portrait",
+      "scene": "chest",
+      "path": "/workspace/scratch/241cacf14d27/outputs/Prophets_Stories_Production/Motion/Covers/E02_P03_Cover.png"
+    },
+    {
+      "episode": "E02",
+      "part": 4,
+      "layout": "portrait",
+      "scene": "river",
+      "path": "/workspace/scratch/241cacf14d27/outputs/Prophets_Stories_Production/Motion/Covers/E02_P04_Cover.png"
+    },
+    {
+      "episode": "E02",
+      "part": 5,
+      "layout": "portrait",
+      "scene": "river_after",
+      "path": "/workspace/scratch/241cacf14d27/outputs/Prophets_Stories_Production/Motion/Covers/E02_P05_Cover.png"
+    },
+    {
+      "episode": "E02",
+      "part": 6,
+      "layout": "portrait",
+      "scene": "mountains",
+      "path": "/workspace/scratch/241cacf14d27/outputs/Prophets_Stories_Production/Motion/Covers/E02_P06_Cover.png"
+    },
+    {
+      "episode": "E02",
+      "part": 7,
+      "layout": "portrait",
+      "scene": "mail",
+      "path": "/workspace/scratch/241cacf14d27/outputs/Prophets_Stories_Production/Motion/Covers/E02_P07_Cover.png"
+    },
+    {
+      "episode": "E02",
+      "part": 8,
+      "layout": "portrait",
+      "scene": "field",
+      "path": "/workspace/scratch/241cacf14d27/outputs/Prophets_Stories_Production/Motion/Covers/E02_P08_Cover.png"
+    },
+    {
+      "episode": "E02",
+      "part": 9,
+      "layout": "portrait",
+      "scene": "ninety_nine",
+      "path": "/workspace/scratch/241cacf14d27/outputs/Prophets_Stories_Production/Motion/Covers/E02_P09_Cover.png"
+    },
+    {
+      "episode": "E02",
+      "part": 10,
+      "layout": "portrait",
+      "scene": "arch_balance",
+      "path": "/workspace/scratch/241cacf14d27/outputs/Prophets_Stories_Production/Motion/Covers/E02_P10_Cover.png"
+    },
+    {
+      "episode": "E03",
+      "part": 1,
+      "layout": "landscape",
+      "scene": "sanctuary",
+      "path": "/workspace/scratch/241cacf14d27/outputs/Prophets_Stories_Production/Motion/QA/E03_P01_Landscape.png"
+    },
+    {
+      "episode": "E03",
+      "part": 2,
+      "layout": "landscape",
+      "scene": "provision_pens",
+      "path": "/workspace/scratch/241cacf14d27/outputs/Prophets_Stories_Production/Motion/QA/E03_P02_Landscape.png"
+    },
+    {
+      "episode": "E03",
+      "part": 3,
+      "layout": "landscape",
+      "scene": "provision",
+      "path": "/workspace/scratch/241cacf14d27/outputs/Prophets_Stories_Production/Motion/QA/E03_P03_Landscape.png"
+    },
+    {
+      "episode": "E03",
+      "part": 4,
+      "layout": "landscape",
+      "scene": "knowledge",
+      "path": "/workspace/scratch/241cacf14d27/outputs/Prophets_Stories_Production/Motion/QA/E03_P04_Landscape.png"
+    },
+    {
+      "episode": "E03",
+      "part": 5,
+      "layout": "landscape",
+      "scene": "sanctuary_paper",
+      "path": "/workspace/scratch/241cacf14d27/outputs/Prophets_Stories_Production/Motion/QA/E03_P05_Landscape.png"
+    },
+    {
+      "episode": "E03",
+      "part": 6,
+      "layout": "landscape",
+      "scene": "book_sequence",
+      "path": "/workspace/scratch/241cacf14d27/outputs/Prophets_Stories_Production/Motion/QA/E03_P06_Landscape.png"
+    },
+    {
+      "episode": "E03",
+      "part": 7,
+      "layout": "landscape",
+      "scene": "three_days",
+      "path": "/workspace/scratch/241cacf14d27/outputs/Prophets_Stories_Production/Motion/QA/E03_P07_Landscape.png"
+    },
+    {
+      "episode": "E03",
+      "part": 8,
+      "layout": "landscape",
+      "scene": "sanctuary_book",
+      "path": "/workspace/scratch/241cacf14d27/outputs/Prophets_Stories_Production/Motion/QA/E03_P08_Landscape.png"
+    },
+    {
+      "episode": "E03",
+      "part": 9,
+      "layout": "landscape",
+      "scene": "book",
+      "path": "/workspace/scratch/241cacf14d27/outputs/Prophets_Stories_Production/Motion/QA/E03_P09_Landscape.png"
+    },
+    {
+      "episode": "E03",
+      "part": 10,
+      "layout": "landscape",
+      "scene": "book_return",
+      "path": "/workspace/scratch/241cacf14d27/outputs/Prophets_Stories_Production/Motion/QA/E03_P10_Landscape.png"
+    },
+    {
+      "episode": "E03",
+      "part": 1,
+      "layout": "portrait",
+      "scene": "sanctuary",
+      "path": "/workspace/scratch/241cacf14d27/outputs/Prophets_Stories_Production/Motion/Covers/E03_P01_Cover.png"
+    },
+    {
+      "episode": "E03",
+      "part": 2,
+      "layout": "portrait",
+      "scene": "provision_pens",
+      "path": "/workspace/scratch/241cacf14d27/outputs/Prophets_Stories_Production/Motion/Covers/E03_P02_Cover.png"
+    },
+    {
+      "episode": "E03",
+      "part": 3,
+      "layout": "portrait",
+      "scene": "provision",
+      "path": "/workspace/scratch/241cacf14d27/outputs/Prophets_Stories_Production/Motion/Covers/E03_P03_Cover.png"
+    },
+    {
+      "episode": "E03",
+      "part": 4,
+      "layout": "portrait",
+      "scene": "knowledge",
+      "path": "/workspace/scratch/241cacf14d27/outputs/Prophets_Stories_Production/Motion/Covers/E03_P04_Cover.png"
+    },
+    {
+      "episode": "E03",
+      "part": 5,
+      "layout": "portrait",
+      "scene": "sanctuary_paper",
+      "path": "/workspace/scratch/241cacf14d27/outputs/Prophets_Stories_Production/Motion/Covers/E03_P05_Cover.png"
+    },
+    {
+      "episode": "E03",
+      "part": 6,
+      "layout": "portrait",
+      "scene": "book_sequence",
+      "path": "/workspace/scratch/241cacf14d27/outputs/Prophets_Stories_Production/Motion/Covers/E03_P06_Cover.png"
+    },
+    {
+      "episode": "E03",
+      "part": 7,
+      "layout": "portrait",
+      "scene": "three_days",
+      "path": "/workspace/scratch/241cacf14d27/outputs/Prophets_Stories_Production/Motion/Covers/E03_P07_Cover.png"
+    },
+    {
+      "episode": "E03",
+      "part": 8,
+      "layout": "portrait",
+      "scene": "sanctuary_book",
+      "path": "/workspace/scratch/241cacf14d27/outputs/Prophets_Stories_Production/Motion/Covers/E03_P08_Cover.png"
+    },
+    {
+      "episode": "E03",
+      "part": 9,
+      "layout": "portrait",
+      "scene": "book",
+      "path": "/workspace/scratch/241cacf14d27/outputs/Prophets_Stories_Production/Motion/Covers/E03_P09_Cover.png"
+    },
+    {
+      "episode": "E03",
+      "part": 10,
+      "layout": "portrait",
+      "scene": "book_return",
+      "path": "/workspace/scratch/241cacf14d27/outputs/Prophets_Stories_Production/Motion/Covers/E03_P10_Cover.png"
+    },
+    {
+      "episode": "E04",
+      "part": 1,
+      "layout": "landscape",
+      "scene": "tree_treaty",
+      "path": "/workspace/scratch/241cacf14d27/outputs/Prophets_Stories_Production/Motion/QA/E04_P01_Landscape.png"
+    },
+    {
+      "episode": "E04",
+      "part": 2,
+      "layout": "landscape",
+      "scene": "route",
+      "path": "/workspace/scratch/241cacf14d27/outputs/Prophets_Stories_Production/Motion/QA/E04_P02_Landscape.png"
+    },
+    {
+      "episode": "E04",
+      "part": 3,
+      "layout": "landscape",
+      "scene": "well",
+      "path": "/workspace/scratch/241cacf14d27/outputs/Prophets_Stories_Production/Motion/QA/E04_P03_Landscape.png"
+    },
+    {
+      "episode": "E04",
+      "part": 4,
+      "layout": "landscape",
+      "scene": "treaty_talks",
+      "path": "/workspace/scratch/241cacf14d27/outputs/Prophets_Stories_Production/Motion/QA/E04_P04_Landscape.png"
+    },
+    {
+      "episode": "E04",
+      "part": 5,
+      "layout": "landscape",
+      "scene": "tree",
+      "path": "/workspace/scratch/241cacf14d27/outputs/Prophets_Stories_Production/Motion/QA/E04_P05_Landscape.png"
+    },
+    {
+      "episode": "E04",
+      "part": 6,
+      "layout": "landscape",
+      "scene": "treaty",
+      "path": "/workspace/scratch/241cacf14d27/outputs/Prophets_Stories_Production/Motion/QA/E04_P06_Landscape.png"
+    },
+    {
+      "episode": "E04",
+      "part": 7,
+      "layout": "landscape",
+      "scene": "chain",
+      "path": "/workspace/scratch/241cacf14d27/outputs/Prophets_Stories_Production/Motion/QA/E04_P07_Landscape.png"
+    },
+    {
+      "episode": "E04",
+      "part": 8,
+      "layout": "landscape",
+      "scene": "route_wait",
+      "path": "/workspace/scratch/241cacf14d27/outputs/Prophets_Stories_Production/Motion/QA/E04_P08_Landscape.png"
+    },
+    {
+      "episode": "E04",
+      "part": 9,
+      "layout": "landscape",
+      "scene": "return_route",
+      "path": "/workspace/scratch/241cacf14d27/outputs/Prophets_Stories_Production/Motion/QA/E04_P09_Landscape.png"
+    },
+    {
+      "episode": "E04",
+      "part": 10,
+      "layout": "landscape",
+      "scene": "route_complete",
+      "path": "/workspace/scratch/241cacf14d27/outputs/Prophets_Stories_Production/Motion/QA/E04_P10_Landscape.png"
+    },
+    {
+      "episode": "E04",
+      "part": 1,
+      "layout": "portrait",
+      "scene": "tree_treaty",
+      "path": "/workspace/scratch/241cacf14d27/outputs/Prophets_Stories_Production/Motion/Covers/E04_P01_Cover.png"
+    },
+    {
+      "episode": "E04",
+      "part": 2,
+      "layout": "portrait",
+      "scene": "route",
+      "path": "/workspace/scratch/241cacf14d27/outputs/Prophets_Stories_Production/Motion/Covers/E04_P02_Cover.png"
+    },
+    {
+      "episode": "E04",
+      "part": 3,
+      "layout": "portrait",
+      "scene": "well",
+      "path": "/workspace/scratch/241cacf14d27/outputs/Prophets_Stories_Production/Motion/Covers/E04_P03_Cover.png"
+    },
+    {
+      "episode": "E04",
+      "part": 4,
+      "layout": "portrait",
+      "scene": "treaty_talks",
+      "path": "/workspace/scratch/241cacf14d27/outputs/Prophets_Stories_Production/Motion/Covers/E04_P04_Cover.png"
+    },
+    {
+      "episode": "E04",
+      "part": 5,
+      "layout": "portrait",
+      "scene": "tree",
+      "path": "/workspace/scratch/241cacf14d27/outputs/Prophets_Stories_Production/Motion/Covers/E04_P05_Cover.png"
+    },
+    {
+      "episode": "E04",
+      "part": 6,
+      "layout": "portrait",
+      "scene": "treaty",
+      "path": "/workspace/scratch/241cacf14d27/outputs/Prophets_Stories_Production/Motion/Covers/E04_P06_Cover.png"
+    },
+    {
+      "episode": "E04",
+      "part": 7,
+      "layout": "portrait",
+      "scene": "chain",
+      "path": "/workspace/scratch/241cacf14d27/outputs/Prophets_Stories_Production/Motion/Covers/E04_P07_Cover.png"
+    },
+    {
+      "episode": "E04",
+      "part": 8,
+      "layout": "portrait",
+      "scene": "route_wait",
+      "path": "/workspace/scratch/241cacf14d27/outputs/Prophets_Stories_Production/Motion/Covers/E04_P08_Cover.png"
+    },
+    {
+      "episode": "E04",
+      "part": 9,
+      "layout": "portrait",
+      "scene": "return_route",
+      "path": "/workspace/scratch/241cacf14d27/outputs/Prophets_Stories_Production/Motion/Covers/E04_P09_Cover.png"
+    },
+    {
+      "episode": "E04",
+      "part": 10,
+      "layout": "portrait",
+      "scene": "route_complete",
+      "path": "/workspace/scratch/241cacf14d27/outputs/Prophets_Stories_Production/Motion/Covers/E04_P10_Cover.png"
+    }
+  ]
+}

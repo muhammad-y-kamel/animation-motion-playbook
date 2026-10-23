@@ -460,6 +460,16 @@
       "status": "validated_with_limits",
       "file": "entries/MOKI-EP031-CLARITY-V4.md",
       "discovered_by": "user, agent, reviewer; per-finding attribution in entry"
+    },
+    {
+      "id": "PROPHETS-20261024-AUDIT",
+      "title": "Prophets production: errors, rejected trials, review limits and safeguards",
+      "category": "cross-stage-audit",
+      "project": "قصص الأنبياء",
+      "episode": "E01–E04",
+      "status": "mixed_evidence_12_records",
+      "file": "entries/PROPHETS-20261024-AUDIT.md"
     }
   ]
 }
+
