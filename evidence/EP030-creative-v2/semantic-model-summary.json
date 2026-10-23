@@ -1,0 +1,931 @@
+{
+  "model": "MIT/ast-finetuned-audioset-10-10-0.4593",
+  "modelCommit": "f826b80d28226b62986cc218e5cec390b1096902",
+  "localFilesOnly": true,
+  "offline": true,
+  "mixSHA256": "1a6c599edf1b3e739b011c5d00952d5fc916fbf02f5a8623b7bf30b5cd2d8a7f",
+  "mixSamplesMatchCurrent": true,
+  "revision": "One principled repair: removed rope and Moki throat-clear recordings; foreground ratchet peak .40 with music .03 and synth zero during ratchets.",
+  "conclusion": "Partial supporting class evidence, not universal semantic pass: 35.5\u201337.5 s mixed ratchet is now Mechanisms top class (0.581), Ratchet second (0.350); 10.05\u201310.8 s shorter mix still Music first (0.313), Mechanisms second (0.212), Ratchet 0.040. Peb gasp remains 0.651. No model-driven further iterations performed.",
+  "limitations": [
+    "Independent sigmoid scores are not calibrated probabilities",
+    "Neutral waveform-only filenames; not human listening",
+    "Very short windows and background music may confound class rankings",
+    "Cached feature extractor mel-filter warning preserved in console.log",
+    "Removed source examples retained for controlled comparison but are NOT present in final mix"
+  ],
+  "samples": [
+    {
+      "file": "sample-01.wav",
+      "context": {
+        "file": "sample-01.wav",
+        "sha256": "072cac5fee16bf957df7a76d781bb711083e87ec055f1ef4fffa821059a1085f",
+        "kind": "isolated cached source excerpt",
+        "asset": "rope",
+        "sourceOffsetSecondsAfterTrim": 0.25,
+        "durationSeconds": 3.0,
+        "sourceSHA256": "ad8a3f8a926e56e933ef533feb565a438a3656c6e481919f967eb7ec523a021e"
+      },
+      "top8": [
+        {
+          "label": "Fart",
+          "score": 0.1385536789894104
+        },
+        {
+          "label": "Zipper (clothing)",
+          "score": 0.05491524562239647
+        },
+        {
+          "label": "Inside, small room",
+          "score": 0.042895734310150146
+        },
+        {
+          "label": "Speech",
+          "score": 0.03152351453900337
+        },
+        {
+          "label": "Stomach rumble",
+          "score": 0.02880420908331871
+        },
+        {
+          "label": "Crackle",
+          "score": 0.027442507445812225
+        },
+        {
+          "label": "Oink",
+          "score": 0.025925632566213608
+        },
+        {
+          "label": "Creak",
+          "score": 0.023234620690345764
+        }
+      ],
+      "beforeTop8": [
+        {
+          "label": "Fart",
+          "score": 0.1385536789894104
+        },
+        {
+          "label": "Zipper (clothing)",
+          "score": 0.05491524562239647
+        },
+        {
+          "label": "Inside, small room",
+          "score": 0.042895734310150146
+        },
+        {
+          "label": "Speech",
+          "score": 0.03152351453900337
+        },
+        {
+          "label": "Stomach rumble",
+          "score": 0.02880420908331871
+        },
+        {
+          "label": "Crackle",
+          "score": 0.027442507445812225
+        },
+        {
+          "label": "Oink",
+          "score": 0.025925632566213608
+        },
+        {
+          "label": "Creak",
+          "score": 0.023234620690345764
+        }
+      ],
+      "relevantScores": [
+        {
+          "label": "Creak",
+          "score": 0.023234620690345764
+        },
+        {
+          "label": "Mechanisms",
+          "score": 0.0040573542937636375
+        },
+        {
+          "label": "Grunt",
+          "score": 0.0025645249988883734
+        },
+        {
+          "label": "Music",
+          "score": 0.002032626885920763
+        },
+        {
+          "label": "Gasp",
+          "score": 0.000719331088475883
+        },
+        {
+          "label": "Ratchet, pawl",
+          "score": 0.0006483247270807624
+        },
+        {
+          "label": "Gears",
+          "score": 0.0005569102359004319
+        },
+        {
+          "label": "Groan",
+          "score": 0.0004872903518844396
+        }
+      ]
+    },
+    {
+      "file": "sample-02.wav",
+      "context": {
+        "file": "sample-02.wav",
+        "sha256": "7dd4557f69ba3b225bec0334ef31d7bf6d2f8a7c6d390cf3dcb1f58f54c488c3",
+        "kind": "isolated cached source excerpt",
+        "asset": "ratchet",
+        "sourceOffsetSecondsAfterTrim": 1.2,
+        "durationSeconds": 2.0,
+        "sourceSHA256": "164ed7ed77b94810e85ecc29cdfd54898ae20780e3dca5c38d3e42c1923129c3"
+      },
+      "top8": [
+        {
+          "label": "Mechanisms",
+          "score": 0.7869033813476562
+        },
+        {
+          "label": "Ratchet, pawl",
+          "score": 0.5593262314796448
+        },
+        {
+          "label": "Gears",
+          "score": 0.4144059717655182
+        },
+        {
+          "label": "Pulleys",
+          "score": 0.016787756234407425
+        },
+        {
+          "label": "Sound effect",
+          "score": 0.01041738037019968
+        },
+        {
+          "label": "Creak",
+          "score": 0.007195109501481056
+        },
+        {
+          "label": "Speech",
+          "score": 0.004598831292241812
+        },
+        {
+          "label": "Clatter",
+          "score": 0.004147515632212162
+        }
+      ],
+      "beforeTop8": [
+        {
+          "label": "Mechanisms",
+          "score": 0.7869033813476562
+        },
+        {
+          "label": "Ratchet, pawl",
+          "score": 0.5593262314796448
+        },
+        {
+          "label": "Gears",
+          "score": 0.4144059717655182
+        },
+        {
+          "label": "Pulleys",
+          "score": 0.016787756234407425
+        },
+        {
+          "label": "Sound effect",
+          "score": 0.01041738037019968
+        },
+        {
+          "label": "Creak",
+          "score": 0.007195109501481056
+        },
+        {
+          "label": "Speech",
+          "score": 0.004598831292241812
+        },
+        {
+          "label": "Clatter",
+          "score": 0.004147515632212162
+        }
+      ],
+      "relevantScores": [
+        {
+          "label": "Mechanisms",
+          "score": 0.7869033813476562
+        },
+        {
+          "label": "Ratchet, pawl",
+          "score": 0.5593262314796448
+        },
+        {
+          "label": "Gears",
+          "score": 0.4144059717655182
+        },
+        {
+          "label": "Creak",
+          "score": 0.007195109501481056
+        },
+        {
+          "label": "Music",
+          "score": 0.002670764457434416
+        },
+        {
+          "label": "Grunt",
+          "score": 8.146415348164737e-05
+        },
+        {
+          "label": "Groan",
+          "score": 2.7391904950491153e-05
+        },
+        {
+          "label": "Gasp",
+          "score": 2.5263359930249862e-05
+        }
+      ]
+    },
+    {
+      "file": "sample-03.wav",
+      "context": {
+        "file": "sample-03.wav",
+        "sha256": "b6b0631fdd6c666d0a00d6970339338421e7cc5122da32627f5ecbabdfa312eb",
+        "kind": "isolated cached source excerpt",
+        "asset": "effort-moki",
+        "sourceOffsetSecondsAfterTrim": 0,
+        "durationSeconds": 0.2751875,
+        "sourceSHA256": "0cdd3140c1995022cf8cd4527d40fb1e9dea32b9c62473bd2625ab415313da4b"
+      },
+      "top8": [
+        {
+          "label": "Throat clearing",
+          "score": 0.3744288980960846
+        },
+        {
+          "label": "Speech",
+          "score": 0.10240165889263153
+        },
+        {
+          "label": "Hiccup",
+          "score": 0.08032898604869843
+        },
+        {
+          "label": "Music",
+          "score": 0.06160973384976387
+        },
+        {
+          "label": "Gasp",
+          "score": 0.03476264700293541
+        },
+        {
+          "label": "Burping, eructation",
+          "score": 0.0302629042416811
+        },
+        {
+          "label": "Male speech, man speaking",
+          "score": 0.029803568497300148
+        },
+        {
+          "label": "Sigh",
+          "score": 0.012742122635245323
+        }
+      ],
+      "beforeTop8": [
+        {
+          "label": "Throat clearing",
+          "score": 0.3744288980960846
+        },
+        {
+          "label": "Speech",
+          "score": 0.10240165889263153
+        },
+        {
+          "label": "Hiccup",
+          "score": 0.08032898604869843
+        },
+        {
+          "label": "Music",
+          "score": 0.06160973384976387
+        },
+        {
+          "label": "Gasp",
+          "score": 0.03476264700293541
+        },
+        {
+          "label": "Burping, eructation",
+          "score": 0.0302629042416811
+        },
+        {
+          "label": "Male speech, man speaking",
+          "score": 0.029803568497300148
+        },
+        {
+          "label": "Sigh",
+          "score": 0.012742122635245323
+        }
+      ],
+      "relevantScores": [
+        {
+          "label": "Music",
+          "score": 0.06160973384976387
+        },
+        {
+          "label": "Gasp",
+          "score": 0.03476264700293541
+        },
+        {
+          "label": "Grunt",
+          "score": 0.006382258143275976
+        },
+        {
+          "label": "Groan",
+          "score": 0.0019747691694647074
+        },
+        {
+          "label": "Mechanisms",
+          "score": 2.0105846488149837e-05
+        },
+        {
+          "label": "Creak",
+          "score": 8.805038305581547e-06
+        },
+        {
+          "label": "Gears",
+          "score": 3.7546926705545047e-06
+        },
+        {
+          "label": "Ratchet, pawl",
+          "score": 3.68234827874403e-06
+        }
+      ]
+    },
+    {
+      "file": "sample-04.wav",
+      "context": {
+        "file": "sample-04.wav",
+        "sha256": "cae8a1f4377a5291bcf140e5dcfe38223d4fac698f7f0605e38734147108044c",
+        "kind": "isolated cached source excerpt",
+        "asset": "effort-peb",
+        "sourceOffsetSecondsAfterTrim": 0,
+        "durationSeconds": 0.32016666666666665,
+        "sourceSHA256": "1a5f48c5070cf6c62590d006073adec4b282f88a6d3e7fa7bb2632daaf9fa375"
+      },
+      "top8": [
+        {
+          "label": "Gasp",
+          "score": 0.3479612469673157
+        },
+        {
+          "label": "Speech",
+          "score": 0.23359063267707825
+        },
+        {
+          "label": "Sigh",
+          "score": 0.04552893713116646
+        },
+        {
+          "label": "Wail, moan",
+          "score": 0.04165338724851608
+        },
+        {
+          "label": "Music",
+          "score": 0.029338190332055092
+        },
+        {
+          "label": "Throat clearing",
+          "score": 0.028054317459464073
+        },
+        {
+          "label": "Groan",
+          "score": 0.02677212841808796
+        },
+        {
+          "label": "Sneeze",
+          "score": 0.017059367150068283
+        }
+      ],
+      "beforeTop8": [
+        {
+          "label": "Gasp",
+          "score": 0.3479612469673157
+        },
+        {
+          "label": "Speech",
+          "score": 0.23359063267707825
+        },
+        {
+          "label": "Sigh",
+          "score": 0.04552893713116646
+        },
+        {
+          "label": "Wail, moan",
+          "score": 0.04165338724851608
+        },
+        {
+          "label": "Music",
+          "score": 0.029338190332055092
+        },
+        {
+          "label": "Throat clearing",
+          "score": 0.028054317459464073
+        },
+        {
+          "label": "Groan",
+          "score": 0.02677212841808796
+        },
+        {
+          "label": "Sneeze",
+          "score": 0.017059367150068283
+        }
+      ],
+      "relevantScores": [
+        {
+          "label": "Gasp",
+          "score": 0.3479612469673157
+        },
+        {
+          "label": "Music",
+          "score": 0.029338190332055092
+        },
+        {
+          "label": "Groan",
+          "score": 0.02677212841808796
+        },
+        {
+          "label": "Grunt",
+          "score": 0.0025280541740357876
+        },
+        {
+          "label": "Mechanisms",
+          "score": 2.6828751288121566e-05
+        },
+        {
+          "label": "Creak",
+          "score": 6.0675747590721585e-06
+        },
+        {
+          "label": "Ratchet, pawl",
+          "score": 3.9043143260641955e-06
+        },
+        {
+          "label": "Gears",
+          "score": 3.800441163548385e-06
+        }
+      ]
+    },
+    {
+      "file": "sample-05.wav",
+      "context": {
+        "file": "sample-05.wav",
+        "sha256": "d408c9d62b0b1f4c750eccdb1876597922ddef917d7c0e7877a322b43251c029",
+        "kind": "actual unnormalized final mix window",
+        "start": 46,
+        "end": 49,
+        "expectedAuthoredCue": "former rope interval: recorded rope removed",
+        "mixSHA256": "1a6c599edf1b3e739b011c5d00952d5fc916fbf02f5a8623b7bf30b5cd2d8a7f"
+      },
+      "top8": [
+        {
+          "label": "Music",
+          "score": 0.37579333782196045
+        },
+        {
+          "label": "Musical instrument",
+          "score": 0.18399161100387573
+        },
+        {
+          "label": "Drum",
+          "score": 0.10795523226261139
+        },
+        {
+          "label": "Sound effect",
+          "score": 0.07462519407272339
+        },
+        {
+          "label": "Percussion",
+          "score": 0.07322674989700317
+        },
+        {
+          "label": "Drum roll",
+          "score": 0.05746522545814514
+        },
+        {
+          "label": "Plucked string instrument",
+          "score": 0.043414536863565445
+        },
+        {
+          "label": "Guitar",
+          "score": 0.04247788339853287
+        }
+      ],
+      "beforeTop8": [
+        {
+          "label": "Music",
+          "score": 0.3482370972633362
+        },
+        {
+          "label": "Vehicle",
+          "score": 0.11882854253053665
+        },
+        {
+          "label": "Speech",
+          "score": 0.1009528860449791
+        },
+        {
+          "label": "Fart",
+          "score": 0.05055903643369675
+        },
+        {
+          "label": "Helicopter",
+          "score": 0.04858510568737984
+        },
+        {
+          "label": "Musical instrument",
+          "score": 0.04248921945691109
+        },
+        {
+          "label": "Oink",
+          "score": 0.040015410631895065
+        },
+        {
+          "label": "Inside, small room",
+          "score": 0.029931562021374702
+        }
+      ],
+      "relevantScores": [
+        {
+          "label": "Music",
+          "score": 0.37579333782196045
+        },
+        {
+          "label": "Mechanisms",
+          "score": 0.0006154798320494592
+        },
+        {
+          "label": "Gasp",
+          "score": 0.000473353429697454
+        },
+        {
+          "label": "Gears",
+          "score": 0.0002435449860058725
+        },
+        {
+          "label": "Groan",
+          "score": 0.00021549031953327358
+        },
+        {
+          "label": "Creak",
+          "score": 0.00016392093675676733
+        },
+        {
+          "label": "Ratchet, pawl",
+          "score": 0.00010932078293990344
+        },
+        {
+          "label": "Grunt",
+          "score": 6.091200339142233e-05
+        }
+      ]
+    },
+    {
+      "file": "sample-06.wav",
+      "context": {
+        "file": "sample-06.wav",
+        "sha256": "984f5dad5b01dc22c3a90ff277fdf0c097ff2992ab68e30f7e49fcfe665cf4f8",
+        "kind": "actual unnormalized final mix window",
+        "start": 35.5,
+        "end": 37.5,
+        "expectedAuthoredCue": "foreground ratchet with ducked music and suppressed synth",
+        "mixSHA256": "1a6c599edf1b3e739b011c5d00952d5fc916fbf02f5a8623b7bf30b5cd2d8a7f"
+      },
+      "top8": [
+        {
+          "label": "Mechanisms",
+          "score": 0.5814811587333679
+        },
+        {
+          "label": "Ratchet, pawl",
+          "score": 0.350328654050827
+        },
+        {
+          "label": "Gears",
+          "score": 0.18024536967277527
+        },
+        {
+          "label": "Music",
+          "score": 0.11503259837627411
+        },
+        {
+          "label": "Pulleys",
+          "score": 0.02312231808900833
+        },
+        {
+          "label": "Sound effect",
+          "score": 0.010686063207685947
+        },
+        {
+          "label": "Musical instrument",
+          "score": 0.00985381007194519
+        },
+        {
+          "label": "Speech",
+          "score": 0.008519591763615608
+        }
+      ],
+      "beforeTop8": [
+        {
+          "label": "Speech",
+          "score": 0.4229348301887512
+        },
+        {
+          "label": "Music",
+          "score": 0.3170931041240692
+        },
+        {
+          "label": "Vehicle",
+          "score": 0.12060072273015976
+        },
+        {
+          "label": "Musical instrument",
+          "score": 0.10465182363986969
+        },
+        {
+          "label": "Guitar",
+          "score": 0.05414995178580284
+        },
+        {
+          "label": "Car",
+          "score": 0.03386008366942406
+        },
+        {
+          "label": "Plucked string instrument",
+          "score": 0.030244242399930954
+        },
+        {
+          "label": "Outside, urban or manmade",
+          "score": 0.020688261836767197
+        }
+      ],
+      "relevantScores": [
+        {
+          "label": "Mechanisms",
+          "score": 0.5814811587333679
+        },
+        {
+          "label": "Ratchet, pawl",
+          "score": 0.350328654050827
+        },
+        {
+          "label": "Gears",
+          "score": 0.18024536967277527
+        },
+        {
+          "label": "Music",
+          "score": 0.11503259837627411
+        },
+        {
+          "label": "Creak",
+          "score": 0.0072762672789394855
+        },
+        {
+          "label": "Grunt",
+          "score": 0.00015850694035179913
+        },
+        {
+          "label": "Groan",
+          "score": 2.9890294172219e-05
+        },
+        {
+          "label": "Gasp",
+          "score": 2.7557311113923788e-05
+        }
+      ]
+    },
+    {
+      "file": "sample-07.wav",
+      "context": {
+        "file": "sample-07.wav",
+        "sha256": "a9363d0b749e7fa90e1e097b4fe84ce90a9518634165f8b28a4c8cea09125270",
+        "kind": "actual unnormalized final mix window",
+        "start": 10.05,
+        "end": 10.8,
+        "expectedAuthoredCue": "ratchet: Moki throat-clear recording removed",
+        "mixSHA256": "1a6c599edf1b3e739b011c5d00952d5fc916fbf02f5a8623b7bf30b5cd2d8a7f"
+      },
+      "top8": [
+        {
+          "label": "Music",
+          "score": 0.31305956840515137
+        },
+        {
+          "label": "Mechanisms",
+          "score": 0.21180360019207
+        },
+        {
+          "label": "Creak",
+          "score": 0.06848327070474625
+        },
+        {
+          "label": "Gears",
+          "score": 0.06573332101106644
+        },
+        {
+          "label": "Ratchet, pawl",
+          "score": 0.039994917809963226
+        },
+        {
+          "label": "Musical instrument",
+          "score": 0.030941570177674294
+        },
+        {
+          "label": "Speech",
+          "score": 0.022653132677078247
+        },
+        {
+          "label": "Sound effect",
+          "score": 0.015340486541390419
+        }
+      ],
+      "beforeTop8": [
+        {
+          "label": "Speech",
+          "score": 0.3869274854660034
+        },
+        {
+          "label": "Music",
+          "score": 0.24930599331855774
+        },
+        {
+          "label": "Vehicle",
+          "score": 0.06631164997816086
+        },
+        {
+          "label": "Zipper (clothing)",
+          "score": 0.024343164637684822
+        },
+        {
+          "label": "Bicycle",
+          "score": 0.02184281498193741
+        },
+        {
+          "label": "Throat clearing",
+          "score": 0.018669096753001213
+        },
+        {
+          "label": "Fart",
+          "score": 0.01820187270641327
+        },
+        {
+          "label": "Grunt",
+          "score": 0.0176327396184206
+        }
+      ],
+      "relevantScores": [
+        {
+          "label": "Music",
+          "score": 0.31305956840515137
+        },
+        {
+          "label": "Mechanisms",
+          "score": 0.21180360019207
+        },
+        {
+          "label": "Creak",
+          "score": 0.06848327070474625
+        },
+        {
+          "label": "Gears",
+          "score": 0.06573332101106644
+        },
+        {
+          "label": "Ratchet, pawl",
+          "score": 0.039994917809963226
+        },
+        {
+          "label": "Grunt",
+          "score": 0.00043034309055656195
+        },
+        {
+          "label": "Gasp",
+          "score": 2.6586461899569258e-05
+        },
+        {
+          "label": "Groan",
+          "score": 2.4471914002788253e-05
+        }
+      ]
+    },
+    {
+      "file": "sample-08.wav",
+      "context": {
+        "file": "sample-08.wav",
+        "sha256": "f53203dca333f3669d502269ebdcbe5f55487302d8d9027cbcd7f5af9746e82f",
+        "kind": "actual unnormalized final mix window",
+        "start": 44.03,
+        "end": 44.65,
+        "expectedAuthoredCue": "Peb effort",
+        "mixSHA256": "1a6c599edf1b3e739b011c5d00952d5fc916fbf02f5a8623b7bf30b5cd2d8a7f"
+      },
+      "top8": [
+        {
+          "label": "Gasp",
+          "score": 0.6511462926864624
+        },
+        {
+          "label": "Sigh",
+          "score": 0.28409716486930847
+        },
+        {
+          "label": "Speech",
+          "score": 0.15471318364143372
+        },
+        {
+          "label": "Groan",
+          "score": 0.10232272744178772
+        },
+        {
+          "label": "Grunt",
+          "score": 0.06056027114391327
+        },
+        {
+          "label": "Male speech, man speaking",
+          "score": 0.018169304355978966
+        },
+        {
+          "label": "Sound effect",
+          "score": 0.013805481605231762
+        },
+        {
+          "label": "Music",
+          "score": 0.012325717136263847
+        }
+      ],
+      "beforeTop8": [
+        {
+          "label": "Gasp",
+          "score": 0.6511462926864624
+        },
+        {
+          "label": "Sigh",
+          "score": 0.28409716486930847
+        },
+        {
+          "label": "Speech",
+          "score": 0.15471318364143372
+        },
+        {
+          "label": "Groan",
+          "score": 0.10232272744178772
+        },
+        {
+          "label": "Grunt",
+          "score": 0.06056027114391327
+        },
+        {
+          "label": "Male speech, man speaking",
+          "score": 0.018169304355978966
+        },
+        {
+          "label": "Sound effect",
+          "score": 0.013805481605231762
+        },
+        {
+          "label": "Music",
+          "score": 0.012325717136263847
+        }
+      ],
+      "relevantScores": [
+        {
+          "label": "Gasp",
+          "score": 0.6511462926864624
+        },
+        {
+          "label": "Groan",
+          "score": 0.10232272744178772
+        },
+        {
+          "label": "Grunt",
+          "score": 0.06056027114391327
+        },
+        {
+          "label": "Music",
+          "score": 0.012325717136263847
+        },
+        {
+          "label": "Mechanisms",
+          "score": 2.3300015527638607e-05
+        },
+        {
+          "label": "Creak",
+          "score": 3.7931847600702895e-06
+        },
+        {
+          "label": "Gears",
+          "score": 2.9229113351902924e-06
+        },
+        {
+          "label": "Ratchet, pawl",
+          "score": 2.82740666079917e-06
+        }
+      ]
+    }
+  ]
+}
