@@ -124,7 +124,7 @@
       "category": "geometry",
       "project": "MOKI & PEB",
       "episode": "EP028",
-      "status": "repair_attempted",
+      "status": "validated_with_limits",
       "file": "entries/ANIM-0014-seat-support-contract.md"
     },
     {
@@ -133,7 +133,7 @@
       "category": "animation",
       "project": "MOKI & PEB",
       "episode": "EP028",
-      "status": "repair_attempted",
+      "status": "validated_with_limits",
       "file": "entries/ANIM-0015-action-boundaries.md"
     },
     {
@@ -142,7 +142,7 @@
       "category": "storytelling",
       "project": "MOKI & PEB",
       "episode": "EP028",
-      "status": "repair_attempted",
+      "status": "validated_with_limits",
       "file": "entries/ANIM-0016-ownership-occlusion.md"
     },
     {
@@ -151,7 +151,7 @@
       "category": "rendering",
       "project": "MOKI & PEB",
       "episode": "EP028",
-      "status": "repair_attempted",
+      "status": "validated_with_limits",
       "file": "entries/ANIM-0017-carried-prop-depth.md"
     },
     {
@@ -160,8 +160,17 @@
       "category": "animation",
       "project": "MOKI & PEB",
       "episode": "EP028",
-      "status": "repair_attempted",
+      "status": "validated_with_limits",
       "file": "entries/ANIM-0018-airborne-clearance.md"
+    },
+    {
+      "id": "ANIM-0019",
+      "title": "Shell output cap truncated binary blob staging",
+      "category": "workflow/archive",
+      "project": "MOKI & PEB",
+      "episode": "EP028",
+      "status": "validated_with_limits",
+      "file": "entries/ANIM-0019-binary-transport-cap.md"
     }
   ]
 }

@@ -1,3 +1,10 @@
+## Final validation — EP028
+Status: **validated_with_limits**. Final MP4 SHA256 f2759a19d64db0047ede4474ecf3d1df15353403c2ed0742b3a131f48d5f8580. Source caed722b201953fcd7cf459be49a86efe89e2609536e2ab22e70ae1b21ef7566. All3840encoded thumbnails covered; changed sheets freshly reinspected, unchanged sheets carried only by byte-identical hashes. Nine selected encoded fullres views; fullAVdecode and numeric source/contact/AAC checks passed. Independent source/encoded reports distinguish exact scope. No direct listening, continuous real-timeAV or browserparity claim. First rejected encode and source/evidence preserved.
+
+Best validated repair is the recorded final trial, not a universal optimum. Regression evidence, scripts and all attempted repairs: [EP028 QA report](https://github.com/muhammad-y-kamel/moki-peb-animation/blob/0a6f53782b31252c2fbcc880681364b949a4047f/episodes/EP028/QA-REPORT.md), [lessons](https://github.com/muhammad-y-kamel/moki-peb-animation/blob/0a6f53782b31252c2fbcc880681364b949a4047f/episodes/EP028/LESSONS-PLAYBOOK.md). Exact archive main commit0a6f53782b31252c2fbcc880681364b949a4047f verified remote head and27treeentries. Source ZIP extraction rebuilt exact source,3WAVs and9native pixel hashes. Publication/schedule verification is separate and belongs to coordinator.
+
+---
+## Historical production checkpoints (preserved)
 # ANIM-0016 — Unowned pad motion and shared horn obscuring facial acting
 
 Project: MOKI & PEB / EP028. Status: repair_attempted; independent source re-review and final encoded QA pending. Category: storytelling. Record updated during production, not a retrospective universal claim.
