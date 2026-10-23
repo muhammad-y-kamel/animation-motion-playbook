@@ -1,0 +1,137 @@
+[
+  {
+    "case_id": "MOKI-H01",
+    "old_source": "01a157be-8ef4-75fe-893e-26c83909d4db",
+    "role": "user",
+    "message_id": "d3c56939-580d-4812-8b55-0437ee30b3fe",
+    "url": "https://chatgpt.com/c/6ad6f50b-d03c-83ea-8a9c-fd24649bf8ea?messageId=d3c56939-580d-4812-8b55-0437ee30b3fe",
+    "date": "2026-10-20T05:17:41.573000Z",
+    "quote": "حلو دا\n\n\nأنت حصل عندك بس عطل صغير في تحريك الشخصيات وحركتها كانت مقطعة كتير\n\nاعمل دي سلسلة كرتون شاملة غلف وصورة للشخصيات وبراندينج لقناة يوتيوب \n\nاعملي 100 حلقة طويلة من الكرتون دا مثلا كل واحدة من دقيقة لخمس دقائق باطوال مختلفة بافكر مختلفة وكلها مهيئة تطلع فايرال\n\nوابعتلي كل حاجه بالايديتبول في ملف واحد"
+  },
+  {
+    "case_id": "MOKI-H02",
+    "old_source": "01a157be-8ef4-75fe-893e-26c83909d4db",
+    "role": "user",
+    "message_id": "d3c56939-580d-4812-8b55-0437ee30b3fe",
+    "url": "https://chatgpt.com/c/6ad6f50b-d03c-83ea-8a9c-fd24649bf8ea?messageId=d3c56939-580d-4812-8b55-0437ee30b3fe",
+    "date": "2026-10-20T05:17:41.573000Z",
+    "quote": "حلو دا\n\n\nأنت حصل عندك بس عطل صغير في تحريك الشخصيات وحركتها كانت مقطعة كتير\n\nاعمل دي سلسلة كرتون شاملة غلف وصورة للشخصيات وبراندينج لقناة يوتيوب \n\nاعملي 100 حلقة طويلة من الكرتون دا مثلا كل واحدة من دقيقة لخمس دقائق باطوال مختلفة بافكر مختلفة وكلها مهيئة تطلع فايرال\n\nوابعتلي كل حاجه بالايديتبول في ملف واحد"
+  },
+  {
+    "case_id": "MOKI-H02",
+    "old_source": "01a157bf-8c9a-74c0-9234-f2cbad70e4ce",
+    "role": "user",
+    "message_id": "02f7f878-faf8-40fc-84de-3bb5327aedd3",
+    "url": "https://chatgpt.com/c/6ad6f50b-d03c-83ea-8a9c-fd24649bf8ea?messageId=02f7f878-faf8-40fc-84de-3bb5327aedd3",
+    "date": "2026-10-20T05:18:53.452204Z",
+    "quote": "ينفع تعملهم بابلكيشن تحريك مثلا عندك او بليندر او حاجه ؟ \n\n[حيث مايحصلش الكسور دي؟"
+  },
+  {
+    "case_id": "MOKI-H11",
+    "old_source": "01a158a7-cb2f-705e-8d63-0d718883dd2e",
+    "role": "user",
+    "message_id": "9872ee2d-bb4f-473b-b914-b1525ae8a243",
+    "url": "https://chatgpt.com/c/6ad7350d-0908-83e9-afb0-1dae4d676527?messageId=9872ee2d-bb4f-473b-b914-b1525ae8a243",
+    "date": "2026-10-20T09:32:30.847000Z",
+    "quote": "في محادثة عالحساب باسم code animation build مش راضية تحمل عالجهاز عندي نهائي وممكن لان فيها عنلية طويلة ومعقدة ممكن تعرفلي هي وصلت لفين لحد دلوقتي"
+  },
+  {
+    "case_id": "MOKI-H11",
+    "old_source": "msg_02c68397fadaff3b016ad736fbc5bc81919169d32a9df99d04",
+    "role": "assistant",
+    "message_id": "97e6d6bc-002d-5a4a-82ee-c4028a2222ad",
+    "url": "https://chatgpt.com/c/6ad7350d-0908-83e9-afb0-1dae4d676527?messageId=97e6d6bc-002d-5a4a-82ee-c4028a2222ad",
+    "date": "2026-10-20T09:40:12.016271Z",
+    "quote": "[تحميل الحلقة الثانية — MOKI_PEB_EP002.mp4](sandbox:/workspace/scratch/2bd226f8a726/episode2_extract/MOKI_PEB_EP002.mp4)\n\nمدتها **دقيقة و8 ثوانٍ**، بجودة **1080p و60 إطار/ثانية**. تم فحص سلامة الفيديو والصوت."
+  },
+  {
+    "case_id": "WHATIF-H07",
+    "old_source": "01a15495-11fe-7245-8584-531582b3ecc3",
+    "role": "user",
+    "message_id": "bbb21797-6a65-42b7-8a75-e1cc5e44290e",
+    "url": "https://chatgpt.com/c/6ad557d0-d6e8-83ea-8956-d92021cb56f2?messageId=bbb21797-6a65-42b7-8a75-e1cc5e44290e",
+    "date": "2026-10-19T14:33:26.514542Z",
+    "quote": "بواطه خطا في تحميل الملف الكامل والحزمات"
+  },
+  {
+    "case_id": "WHATIF-H07",
+    "old_source": "01a154f2-e560-7265-af01-10b6eebec141",
+    "role": "user",
+    "message_id": "bbb213c7-a087-4b70-a7a8-5d2fba779a46",
+    "url": "https://chatgpt.com/c/6ad557d0-d6e8-83ea-8956-d92021cb56f2?messageId=bbb213c7-a087-4b70-a7a8-5d2fba779a46",
+    "date": "2026-10-19T16:16:02.294035Z",
+    "quote": "الملفين محميين بكلمة مرور"
+  },
+  {
+    "case_id": "WHATIF-H07",
+    "old_source": "01a15540-766d-76f3-8c5f-84cee9f202c6",
+    "role": "user",
+    "message_id": "bbb21062-02d7-433f-9491-13f261fb1d14",
+    "url": "https://chatgpt.com/c/6ad557d0-d6e8-83ea-8956-d92021cb56f2?messageId=bbb21062-02d7-433f-9491-13f261fb1d14",
+    "date": "2026-10-19T17:40:44.503414Z",
+    "quote": "ملفات 1 ل 5 فيها مشكلة مش راضية تتحمل"
+  },
+  {
+    "case_id": "WHATIF-H07",
+    "old_source": "01a15eb8-58a4-77df-8ac2-4acc516512e1",
+    "role": "user",
+    "message_id": "bbb21511-d89c-4ddc-ae17-be5737cfe4a4",
+    "url": "https://chatgpt.com/c/6ad557d0-d6e8-83ea-8956-d92021cb56f2?messageId=bbb21511-d89c-4ddc-ae17-be5737cfe4a4",
+    "date": "2026-10-21T13:48:14.277989Z",
+    "quote": "وجدت خطأ في تحميل الحلقة الثانية والثالثة والرابعة"
+  },
+  {
+    "case_id": "WHATIF-H07",
+    "old_source": "msg_0bde8721998e6dd3016ad657990b2881918135d5a2b4d818ac",
+    "role": "assistant",
+    "message_id": "7516906e-ac0e-5243-8333-fe66880ff0ee",
+    "url": "https://chatgpt.com/c/6ad557d0-d6e8-83ea-8956-d92021cb56f2?messageId=7516906e-ac0e-5243-8333-fe66880ff0ee",
+    "date": "2026-10-19T17:47:05.090044Z",
+    "quote": "أعدت إتاحة **الأجزاء من ١ لـ٥ بنسخ وروابط جديدة وأسماء أقصر**. دي نفس الفيديوهات اللي عليها العنوان ورقم الجزء، وراجعت إن الملفات سليمة.\n\n**حمّل كل فيديو لوحده من هنا.** لو رابط اسم الملف مش بيحمّل، جرّب «تنزيل بديل» في نفس الصف:\n\n| الجزء والعنوان | ملف الفيديو | الحجم | رابط بديل |\n|---|---|---:|---|\n| **١ — البداية** | [Harris_01.mp4](sandbox:/workspace/scratch/104693317ed9/resend/Harris_01.mp4) | 7.2 MB | [تنزيل بديل](https://chatgpt.com/api/library/files/libfile_1eb54e436b288191abdeaa58bb5cf53f/download) |\n| **٢ — حلم الخياطة** | [Harris_02.mp4](sandbox:/workspace/scratch/104693317ed9/resend/Harris_02.mp4) | 5.9 MB | [تنزيل بديل](https://"
+  },
+  {
+    "case_id": "WHATIF-H07",
+    "old_source": "msg_0dd7de45ee3a43ff016ad8c3b389d48191b97aef4fde8e5330",
+    "role": "assistant",
+    "message_id": "92978012-9db1-5bdb-a56a-102d18e8fc8b",
+    "url": "https://chatgpt.com/c/6ad557d0-d6e8-83ea-8956-d92021cb56f2?messageId=92978012-9db1-5bdb-a56a-102d18e8fc8b",
+    "date": "2026-10-21T13:52:51.567247Z",
+    "quote": "جهّزت لك **روابط تحميل جديدة للحلقات الثانية والثالثة والرابعة**، وتأكدت إن الملفات كاملة ومطابقة للأصول، وإن بيانات الفيديو والصوت سليمة.\n\n### تحميل الحلقات الكاملة\n\nاضغط على اسم الملف في الجدول:\n\n| الحلقة | المدة | حجم الملف | رابط التحميل الجديد |\n|---|---:|---:|---|\n| **الثانية — باريس** | 9 دقائق و24 ثانية | 45 ميجابايت | [ep02_paris_Long.mp4](sandbox:/workspace/scratch/104693317ed9/episode_downloads_fixed/ep02_paris_Long.mp4) |\n| **الثالثة — منجم السلطان** | 9 دقائق و36 ثانية | 49.7 ميجابايت | [ep03_mine_Long.mp4](sandbox:/workspace/scratch/104693317ed9/episode_downloads_fixed/ep03_mine_Long.mp4) |\n| **الرابعة — آران** | 10 دقائق و23 ثانية | 126.9"
+  },
+  {
+    "case_id": "WHATIF-H08",
+    "old_source": "01a15c38-cdbf-7281-a894-f0483b1795c5",
+    "role": "user",
+    "message_id": "69728c33-cedc-4525-91c9-7ac533c3c0ee",
+    "url": "https://chatgpt.com/c/6ad557d0-d6e8-83ea-8956-d92021cb56f2?messageId=69728c33-cedc-4525-91c9-7ac533c3c0ee",
+    "date": "2026-10-21T02:09:41.341000Z",
+    "quote": "ع اختلاف واحد , حلقة منهم هتعملها باسلوب تحريك ورسم مختلف تماما ومناسب للقناة , واسلوب الاسكريبت حاليا ممل محتاج نسحنه شوية ونخليه جذاب اكتر\n\nاعمل الاربع حلقات وبينهم حلقة واحدة مميزة وتبعتلي زي المرة اللي فاتت فيديو طويل عرضي وقسم الباقي لفيديوهات شورتس طولية\n\nالافكار مش لازم تكون تابو اوي بس تكون صادمة شوية ومؤلمة وفيها حكمة وخالية من الملل لان الافكار الي فاتت كانت مملة كتير"
+  },
+  {
+    "case_id": "WHATIF-H08",
+    "old_source": "01a15f38-68c8-7593-9644-ca5bb9d9d950",
+    "role": "user",
+    "message_id": "bbb2161d-25e8-47e0-b64d-18e4d3e06311",
+    "url": "https://chatgpt.com/c/6ad557d0-d6e8-83ea-8956-d92021cb56f2?messageId=bbb2161d-25e8-47e0-b64d-18e4d3e06311",
+    "date": "2026-10-21T16:07:51.728606Z",
+    "quote": "اعتمد اسلوب التحريك والرسم الجديد\nواعتمد اسلوب كتابة الاسكريبت واعملي نسخه من كل برومبت فيهم نصية "
+  },
+  {
+    "case_id": "WHATIF-H04",
+    "old_source": null,
+    "role": "assistant",
+    "message_id": "0dfa66e3-5eeb-55cb-87dd-efeab623a0cd",
+    "url": "https://chatgpt.com/c/6ad557d0-d6e8-83ea-8956-d92021cb56f2?messageId=0dfa66e3-5eeb-55cb-87dd-efeab623a0cd",
+    "date": "2026-10-19T05:18:44.072768Z",
+    "quote": "ادرات وفواصل محددة. اتصلّح التراكب البصري عند بداية الجزء الثامن، واتراجع على إطارات من ملف الفيديو المصحح. تفاصيل الملفات ونتائج المراجعة موجودة في:\n\n[README_AR.md](sandbox:/workspace/scratch/104693317ed9/outputs/harris_1788_vertical/README_AR.md)"
+  },
+  {
+    "case_id": "WHATIF-H07",
+    "old_source": null,
+    "role": "assistant",
+    "message_id": "8e081abd-79dc-52cb-9242-97b2b2ba58f8",
+    "url": "https://chatgpt.com/c/6ad557d0-d6e8-83ea-8956-d92021cb56f2?messageId=8e081abd-79dc-52cb-9242-97b2b2ba58f8",
+    "date": "2026-10-19T16:22:44.618996Z",
+    "quote": "أعدت تجهيز الحزمتين الآن، و**اختبرت استخراج كل الملفات فعليًا من غير إدخال أي كلمة مرور**. استخدمت صيغة ZIP بسيطة غير مشفّرة، مع الحفاظ على الفيديوهات بالعناوين وأرقام الأجزاء.\n\n## الحزمتان الجديدتان\n\nحمّل من الروابط الجديدة دي:\n\n- **الأجزاء من ١ إلى ٥، حوالي 33.3 ميجابايت:**  \n  [Harris_Shorts_01_05_Titled.zip](sandbox:/workspace/scratch/104693317ed9/shorts_open/Harris_Shorts_01_05_Titled.zip)\n\n- **الأجزاء من ٦ إلى ١٠، حوالي 33.1 ميجابايت:**  \n  [Harris_Shorts_06_10_Titled.zip](sandbox:/workspace/scratch/104693317ed9/shorts_open/Harris_Shorts_06_10_Titled.zip)\n\n## الفيديوهات مباشرة بدون فك ضغط\n\nوتقدر تحمّل كل فيديو بصيغة **MP4 مباشرة** لتجاو"
+  }
+]

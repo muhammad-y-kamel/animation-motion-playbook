@@ -33,3 +33,7 @@ The original 13 entries above remain intact. [Historical audit and case index](H
 
 ## Native conversation recovery (2026-10-23)
 [Native audit and exact-source coverage](NATIVE-CONVERSATION-AUDIT.md): five directly readable conversations; 11 new historical cases/corrections plus two dated occurrence supplements and one QA limitation. Search discovery remains unavailable; no all-account completion or newly verified media repair claim.
+
+
+## Expanded native audit
+[20 additional canonical leads](NATIVE-EXPANDED-AUDIT.md): 19 readable,473messages; one safe-read-limit block. New UGC/prompt failure histories and native-source upgrades; A13 discovery attribution corrected to user. Search and omitted-content limits remain explicit.

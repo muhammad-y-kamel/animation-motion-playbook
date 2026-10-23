@@ -1,0 +1,960 @@
+[
+  {
+    "conversation_id": "6ad6f50b-d03c-83ea-8a9c-fd24649bf8ea",
+    "url": "https://chatgpt.com/c/6ad6f50b-d03c-83ea-8a9c-fd24649bf8ea",
+    "pages": 1,
+    "unique_messages": 5,
+    "date_range": [
+      "2026-10-20T04:58:52.263000Z",
+      "2026-10-20T05:21:40.361535Z"
+    ],
+    "both_directions_exhausted": true,
+    "content_omitted": [],
+    "chunks": [
+      {
+        "id": "e33f4b5c-c52e-4ccd-8366-8c0e03d909a0",
+        "url": "https://chatgpt.com/c/6ad6f50b-d03c-83ea-8a9c-fd24649bf8ea?messageId=e33f4b5c-c52e-4ccd-8366-8c0e03d909a0",
+        "date": "2026-10-20T04:58:52.263000Z",
+        "ranges": [
+          [
+            0,
+            2148
+          ]
+        ],
+        "gaps": []
+      },
+      {
+        "id": "e0b3cf17-676a-5381-8327-5cd3af5ec070",
+        "url": "https://chatgpt.com/c/6ad6f50b-d03c-83ea-8a9c-fd24649bf8ea?messageId=e0b3cf17-676a-5381-8327-5cd3af5ec070",
+        "date": "2026-10-20T05:13:07.876304Z",
+        "ranges": [
+          [
+            0,
+            1388
+          ]
+        ],
+        "gaps": []
+      },
+      {
+        "id": "d3c56939-580d-4812-8b55-0437ee30b3fe",
+        "url": "https://chatgpt.com/c/6ad6f50b-d03c-83ea-8a9c-fd24649bf8ea?messageId=d3c56939-580d-4812-8b55-0437ee30b3fe",
+        "date": "2026-10-20T05:17:41.573000Z",
+        "ranges": [
+          [
+            0,
+            307
+          ]
+        ],
+        "gaps": []
+      },
+      {
+        "id": "02f7f878-faf8-40fc-84de-3bb5327aedd3",
+        "url": "https://chatgpt.com/c/6ad6f50b-d03c-83ea-8a9c-fd24649bf8ea?messageId=02f7f878-faf8-40fc-84de-3bb5327aedd3",
+        "date": "2026-10-20T05:18:53.452204Z",
+        "ranges": [
+          [
+            0,
+            82
+          ]
+        ],
+        "gaps": []
+      },
+      {
+        "id": "7868f0cb-9a28-4e07-aa16-724c21766178",
+        "url": "https://chatgpt.com/c/6ad6f50b-d03c-83ea-8a9c-fd24649bf8ea?messageId=7868f0cb-9a28-4e07-aa16-724c21766178",
+        "date": "2026-10-20T05:21:40.361535Z",
+        "ranges": [
+          [
+            0,
+            71
+          ]
+        ],
+        "gaps": []
+      }
+    ],
+    "scope_limit": "All returned visible native messages/chunks read. Does not include cloud progress messages or unavailable hidden tool internals. Secret-bearing messages not quoted/saved."
+  },
+  {
+    "conversation_id": "6ad7350d-0908-83e9-afb0-1dae4d676527",
+    "url": "https://chatgpt.com/c/6ad7350d-0908-83e9-afb0-1dae4d676527",
+    "pages": 1,
+    "unique_messages": 6,
+    "date_range": [
+      "2026-10-20T09:32:30.847000Z",
+      "2026-10-20T09:40:12.016271Z"
+    ],
+    "both_directions_exhausted": true,
+    "content_omitted": [],
+    "chunks": [
+      {
+        "id": "9872ee2d-bb4f-473b-b914-b1525ae8a243",
+        "url": "https://chatgpt.com/c/6ad7350d-0908-83e9-afb0-1dae4d676527?messageId=9872ee2d-bb4f-473b-b914-b1525ae8a243",
+        "date": "2026-10-20T09:32:30.847000Z",
+        "ranges": [
+          [
+            0,
+            146
+          ]
+        ],
+        "gaps": []
+      },
+      {
+        "id": "2c7ae0d1-cdc8-5885-9fa8-68eb999da219",
+        "url": "https://chatgpt.com/c/6ad7350d-0908-83e9-afb0-1dae4d676527?messageId=2c7ae0d1-cdc8-5885-9fa8-68eb999da219",
+        "date": "2026-10-20T09:33:48.090220Z",
+        "ranges": [
+          [
+            0,
+            1137
+          ]
+        ],
+        "gaps": []
+      },
+      {
+        "id": "8a9a6b76-b0a0-4830-8b5d-4d8d5b8ecf55",
+        "url": "https://chatgpt.com/c/6ad7350d-0908-83e9-afb0-1dae4d676527?messageId=8a9a6b76-b0a0-4830-8b5d-4d8d5b8ecf55",
+        "date": "2026-10-20T09:33:49.578786Z",
+        "ranges": [
+          [
+            0,
+            45
+          ]
+        ],
+        "gaps": []
+      },
+      {
+        "id": "e06a6038-aa7f-599d-8ef2-9a22492567a5",
+        "url": "https://chatgpt.com/c/6ad7350d-0908-83e9-afb0-1dae4d676527?messageId=e06a6038-aa7f-599d-8ef2-9a22492567a5",
+        "date": "2026-10-20T09:34:15.453980Z",
+        "ranges": [
+          [
+            0,
+            1819
+          ]
+        ],
+        "gaps": []
+      },
+      {
+        "id": "b0d40fef-ad9a-4772-93d2-cdff9caa39f3",
+        "url": "https://chatgpt.com/c/6ad7350d-0908-83e9-afb0-1dae4d676527?messageId=b0d40fef-ad9a-4772-93d2-cdff9caa39f3",
+        "date": "2026-10-20T09:36:47.010000Z",
+        "ranges": [
+          [
+            0,
+            19
+          ]
+        ],
+        "gaps": []
+      },
+      {
+        "id": "97e6d6bc-002d-5a4a-82ee-c4028a2222ad",
+        "url": "https://chatgpt.com/c/6ad7350d-0908-83e9-afb0-1dae4d676527?messageId=97e6d6bc-002d-5a4a-82ee-c4028a2222ad",
+        "date": "2026-10-20T09:40:12.016271Z",
+        "ranges": [
+          [
+            0,
+            208
+          ]
+        ],
+        "gaps": []
+      }
+    ],
+    "scope_limit": "All returned visible native messages/chunks read. Does not include cloud progress messages or unavailable hidden tool internals. Secret-bearing messages not quoted/saved."
+  },
+  {
+    "conversation_id": "6adabaae-30a8-83ea-a21e-e07dc3d386af",
+    "url": "https://chatgpt.com/c/6adabaae-30a8-83ea-a21e-e07dc3d386af",
+    "pages": 4,
+    "unique_messages": 14,
+    "date_range": [
+      "2026-10-23T01:42:00.707524Z",
+      "2026-10-23T05:26:42.244598Z"
+    ],
+    "both_directions_exhausted": true,
+    "content_omitted": [],
+    "chunks": [
+      {
+        "id": "3531a2bb-83c8-5200-9ee8-c9f09f0dd4ec",
+        "url": "https://chatgpt.com/c/6adabaae-30a8-83ea-a21e-e07dc3d386af?messageId=3531a2bb-83c8-5200-9ee8-c9f09f0dd4ec",
+        "date": "2026-10-23T05:26:42.244598Z",
+        "ranges": [
+          [
+            0,
+            13606
+          ],
+          [
+            13606,
+            14572
+          ]
+        ],
+        "gaps": []
+      },
+      {
+        "id": "26dc6ff9-4db4-52ec-a5e5-7778976df139",
+        "url": "https://chatgpt.com/c/6adabaae-30a8-83ea-a21e-e07dc3d386af?messageId=26dc6ff9-4db4-52ec-a5e5-7778976df139",
+        "date": "2026-10-23T01:51:36.971334Z",
+        "ranges": [
+          [
+            567,
+            8791
+          ],
+          [
+            0,
+            567
+          ]
+        ],
+        "gaps": []
+      },
+      {
+        "id": "bbb21463-3dd6-4cdd-848f-7c2bd671b2b7",
+        "url": "https://chatgpt.com/c/6adabaae-30a8-83ea-a21e-e07dc3d386af?messageId=bbb21463-3dd6-4cdd-848f-7c2bd671b2b7",
+        "date": "2026-10-23T02:00:56.259008Z",
+        "ranges": [
+          [
+            0,
+            50
+          ]
+        ],
+        "gaps": []
+      },
+      {
+        "id": "bbb21596-dbca-4e73-85e2-b79e167dbba0",
+        "url": "https://chatgpt.com/c/6adabaae-30a8-83ea-a21e-e07dc3d386af?messageId=bbb21596-dbca-4e73-85e2-b79e167dbba0",
+        "date": "2026-10-23T02:01:38.050174Z",
+        "ranges": [
+          [
+            0,
+            26
+          ]
+        ],
+        "gaps": []
+      },
+      {
+        "id": "0f4eadd5-5a1e-59ef-9a65-53e30ea621c6",
+        "url": "https://chatgpt.com/c/6adabaae-30a8-83ea-a21e-e07dc3d386af?messageId=0f4eadd5-5a1e-59ef-9a65-53e30ea621c6",
+        "date": "2026-10-23T02:04:39.359351Z",
+        "ranges": [
+          [
+            0,
+            894
+          ]
+        ],
+        "gaps": []
+      },
+      {
+        "id": "bbb2104c-cb5c-49fd-a809-e94e38c227fa",
+        "url": "https://chatgpt.com/c/6adabaae-30a8-83ea-a21e-e07dc3d386af?messageId=bbb2104c-cb5c-49fd-a809-e94e38c227fa",
+        "date": "2026-10-23T02:34:28.757891Z",
+        "ranges": [
+          [
+            0,
+            33
+          ]
+        ],
+        "gaps": []
+      },
+      {
+        "id": "bbb214d7-9b3c-4d62-aa9d-5e33606f071d",
+        "url": "https://chatgpt.com/c/6adabaae-30a8-83ea-a21e-e07dc3d386af?messageId=bbb214d7-9b3c-4d62-aa9d-5e33606f071d",
+        "date": "2026-10-23T02:37:02.415875Z",
+        "ranges": [
+          [
+            0,
+            110
+          ]
+        ],
+        "gaps": []
+      },
+      {
+        "id": "bbb2141c-d1d6-44fb-9be3-0d465f77ff74",
+        "url": "https://chatgpt.com/c/6adabaae-30a8-83ea-a21e-e07dc3d386af?messageId=bbb2141c-d1d6-44fb-9be3-0d465f77ff74",
+        "date": "2026-10-23T02:38:19.424347Z",
+        "ranges": [
+          [
+            0,
+            63
+          ]
+        ],
+        "gaps": []
+      },
+      {
+        "id": "bbb21ae7-d816-44b2-8921-eff8614266f9",
+        "url": "https://chatgpt.com/c/6adabaae-30a8-83ea-a21e-e07dc3d386af?messageId=bbb21ae7-d816-44b2-8921-eff8614266f9",
+        "date": "2026-10-23T02:50:11.122943Z",
+        "ranges": [
+          [
+            0,
+            81
+          ]
+        ],
+        "gaps": []
+      },
+      {
+        "id": "bbb21349-ca49-40c2-a6e1-dace76a889e5",
+        "url": "https://chatgpt.com/c/6adabaae-30a8-83ea-a21e-e07dc3d386af?messageId=bbb21349-ca49-40c2-a6e1-dace76a889e5",
+        "date": "2026-10-23T02:50:11.123717Z",
+        "ranges": [
+          [
+            0,
+            49
+          ]
+        ],
+        "gaps": []
+      },
+      {
+        "id": "bbb21eb1-65ca-4943-a113-9d91ef4bf018",
+        "url": "https://chatgpt.com/c/6adabaae-30a8-83ea-a21e-e07dc3d386af?messageId=bbb21eb1-65ca-4943-a113-9d91ef4bf018",
+        "date": "2026-10-23T03:04:16.590682Z",
+        "ranges": [
+          [
+            0,
+            94
+          ]
+        ],
+        "gaps": []
+      },
+      {
+        "id": "bbb21619-1468-4187-b7e5-d31e00ac5a1b",
+        "url": "https://chatgpt.com/c/6adabaae-30a8-83ea-a21e-e07dc3d386af?messageId=bbb21619-1468-4187-b7e5-d31e00ac5a1b",
+        "date": "2026-10-23T05:21:44.767335Z",
+        "ranges": [
+          [
+            0,
+            102
+          ]
+        ],
+        "gaps": []
+      },
+      {
+        "id": "bbb21e8e-ffe6-40ed-9d0a-016c248dc0e3",
+        "url": "https://chatgpt.com/c/6adabaae-30a8-83ea-a21e-e07dc3d386af?messageId=bbb21e8e-ffe6-40ed-9d0a-016c248dc0e3",
+        "date": "2026-10-23T01:42:00.707524Z",
+        "ranges": [
+          [
+            0,
+            535
+          ]
+        ],
+        "gaps": []
+      },
+      {
+        "id": "bbb21166-a1f3-47f7-800b-0bf0ae8bfc8b",
+        "url": "https://chatgpt.com/c/6adabaae-30a8-83ea-a21e-e07dc3d386af?messageId=bbb21166-a1f3-47f7-800b-0bf0ae8bfc8b",
+        "date": "2026-10-23T01:48:19.115741Z",
+        "ranges": [
+          [
+            0,
+            86
+          ]
+        ],
+        "gaps": []
+      }
+    ],
+    "scope_limit": "All returned visible native messages/chunks read. Does not include cloud progress messages or unavailable hidden tool internals. Secret-bearing messages not quoted/saved."
+  },
+  {
+    "conversation_id": "6ad557d0-d6e8-83ea-8956-d92021cb56f2",
+    "url": "https://chatgpt.com/c/6ad557d0-d6e8-83ea-8956-d92021cb56f2",
+    "pages": 8,
+    "unique_messages": 40,
+    "date_range": [
+      "2026-10-18T23:38:13.217381Z",
+      "2026-10-21T16:27:52.397928Z"
+    ],
+    "both_directions_exhausted": true,
+    "content_omitted": [],
+    "chunks": [
+      {
+        "id": "ebed239a-1f66-5411-b84b-1d5108861a37",
+        "url": "https://chatgpt.com/c/6ad557d0-d6e8-83ea-8956-d92021cb56f2?messageId=ebed239a-1f66-5411-b84b-1d5108861a37",
+        "date": "2026-10-21T08:34:13.491308Z",
+        "ranges": [
+          [
+            9595,
+            14358
+          ],
+          [
+            0,
+            9595
+          ]
+        ],
+        "gaps": []
+      },
+      {
+        "id": "bbb21511-d89c-4ddc-ae17-be5737cfe4a4",
+        "url": "https://chatgpt.com/c/6ad557d0-d6e8-83ea-8956-d92021cb56f2?messageId=bbb21511-d89c-4ddc-ae17-be5737cfe4a4",
+        "date": "2026-10-21T13:48:14.277989Z",
+        "ranges": [
+          [
+            0,
+            50
+          ]
+        ],
+        "gaps": []
+      },
+      {
+        "id": "92978012-9db1-5bdb-a56a-102d18e8fc8b",
+        "url": "https://chatgpt.com/c/6ad557d0-d6e8-83ea-8956-d92021cb56f2?messageId=92978012-9db1-5bdb-a56a-102d18e8fc8b",
+        "date": "2026-10-21T13:52:51.567247Z",
+        "ranges": [
+          [
+            0,
+            952
+          ]
+        ],
+        "gaps": []
+      },
+      {
+        "id": "bbb21192-bf55-412b-b775-074614fcd423",
+        "url": "https://chatgpt.com/c/6ad557d0-d6e8-83ea-8956-d92021cb56f2?messageId=bbb21192-bf55-412b-b775-074614fcd423",
+        "date": "2026-10-21T15:13:50.935260Z",
+        "ranges": [
+          [
+            0,
+            28
+          ]
+        ],
+        "gaps": []
+      },
+      {
+        "id": "7ae9ab02-62c7-5fe2-9a48-f65cafc06598",
+        "url": "https://chatgpt.com/c/6ad557d0-d6e8-83ea-8956-d92021cb56f2?messageId=7ae9ab02-62c7-5fe2-9a48-f65cafc06598",
+        "date": "2026-10-21T15:16:39.807774Z",
+        "ranges": [
+          [
+            0,
+            4126
+          ]
+        ],
+        "gaps": []
+      },
+      {
+        "id": "bbb2161d-25e8-47e0-b64d-18e4d3e06311",
+        "url": "https://chatgpt.com/c/6ad557d0-d6e8-83ea-8956-d92021cb56f2?messageId=bbb2161d-25e8-47e0-b64d-18e4d3e06311",
+        "date": "2026-10-21T16:07:51.728606Z",
+        "ranges": [
+          [
+            0,
+            98
+          ]
+        ],
+        "gaps": []
+      },
+      {
+        "id": "04fe7dcb-09bd-5138-ae19-d76c242d7ce9",
+        "url": "https://chatgpt.com/c/6ad557d0-d6e8-83ea-8956-d92021cb56f2?messageId=04fe7dcb-09bd-5138-ae19-d76c242d7ce9",
+        "date": "2026-10-21T16:27:52.397928Z",
+        "ranges": [
+          [
+            0,
+            2353
+          ]
+        ],
+        "gaps": []
+      },
+      {
+        "id": "e515c9e0-4341-5e90-bf59-2b70252afe98",
+        "url": "https://chatgpt.com/c/6ad557d0-d6e8-83ea-8956-d92021cb56f2?messageId=e515c9e0-4341-5e90-bf59-2b70252afe98",
+        "date": "2026-10-21T02:44:46.683702Z",
+        "ranges": [
+          [
+            7978,
+            9443
+          ],
+          [
+            0,
+            7978
+          ]
+        ],
+        "gaps": []
+      },
+      {
+        "id": "557aea85-4506-4876-b711-04b4cb0ba0a9",
+        "url": "https://chatgpt.com/c/6ad557d0-d6e8-83ea-8956-d92021cb56f2?messageId=557aea85-4506-4876-b711-04b4cb0ba0a9",
+        "date": "2026-10-21T02:52:11.451000Z",
+        "ranges": [
+          [
+            0,
+            53
+          ]
+        ],
+        "gaps": []
+      },
+      {
+        "id": "b24819ea-64a9-460e-a6e6-15e2b480adb8",
+        "url": "https://chatgpt.com/c/6ad557d0-d6e8-83ea-8956-d92021cb56f2?messageId=b24819ea-64a9-460e-a6e6-15e2b480adb8",
+        "date": "2026-10-21T02:58:21.140000Z",
+        "ranges": [
+          [
+            0,
+            28
+          ]
+        ],
+        "gaps": []
+      },
+      {
+        "id": "5c9a81c5-233f-4672-9e39-d00a59316561",
+        "url": "https://chatgpt.com/c/6ad557d0-d6e8-83ea-8956-d92021cb56f2?messageId=5c9a81c5-233f-4672-9e39-d00a59316561",
+        "date": "2026-10-21T03:04:09.023494Z",
+        "ranges": [
+          [
+            0,
+            64
+          ]
+        ],
+        "gaps": []
+      },
+      {
+        "id": "d6402462-7327-41da-80bd-a2738e7cbc18",
+        "url": "https://chatgpt.com/c/6ad557d0-d6e8-83ea-8956-d92021cb56f2?messageId=d6402462-7327-41da-80bd-a2738e7cbc18",
+        "date": "2026-10-21T03:15:49.456673Z",
+        "ranges": [
+          [
+            0,
+            56
+          ]
+        ],
+        "gaps": []
+      },
+      {
+        "id": "25354be8-ab82-4bfb-99f6-c5fe75c15adf",
+        "url": "https://chatgpt.com/c/6ad557d0-d6e8-83ea-8956-d92021cb56f2?messageId=25354be8-ab82-4bfb-99f6-c5fe75c15adf",
+        "date": "2026-10-21T03:16:55.622151Z",
+        "ranges": [
+          [
+            0,
+            19
+          ]
+        ],
+        "gaps": []
+      },
+      {
+        "id": "9f33b50c-f50e-54b3-a458-eeac6270cdb2",
+        "url": "https://chatgpt.com/c/6ad557d0-d6e8-83ea-8956-d92021cb56f2?messageId=9f33b50c-f50e-54b3-a458-eeac6270cdb2",
+        "date": "2026-10-21T02:41:55.694022Z",
+        "ranges": [
+          [
+            2769,
+            8581
+          ],
+          [
+            0,
+            2769
+          ]
+        ],
+        "gaps": []
+      },
+      {
+        "id": "8e081abd-79dc-52cb-9242-97b2b2ba58f8",
+        "url": "https://chatgpt.com/c/6ad557d0-d6e8-83ea-8956-d92021cb56f2?messageId=8e081abd-79dc-52cb-9242-97b2b2ba58f8",
+        "date": "2026-10-19T16:22:44.618996Z",
+        "ranges": [
+          [
+            1745,
+            2139
+          ],
+          [
+            0,
+            1745
+          ]
+        ],
+        "gaps": []
+      },
+      {
+        "id": "bbb21062-02d7-433f-9491-13f261fb1d14",
+        "url": "https://chatgpt.com/c/6ad557d0-d6e8-83ea-8956-d92021cb56f2?messageId=bbb21062-02d7-433f-9491-13f261fb1d14",
+        "date": "2026-10-19T17:40:44.503414Z",
+        "ranges": [
+          [
+            0,
+            37
+          ]
+        ],
+        "gaps": []
+      },
+      {
+        "id": "7516906e-ac0e-5243-8333-fe66880ff0ee",
+        "url": "https://chatgpt.com/c/6ad557d0-d6e8-83ea-8956-d92021cb56f2?messageId=7516906e-ac0e-5243-8333-fe66880ff0ee",
+        "date": "2026-10-19T17:47:05.090044Z",
+        "ranges": [
+          [
+            0,
+            1840
+          ]
+        ],
+        "gaps": []
+      },
+      {
+        "id": "69728c33-cedc-4525-91c9-7ac533c3c0ee",
+        "url": "https://chatgpt.com/c/6ad557d0-d6e8-83ea-8956-d92021cb56f2?messageId=69728c33-cedc-4525-91c9-7ac533c3c0ee",
+        "date": "2026-10-21T02:09:41.341000Z",
+        "ranges": [
+          [
+            0,
+            455
+          ]
+        ],
+        "gaps": []
+      },
+      {
+        "id": "dfd49650-cc1b-5e05-a78b-9ba03f59d43f",
+        "url": "https://chatgpt.com/c/6ad557d0-d6e8-83ea-8956-d92021cb56f2?messageId=dfd49650-cc1b-5e05-a78b-9ba03f59d43f",
+        "date": "2026-10-21T02:35:54.448351Z",
+        "ranges": [
+          [
+            0,
+            5329
+          ]
+        ],
+        "gaps": []
+      },
+      {
+        "id": "79cec301-08d8-4368-a119-2019f4a3729e",
+        "url": "https://chatgpt.com/c/6ad557d0-d6e8-83ea-8956-d92021cb56f2?messageId=79cec301-08d8-4368-a119-2019f4a3729e",
+        "date": "2026-10-21T02:39:53.537000Z",
+        "ranges": [
+          [
+            0,
+            45
+          ]
+        ],
+        "gaps": []
+      },
+      {
+        "id": "6a143d19-4d06-409e-a7b0-b5e4eb53c36e",
+        "url": "https://chatgpt.com/c/6ad557d0-d6e8-83ea-8956-d92021cb56f2?messageId=6a143d19-4d06-409e-a7b0-b5e4eb53c36e",
+        "date": "2026-10-21T02:41:22.349214Z",
+        "ranges": [
+          [
+            0,
+            15
+          ]
+        ],
+        "gaps": []
+      },
+      {
+        "id": "0dfa66e3-5eeb-55cb-87dd-efeab623a0cd",
+        "url": "https://chatgpt.com/c/6ad557d0-d6e8-83ea-8956-d92021cb56f2?messageId=0dfa66e3-5eeb-55cb-87dd-efeab623a0cd",
+        "date": "2026-10-19T05:18:44.072768Z",
+        "ranges": [
+          [
+            5477,
+            8184
+          ],
+          [
+            0,
+            5477
+          ]
+        ],
+        "gaps": []
+      },
+      {
+        "id": "bbb21797-6a65-42b7-8a75-e1cc5e44290e",
+        "url": "https://chatgpt.com/c/6ad557d0-d6e8-83ea-8956-d92021cb56f2?messageId=bbb21797-6a65-42b7-8a75-e1cc5e44290e",
+        "date": "2026-10-19T14:33:26.514542Z",
+        "ranges": [
+          [
+            0,
+            40
+          ]
+        ],
+        "gaps": []
+      },
+      {
+        "id": "62f173bf-bc49-5764-9bb2-2c643f2c5d20",
+        "url": "https://chatgpt.com/c/6ad557d0-d6e8-83ea-8956-d92021cb56f2?messageId=62f173bf-bc49-5764-9bb2-2c643f2c5d20",
+        "date": "2026-10-19T14:45:06.890848Z",
+        "ranges": [
+          [
+            0,
+            3352
+          ]
+        ],
+        "gaps": []
+      },
+      {
+        "id": "bbb214d6-aa2c-4231-9f47-6bf2eb8eee00",
+        "url": "https://chatgpt.com/c/6ad557d0-d6e8-83ea-8956-d92021cb56f2?messageId=bbb214d6-aa2c-4231-9f47-6bf2eb8eee00",
+        "date": "2026-10-19T15:11:03.565926Z",
+        "ranges": [
+          [
+            0,
+            71
+          ]
+        ],
+        "gaps": []
+      },
+      {
+        "id": "b7d11e69-49a4-59cc-b59c-45d4e0266f8a",
+        "url": "https://chatgpt.com/c/6ad557d0-d6e8-83ea-8956-d92021cb56f2?messageId=b7d11e69-49a4-59cc-b59c-45d4e0266f8a",
+        "date": "2026-10-19T15:28:33.559537Z",
+        "ranges": [
+          [
+            0,
+            2504
+          ]
+        ],
+        "gaps": []
+      },
+      {
+        "id": "bbb21506-3a33-4c83-956b-4e694720e98b",
+        "url": "https://chatgpt.com/c/6ad557d0-d6e8-83ea-8956-d92021cb56f2?messageId=bbb21506-3a33-4c83-956b-4e694720e98b",
+        "date": "2026-10-19T16:14:42.072022Z",
+        "ranges": [
+          [
+            0,
+            15
+          ]
+        ],
+        "gaps": []
+      },
+      {
+        "id": "bbb213c7-a087-4b70-a7a8-5d2fba779a46",
+        "url": "https://chatgpt.com/c/6ad557d0-d6e8-83ea-8956-d92021cb56f2?messageId=bbb213c7-a087-4b70-a7a8-5d2fba779a46",
+        "date": "2026-10-19T16:16:02.294035Z",
+        "ranges": [
+          [
+            0,
+            25
+          ]
+        ],
+        "gaps": []
+      },
+      {
+        "id": "c54a4164-65c4-59e5-af75-420fddc8a6d6",
+        "url": "https://chatgpt.com/c/6ad557d0-d6e8-83ea-8956-d92021cb56f2?messageId=c54a4164-65c4-59e5-af75-420fddc8a6d6",
+        "date": "2026-10-19T01:09:32.799863Z",
+        "ranges": [
+          [
+            2612,
+            2848
+          ],
+          [
+            0,
+            2612
+          ]
+        ],
+        "gaps": []
+      },
+      {
+        "id": "bbb21842-4838-4503-87d9-76c576c31ee6",
+        "url": "https://chatgpt.com/c/6ad557d0-d6e8-83ea-8956-d92021cb56f2?messageId=bbb21842-4838-4503-87d9-76c576c31ee6",
+        "date": "2026-10-19T01:19:29.337894Z",
+        "ranges": [
+          [
+            0,
+            79
+          ]
+        ],
+        "gaps": []
+      },
+      {
+        "id": "9876ce42-8646-5a06-8525-d2269dafe239",
+        "url": "https://chatgpt.com/c/6ad557d0-d6e8-83ea-8956-d92021cb56f2?messageId=9876ce42-8646-5a06-8525-d2269dafe239",
+        "date": "2026-10-19T01:21:23.895849Z",
+        "ranges": [
+          [
+            0,
+            748
+          ]
+        ],
+        "gaps": []
+      },
+      {
+        "id": "bbb217a0-b4a8-4ca6-98c3-38fe6a09dd60",
+        "url": "https://chatgpt.com/c/6ad557d0-d6e8-83ea-8956-d92021cb56f2?messageId=bbb217a0-b4a8-4ca6-98c3-38fe6a09dd60",
+        "date": "2026-10-19T01:30:27.808290Z",
+        "ranges": [
+          [
+            0,
+            89
+          ]
+        ],
+        "gaps": []
+      },
+      {
+        "id": "bbb2163e-1ab7-41c3-9fac-0643a1106201",
+        "url": "https://chatgpt.com/c/6ad557d0-d6e8-83ea-8956-d92021cb56f2?messageId=bbb2163e-1ab7-41c3-9fac-0643a1106201",
+        "date": "2026-10-19T01:32:00.202690Z",
+        "ranges": [
+          [
+            0,
+            142
+          ]
+        ],
+        "gaps": []
+      },
+      {
+        "id": "7efd52e0-46b6-51b0-be8d-6332a348bffb",
+        "url": "https://chatgpt.com/c/6ad557d0-d6e8-83ea-8956-d92021cb56f2?messageId=7efd52e0-46b6-51b0-be8d-6332a348bffb",
+        "date": "2026-10-19T03:24:53.438387Z",
+        "ranges": [
+          [
+            0,
+            3528
+          ]
+        ],
+        "gaps": []
+      },
+      {
+        "id": "bbb2176c-5627-4f2d-9165-39efea0589c1",
+        "url": "https://chatgpt.com/c/6ad557d0-d6e8-83ea-8956-d92021cb56f2?messageId=bbb2176c-5627-4f2d-9165-39efea0589c1",
+        "date": "2026-10-19T03:32:22.455468Z",
+        "ranges": [
+          [
+            0,
+            305
+          ]
+        ],
+        "gaps": []
+      },
+      {
+        "id": "d1f12c39-ee34-5f9f-b9b2-eb082507bf21",
+        "url": "https://chatgpt.com/c/6ad557d0-d6e8-83ea-8956-d92021cb56f2?messageId=d1f12c39-ee34-5f9f-b9b2-eb082507bf21",
+        "date": "2026-10-18T23:44:43.746752Z",
+        "ranges": [
+          [
+            4701,
+            7280
+          ],
+          [
+            0,
+            4701
+          ]
+        ],
+        "gaps": []
+      },
+      {
+        "id": "bbb21e85-16f5-402f-b681-0054bdb15ef8",
+        "url": "https://chatgpt.com/c/6ad557d0-d6e8-83ea-8956-d92021cb56f2?messageId=bbb21e85-16f5-402f-b681-0054bdb15ef8",
+        "date": "2026-10-18T23:59:22.498770Z",
+        "ranges": [
+          [
+            0,
+            43
+          ]
+        ],
+        "gaps": []
+      },
+      {
+        "id": "2864b038-7c9e-53f7-bc51-77ad69a5340a",
+        "url": "https://chatgpt.com/c/6ad557d0-d6e8-83ea-8956-d92021cb56f2?messageId=2864b038-7c9e-53f7-bc51-77ad69a5340a",
+        "date": "2026-10-19T00:06:34.745262Z",
+        "ranges": [
+          [
+            0,
+            6625
+          ]
+        ],
+        "gaps": []
+      },
+      {
+        "id": "bbb21072-0166-4f63-9c67-16e145eccff2",
+        "url": "https://chatgpt.com/c/6ad557d0-d6e8-83ea-8956-d92021cb56f2?messageId=bbb21072-0166-4f63-9c67-16e145eccff2",
+        "date": "2026-10-19T00:49:13.276085Z",
+        "ranges": [
+          [
+            0,
+            7
+          ]
+        ],
+        "gaps": []
+      },
+      {
+        "id": "bbb2170d-7840-499d-adf0-9fe75583cadc",
+        "url": "https://chatgpt.com/c/6ad557d0-d6e8-83ea-8956-d92021cb56f2?messageId=bbb2170d-7840-499d-adf0-9fe75583cadc",
+        "date": "2026-10-18T23:38:13.217381Z",
+        "ranges": [
+          [
+            0,
+            375
+          ]
+        ],
+        "gaps": []
+      }
+    ],
+    "scope_limit": "All returned visible native messages/chunks read. Does not include cloud progress messages or unavailable hidden tool internals. Secret-bearing messages not quoted/saved."
+  },
+  {
+    "conversation_id": "6a2f78a9-7490-83e8-9c8c-a5b59c8548d5",
+    "url": "https://chatgpt.com/c/6a2f78a9-7490-83e8-9c8c-a5b59c8548d5",
+    "pages": 1,
+    "unique_messages": 2,
+    "date_range": [
+      "2026-06-15T04:00:07.723284Z",
+      "2026-06-15T04:00:24.261449Z"
+    ],
+    "both_directions_exhausted": true,
+    "content_omitted": [],
+    "chunks": [
+      {
+        "id": "bbb21ed0-cb92-4ac7-b2b3-92052d98b900",
+        "url": "https://chatgpt.com/c/6a2f78a9-7490-83e8-9c8c-a5b59c8548d5?messageId=bbb21ed0-cb92-4ac7-b2b3-92052d98b900",
+        "date": "2026-06-15T04:00:07.723284Z",
+        "ranges": [
+          [
+            0,
+            143
+          ]
+        ],
+        "gaps": []
+      },
+      {
+        "id": "7cba0591-f462-4f8e-bf14-b09be28f7c88",
+        "url": "https://chatgpt.com/c/6a2f78a9-7490-83e8-9c8c-a5b59c8548d5?messageId=7cba0591-f462-4f8e-bf14-b09be28f7c88",
+        "date": "2026-06-15T04:00:24.261449Z",
+        "ranges": [
+          [
+            0,
+            2816
+          ]
+        ],
+        "gaps": []
+      }
+    ],
+    "scope_limit": "All returned visible native messages/chunks read. Does not include cloud progress messages or unavailable hidden tool internals. Secret-bearing messages not quoted/saved."
+  },
+  {
+    "conversation_id": "6adb7624-cd30-83ea-8214-ba563ae3fde9",
+    "url": "https://chatgpt.com/c/6adb7624-cd30-83ea-8214-ba563ae3fde9",
+    "pages": 3,
+    "unique_messages": 2,
+    "date_range": [
+      "2026-10-23T15:02:35.100499Z",
+      "2026-10-23T15:09:00.811936Z"
+    ],
+    "both_directions_exhausted": true,
+    "content_omitted": [],
+    "chunks": [
+      {
+        "id": "c662ce68-6e52-5d6b-ad3b-894697c0d8ce",
+        "url": "https://chatgpt.com/c/6adb7624-cd30-83ea-8214-ba563ae3fde9?messageId=c662ce68-6e52-5d6b-ad3b-894697c0d8ce",
+        "date": "2026-10-23T15:09:00.811936Z",
+        "ranges": [
+          [
+            0,
+            14209
+          ],
+          [
+            14209,
+            15729
+          ]
+        ],
+        "gaps": []
+      },
+      {
+        "id": "bbb215c5-bc0f-4f4c-8c01-2bf008a05220",
+        "url": "https://chatgpt.com/c/6adb7624-cd30-83ea-8214-ba563ae3fde9?messageId=bbb215c5-bc0f-4f4c-8c01-2bf008a05220",
+        "date": "2026-10-23T15:02:35.100499Z",
+        "ranges": [
+          [
+            0,
+            653
+          ]
+        ],
+        "gaps": []
+      }
+    ],
+    "scope_limit": "All returned visible native messages/chunks read. Does not include cloud progress messages or unavailable hidden tool internals. Secret-bearing messages not quoted/saved."
+  }
+]

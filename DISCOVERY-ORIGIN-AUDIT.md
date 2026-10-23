@@ -38,3 +38,7 @@ The original125-record package remains immutable. There are now139 historical re
 ## Future records
 
 Record `discovered_by: agent | reviewer | user | unknown`, the exact source/test/frame that surfaced it, whether a user specifically reported it or merely requested general review, each repair/failed trial, and verification method/coverage. Record new regressions introduced by a fix too. Do not wait for owner criticism to log a defect.
+
+
+## Later evidence correction — expanded native pass
+[New canonical user messages](NATIVE-EXPANDED-AUDIT.md) establish A13 symptoms were user-reported before the agent diagnosis. The earlier snapshot is superseded for A13 only: baseline125 origin counts now agent83/reviewer2/user28/unknown12. [Exact correction](audits/2026-10-23-native-expanded/PROVENANCE-CORRECTION.json). Technical cause discovery can still be agent-origin; no other row is automatically relabeled.

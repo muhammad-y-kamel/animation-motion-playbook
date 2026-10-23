@@ -1,0 +1,73 @@
+[
+  {
+    "id": "NATIVE-MOKI-01",
+    "type": "source_upgrade_only",
+    "prior_cases": [
+      "MOKI-H01",
+      "MOKI-H02",
+      "MOKI-H11",
+      "WHATIF-H04",
+      "WHATIF-H07",
+      "WHATIF-H08"
+    ],
+    "note": "Native sources corroborate existing cases; do not count again. Individual autonomous repair details remain from cloud history because native reader returned final messages, not those progress comments."
+  },
+  {
+    "id": "NATIVE-EZZAY-01",
+    "type": "source_upgrade_only",
+    "title": "Prompt referenced files not delivered",
+    "evidence": [
+      {
+        "message_id": "bbb21463-3dd6-4cdd-848f-7c2bd671b2b7",
+        "url": "https://chatgpt.com/c/6adabaae-30a8-83ea-a21e-e07dc3d386af?messageId=bbb21463-3dd6-4cdd-848f-7c2bd671b2b7",
+        "date": "2026-10-23T02:00:56.259008Z",
+        "role": "user",
+        "quote": "الملفات ل ذكرتها فلبرومبت ماديتهاليش عشان ابعتهاله"
+      },
+      {
+        "message_id": "bbb21596-dbca-4e73-85e2-b79e167dbba0",
+        "url": "https://chatgpt.com/c/6adabaae-30a8-83ea-a21e-e07dc3d386af?messageId=bbb21596-dbca-4e73-85e2-b79e167dbba0",
+        "date": "2026-10-23T02:01:38.050174Z",
+        "role": "user",
+        "quote": "بلاش حزم ابعت الملفات خام "
+      },
+      {
+        "message_id": "0f4eadd5-5a1e-59ef-9a65-53e30ea621c6",
+        "url": "https://chatgpt.com/c/6adabaae-30a8-83ea-a21e-e07dc3d386af?messageId=0f4eadd5-5a1e-59ef-9a65-53e30ea621c6",
+        "date": "2026-10-23T02:04:39.359351Z",
+        "role": "assistant",
+        "quote": "تمام يا يحيى، دي **الملفات الخام، كل ملف لوحده**:\n\n1. **[Ezzay_30_Scripts_Only_Prompt_AR.txt](sandbox:/workspace/scratch/4caa3d2b1332/deliverables/Ezzay_30_Scripts_Only_Prompt_AR.txt)**  \n   البرومبت المحدّث لتوليد **5 سكريبتات طويلة تتجاوز خمس دقائق و25 شورت**، وإحالاته مضبوطة على أسماء الملفات المرفقة.\n\n2. **[AGENTS.md](sandbox:/workspace/scratch/4caa3d2b1332/deliverables/ezzay_writing_sources/AGENTS.md)**  \n   ملف تعليمات المشروع الأصلي، بنفس محتواه دون تعديل.\n\n3. **[01_Writing_AR.txt](sandbox:/workspace/scratch/4caa3d2b1332/deliverables/ezzay_writing_sources/01_Writing_AR.txt)**  \n   برومبت الكتابة الأصلي من المشروع، وفيه الأسلوب المصري وبناء الهوك والليد والـBody والـOpen loops والـCTA.\n\n**ارفع له الملفات الثلاثة مع بعض، وخلّيه يبدأ بملف برومبت الـ30 سكريبت.** وضّحت داخله إن المهمة الحالية كتابة السكريبتات فقط، وإن تجهيز الـTTS والصو"
+      }
+    ],
+    "repair": "Assistant subsequently delivered raw prompt, original AGENTS.md and writing source individually and said filename references adjusted. No receiver-side download verification.",
+    "dedup": "Matched existing title and exact user quote; no new defect.",
+    "prior_cases": [
+      "HIST-EZ-EXTRA-41"
+    ]
+  },
+  {
+    "id": "NATIVE-EZZAY-02",
+    "type": "existing_uncertainty_source_upgrade",
+    "title": "ASR ambiguity S04/S18",
+    "evidence": [
+      {
+        "message_id": "3531a2bb-83c8-5200-9ee8-c9f09f0dd4ec",
+        "url": "https://chatgpt.com/c/6adabaae-30a8-83ea-a21e-e07dc3d386af?messageId=3531a2bb-83c8-5200-9ee8-c9f09f0dd4ec",
+        "date": "2026-10-23T05:26:42.244598Z",
+        "role": "assistant",
+        "quote": "**مراجعة الصوت كانت آلية، وليست استماعًا بشريًا كاملًا.** فيه موضعان سجلت فيهم أدوات التفريغ التباسًا يستحق السماع قبل النشر:\n\n- **S04، من 10.18 إلى 10.84 ثانية:** كلمة «ثانية» ظهرت في التفريغ الآلي «سنة».\n- **S18، من 7.96 إلى 9.30 ثانية:** عبارة «مش شهي يا ترى» ظهرت مدموجة في التفريغ الآلي.\n\nدي ملاحظات تعرّف آلي، وليست أخطاء نطق مؤكدة. التقرير التفصيلي محفوظ في [ASR_QA_Summary_AR.txt](sandbox:/workspace/scratch/4caa3d2b1332/ezzay_production/audio/ASR_QA_Summary_AR.txt)."
+      }
+    ],
+    "repair": "No audible repair established; final response explicitly calls these ASR notes, not confirmed pronunciation errors.",
+    "dedup": "Existing Ezzay audio caveats; not counted as confirmed error."
+  },
+  {
+    "id": "NATIVE-NOERROR-01",
+    "type": "requirements_only",
+    "conversations": [
+      "6a2f78a9-7490-83e8-9c8c-a5b59c8548d5",
+      "6adb7624-cd30-83ea-8214-ba563ae3fde9"
+    ],
+    "note": "Shorts/long channel strategy and Prophets four-script master prompt. No executed animation defect reported; don't turn preventive rules or hypothetical audience mismatch into errors."
+  }
+]

@@ -1,0 +1,220 @@
+[
+  {
+    "id": "N2-CANVA-COPY",
+    "kind": "new authoring correction",
+    "discovered_by": "user",
+    "title": "ElevenLabs opening sounds like seller-provided voiceover service, not subscription",
+    "evidence": [
+      {
+        "message_id": "bbb21fa1-d118-4bc4-93dc-e9e092879faa",
+        "url": "https://chatgpt.com/c/6ad84960-b5b0-83ea-ad28-9e0c7edd6043?messageId=bbb21fa1-d118-4bc4-93dc-e9e092879faa",
+        "date": "2026-10-21T15:41:51.925439Z",
+        "role": "user",
+        "content_omitted": false,
+        "excerpt": "لا عاوز الكلام يكون اوضح انه اشتراك في اليفين لابس من اول الفيديو مش انه خدمة من عندنا لان كدا ممكن يحصل لغبطة"
+      },
+      {
+        "message_id": "79b79918-b951-59d5-97b9-2e2bc31c0b32",
+        "url": "https://chatgpt.com/c/6ad84960-b5b0-83ea-ad28-9e0c7edd6043?messageId=79b79918-b951-59d5-97b9-2e2bc31c0b32",
+        "date": "2026-10-21T15:42:42.456912Z",
+        "role": "assistant",
+        "content_omitted": false,
+        "excerpt": "تمام، نخلي البداية صريحة: **«اشترك في إليفن لابس»**، ونوضح في الكلام إن العميل بيستخدم المنصة وأدواتها بنفسه.\n\n:::writing{variant=\"standard\" id=\"39517\"}\nاشترك في إليفن لابس من ليرن إيجي… من أول 199 جنيه بس في الشهر!\n\nلو أنت صانع محتوى، مسوّق، فريلانسر، أو بتقدّم كورسات… اشتراك إليفن لابس هيساعدك تعمل التعليق الصوتي لمحتواك بنفسك، وتوفّر وقت التسجيل والإعادة!\n\nادخل على المنصة، اكتب السكريبت، واختار الصوت اللي يناسبك… وحوّل الكلام لتعليق صوتي بالعربي أو الإنجليزي، تستخدمه في إعلاناتك، والريلز، وفيديوهات اليوتيوب، والشروحات، وحتى البودكاست!\n\nومميزات اشتراكك مش بتقف عند تحويل النص لصوت…\n\nتقدر كمان تنضّف تسجيلاتك من ضوضاء الخلفية، وتغيّر الصوت في تسجيل موجود، وتعمل مؤثرات صوتية… وحتى تدبلج فيديوهاتك للغات تانية عشان توصل لجمهور أكبر!\n\nومع ليرن إيجي، تقدر تشترك في واحدة من باقتين:\n\nباقة ستارتر بـ199 جنيه في الشهر…\nمعاك 30 ألف كريدت شهريًا، واستنساخ فوري لصوتك، عشان تعمل نسخة منه وتستخدمها في ا"
+      }
+    ],
+    "attempts": "Rewrote opening explicitly as subscription; explained user uses platform themselves.",
+    "outcome": "Revised text visible; later finished video claimed but not independently reviewed."
+  },
+  {
+    "id": "N2-EZZAY-SCRIPT",
+    "kind": "new authoring correction",
+    "discovered_by": "user",
+    "title": "Explanatory scripts sound robotic/formulaic",
+    "evidence": [
+      {
+        "message_id": "60565624-5c0f-4e11-911a-b650094f5b66",
+        "url": "https://chatgpt.com/c/6ad81709-e6c8-83ea-9f1f-f392d7ab9bf0?messageId=60565624-5c0f-4e11-911a-b650094f5b66",
+        "date": "2026-10-21T02:26:09.685000Z",
+        "role": "user",
+        "content_omitted": false,
+        "excerpt": "انت ايه سبب اسلوبك الروبوتي دا؟"
+      },
+      {
+        "message_id": "84868082-5bb2-59ec-aebe-12454332d2ad",
+        "url": "https://chatgpt.com/c/6ad81709-e6c8-83ea-9f1f-f392d7ab9bf0?messageId=84868082-5bb2-59ec-aebe-12454332d2ad",
+        "date": "2026-10-21T02:27:10.260910Z",
+        "role": "assistant",
+        "content_omitted": false,
+        "excerpt": "لأني طبّقت هيكل الفيديوهات بحرفية زيادة، فبقى القالب باين في الكلام: كل شوية «طيب ليه؟»، «خلّينا ندخل جواه»، «وهنا تفهم»... وبعدها تلخيص للي اتقال أصلًا.\n\nوكمان زوّدت التعجّب والوقفات في جمل عادية، فطلع الكلام متصنّع حتى وهو بالمصري. أنا ركّزت على ترتيب الشرح، وأهملت إن الجملة نفسها تبقى حاجة حد ممكن يقولها فعلًا.\n\nمثلًا، موضوع السماعة كان ممكن يبدأ كده:\n\n> أول ما تشغّل عزل الضوضاء، زنّة المكيّف تهدى فجأة. تشيل السماعة تلاقيه لسه شغّال زي ما هو. اللي حصل إن السماعة سمعت الزنّة، وطلّعت صوت محسوب يعاكسها عند ودنك. ودي الفكرة الغريبة فعلًا: الصوت اللي السماعة بتطلعه هو اللي بيخلّيك تسمع دوشة أقل."
+      },
+      {
+        "message_id": "d06aaaaa-9862-44ce-801a-faa9faab3583",
+        "url": "https://chatgpt.com/c/6ad81709-e6c8-83ea-9f1f-f392d7ab9bf0?messageId=d06aaaaa-9862-44ce-801a-faa9faab3583",
+        "date": "2026-10-21T02:27:41.232000Z",
+        "role": "user",
+        "content_omitted": false,
+        "excerpt": "جرب تاني كدا؟ انا شيلت السيستم انستراكشنز منك يمكن يطلع طبيعي شوية بعد كدا"
+      },
+      {
+        "message_id": "c2588813-c07f-53f5-9846-12bdf1bf83f1",
+        "url": "https://chatgpt.com/c/6ad81709-e6c8-83ea-9f1f-f392d7ab9bf0?messageId=c2588813-c07f-53f5-9846-12bdf1bf83f1",
+        "date": "2026-10-21T02:30:19.878730Z",
+        "role": "assistant",
+        "content_omitted": false,
+        "excerpt": "## ١. ليه الميكروويف يسيب حتة من الأكل باردة؟\n\n:::writing{variant=\"standard\" id=\"58136\"}\nتطلع طبق المكرونة من الميكروويف، تاخد لقمة تلسعك، فتقول أسيبه يبرد شوية. بعدها تاخد لقمة من النص، تلاقيها باردة أصلًا. فتقوم راجع تسخّنه تاني.\n\nوده ممكن يحصل والجهاز مافهوش أي عطل.\n\nالميكروويف بيولّد موجات، والأكل بيمتص طاقتها فتتحول لحرارة. والمية اللي جوه الأكل ليها دور كبير في ده.\n\nالموجات فيها مجال كهربائي بيغيّر اتجاهه بسرعة، وجزيئات المية بتحاول تغيّر اتجاهها معاه. ومن التفاعل ده، الطاقة بتنتقل للأكل وبتسخّنه.\n\nلكن الموجات مش بتوصل لكل حتة بنفس القوة."
+      }
+    ],
+    "attempts": "Assistant admits excessive template phrases, exaggerated surprise/pauses and repeated summaries. Rewrites from everyday concrete situation; user changed own system instructions but causal effect not established.",
+    "outcome": "New scripts visible; no explicit naturalness approval."
+  },
+  {
+    "id": "N2-CANVA-01-SOURCE",
+    "kind": "existing case source upgrade",
+    "related": [
+      "CANVA-01"
+    ],
+    "discovered_by": "user",
+    "title": "Canonical source for wrong cursor locations",
+    "evidence": [
+      {
+        "message_id": "bbb21991-a919-491e-9a10-009d2ceaa6d6",
+        "url": "https://chatgpt.com/c/6ad84960-b5b0-83ea-ad28-9e0c7edd6043?messageId=bbb21991-a919-491e-9a10-009d2ceaa6d6",
+        "date": "2026-10-22T20:03:00.064646Z",
+        "role": "user",
+        "content_omitted": false,
+        "excerpt": "لقيت فكرة فيديو جديدة \n\nنفذها\n\nوركز مع اماكن ضغط المؤشر لان المرة اللي فاتت كانت بيروح اماكن غلط\n\nتفضل خطة إنتاج متكاملة لتنفيذ إعلان \"تحدي الـ 30 ثانية\" من شاشة الم"
+      },
+      {
+        "message_id": "3c169889-78e8-5ea4-b850-2084b12ae074",
+        "url": "https://chatgpt.com/c/6ad84960-b5b0-83ea-ad28-9e0c7edd6043?messageId=3c169889-78e8-5ea4-b850-2084b12ae074",
+        "date": "2026-10-22T21:15:40.306222Z",
+        "role": "assistant",
+        "content_omitted": false,
+        "excerpt": "**نفّذت فيديو «تحدّي الـ٣٠ ثانية» بهوية Canva × Learn EG، مع مراجعة خاصة لأماكن ضغط المؤشر.**\n\n## الفيديو النهائي\n\n![فيديو تحدّي الـ٣٠ ثانية — Canva × Learn EG](sandbox:/workspace/scratch/cd210a27bf31/canva_challenge/output/LearnEG_Canva_30s_Challenge_1080x1920.mp4)\n\n**تحميل الفيديو:** [LearnEG_Canva_30s_Challenge_1080x1920.mp4](sandbox:/workspace/scratch/cd210a27bf31/canva_challenge/output/LearnEG_Canva_30s_Challenge_1080x1920.mp4)\n\n- **الجودة:** رأسي 1080×1920، بمعدل 60 إطارًا في الثانية.\n- **المدة:** ٥٩ ثانية للحفاظ على السكريبت كاملًا بصوت طبيعي؛ عرض خطوات التصميم والعدّاد داخل الإعلان مدته **٣٠ ثانية بالضبط**.\n- **التصميم:** نفس زجاجة ال"
+      }
+    ],
+    "outcome": "Same historical complaint and claimed click review; not new mechanism or newly verified fix."
+  },
+  {
+    "id": "N2-EZZAY-OLD-SOURCES",
+    "kind": "existing case source upgrades",
+    "related": [
+      "EZZAY-OLD-01",
+      "EZZAY-OLD-02",
+      "EZZAY-OLD-05"
+    ],
+    "discovered_by": "unknown",
+    "title": "Dated TTS rejection chain, scope correction and broken download",
+    "evidence": [
+      {
+        "message_id": "bbb21e81-d63f-41a6-9b55-e4a3f9ed09c9",
+        "url": "https://chatgpt.com/c/6ad81709-e6c8-83ea-9f1f-f392d7ab9bf0?messageId=bbb21e81-d63f-41a6-9b55-e4a3f9ed09c9",
+        "date": "2026-10-21T05:55:16.247298Z",
+        "role": "user",
+        "content_omitted": false,
+        "excerpt": "الصوت خرا\n\nاستخدم صوت ahmed او haytham والمشاعر اللي حطيتها اوفر ومبوظة الدنيا"
+      },
+      {
+        "message_id": "bbb217c6-2218-445c-b748-da9fd0140c2d",
+        "url": "https://chatgpt.com/c/6ad81709-e6c8-83ea-9f1f-f392d7ab9bf0?messageId=bbb217c6-2218-445c-b748-da9fd0140c2d",
+        "date": "2026-10-21T05:55:51.625161Z",
+        "role": "user",
+        "content_omitted": false,
+        "excerpt": "والكلام المميز حاول تصلح نطقه زي يكرمش والكلام دا"
+      },
+      {
+        "message_id": "cb4d588b-f6d8-5690-a990-5ffc0bde35fe",
+        "url": "https://chatgpt.com/c/6ad81709-e6c8-83ea-9f1f-f392d7ab9bf0?messageId=cb4d588b-f6d8-5690-a990-5ffc0bde35fe",
+        "date": "2026-10-21T06:54:03.973530Z",
+        "role": "assistant",
+        "content_omitted": false,
+        "excerpt": "**خلصت تعديل الصوت وإعادة تصدير الحلقات العشر بصوت Ahmed.** خليت إعداد المبالغة في الأداء صفر، وضبطت مدخلات النطق لكلمات زي **«بتكرمش»، «ويكرمش»، و«مبيكرمشش»**، ومعاهم كلمات ظهرت فيها مشاكل زي «قوقعة» و«نُقَط» و«ملف». والـCTA موجود في آخر كل حلقة.\n\n## حمّل النسخة الجديدة كاملة\n\n**[Ezzay_Complete_Delivery.zip](sandbox:/workspace/scratch/f8d55fe284d1/deliverables/Ezzay_Revised/Ezzay_Complete_Delivery.zip)** — حوالي **٢٥٠ ميجا**.\n\nجواها:\n\n- **٢٠ فيديو بدقة 1080×1920:** نسخة بترجمة الكلام ونسخة من غير شريط الترجمة لكل حلقة.\n- الصوت منفصل بصيغتَي **WAV وMP3**.\n- ملفات الترجمة **SRT** متظبطة على التسجيلات الجديدة.\n- المشروع كامل قابل للتعديل، ومعاه قائمة ضبط نطق الكلمات عشان تُستخدم في الحلقات الجاية.\n\n## حلقة الصوابع بعد التعديل\n\nدي الحلقة اللي "
+      },
+      {
+        "message_id": "bbb218d0-9863-4ccd-8fb6-67cad5538aed",
+        "url": "https://chatgpt.com/c/6ad81709-e6c8-83ea-9f1f-f392d7ab9bf0?messageId=bbb218d0-9863-4ccd-8fb6-67cad5538aed",
+        "date": "2026-10-21T14:02:08.883279Z",
+        "role": "user",
+        "content_omitted": false,
+        "excerpt": "الصوت طلع ابن دين كلب\n\nاستعمل هيثم والغي اي اضافات مشاعر او تنفس انت ضيفتها في الخرا دا وابعت الtts بالتشكيل والنطق السليم عشان ولا كسم كلمة اتقالت صح يبن دين الشرموطة"
+      },
+      {
+        "message_id": "1531f2e1-da54-5d4e-b22c-c706fe3976b3",
+        "url": "https://chatgpt.com/c/6ad81709-e6c8-83ea-9f1f-f392d7ab9bf0?messageId=1531f2e1-da54-5d4e-b22c-c706fe3976b3",
+        "date": "2026-10-21T14:19:12.830156Z",
+        "role": "assistant",
+        "content_omitted": false,
+        "excerpt": "**جهزت النصوص العشرة لهيثم من جديد، لكن ما اتولدش صوت جديد لأن الرصيد المتبقي مش مكفّي.** طلب التوليد اترفض: الموجود **١٢٨ كريدت**، والعينة وحدها كانت محتاجة **٢٣٩**.\n\nراجعت تشكيل النصوص كاملة على النطق المصري، وحافظت على ترتيب الكلام والـCTA. مدخلات الصوت فيها الكلام المشكول فقط، من غير تعليمات مشاعر أو تنفّس أو وقفات تمثيلية.\n\nمن الكلمات اللي اتضبطت في النص:\n\n- **بِتِكَرْمِش، وِيِكَرْمِش، مَبِيِكَرْمِشْش.**\n- **نُقَط، مِلَفّ، قَوْقَعَة.**\n- **مَيَّة** للماء، و**مِيَّة** للعدد.\n- **بِتِتْضَغَط** في جملة ضغط كابينة الطيارة، عشان تتقري بالمصري بصيغة المبني للمجهول.\n\n### الملفات الجاهزة\n\n- **النصوص العشرة المشكولة مجمّعة:** [Ezzay_Haytham_TTS.txt](sandbox:/workspace/scratch/f8d55fe284d1/deliverables/Ezzay_Haytham_TTS/Ezzay_Haytham_TTS.txt)\n- "
+      },
+      {
+        "message_id": "bbb217f0-a486-4f9e-ac60-577ede432698",
+        "url": "https://chatgpt.com/c/6ad81709-e6c8-83ea-9f1f-f392d7ab9bf0?messageId=bbb217f0-a486-4f9e-ac60-577ede432698",
+        "date": "2026-10-21T19:12:09.825650Z",
+        "role": "user",
+        "content_omitted": false,
+        "excerpt": "الصوت طلع وحش برضو\n\nانا جيبتلك ملخص محادثة تانية شغالة حلو\n\nطلع صوت واحد بس للتجربة بعد تنفذ التعليمات دي في التوليد\n\n\nاستغرق التفكير 41s\n\nاستغرق التفكير 1m 10s\n\nأيوه يا يحيى. الصوت المستخدم هنا هو هيثم، وده اسمه والـID بالضبط:\n\nHaytham — Energetic, Warm and Cheerful\n\nIES4nrmZdUBHByLBde0P\n\nوراجعت ملفات التوليد عشان أقولك اللي اتعمل فعلًا في الفيديو ده، وتقدر تكرّره في المحادثة التانية.\n\nإيه اللي عملته في الصوت هنا؟\n\n1. جهّزت نسخة من السكريبت مخصوص للنطق\n\nحافظت على الكلام والمعنى، لكن عدّلت كتابة الأرقام والأسماء والكلمات اللي ممكن تتقري بأكتر من طريقة. دي أمثلة فعلية من النص اللي اتبعت:\n\nالمكتوب في الإعلان\tالمكتوب في نسخة توليد الصوت\n\n199 جنيه\tمِيّة وتِسعة وتِسعين جِنيه\n899 جنيه\tتَمانمِيّة وتِسعة وتِسعين جِنيه\n121 ألف كريدت\tمِيّة وواحد وعشر"
+      },
+      {
+        "message_id": "bbb21ca7-0790-4887-a0be-5af910ace416",
+        "url": "https://chatgpt.com/c/6ad81709-e6c8-83ea-9f1f-f392d7ab9bf0?messageId=bbb21ca7-0790-4887-a0be-5af910ace416",
+        "date": "2026-10-21T19:13:10.566670Z",
+        "role": "user",
+        "content_omitted": false,
+        "excerpt": "المشكلة ماكانتش في الكرمشة كانت في كل ملفات الفيديو اللي بعتهالي"
+      },
+      {
+        "message_id": "04a42db3-632f-5e14-b01f-b1366a42213e",
+        "url": "https://chatgpt.com/c/6ad81709-e6c8-83ea-9f1f-f392d7ab9bf0?messageId=04a42db3-632f-5e14-b01f-b1366a42213e",
+        "date": "2026-10-21T19:21:43.218955Z",
+        "role": "assistant",
+        "content_omitted": false,
+        "excerpt": "فهمتك، قصدك **جودة الإلقاء والنطق في كل الفيديوهات**. جهزت **تجربة واحدة جديدة لحلقة كاملة**، مدتها حوالي **دقيقة و٣٤ ثانية**.\n\n### اسمع التجربة\n\n[Ezzay_Haytham_v4_Trial_01.mp3](sandbox:/workspace/scratch/f8d55fe284d1/deliverables/Ezzay_Haytham_v4_Trial_01/Ezzay_Haytham_v4_Trial_01.mp3)\n\nاستخدمت **هيثم** بنفس الـVoice ID اللي بعتّه، على `eleven_v4`، وبنفس الوصفة: ثبات `0.5`، وseed `291149`، وتطبيع النص مفعّل.\n\nالنص اتجهّز بتشكيل جزئي للنطق المصري، واتولّد كله **في طلب واحد متصل**. مفيش وسوم مشاعر أو تنفّس، ولا تغيير سرعة أو طبقة الصوت، ولا تجميع جمل من محاولات مختلفة. الملف هو الصوت الأصلي اللي خرج من التوليد، والـCTA موجود في آخره.\n\n### النص والإعدادات\n\n- [Ezzay_Haytham_v4_Trial_01_TTS.txt](sandbox:/workspace/scratch/f8d55fe284d1/deliverab"
+      },
+      {
+        "message_id": "bbb21ff4-f426-4e68-931b-47866bdb585e",
+        "url": "https://chatgpt.com/c/6ad81709-e6c8-83ea-9f1f-f392d7ab9bf0?messageId=bbb21ff4-f426-4e68-931b-47866bdb585e",
+        "date": "2026-10-21T20:37:11.833085Z",
+        "role": "user",
+        "content_omitted": false,
+        "excerpt": "رابط الملف غير متاح "
+      },
+      {
+        "message_id": "16b08f6b-1077-576b-aaa6-8b761acb6e55",
+        "url": "https://chatgpt.com/c/6ad81709-e6c8-83ea-9f1f-f392d7ab9bf0?messageId=16b08f6b-1077-576b-aaa6-8b761acb6e55",
+        "date": "2026-10-21T20:38:19.169558Z",
+        "role": "assistant",
+        "content_omitted": false,
+        "excerpt": "اتأكدت إن الحزمة الكاملة موجودة. **ده رابط التحميل المباشر:**\n\n### [Ezzay_Season01_Complete.zip](https://chatgpt.com/api/library/files/libfile_405ae42e03f48191b4682b29e914eb31/download)\n\nحجمها حوالي **241 ميجابايت**، وتشمل الحلقات العشر بالنسختين، والصوت، والهوية الجديدة، والمشروع القابل للتعديل، والبرومبتات وتقارير المراجعة.\n\nودي روابط الحزم المنفصلة لو محتاج تحميلًا أصغر:\n\n- **اللوجو والأغلفة والهوية:** [Ezzay_Brand_Kit.zip](https://chatgpt.com/api/library/files/libfile_9bded701079081919d26562aed6e679a/download) — حوالي 11 ميجابايت.\n- **المشروع القابل للتعديل:** [Ezzay_Editable_Project.zip](https://chatgpt.com/api/library/files/libfile_db34c6be19cc8191a49b8f818d369397/download) — حوالي 114 ميجابايت."
+      }
+    ],
+    "outcome": "Preserves exact rejection of whole batch (not just wrinkle word), intermediate quota failure, new single v4trial and library link repair claim. No fresh listening/download verification."
+  },
+  {
+    "id": "N2-GETMOTION-COPY-SOURCE",
+    "kind": "existing case source upgrade",
+    "related": [
+      "GETMOTION-COPY-01"
+    ],
+    "discovered_by": "user",
+    "title": "Insufficient explanatory copy and optimistic self-scoring",
+    "evidence": [
+      {
+        "message_id": "1d535249-0875-4119-9c77-d50c0cfcf954",
+        "url": "https://chatgpt.com/c/6ad6e28e-94f0-83e9-8cac-9fb64b2404f0?messageId=1d535249-0875-4119-9c77-d50c0cfcf954",
+        "date": "2026-10-20T05:33:39.733000Z",
+        "role": "user",
+        "content_omitted": false,
+        "excerpt": "حاسس الكام قليل اوي او مفيهوش شرح كافي"
+      },
+      {
+        "message_id": "47be676d-9127-5c1d-b483-6ec22e62a7f0",
+        "url": "https://chatgpt.com/c/6ad6e28e-94f0-83e9-8cac-9fb64b2404f0?messageId=47be676d-9127-5c1d-b483-6ec22e62a7f0",
+        "date": "2026-10-20T05:46:37.628008Z",
+        "role": "assistant",
+        "content_omitted": false,
+        "excerpt": "أيوه يا يحيى، **أنا ضغطت النصوص زيادة، وفي كذا نسخة كان الـBody بيسمّي الفكرة بسرعة من غير ما يشرحها كفاية.** كلام زي «نوضح الميزة» و«نرتّب المشاهد» محتاج يبيّن لصاحب الصفحة: **أنا هشتري إيه، وهستخدمه في شغلي إزاي؟**\n\n**عدّلت العشرة** بحيث كل واحد يشرح الخدمة، ويعرض مثالًا مفهومًا، وبعده يوضح بداية التعامل. النصوص دلوقتي حوالي **92–97 كلمة منطوقة**، ومستهدفة **40–45 ثانية**. التوقيت تقديري لحد قراءة النص بصوت طبيعي.\n\nوكمان راجعت السكور. **التقييم الأول كان متفائل زيادة وادّى وزن أكبر للفكرة البصرية من كفاية الشرح.** التقييم الجديد أشد، وبيقدّم وضوح الخدمة وفايدتها لصاحب النشاط.\n\n## الملفات المحدّثة\n\n- [getmotion-10-ad-scripts-voice.txt](sandbox:/workspace/scratch/bc51939bb1b4/getmotion_ad_scripts/getmotion-10-ad-scripts-voice.txt) — النصوص الموسّعة، مقسّمة بالمراحل، ومع كل واحد نسخة متصلة للقراءة.\n- [getmotion-10-ad-scripts.md](sandbox:/workspace/scratch/bc51939bb1b4/getmotion_ad_scripts/getmotion-10-ad-scripts.md) — النصوص، والمشاهد المقترحة، والتوقيت، والدرجات التفصيلية، وملاحظات الم"
+      }
+    ],
+    "outcome": "Same known correction; keep canonical dates/URLs, no duplicated defect count."
+  }
+]

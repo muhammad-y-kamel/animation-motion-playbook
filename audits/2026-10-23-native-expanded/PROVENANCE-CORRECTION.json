@@ -1,0 +1,22 @@
+{
+  "case_id": "A13",
+  "previous_discovered_by": "agent",
+  "corrected_discovered_by": "user",
+  "scope": "Earliest now-recovered explicit symptom; later technical diagnosis remains agent. A02 mapping not changed: its separate dot/underline mechanism is not established by printer-paper evidence.",
+  "support_record": "answeract/cases.json#N2-AA01",
+  "source_ids": [
+    "bbb21139-52dc-459d-b5a1-97d39f437520",
+    "bbb2155a-bdb6-4f80-89b7-c285d2654251",
+    "bbb21692-e581-46dd-ba10-911e5339840f",
+    "bbb21197-d9e3-473c-9578-cee7c2e75b72",
+    "bbb2190a-7e36-4446-b1b8-7719703f855f",
+    "0a63a133-92f6-4c29-b725-b5101aee0600"
+  ],
+  "effective_baseline_125_counts": {
+    "agent": 83,
+    "reviewer": 2,
+    "user": 28,
+    "unknown": 12
+  },
+  "note": "Additive correction supersedes A13 row in prior discovery snapshot; no claims about original real-world discovery."
+}

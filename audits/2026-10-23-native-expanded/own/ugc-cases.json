@@ -1,0 +1,789 @@
+[
+  {
+    "id": "UGC-01",
+    "title": "Full body framing cuts off feet",
+    "discovered_by": "user",
+    "attempts": "Strengthened explicit head-to-toe/full-body framing; no confirmed corrected image.",
+    "outcome": "Historical prompt revision or reported failure; no independently verified final video fix.",
+    "cause": "Only hypotheses/explicit textual contradictions described in attempts; model internals not established.",
+    "prevention": "Preserve spoken text, scene state and action timing as separate constraints; validate generated clip and audio before calling a repair successful.",
+    "evidence": [
+      {
+        "message_id": "1c147f1f-a47f-418d-ba52-1acc96e5bb55",
+        "url": "https://chatgpt.com/c/6931183e-92b0-8330-a001-816e6c693bb5?messageId=1c147f1f-a47f-418d-ba52-1acc96e5bb55",
+        "date": "2025-12-04T05:32:41.728000Z",
+        "role": "user",
+        "content_omitted": false,
+        "excerpt": "البرومبت مش مطلع ابنت واقفة كاملة من راسها لرجليها\n\nممكن تعديل \n\nوخلي النضارة بسيطة"
+      },
+      {
+        "message_id": "40f8ca09-26eb-424e-ad5b-0682e18a9d48",
+        "url": "https://chatgpt.com/c/6931183e-92b0-8330-a001-816e6c693bb5?messageId=40f8ca09-26eb-424e-ad5b-0682e18a9d48",
+        "date": "2025-12-04T05:32:43.528094Z",
+        "role": "assistant",
+        "content_omitted": false,
+        "excerpt": "تمام جدًا، هنعدل البرومبت علشان نضمن إن الشخصية تطلع **واقفة بالكامل Full Body من الرأس للقدمين**، والنضارة تكون **بسيطة جدًا** من غير ما تشد الانتباه.\n\n---\n\n### 🧍‍♀️ **Whisk Prompt – Full Body Standing Pose (Refined)**\n\n**Prompt:**\n\n> Full-body image of a beautiful 25-year-old Egyptian woman, standing naturally from head to toe. She has green eyes, soft attractive features, and a gentle, confident smile. She wears a neatly styled navy blue hijab, modest makeup, and a simple, professional outfit: a white blouse with subtle puff sleeves and a long straight black skirt. She has a minimal silver wristwatch and very simple, thin-frame eyeglasses that don't distract from her face. Her posture is upright, relaxed, and confident — arms resting naturally or one hand lightly gesturing. The full bo"
+      }
+    ]
+  },
+  {
+    "id": "UGC-02",
+    "title": "Glasses repeatedly placed above head rather than over eyes",
+    "discovered_by": "user",
+    "attempts": "Explicit on-face/not-on-hijab and isolated glasses-edit prompts; user reports recurrence. Assistant training-data explanation is speculation, not established cause.",
+    "outcome": "Historical prompt revision or reported failure; no independently verified final video fix.",
+    "cause": "Only hypotheses/explicit textual contradictions described in attempts; model internals not established.",
+    "prevention": "Preserve spoken text, scene state and action timing as separate constraints; validate generated clip and audio before calling a repair successful.",
+    "evidence": [
+      {
+        "message_id": "9382dead-57cc-41c5-bcbe-9b3d8781f9dd",
+        "url": "https://chatgpt.com/c/6931183e-92b0-8330-a001-816e6c693bb5?messageId=9382dead-57cc-41c5-bcbe-9b3d8781f9dd",
+        "date": "2025-12-04T05:33:28.613000Z",
+        "role": "user",
+        "content_omitted": false,
+        "excerpt": "حدد انها تكون لابسة النضارة على وشها لان البرومبت بيطلعها حاطاها فوق دماغها"
+      },
+      {
+        "message_id": "810a8369-5128-43a9-bf6c-909b5c5ac112",
+        "url": "https://chatgpt.com/c/6931183e-92b0-8330-a001-816e6c693bb5?messageId=810a8369-5128-43a9-bf6c-909b5c5ac112",
+        "date": "2025-12-04T05:33:32.180124Z",
+        "role": "assistant",
+        "content_omitted": false,
+        "excerpt": "تمام، هعدّل البرومبت علشان أوضح إن **النظارة لابساها على وشها** بشكل بسيط وواضح، مش محطوطة فوق الحجاب.\n\n---\n\n### 🧍‍♀️ **Whisk Prompt – Full Body with Glasses on Face (Final Version)**\n\n**Prompt:**\n\n> Full-body image of a beautiful 25-year-old Egyptian woman, standing naturally from head to toe. She has green eyes, soft and attractive facial features, and a confident, gentle smile. She is wearing a neatly wrapped navy blue hijab, modest makeup, and simple thin-frame eyeglasses worn properly on her face (not on her head or hijab). Her outfit includes a white blouse with subtle puff sleeves and a long straight black skirt, paired with a slim silver wristwatch. Her stance is relaxed and confident — arms resting naturally or one hand lightly gesturing. The entire body should be clearly visible"
+      },
+      {
+        "message_id": "9554aacf-1271-4a21-b25c-778ee1f767ae",
+        "url": "https://chatgpt.com/c/6931183e-92b0-8330-a001-816e6c693bb5?messageId=9554aacf-1271-4a21-b25c-778ee1f767ae",
+        "date": "2025-12-04T05:37:52.747000Z",
+        "role": "user",
+        "content_omitted": false,
+        "excerpt": "ليه البرومبت جايب دايما النضارة فوق راسها"
+      },
+      {
+        "message_id": "8510d6c3-373c-4cc9-bb0a-c008c816f0c6",
+        "url": "https://chatgpt.com/c/6931183e-92b0-8330-a001-816e6c693bb5?messageId=8510d6c3-373c-4cc9-bb0a-c008c816f0c6",
+        "date": "2025-12-04T05:37:54.236264Z",
+        "role": "assistant",
+        "content_omitted": false,
+        "excerpt": "سؤال ممتاز، ودي الأسباب الرئيسية:\n\n### ✅ **ليه Whisk أو أدوات التوليد بتحط النضارة فوق الرأس (أعلى الحجاب):**\n1. **النموذج التدريبي أغلبه غربي**  \n   كتير من البيانات اللي اتدربت عليها النماذج بتكون لأشخاص مش محجبات، فالنموذج بيتصرف بطريقة معتادة في صور النظارات (فوق الراس) لما يشوف \"Hijab\" + \"Glasses\".\n\n2. **عدم وضوح المكان الصحيح للنظارة**  \n   لما نقول \"wearing glasses\" بدون تحديد إنها **على الوجه**، النموذج ساعات يفسرها إنها مجرد إكسسوار موجود على الرأس أو الحجاب، مش على العيون.\n\n3. **ستايلات الموضة**  \n   في بعض ستايلات التصوير أو الموضة، بتتحط النظارة فوق الرأس كستايل، وده بيأثر على النتائج برضو.\n\n---\n\n### 🛠️ الحل: نكون دقيقين جدًا في البرومبت\n\nمثال واضح ومباشر بيخلّي النموذج يلتزم بالمطلوب:\n\n> “She is **wearing the glasses properly on her face, covering her eyes**, not on her head "
+      }
+    ]
+  },
+  {
+    "id": "UGC-03",
+    "title": "Unwanted music persists through repeated no-music prompts",
+    "discovered_by": "user",
+    "attempts": "Voice-only/noBGM repetition failed; settings/stem-edit suggestions not verified; removed cinematic/acting cues, then user says prompt failed and requests prior style. Do not count user's 'hundred' as logged test count.",
+    "outcome": "Historical prompt revision or reported failure; no independently verified final video fix.",
+    "cause": "Only hypotheses/explicit textual contradictions described in attempts; model internals not established.",
+    "prevention": "Preserve spoken text, scene state and action timing as separate constraints; validate generated clip and audio before calling a repair successful.",
+    "evidence": [
+      {
+        "message_id": "85b9a930-0358-4c83-8c6a-44bf01f4e808",
+        "url": "https://chatgpt.com/c/6931183e-92b0-8330-a001-816e6c693bb5?messageId=85b9a930-0358-4c83-8c6a-44bf01f4e808",
+        "date": "2025-12-04T07:02:35.404000Z",
+        "role": "user",
+        "content_omitted": false,
+        "excerpt": "لسا بيطلع مزيكا مش عارف ليه جربت مية مرة"
+      },
+      {
+        "message_id": "563f064f-4fbe-4472-9791-acc22bb99116",
+        "url": "https://chatgpt.com/c/6931183e-92b0-8330-a001-816e6c693bb5?messageId=563f064f-4fbe-4472-9791-acc22bb99116",
+        "date": "2025-12-04T07:02:55.761884Z",
+        "role": "assistant",
+        "content_omitted": false,
+        "excerpt": "تمام، فهمت إحباطك والله 😅  \nفي أدوات زي Veo3 ساعات **بتحط مزيكا افتراضيًا** حتى لو قلت في البرومبت \"no music\". فهنشدّ الكلام شوية في البرومبت، ونخليه واضح جدًا ومكرر عشان مافيش أي حجة.\n\nهديك حاجتين:\n\n1. 🧩 بلوك ثابت تحطه في **كل برومبت Veo3**  \n2. مثال كامل لمشهد البداية بعد التعديل\n\n---\n\n## 1️⃣ بلوك ثابت لمنع المزيكا تمامًا (حطه زي ما هو في كل برومبت)\n\nانسخه وحطه في آخر أي برومبت Veo3 (أو في أوله لو عايز تأكد أكتر):\n\n> **AUDIO INSTRUCTIONS (VERY IMPORTANT):**  \n> Generate this clip with **voice only**.  \n> - Do NOT add any background music.  \n> - Do NOT add any soundtrack, jingle, beat, or instrumental.  \n> - Do NOT add any sound effects.  \n> The only audio should be the character’s spoken voice.  \n> Background music volume must be **0**.  \n> If there is any default music, **remove it co"
+      },
+      {
+        "message_id": "a6d420d9-2150-4acc-bcd4-b3631a566109",
+        "url": "https://chatgpt.com/c/6931183e-92b0-8330-a001-816e6c693bb5?messageId=a6d420d9-2150-4acc-bcd4-b3631a566109",
+        "date": "2025-12-04T07:05:29.035000Z",
+        "role": "user",
+        "content_omitted": false,
+        "excerpt": "هو حط مزيكا برضو حتى بعد البرومبت دا"
+      },
+      {
+        "message_id": "272d8f07-8818-41bc-bfca-ae04ad4ccab3",
+        "url": "https://chatgpt.com/c/6931183e-92b0-8330-a001-816e6c693bb5?messageId=272d8f07-8818-41bc-bfca-ae04ad4ccab3",
+        "date": "2025-12-04T07:05:37.771484Z",
+        "role": "assistant",
+        "content_omitted": false,
+        "excerpt": "تمام، كده إحنا تقريبًا اتأكدنا إن المشكلة مش في البرومبت… الأرجح في **إعدادات Veo3 نفسها** أو طريقة شغلها جوّه Google Play Ultra.\n\nمهم أوضح لك حاجة بصراحة:  \nأنا مش قادر أتحكم في Veo3 من جوّه هنا، ولا أ Guarantee إن الأداة هتسمع الكلام في البرومبت، خصوصًا لو هي مبرمجة تحط مزيكا افتراضيًا.\n\nفخلينا نمشي عملي:\n\n---\n\n## ✅ خطوات عملية تتعامل بيها مع المزيكا (حتى لو الأداة عنيدة)\n\n### 1️⃣ لو فيه Settings أو Options للصوت جوّه Veo3 / Google Play Ultra\nدور على أي حاجة شبه:\n\n- **Background music / BGM / Music track / Soundtrack**\n- **Audio mix / Voice over only / Clean voice**\n\nلو لقيت:\n- شيل علامة الصح ✅ من أي خيار Music / Auto BGM  \n- أو اختار حاجة زي: **Voice only** أو **No background music**\n\nلو مافيش أي اختيار واضح… يبقى الأداة غالبًا بتحط مزيكا تلقائيًا للأسف.\n\n---\n\n### 2️⃣ حل شغلّان شوية بس "
+      },
+      {
+        "message_id": "d1ca269f-ea12-47da-a71f-a669c306f6e5",
+        "url": "https://chatgpt.com/c/6931183e-92b0-8330-a001-816e6c693bb5?messageId=d1ca269f-ea12-47da-a71f-a669c306f6e5",
+        "date": "2025-12-04T07:06:34.200000Z",
+        "role": "user",
+        "content_omitted": false,
+        "excerpt": "طب هو ممكن بسبب اننا عاملين كلام بيدل انه سينمائي زي تمثيلها او المشهد \n\nِيل الكلام دا من البرومبت "
+      },
+      {
+        "message_id": "a8c40f92-4c81-4684-b41e-a617ca513a04",
+        "url": "https://chatgpt.com/c/6931183e-92b0-8330-a001-816e6c693bb5?messageId=a8c40f92-4c81-4684-b41e-a617ca513a04",
+        "date": "2025-12-04T07:06:58.310230Z",
+        "role": "assistant",
+        "content_omitted": false,
+        "excerpt": "أيوة جدًا، احتمال كبير الـ AI بيشوف كلمات زي *cinematic / dramatic / acting / performance* فيفتكر إن دا إعلان سينمائي ويحط مزيكا أوتوماتيك.  \nهنشيل الكلام ده خالص ونخلي البرومبت “raw – بسيط – كأنه فيديو موبايل عادي”.\n\nهظبط لك:\n\n1. برومبت جديد لمشهد البداية **من غير أي وصف سينمائي**  \n2. قالب Template بسيط تقدر تستخدمه لباقي المشاهد بنفس الف vibe  \n\n---\n\n## 🎥 Veo3 – مشهد البداية (نسخة بسيطة بدون سينمائية)\n\n**الجملة العربية:**\n\n> \"بُص… أنا حاسّة إن في حاجة مش مظبوطة.  \n> في سر كده حواليا… ومش عارفة أمسكه.\"\n\n### ✅ برومبت Veo3 بعد حذف كل ما يلمّح إنه سينمائي\n\n```text\nShot description:\nSimple, realistic video. The camera is fixed on a tripod or phone stand in a modern blue office room. No cinematic style, no dramatic camera moves. At the start, the woman is standing a bit farther from the came"
+      },
+      {
+        "message_id": "0ec609df-1883-45e1-aeeb-0d210ec7eeb4",
+        "url": "https://chatgpt.com/c/6931183e-92b0-8330-a001-816e6c693bb5?messageId=0ec609df-1883-45e1-aeeb-0d210ec7eeb4",
+        "date": "2025-12-04T07:07:36.713000Z",
+        "role": "user",
+        "content_omitted": false,
+        "excerpt": "ياصحبي شيل acting style دي"
+      },
+      {
+        "message_id": "8d0c23a2-c132-4de5-92ec-0bd5bbe192da",
+        "url": "https://chatgpt.com/c/6931183e-92b0-8330-a001-816e6c693bb5?messageId=8d0c23a2-c132-4de5-92ec-0bd5bbe192da",
+        "date": "2025-12-04T07:07:44.436789Z",
+        "role": "assistant",
+        "content_omitted": false,
+        "excerpt": "تمام يا معلم 😂 حقك عليّا… هنشيل كلمة **acting style** خالص من القصة.\n\nدي نسخة **منقّحة** من برومبت Veo3 لمشهد البداية، بدون أي سطر فيه كلمة acting أو cinematic أو drama:\n\n---\n\n### 🎥 Veo3 – Scene 1 (نسخة نظيفة بدون \"acting style\")\n\n```text\nShot description:\nSimple, realistic video. The camera is fixed on a tripod or phone stand in a modern blue office room. No special cinematic style and no dramatic camera moves. At the start, the woman is standing a bit farther from the camera, then she walks a little closer until she fills more of the frame. Final framing is a medium close-up (chest and head).\n\nCharacter:\nA 25-year-old Egyptian woman with green eyes, wearing a navy blue hijab, white blouse with subtle puff sleeves, long straight black skirt, thin-frame glasses on her face (not on top of"
+      },
+      {
+        "message_id": "fa2b9ffc-6130-4799-8987-2ae8c0fc6d88",
+        "url": "https://chatgpt.com/c/6931183e-92b0-8330-a001-816e6c693bb5?messageId=fa2b9ffc-6130-4799-8987-2ae8c0fc6d88",
+        "date": "2025-12-04T07:11:40.839000Z",
+        "role": "user",
+        "content_omitted": false,
+        "excerpt": "البرومبت دا منجحش \n\nهات اللي قبله عادي بس فيه تعديل كدا عاوز يكون فيه حركات كدا ماشية مع الكلام\n\nبص .. انا حاسة ان فيه حاجه مش مظبوطة هنا * تبص يمين وشمال وترجع تكلم الكاميرا * فيه سر كدا  حواليا .. و مش قادرة افهم هو ايه"
+      },
+      {
+        "message_id": "53af079b-b3e3-4d74-94db-10c1e2ed412b",
+        "url": "https://chatgpt.com/c/6931183e-92b0-8330-a001-816e6c693bb5?messageId=53af079b-b3e3-4d74-94db-10c1e2ed412b",
+        "date": "2025-12-04T07:12:12.285749Z",
+        "role": "assistant",
+        "content_omitted": false,
+        "excerpt": "تمام، فهمتك 👌  \nهنرجّع ستايل البرومبت اللي كان مفصّل قبل كده، بس نعدّله عشان:\n\n- الحركة تمشي مع الكلام  \n- تلف يمين وشمال في النص وترجع تبص للكاميرا  \n- الجملة تبقى زي ما كتبتها بالظبط  \n- نفضل برضه عاملين بلوك يمنع المزيكا\n\nهديك دلوقتي **برومبت Veo3 كامل لمشهد البداية** جاهز Copy–Paste:\n\n---\n\n### 🎥 Veo3 – Scene 1 (Walk-in + نظرة قلق + تبص يمين وشمال)\n\n**الجملة العربية:**\n\n> \"بُص… أنا حاسّة إن في حاجة مش مظبوطة هنا.  \n> فيه سر كده حواليا… و مش قادرة أفهم هو إيه.\"\n\n**Veo3 Prompt (جاهز):**\n\n```text\nShot type & camera movement:\nStart with a wide full-body shot of the woman standing a bit far from the camera inside the blue office room. Then the camera slowly pushes in as she takes one or two small natural steps toward the camera. By the end of the shot, the framing becomes a medium close-up"
+      }
+    ]
+  },
+  {
+    "id": "UGC-04",
+    "title": "Dialogue continues during look-away; repair moves gesture to wrong position",
+    "discovered_by": "user",
+    "attempts": "First repair made lookaround occur before all dialogue, contrary intended mid-line pause. Repaired sequence: first clause → silent lookaround → lens return → remaining dialogue; JSON proposed due ignored instructions.",
+    "outcome": "Historical prompt revision or reported failure; no independently verified final video fix.",
+    "cause": "Only hypotheses/explicit textual contradictions described in attempts; model internals not established.",
+    "prevention": "Preserve spoken text, scene state and action timing as separate constraints; validate generated clip and audio before calling a repair successful.",
+    "evidence": [
+      {
+        "message_id": "038773c4-a42e-40fd-b82e-35be520c1234",
+        "url": "https://chatgpt.com/c/6931183e-92b0-8330-a001-816e6c693bb5?messageId=038773c4-a42e-40fd-b82e-35be520c1234",
+        "date": "2025-12-04T07:16:02.790000Z",
+        "role": "user",
+        "content_omitted": false,
+        "excerpt": "هي اتكلمت وهب بتبص جمبها دا شكله كان غريب عاوزينها تبدا الجملة بعد ماتخلص حركة التظر حواليها"
+      },
+      {
+        "message_id": "7b74d6c2-ab65-43f0-8656-8684371aa694",
+        "url": "https://chatgpt.com/c/6931183e-92b0-8330-a001-816e6c693bb5?messageId=7b74d6c2-ab65-43f0-8656-8684371aa694",
+        "date": "2025-12-04T07:16:15.899206Z",
+        "role": "assistant",
+        "content_omitted": false,
+        "excerpt": "فاهمك جدًا 👌  \nإحنا عايزين اللوك حوالينها يبقى **قبل الكلام**، وبعد كده ترجع تبص للكاميرا وتبدأ الجملة من غير ما يكون فيه كلام وهي مش باصة قدام.\n\nهظبط لك نفس مشهد البداية، بس بالتايمنج الجديد:\n\n- أول ثانيتين: تبص يمين وشمال في صمت.  \n- بعد ما ترجع تبص للكاميرا: **تبدأ الجملة كاملة** من غير ما تبص حوالينها تاني.\n\n---\n\n### 🎥 Veo3 – Scene 1 (تبص حوالينها الأول، بعدين تتكلم)\n\n**الجملة العربية:**\n\n> \"بُص… أنا حاسّة إن في حاجة مش مظبوطة هنا.  \n> فيه سر كده حواليا… و مش قادرة أفهم هو إيه.\"\n\n**Veo3 Prompt (الإصدار المعدّل):**\n\n```text\nShot type & camera movement:\nStart with a wide full-body shot of the woman standing a bit far from the camera inside the blue office room. The camera slowly pushes in as the scene goes on. By the end of the shot, the framing becomes a medium close-up (chest and hea"
+      },
+      {
+        "message_id": "dd3868ab-b810-45cb-86dc-c4c1c1a553be",
+        "url": "https://chatgpt.com/c/6931183e-92b0-8330-a001-816e6c693bb5?messageId=dd3868ab-b810-45cb-86dc-c4c1c1a553be",
+        "date": "2025-12-04T07:19:33.027000Z",
+        "role": "user",
+        "content_omitted": false,
+        "excerpt": "جميل بصراحة بس كنت حابب ماتبصش يمين وشمال في البداية كنت حابب في نص الكلام زي ماحددتلك قبل كدا"
+      },
+      {
+        "message_id": "b48d5a3c-7c94-47a6-8b84-20f88ad60ed7",
+        "url": "https://chatgpt.com/c/6931183e-92b0-8330-a001-816e6c693bb5?messageId=b48d5a3c-7c94-47a6-8b84-20f88ad60ed7",
+        "date": "2025-12-04T07:19:58.918166Z",
+        "role": "assistant",
+        "content_omitted": false,
+        "excerpt": "فهمتك جدًا 👌  \nإنت عايز التايمنج يبقى كده بالظبط:\n\n- تبدأ الجملة وهي باصة في الكاميرا  \n- تقول: **\"بُص… أنا حاسّة إن في حاجة مش مظبوطة هنا.\"**  \n- بعد كلمة **\"هنا\"**: تعمل وقفة صغيرة → تبص يمين وشمال → ترجع تبص للكاميرا  \n- بعد كده تكمل: **\"فيه سر كده حواليا… و مش قادرة أفهم هو إيه.\"**  \n- وماتتكلمش وهي بصّة بعيد عن الكاميرا.\n\nهظبط لك البرومبت كله على الترتيب ده 👇\n\n---\n\n### 🎥 Veo3 – Scene 1 (تبص يمين وشمال في نص الكلام زي ما طلبت)\n\n**الجملة العربية:**\n\n> \"بُص… أنا حاسّة إن في حاجة مش مظبوطة هنا.  \n> فيه سر كده حواليا… و مش قادرة أفهم هو إيه.\"\n\n**Veo3 Prompt (جاهز كوبي/بيست):**\n\n```text\nShot type & camera movement:\nStart with a wide full-body shot of the woman standing a bit far from the camera inside the blue office room. The camera slowly pushes in as the scene goes on. By the end of t"
+      },
+      {
+        "message_id": "b2f82ae4-dfb2-4646-b1ba-f46c4dfa494e",
+        "url": "https://chatgpt.com/c/6931183e-92b0-8330-a001-816e6c693bb5?messageId=b2f82ae4-dfb2-4646-b1ba-f46c4dfa494e",
+        "date": "2025-12-04T07:23:32.443000Z",
+        "role": "user",
+        "content_omitted": false,
+        "excerpt": "طب هات صيغة json مثلا ممكن تنفع عشان هو بيتخطى جزء كبير من البرومبت"
+      },
+      {
+        "message_id": "9c23f605-6a9a-4a0c-b4ef-a07245dc7d1f",
+        "url": "https://chatgpt.com/c/6931183e-92b0-8330-a001-816e6c693bb5?messageId=9c23f605-6a9a-4a0c-b4ef-a07245dc7d1f",
+        "date": "2025-12-04T07:24:03.787405Z",
+        "role": "assistant",
+        "content_omitted": false,
+        "excerpt": "حلو جدًا، فكرة الـ JSON ممتازة عشان تقلل فرص إن Veo3 يتجاهل أجزاء من البرومبت 👌  \nهديك فورمات JSON **نضيف وصغير** تقدر تستخدمه لمشهد البداية بالظبط بالتايمنج اللي اتفقنا عليه:\n\n- تبدأ تكلم الكاميرا  \n- تقول الجملة الأولى  \n- بعد كلمة **هنا**: وقفة + بصّة يمين/شمال من غير كلام  \n- ترجع بصّتها للكاميرا  \n- تكمل الجملة التانية  \n- بدون مزيكا  \n\nتقدر تعدّل القيم بعد كده لباقي المشاهد بنفس الشكل.\n\n---\n\n### 🎥 مثال JSON لمشهد البداية (Scene 1)\n\n```json\n{\n  \"sceneId\": 1,\n  \"camera\": {\n    \"framingStart\": \"wide_full_body\",\n    \"framingEnd\": \"medium_close_up\",\n    \"movement\": \"slow_push_in\",\n    \"deviceStyle\": \"fixed_phone_on_tripod\"\n  },\n  \"character\": {\n    \"description\": \"25-year-old Egyptian woman, green eyes, navy blue hijab, white blouse with subtle puff sleeves, long straight black skirt, t"
+      }
+    ]
+  },
+  {
+    "id": "UGC-05",
+    "title": "Gaze targets person behind/beside camera instead of lens",
+    "discovered_by": "user",
+    "attempts": "User approves overall shot but not gaze; added explicit lens-eye-contact while speaking. No later specific gaze verification.",
+    "outcome": "Historical prompt revision or reported failure; no independently verified final video fix.",
+    "cause": "Only hypotheses/explicit textual contradictions described in attempts; model internals not established.",
+    "prevention": "Preserve spoken text, scene state and action timing as separate constraints; validate generated clip and audio before calling a repair successful.",
+    "evidence": [
+      {
+        "message_id": "bd51d6a7-69d8-4ec7-bbb0-e31b5ef63fde",
+        "url": "https://chatgpt.com/c/6931183e-92b0-8330-a001-816e6c693bb5?messageId=bd51d6a7-69d8-4ec7-bbb0-e31b5ef63fde",
+        "date": "2025-12-04T07:28:41.585000Z",
+        "role": "user",
+        "content_omitted": false,
+        "excerpt": "طلع كويس بس عاوزينها تكلم الكاميرا عينها في الكاميرا مباشرة \n\nالفيديو بيخرج كانها بتكلم حد ورا الكاميرا"
+      },
+      {
+        "message_id": "f031e7f7-f234-46f8-8dd7-51a9753e6e8e",
+        "url": "https://chatgpt.com/c/6931183e-92b0-8330-a001-816e6c693bb5?messageId=f031e7f7-f234-46f8-8dd7-51a9753e6e8e",
+        "date": "2025-12-04T07:29:04.097854Z",
+        "role": "assistant",
+        "content_omitted": false,
+        "excerpt": "حلو إن اللقطة طلعت كويسة 🙌  \nموضوع إنها باصّة جنب الكاميرا بدل في العدسة بيحصل كتير مع الموديلات دي، فهنشدّ جدًا في حتة **eye contact** جوه الـ JSON.\n\nهعدّل لك نفس JSON المشهد الأول بحيث يركّز على:\n\n- إنها **بتكلم الكاميرا مباشرة**  \n- كل ما تتكلم = عينها في العدسة، مش جنبها  \n- ممنوع إحساس إنها بتكلم حد واقف جنب الكاميرا\n\nخلي ده الإصدار الجديد 👇\n\n```json\n{\n  \"sceneId\": 1,\n  \"camera\": {\n    \"framingStart\": \"wide_full_body\",\n    \"framingEnd\": \"medium_close_up\",\n    \"movement\": \"slow_push_in\",\n    \"notes\": \"Start with a wide full-body shot of the woman standing a bit far from the camera in the blue office room, then slowly push in until she is framed chest-up by the end of the line.\"\n  },\n  \"character\": {\n    \"description\": \"25-year-old Egyptian woman, green eyes, navy blue hijab, white bl"
+      }
+    ]
+  },
+  {
+    "id": "UGC-06",
+    "title": "Missing start-frame delivery and continuity reset to opening wide shot",
+    "discovered_by": "user",
+    "attempts": "Still prompt initially omitted then wide start reset prior medium close-up ending. Assistant acknowledged mismatch and supplied continuation still from chest to head.",
+    "outcome": "Historical prompt revision or reported failure; no independently verified final video fix.",
+    "cause": "Only hypotheses/explicit textual contradictions described in attempts; model internals not established.",
+    "prevention": "Preserve spoken text, scene state and action timing as separate constraints; validate generated clip and audio before calling a repair successful.",
+    "evidence": [
+      {
+        "message_id": "5e9a6e34-c906-47c3-8360-14fc0db6a4f8",
+        "url": "https://chatgpt.com/c/6931183e-92b0-8330-a001-816e6c693bb5?messageId=5e9a6e34-c906-47c3-8360-14fc0db6a4f8",
+        "date": "2025-12-04T07:34:19.665000Z",
+        "role": "user",
+        "content_omitted": false,
+        "excerpt": "طب  انت نسيت تجيب لقطة البداية بتاعت نانو بانانا اللي هي اللقطة الثابتة"
+      },
+      {
+        "message_id": "fff4bd5d-8575-4b6d-8c46-decf859eb9ff",
+        "url": "https://chatgpt.com/c/6931183e-92b0-8330-a001-816e6c693bb5?messageId=fff4bd5d-8575-4b6d-8c46-decf859eb9ff",
+        "date": "2025-12-04T07:34:36.892106Z",
+        "role": "assistant",
+        "content_omitted": false,
+        "excerpt": "صح عندك حق، إحنا اتكلمنا عن Veo3 كثير ونسينا نرجّع نثبّت لقطة البداية لنانو بانانا 👌  \nدلوقتي هديك **برومبت واحد جاهز** للّقطة الثابتة (Still) اللي هتستخدمها في Nano Banana، وتبقى هي نفس وضعية البداية اللي Veo3 هيكمّل منها في المشهد الأول.\n\n---\n\n## 🖼 Nano Banana – لقطة البداية الثابتة (Still Frame)\n\nدي اللقطة اللي فيها البنت:\n\n- واقفة بعيدة شوية عن الكاميرا (Wide – Full body)  \n- باصة في الكاميرا مباشرة  \n- ملامحها فيها قلق بسيط  \n- من غير حركة مبالَغ فيها عشان تبقى لقطة ثابتة نظيفة\n\n**Nano Banana Prompt (copy–paste):**\n\n```text\nA photo-realistic still frame inside a modern blue-toned office room. \nShow a full-body view of a 25-year-old Egyptian woman standing a bit far from the camera, from head to toe. She has green eyes and is wearing a neatly styled navy blue hijab, a white blouse wi"
+      },
+      {
+        "message_id": "bde9a394-f38c-48bd-88fd-28ec1cc75cb1",
+        "url": "https://chatgpt.com/c/6931183e-92b0-8330-a001-816e6c693bb5?messageId=bde9a394-f38c-48bd-88fd-28ec1cc75cb1",
+        "date": "2025-12-04T07:35:41.982000Z",
+        "role": "user",
+        "content_omitted": false,
+        "excerpt": "مش مفروض المشهد يبدأ مكان ماحنا وقفنا؟ مش نرجع للبداية تاني؟ البرومبت دا رجعنا للبداية تاني"
+      },
+      {
+        "message_id": "782901d8-c2e0-434f-b586-fd777de98d65",
+        "url": "https://chatgpt.com/c/6931183e-92b0-8330-a001-816e6c693bb5?messageId=782901d8-c2e0-434f-b586-fd777de98d65",
+        "date": "2025-12-04T07:36:11.671629Z",
+        "role": "assistant",
+        "content_omitted": false,
+        "excerpt": "آه تمام، فهمتك دلوقتي 👌  \nإنت عندك حق:  \nإحنا عملنا قبل كده:\n\n- **Still من نانو بانانا** = لقطة البداية من بعيد (Wide Full Body)  \n- بعدين في Veo3 خلّينا الكاميرا تقرّب لحد **Medium Close-Up** في نهاية المشهد الأول  \n\nفأنت دلوقتي لما تستخدم برومبت الـ Still اللي لسه كاتبهولك (اللي هو wide من بعيد)، بتحس إننا **رجعنا للبداية تاني** بدل ما نكمّل من المكان اللي وقفنا فيه. ✅\n\nإذن المطلوب دلوقتي:\n\n> Still من Nano Banana **يكمل من نهاية المشهد الأول**  \n> يعني كادر **Medium Close-Up** (من الصدر لحد الرأس)، نفس المكان، نفس اللبس، نفس الإحساس.\n\nخلّي الـ Wide الأولاني لو محتاجه،  \nودلوقتي استخدم الـ Still ده كنقطة بداية للمشهد اللي بعده (Scene 2).\n\n---\n\n## 🖼 Nano Banana – لقطة ثابتة تكمل من نهاية المشهد الأول\n\n**الكادر:** من الصدر لحد الرأس – الكاميرا قريبة شوية، مش Full Body.\n\nاستخدم البرومبت ده"
+      }
+    ]
+  },
+  {
+    "id": "UGC-07",
+    "title": "Scene loses anxious emotional continuity",
+    "discovered_by": "user",
+    "attempts": "User clarified anxiety constraint applies to Veo motion prompt, not only still. Revised emotional instructions; no rendered proof.",
+    "outcome": "Historical prompt revision or reported failure; no independently verified final video fix.",
+    "cause": "Only hypotheses/explicit textual contradictions described in attempts; model internals not established.",
+    "prevention": "Preserve spoken text, scene state and action timing as separate constraints; validate generated clip and audio before calling a repair successful.",
+    "evidence": [
+      {
+        "message_id": "54dcd04a-882b-4192-8338-4d26674c726a",
+        "url": "https://chatgpt.com/c/6931183e-92b0-8330-a001-816e6c693bb5?messageId=54dcd04a-882b-4192-8338-4d26674c726a",
+        "date": "2025-12-04T07:52:30.724000Z",
+        "role": "user",
+        "content_omitted": false,
+        "excerpt": "برومبت المشهد اللي انت جيبته مش بيوحي بالقلق زي اللي قبله \n\nوعندي تعيل عالنص \n\nخليه يبدا بكلمة انا\n\nانا اخر حاجه سمعتهم"
+      },
+      {
+        "message_id": "45017429-2312-48d4-b9f1-313d01a37de9",
+        "url": "https://chatgpt.com/c/6931183e-92b0-8330-a001-816e6c693bb5?messageId=45017429-2312-48d4-b9f1-313d01a37de9",
+        "date": "2025-12-04T07:52:54.047454Z",
+        "role": "assistant",
+        "content_omitted": false,
+        "excerpt": "حلو إنك واخد بالك من إحساس القلق في التفاصيل 👌  \nهنعمل تعديلين زي ما طلبت بالظبط:\n\n1. نحدّث **لقطة نانو بانانا** (الـ still المتوسطة) عشان توحي بالقلق أكتر زي المشهد الأول.  \n2. نعدّل **نص مشهد Veo3 الثاني + JSON** عشان يبدأ بـ:  \n   **\"أنا آخر حاجة سمعتهم…\"**\n\n---\n\n## 🖼 أولاً: لقطة Nano Banana (Still) تكملة للمشهد الأول مع إحساس قلق أوضح\n\nاستخدم البرومبت ده بدل اللي قبل:\n\n```text\nA photo-realistic still frame that continues from the previous shot, not restarting from far away.\nFrame the same 25-year-old Egyptian woman in a medium close-up (from chest to head) inside the same modern blue-toned office room.\n\nShe has green eyes and is wearing a neatly styled navy blue hijab, a white blouse with subtle puff sleeves, and thin-frame glasses worn properly on her face (not on top of the hijab)."
+      },
+      {
+        "message_id": "5e670bd7-7fe3-4ef4-b81e-5baed41b53b3",
+        "url": "https://chatgpt.com/c/6931183e-92b0-8330-a001-816e6c693bb5?messageId=5e670bd7-7fe3-4ef4-b81e-5baed41b53b3",
+        "date": "2025-12-04T07:58:53.771000Z",
+        "role": "user",
+        "content_omitted": false,
+        "excerpt": "بتكلم ع برومبت فيو ثري يكون قلقانه فيه "
+      },
+      {
+        "message_id": "41baca0b-0186-4534-a57f-ac4de426b07b",
+        "url": "https://chatgpt.com/c/6931183e-92b0-8330-a001-816e6c693bb5?messageId=41baca0b-0186-4534-a57f-ac4de426b07b",
+        "date": "2025-12-04T07:59:15.015541Z",
+        "role": "assistant",
+        "content_omitted": false,
+        "excerpt": "حلو، تمام 👌  \nدلوقتي هظبط لك **برومبت Veo3 لمشهد تكون فيه قلقانة بوضوح** أكتر، بس برضه طبيعي ومش أوڤر.\n\nهشتغل على مشهد:  \n> **\"أنا آخر حاجة سمعتهم بيقولوها إنهم عايزين يعملوا إعلان لاشتراك اسمه Google AI Ultra.\"**\n\nوهخلي:\n\n- الجسم فيه توتر بسيط واضح  \n- الوش فيه قلق أكتر من قبل  \n- النفس فيه لمسة توتر (شهيق خفيف قبل الكلام مثلًا)  \n- الصوت باين عليه القلق شوية\n\n### 🎥 Veo3 – Scene 2 (نسخة قلقانة أكتر)\n\n```json\n{\n  \"sceneId\": 2,\n  \"camera\": {\n    \"framingStart\": \"medium_close_up\",\n    \"framingEnd\": \"medium_close_up\",\n    \"movement\": \"very_subtle_push_in\",\n    \"notes\": \"Frame her from chest to head. Very small push-in to keep the shot alive.\"\n  },\n  \"character\": {\n    \"description\": \"Same 25-year-old Egyptian woman from the previous scene: green eyes, navy blue hijab, white blouse with subt"
+      }
+    ]
+  },
+  {
+    "id": "UGC-08",
+    "title": "Phonetics/translation field causes wrong spoken language",
+    "discovered_by": "user",
+    "attempts": "Franco/English-letter phonetics then English translation were requested/added; user reports output spoke English only. Assistant proposes removing phonetics and retaining Arabic text/ar-EG; user corrects scene target to3. No success confirmation.",
+    "outcome": "Historical prompt revision or reported failure; no independently verified final video fix.",
+    "cause": "Only hypotheses/explicit textual contradictions described in attempts; model internals not established.",
+    "prevention": "Preserve spoken text, scene state and action timing as separate constraints; validate generated clip and audio before calling a repair successful.",
+    "evidence": [
+      {
+        "message_id": "41a3ae75-fabc-4bd2-9a61-0bd6676405b2",
+        "url": "https://chatgpt.com/c/6931183e-92b0-8330-a001-816e6c693bb5?messageId=41a3ae75-fabc-4bd2-9a61-0bd6676405b2",
+        "date": "2025-12-04T08:07:27.548000Z",
+        "role": "user",
+        "content_omitted": false,
+        "excerpt": "ممكن تخلي الكلام  الفونوتيكس كلام انجليزي صحيح عشان يفهمو الفيو3 عشان بدا يخرف"
+      },
+      {
+        "message_id": "708f570a-3061-4f16-80fc-a51a06d7ab9d",
+        "url": "https://chatgpt.com/c/6931183e-92b0-8330-a001-816e6c693bb5?messageId=708f570a-3061-4f16-80fc-a51a06d7ab9d",
+        "date": "2025-12-04T08:08:25.476538Z",
+        "role": "assistant",
+        "content_omitted": false,
+        "excerpt": "تمام، فهمتك 👌  \nالمشكلة فعلاً إن Veo3 ساعات بيتلغبط مع الأرقام زي 7 و3 في الفونيتكس، فهنخليه **حروف إنجليزي بس** من غير أرقام ولا رموز غريبة.\n\nهديك حاجتين:\n\n1. فونيتكس مظبوط للجملتين اللي استخدمناهم لحد دلوقتي  \n2. نسخة JSON لمشهد فيو ثري (المشهد التاني) مع فونيتكس متعدّل\n\n---\n\n## 1️⃣ فونيتكس بالحروف الإنجليزي بس (من غير 7 و3)\n\n### ✅ مشهد 1 – الجملة الأولى\n\nالنص العربي:\n\n> بُص… أنا حاسّة إن في حاجة مش مظبوطة هنا.  \n> فيه سر كده حواليا… و مش قادرة أفهم هو إيه.\n\n**Phonetics (EN letters only):**\n\n```text\n\"Bos... ana haassa en fi haga mesh mazboota hena.\nFih serr keda hawalayya... w mesh adra afham howa eh.\"\n```\n\nتقدر تغيّر الفونيتكس في JSON المشهد الأول لـ النص ده بدل اللي فيه أرقام.\n\n---\n\n### ✅ مشهد 2 – الجملة المعدلة\n\nالنص العربي:\n\n> أنا آخر حاجة سمعتهم بيقولوها إنهم عايزين يعملوا إعلان لا"
+      },
+      {
+        "message_id": "751e9db3-62d6-44d0-bc68-cc1438d103c0",
+        "url": "https://chatgpt.com/c/6931183e-92b0-8330-a001-816e6c693bb5?messageId=751e9db3-62d6-44d0-bc68-cc1438d103c0",
+        "date": "2025-12-04T08:09:47.257000Z",
+        "role": "user",
+        "content_omitted": false,
+        "excerpt": "هات ياباشا الفونوتيكس انجليزي صحيح مش فرانكو للمشهد التاني\n\nوهات البرومبت كامل"
+      },
+      {
+        "message_id": "c62dc0b2-0434-4cee-ba92-0d420e02b9f1",
+        "url": "https://chatgpt.com/c/6931183e-92b0-8330-a001-816e6c693bb5?messageId=c62dc0b2-0434-4cee-ba92-0d420e02b9f1",
+        "date": "2025-12-04T08:10:29.829259Z",
+        "role": "assistant",
+        "content_omitted": false,
+        "excerpt": "حاضر يا باشا 👌  \nهديك دلوقتي:\n\n1. الفونيتكس بالإنجليزي “نضيف” من غير فرانكو ولا أرقام ولا أبستروف.  \n2. برومبت Veo3 كامل للمشهد التاني بصيغة JSON محدثة بيها.\n\n---\n\n## 🎙️ الفونيتكس للمشهد التاني (بالإنجليزي بس)\n\nالجملة العربية للمشهد 2:\n\n> **\"أنا آخر حاجة سمعتهم بيقولوها إنهم عايزين يعملوا إعلان لاشتراك اسمه Google AI Ultra.\"**\n\n**Phonetics (English letters only, no Franco, no numbers, no apostrophes):**\n\n```text\nAna aakher haga samaathom beyooloha ennohom ayzeen yaamelo ealan le eshterak esmo Google AI Ultra.\n```\n\n---\n\n## 🎥 برومبت Veo3 كامل – Scene 2 (JSON + فونيتكس مظبوط)\n\n```json\n{\n  \"sceneId\": 2,\n  \"camera\": {\n    \"framingStart\": \"medium_close_up\",\n    \"framingEnd\": \"medium_close_up\",\n    \"movement\": \"very_subtle_push_in\",\n    \"notes\": \"Frame her from chest to head. Very small push-i"
+      },
+      {
+        "message_id": "3b24c325-a36b-48c3-bc78-c11f98ef364f",
+        "url": "https://chatgpt.com/c/6931183e-92b0-8330-a001-816e6c693bb5?messageId=3b24c325-a36b-48c3-bc78-c11f98ef364f",
+        "date": "2025-12-04T08:12:39.811000Z",
+        "role": "user",
+        "content_omitted": false,
+        "excerpt": "يسطا بقول خليها ترجمة\n\nThe last thing i heared from them saying is\n\nطبعا ظبط انت الجرامر"
+      },
+      {
+        "message_id": "b3a79a0e-e556-4c0e-a968-d19b5884a884",
+        "url": "https://chatgpt.com/c/6931183e-92b0-8330-a001-816e6c693bb5?messageId=b3a79a0e-e556-4c0e-a968-d19b5884a884",
+        "date": "2025-12-04T08:12:59.505796Z",
+        "role": "assistant",
+        "content_omitted": false,
+        "excerpt": "تمام يا باشا 👌  \nه نخلي الـ **phonetics ترجمة إنجليزي صح** للجملة، مش فرانكو.\n\nالجملة العربية للمشهد التاني:  \n> أنا آخر حاجة سمعتهم بيقولوها إنهم عايزين يعملوا إعلان لاشتراك اسمه Google AI Ultra.\n\nالترجمة الإنجليزي المضبوطة:\n\n> **\"The last thing I heard them saying was that they wanted to make an ad for a subscription called Google AI Ultra.\"**\n\nهنحطها كده في الـ phonetics.\n\n---\n\n### 🎥 Veo3 – Scene 2 (بالترجمة الإنجليزي في phonetics)\n\n```json\n{\n  \"sceneId\": 2,\n  \"camera\": {\n    \"framingStart\": \"medium_close_up\",\n    \"framingEnd\": \"medium_close_up\",\n    \"movement\": \"very_subtle_push_in\",\n    \"notes\": \"Frame her from chest to head. Very small push-in to keep the shot alive.\"\n  },\n  \"character\": {\n    \"description\": \"Same 25-year-old Egyptian woman from the previous scene: green eyes, navy"
+      },
+      {
+        "message_id": "a3bda321-74e9-4fe7-af37-7b0b9ecd7b65",
+        "url": "https://chatgpt.com/c/6931183e-92b0-8330-a001-816e6c693bb5?messageId=a3bda321-74e9-4fe7-af37-7b0b9ecd7b65",
+        "date": "2025-12-04T08:45:17.462000Z",
+        "role": "user",
+        "content_omitted": false,
+        "excerpt": "طلعت بتتكلم انجليزي بس ازاي احل المشكلة دي"
+      },
+      {
+        "message_id": "f90f01eb-7a21-4111-bdf7-8421a740e98a",
+        "url": "https://chatgpt.com/c/6931183e-92b0-8330-a001-816e6c693bb5?messageId=f90f01eb-7a21-4111-bdf7-8421a740e98a",
+        "date": "2025-12-04T08:45:59.125311Z",
+        "role": "assistant",
+        "content_omitted": false,
+        "excerpt": "آه منطقي جدًا اللي حصل 🤦‍♂️  \nإحنا اللي لعبنا في الـ **phonetics** زيادة شوية فـ Veo3 فهم إن الجملة اللي لازم يقولها هي الجملة الإنجليزي اللي كتبناها له.\n\n### 🧠 ليه اتكلم إنجليزي؟\n\nفي البرومبت بتاعك للمشهد التاني انت عامل حاجة زي كده:\n\n```json\n\"textArabic\": \"أنا آخر حاجة سمعتهم بيقولوها إنهم عايزين يعملوا إعلان لاشتراك اسمه Google AI Ultra.\",\n\"phonetics\": \"The last thing I heard them saying was that they wanted to make an ad for a subscription called Google AI Ultra.\"\n```\n\nبعض الأنظمة (ومنها واضح Veo3) بتتعامل مع **phonetics** كأنها النص اللي يتقري حرفيًا لو لقت إن الجملة هناك مفهومة وواضحة، فطبيعي جدًا تلاقيها قالت الجملة الإنجليزي بدل العربي.\n\n---\n\n## ✅ الحل العملي\n\nعندك ٢ خيار واضحين، اختار اللي يناسبك:\n\n---\n\n### 🟢 خيار 1 (أنضف وأسهل): امسح الـ phonetics خالص\n\nخلي المشهد كده:\n\n```jso"
+      },
+      {
+        "message_id": "72ae1f9a-4966-4953-af2d-419b2fbb22c1",
+        "url": "https://chatgpt.com/c/6931183e-92b0-8330-a001-816e6c693bb5?messageId=72ae1f9a-4966-4953-af2d-419b2fbb22c1",
+        "date": "2025-12-04T08:47:11.328000Z",
+        "role": "user",
+        "content_omitted": false,
+        "excerpt": "احنا بنتكلم عالمشهد التالت , هات كدا برومبت كامل بتاكيد عاللغة واحذف الفونوتيكس خالص"
+      },
+      {
+        "message_id": "62b46daa-4238-4a9a-b53f-3bbec40f596a",
+        "url": "https://chatgpt.com/c/6931183e-92b0-8330-a001-816e6c693bb5?messageId=62b46daa-4238-4a9a-b53f-3bbec40f596a",
+        "date": "2025-12-04T08:47:29.977682Z",
+        "role": "assistant",
+        "content_omitted": false,
+        "excerpt": "تمام، هنشتغل دلوقتي على **المشهد التالت** بـ:\n\n- عربي بس (مصري)  \n- من غير phonetics خالص  \n- نبرة: مستغربة + بتفكر + أسلوب سردي تعجّبي  \n- الكاميرا بتعمل **pull back بسيط**  \n- حركة إيد عند بوقها وهي بتفكر زي ما قلت\n\nإليك البرومبت كامل بصيغة JSON تقدر تستخدمه في Veo3 مباشرة:\n\n```json\n{\n  \"sceneId\": 3,\n  \"camera\": {\n    \"framingStart\": \"medium_close_up\",\n    \"framingEnd\": \"medium_close_up\",\n    \"movement\": \"very_subtle_pull_back\",\n    \"notes\": \"Start on a medium close-up (chest to head). The camera moves slightly backwards, a very small pull-back, to give a light feeling of distance and reflection while she is talking.\"\n  },\n  \"character\": {\n    \"description\": \"Same 25-year-old Egyptian woman from previous scenes: green eyes, navy blue hijab, white blouse with subtle puff sleeves, long str"
+      }
+    ]
+  },
+  {
+    "id": "UGC-09",
+    "title": "Anxious reveal ends with inappropriate smile",
+    "discovered_by": "user",
+    "attempts": "Assistant admits prior amused/half-smile cues and removes them, adds no-smile/concerned ending. User reports twenty attempts, not independently counted.",
+    "outcome": "Historical prompt revision or reported failure; no independently verified final video fix.",
+    "cause": "Only hypotheses/explicit textual contradictions described in attempts; model internals not established.",
+    "prevention": "Preserve spoken text, scene state and action timing as separate constraints; validate generated clip and audio before calling a repair successful.",
+    "evidence": [
+      {
+        "message_id": "1c6fd547-0d0f-47d1-8bc5-5dd8874862e3",
+        "url": "https://chatgpt.com/c/6931183e-92b0-8330-a001-816e6c693bb5?messageId=1c6fd547-0d0f-47d1-8bc5-5dd8874862e3",
+        "date": "2025-12-04T10:33:18.602000Z",
+        "role": "user",
+        "content_omitted": false,
+        "excerpt": "هي ليه دايما بتعمل علامة فرحة في اخر الكلام \n\nجربت عشرين مرة وبرضو بتعمل ابتسامه غريبة كدا\n\n"
+      },
+      {
+        "message_id": "b3e7532f-a3d4-4c9b-adb8-131f8916cf6e",
+        "url": "https://chatgpt.com/c/6931183e-92b0-8330-a001-816e6c693bb5?messageId=b3e7532f-a3d4-4c9b-adb8-131f8916cf6e",
+        "date": "2025-12-04T10:33:36.409307Z",
+        "role": "assistant",
+        "content_omitted": false,
+        "excerpt": "آه دي عليّ أنا بصراحة 😅  \nإحنا في كذا برومبت قبل كده استخدمنا كلمات زي **amused / half-smile / tiny smile / disbelief**… فالموديل بيترجم ده دايمًا لابتسامة في آخر الجملة. وكمان فيه موديلات فيديو بتحب طبيعي تختم اللقطة بـ smile “إعلاني” شوية.\n\nخلّينا نحلّها عمليًا 👇\n\n---\n\n## 1️⃣ فكرتين مهمين قبل ما نعدّل\n\n1. أي كلمة زي:  \n   - *amused*  \n   - *smile / half-smile*  \n   - *positive / friendly ending*  \n   هتشجّعه **يضحك في الآخر** بشكل تلقائي → فهنشيل ده كله من البرومبتات.\n\n2. هنضيف **قيود صريحة** تقول:\n   - ما تبتسمش  \n   - ملامحها تفضل قلقة / محايدة  \n   - “No smiling at the end of the line”\n\n---\n\n## 2️⃣ عدّل المشهد الرابع – خليها قلقانة للنهاية ومفيش ابتسامة\n\nهديك نسخة جديدة من مشهد 4، مركّزة على إن:\n\n- مفيش “amused” ولا “smile” في الـ face  \n- وفيه شرط صريح: **no smile**  \n\nاستخدم ده بد"
+      }
+    ]
+  },
+  {
+    "id": "UGC-10",
+    "title": "Question read as statement; malformed JSON autonomously spotted",
+    "discovered_by": "unknown",
+    "component_origins": {
+      "symptom": "user",
+      "syntax_diagnosis": "agent"
+    },
+    "attempts": "User reports بجد؟ lacks interrogative intonation. Assistant separately detects stray 'she asks' outside JSON string, proposes syntax repair, separate question and rising tone. Mixed origin: userprosody/agentsyntax.",
+    "outcome": "Historical prompt revision or reported failure; no independently verified final video fix.",
+    "cause": "Only hypotheses/explicit textual contradictions described in attempts; model internals not established.",
+    "prevention": "Preserve spoken text, scene state and action timing as separate constraints; validate generated clip and audio before calling a repair successful.",
+    "evidence": [
+      {
+        "message_id": "6fc85d79-60c8-4822-9d35-1f1b83140af7",
+        "url": "https://chatgpt.com/c/6931183e-92b0-8330-a001-816e6c693bb5?messageId=6fc85d79-60c8-4822-9d35-1f1b83140af7",
+        "date": "2025-12-04T10:45:18.494000Z",
+        "role": "user",
+        "content_omitted": false,
+        "excerpt": "أنا عدلت شوية بس مش قادر احول (بجد؟) لشكل سؤال بتطلع كانها جملة طبيعية\n\n{\n  \"sceneId\": 4,\n  \"camera\": {\n    \"framingStart\": \"close_up\",\n    \"framingEnd\": \"medium_close_up\",\n    \"movement\": \"subtle_pull_back\",\n    \"notes\": \"Start on a closer shot of her face (close-up), then slowly pull back to a medium close-up WHILE she gasps and speaks. The backward camera movement happens during the whole scene, not before the dialogue. The feeling should be t"
+      },
+      {
+        "message_id": "dfe93e8a-bd9e-4353-a6c1-02b2fad25134",
+        "url": "https://chatgpt.com/c/6931183e-92b0-8330-a001-816e6c693bb5?messageId=dfe93e8a-bd9e-4353-a6c1-02b2fad25134",
+        "date": "2025-12-04T10:45:46.111006Z",
+        "role": "assistant",
+        "content_omitted": false,
+        "excerpt": "أيوة كده الصورة وضحت 👌  \nالمشكلة الأساسية عندك في حاجتين:\n\n1. في `textArabic` كتبت جملة فيها إنجليزي:  \n   ```json\n   \"textArabic\": \"أنا نفسي معمولة بالذكاء الاصطناعي بجد؟؟؟!!\" she asks,\n   ```  \n   وده بيبوّظ الـ JSON، وكمان بيبوّظ فهم اللغة.\n2. علشان يحس إن الجملة **سؤال (بجد؟)** لازم نوضّحلُه في الـ notes إن دي **نبرة سؤال** وصوتها يطلع في الآخر (rising tone).\n\nهظبط لك المشهد الرابع كله، مع:\n\n- تصحيح الـ JSON  \n- تقسيم آخر جزء لسطرين:  \n  - \"أنا نفسي معمولة بالذكاء الاصطناعي؟\"  \n  - \"بجد؟!\" لوحدها  \n- توكيد إنهم سؤال في النبرة.\n\nاستخدم ده بدل اللي عندك:\n\n```json\n{\n  \"sceneId\": 4,\n  \"camera\": {\n    \"framingStart\": \"close_up\",\n    \"framingEnd\": \"medium_close_up\",\n    \"movement\": \"subtle_pull_back\",\n    \"notes\": \"Start on a closer shot of her face (close-up), then slowly pull back to a me"
+      }
+    ]
+  },
+  {
+    "id": "UGC-11",
+    "title": "Combined backward walk and turn scene fails; split repair initially incomplete",
+    "discovered_by": "user",
+    "attempts": "User requests two clips; first answer only delivers second start-frame, user reiterates backward scene then fullturn/roomgesture. Proposed scene decomposition, no confirmed final clip.",
+    "outcome": "Historical prompt revision or reported failure; no independently verified final video fix.",
+    "cause": "Only hypotheses/explicit textual contradictions described in attempts; model internals not established.",
+    "prevention": "Preserve spoken text, scene state and action timing as separate constraints; validate generated clip and audio before calling a repair successful.",
+    "evidence": [
+      {
+        "message_id": "0e12ebfb-b860-495b-9f1d-a2c754ed26e0",
+        "url": "https://chatgpt.com/c/6931183e-92b0-8330-a001-816e6c693bb5?messageId=0e12ebfb-b860-495b-9f1d-a2c754ed26e0",
+        "date": "2025-12-04T11:05:41.796000Z",
+        "role": "user",
+        "content_omitted": false,
+        "excerpt": "مش ظابط يبقى نقسم الفيديو لقطعتين \n\nكمان عاوز منك برومبت نانو باناانا بتاع بدأ الفريم التاني"
+      },
+      {
+        "message_id": "be85077c-b2c5-4b85-8a3e-83d7137249dc",
+        "url": "https://chatgpt.com/c/6931183e-92b0-8330-a001-816e6c693bb5?messageId=be85077c-b2c5-4b85-8a3e-83d7137249dc",
+        "date": "2025-12-04T11:06:28.984319Z",
+        "role": "assistant",
+        "content_omitted": false,
+        "excerpt": "تمام، نحلّها بالطريقة الصح 👌  \nهنعتبر إن:\n\n- الجملة الأولى:  \n  **\"هم فعلًا صمّموا شكلي ولبسي، وحتى الساعة دي، باشتراك Google AI Ultra بتاعهم.\"**  \n  → تبقى في **فيديو (مشهد) لوحده**.\n\n- الجملة التانية:  \n  **\"والمكتب ده كمان، والديكور اللي حواليا، كله معمول بنانو بانانا.\"**  \n  → تبقى **مشهد جديد (فيديو تاني)**، وله فريم بداية من Nano Banana، وبعدين حركة وكلام من Veo3.\n\nإنت طلبت دلوقتي بس:  \n> برومبت Nano Banana بتاع بداية الفريم التاني  \n\nفهو ده اللي هقدمه لك دلوقتي 👇\n\n---\n\n## 🖼 Nano Banana Prompt – بداية الفريم التاني\n\nالفريم ده هو أول لقطة في المشهد اللي هتقول فيه:  \n**\"والمكتب ده كمان، والديكور اللي حواليا، كله معمول بنانو بانانا.\"**\n\nنخليه:\n\n- أوسع شوية (three-quarter body) عشان الأوضة تبان  \n- نفس البنت، نفس اللبس، نفس المكتب  \n- لسه **مافتحتش إيديها** ولا لفت، علشان Veo3 يكمّل ا"
+      },
+      {
+        "message_id": "f44aa6b2-605b-48a8-911e-63ff0284dca0",
+        "url": "https://chatgpt.com/c/6931183e-92b0-8330-a001-816e6c693bb5?messageId=f44aa6b2-605b-48a8-911e-63ff0284dca0",
+        "date": "2025-12-04T11:15:50.197000Z",
+        "role": "user",
+        "content_omitted": false,
+        "excerpt": "خليها ترجع انا قلتلك تعدل المشهد لمشهدين\n\nواخد وهي بترجع لورا والتاني وهي بتلف حوالين نفسها وتشاور عالغرفة وحيطانها وهي بتقول والمكتب دا كمان"
+      },
+      {
+        "message_id": "5095e567-825f-41c8-8bbe-93b43ad04a03",
+        "url": "https://chatgpt.com/c/6931183e-92b0-8330-a001-816e6c693bb5?messageId=5095e567-825f-41c8-8bbe-93b43ad04a03",
+        "date": "2025-12-04T11:16:25.464732Z",
+        "role": "assistant",
+        "content_omitted": false,
+        "excerpt": "تمام، فهمتك دلوقتي بالظبط 👌  \nهنقسم المشهد لـ **اتنين منفصلين**:\n\n- **Scene 5** → وهي بترجع لورا وهي بتقول:  \n  \"هم فعلًا صمّموا شكلي ولبسي، وحتى الساعة دي، باشتراك Google AI Ultra بتاعهم.\"\n\n- **Scene 6** → لقطة جديدة (من الفريم التاني بتاع Nano Banana)  \n  وهي **بتلف حوالين نفسها** وبتشاور على الأوضة والحيطان وهي بتقول:  \n  \"والمكتب ده كمان، والديكور اللي حواليا، كله معمول بنانو بانانا.\"\n\nهديك البرومبتين بتوع Veo3 بصيغة JSON جاهزين 👇\n\n---\n\n## 🎥 Veo3 – Scene 5 (وهي بترجع لورا)\n\n```json\n{\n  \"sceneId\": 5,\n  \"camera\": {\n    \"framingStart\": \"medium\",\n    \"framingEnd\": \"three_quarter_body\",\n    \"movement\": \"subtle_pull_back\",\n    \"notes\": \"Start framing her from around the waist to the head, then slowly pull back a little while she speaks, to show more of her body and part of the office as s"
+      }
+    ]
+  },
+  {
+    "id": "UGC-12",
+    "title": "Overlong dialogue scenes require repeated splitting; deferred line lost",
+    "discovered_by": "user",
+    "attempts": "Removed part3 for later, next response forgot it; repair rejoined too much, user requests onlyparts3/4. Later ending separated benefits,price,CTA again. Authoring length/memory failures, not verified duration measurements.",
+    "outcome": "Historical prompt revision or reported failure; no independently verified final video fix.",
+    "cause": "Only hypotheses/explicit textual contradictions described in attempts; model internals not established.",
+    "prevention": "Preserve spoken text, scene state and action timing as separate constraints; validate generated clip and audio before calling a repair successful.",
+    "evidence": [
+      {
+        "message_id": "6595793e-d23a-4f09-a532-2bfef1c80b5f",
+        "url": "https://chatgpt.com/c/6931183e-92b0-8330-a001-816e6c693bb5?messageId=6595793e-d23a-4f09-a532-2bfef1c80b5f",
+        "date": "2025-12-04T23:13:43.209000Z",
+        "role": "user",
+        "content_omitted": false,
+        "excerpt": "الكلام كتير اوي شيل اخر جزء part 3 واحفظه لبعدين"
+      },
+      {
+        "message_id": "aefdcdab-9e0c-44c4-ad5d-95ce575e229a",
+        "url": "https://chatgpt.com/c/6931183e-92b0-8330-a001-816e6c693bb5?messageId=aefdcdab-9e0c-44c4-ad5d-95ce575e229a",
+        "date": "2025-12-04T23:13:53.664638Z",
+        "role": "assistant",
+        "content_omitted": false,
+        "excerpt": "تمام جدًا 👌  \nهنشيل **part3** من المشهد ونسيبه احتياطي لبعدين.\n\n## 🎥 Veo 3 – Scene 8 (من غير part3)\n\nاستخدم ده كبديل للبرومبت الحالي:\n\n```json\n{\n  \"sceneId\": 8,\n  \"camera\": {\n    \"framingStart\": \"wide_full_body\",\n    \"framingEnd\": \"medium\",\n    \"movement\": \"slow_push_in\",\n    \"notes\": \"Start from a wide full-body shot showing her standing in front of the same office chair in the same position as in previous scenes. While she walks back, sits down and starts talking, the camera slowly pushes in until it reaches a medium shot (from around the waist to the head).\"\n  },\n  \"character\": {\n    \"description\": \"Same 25-year-old Egyptian woman: green eyes, navy blue hijab, white blouse with subtle puff sleeves, long straight black skirt, thin-frame glasses worn properly on her face, slim silver wr"
+      },
+      {
+        "message_id": "c803fcff-5a68-41bc-aae5-6e59b28c2f68",
+        "url": "https://chatgpt.com/c/6931183e-92b0-8330-a001-816e6c693bb5?messageId=c803fcff-5a68-41bc-aae5-6e59b28c2f68",
+        "date": "2025-12-04T23:28:25.825000Z",
+        "role": "user",
+        "content_omitted": false,
+        "excerpt": "لا نسيت الجزئية دي\n\n        \": \"يعني ولا أنا مصدومة ولا حاجة… أنا ماشية مع الخطة بالظبط.\",\n\nوكمل : ودلوقتي تعالا اعرفك احسن حد تشتري منه الاشتراك الجامد دا\n\nحافظ على نفس تون البهجة اللي هي بتتكلم فيه في البرومبت ل فات"
+      },
+      {
+        "message_id": "7444f3be-3e50-4750-964e-c7434ed8a0c1",
+        "url": "https://chatgpt.com/c/6931183e-92b0-8330-a001-816e6c693bb5?messageId=7444f3be-3e50-4750-964e-c7434ed8a0c1",
+        "date": "2025-12-04T23:28:42.747952Z",
+        "role": "assistant",
+        "content_omitted": false,
+        "excerpt": "تمام، هنجمع الجمل كلها في **مشهد واحد** بنفس قعدة الكرسي ونفس نبرة البهجة واللعب 👌  \n\nالمشهد ده فيه بالترتيب:\n\n1. طب منا عارفة من الأول…  \n2. وإن كل المشاهد اللي فاتت…  \n3. يعني ولا أنا مصدومة ولا حاجة… أنا ماشية مع الخطة بالظبط.  \n4. ودلوقتي تعالا أعرّفك أحسن حد تشتري منه الاشتراك الجامد ده.\n\nوده برومبت Veo 3 كامل محدث:\n\n```json\n{\n  \"sceneId\": 8,\n  \"camera\": {\n    \"framingStart\": \"wide_full_body\",\n    \"framingEnd\": \"medium\",\n    \"movement\": \"slow_push_in\",\n    \"notes\": \"Start from a wide full-body shot showing her standing in front of the same office chair in the same position as in previous scenes. While she walks back, sits down and starts talking, the camera slowly pushes in until it reaches a medium shot (from around the waist to the head).\"\n  },\n  \"character\": {\n    \"description\": \""
+      },
+      {
+        "message_id": "d50ab6c7-4e10-4de7-94fa-297e6ad5bdaa",
+        "url": "https://chatgpt.com/c/6931183e-92b0-8330-a001-816e6c693bb5?messageId=d50ab6c7-4e10-4de7-94fa-297e6ad5bdaa",
+        "date": "2025-12-04T23:29:34.888000Z",
+        "role": "user",
+        "content_omitted": false,
+        "excerpt": "لا هات part3 وكمل بعده الpart 4 ودا المشهد\n\nمع حركة كاميرا zoom in عالشخصية اللي قاعدة"
+      },
+      {
+        "message_id": "6cd261f6-e1a1-4fcd-b0f8-815024eb9c91",
+        "url": "https://chatgpt.com/c/6931183e-92b0-8330-a001-816e6c693bb5?messageId=6cd261f6-e1a1-4fcd-b0f8-815024eb9c91",
+        "date": "2025-12-04T23:29:44.865706Z",
+        "role": "assistant",
+        "content_omitted": false,
+        "excerpt": "تمام 👌  \nهنخلي المشهد دا **لوحده** عبارة عن:\n\n- هي قاعدة على الكرسي بالفعل (مافيش حركة جلوس).  \n- الكاميرا قريبة نسبيًا، وتعمل **slow zoom in** عليها طول ما بتقول:  \n  - \"يعني ولا أنا مصدومة ولا حاجة… أنا ماشية مع الخطة بالظبط.\"  \n  - \"ودلوقتي تعالى أعرّفك أحسن حد تشتري منه الاشتراك الجامد ده.\"\n\nوده البرومبت كامل لـ Veo 3 (تقدر تسميه مثلًا sceneId 9 أو أي رقم تحبه):\n\n```json\n{\n  \"sceneId\": 9,\n  \"camera\": {\n    \"framingStart\": \"medium\",\n    \"framingEnd\": \"medium_close_up\",\n    \"movement\": \"slow_push_in\",\n    \"notes\": \"Start from a medium shot of her sitting on the office chair (from around the waist to the head), then slowly push in to a medium close-up while she speaks, to make the moment feel more personal and engaging.\"\n  },\n  \"character\": {\n    \"description\": \"25-year-old Egyptian woma"
+      },
+      {
+        "message_id": "709939bb-332b-4c62-a68a-aa059cfb7918",
+        "url": "https://chatgpt.com/c/6931183e-92b0-8330-a001-816e6c693bb5?messageId=709939bb-332b-4c62-a68a-aa059cfb7918",
+        "date": "2025-12-05T00:44:33.341000Z",
+        "role": "user",
+        "content_omitted": false,
+        "excerpt": "هات part 1 لوحده عشان كبيرة"
+      },
+      {
+        "message_id": "2a7f9c78-bbfd-4fb9-8dbb-7f8a57c1ff90",
+        "url": "https://chatgpt.com/c/6931183e-92b0-8330-a001-816e6c693bb5?messageId=2a7f9c78-bbfd-4fb9-8dbb-7f8a57c1ff90",
+        "date": "2025-12-05T00:44:41.618727Z",
+        "role": "assistant",
+        "content_omitted": false,
+        "excerpt": "تمام 💙  \nهفصّل لك **part1** في مشهد لوحده (تقدر تسميه مثلًا `sceneId: 11` لو هتخلي الجزء بتاع السعر في مشهد 12)، بنفس التون البشوش اللي اتفقنا عليه.\n\n### 🎥 Veo3 – Scene (Part 1 فقط)\n\n```json\n{\n  \"sceneId\": 11,\n  \"camera\": {\n    \"framingStart\": \"medium_close_up\",\n    \"framingEnd\": \"medium_close_up\",\n    \"movement\": \"very_subtle\",\n    \"notes\": \"Seated shot from around the chest to the head. Make only a very small, gentle camera movement to keep the shot alive. Do NOT add any on-screen text, subtitles, captions, labels or UI elements in the video.\"\n  },\n  \"character\": {\n    \"description\": \"25-year-old Egyptian woman: green eyes, navy blue hijab, white blouse with subtle puff sleeves, long straight black skirt, thin-frame glasses worn properly on her face, slim silver wristwatch. She is seat"
+      },
+      {
+        "message_id": "96cfce5c-6487-4eda-a4fa-6b321f1d42e1",
+        "url": "https://chatgpt.com/c/6931183e-92b0-8330-a001-816e6c693bb5?messageId=96cfce5c-6487-4eda-a4fa-6b321f1d42e1",
+        "date": "2025-12-05T00:56:19.312000Z",
+        "role": "user",
+        "content_omitted": false,
+        "excerpt": "بص هو الكلام برضو كتير\n\nخلي الجملة من ول الحق كلمنا النهاردة في مشهد تاني\nوضيف عليها الاتي\nوهتستلم الاكاونت بتاعك في نفس اليوم\n\nوخليها تشاور انه بااااي والكاميرا تبعد"
+      },
+      {
+        "message_id": "b7555650-15b5-4a17-a353-0e17dd94b7b1",
+        "url": "https://chatgpt.com/c/6931183e-92b0-8330-a001-816e6c693bb5?messageId=b7555650-15b5-4a17-a353-0e17dd94b7b1",
+        "date": "2025-12-05T00:56:38.392793Z",
+        "role": "assistant",
+        "content_omitted": false,
+        "excerpt": "تمام فهمتك 👌  \nهنعمل:\n\n- **Scene 12** → بس جملة السعر (من غير كول تو أكشن).  \n- **Scene 13** → من أول: *\"الحق كلمنا النهاردة...\"* + الجملة الجديدة *\"وهتستلم الأكاونت بتاعك في نفس اليوم\"* + باقي جملة العدد محدود، مع **كاميرا بتبعد** وهي بتعمل حركة باي بإيدها.\n\nإليك الاثنين جاهزين:\n\n---\n\n### 🎥 Veo3 – Scene 12 (السعر بس)\n\n```json\n{\n  \"sceneId\": 12,\n  \"camera\": {\n    \"framingStart\": \"medium_close_up\",\n    \"framingEnd\": \"medium_close_up\",\n    \"movement\": \"very_subtle\",\n    \"notes\": \"Seated shot from around the chest to the head. Very small, gentle camera movement only. Do NOT add any on-screen text, subtitles, captions, labels or UI elements in the video.\"\n  },\n  \"character\": {\n    \"description\": \"25-year-old Egyptian woman: green eyes, navy blue hijab, white blouse with subtle puff sleeves, "
+      }
+    ]
+  },
+  {
+    "id": "UGC-13",
+    "title": "Hallucinated syllables instead of pauses; quotation syntax issue caught",
+    "discovered_by": "unknown",
+    "component_origins": {
+      "symptom": "user",
+      "syntax_diagnosis": "agent"
+    },
+    "attempts": "User hears extra sounds نيغيت/امنيت; assistant proposes removing ellipses, splitting spoken lines, banning extras, fixing nested quote in voiceDescription. Causal explanation remains hypothesis; syntax finding agent-origin.",
+    "outcome": "Historical prompt revision or reported failure; no independently verified final video fix.",
+    "cause": "Only hypotheses/explicit textual contradictions described in attempts; model internals not established.",
+    "prevention": "Preserve spoken text, scene state and action timing as separate constraints; validate generated clip and audio before calling a repair successful.",
+    "evidence": [
+      {
+        "message_id": "d6e99f15-f33a-408b-8180-e5d88dfd6009",
+        "url": "https://chatgpt.com/c/6931183e-92b0-8330-a001-816e6c693bb5?messageId=d6e99f15-f33a-408b-8180-e5d88dfd6009",
+        "date": "2025-12-05T00:06:50.544000Z",
+        "role": "user",
+        "content_omitted": false,
+        "excerpt": "انا عدلت الاسكريبت شوية\n\nبس بيحصل حاجه غريبة بتقول مثلا يعني انا مكنتش قلقانة اصلا نيغيت ولا حاسة بحاجه غلط ولا حاجه امنيت\n\nفي كلام او اصوات بتطلع زيادة وسط الكلام بدل ماتوقف كلام\n\n\n{\n  \"sceneId\": 9,\n  \"camera\": {\n    \"framingStart\": \"medium\",\n    \"framingEnd\": \"medium_close_up\",\n    \"movement\": \"slow_push_in\",\n    \"notes\": \"Start from a medium shot of her sitting on the office chair (from around the waist to the head), then slowly push in to a m"
+      },
+      {
+        "message_id": "6a6eefbd-ec13-4e0e-91a5-85d7daeecaa3",
+        "url": "https://chatgpt.com/c/6931183e-92b0-8330-a001-816e6c693bb5?messageId=6a6eefbd-ec13-4e0e-91a5-85d7daeecaa3",
+        "date": "2025-12-05T00:07:17.781737Z",
+        "role": "assistant",
+        "content_omitted": false,
+        "excerpt": "أيوه فهمت انت قصديك بالظبط 👌  \nاللي بيحصل إن Veo 3 بيحاول “يملى الفراغات” بين الجمل، خصوصًا لما:\n\n- بنحط `...` جوّه الجملة  \n- الجملة طويلة ومركبة  \n- أو وصف الصوت فيه علامات تنصيص جوّه الـ string (وده كمان مخلّي الـ JSON technically بايظ)\n\nفبيطلع أصوات وكلمات زيادة زي: *نيغيت / امنيت / حاجات غريبة* بدل ما يعمل سكوت طبيعي.\n\nهحلّها لك بثلاث حاجات في نفس البرومبت:\n\n1. أشيل الـ `...` من `textArabic` وأخلي الجمل واضحة ومقسومة صح.  \n2. أزود في `audio.notes` طلب صريح: **ممنوع تضيف أي كلمات أو أصوات زيادة**.  \n3. أصلّح حتة الـ `voiceDescription` عشان مايبقاش فيها \"علامات تنصيص\" جوّه النص.\n\n## ✅ نسخة منقّحة للمشهد 9 (جاهزة للكوبي–بيست)\n\n```json\n{\n  \"sceneId\": 9,\n  \"camera\": {\n    \"framingStart\": \"medium\",\n    \"framingEnd\": \"medium_close_up\",\n    \"movement\": \"slow_push_in\",\n    \"notes\": \"Start fro"
+      }
+    ]
+  },
+  {
+    "id": "UGC-14",
+    "title": "Learn EG pronunciation remains incorrect across attempts",
+    "discovered_by": "user",
+    "attempts": "First Egypt-derived pronunciation guidance did not resolve; user asks Learn Ee Ge spelling. Cross-project relation CANVA-05 but distinct UGC occurrence/trial.",
+    "outcome": "Historical prompt revision or reported failure; no independently verified final video fix.",
+    "cause": "Only hypotheses/explicit textual contradictions described in attempts; model internals not established.",
+    "prevention": "Preserve spoken text, scene state and action timing as separate constraints; validate generated clip and audio before calling a repair successful.",
+    "evidence": [
+      {
+        "message_id": "6a9c32cb-e48d-4b6d-8d77-6f0477408f13",
+        "url": "https://chatgpt.com/c/6931183e-92b0-8330-a001-816e6c693bb5?messageId=6a9c32cb-e48d-4b6d-8d77-6f0477408f13",
+        "date": "2025-12-05T00:24:13.230000Z",
+        "role": "user",
+        "content_omitted": false,
+        "excerpt": "ليرن ايجي مش بتتنطق صح\n\nألمفروض EG من اختصار كلمة ايجيبت\n\nوكمان شيل جزئية التلفون عشان خليتها بتكتب على ايدها"
+      },
+      {
+        "message_id": "c51e2330-ecb9-461b-8296-fc251ba30759",
+        "url": "https://chatgpt.com/c/6931183e-92b0-8330-a001-816e6c693bb5?messageId=c51e2330-ecb9-461b-8296-fc251ba30759",
+        "date": "2025-12-05T00:24:39.888667Z",
+        "role": "assistant",
+        "content_omitted": false,
+        "excerpt": "تمام، فهمت المشكلتين:\n\n- نطق **ليرن إيچي** (Learn EG → من Egypt)  \n- الجست بتاع الموبايل خلى الأداة تطلعها بتكتب على إيدها 🙄\n\nظبطتلك المشهد بالكامل من جديد:\n\n- نفس الكلام اللي انت كتبته ✅  \n- **من غير أي جست موبايل أو كتابة** ✅  \n- ومزود تعليمات واضحة لنطق Learn EG صح (EG من Egypt) ✅\n\nإليك النسخة الجديدة لمشهد 10:\n\n```json\n{\n  \"sceneId\": 10,\n  \"camera\": {\n    \"framingStart\": \"medium_close_up\",\n    \"framingEnd\": \"medium_close_up\",\n    \"movement\": \"very_subtle\",\n    \"notes\": \"Continue from the previous seated shot. Keep her framed from around the chest to the head, with only a very small, gentle camera movement to keep the shot alive.\"\n  },\n  \"character\": {\n    \"description\": \"25-year-old Egyptian woman: green eyes, navy blue hijab, white blouse with subtle puff sleeves, long straight black"
+      },
+      {
+        "message_id": "afb24237-05d1-4e36-9cca-f5c784d0ead1",
+        "url": "https://chatgpt.com/c/6931183e-92b0-8330-a001-816e6c693bb5?messageId=afb24237-05d1-4e36-9cca-f5c784d0ead1",
+        "date": "2025-12-05T00:27:34.462000Z",
+        "role": "user",
+        "content_omitted": false,
+        "excerpt": "بيظهر كلام عالفيديو غريب ممكن تشيله\n\nكمان ليرن ايجي بتتنطق غلط جرب نكتبها كدا\n\nLearn Ee Ge"
+      },
+      {
+        "message_id": "b2341fb5-51d2-46fa-be20-f72d000d0807",
+        "url": "https://chatgpt.com/c/6931183e-92b0-8330-a001-816e6c693bb5?messageId=b2341fb5-51d2-46fa-be20-f72d000d0807",
+        "date": "2025-12-05T00:28:00.365910Z",
+        "role": "assistant",
+        "content_omitted": false,
+        "excerpt": "تمام، فهمت مشكلتين دلوقتي 👌  \n\n1. **بيطلع كلام مكتوب غريب على الفيديو** → هنمنعه تمامًا في البرومبت.  \n2. **نطق ليرن إيچي** → هنخليه مكتوب جوه تعليمات الصوت بالشكل اللي إنت قلت عليه: `Learn Ee Ge`.\n\nهديك نسخة جديدة لمشهد 10 فيها:\n\n- منع أي **نص مكتوب** على الفيديو (no text / no subtitles / no labels).  \n- ضبط النطق: Learn Ee Ge.  \n- حذف أي حاجة ممكن تخلي Veo يطلع على الشاشة كلام من الـ notes.\n\nاستخدم ده بدل المشهد السابق:\n\n```json\n{\n  \"sceneId\": 10,\n  \"camera\": {\n    \"framingStart\": \"medium_close_up\",\n    \"framingEnd\": \"medium_close_up\",\n    \"movement\": \"very_subtle\",\n    \"notes\": \"Continue from the previous seated shot. Keep her framed from around the chest to the head, with only a very small, gentle camera movement to keep the shot alive. Do NOT add any on-screen text, subtitles, captio"
+      }
+    ]
+  },
+  {
+    "id": "UGC-15",
+    "title": "Phone gesture becomes writing on hand",
+    "discovered_by": "user",
+    "attempts": "Removed phone/typing gesture entirely, retained natural seated gestures. No subsequent rendered result verified.",
+    "outcome": "Historical prompt revision or reported failure; no independently verified final video fix.",
+    "cause": "Only hypotheses/explicit textual contradictions described in attempts; model internals not established.",
+    "prevention": "Preserve spoken text, scene state and action timing as separate constraints; validate generated clip and audio before calling a repair successful.",
+    "evidence": [
+      {
+        "message_id": "6a9c32cb-e48d-4b6d-8d77-6f0477408f13",
+        "url": "https://chatgpt.com/c/6931183e-92b0-8330-a001-816e6c693bb5?messageId=6a9c32cb-e48d-4b6d-8d77-6f0477408f13",
+        "date": "2025-12-05T00:24:13.230000Z",
+        "role": "user",
+        "content_omitted": false,
+        "excerpt": "ليرن ايجي مش بتتنطق صح\n\nألمفروض EG من اختصار كلمة ايجيبت\n\nوكمان شيل جزئية التلفون عشان خليتها بتكتب على ايدها"
+      },
+      {
+        "message_id": "c51e2330-ecb9-461b-8296-fc251ba30759",
+        "url": "https://chatgpt.com/c/6931183e-92b0-8330-a001-816e6c693bb5?messageId=c51e2330-ecb9-461b-8296-fc251ba30759",
+        "date": "2025-12-05T00:24:39.888667Z",
+        "role": "assistant",
+        "content_omitted": false,
+        "excerpt": "تمام، فهمت المشكلتين:\n\n- نطق **ليرن إيچي** (Learn EG → من Egypt)  \n- الجست بتاع الموبايل خلى الأداة تطلعها بتكتب على إيدها 🙄\n\nظبطتلك المشهد بالكامل من جديد:\n\n- نفس الكلام اللي انت كتبته ✅  \n- **من غير أي جست موبايل أو كتابة** ✅  \n- ومزود تعليمات واضحة لنطق Learn EG صح (EG من Egypt) ✅\n\nإليك النسخة الجديدة لمشهد 10:\n\n```json\n{\n  \"sceneId\": 10,\n  \"camera\": {\n    \"framingStart\": \"medium_close_up\",\n    \"framingEnd\": \"medium_close_up\",\n    \"movement\": \"very_subtle\",\n    \"notes\": \"Continue from the previous seated shot. Keep her framed from around the chest to the head, with only a very small, gentle camera movement to keep the shot alive.\"\n  },\n  \"character\": {\n    \"description\": \"25-year-old Egyptian woman: green eyes, navy blue hijab, white blouse with subtle puff sleeves, long straight black"
+      }
+    ]
+  },
+  {
+    "id": "UGC-16",
+    "title": "Unexpected generated on-screen text",
+    "discovered_by": "user",
+    "attempts": "Explicit no text/subtitles/labels and removal of notes that could leak on-screen. No verified result.",
+    "outcome": "Historical prompt revision or reported failure; no independently verified final video fix.",
+    "cause": "Only hypotheses/explicit textual contradictions described in attempts; model internals not established.",
+    "prevention": "Preserve spoken text, scene state and action timing as separate constraints; validate generated clip and audio before calling a repair successful.",
+    "evidence": [
+      {
+        "message_id": "afb24237-05d1-4e36-9cca-f5c784d0ead1",
+        "url": "https://chatgpt.com/c/6931183e-92b0-8330-a001-816e6c693bb5?messageId=afb24237-05d1-4e36-9cca-f5c784d0ead1",
+        "date": "2025-12-05T00:27:34.462000Z",
+        "role": "user",
+        "content_omitted": false,
+        "excerpt": "بيظهر كلام عالفيديو غريب ممكن تشيله\n\nكمان ليرن ايجي بتتنطق غلط جرب نكتبها كدا\n\nLearn Ee Ge"
+      },
+      {
+        "message_id": "b2341fb5-51d2-46fa-be20-f72d000d0807",
+        "url": "https://chatgpt.com/c/6931183e-92b0-8330-a001-816e6c693bb5?messageId=b2341fb5-51d2-46fa-be20-f72d000d0807",
+        "date": "2025-12-05T00:28:00.365910Z",
+        "role": "assistant",
+        "content_omitted": false,
+        "excerpt": "تمام، فهمت مشكلتين دلوقتي 👌  \n\n1. **بيطلع كلام مكتوب غريب على الفيديو** → هنمنعه تمامًا في البرومبت.  \n2. **نطق ليرن إيچي** → هنخليه مكتوب جوه تعليمات الصوت بالشكل اللي إنت قلت عليه: `Learn Ee Ge`.\n\nهديك نسخة جديدة لمشهد 10 فيها:\n\n- منع أي **نص مكتوب** على الفيديو (no text / no subtitles / no labels).  \n- ضبط النطق: Learn Ee Ge.  \n- حذف أي حاجة ممكن تخلي Veo يطلع على الشاشة كلام من الـ notes.\n\nاستخدم ده بدل المشهد السابق:\n\n```json\n{\n  \"sceneId\": 10,\n  \"camera\": {\n    \"framingStart\": \"medium_close_up\",\n    \"framingEnd\": \"medium_close_up\",\n    \"movement\": \"very_subtle\",\n    \"notes\": \"Continue from the previous seated shot. Keep her framed from around the chest to the head, with only a very small, gentle camera movement to keep the shot alive. Do NOT add any on-screen text, subtitles, captio"
+      }
+    ]
+  },
+  {
+    "id": "UGC-17",
+    "title": "Price-number pronunciation and overloaded closing delivery",
+    "discovered_by": "user",
+    "attempts": "Digits plus Egyptian pronunciation hints, then user-specified phonetic Arabic for799/8799, split price fromCTA. Authoring pronunciation correction, not claims of currentpricing.",
+    "outcome": "Historical prompt revision or reported failure; no independently verified final video fix.",
+    "cause": "Only hypotheses/explicit textual contradictions described in attempts; model internals not established.",
+    "prevention": "Preserve spoken text, scene state and action timing as separate constraints; validate generated clip and audio before calling a repair successful.",
+    "evidence": [
+      {
+        "message_id": "53f42867-2b30-425e-9ce3-9b315db0bd44",
+        "url": "https://chatgpt.com/c/6931183e-92b0-8330-a001-816e6c693bb5?messageId=53f42867-2b30-425e-9ce3-9b315db0bd44",
+        "date": "2025-12-05T00:37:53.361000Z",
+        "role": "user",
+        "content_omitted": false,
+        "excerpt": "حسن الكلام في الارقام\n\nجرب نكتب الارقام علطول مع اضافة تاكيد لنطقهم بشكل مصري قهراوي سليم"
+      },
+      {
+        "message_id": "d8388152-519e-4e57-b39b-4edee56525a7",
+        "url": "https://chatgpt.com/c/6931183e-92b0-8330-a001-816e6c693bb5?messageId=d8388152-519e-4e57-b39b-4edee56525a7",
+        "date": "2025-12-05T00:38:13.686657Z",
+        "role": "assistant",
+        "content_omitted": false,
+        "excerpt": "تمام، نزبط القفلة تبقى مظبوطة في الأرقام والنطق 👌  \n\n- هنكتب الأرقام **799** و **8799** بالأرقام زي ما طلبت.  \n- ونضيف تعليمات واضحة إن النطق يكون **مصري قاهري**:  \n  - 799 = *سبعة مية تسعة وتسعين*  \n  - 8799 = *تمانية تلاف سبعة مية تسعة وتسعين*  \n\nإليك مشهد 11 بعد التعديل:\n\n```json\n{\n  \"sceneId\": 11,\n  \"camera\": {\n    \"framingStart\": \"medium_close_up\",\n    \"framingEnd\": \"medium_close_up\",\n    \"movement\": \"very_subtle_push_in\",\n    \"notes\": \"Continue from the previous seated shot. Keep her framed from around the chest to the head. Make only a very small, gentle push-in while she speaks. Do NOT add any on-screen text, subtitles, captions, labels or UI elements in the video.\"\n  },\n  \"character\": {\n    \"description\": \"25-year-old Egyptian woman: green eyes, navy blue hijab, white blouse with"
+      },
+      {
+        "message_id": "3b4afde7-4641-4781-87f8-a258e72ef132",
+        "url": "https://chatgpt.com/c/6931183e-92b0-8330-a001-816e6c693bb5?messageId=3b4afde7-4641-4781-87f8-a258e72ef132",
+        "date": "2025-12-05T00:50:39.866000Z",
+        "role": "user",
+        "content_omitted": false,
+        "excerpt": "هات ل بعده\nوالنطق بيكون كده\nسُبْعُومِيَّة تِسْعَه وِتِسْعِينْ\nتَمَانْتَلَافْ"
+      },
+      {
+        "message_id": "93b2de6d-793f-4e95-a527-2ef0e7e4237f",
+        "url": "https://chatgpt.com/c/6931183e-92b0-8330-a001-816e6c693bb5?messageId=93b2de6d-793f-4e95-a527-2ef0e7e4237f",
+        "date": "2025-12-05T00:51:14.739625Z",
+        "role": "assistant",
+        "content_omitted": false,
+        "excerpt": "حلو جدًا 👌 هنفصل مشهد لوحده للأرقام والكول تو أكشن، ونظبط نطقهم زي ما كتبت:\n\n- 799 → **سُبْعُومِيَّة تِسْعَه وِتِسْعِينْ**  \n- 8799 → **تَمَانْتَلَافْ سُبْعُومِيَّة تِسْعَه وِتِسْعِينْ**\n\nده مشهد جديد (خليه مثلًا `sceneId: 12`) بنفس قعدة الكرسي، ونبرة مبسوطة مع إحساس urgency:\n\n```json\n{\n  \"sceneId\": 12,\n  \"camera\": {\n    \"framingStart\": \"medium_close_up\",\n    \"framingEnd\": \"medium_close_up\",\n    \"movement\": \"very_subtle_push_in\",\n    \"notes\": \"Continue from the previous seated shot. Keep her framed from around the chest to the head. Make only a very small, gentle push-in while she speaks. Do NOT add any on-screen text, subtitles, captions, labels or UI elements in the video.\"\n  },\n  \"character\": {\n    \"description\": \"25-year-old Egyptian woman: green eyes, navy blue hijab, white blouse wi"
+      }
+    ]
+  }
+]

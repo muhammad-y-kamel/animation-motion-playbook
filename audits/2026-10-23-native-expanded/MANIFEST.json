@@ -1,0 +1,54 @@
+[
+  {
+    "path": "PROVENANCE-CORRECTION.json",
+    "sha256": "c3454c5aa51fb67e6e1dafa94c083b3bf2d474a3373c76d6089ae10409e11684"
+  },
+  {
+    "path": "own/UGC-FINDINGS.md",
+    "sha256": "780fe4be7ac1bc9fed3223ee25e2ccf548bb51a460f3cd2a622faf3160d4a723"
+  },
+  {
+    "path": "own/ugc-cases.json",
+    "sha256": "608cd8150f7c5b43e26b321e6cc9e3e82462a2b5f513b90851f712cd7c0a3bc3"
+  },
+  {
+    "path": "own/coverage.json",
+    "sha256": "7b4d8ff5d113307ac37c3b854518db56081bf533472d5456c8b7ad7f163aa8b2"
+  },
+  {
+    "path": "own/other-cases-and-source-upgrades.json",
+    "sha256": "80be5b350b585904fdfc9a944ebd7f85a66564e18bca1328c7811c74136fa671"
+  },
+  {
+    "path": "moki-stories/native_source_upgrades.json",
+    "sha256": "c2de7f4cf4ee89d66499ff86ae3fcd26d14818daed4df5ea169f3348da36aea6"
+  },
+  {
+    "path": "moki-stories/findings.json",
+    "sha256": "2e13e84e06832b5bbeb6d5ebdd3b7c6f6f58a5694cdba3a0da120a8b557f2293"
+  },
+  {
+    "path": "moki-stories/coverage.json",
+    "sha256": "f05ceec065a5eeb995f8fdc259a2d3e7a9e7b4f62fe9bb4d62b544785fbe2486"
+  },
+  {
+    "path": "answeract/evidence.json",
+    "sha256": "8d473ef1e63125ea0b87db6a7ba4ef65fee60af3b415f186374c3caa18f3b8c8"
+  },
+  {
+    "path": "answeract/cases.json",
+    "sha256": "547ba8d3e198a8cbce227dc972f9b2c598bcd4c28dc46dc64c447db439762524"
+  },
+  {
+    "path": "answeract/findings.md",
+    "sha256": "b3b4b76b72c586807b8586fb360a4832155701d467cef231164a620528387101"
+  },
+  {
+    "path": "answeract/coverage.json",
+    "sha256": "ddb82cce57df365ee219bccdfecce8e57f1384d682a6b0eab9c4941031a081d6"
+  },
+  {
+    "path": "answeract/native-cloud-crosswalk.json",
+    "sha256": "d4c2513cd67ebd67afa760dbb9b2af4a00e5476253d1ac727fbabc4a6436715b"
+  }
+]

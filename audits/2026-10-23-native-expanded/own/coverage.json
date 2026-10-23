@@ -1,0 +1,107 @@
+[
+  {
+    "conversation_id": "6ad8c338-55c4-83ea-8f0f-b2165a26c23c",
+    "title": "تنفيذ فيديوهات موشن gfx",
+    "url": "https://chatgpt.com/c/6ad8c338-55c4-83ea-8f0f-b2165a26c23c",
+    "reader_calls": 1,
+    "unique_messages": 0,
+    "omitted_message_ids": [],
+    "status": "reader_blocked",
+    "error": {
+      "error": {
+        "message": "Conversation context exceeds its safe read limit."
+      }
+    },
+    "mapping": "GetMotion gfx cloud history still retained from prior pass; native remains unavailable"
+  },
+  {
+    "conversation_id": "6ad84960-b5b0-83ea-ad28-9e0c7edd6043",
+    "title": "بناء فيديو كانفا",
+    "url": "https://chatgpt.com/c/6ad84960-b5b0-83ea-ad28-9e0c7edd6043",
+    "reader_calls": 4,
+    "unique_messages": 17,
+    "omitted_message_ids": [
+      "bbb215ad-f537-4ed6-af39-79381a4f0244"
+    ],
+    "status": "Available directions exhausted; split chunks assembled; relevant text reviewed; no artifact inspection"
+  },
+  {
+    "conversation_id": "6ad81709-e6c8-83ea-9f1f-f392d7ab9bf0",
+    "title": "تحليل فيديوهات وكتابة برومبتโมชั่น",
+    "url": "https://chatgpt.com/c/6ad81709-e6c8-83ea-9f1f-f392d7ab9bf0",
+    "reader_calls": 7,
+    "unique_messages": 35,
+    "omitted_message_ids": [
+      "bbb2150c-3bde-47cb-9fc9-94bcd7ebcd52"
+    ],
+    "status": "Available directions exhausted; split chunks assembled; relevant text reviewed; no artifact inspection"
+  },
+  {
+    "conversation_id": "6ad6e28e-94f0-83e9-8cac-9fb64b2404f0",
+    "title": "عناصر تصميم لوجوโมชั่น",
+    "url": "https://chatgpt.com/c/6ad6e28e-94f0-83e9-8cac-9fb64b2404f0",
+    "reader_calls": 4,
+    "unique_messages": 19,
+    "omitted_message_ids": [
+      "bbb211dd-d55d-4570-972f-891608f3f14e"
+    ],
+    "status": "Available directions exhausted; split chunks assembled; relevant text reviewed; no artifact inspection"
+  },
+  {
+    "conversation_id": "6ad6f500-8eb0-83ea-bbdb-4b51b72c2a88",
+    "title": "Create Viral Video",
+    "url": "https://chatgpt.com/c/6ad6f500-8eb0-83ea-bbdb-4b51b72c2a88",
+    "reader_calls": 1,
+    "unique_messages": 2,
+    "omitted_message_ids": [],
+    "status": "Available directions exhausted; split chunks assembled; relevant text reviewed; no artifact inspection"
+  },
+  {
+    "conversation_id": "6ad6efeb-a458-83ea-8f69-03d387e10945",
+    "title": "Create motion storyboard",
+    "url": "https://chatgpt.com/c/6ad6efeb-a458-83ea-8f69-03d387e10945",
+    "reader_calls": 1,
+    "unique_messages": 2,
+    "omitted_message_ids": [],
+    "status": "Available directions exhausted; split chunks assembled; relevant text reviewed; no artifact inspection"
+  },
+  {
+    "conversation_id": "6ad6efda-f1b0-83e9-ad47-a2d1907f092e",
+    "title": "Motion design storyboard",
+    "url": "https://chatgpt.com/c/6ad6efda-f1b0-83e9-ad47-a2d1907f092e",
+    "reader_calls": 1,
+    "unique_messages": 2,
+    "omitted_message_ids": [],
+    "status": "Available directions exhausted; split chunks assembled; relevant text reviewed; no artifact inspection"
+  },
+  {
+    "conversation_id": "6ad6efba-1508-83e9-9c3e-94a98267e66b",
+    "title": "Motion Showreel Creation",
+    "url": "https://chatgpt.com/c/6ad6efba-1508-83e9-9c3e-94a98267e66b",
+    "reader_calls": 1,
+    "unique_messages": 2,
+    "omitted_message_ids": [],
+    "status": "Available directions exhausted; split chunks assembled; relevant text reviewed; no artifact inspection"
+  },
+  {
+    "conversation_id": "6a18fb3a-31fc-8330-a964-590ac6158d33",
+    "title": "ثري دي برومبتات مشاهد",
+    "url": "https://chatgpt.com/c/6a18fb3a-31fc-8330-a964-590ac6158d33",
+    "reader_calls": 1,
+    "unique_messages": 1,
+    "omitted_message_ids": [],
+    "status": "Available directions exhausted; split chunks assembled; relevant text reviewed; no artifact inspection"
+  },
+  {
+    "conversation_id": "6931183e-92b0-8330-a001-816e6c693bb5",
+    "title": "مساعد فيديوهات UGC",
+    "url": "https://chatgpt.com/c/6931183e-92b0-8330-a001-816e6c693bb5",
+    "reader_calls": 27,
+    "unique_messages": 189,
+    "omitted_message_ids": [
+      "adb1406d-24f2-40ad-847c-f20a09336713",
+      "40aa62ab-9738-41d8-9cf2-ab1e48f964f3"
+    ],
+    "status": "Available directions exhausted; split chunks assembled; relevant text reviewed; no artifact inspection"
+  }
+]
