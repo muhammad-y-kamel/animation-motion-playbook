@@ -1,0 +1,97 @@
+{
+  "episode": "EP029",
+  "stages": [
+    {
+      "stage": "audio design",
+      "read_playbook": [
+        "/workspace/shared/animation-playbook/PREFLIGHT.md",
+        "/workspace/shared/animation-playbook/INDEX.md",
+        "/workspace/shared/animation-playbook/audits/2026-10-23-history/REUSE-CHECKLIST.md",
+        "/workspace/shared/animation-playbook/NATIVE-EXPANDED-AUDIT.md"
+      ],
+      "relevant_ids": [
+        "ANIM-0009",
+        "ANIM-0013",
+        "historical audio mux and evidence-scope checks"
+      ],
+      "scope": "Source timing and original nonverbal composition"
+    },
+    {
+      "stage": "audio synthesis",
+      "read_playbook": [
+        "/workspace/shared/animation-playbook/PREFLIGHT.md",
+        "/workspace/shared/animation-playbook/INDEX.md",
+        "/workspace/shared/animation-playbook/audits/2026-10-23-history/REUSE-CHECKLIST.md",
+        "/workspace/shared/animation-playbook/NATIVE-EXPANDED-AUDIT.md"
+      ],
+      "relevant_ids": [
+        "ANIM-0009",
+        "ANIM-0013",
+        "historical audio mux and evidence-scope checks"
+      ],
+      "scope": "Deterministic sample generation and bounded envelopes"
+    },
+    {
+      "stage": "audio numerical QA",
+      "read_playbook": [
+        "/workspace/shared/animation-playbook/PREFLIGHT.md",
+        "/workspace/shared/animation-playbook/INDEX.md",
+        "/workspace/shared/animation-playbook/audits/2026-10-23-history/REUSE-CHECKLIST.md",
+        "/workspace/shared/animation-playbook/NATIVE-EXPANDED-AUDIT.md"
+      ],
+      "relevant_ids": [
+        "ANIM-0009",
+        "ANIM-0013",
+        "historical audio mux and evidence-scope checks"
+      ],
+      "scope": "Re-read preflight/checklist; exact-byte rebuild, clipping, DC, cue energy, loudness; no listening"
+    },
+    {
+      "stage": "audio gain repair",
+      "read_playbook": [
+        "/workspace/shared/animation-playbook/PREFLIGHT.md",
+        "/workspace/shared/animation-playbook/INDEX.md",
+        "/workspace/shared/animation-playbook/audits/2026-10-23-history/REUSE-CHECKLIST.md",
+        "/workspace/shared/animation-playbook/NATIVE-EXPANDED-AUDIT.md"
+      ],
+      "relevant_ids": [
+        "ANIM-0009",
+        "ANIM-0013",
+        "historical audio mux and evidence-scope checks"
+      ],
+      "scope": "Common linear attenuation/boost preserves stem identity; rerun QA"
+    },
+    {
+      "stage": "actual-source cue reconciliation",
+      "read_playbook": [
+        "PREFLIGHT.md",
+        "entries/ANIM-0009-bite-audio-sync.md",
+        "audits/2026-10-23-history/REUSE-CHECKLIST.md"
+      ],
+      "result": "Catch/placement adjusted, last2 needle hits removed. Source contact audit confirms83 needle intersections at full opacity. Master rebuild passes. Final encoded QA pending."
+    },
+    {
+      "stage": "final encoded audio/media QA",
+      "read_playbook": [
+        "PREFLIGHT.md",
+        "entries/ANIM-0009-bite-audio-sync.md",
+        "audits/2026-10-23-history/REUSE-CHECKLIST.md"
+      ],
+      "result": "Passed media-audio-QA.json and final-mux-QA.json: full AV decode;4560frames/76sec;1080x1920/60fps;stereo48k;no clipping;10 critical windows zero-sample lag. Additional83 knitting+2placement/catch windows zero-sample lag.",
+      "video_sha256": "f320d24e10e1b7c3873b634a7f60b2aec10d10be73abdb270c79229582cf6618",
+      "limitations": "No human listening or continuous AV playback; visual review by separate producer/reviewer."
+    },
+    {
+      "stage": "replacement encode audio revalidation",
+      "video_sha256": "aec63c64e7b593a8c6713f46cfec8baf966ae01cc741cfb7ef446636f6a47673",
+      "result": "Full media/audio numerical gate passes; no listening claim. Previous rejected encode remains historical evidence."
+    }
+  ],
+  "build_audio_sha256": "3a73c0a044475a5bdbdf94bde1dbe8e70f8a27b4c1c5767678730b02c47e9338",
+  "new_error": "MOKI-EP029-AUDIO-001",
+  "final_mux": "Passed media-audio-QA.json and final-mux-QA.json: full AV decode;4560frames/76sec;1080x1920/60fps;stereo48k;no clipping;10 critical windows zero-sample lag. Additional83 knitting+2placement/catch windows zero-sample lag.",
+  "new_errors": [
+    "MOKI-EP029-AUDIO-001",
+    "MOKI-EP029-AUDIO-002"
+  ]
+}

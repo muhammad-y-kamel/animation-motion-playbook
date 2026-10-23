@@ -1,0 +1,57 @@
+{
+  "43.00.png": {
+    "old": "a8069c90a36a902e9be0f976455dfa7d44b0572613de746a5cedc88c7b329e7a",
+    "final": "b33180ad86936be96adfdb2980ef4665e1de316cde3cd5bed064bb3e03d9739d",
+    "identical": false
+  },
+  "45.00.png": {
+    "old": "78d55b3939dab48a243d16df695b49d98b48e326bd7d33072ead403cb239e1d6",
+    "final": "78d55b3939dab48a243d16df695b49d98b48e326bd7d33072ead403cb239e1d6",
+    "identical": true
+  },
+  "50.00.png": {
+    "old": "5bc56d438a3a821fa344690214dbcdc73a213cf8cc8fa2ff4f8e22827ccd18d5",
+    "final": "881a39a73979c2535dd8040a6712fd5c28efb4ac28fd658ad1daf9025598e73e",
+    "identical": false
+  },
+  "54.70.png": {
+    "old": "e07017a633d4c52faa28e91b2f0b79540d4d2874047442fae7e3e86f7cb27855",
+    "final": "7594a18f11bf4103351cecdc75f533e62bfc832c7cc7b73ebb084365a8be3287",
+    "identical": false
+  },
+  "55.00.png": {
+    "old": "4f592d8499dcd7b0e91c7ca8ccac8586c880a0d3324bf6f7753c97bd826ab41f",
+    "final": "c02c74467d52db7d1da7fc140d94eacb1bd79b9ee55eab83083a5fb30e7be15a",
+    "identical": false
+  },
+  "55.50.png": {
+    "old": "458ba8c961997101a736b99332e987931c831a272a1626aed118b0afc6010b54",
+    "final": "3f04dd82e5638c9a237f4b31b03e1b79e3bfa98f7c1d5aebb36088d5850efef0",
+    "identical": false
+  },
+  "56.00.png": {
+    "old": "4085097564b91de41cae1f6a560e4381f831d774af78f21ead43b5952f10b488",
+    "final": "0a5ea280e632722640667a654895b4ccb3975a120dee6f9eec0037603d4edda1",
+    "identical": false
+  },
+  "64.50.png": {
+    "old": "7a448bce5169cbbb4f28c2fe381080adef680da16fdffeb5f7146659ca0b935d",
+    "final": "7a448bce5169cbbb4f28c2fe381080adef680da16fdffeb5f7146659ca0b935d",
+    "identical": true
+  },
+  "65.40.png": {
+    "old": "cbbd8b557baa3d99a772b20bc7764c1683094dfb6609ce7b88988da6f5899c07",
+    "final": "cbbd8b557baa3d99a772b20bc7764c1683094dfb6609ce7b88988da6f5899c07",
+    "identical": true
+  },
+  "66.00.png": {
+    "old": "80d4d36e4f06aa4cbaa964c5a3a1831f6c56e5d82637772bb50b7fe060304ea2",
+    "final": "80d4d36e4f06aa4cbaa964c5a3a1831f6c56e5d82637772bb50b7fe060304ea2",
+    "identical": true
+  },
+  "70.00.png": {
+    "old": "f8eefd1a6f50b95dd8681142c249d52125da9d1e003fc057e12bd7aee9b11d69",
+    "final": "f8eefd1a6f50b95dd8681142c249d52125da9d1e003fc057e12bd7aee9b11d69",
+    "identical": true
+  }
+}

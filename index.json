@@ -3,7 +3,7 @@
   "entries": [
     {
       "id": "ANIM-0001",
-      "title": "Floating stack gaps and base penetration — blocking contact defect",
+      "title": "Floating stack gaps and base penetration \u2014 blocking contact defect",
       "category": "geometry",
       "project": "MOKI & PEB",
       "episode": "EP027",
@@ -12,7 +12,7 @@
     },
     {
       "id": "ANIM-0002",
-      "title": "Camera transform clipped hand and exposed black bottom — blocking composition defect",
+      "title": "Camera transform clipped hand and exposed black bottom \u2014 blocking composition defect",
       "category": "composition",
       "project": "MOKI & PEB",
       "episode": "EP027",
@@ -21,7 +21,7 @@
     },
     {
       "id": "ANIM-0003",
-      "title": "Rotating hourglass penetrated tabletop — blocking support defect",
+      "title": "Rotating hourglass penetrated tabletop \u2014 blocking support defect",
       "category": "geometry",
       "project": "MOKI & PEB",
       "episode": "EP027",
@@ -30,7 +30,7 @@
     },
     {
       "id": "ANIM-0004",
-      "title": "Open palm during high cube carrying — blocking grip/readability defect",
+      "title": "Open palm during high cube carrying \u2014 blocking grip/readability defect",
       "category": "animation",
       "project": "MOKI & PEB",
       "episode": "EP027",
@@ -39,7 +39,7 @@
     },
     {
       "id": "ANIM-0005",
-      "title": "Hourglass outline vanished during particle/clump rendering — blocking render regression",
+      "title": "Hourglass outline vanished during particle/clump rendering \u2014 blocking render regression",
       "category": "rendering",
       "project": "MOKI & PEB",
       "episode": "EP027",
@@ -48,7 +48,7 @@
     },
     {
       "id": "ANIM-0006",
-      "title": "Sand hung from upper cap after flip — blocking visual physics defect",
+      "title": "Sand hung from upper cap after flip \u2014 blocking visual physics defect",
       "category": "animation",
       "project": "MOKI & PEB",
       "episode": "EP027",
@@ -57,7 +57,7 @@
     },
     {
       "id": "ANIM-0007",
-      "title": "Jam too subtle — important story-readability repair",
+      "title": "Jam too subtle \u2014 important story-readability repair",
       "category": "storytelling",
       "project": "MOKI & PEB",
       "episode": "EP027",
@@ -66,7 +66,7 @@
     },
     {
       "id": "ANIM-0008",
-      "title": "Cubes appeared without visible source — continuity improvement",
+      "title": "Cubes appeared without visible source \u2014 continuity improvement",
       "category": "continuity",
       "project": "MOKI & PEB",
       "episode": "EP027",
@@ -171,6 +171,165 @@
       "episode": "EP028",
       "status": "validated_with_limits",
       "file": "entries/ANIM-0019-binary-transport-cap.md"
+    },
+    {
+      "id": "MOKI-EP029-GEO-001",
+      "title": "Phase-local anchors reset hands and wool",
+      "category": "animation",
+      "project": "MOKI & PEB",
+      "episode": "EP029",
+      "status": "validated_with_limits",
+      "file": "entries/MOKI-EP029-GEO-001.md",
+      "discovered_by": "reviewer"
+    },
+    {
+      "id": "MOKI-EP029-GEO-002",
+      "title": "Floor contact includes rendered ellipse extent and outline",
+      "category": "geometry",
+      "project": "MOKI & PEB",
+      "episode": "EP029",
+      "status": "validated_with_limits",
+      "file": "entries/MOKI-EP029-GEO-002.md",
+      "discovered_by": "reviewer"
+    },
+    {
+      "id": "MOKI-EP029-GEO-003",
+      "title": "Ownership precedes prop movement and tools follow current hands",
+      "category": "animation",
+      "project": "MOKI & PEB",
+      "episode": "EP029",
+      "status": "validated_with_limits",
+      "file": "entries/MOKI-EP029-GEO-003.md",
+      "discovered_by": "reviewer"
+    },
+    {
+      "id": "MOKI-EP029-GEO-004",
+      "title": "Shared scarf obscures small character facial acting",
+      "category": "composition",
+      "project": "MOKI & PEB",
+      "episode": "EP029",
+      "status": "validated_with_limits",
+      "file": "entries/MOKI-EP029-GEO-004.md",
+      "discovered_by": "reviewer"
+    },
+    {
+      "id": "MOKI-EP029-GEO-005",
+      "title": "Visible carried wool lacks support during early growth",
+      "category": "animation",
+      "project": "MOKI & PEB",
+      "episode": "EP029",
+      "status": "validated_with_limits",
+      "file": "entries/MOKI-EP029-GEO-005.md",
+      "discovered_by": "reviewer"
+    },
+    {
+      "id": "MOKI-EP029-GEO-006",
+      "title": "Stale thread anchor survives complete scarf removal",
+      "category": "continuity",
+      "project": "MOKI & PEB",
+      "episode": "EP029",
+      "status": "validated_with_limits",
+      "file": "entries/MOKI-EP029-GEO-006.md",
+      "discovered_by": "reviewer"
+    },
+    {
+      "id": "MOKI-EP029-GEO-007",
+      "title": "Shrinking floor-supported mass levitates",
+      "category": "geometry",
+      "project": "MOKI & PEB",
+      "episode": "EP029",
+      "status": "validated_with_limits",
+      "file": "entries/MOKI-EP029-GEO-007.md",
+      "discovered_by": "agent"
+    },
+    {
+      "id": "MOKI-EP029-AUDIO-001",
+      "title": "Initial synthesized master leaves unnecessary headroom",
+      "category": "audio",
+      "project": "MOKI & PEB",
+      "episode": "EP029",
+      "status": "validated_with_limits",
+      "file": "entries/MOKI-EP029-AUDIO-001.md",
+      "discovered_by": "agent"
+    },
+    {
+      "id": "MOKI-EP029-AUDIO-002",
+      "title": "Script-only audio cue timing differs from actual geometry",
+      "category": "audio",
+      "project": "MOKI & PEB",
+      "episode": "EP029",
+      "status": "validated_with_limits",
+      "file": "entries/MOKI-EP029-AUDIO-002.md",
+      "discovered_by": "reviewer"
+    },
+    {
+      "id": "MOKI-EP029-001",
+      "title": "Early composition anchor findings and related geometry provenance",
+      "category": "provenance",
+      "project": "MOKI & PEB",
+      "episode": "EP029",
+      "status": "cross_reference",
+      "file": "entries/MOKI-EP029-001.md",
+      "discovered_by": "agent",
+      "canonical_related_ids": [
+        "MOKI-EP029-GEO-002",
+        "MOKI-EP029-GEO-003",
+        "MOKI-EP029-GEO-004"
+      ]
+    },
+    {
+      "id": "MOKI-EP029-002",
+      "title": "Phase reset and wool ownership discovery alias",
+      "category": "provenance",
+      "project": "MOKI & PEB",
+      "episode": "EP029",
+      "status": "cross_reference",
+      "file": "entries/MOKI-EP029-002.md",
+      "discovered_by": "agent",
+      "canonical_related_ids": [
+        "MOKI-EP029-GEO-001",
+        "MOKI-EP029-GEO-003"
+      ]
+    },
+    {
+      "id": "MOKI-EP029-003",
+      "title": "Editing an actively running shell script corrupts subsequent command parsing",
+      "category": "workflow/archive",
+      "project": "MOKI & PEB",
+      "episode": "EP029",
+      "status": "validated_with_limits",
+      "file": "entries/MOKI-EP029-003.md",
+      "discovered_by": "agent"
+    },
+    {
+      "id": "MOKI-EP029-004",
+      "title": "Incomplete JSON parse with missing raw diagnostic",
+      "category": "workflow/archive",
+      "project": "MOKI & PEB",
+      "episode": "EP029",
+      "status": "validated_with_evidence_limits",
+      "file": "entries/MOKI-EP029-004.md",
+      "discovered_by": "agent"
+    },
+    {
+      "id": "MOKI-EP029-005",
+      "title": "Cached string blob differs from serialized local file",
+      "category": "workflow/archive",
+      "project": "MOKI & PEB",
+      "episode": "EP029",
+      "status": "repair_attempted",
+      "file": "entries/MOKI-EP029-005.md",
+      "discovered_by": "agent"
+    },
+    {
+      "id": "MOKI-EP029-006",
+      "title": "Unretained blob response obscures concurrent staging failure",
+      "category": "workflow/archive",
+      "project": "MOKI & PEB",
+      "episode": "EP029",
+      "status": "validated_with_evidence_limits",
+      "file": "entries/MOKI-EP029-006.md",
+      "discovered_by": "agent"
     }
   ]
 }

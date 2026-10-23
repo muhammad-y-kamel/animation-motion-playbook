@@ -1,0 +1,108 @@
+{
+  "sourceSHA256": "fae49506c09a7af2a48a124f58e8db38738a3abd1dad6e42d22132baf84fc51e",
+  "scope": "4560 semantic timeline states (4200 story geometry; CTA verified by random-order rendered pixel samples). Conservative character endpoint/body bounds; numerical contacts are declared anchors, not independent occlusion proof. No audio, encoding or real-time playback claim.",
+  "stats": {
+    "states": 4560,
+    "storyStates": 4200,
+    "contactSamples": 4583,
+    "maxContactError": 0.10023333376523272,
+    "maxHandStep": 20.289467828640937,
+    "maxWoolStep": 5.354940163944414,
+    "minProjectedX": 100.13760000000002,
+    "maxProjectedX": 916.57224,
+    "minProjectedY": 775.0239999999999,
+    "maxProjectedY": 1281.76
+  },
+  "counts": {},
+  "violations": [],
+  "boundary": [
+    {
+      "t": 14,
+      "left": 0,
+      "right": 0,
+      "wool": 0
+    },
+    {
+      "t": 28,
+      "left": 0.0000011111111462014378,
+      "right": 0.0000011111111462014378,
+      "wool": 0
+    },
+    {
+      "t": 43,
+      "left": 0.000005472001362250054,
+      "right": 0.000005472001021189541,
+      "wool": 0
+    },
+    {
+      "t": 55,
+      "left": 0.00004084070496901404,
+      "right": 0.00004084070496901404,
+      "wool": 0
+    },
+    {
+      "t": 56.5,
+      "left": 0.00004482978311879308,
+      "right": 0.0000036575967388834043,
+      "wool": 0
+    },
+    {
+      "t": 57,
+      "left": 8.972621582131817e-12,
+      "right": 7.190186943645084e-13,
+      "wool": null
+    },
+    {
+      "t": 60,
+      "left": 0,
+      "right": 0,
+      "wool": null
+    }
+  ],
+  "pixelDeterminism": {
+    "sampleTimes": [
+      0,
+      0.5,
+      14,
+      19.5,
+      23,
+      28,
+      30,
+      40,
+      41.5,
+      43,
+      45,
+      50,
+      55,
+      56.5,
+      64.5,
+      66,
+      69.99,
+      70,
+      75.99
+    ],
+    "passed": true,
+    "hashes": {
+      "0": "5a792b60621b5623743367ce88afe42063a3288afa6aaa9fae4f35d53014a413",
+      "14": "9b976b67fd992b9fb06c866332f23eb40dd7ed798e1552fb34a704ab631e958d",
+      "23": "308a6e6324be976d6c9ef419aae452ca78622807e66c4ee954d6269675f7f713",
+      "28": "96b17837767f6102214d1979d0efbdfcaa6e8c8a9d13793fec2d5c10e61732f4",
+      "30": "8dbef0d34e9783e1ecfa4c2db70a0e7fdd3b6ca0eabe3e9f20b1f2ba5326e541",
+      "40": "3cac9a99704409c5ed6a19b572c0542833a66644c8b3d1d6082261711c08df71",
+      "43": "5c6aec2755d51a876abf292b8ff7f9e355e6263ed6b45b2f9b4cd927ca74b5cf",
+      "45": "da58483853b9d781b0cc33cb872061f50f463b875ee66228493e59752ac0204f",
+      "50": "5806d36a2f572bb6cc70c75a978858086435a84e883e418cacf4184ae306a236",
+      "55": "a78dea771027c77572862af434e5b64c798d489db7ed867654bba1127830dfd0",
+      "66": "42c8cd79b773757bfd5e80d451e90180863d51e2c611331c37c637e7691067ae",
+      "70": "44d40f62dec1089a1236be0a0949a3d373695e238baa5ca54748757bc0070462",
+      "0.5": "ae24477e61238c431a3e612e10002c0be53c090a60dae91d9ac02217512266fa",
+      "19.5": "093c4f68625711bf50ea6b105906d264e06adc4b2c1cff5d9586929acdbb52c2",
+      "41.5": "862d3a9601a7b03a79ac1563a7b2330770cac174018476fd535123efa1711fa4",
+      "56.5": "1e7f9bccc010e817d88c6cb10bf2a5a295465e7a1868d4b76d953ed1711df0ca",
+      "64.5": "de7bb9c9bb16c8a20cfa6bde4d53e07749987c9dc69cbf23e08b59a3a9d44f1e",
+      "69.99": "a8ec2ac6872de36b8f3d270a7ce1d6d06800daa53ccf36685dd69219c38adea1",
+      "75.99": "dca85887206e7fb799d2405d3913af9769a4e2f7a22c1c967175843aaacf61f2"
+    }
+  },
+  "pass": true
+}

@@ -1,0 +1,194 @@
+{
+  "reviewer": "independent geometry subagent",
+  "video_sha256": "aec63c64e7b593a8c6713f46cfec8baf966ae01cc741cfb7ef446636f6a47673",
+  "status": "passed_with_scope_limits",
+  "thumbnail_coverage": {
+    "frames": 2400,
+    "zero_based_frames": [
+      0,
+      2399
+    ],
+    "newly_reinspected_sheets": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "unchanged_hash_verified_carried_review_sheets": [
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "size_per_thumbnail": [
+      90,
+      160
+    ],
+    "sheet_identity": [
+      {
+        "path": "/workspace/shared/ep029/qa/encoded-sheets/sheet-01.jpg",
+        "old_sha256": "886dad9ee7bb9c34096306a20a4c8f6d9d7ddb59a76b6233bb9b81e47851c662",
+        "new_sha256": "ca7b7ee84c70265dc9aebef096fc650b71b32a46d5b5acadb3ae287150a53ed1",
+        "identical": false
+      },
+      {
+        "path": "/workspace/shared/ep029/qa/encoded-sheets/sheet-02.jpg",
+        "old_sha256": "740540f17a5db6084e576bd85cb3a7fcbb0bb97c4467e3640dc87be7e9022c6e",
+        "new_sha256": "6c0645916ce1d9ca970cfd5d2b8b04323fc99a38078375d95cd128e804019b72",
+        "identical": false
+      },
+      {
+        "path": "/workspace/shared/ep029/qa/encoded-sheets/sheet-03.jpg",
+        "old_sha256": "e785b8917fdff275939193fd4e3f785da6e38e4c565dfbda7225f89ea5ea4147",
+        "new_sha256": "b89c9a8210098b24226ba6cdd266cc8684bdb5fe8feda2dca500fadeb3e842bb",
+        "identical": false
+      },
+      {
+        "path": "/workspace/shared/ep029/qa/encoded-sheets/sheet-04.jpg",
+        "old_sha256": "d85e683105cf3c8d3d63836e8d013eec216f3077b451bff4eeac834e879ad5aa",
+        "new_sha256": "88b601f92ef50834d1c39705524ec03e3129989a4e0f746812aa0662655c0032",
+        "identical": false
+      },
+      {
+        "path": "/workspace/shared/ep029/qa/encoded-sheets/sheet-05.jpg",
+        "old_sha256": "292a414302587022108c53c61dca650cab74d7ff50f5e23e6e28ed149ebf7312",
+        "new_sha256": "d49315fb22e3430c99fbab798e996e0c9fc8b4568325d9589ec5d3172e675e34",
+        "identical": false
+      },
+      {
+        "path": "/workspace/shared/ep029/qa/encoded-sheets/sheet-06.jpg",
+        "old_sha256": "1503dff05aafd5b04e074b85cee0fbf014f2d2978bceb55acaa890ca9c08c280",
+        "new_sha256": "1503dff05aafd5b04e074b85cee0fbf014f2d2978bceb55acaa890ca9c08c280",
+        "identical": true
+      },
+      {
+        "path": "/workspace/shared/ep029/qa/encoded-sheets/sheet-07.jpg",
+        "old_sha256": "2ad53ccfa52949b4dd67d840e04f95f5fa06d1bcb7b3168b784e3d7cecde17af",
+        "new_sha256": "2ad53ccfa52949b4dd67d840e04f95f5fa06d1bcb7b3168b784e3d7cecde17af",
+        "identical": true
+      },
+      {
+        "path": "/workspace/shared/ep029/qa/encoded-sheets/sheet-08.jpg",
+        "old_sha256": "7d54390b187488fe56c3e62352cb1534df3a8971eab6b3b1fccbcc98b01543de",
+        "new_sha256": "7d54390b187488fe56c3e62352cb1534df3a8971eab6b3b1fccbcc98b01543de",
+        "identical": true
+      },
+      {
+        "path": "/workspace/shared/ep029/qa/encoded-sheets/sheet-09.jpg",
+        "old_sha256": "5ef0c32a11dc253f69e8b05740241ffa85429f88ce310b59ae4c53cf4c3d0c62",
+        "new_sha256": "5ef0c32a11dc253f69e8b05740241ffa85429f88ce310b59ae4c53cf4c3d0c62",
+        "identical": true
+      },
+      {
+        "path": "/workspace/shared/ep029/qa/encoded-sheets/sheet-10.jpg",
+        "old_sha256": "759c2a97f5ead655e0bd6b9147f51c757d84bce0236a966fa1d3a279eeb5bf24",
+        "new_sha256": "759c2a97f5ead655e0bd6b9147f51c757d84bce0236a966fa1d3a279eeb5bf24",
+        "identical": true
+      }
+    ]
+  },
+  "full_resolution_frames": [
+    {
+      "time": 0,
+      "frameZeroBased": 0,
+      "path": "/workspace/shared/ep029/qa/encoded-critical-first/frame-01.png",
+      "sha256": "ab10e8b8c8a7a5c2808ec6bfef4ca4154effb2aa2d0ad17d84ff0b96dacc72b2",
+      "prior_sha256": "36b602fa890dd334e48419604ca3138cab033a702458c768caf4334e4983bdf6",
+      "review_method": "new full-resolution original-detail inspection"
+    },
+    {
+      "time": 0.5,
+      "frameZeroBased": 30,
+      "path": "/workspace/shared/ep029/qa/encoded-critical-first/frame-02.png",
+      "sha256": "39e1c6c679063e35a2de4354ab82dddfd31cd41da18be9562da0fba74e1c190d",
+      "prior_sha256": "97bd2f8a51dca9d0418a718b22146f983c97fefb05761d299863b01564223bfb",
+      "review_method": "new full-resolution original-detail inspection"
+    },
+    {
+      "time": 8,
+      "frameZeroBased": 480,
+      "path": "/workspace/shared/ep029/qa/encoded-critical-first/frame-03.png",
+      "sha256": "e36db6a0ce7dc37a4a4a28f589211401bc9c898c652bc6cd526628d827b8a48c",
+      "prior_sha256": "62dd9d3bdb6cd8513ef62e06dee742f06a7b17fa5d18cdd28e15ce68e918783a",
+      "review_method": "new full-resolution original-detail inspection"
+    },
+    {
+      "time": 14,
+      "frameZeroBased": 840,
+      "path": "/workspace/shared/ep029/qa/encoded-critical-first/frame-04.png",
+      "sha256": "a1e8cf0ee2b69dfd87b5aad5596664e3dda1c07374716658000cdb7dd7ec1b14",
+      "prior_sha256": "0c69c89d4b6ed7ef0123b60b8b9df80154b0b6b2e46ac9e15781dd3805f30370",
+      "review_method": "new full-resolution original-detail inspection"
+    },
+    {
+      "time": 19.5,
+      "frameZeroBased": 1170,
+      "path": "/workspace/shared/ep029/qa/encoded-critical-first/frame-05.png",
+      "sha256": "bb77ea15346a7802cc2b55dd83f56948a80842f2e355dd67bb95d9e3f69951ac",
+      "prior_sha256": "bb77ea15346a7802cc2b55dd83f56948a80842f2e355dd67bb95d9e3f69951ac",
+      "review_method": "exact-byte-identity carryforward from inspected v1"
+    },
+    {
+      "time": 23.5,
+      "frameZeroBased": 1410,
+      "path": "/workspace/shared/ep029/qa/encoded-critical-first/frame-06.png",
+      "sha256": "4e641b2aacad4efb110b6a6763516e8daedc7a98d332509681ed749cff368259",
+      "prior_sha256": "4e641b2aacad4efb110b6a6763516e8daedc7a98d332509681ed749cff368259",
+      "review_method": "exact-byte-identity carryforward from inspected v1"
+    },
+    {
+      "time": 24.4,
+      "frameZeroBased": 1464,
+      "path": "/workspace/shared/ep029/qa/encoded-critical-first/frame-07.png",
+      "sha256": "3bc265414ea2941ff6edc7b930b6065d5206cd93a0942f909b8a9cad3873467a",
+      "prior_sha256": "3bc265414ea2941ff6edc7b930b6065d5206cd93a0942f909b8a9cad3873467a",
+      "review_method": "exact-byte-identity carryforward from inspected v1"
+    },
+    {
+      "time": 28.6,
+      "frameZeroBased": 1716,
+      "path": "/workspace/shared/ep029/qa/encoded-critical-first/frame-08.png",
+      "sha256": "8fdee97f0484f66d1b7ec8dc713557d2f691cb814b8db9f161a812f8abc66a4f",
+      "prior_sha256": "8fdee97f0484f66d1b7ec8dc713557d2f691cb814b8db9f161a812f8abc66a4f",
+      "review_method": "exact-byte-identity carryforward from inspected v1"
+    },
+    {
+      "time": 31,
+      "frameZeroBased": 1860,
+      "path": "/workspace/shared/ep029/qa/encoded-critical-first/frame-09.png",
+      "sha256": "6c91530b1bd5f1d48c14bd7bb16de8fc9813636b5a77b68a8a46ec4063eca192",
+      "prior_sha256": "6c91530b1bd5f1d48c14bd7bb16de8fc9813636b5a77b68a8a46ec4063eca192",
+      "review_method": "exact-byte-identity carryforward from inspected v1"
+    },
+    {
+      "time": 40,
+      "frameZeroBased": 2400,
+      "path": "/workspace/shared/ep029/qa/encoded-critical-first/frame-10.png",
+      "sha256": "39b41573521b65c54c3d618e4efce8833fdd95bf1a5855f8a885716a76bb3c02",
+      "prior_sha256": "39b41573521b65c54c3d618e4efce8833fdd95bf1a5855f8a885716a76bb3c02",
+      "review_method": "exact-byte-identity carryforward from inspected v1"
+    },
+    {
+      "time": 41.5,
+      "frameZeroBased": 2490,
+      "path": "/workspace/shared/ep029/qa/encoded-critical-first/frame-11.png",
+      "sha256": "dd6cf82d6c597281849f1f839b173080985c5213ef9c7cc3336ec8bff4e82498",
+      "prior_sha256": "e7acf39c6f2e8aea25df367e78de8d432416967a803fbc723b6f4fa4e2c02fb1",
+      "review_method": "new full-resolution original-detail inspection"
+    }
+  ],
+  "fixed_findings": [
+    "MOKI-EP029-GEO-005 early wool now continuously supported",
+    "MOKI-EP029-GEO-006 chest-thread now detaches before complete reveal"
+  ],
+  "remaining_blockers_in_reviewed_scope": [],
+  "limitations": [
+    "Not every-frame full-resolution inspection",
+    "No direct audio listening or continuous audiovisual playback",
+    "Coverage after40s only listed critical frames; producer separately covers rest",
+    "Small initial wool ball hidden within supporting hand until growth; thread pull remains visible",
+    "Stylized elastic limbs and knitted-fabric morph are not rigid-body or cloth simulation"
+  ]
+}

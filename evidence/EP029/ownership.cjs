@@ -1,0 +1,6 @@
+// Regression added after encoded review exposed unsupported early wool and stale chest thread.
+const fs=require('fs'),crypto=require('crypto'),{w}=require('../render.cjs');let failures=[],maxEarlyGap=0;
+for(let i=0;i<840;i++){let t=i/60,s=w.scene(t),q=s.wool,h=s.p.right;if(!q)continue; // Conservative circle bound; a hand farther than this cannot touch the wool ellipse.
+ let gap=Math.hypot(h.x-q.x,h.y-q.y)-q.r-34*s.p.s;maxEarlyGap=Math.max(maxEarlyGap,gap);if(gap>1)failures.push({kind:'early-wool-unowned',t,gap});}
+for(let i=2490;i<2580;i++){let t=i/60,s=w.scene(t);if(s.threadStart&&s.threadEnd){let d=Math.hypot(s.threadStart.x-s.m.x,s.threadStart.y-1315);if(d<50)failures.push({kind:'bare-chest-retains-yarn-anchor',t,d});}}
+let result={sourceSHA256:crypto.createHash('sha256').update(fs.readFileSync(__dirname+'/../episode.js')).digest('hex'),scope:'Early right-hand/wool conservative contact proximity 0–13.983s; removed-scarf chest anchor 41.5–42.983s. Passing is necessary, not sufficient for physical ownership; inspect actual pixels.',maxEarlyGap,failures:failures.slice(0,12),failureCount:failures.length,pass:failures.length===0};fs.writeFileSync(__dirname+'/ownership.json',JSON.stringify(result,null,2));console.log(result);

@@ -1,0 +1,54 @@
+{
+  "video_sha256": "aec63c64e7b593a8c6713f46cfec8baf966ae01cc741cfb7ef446636f6a47673",
+  "source_sha256": "fae49506c09a7af2a48a124f58e8db38738a3abd1dad6e42d22132baf84fc51e",
+  "thumbnail_frames": 2160,
+  "sheets": "11\u201319; zero-based2400\u20134559",
+  "reinspected_final_sheets": [
+    11,
+    12,
+    13,
+    14,
+    15
+  ],
+  "identical_carryforward_sheets": [
+    16,
+    17,
+    18,
+    19
+  ],
+  "fullres_times": [
+    43,
+    45,
+    50,
+    54.7,
+    55,
+    55.5,
+    56,
+    64.5,
+    65.4,
+    66,
+    70
+  ],
+  "reinspected_final_fullres": [
+    43,
+    45,
+    50,
+    54.7,
+    55,
+    55.5,
+    56
+  ],
+  "identical_carryforward_fullres": [
+    64.5,
+    65.4,
+    66,
+    70
+  ],
+  "identity_evidence": [
+    "sheet-identity-v1-v3.json",
+    "critical-identity-v1-v3.json"
+  ],
+  "status": "pass_with_limits",
+  "findings": "GEO007 floor-support repaired and visible at50; no remaining blocking findings in inspected scope. Early-section reviewer separately cleared GEO005/006.",
+  "limitations": "Thumbnail coverage is not fullres everyframe. No listening, continuousAV or browserparity claim."
+}

@@ -1,0 +1,105 @@
+{
+  "episode": "EP029",
+  "results": {
+    "music.wav": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "samples_per_channel": 3648000,
+      "duration": 76.0,
+      "peak": 0.29541015625,
+      "rms": 0.03168945831487789,
+      "dc": 9.232592164424428e-06,
+      "clipped_samples": 0,
+      "max_adjacent_sample_delta": 0.02606201171875,
+      "sha256": "219cf4e6195973548ecd90681b343e4d3e9bfb11d72f873186df560341134455"
+    },
+    "foley.wav": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "samples_per_channel": 3648000,
+      "duration": 76.0,
+      "peak": 0.512359619140625,
+      "rms": 0.024900253786628006,
+      "dc": 2.2162094450833505e-06,
+      "clipped_samples": 0,
+      "max_adjacent_sample_delta": 0.302490234375,
+      "sha256": "e3a55b2f5e134c394fd6bd505f725a660ece861ddf7346d49aa4f1e4affd142a"
+    },
+    "EP029-mix.wav": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "samples_per_channel": 3648000,
+      "duration": 76.0,
+      "peak": 0.512359619140625,
+      "rms": 0.040295875706579186,
+      "dc": 1.1446480165448105e-05,
+      "clipped_samples": 0,
+      "max_adjacent_sample_delta": 0.302490234375,
+      "sha256": "08d950c18018440222c4f777458faca7bb858ad3308a02f162b8271e615e9a54"
+    }
+  },
+  "rebuild_byte_identical": true,
+  "max_pcm_reconstruction_error_lsb": 1,
+  "critical_event_audio_energy": [
+    {
+      "script_event": 0.5,
+      "peak_first60ms": 0.31488037109375,
+      "rms_first60ms": 0.06398080886370877
+    },
+    {
+      "script_event": 23,
+      "peak_first60ms": 0.201019287109375,
+      "rms_first60ms": 0.04211259495405481
+    },
+    {
+      "script_event": 25,
+      "peak_first60ms": 0.342681884765625,
+      "rms_first60ms": 0.05945194523680887
+    },
+    {
+      "script_event": 40,
+      "peak_first60ms": 0.1763916015625,
+      "rms_first60ms": 0.14081676262297343
+    },
+    {
+      "script_event": 41.5,
+      "peak_first60ms": 0.1431884765625,
+      "rms_first60ms": 0.05115210708003239
+    },
+    {
+      "script_event": 45,
+      "peak_first60ms": 0.18695068359375,
+      "rms_first60ms": 0.03914920003434001
+    },
+    {
+      "script_event": 46.5,
+      "peak_first60ms": 0.19488525390625,
+      "rms_first60ms": 0.05008345859453763
+    },
+    {
+      "script_event": 54.7,
+      "peak_first60ms": 0.13726806640625,
+      "rms_first60ms": 0.03337445768282952
+    },
+    {
+      "script_event": 56,
+      "peak_first60ms": 0.265472412109375,
+      "rms_first60ms": 0.07379257810110713
+    },
+    {
+      "script_event": 64.5,
+      "peak_first60ms": 0.210968017578125,
+      "rms_first60ms": 0.04215762557029183
+    }
+  ],
+  "listening_performed": false,
+  "continuous_playback_performed": false,
+  "source_visual_alignment": "Script-derived events. Producer must compare actual rendered event geometry; not established by these measurements.",
+  "measured_ffmpeg_loudness": {
+    "input_i": "-23.08",
+    "input_tp": "-5.73",
+    "input_lra": "9.60",
+    "input_thresh": "-33.39"
+  },
+  "normalization_applied": false
+}

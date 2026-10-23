@@ -1,0 +1,629 @@
+{
+  "source_sha256": "fae49506c09a7af2a48a124f58e8db38738a3abd1dad6e42d22132baf84fc51e",
+  "scope": "Actual semantic source-state and needle geometry. Does not certify encoded visibility or listening.",
+  "checks": [
+    {
+      "name": "hook pull causes tail shortening",
+      "pass": true,
+      "evidence": {
+        "atPoint5": 190,
+        "afterPoint8": 170
+      }
+    },
+    {
+      "name": "chair sound time24.4",
+      "pass": true,
+      "evidence": {
+        "time": 24.4,
+        "duration": 0.12,
+        "gain": 0.1,
+        "pan": -0.2,
+        "label": "ball thread catches chair nail",
+        "stem": "foley"
+      }
+    },
+    {
+      "name": "placement rustle time19.5",
+      "pass": true,
+      "evidence": {
+        "time": 19.5,
+        "duration": 0.32,
+        "gain": 0.07,
+        "pan": -0.15,
+        "label": "ball placed below chin",
+        "stem": "foley"
+      }
+    },
+    {
+      "name": "chair catch endpoint at 24.4",
+      "pass": true,
+      "evidence": {
+        "x": 221,
+        "y": 1450,
+        "r": 38,
+        "fluff": 0,
+        "spin": 7
+      }
+    },
+    {
+      "name": "ring release starts at40",
+      "pass": true,
+      "evidence": {
+        "before": 1,
+        "after": 0
+      }
+    },
+    {
+      "name": "wool reaches floor at41.5",
+      "pass": true,
+      "evidence": {
+        "x": 780,
+        "y": 1459.84,
+        "r": 94,
+        "fluff": 1,
+        "spin": 0
+      }
+    },
+    {
+      "name": "83 audible knitting hits",
+      "pass": true,
+      "evidence": {
+        "count": 83
+      }
+    },
+    {
+      "name": "all83knit_ticks_have_crossed_needles",
+      "pass": true,
+      "evidence": {
+        "count": 83
+      }
+    },
+    {
+      "name": "all83knit_ticks_have_visible_needles",
+      "pass": true,
+      "evidence": {
+        "minimumAlpha": 1
+      }
+    },
+    {
+      "name": "64.5 stop hand grip",
+      "pass": true,
+      "evidence": [
+        {
+          "label": "stop-target",
+          "hand": {
+            "x": 500,
+            "y": 1398
+          },
+          "point": {
+            "x": 500,
+            "y": 1398
+          }
+        },
+        {
+          "label": "stop-hand-left",
+          "hand": {
+            "x": 514,
+            "y": 1402
+          },
+          "point": {
+            "x": 514,
+            "y": 1402
+          }
+        },
+        {
+          "label": "stop-hand-right",
+          "hand": {
+            "x": 527,
+            "y": 1388
+          },
+          "point": {
+            "x": 527,
+            "y": 1388
+          }
+        }
+      ]
+    }
+  ],
+  "knit": [
+    {
+      "time": 46.5,
+      "needleAlpha": 1,
+      "segmentsIntersect": true,
+      "handHeightDelta": 0
+    },
+    {
+      "time": 46.6,
+      "needleAlpha": 1,
+      "segmentsIntersect": true,
+      "handHeightDelta": -1.3642420526593924e-12
+    },
+    {
+      "time": 46.7,
+      "needleAlpha": 1,
+      "segmentsIntersect": true,
+      "handHeightDelta": 2.2737367544323206e-12
+    },
+    {
+      "time": 46.8,
+      "needleAlpha": 1,
+      "segmentsIntersect": true,
+      "handHeightDelta": 2.2737367544323206e-12
+    },
+    {
+      "time": 46.9,
+      "needleAlpha": 1,
+      "segmentsIntersect": true,
+      "handHeightDelta": -1.3642420526593924e-12
+    },
+    {
+      "time": 47,
+      "needleAlpha": 1,
+      "segmentsIntersect": true,
+      "handHeightDelta": 0
+    },
+    {
+      "time": 47.1,
+      "needleAlpha": 1,
+      "segmentsIntersect": true,
+      "handHeightDelta": 9.094947017729282e-13
+    },
+    {
+      "time": 47.2,
+      "needleAlpha": 1,
+      "segmentsIntersect": true,
+      "handHeightDelta": -2.2737367544323206e-12
+    },
+    {
+      "time": 47.3,
+      "needleAlpha": 1,
+      "segmentsIntersect": true,
+      "handHeightDelta": -2.2737367544323206e-12
+    },
+    {
+      "time": 47.4,
+      "needleAlpha": 1,
+      "segmentsIntersect": true,
+      "handHeightDelta": 1.3642420526593924e-12
+    },
+    {
+      "time": 47.5,
+      "needleAlpha": 1,
+      "segmentsIntersect": true,
+      "handHeightDelta": 0
+    },
+    {
+      "time": 47.6,
+      "needleAlpha": 1,
+      "segmentsIntersect": true,
+      "handHeightDelta": -1.3642420526593924e-12
+    },
+    {
+      "time": 47.7,
+      "needleAlpha": 1,
+      "segmentsIntersect": true,
+      "handHeightDelta": 2.2737367544323206e-12
+    },
+    {
+      "time": 47.8,
+      "needleAlpha": 1,
+      "segmentsIntersect": true,
+      "handHeightDelta": 2.2737367544323206e-12
+    },
+    {
+      "time": 47.9,
+      "needleAlpha": 1,
+      "segmentsIntersect": true,
+      "handHeightDelta": -1.3642420526593924e-12
+    },
+    {
+      "time": 48,
+      "needleAlpha": 1,
+      "segmentsIntersect": true,
+      "handHeightDelta": 0
+    },
+    {
+      "time": 48.1,
+      "needleAlpha": 1,
+      "segmentsIntersect": true,
+      "handHeightDelta": 9.094947017729282e-13
+    },
+    {
+      "time": 48.2,
+      "needleAlpha": 1,
+      "segmentsIntersect": true,
+      "handHeightDelta": -2.2737367544323206e-12
+    },
+    {
+      "time": 48.3,
+      "needleAlpha": 1,
+      "segmentsIntersect": true,
+      "handHeightDelta": -2.2737367544323206e-12
+    },
+    {
+      "time": 48.4,
+      "needleAlpha": 1,
+      "segmentsIntersect": true,
+      "handHeightDelta": 1.3642420526593924e-12
+    },
+    {
+      "time": 48.5,
+      "needleAlpha": 1,
+      "segmentsIntersect": true,
+      "handHeightDelta": 0
+    },
+    {
+      "time": 48.6,
+      "needleAlpha": 1,
+      "segmentsIntersect": true,
+      "handHeightDelta": -9.094947017729282e-13
+    },
+    {
+      "time": 48.7,
+      "needleAlpha": 1,
+      "segmentsIntersect": true,
+      "handHeightDelta": 2.2737367544323206e-12
+    },
+    {
+      "time": 48.8,
+      "needleAlpha": 1,
+      "segmentsIntersect": true,
+      "handHeightDelta": 2.2737367544323206e-12
+    },
+    {
+      "time": 48.9,
+      "needleAlpha": 1,
+      "segmentsIntersect": true,
+      "handHeightDelta": -1.3642420526593924e-12
+    },
+    {
+      "time": 49,
+      "needleAlpha": 1,
+      "segmentsIntersect": true,
+      "handHeightDelta": 0
+    },
+    {
+      "time": 49.1,
+      "needleAlpha": 1,
+      "segmentsIntersect": true,
+      "handHeightDelta": 1.3642420526593924e-12
+    },
+    {
+      "time": 49.2,
+      "needleAlpha": 1,
+      "segmentsIntersect": true,
+      "handHeightDelta": -1.8189894035458565e-12
+    },
+    {
+      "time": 49.3,
+      "needleAlpha": 1,
+      "segmentsIntersect": true,
+      "handHeightDelta": -2.2737367544323206e-12
+    },
+    {
+      "time": 49.4,
+      "needleAlpha": 1,
+      "segmentsIntersect": true,
+      "handHeightDelta": 1.3642420526593924e-12
+    },
+    {
+      "time": 49.5,
+      "needleAlpha": 1,
+      "segmentsIntersect": true,
+      "handHeightDelta": -4.547473508864641e-13
+    },
+    {
+      "time": 49.6,
+      "needleAlpha": 1,
+      "segmentsIntersect": true,
+      "handHeightDelta": -1.3642420526593924e-12
+    },
+    {
+      "time": 49.7,
+      "needleAlpha": 1,
+      "segmentsIntersect": true,
+      "handHeightDelta": 2.2737367544323206e-12
+    },
+    {
+      "time": 49.8,
+      "needleAlpha": 1,
+      "segmentsIntersect": true,
+      "handHeightDelta": 2.7284841053187847e-12
+    },
+    {
+      "time": 49.9,
+      "needleAlpha": 1,
+      "segmentsIntersect": true,
+      "handHeightDelta": -1.3642420526593924e-12
+    },
+    {
+      "time": 50,
+      "needleAlpha": 1,
+      "segmentsIntersect": true,
+      "handHeightDelta": 0
+    },
+    {
+      "time": 50.1,
+      "needleAlpha": 1,
+      "segmentsIntersect": true,
+      "handHeightDelta": 1.3642420526593924e-12
+    },
+    {
+      "time": 50.2,
+      "needleAlpha": 1,
+      "segmentsIntersect": true,
+      "handHeightDelta": -2.2737367544323206e-12
+    },
+    {
+      "time": 50.3,
+      "needleAlpha": 1,
+      "segmentsIntersect": true,
+      "handHeightDelta": -2.7284841053187847e-12
+    },
+    {
+      "time": 50.4,
+      "needleAlpha": 1,
+      "segmentsIntersect": true,
+      "handHeightDelta": 1.3642420526593924e-12
+    },
+    {
+      "time": 50.5,
+      "needleAlpha": 1,
+      "segmentsIntersect": true,
+      "handHeightDelta": 0
+    },
+    {
+      "time": 50.6,
+      "needleAlpha": 1,
+      "segmentsIntersect": true,
+      "handHeightDelta": -9.094947017729282e-13
+    },
+    {
+      "time": 50.7,
+      "needleAlpha": 1,
+      "segmentsIntersect": true,
+      "handHeightDelta": 2.2737367544323206e-12
+    },
+    {
+      "time": 50.8,
+      "needleAlpha": 1,
+      "segmentsIntersect": true,
+      "handHeightDelta": 2.2737367544323206e-12
+    },
+    {
+      "time": 50.9,
+      "needleAlpha": 1,
+      "segmentsIntersect": true,
+      "handHeightDelta": -1.3642420526593924e-12
+    },
+    {
+      "time": 51,
+      "needleAlpha": 1,
+      "segmentsIntersect": true,
+      "handHeightDelta": 0
+    },
+    {
+      "time": 51.1,
+      "needleAlpha": 1,
+      "segmentsIntersect": true,
+      "handHeightDelta": 1.3642420526593924e-12
+    },
+    {
+      "time": 51.2,
+      "needleAlpha": 1,
+      "segmentsIntersect": true,
+      "handHeightDelta": -2.2737367544323206e-12
+    },
+    {
+      "time": 51.3,
+      "needleAlpha": 1,
+      "segmentsIntersect": true,
+      "handHeightDelta": -2.2737367544323206e-12
+    },
+    {
+      "time": 51.4,
+      "needleAlpha": 1,
+      "segmentsIntersect": true,
+      "handHeightDelta": 1.8189894035458565e-12
+    },
+    {
+      "time": 51.5,
+      "needleAlpha": 1,
+      "segmentsIntersect": true,
+      "handHeightDelta": 0
+    },
+    {
+      "time": 51.6,
+      "needleAlpha": 1,
+      "segmentsIntersect": true,
+      "handHeightDelta": -1.3642420526593924e-12
+    },
+    {
+      "time": 51.7,
+      "needleAlpha": 1,
+      "segmentsIntersect": true,
+      "handHeightDelta": 2.2737367544323206e-12
+    },
+    {
+      "time": 51.8,
+      "needleAlpha": 1,
+      "segmentsIntersect": true,
+      "handHeightDelta": 2.2737367544323206e-12
+    },
+    {
+      "time": 51.9,
+      "needleAlpha": 1,
+      "segmentsIntersect": true,
+      "handHeightDelta": -9.094947017729282e-13
+    },
+    {
+      "time": 52,
+      "needleAlpha": 1,
+      "segmentsIntersect": true,
+      "handHeightDelta": 4.547473508864641e-13
+    },
+    {
+      "time": 52.1,
+      "needleAlpha": 1,
+      "segmentsIntersect": true,
+      "handHeightDelta": 4.547473508864641e-13
+    },
+    {
+      "time": 52.2,
+      "needleAlpha": 1,
+      "segmentsIntersect": true,
+      "handHeightDelta": -1.8189894035458565e-12
+    },
+    {
+      "time": 52.3,
+      "needleAlpha": 1,
+      "segmentsIntersect": true,
+      "handHeightDelta": -2.7284841053187847e-12
+    },
+    {
+      "time": 52.4,
+      "needleAlpha": 1,
+      "segmentsIntersect": true,
+      "handHeightDelta": 1.8189894035458565e-12
+    },
+    {
+      "time": 52.5,
+      "needleAlpha": 1,
+      "segmentsIntersect": true,
+      "handHeightDelta": -4.547473508864641e-13
+    },
+    {
+      "time": 52.6,
+      "needleAlpha": 1,
+      "segmentsIntersect": true,
+      "handHeightDelta": -1.3642420526593924e-12
+    },
+    {
+      "time": 52.7,
+      "needleAlpha": 1,
+      "segmentsIntersect": true,
+      "handHeightDelta": 2.7284841053187847e-12
+    },
+    {
+      "time": 52.8,
+      "needleAlpha": 1,
+      "segmentsIntersect": true,
+      "handHeightDelta": 2.7284841053187847e-12
+    },
+    {
+      "time": 52.9,
+      "needleAlpha": 1,
+      "segmentsIntersect": true,
+      "handHeightDelta": -9.094947017729282e-13
+    },
+    {
+      "time": 53,
+      "needleAlpha": 1,
+      "segmentsIntersect": true,
+      "handHeightDelta": -4.547473508864641e-13
+    },
+    {
+      "time": 53.1,
+      "needleAlpha": 1,
+      "segmentsIntersect": true,
+      "handHeightDelta": 9.094947017729282e-13
+    },
+    {
+      "time": 53.2,
+      "needleAlpha": 1,
+      "segmentsIntersect": true,
+      "handHeightDelta": -1.8189894035458565e-12
+    },
+    {
+      "time": 53.3,
+      "needleAlpha": 1,
+      "segmentsIntersect": true,
+      "handHeightDelta": -2.7284841053187847e-12
+    },
+    {
+      "time": 53.4,
+      "needleAlpha": 1,
+      "segmentsIntersect": true,
+      "handHeightDelta": 1.8189894035458565e-12
+    },
+    {
+      "time": 53.5,
+      "needleAlpha": 1,
+      "segmentsIntersect": true,
+      "handHeightDelta": -4.547473508864641e-13
+    },
+    {
+      "time": 53.6,
+      "needleAlpha": 1,
+      "segmentsIntersect": true,
+      "handHeightDelta": -9.094947017729282e-13
+    },
+    {
+      "time": 53.7,
+      "needleAlpha": 1,
+      "segmentsIntersect": true,
+      "handHeightDelta": 2.7284841053187847e-12
+    },
+    {
+      "time": 53.8,
+      "needleAlpha": 1,
+      "segmentsIntersect": true,
+      "handHeightDelta": 2.7284841053187847e-12
+    },
+    {
+      "time": 53.9,
+      "needleAlpha": 1,
+      "segmentsIntersect": true,
+      "handHeightDelta": -1.3642420526593924e-12
+    },
+    {
+      "time": 54,
+      "needleAlpha": 1,
+      "segmentsIntersect": true,
+      "handHeightDelta": 4.547473508864641e-13
+    },
+    {
+      "time": 54.1,
+      "needleAlpha": 1,
+      "segmentsIntersect": true,
+      "handHeightDelta": 9.094947017729282e-13
+    },
+    {
+      "time": 54.2,
+      "needleAlpha": 1,
+      "segmentsIntersect": true,
+      "handHeightDelta": -2.2737367544323206e-12
+    },
+    {
+      "time": 54.3,
+      "needleAlpha": 1,
+      "segmentsIntersect": true,
+      "handHeightDelta": -2.7284841053187847e-12
+    },
+    {
+      "time": 54.4,
+      "needleAlpha": 1,
+      "segmentsIntersect": true,
+      "handHeightDelta": 1.3642420526593924e-12
+    },
+    {
+      "time": 54.5,
+      "needleAlpha": 1,
+      "segmentsIntersect": true,
+      "handHeightDelta": -4.547473508864641e-13
+    },
+    {
+      "time": 54.6,
+      "needleAlpha": 1,
+      "segmentsIntersect": true,
+      "handHeightDelta": -9.094947017729282e-13
+    },
+    {
+      "time": 54.7,
+      "needleAlpha": 1,
+      "segmentsIntersect": true,
+      "handHeightDelta": 2.2737367544323206e-12
+    }
+  ],
+  "passed": true
+}

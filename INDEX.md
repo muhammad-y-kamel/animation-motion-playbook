@@ -26,3 +26,26 @@ IDs never change or get reused. New occurrence of same mechanism links the origi
 | [ANIM-0018](entries/ANIM-0018-airborne-clearance.md) | animation | EP028 | Surprise jump torso moves but feet fail airborne clearance | validated_with_limits |
 
 | [ANIM-0019](entries/ANIM-0019-binary-transport-cap.md) | workflow/archive | EP028 | Shell output cap truncated binary blob staging | validated_with_limits |
+
+
+## EP029 production findings — final validation with explicit limits
+
+| [MOKI-EP029-GEO-001](entries/MOKI-EP029-GEO-001.md) | animation | EP029 | Phase-local anchors reset hands and wool | validated_with_limits |
+| [MOKI-EP029-GEO-002](entries/MOKI-EP029-GEO-002.md) | geometry | EP029 | Floor contact includes rendered ellipse extent and outline | validated_with_limits |
+| [MOKI-EP029-GEO-003](entries/MOKI-EP029-GEO-003.md) | animation | EP029 | Ownership precedes prop movement and tools follow current hands | validated_with_limits |
+| [MOKI-EP029-GEO-004](entries/MOKI-EP029-GEO-004.md) | composition | EP029 | Shared scarf obscures small character facial acting | validated_with_limits |
+| [MOKI-EP029-GEO-005](entries/MOKI-EP029-GEO-005.md) | animation | EP029 | Visible carried wool lacks support during early growth | validated_with_limits |
+| [MOKI-EP029-GEO-006](entries/MOKI-EP029-GEO-006.md) | continuity | EP029 | Stale thread anchor survives complete scarf removal | validated_with_limits |
+| [MOKI-EP029-GEO-007](entries/MOKI-EP029-GEO-007.md) | geometry | EP029 | Shrinking floor-supported mass levitates | validated_with_limits |
+| [MOKI-EP029-AUDIO-001](entries/MOKI-EP029-AUDIO-001.md) | audio | EP029 | Initial synthesized master leaves unnecessary headroom | validated_with_limits |
+| [MOKI-EP029-AUDIO-002](entries/MOKI-EP029-AUDIO-002.md) | audio | EP029 | Script-only audio cue timing differs from actual geometry | validated_with_limits |
+| [MOKI-EP029-001](entries/MOKI-EP029-001.md) | provenance | EP029 | Early composition anchor findings and related geometry provenance | cross_reference |
+| [MOKI-EP029-002](entries/MOKI-EP029-002.md) | provenance | EP029 | Phase reset and wool ownership discovery alias | cross_reference |
+| [MOKI-EP029-003](entries/MOKI-EP029-003.md) | workflow/archive | EP029 | Editing an actively running shell script corrupts subsequent command parsing | validated_with_limits |
+
+
+| [MOKI-EP029-004](entries/MOKI-EP029-004.md) | workflow/archive | EP029 | Incomplete JSON parse with missing raw diagnostic | validated_with_evidence_limits |
+
+| [MOKI-EP029-005](entries/MOKI-EP029-005.md) | workflow/archive | EP029 | Cached string blob differs from serialized local file | repair_attempted |
+
+| [MOKI-EP029-006](entries/MOKI-EP029-006.md) | workflow/archive | EP029 | Unretained blob response obscures concurrent staging failure | validated_with_evidence_limits |

@@ -1,0 +1,74 @@
+{
+  "video": "/workspace/shared/ep029/EP029-The-Unraveling-Scarf.mp4",
+  "video_sha256": "aec63c64e7b593a8c6713f46cfec8baf966ae01cc741cfb7ef446636f6a47673",
+  "decoded_samples": 3648512,
+  "decoded_duration": 76.01066666666667,
+  "sample_rate": 48000,
+  "channels": 2,
+  "peak": 0.496826171875,
+  "clipped_samples": 0,
+  "cue_crosscorrelations": [
+    {
+      "time": 0.5,
+      "lag_samples": 0,
+      "lag_ms": 0.0,
+      "window_rms": 0.05870022296516372
+    },
+    {
+      "time": 23,
+      "lag_samples": 0,
+      "lag_ms": 0.0,
+      "window_rms": 0.03630552270666183
+    },
+    {
+      "time": 25,
+      "lag_samples": 0,
+      "lag_ms": 0.0,
+      "window_rms": 0.05408761009306396
+    },
+    {
+      "time": 40,
+      "lag_samples": 0,
+      "lag_ms": 0.0,
+      "window_rms": 0.1322190004672966
+    },
+    {
+      "time": 41.5,
+      "lag_samples": 0,
+      "lag_ms": 0.0,
+      "window_rms": 0.02336474156217318
+    },
+    {
+      "time": 45,
+      "lag_samples": 0,
+      "lag_ms": 0.0,
+      "window_rms": 0.015857091114466877
+    },
+    {
+      "time": 46.5,
+      "lag_samples": 0,
+      "lag_ms": 0.0,
+      "window_rms": 0.030699998066190663
+    },
+    {
+      "time": 54.7,
+      "lag_samples": 0,
+      "lag_ms": 0.0,
+      "window_rms": 0.0196028922713913
+    },
+    {
+      "time": 56,
+      "lag_samples": 0,
+      "lag_ms": 0.0,
+      "window_rms": 0.09738695614768197
+    },
+    {
+      "time": 64.5,
+      "lag_samples": 0,
+      "lag_ms": 0.0,
+      "window_rms": 0.031688093920358415
+    }
+  ],
+  "no_listening_claim": true,
+  "visual_alignment_verified_here": false
+}

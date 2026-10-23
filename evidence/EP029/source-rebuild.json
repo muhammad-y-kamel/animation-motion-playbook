@@ -1,0 +1,11 @@
+{
+  "source_zip_sha256": "08fd67ee6aafa78097612ec775a8aff38af6df15cbcc2471060e4f238e4c3238",
+  "source_rebuild_exact": true,
+  "audio_rebuild_exact": {
+    "EP029-mix.wav": "08d950c18018440222c4f777458faca7bb858ad3308a02f162b8271e615e9a54",
+    "music.wav": "219cf4e6195973548ecd90681b343e4d3e9bfb11d72f873186df560341134455",
+    "foley.wav": "e3a55b2f5e134c394fd6bd505f725a660ece861ddf7346d49aa4f1e4affd142a"
+  },
+  "nine_pixel_hashes_exact": true,
+  "zip_crc_pass": true
+}
