@@ -1,0 +1,18 @@
+{
+  "sourceSha256": "dbf090d51013f7d8b24f3c5bdc4e7db2894693ed08e1e2a9b61f7ca33ba52006",
+  "framesChecked": 3120,
+  "storySeconds": 52,
+  "filmSeconds": 58,
+  "max": {
+    "armNormalized": 263.46917870006445,
+    "footFloorPenetration": 0,
+    "contactError": 0,
+    "handFrameDelta": 21.73888202549321
+  },
+  "failures": [],
+  "pass": true,
+  "limitations": [
+    "Source-state numerical tests, not encoded-frame or AV review.",
+    "Foot-to-bowl surface support is a separate visual/manual geometric issue."
+  ]
+}

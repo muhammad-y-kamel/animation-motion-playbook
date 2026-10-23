@@ -1,0 +1,39 @@
+{
+  "duration": 58,
+  "sample_rate": 48000,
+  "channels": 2,
+  "samples_per_channel": 2784000,
+  "seed": 26026,
+  "shared_gain": 2.7155482754329516,
+  "stats": {
+    "music": {
+      "sha256": "ca6987daaf36e9829f8563cfd1305b8fbd0d351cc9b750f6afc350a81859ea85",
+      "peak": 0.3405942287651906,
+      "rms": 0.031839403297306564,
+      "clipped_samples": 0,
+      "nonfinite_samples": 0
+    },
+    "foley": {
+      "sha256": "d4233dec67c3cb6ad2158ed8d1350f19c7e60473be74dcf49a860aba43eaf006",
+      "peak": 0.72,
+      "rms": 0.042439211111417095,
+      "clipped_samples": 0,
+      "nonfinite_samples": 0
+    },
+    "EP026-mix": {
+      "sha256": "113c8bd90e390818890b22bdaf6403dd89416715c163fb365d7edc32cc085e73",
+      "peak": 0.72,
+      "rms": 0.05297702640967893,
+      "clipped_samples": 0,
+      "nonfinite_samples": 0
+    }
+  },
+  "intentional_silence": [
+    44,
+    46.5
+  ],
+  "listened": false,
+  "browser_playback_verified": false,
+  "passed": true,
+  "provenance": "Original deterministic code synthesis; no recordings, voices or borrowed melodies. Cue timing follows canonical narrative, pending visual contact comparison."
+}

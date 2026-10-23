@@ -1,0 +1,315 @@
+{
+  "source_sha256": "dbf090d51013f7d8b24f3c5bdc4e7db2894693ed08e1e2a9b61f7ca33ba52006",
+  "cue_sheet_sha256": "b3d117e8de55162bab2e1c6b555088b4a84b4b73f71e54c3371c511ae3628f87",
+  "passed": true,
+  "rows": [
+    {
+      "name": "umbrella flip begins at cue",
+      "time": 0.6,
+      "frame": 36,
+      "pass": true,
+      "evidence": {
+        "before": -140,
+        "at": -140,
+        "next_frame": -117.54030202111481,
+        "after_point_two": 140.79415952804504,
+        "cue_present": true
+      }
+    },
+    {
+      "name": "umbrella flip begins at cue",
+      "time": 17.5,
+      "frame": 1050,
+      "pass": true,
+      "evidence": {
+        "before": 130,
+        "at": 130,
+        "next_frame": 107.54030202111721,
+        "after_point_two": -150.79415952804527,
+        "cue_present": true
+      }
+    },
+    {
+      "name": "umbrella flip begins at cue",
+      "time": 24.5,
+      "frame": 1470,
+      "pass": true,
+      "evidence": {
+        "before": -140,
+        "at": -140,
+        "next_frame": -117.54030202111721,
+        "after_point_two": 140.79415952804527,
+        "cue_present": true
+      }
+    },
+    {
+      "name": "Moki and Peb safe ground touchdown",
+      "time": 23.8,
+      "frame": 1428,
+      "pass": true,
+      "evidence": {
+        "feet": [
+          [
+            1600,
+            1600
+          ],
+          [
+            1600,
+            1600
+          ]
+        ]
+      }
+    },
+    {
+      "name": "p boarding settles in bowl",
+      "time": 27,
+      "frame": 1620,
+      "pass": true,
+      "evidence": {
+        "actor_x": 600,
+        "actor_y": 1498,
+        "canopy_x": 490,
+        "canopy_y": 1470,
+        "boat": true
+      }
+    },
+    {
+      "name": "m boarding settles in bowl",
+      "time": 29.5,
+      "frame": 1770,
+      "pass": true,
+      "evidence": {
+        "actor_x": 395,
+        "actor_y": 1498,
+        "canopy_x": 490,
+        "canopy_y": 1470,
+        "boat": true
+      }
+    },
+    {
+      "name": "apple 0 lands at plop cue",
+      "time": 39,
+      "frame": 2340,
+      "pass": true,
+      "evidence": {
+        "before": {
+          "i": 0,
+          "x": 204.0909090909082,
+          "y": 1458.4236265994448,
+          "rot": 6.187985529798083
+        },
+        "at": {
+          "i": 0,
+          "x": 190,
+          "y": 1472,
+          "rot": 0
+        },
+        "after": {
+          "i": 0,
+          "x": 190.16133110807664,
+          "y": 1472,
+          "rot": 0
+        }
+      }
+    },
+    {
+      "name": "apple 1 lands at plop cue",
+      "time": 40.3,
+      "frame": 2418,
+      "pass": true,
+      "evidence": {
+        "before": {
+          "i": 1,
+          "x": 671.893939393939,
+          "y": 1458.4236265994448,
+          "rot": 6.187985529798083
+        },
+        "at": {
+          "i": 1,
+          "x": 665,
+          "y": 1472,
+          "rot": 0
+        },
+        "after": {
+          "i": 1,
+          "x": 664.8484465348371,
+          "y": 1472,
+          "rot": 0
+        }
+      }
+    },
+    {
+      "name": "apple 2 lands at plop cue",
+      "time": 41.6,
+      "frame": 2496,
+      "pass": true,
+      "evidence": {
+        "before": {
+          "i": 2,
+          "x": 450.3030303030297,
+          "y": 1458.4236265994448,
+          "rot": 6.187985529798083
+        },
+        "at": {
+          "i": 2,
+          "x": 440,
+          "y": 1472,
+          "rot": 0
+        },
+        "after": {
+          "i": 2,
+          "x": 440.1096668826261,
+          "y": 1472,
+          "rot": 0
+        }
+      }
+    },
+    {
+      "name": "apple 3 lands at plop cue",
+      "time": 43,
+      "frame": 2580,
+      "pass": true,
+      "evidence": {
+        "before": {
+          "i": 3,
+          "x": 834.3939393939391,
+          "y": 1458.4236265994448,
+          "rot": 6.187985529798083
+        },
+        "at": {
+          "i": 3,
+          "x": 830,
+          "y": 1472,
+          "rot": 0
+        },
+        "after": {
+          "i": 3,
+          "x": 829.9093518518519,
+          "y": 1472,
+          "rot": 0
+        }
+      }
+    },
+    {
+      "name": "wind stops exactly44",
+      "time": 44,
+      "frame": 2640,
+      "pass": true,
+      "evidence": {
+        "before": 1,
+        "at": 0
+      }
+    },
+    {
+      "name": "bite 0 changes on crunch cue",
+      "time": 50,
+      "frame": 3000,
+      "pass": true,
+      "evidence": {
+        "before": false,
+        "at": true
+      }
+    },
+    {
+      "name": "bite 3 changes on crunch cue",
+      "time": 50.4,
+      "frame": 3024,
+      "pass": true,
+      "evidence": {
+        "before": false,
+        "at": true
+      }
+    },
+    {
+      "name": "ring tug creates reset",
+      "time": 17.5,
+      "frame": 1050,
+      "pass": true,
+      "evidence": {
+        "contacts": [
+          {
+            "kind": "ring-tug",
+            "point": {
+              "x": 605,
+              "y": 740
+            },
+            "hand": {
+              "x": 605,
+              "y": 740
+            }
+          },
+          {
+            "kind": "peb-waist",
+            "point": {
+              "x": 601.1,
+              "y": 791.8
+            },
+            "hand": {
+              "x": 601.1,
+              "y": 791.8
+            }
+          },
+          {
+            "kind": "umbrella-handle",
+            "point": {
+              "x": 605,
+              "y": 820
+            },
+            "hand": {
+              "x": 605,
+              "y": 820
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "exact CTA boundary",
+      "time": 52,
+      "frame": 3120,
+      "pass": true,
+      "evidence": {
+        "film": {
+          "duration": 58,
+          "storyDuration": 52,
+          "fps": 60,
+          "width": 1080,
+          "height": 1920,
+          "shots": [
+            {
+              "start": 0,
+              "end": 11,
+              "name": "A shield becomes a sail"
+            },
+            {
+              "start": 11,
+              "end": 24,
+              "name": "Fly, flip, float"
+            },
+            {
+              "start": 24,
+              "end": 38,
+              "name": "Captain Peb"
+            },
+            {
+              "start": 38,
+              "end": 45,
+              "name": "Four flying apples"
+            },
+            {
+              "start": 45,
+              "end": 52,
+              "name": "The perfect fruit bowl"
+            },
+            {
+              "start": 52,
+              "end": 58,
+              "name": "End card"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "scope": "Actual deterministic scene values sampled around cue frames. Not a rendered-contour comparison or direct listening."
+}

@@ -1,0 +1,9 @@
+{
+  "pass": true,
+  "framesEach": 3480,
+  "unchangedOutside20to30": 2880,
+  "unexpectedDifferenceFrames": [],
+  "beforeVideoSha256": "4a4b5633c0fe9a71ba5162cc0b9187e829a68b2b44d4059cbaad32f2072af310",
+  "afterVideoSha256": "33af749ed7b5bc858321db4221495e496d50812d2982bb1face870a9a4a04526",
+  "method": "FFmpeg decoded per-frame MD5 comparison, all2880framesoutside20\u201330s exactpixelidentity"
+}

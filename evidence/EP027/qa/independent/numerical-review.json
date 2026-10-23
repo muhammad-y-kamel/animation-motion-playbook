@@ -1,0 +1,10 @@
+{
+  "sourceSHA256": "107f80b7ac49b6e113948d10399232875b1577907a89a6e2ec7818d9729e8eed",
+  "sampledSeekFrames": 38,
+  "totalFrameStates": 4200,
+  "contactCount": 1127,
+  "maxErr": 0,
+  "maxGlassBottom": 1450.8284271247462,
+  "failures": [],
+  "limits": "Authored contact constraints, conservative projected hand circles and cap envelope; not full rendered-path intersection proof."
+}

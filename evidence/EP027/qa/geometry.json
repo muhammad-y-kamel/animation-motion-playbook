@@ -1,0 +1,95 @@
+{
+  "states": 3840,
+  "contacts": 1127,
+  "issue_count": 0,
+  "issues": [],
+  "random_access": [
+    {
+      "t": 0,
+      "sha256": "cf19cc9045be09b697fd752150feca2fc185dfbf338832eafd47ad682e368690",
+      "match": true
+    },
+    {
+      "t": 0.2,
+      "sha256": "23d51382055fd8cdeb9768f708fc977c1026b39bf773c86258d9dc58048d2a2a",
+      "match": true
+    },
+    {
+      "t": 4.2,
+      "sha256": "7485ff04124e2c7bef1927f304783e3b19aaeaae54cd57f5a33075a419e56c36",
+      "match": true
+    },
+    {
+      "t": 10.5,
+      "sha256": "0a08c2b682e8bef805126f2dc9eb1811202477fa60a24121bbf4d2e3866c5877",
+      "match": true
+    },
+    {
+      "t": 20.5,
+      "sha256": "7884e0c9b6d85ba1e1fdc62145e4542c8d8ee388c6d9ea600d6ee2b4b2b71d7a",
+      "match": true
+    },
+    {
+      "t": 22.5,
+      "sha256": "8f2db3e6581731c40b563864811a5d7c38ddc44ddd0ec21efc4ebfb6431af353",
+      "match": true
+    },
+    {
+      "t": 29.5,
+      "sha256": "c8efa23ab7987449e3ffced249831ef3edc751c9aa6f9b84213851bd9d7debb5",
+      "match": true
+    },
+    {
+      "t": 37.5,
+      "sha256": "a16a27356efa0ee7a66877602cba022928e7a1869efabbd70f77bcdcb8b5d50a",
+      "match": true
+    },
+    {
+      "t": 38.5,
+      "sha256": "29aac78855c4929be63f793af84864dce7a26ef613428dec44d53ea96c0ce80c",
+      "match": true
+    },
+    {
+      "t": 45.2,
+      "sha256": "4538cadbf43eba4700949a20e63381c16855d8b2a5336a5f327227a7d7c347a5",
+      "match": true
+    },
+    {
+      "t": 51.9,
+      "sha256": "17206623bce773f1ce35ff15e4a5bad1ab4c6d2022b497392b815f425aa37561",
+      "match": true
+    },
+    {
+      "t": 52.5,
+      "sha256": "6989aa3b48e1a869e1dbfe6083dd88990555a075aadab28a95c6c29f3483c4fb",
+      "match": true
+    },
+    {
+      "t": 56.5,
+      "sha256": "881d174a30f3c3a1c93d1047e14fb403df025782399bec6f4e2b3ed5ac8638ab",
+      "match": true
+    },
+    {
+      "t": 58,
+      "sha256": "20afb4189a5c3472f504038b4b4abddba97221e74d9451a77d1a53155e600fd2",
+      "match": true
+    },
+    {
+      "t": 61.5,
+      "sha256": "c1593ee2a9169e268fe522e115948642d171d51aa7ae0ef4d781c827baa4e7e6",
+      "match": true
+    },
+    {
+      "t": 64,
+      "sha256": "9f6c9bfacec5ae201cf341ba67f9a53bdf650ca649de5fa8ebd547d898909de8",
+      "match": true
+    },
+    {
+      "t": 69.9,
+      "sha256": "38ba3401c22f94085eb1029c171c654393ef1c832dafe34bfd50b13ee689409b",
+      "match": true
+    }
+  ],
+  "all_pass": true,
+  "limitations": "Source geometry and selected exact pixel determinism; not all-pixel collision/occlusion proof."
+}

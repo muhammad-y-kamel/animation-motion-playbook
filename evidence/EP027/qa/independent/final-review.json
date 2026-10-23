@@ -1,0 +1,58 @@
+{
+  "status": "pass_with_disclosed_limits",
+  "source_sha256": "107f80b7ac49b6e113948d10399232875b1577907a89a6e2ec7818d9729e8eed",
+  "final_mp4_sha256": "d1f93db5c2b175d275fb8f598bb14d3b08898d994580330f9c0231c27ba3c772",
+  "encoded_thumbnail_review": {
+    "sheet_numbers": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "first_frame": 2160,
+    "last_frame": 4199,
+    "valid_frames_reviewed": 2040,
+    "cell_size": [
+      90,
+      160
+    ],
+    "last_sheet_unused_cells": 120
+  },
+  "encoded_full_resolution_times_seconds": [
+    8.0,
+    51.8,
+    56.5,
+    58.5,
+    61.8,
+    65.0
+  ],
+  "findings": "Previously reported glass-table penetration, open pickup hand, lost glass outline, inverted sand gravity and missing supply origin repaired and verified. Final sampled frames retain clear silhouettes, tabletop support, hourglass clump/tap and collapsed towers followed by delayed sand. No blocking issue seen in assigned final thumbnails or selected encoded full-resolution frames.",
+  "limitations": [
+    "Did not inspect final thumbnail sheets01\u201309; production agent covers those.",
+    "No full-resolution every-frame inspection.",
+    "No real-time audiovisual playback or direct audio listening.",
+    "Stylized elastic arms and analytical cartoon block collapse are not rigid-body simulation."
+  ],
+  "evidence_sha256": {
+    "qa/encoded-sheets/sheet-10.jpg": "1857549297d35887799c696f9d57d88a70571f31b2400f322a06dbbaad274be5",
+    "qa/encoded-sheets/sheet-11.jpg": "c2bdecf9ce456116393ab4341737893288caec884837ff18793e9baebd7728e6",
+    "qa/encoded-sheets/sheet-12.jpg": "7b32ca63c41673ed2e904b722b6bc7a290c73fcb8eb34987c23ace1537173dc1",
+    "qa/encoded-sheets/sheet-13.jpg": "49e4da81cd997d6432fddb6687bb624374c6ffb0321835ac16d39766f6d54691",
+    "qa/encoded-sheets/sheet-14.jpg": "fe19e3746e3104b86f44b24f54c19332929eacc70eb67899b61cccbf2ed8fc0b",
+    "qa/encoded-sheets/sheet-15.jpg": "286f4c713af3490338247b086922c5b7dade901390bff149d58929406ab9da7d",
+    "qa/encoded-sheets/sheet-16.jpg": "5bfaa64d3cac4fb1f316f1200b860321020729a06a5280392cca42b3b445f24b",
+    "qa/encoded-sheets/sheet-17.jpg": "0a0586d5b9fcb3e4f3e73934cb478f7ea7818014942402c5dcf2ad1b20c8c690",
+    "qa/encoded-sheets/sheet-18.jpg": "c6b61334c1d8319addad70165c5b54ca09f26bd32f488d7b1aaa366a37de1dc0",
+    "qa/encoded-critical/08.00.png": "5e4484ad0d265c38bf018fe08baca9c64e79d14c32780adb55c2a9001b39bdc7",
+    "qa/encoded-critical/51.80.png": "7b49defa61c75414317575d7c671e32d808a420f3804122314fc16f97672c83c",
+    "qa/encoded-critical/56.50.png": "8d973f45a1f072dff46d0515b5d9d6ed7e376cccbcc94c111072a87a542ad2dd",
+    "qa/encoded-critical/58.50.png": "a7fc400e19c2085417a7e21ed42b94a9730a1cdf58cb354af2b5ec6cf7989b58",
+    "qa/encoded-critical/61.80.png": "dd42a02b9b78b39f7cd1d310207a6ecb8db5e9aa964cb8c2f59e49063dbb0215",
+    "qa/encoded-critical/65.00.png": "9e564d7b8740d51e13719d94ae1176c73e80e37897357e4e9ac0f6e98640a3b6"
+  }
+}

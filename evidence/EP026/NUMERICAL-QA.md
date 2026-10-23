@@ -1,0 +1,3 @@
+# EP026 numerical QA
+All3120 story frames sampled at60fps. Both rigs retain the series proportion ratio. Every coordinate finite; sole bottoms never exceed1600; hand distances remain below300 rig units; hand per-frame motion below26px outside explicit scene cuts. Umbrella handle, waist hold, center-ring tug and captain grip coincide with their declared anchors. Four apples persist from43s until the eating action. Source renders agree across random-access seek order because each frame resetsCanvas state.
+Separate independent script qa/independent.cjs repeats contact/floor/arm/motion checks. Source-state checks do not replace encoded visual review or diagnose arbitrary artistic quality.

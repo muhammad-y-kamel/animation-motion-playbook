@@ -1,0 +1,104 @@
+{
+  "video_sha256": "33af749ed7b5bc858321db4221495e496d50812d2982bb1face870a9a4a04526",
+  "audio_sha256": "113c8bd90e390818890b22bdaf6403dd89416715c163fb365d7edc32cc085e73",
+  "codec": "aac",
+  "source_samples": 2784000,
+  "decoded_samples": 2784256,
+  "duration": 58.0,
+  "whole_track_correlation": 0.9995282886246577,
+  "cue_windows": [
+    {
+      "time": 0.6,
+      "correlation": 0.999571413256411,
+      "lag_samples": 0
+    },
+    {
+      "time": 13,
+      "correlation": 0.9997393472934831,
+      "lag_samples": 0
+    },
+    {
+      "time": 17.5,
+      "correlation": 0.9962938541172769,
+      "lag_samples": 0
+    },
+    {
+      "time": 23.8,
+      "correlation": 0.9995539925216769,
+      "lag_samples": 0
+    },
+    {
+      "time": 24.5,
+      "correlation": 0.9997215733776824,
+      "lag_samples": 0
+    },
+    {
+      "time": 27,
+      "correlation": 0.9993188242007479,
+      "lag_samples": 0
+    },
+    {
+      "time": 29.5,
+      "correlation": 0.9994865669297699,
+      "lag_samples": 0
+    },
+    {
+      "time": 39,
+      "correlation": 0.9998941721423605,
+      "lag_samples": 0
+    },
+    {
+      "time": 40.3,
+      "correlation": 0.9998856253518971,
+      "lag_samples": 0
+    },
+    {
+      "time": 41.6,
+      "correlation": 0.999911204628613,
+      "lag_samples": 0
+    },
+    {
+      "time": 43,
+      "correlation": 0.9999334117558963,
+      "lag_samples": 0
+    },
+    {
+      "time": 46.5,
+      "correlation": 0.9998261838778777,
+      "lag_samples": 0
+    },
+    {
+      "time": 48,
+      "correlation": 0.9999938153930584,
+      "lag_samples": 0
+    },
+    {
+      "time": 50,
+      "correlation": 0.993920179951382,
+      "lag_samples": 0
+    },
+    {
+      "time": 50.4,
+      "correlation": 0.9915645994648902,
+      "lag_samples": 0
+    },
+    {
+      "time": 52,
+      "correlation": 0.999991847160237,
+      "lag_samples": 0
+    },
+    {
+      "time": 56.5,
+      "correlation": 0.9999068286214008,
+      "lag_samples": 0
+    }
+  ],
+  "decoded_peak": 0.7267099618911743,
+  "decoded_4x_truepeak": 0.7299127926365327,
+  "clipped_samples": 0,
+  "quiet_interval_encoded_rms": 0.0,
+  "listened": false,
+  "continuous_AV_playback": false,
+  "scope": "AAC PCM identity and timing against source only, not visual contact timing or listening.",
+  "passed": true
+}

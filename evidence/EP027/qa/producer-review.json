@@ -1,0 +1,108 @@
+{
+  "status": "pass_with_disclosed_limits",
+  "attribution": "Production reviewer results provided by production agent; independent reviewer authored consolidation.",
+  "source_sha256": "107f80b7ac49b6e113948d10399232875b1577907a89a6e2ec7818d9729e8eed",
+  "final_mp4_sha256": "d1f93db5c2b175d275fb8f598bb14d3b08898d994580330f9c0231c27ba3c772",
+  "production_reviewer": {
+    "thumbnail_sheets": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "frame_range_inclusive": [
+      0,
+      2159
+    ],
+    "thumbnail_count": 2160,
+    "encoded_fullres_times": [
+      0.2,
+      8,
+      10.5,
+      20.5,
+      22.5,
+      29.5,
+      33.3,
+      35.7
+    ]
+  },
+  "independent_reviewer": {
+    "thumbnail_sheets": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "frame_range_inclusive": [
+      2160,
+      4199
+    ],
+    "thumbnail_count": 2040,
+    "encoded_fullres_times": [
+      8,
+      51.8,
+      56.5,
+      58.5,
+      61.8,
+      65
+    ]
+  },
+  "combined": {
+    "all_encoded_thumbnail_frames": 4200,
+    "unique_encoded_fullres_times": [
+      0.2,
+      8,
+      10.5,
+      20.5,
+      22.5,
+      29.5,
+      33.3,
+      35.7,
+      51.8,
+      56.5,
+      58.5,
+      61.8,
+      65
+    ],
+    "unique_encoded_fullres_count": 13
+  },
+  "technical_verification": "verification.json",
+  "source_rebuild_verification": "qa/source-rebuild.json",
+  "limitations": [
+    "No direct human audio listening",
+    "No continuous real-time AV or browser playback",
+    "No full-resolution every-frame review",
+    "Stylized elastic reaches, fixed camera, bins and stool",
+    "Illustrative sand and authored block collapse, not physical simulation"
+  ],
+  "evidence_sha256": {
+    "qa/encoded-sheets/sheet-01.jpg": "3363a53b392c14555a27bb541892a6f8be8bb6d03b6e0eb2b8441acda5c73d72",
+    "qa/encoded-sheets/sheet-02.jpg": "d2e243d9090a6b8d22fc1566340391dd7eb2ff98821c18ef910574003645a5be",
+    "qa/encoded-sheets/sheet-03.jpg": "881e4958685d175a94326568a892e9c6f989bb8744a668ea4a7b2c56036587e7",
+    "qa/encoded-sheets/sheet-04.jpg": "c408cac9ea1ebb1298b91e2fb8294f67b75dcb7372fa5193dce64c921f1c3844",
+    "qa/encoded-sheets/sheet-05.jpg": "c6431596f27889bd1de43b7bf6c3e4d7903b1507fea88a92619a1e56df7cca31",
+    "qa/encoded-sheets/sheet-06.jpg": "0ce15546c4215c858d258b292ae09c93850e89671aecf2bedf264c03d0a0a94c",
+    "qa/encoded-sheets/sheet-07.jpg": "1abd1f9b6bbb93d4f467e03913dbe1bc9bbb74dcbb2117b7b3a1c8a37db257c2",
+    "qa/encoded-sheets/sheet-08.jpg": "f78e6f0bc75cc170747c686995a4ddd136c8027a2939294f986d57c2a5e89ae8",
+    "qa/encoded-sheets/sheet-09.jpg": "4a006e113fa34efdac6618af096c3dc0b81033d4f7df41b0e39c3e52549702d6",
+    "qa/encoded-sheets/sheet-10.jpg": "1857549297d35887799c696f9d57d88a70571f31b2400f322a06dbbaad274be5",
+    "qa/encoded-sheets/sheet-11.jpg": "c2bdecf9ce456116393ab4341737893288caec884837ff18793e9baebd7728e6",
+    "qa/encoded-sheets/sheet-12.jpg": "7b32ca63c41673ed2e904b722b6bc7a290c73fcb8eb34987c23ace1537173dc1",
+    "qa/encoded-sheets/sheet-13.jpg": "49e4da81cd997d6432fddb6687bb624374c6ffb0321835ac16d39766f6d54691",
+    "qa/encoded-sheets/sheet-14.jpg": "fe19e3746e3104b86f44b24f54c19332929eacc70eb67899b61cccbf2ed8fc0b",
+    "qa/encoded-sheets/sheet-15.jpg": "286f4c713af3490338247b086922c5b7dade901390bff149d58929406ab9da7d",
+    "qa/encoded-sheets/sheet-16.jpg": "5bfaa64d3cac4fb1f316f1200b860321020729a06a5280392cca42b3b445f24b",
+    "qa/encoded-sheets/sheet-17.jpg": "0a0586d5b9fcb3e4f3e73934cb478f7ea7818014942402c5dcf2ad1b20c8c690",
+    "qa/encoded-sheets/sheet-18.jpg": "c6b61334c1d8319addad70165c5b54ca09f26bd32f488d7b1aaa366a37de1dc0"
+  }
+}

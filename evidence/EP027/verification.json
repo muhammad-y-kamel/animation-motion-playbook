@@ -1,0 +1,43 @@
+{
+  "video": {
+    "sha256": "d1f93db5c2b175d275fb8f598bb14d3b08898d994580330f9c0231c27ba3c772",
+    "bytes": 6667935,
+    "duration": 70,
+    "width": 1080,
+    "height": 1920,
+    "fps": 60,
+    "frames": 4200
+  },
+  "full_av_decode_error_log_bytes": 0,
+  "aac": {
+    "sample_rate": 48000,
+    "channels": 2,
+    "decoded_samples": 3360768,
+    "peak": 0.642791748046875,
+    "clipped_samples": 0
+  },
+  "faststart_atoms": [
+    {
+      "type": "ftyp",
+      "offset": 0,
+      "size": 32
+    },
+    {
+      "type": "moov",
+      "offset": 32,
+      "size": 112760
+    },
+    {
+      "type": "free",
+      "offset": 112792,
+      "size": 8
+    },
+    {
+      "type": "mdat",
+      "offset": 112800,
+      "size": 6555135
+    }
+  ],
+  "listening_verified": false,
+  "continuous_playback_verified": false
+}

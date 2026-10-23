@@ -1,0 +1,295 @@
+{
+  "pass": true,
+  "scope": "Final-encode late-frame QA carried forward by exact SHA256 identity of all 28 sheets031\u2013058 and nine full-resolution PNGs from the visually reviewed baseline. Changed sheet030 and frame1770 are excluded here; assigned to geometry reviewer.",
+  "videoSha256": "33af749ed7b5bc858321db4221495e496d50812d2982bb1face870a9a4a04526",
+  "sourceSha256": "dbf090d51013f7d8b24f3c5bdc4e7db2894693ed08e1e2a9b61f7ca33ba52006",
+  "framesReviewedAtThumbnailResolution": 1680,
+  "firstFrame": 1800,
+  "lastFrame": 3479,
+  "thumbnailSize": [
+    108,
+    192
+  ],
+  "sheetsReviewed": [
+    {
+      "file": "sheet-031.jpg",
+      "first_frame": 1800,
+      "last_frame": 1859,
+      "frames": 60,
+      "sha256": "c960b3d07f0c545a101b6cb3fd22d5712bca2be6521db474dde7aaad05b74020"
+    },
+    {
+      "file": "sheet-032.jpg",
+      "first_frame": 1860,
+      "last_frame": 1919,
+      "frames": 60,
+      "sha256": "8eb21dcfb4e5e303a43c407a6275a6af628c7fa94fbad8830492c070caf2c835"
+    },
+    {
+      "file": "sheet-033.jpg",
+      "first_frame": 1920,
+      "last_frame": 1979,
+      "frames": 60,
+      "sha256": "6fa733520754a8ca85f0c105e5eb779e90c8683f8e39e1b0d18c8e57626f94bd"
+    },
+    {
+      "file": "sheet-034.jpg",
+      "first_frame": 1980,
+      "last_frame": 2039,
+      "frames": 60,
+      "sha256": "4c642cb444a706b32d95a2817be88d56ebbc666a2b0ff7c41609f8c333e32faa"
+    },
+    {
+      "file": "sheet-035.jpg",
+      "first_frame": 2040,
+      "last_frame": 2099,
+      "frames": 60,
+      "sha256": "79851b237b256d5774c30a3da4552bfc52fb407319a36640f1bccbb925238c17"
+    },
+    {
+      "file": "sheet-036.jpg",
+      "first_frame": 2100,
+      "last_frame": 2159,
+      "frames": 60,
+      "sha256": "8a145d4987dab4db3ce6be7188f7b3f1228c79e73c99afdcaca745e46d7e3b2b"
+    },
+    {
+      "file": "sheet-037.jpg",
+      "first_frame": 2160,
+      "last_frame": 2219,
+      "frames": 60,
+      "sha256": "c05b8d85ae45c323701df22610d08d17c9bd55e9a0e1c32d9bde295b82b7a03d"
+    },
+    {
+      "file": "sheet-038.jpg",
+      "first_frame": 2220,
+      "last_frame": 2279,
+      "frames": 60,
+      "sha256": "d2b7b4fb79c9dbb84eebd071d1f836dff1134377806055818fa449cb53315688"
+    },
+    {
+      "file": "sheet-039.jpg",
+      "first_frame": 2280,
+      "last_frame": 2339,
+      "frames": 60,
+      "sha256": "b77d9c9fe83728c201e3480cc0ec78549737166800e78d9d44711c160847394a"
+    },
+    {
+      "file": "sheet-040.jpg",
+      "first_frame": 2340,
+      "last_frame": 2399,
+      "frames": 60,
+      "sha256": "adc1305d8c310933f2f026ab4124dffccf30c06cfe54ced2c156f844fb19e39c"
+    },
+    {
+      "file": "sheet-041.jpg",
+      "first_frame": 2400,
+      "last_frame": 2459,
+      "frames": 60,
+      "sha256": "dcffc433d773d36356e66ef3948db042a8577164a6a07df38eda9c9368c7e5d6"
+    },
+    {
+      "file": "sheet-042.jpg",
+      "first_frame": 2460,
+      "last_frame": 2519,
+      "frames": 60,
+      "sha256": "4fe35fd347f8baf773441c3b11910b67b532f226b91a0be90cbd6e7604e343f3"
+    },
+    {
+      "file": "sheet-043.jpg",
+      "first_frame": 2520,
+      "last_frame": 2579,
+      "frames": 60,
+      "sha256": "926ebfd438da20fe5b704a38a60215f3c9cbf384a7825f3adfd5aed324786b54"
+    },
+    {
+      "file": "sheet-044.jpg",
+      "first_frame": 2580,
+      "last_frame": 2639,
+      "frames": 60,
+      "sha256": "9254a405e8137739a8e9baeab157fe41752614dc590da8ca7925268f4b478a15"
+    },
+    {
+      "file": "sheet-045.jpg",
+      "first_frame": 2640,
+      "last_frame": 2699,
+      "frames": 60,
+      "sha256": "2ec2906ef9ac1dc89d923309ab79713dcf82b4f41b166ed62cefd401032f2887"
+    },
+    {
+      "file": "sheet-046.jpg",
+      "first_frame": 2700,
+      "last_frame": 2759,
+      "frames": 60,
+      "sha256": "0a206fc75b7a0426b90c88b48d7565697d0af7109e9fabd3142f4961599be378"
+    },
+    {
+      "file": "sheet-047.jpg",
+      "first_frame": 2760,
+      "last_frame": 2819,
+      "frames": 60,
+      "sha256": "4e2da40bca51717a71953d73e3014ac1d74759e403624f03f4217f923904dc1f"
+    },
+    {
+      "file": "sheet-048.jpg",
+      "first_frame": 2820,
+      "last_frame": 2879,
+      "frames": 60,
+      "sha256": "3b3ee5c4fc7b55a2c533d18b0c0f43b578dd44133f1d4a6f9db5471975599069"
+    },
+    {
+      "file": "sheet-049.jpg",
+      "first_frame": 2880,
+      "last_frame": 2939,
+      "frames": 60,
+      "sha256": "663bc42ae59d22c416e1161a2defa1217aa32cd11aee17138b4c89e7ae301634"
+    },
+    {
+      "file": "sheet-050.jpg",
+      "first_frame": 2940,
+      "last_frame": 2999,
+      "frames": 60,
+      "sha256": "2c40b99173196de7e1b320f1df64212d1d64d67a9b7b8fc2f652b587cabeda3c"
+    },
+    {
+      "file": "sheet-051.jpg",
+      "first_frame": 3000,
+      "last_frame": 3059,
+      "frames": 60,
+      "sha256": "501c2d558988c4e68a8ee76cfcfb89119305d21c1e872db1a0a8c0d4daf5faeb"
+    },
+    {
+      "file": "sheet-052.jpg",
+      "first_frame": 3060,
+      "last_frame": 3119,
+      "frames": 60,
+      "sha256": "0884359462edac17fdf765544060c4652fc147148688e6461df2aaa0569b6e9f"
+    },
+    {
+      "file": "sheet-053.jpg",
+      "first_frame": 3120,
+      "last_frame": 3179,
+      "frames": 60,
+      "sha256": "d78d252246bbfcaf6a78007ac02c249594e02f7a84b418c9aea77b7b28910d86"
+    },
+    {
+      "file": "sheet-054.jpg",
+      "first_frame": 3180,
+      "last_frame": 3239,
+      "frames": 60,
+      "sha256": "cf3b4d75e882a423a798ca42576b5a1461da6092cee5c545de92ac86864ee725"
+    },
+    {
+      "file": "sheet-055.jpg",
+      "first_frame": 3240,
+      "last_frame": 3299,
+      "frames": 60,
+      "sha256": "2e6e8b3cd7aca9070957539c3fef71df9c3baed510fdc8e90d16d81891d74cc1"
+    },
+    {
+      "file": "sheet-056.jpg",
+      "first_frame": 3300,
+      "last_frame": 3359,
+      "frames": 60,
+      "sha256": "d1fb36d740a113c7f20697ff1189df78868022c19a340b10111a11d5d84a6d0d"
+    },
+    {
+      "file": "sheet-057.jpg",
+      "first_frame": 3360,
+      "last_frame": 3419,
+      "frames": 60,
+      "sha256": "e101773627ece4ec1528549988f167656332b49b2fac99d7fd5095cfd123a90f"
+    },
+    {
+      "file": "sheet-058.jpg",
+      "first_frame": 3420,
+      "last_frame": 3479,
+      "frames": 60,
+      "sha256": "208080aef248c016669e5dfc08bcf3204355cfbe939ce2b1ab616267f9cadb34"
+    }
+  ],
+  "fullResolutionReviewed": [
+    {
+      "frame": 2340,
+      "time": 39.0,
+      "file": "critical-encoded/frame-2340.png",
+      "sha256": "f9980b2e69848cf3b694de26e71fd672b1e1efdffc5fb4c54c50aa316ad33152"
+    },
+    {
+      "frame": 2580,
+      "time": 43.0,
+      "file": "critical-encoded/frame-2580.png",
+      "sha256": "9c7317a61b402dfe16d61c558e04b7149b601ff0638719041553ccabd3c4b081"
+    },
+    {
+      "frame": 2640,
+      "time": 44.0,
+      "file": "critical-encoded/frame-2640.png",
+      "sha256": "57f42011457dc326e926abdc0d53e01605809a6943840f6bced6868ebfc6b012"
+    },
+    {
+      "frame": 2790,
+      "time": 46.5,
+      "file": "critical-encoded/frame-2790.png",
+      "sha256": "b47096e5e651377363b2693fb9e22f148be552c027348e12928438e3d7b90424"
+    },
+    {
+      "frame": 2880,
+      "time": 48.0,
+      "file": "critical-encoded/frame-2880.png",
+      "sha256": "a344abb015b667745d53e112bf3ea61f84966f352e1008baf7b46cebf3233f28"
+    },
+    {
+      "frame": 3000,
+      "time": 50.0,
+      "file": "critical-encoded/frame-3000.png",
+      "sha256": "e4e05321c11188e4117c4702293a1a83c6f3b862ff06c7d1a1757032ab91fe08"
+    },
+    {
+      "frame": 3024,
+      "time": 50.4,
+      "file": "critical-encoded/frame-3024.png",
+      "sha256": "f93e1e76900b046e1b397a1e9fb8a23230838c4716434e24f83eea76304d31e6"
+    },
+    {
+      "frame": 3120,
+      "time": 52.0,
+      "file": "critical-encoded/frame-3120.png",
+      "sha256": "0d24ce671c1d7a195ff8bf7e970c6d8ebf300c347828aac30f900f804da36826"
+    },
+    {
+      "frame": 3479,
+      "time": 57.983333333333334,
+      "file": "critical-encoded/frame-3479.png",
+      "sha256": "017f651c16e23caf94c533b5aa9334467938f797dd2a60ab61edb6d8c00a9339"
+    }
+  ],
+  "blockingIssues": [],
+  "findings": [
+    "Moki boarding settles behind the front bowl lip; seated legs stay occluded.",
+    "Boat motion and rowing remain continuous across reviewed thumbnails; no gross clipping or broken anatomy observed.",
+    "Four red apples arrive and remain individually readable in full-resolution frame2580; two are later held and two remain in the bowl.",
+    "Captain handle is visible and attached beside Peb; the tap and stand-prevention hand poses are readable.",
+    "Bite markings differ between frames3000 and3024 in accordance with staggered bite timing.",
+    "End card text and both complete character silhouettes are inside frame in full-resolution first and last CTA frames."
+  ],
+  "stylisticObservation": "At44s the wind-line/leaf effect switches off abruptly with the specified sudden wind stop. This is stylized cessation, not a simulated falling-leaf treatment.",
+  "limitations": [
+    "No direct listening.",
+    "No continuous real-time AV playback.",
+    "No claim that thumbnail review resolves subpixel or fine-detail defects."
+  ],
+  "reviewedUtc": "2026-10-23T05:07:00Z",
+  "revisionNote": "No claim of repeat visual inspection. Baseline report preserved; exact artifact byte identity establishes unchanged reviewed images.",
+  "carryforward": {
+    "baselineReport": "qa/LATE-ENCODED-REVIEW-baseline.json",
+    "baselineVideoSha256": "4a4b5633c0fe9a71ba5162cc0b9187e829a68b2b44d4059cbaad32f2072af310",
+    "verifiedIdenticalSheets": 28,
+    "verifiedIdenticalFullResolutionImages": 9,
+    "excludedChangedFrames": [
+      1740,
+      1799
+    ]
+  },
+  "verifiedUtc": "2026-10-23T05:10:03.084204+00:00"
+}

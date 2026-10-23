@@ -1,0 +1,9 @@
+{
+  "episode_source_rebuild_exact": true,
+  "source_sha256": "107f80b7ac49b6e113948d10399232875b1577907a89a6e2ec7818d9729e8eed",
+  "audio_rebuild_exact": {
+    "music.wav": true,
+    "foley.wav": true,
+    "EP027-mix.wav": true
+  }
+}

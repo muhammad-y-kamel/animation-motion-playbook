@@ -1,0 +1,17 @@
+{
+  "pass": true,
+  "checks": {
+    "frame_count": true,
+    "1080x1920": true,
+    "60fps": true,
+    "duration58": true,
+    "audio_stereo48k": true,
+    "full_av_decode": true,
+    "qa/numerical.json": true,
+    "qa/independent.json": true,
+    "qa/source-rebuild.json": true,
+    "EP026-Editable-Source.zip_crc": true
+  },
+  "videoSha256": "4a4b5633c0fe9a71ba5162cc0b9187e829a68b2b44d4059cbaad32f2072af310",
+  "sourceSha256": "b7538b4d673f3d36d1a9b132b09ed88d2f9a4fde10643e1c12b39bd2084cb422"
+}

@@ -1,0 +1,122 @@
+{
+  "schema_version": 1,
+  "entries": [
+    {
+      "id": "ANIM-0001",
+      "title": "Floating stack gaps and base penetration \u2014 blocking contact defect",
+      "category": "geometry",
+      "project": "MOKI & PEB",
+      "episode": "EP027",
+      "status": "validated_with_limits",
+      "file": "entries/ANIM-0001-stack-support.md"
+    },
+    {
+      "id": "ANIM-0002",
+      "title": "Camera transform clipped hand and exposed black bottom \u2014 blocking composition defect",
+      "category": "composition",
+      "project": "MOKI & PEB",
+      "episode": "EP027",
+      "status": "validated_with_limits",
+      "file": "entries/ANIM-0002-camera-extents.md"
+    },
+    {
+      "id": "ANIM-0003",
+      "title": "Rotating hourglass penetrated tabletop \u2014 blocking support defect",
+      "category": "geometry",
+      "project": "MOKI & PEB",
+      "episode": "EP027",
+      "status": "validated_with_limits",
+      "file": "entries/ANIM-0003-rotating-support.md"
+    },
+    {
+      "id": "ANIM-0004",
+      "title": "Open palm during high cube carrying \u2014 blocking grip/readability defect",
+      "category": "animation",
+      "project": "MOKI & PEB",
+      "episode": "EP027",
+      "status": "validated_with_limits",
+      "file": "entries/ANIM-0004-semantic-grip.md"
+    },
+    {
+      "id": "ANIM-0005",
+      "title": "Hourglass outline vanished during particle/clump rendering \u2014 blocking render regression",
+      "category": "rendering",
+      "project": "MOKI & PEB",
+      "episode": "EP027",
+      "status": "validated_with_limits",
+      "file": "entries/ANIM-0005-canvas-current-path.md"
+    },
+    {
+      "id": "ANIM-0006",
+      "title": "Sand hung from upper cap after flip \u2014 blocking visual physics defect",
+      "category": "animation",
+      "project": "MOKI & PEB",
+      "episode": "EP027",
+      "status": "validated_with_limits",
+      "file": "entries/ANIM-0006-gravity-coordinates.md"
+    },
+    {
+      "id": "ANIM-0007",
+      "title": "Jam too subtle \u2014 important story-readability repair",
+      "category": "storytelling",
+      "project": "MOKI & PEB",
+      "episode": "EP027",
+      "status": "validated_with_limits",
+      "file": "entries/ANIM-0007-jam-readability.md"
+    },
+    {
+      "id": "ANIM-0008",
+      "title": "Cubes appeared without visible source \u2014 continuity improvement",
+      "category": "continuity",
+      "project": "MOKI & PEB",
+      "episode": "EP027",
+      "status": "validated_with_limits",
+      "file": "entries/ANIM-0008-prop-origin.md"
+    },
+    {
+      "id": "ANIM-0009",
+      "title": "Visual bite mismatched second crunch",
+      "category": "audio",
+      "project": "MOKI & PEB",
+      "episode": "EP026",
+      "status": "validated_with_partial_history",
+      "file": "entries/ANIM-0009-bite-audio-sync.md"
+    },
+    {
+      "id": "ANIM-0010",
+      "title": "Unsupported soles and missing bowl-lip support",
+      "category": "geometry",
+      "project": "MOKI & PEB",
+      "episode": "EP026",
+      "status": "validated_with_partial_history",
+      "file": "entries/ANIM-0010-curved-support.md"
+    },
+    {
+      "id": "ANIM-0011",
+      "title": "Hidden handle and missing readable tug",
+      "category": "drawing",
+      "project": "MOKI & PEB",
+      "episode": "EP026",
+      "status": "validated_with_partial_history",
+      "file": "entries/ANIM-0011-layered-action-readability.md"
+    },
+    {
+      "id": "ANIM-0012",
+      "title": "Random-access renders depended on Canvas state",
+      "category": "rendering",
+      "project": "MOKI & PEB",
+      "episode": "EP026",
+      "status": "validated_with_partial_history",
+      "file": "entries/ANIM-0012-frame-state-leak.md"
+    },
+    {
+      "id": "ANIM-0013",
+      "title": "Late margin correction required encoded revalidation",
+      "category": "workflow",
+      "project": "MOKI & PEB",
+      "episode": "EP026",
+      "status": "validated_with_partial_history",
+      "file": "entries/ANIM-0013-margin-review-invalidation.md"
+    }
+  ]
+}
