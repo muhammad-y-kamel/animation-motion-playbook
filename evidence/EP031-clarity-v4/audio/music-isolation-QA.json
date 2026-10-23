@@ -1,0 +1,46 @@
+{
+  "windows": [
+    {
+      "file": "clip-01.wav",
+      "music_nonzero_samples": 0
+    },
+    {
+      "file": "clip-02.wav",
+      "music_nonzero_samples": 0
+    },
+    {
+      "file": "clip-03.wav",
+      "music_nonzero_samples": 0
+    },
+    {
+      "file": "clip-04.wav",
+      "music_nonzero_samples": 0
+    },
+    {
+      "file": "clip-05.wav",
+      "music_nonzero_samples": 0
+    },
+    {
+      "file": "clip-06.wav",
+      "music_nonzero_samples": 0
+    },
+    {
+      "file": "clip-07.wav",
+      "music_nonzero_samples": 0
+    },
+    {
+      "file": "clip-08.wav",
+      "music_nonzero_samples": 0
+    },
+    {
+      "file": "clip-09.wav",
+      "music_nonzero_samples": 0
+    },
+    {
+      "file": "clip-10.wav",
+      "music_nonzero_samples": 0
+    }
+  ],
+  "overall_music_nonzero_fraction": 0.3704677083333333,
+  "music_is_original": true
+}

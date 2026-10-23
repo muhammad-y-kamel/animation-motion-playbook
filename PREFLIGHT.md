@@ -39,3 +39,16 @@ Record episode, source hash, applicable entry IDs, reviewer and pass/fail eviden
 - [ ] After source changes, invalidate affected encoded/audio reviews; preserve partial rejected encodes.
 
 Reusable helper: [contact-utils.cjs](helpers/contact-utils.cjs); [recurrence history and scope](evidence/EP030/qa/CONTACT-REGRESSION-RECURRENCE.md). See MOKI-EP030-REVIEW-001/002 and earlier ANIM-0001/0014, EP029-GEO-007.
+
+
+## Mandatory creative and semantic gates (user rejection EP031)
+- [ ] Read [future Moki standard](projects/moki-peb-creative-standard.md) before every authorized short/long. Goal→distinct attempts→changed consequences→earned payoff; no global-speed shortcut or fixed duration target.
+- [ ] A blind reviewer must infer the central causal chain from visuals without first reading the intended plot. Preserve ambiguities and exact viewed scope; test encoded motion separately.
+- [ ] Acting must identify the action: motivated closeups, readable anticipation/contact/reaction, no tinywide-only mechanisms, magical beams or unexplained transitions.
+- [ ] Every plot-critical sound must be semantically recognizable; use original/appropriately licensed recorded effects when generic synthesis fails. Preserve provenance. Cue labels and waveform peaks do not prove meaning.
+- [ ] Test the ACTUAL final mix after musicducking. If masking persists, reduce/remove score during cues. Report humanlistening versus classifier evidence separately, including weak/ambiguous scores.
+- [ ] User rejection invalidates earlier creative acceptance even if technical tests passed. Preserve rejected source/media and explain failed/working trials, never relabel oldpass as final.
+- [ ] Test full actor/hand/shoe/prop envelopes, collapse debris, camera cuts, actualsupports and endcard coverage. A matching declared anchor can still hide an eye or intersect geometry.
+- [ ] Source/encode changes require exacthash-bound rechecks; codec lookahead may change frames before an editedcut. Compare decodedpixels and inspect differences.
+- [ ] SourceZIP must rebuild source/audio/pixels from local relativeassets; exclude caches, credentials, modelweights and irrelevant hugearchives.
+Evidence: [EP031 clarity repairs](entries/MOKI-EP031-CLARITY-V4.md), [cross-episode pacing audit](evidence/creative-pacing-20261023/MOKI-PEB-CREATIVE-PACING-AUDIT.md). Evidence is bounded; no measured audience/retention claim.

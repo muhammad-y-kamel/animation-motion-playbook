@@ -450,6 +450,16 @@
       "status": "validated_with_limits",
       "file": "entries/MOKI-EP030-REVIEW-002.md",
       "discovered_by": "reviewer"
+    },
+    {
+      "id": "MOKI-EP031-CLARITY-V4",
+      "title": "User rejection, readable acting, semantic sound and independent repair gates",
+      "project": "MOKI & PEB",
+      "episode": "EP031",
+      "category": "creative/audio/geometry/verification",
+      "status": "validated_with_limits",
+      "file": "entries/MOKI-EP031-CLARITY-V4.md",
+      "discovered_by": "user, agent, reviewer; per-finding attribution in entry"
     }
   ]
 }

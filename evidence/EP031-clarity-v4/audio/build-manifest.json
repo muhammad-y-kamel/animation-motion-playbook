@@ -1,0 +1,228 @@
+{
+  "duration": 40,
+  "sample_rate": 48000,
+  "master_gain": 1.25,
+  "peak_dbfs": -1.97286126273547,
+  "clipped_samples": 0,
+  "sha256": "16b32b5d3ad7bb700a7bbfb20acf2f6a106507add305e1de230a357607bb5fcf",
+  "music_original": true,
+  "music_seed": "No randomness; deterministic fixed notes at90BPM",
+  "music_duck_db": "full mute during cues",
+  "cues": [
+    {
+      "stem": "preparation",
+      "start": 3.3,
+      "end": 4.25,
+      "file": "assets/human-preparation-inhale.wav",
+      "gain": 0.42,
+      "description": "Recorded human preparatory inhale"
+    },
+    {
+      "stem": "preparation",
+      "start": 4.2,
+      "end": 5.15,
+      "file": "assets/human-preparation-inhale.wav",
+      "gain": 0.42,
+      "description": "Recorded human preparatory inhale"
+    },
+    {
+      "stem": "preparation",
+      "start": 17.7,
+      "end": 18.65,
+      "file": "assets/human-preparation-inhale.wav",
+      "gain": 0.42,
+      "description": "Recorded human preparatory inhale"
+    },
+    {
+      "stem": "preparation",
+      "start": 18.5,
+      "end": 19.45,
+      "file": "assets/human-preparation-inhale.wav",
+      "gain": 0.42,
+      "description": "Recorded human preparatory inhale"
+    },
+    {
+      "stem": "suppression",
+      "start": 8.2,
+      "end": 8.7,
+      "file": "assets/suppressed-sniff.wav",
+      "gain": 0.5,
+      "description": "Recorded short snort/sniff suppression"
+    },
+    {
+      "stem": "suppression",
+      "start": 9.0,
+      "end": 9.5,
+      "file": "assets/suppressed-sniff.wav",
+      "gain": 0.5,
+      "description": "Recorded short snort/sniff suppression"
+    },
+    {
+      "stem": "sneeze",
+      "start": 12.3,
+      "end": 13.8,
+      "file": "assets/sneeze-B.wav",
+      "gain": 0.85,
+      "description": "Recorded human sneeze; dominant burst at start+0.90s"
+    },
+    {
+      "stem": "sneeze",
+      "start": 21.3,
+      "end": 22.8,
+      "file": "assets/sneeze-B.wav",
+      "gain": 0.85,
+      "description": "Recorded human sneeze; dominant burst at start+0.90s"
+    },
+    {
+      "stem": "bucket",
+      "start": 13.75,
+      "end": 13.9058125,
+      "file": "assets/bucket-tin-resonance-candidate.wav",
+      "gain": 0.18,
+      "description": "Quiet tin resonance after sneeze vocal body"
+    },
+    {
+      "stem": "relief",
+      "start": 30.15,
+      "end": 31.65,
+      "file": "assets/relief-human-release.wav",
+      "gain": 0.38,
+      "description": "Recorded human vocal release, originally labeled yawn; Sigh classifier-leading"
+    },
+    {
+      "stem": "cards",
+      "start": 31.0,
+      "end": 32.5,
+      "file": "assets/cards-shuffle-1p5s.wav",
+      "gain": 0.48,
+      "description": "Recorded card shuffle used as scattering material"
+    },
+    {
+      "stem": "cards",
+      "start": 31.12,
+      "end": 31.809125,
+      "file": "assets/card-place.wav",
+      "gain": 0.13,
+      "description": "Quiet actual card contact"
+    },
+    {
+      "stem": "cards",
+      "start": 31.55,
+      "end": 32.239125,
+      "file": "assets/card-place.wav",
+      "gain": 0.1,
+      "description": "Quiet actual card contact"
+    },
+    {
+      "stem": "cards",
+      "start": 31.95,
+      "end": 32.639125,
+      "file": "assets/card-place.wav",
+      "gain": 0.08,
+      "description": "Quiet actual card contact"
+    },
+    {
+      "stem": "cards",
+      "start": 32.3,
+      "end": 32.989124999999994,
+      "file": "assets/card-place.wav",
+      "gain": 0.06,
+      "description": "Quiet actual card contact"
+    },
+    {
+      "stem": "contacts",
+      "start": 6.3,
+      "end": 6.571395833333333,
+      "file": "assets/footstep_wood_000.wav",
+      "gain": 0.13,
+      "description": "Quiet recorded wood foot landing"
+    },
+    {
+      "stem": "contacts",
+      "start": 28.5,
+      "end": 28.771395833333333,
+      "file": "assets/footstep_wood_000.wav",
+      "gain": 0.13,
+      "description": "Quiet recorded wood foot landing"
+    },
+    {
+      "stem": "contacts",
+      "start": 15.5,
+      "end": 15.762708333333332,
+      "file": "assets/impactWood_light_001.wav",
+      "gain": 0.12,
+      "description": "Bucket landing wood contact"
+    },
+    {
+      "stem": "contacts",
+      "start": 15.53,
+      "end": 15.685812499999999,
+      "file": "assets/impactTin_medium_000.wav",
+      "gain": 0.06,
+      "description": "Bucket landing quiet tin contact after wood"
+    }
+  ],
+  "windows": [
+    {
+      "file": "clip-01.wav",
+      "start": 3.1,
+      "end": 5.35,
+      "purpose": "preparation"
+    },
+    {
+      "file": "clip-02.wav",
+      "start": 8.0,
+      "end": 9.8,
+      "purpose": "suppression"
+    },
+    {
+      "file": "clip-03.wav",
+      "start": 12.1,
+      "end": 14.8,
+      "purpose": "bucket sneeze"
+    },
+    {
+      "file": "clip-04.wav",
+      "start": 15.3,
+      "end": 16.5,
+      "purpose": "bucket floor"
+    },
+    {
+      "file": "clip-05.wav",
+      "start": 17.5,
+      "end": 19.7,
+      "purpose": "renewed preparation"
+    },
+    {
+      "file": "clip-06.wav",
+      "start": 21.1,
+      "end": 23.5,
+      "purpose": "turnaway sneeze"
+    },
+    {
+      "file": "clip-07.wav",
+      "start": 30.0,
+      "end": 31.65,
+      "purpose": "relief with early cards"
+    },
+    {
+      "file": "clip-08.wav",
+      "start": 31.3,
+      "end": 32.9,
+      "purpose": "cards after relief"
+    },
+    {
+      "file": "clip-09.wav",
+      "start": 6.1,
+      "end": 7.2,
+      "purpose": "wood landing"
+    },
+    {
+      "file": "clip-10.wav",
+      "start": 28.3,
+      "end": 29.4,
+      "purpose": "wood landing"
+    }
+  ],
+  "human_listened": false
+}

@@ -1,0 +1,6 @@
+{
+  "scope": "sampled right torso boundary vs tabletop straight edge band, 240Hz time,101 samples/cubic; excludes legs and rounded corners",
+  "left": 680,
+  "minXGap": 2.6365600000000313,
+  "collisionSamples": 0
+}

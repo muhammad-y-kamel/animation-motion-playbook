@@ -1,0 +1,13 @@
+{
+  "samples": 9600,
+  "ground": [],
+  "eyeOcclusion": [],
+  "discontinuities": [],
+  "bucketGround": [],
+  "counts": {
+    "ground": 0,
+    "eyeOcclusion": 0,
+    "discontinuities": 0,
+    "bucketGround": 0
+  }
+}

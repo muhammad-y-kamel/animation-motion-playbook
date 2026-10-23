@@ -1,0 +1,322 @@
+[
+  {
+    "file": "EP031-v4-final-mix.wav",
+    "bytes": 3840044,
+    "sha256": "16b32b5d3ad7bb700a7bbfb20acf2f6a106507add305e1de230a357607bb5fcf"
+  },
+  {
+    "file": "README.md",
+    "bytes": 4571,
+    "sha256": "f3ea3d27c4c7e7a671b114404cf7b248d06e3990f159b7b935bea30e8ea76460"
+  },
+  {
+    "file": "assets/bucket-tin-resonance-candidate.wav",
+    "bytes": 15036,
+    "sha256": "fc4786cafd6ae85d56408590577ec54b417a9e1b480b1899d4ce20a980b27f6d"
+  },
+  {
+    "file": "assets/card-place.wav",
+    "bytes": 66200,
+    "sha256": "08e37e9084dbcd68788c112f58cfb77e981814cc5859fa43553ab38382ec0543"
+  },
+  {
+    "file": "assets/cards-shuffle-1p5s.wav",
+    "bytes": 144044,
+    "sha256": "178b05eeafcfb0595a3575f0ad355b9eadd991477379467ebedee1a8b9606368"
+  },
+  {
+    "file": "assets/footstep_wood_000.wav",
+    "bytes": 26132,
+    "sha256": "b358b54e9cf959e057bfb00ac86cbd9fa1792bae6f152ccb35880ff71cfe8b18"
+  },
+  {
+    "file": "assets/human-preparation-inhale.wav",
+    "bytes": 91244,
+    "sha256": "c80a6fb1ff3cf6524f9300b86a332a82c46bb326baab770f023e344f5a2a3800"
+  },
+  {
+    "file": "assets/impactTin_medium_000.wav",
+    "bytes": 15036,
+    "sha256": "fdcae36656cbb1e92aeda4e17fe80a8e663fdc22124b94abae6cc51c53f01175"
+  },
+  {
+    "file": "assets/impactWood_light_001.wav",
+    "bytes": 25298,
+    "sha256": "65fbe7a633b5f8342f1a1ac4e2df0b548204ed456144fd3f2b5326d2a5d2617d"
+  },
+  {
+    "file": "assets/relief-human-release.wav",
+    "bytes": 144044,
+    "sha256": "9c7343b350072f9f34377e6a174b4302fe620470ad0c9e11f03a5b58837d662b"
+  },
+  {
+    "file": "assets/sneeze-A.wav",
+    "bytes": 144044,
+    "sha256": "abbc9c28ff95636028a270a4e52c0b5c61fb18da51c709cbdbce18c29b48a0bb"
+  },
+  {
+    "file": "assets/sneeze-B-light-cartoon.wav",
+    "bytes": 136022,
+    "sha256": "c5662d323e2a7b9b7ff1fc4f68318025ca690d7a3529c09de30221733f65eb34"
+  },
+  {
+    "file": "assets/sneeze-B.wav",
+    "bytes": 144044,
+    "sha256": "771ffc1e97ed52c58c2e4e5b3a4cebf8628adf6f81783095ff2f9370035c4ca7"
+  },
+  {
+    "file": "assets/sneeze-original-full.wav",
+    "bytes": 378586,
+    "sha256": "036d772b9c58aeaaeb6f9a8e2d6a657533f7bfa55682c8411995532ac7988fd6"
+  },
+  {
+    "file": "assets/suppressed-sniff.wav",
+    "bytes": 48044,
+    "sha256": "328a3fa97270b6298f1d4d09ec5a071fbf365fe9843fe0c34cbaf7cc152aa171"
+  },
+  {
+    "file": "build_final.py",
+    "bytes": 5021,
+    "sha256": "e9ca03913f2ef80d171a00053c914e2ee4d5e8669cdc9b88edb706cecc6a7a0e"
+  },
+  {
+    "file": "classify_final_mix.py",
+    "bytes": 1421,
+    "sha256": "e86fc695693466a6683feb10e979029c1811212d7f90f1aefc7ec35aa4ad0b2c"
+  },
+  {
+    "file": "cue-windows/clip-01.wav",
+    "bytes": 216044,
+    "sha256": "e652588721217fb93f100a7294539e0f899bf127b5c59ab20914720d49f4aa24"
+  },
+  {
+    "file": "cue-windows/clip-02.wav",
+    "bytes": 172844,
+    "sha256": "e7c8d5f529bb3426c496dff92633d45b6ae48f36d19c46e5dc2030d33bc72228"
+  },
+  {
+    "file": "cue-windows/clip-03.wav",
+    "bytes": 259244,
+    "sha256": "b215a98dd72cae9760058dae07776f8812954bf3473b30ee09f4cd8b83e078e0"
+  },
+  {
+    "file": "cue-windows/clip-04.wav",
+    "bytes": 115244,
+    "sha256": "1bf5bd7fadc991764db437dbd94d076816efbd5201c283e1d9d0c8d8b8e0cda3"
+  },
+  {
+    "file": "cue-windows/clip-05.wav",
+    "bytes": 211244,
+    "sha256": "f14cb0690c7190ffbcb038b48e3c3b1742a078ca4dcf908859c3d8e0f11a5773"
+  },
+  {
+    "file": "cue-windows/clip-06.wav",
+    "bytes": 230444,
+    "sha256": "29554d4af01d4087db7afbc704f4fcddedbf9ca383239119aeb605553a9eadd5"
+  },
+  {
+    "file": "cue-windows/clip-07.wav",
+    "bytes": 158444,
+    "sha256": "789e9da0d4181238912fb3d7b42b205471c362760747d5597c844fba6dac9e76"
+  },
+  {
+    "file": "cue-windows/clip-08.wav",
+    "bytes": 153644,
+    "sha256": "58a1f6bd9c24011bf293d8157c6bf893aba29d62aa7238d5004f67f3ed7c303e"
+  },
+  {
+    "file": "cue-windows/clip-09.wav",
+    "bytes": 105644,
+    "sha256": "d4619a0ac3af35de21e5c460bff1383ce61f35fea4504067a113a7d8ac230d05"
+  },
+  {
+    "file": "cue-windows/clip-10.wav",
+    "bytes": 105644,
+    "sha256": "d4619a0ac3af35de21e5c460bff1383ce61f35fea4504067a113a7d8ac230d05"
+  },
+  {
+    "file": "licenses/Kenney-Casino-License.txt",
+    "bytes": 487,
+    "sha256": "3d9c53acb6e236d760da14030f54bc53e1d8c2599f78470c36b96fddcde09221"
+  },
+  {
+    "file": "licenses/Kenney-Casino-source.html",
+    "bytes": 18008,
+    "sha256": "5eb2db971a2409f29bcd08b43b49676f213e14a6b537df6b21d35aca0ff84bbd"
+  },
+  {
+    "file": "licenses/Kenney-Impact-License.txt",
+    "bytes": 608,
+    "sha256": "b49aa9c56b04528b95913de13e506a0f7c5e807b9925db9bfef86af1f91120db"
+  },
+  {
+    "file": "licenses/Owlish-CC0-source.html",
+    "bytes": 41340,
+    "sha256": "8fef591640d351fa07fc4b292dad9584ba2cfd22c769b061e6a91e41d1a8bfdf"
+  },
+  {
+    "file": "licenses/Sapereaudio-CC0-source.html",
+    "bytes": 36603,
+    "sha256": "3c36cc8bbee3e41de5ae6945434438b13ebbf955a686b5d80cd0bf0d6f61cb18"
+  },
+  {
+    "file": "licenses/additional-derivative-manifest.json",
+    "bytes": 1129,
+    "sha256": "fa4c4e46d85ff3c10fdf2e17d147b67744a6246cc26d8509c4e514d3419de9f5"
+  },
+  {
+    "file": "licenses/archive-provenance.json",
+    "bytes": 1047,
+    "sha256": "dd17351f21d2df943216548e1909b3b9b369f9bdfb41df6976119a2df5e7cb4d"
+  },
+  {
+    "file": "licenses/derivative-manifest.json",
+    "bytes": 2321,
+    "sha256": "e7e299520cbd66b5c157ebbb02cf6ed05da55748ccd609d03478568ec9f02174"
+  },
+  {
+    "file": "licenses/jrssandoval-CC0-source.html",
+    "bytes": 42178,
+    "sha256": "dbbfab82782b0b265230ec76e5961dc866a16fc94e4c0bfedabdbb1058ed4213"
+  },
+  {
+    "file": "licenses/original-source-manifest.json",
+    "bytes": 1260,
+    "sha256": "3c071d925ac94c8c0015d15a930da54ef638fc58274e153ae9517491bb988073"
+  },
+  {
+    "file": "licenses/otherthings-CC0-source.html",
+    "bytes": 42791,
+    "sha256": "5f395a4bb9c02389739b11694a8846b0c0b2e6d0c59e6f9c13b6769477a7d548"
+  },
+  {
+    "file": "reports/build-manifest.json",
+    "bytes": 5581,
+    "sha256": "28f32d50af646cbaca1231d5da3918420c9a9463bbbbff17c39884b53c233879"
+  },
+  {
+    "file": "reports/classifier.log",
+    "bytes": 4837,
+    "sha256": "54680bc6d7e5f2bef38acd3a4c4756006f0b00651fc2546a9f974a2af8869d24"
+  },
+  {
+    "file": "reports/final-mix-semantic-results.json",
+    "bytes": 508946,
+    "sha256": "bae292eee257e40ce31a658358e900ac715b42387dd981c9c9f4d95e9975ba69"
+  },
+  {
+    "file": "reports/loudness-final.log",
+    "bytes": 1211,
+    "sha256": "bd9b9e1564d61b8f95e2016b807a7d2e792c309a9f9d3840006326806c58dbe6"
+  },
+  {
+    "file": "reports/loudness.log",
+    "bytes": 1157,
+    "sha256": "f465b163846ade3d06d24ff5e720a9b5c13c98dd9e38a45fdeddc43cf307bc97"
+  },
+  {
+    "file": "reports/music-isolation-QA.json",
+    "bytes": 856,
+    "sha256": "9c9accedc285f7a42f3b0c9580b855a2ec63efd495c685b035b8799c5b256f8f"
+  },
+  {
+    "file": "reports/reproducibility.json",
+    "bytes": 193,
+    "sha256": "e5a6bf2f3eb8e864420afe26fe820ae23fc826966374369026a35181a48f6d27"
+  },
+  {
+    "file": "reports/semantic-summary.json",
+    "bytes": 5574,
+    "sha256": "9c411007f9144fecfe8225aac09397978cd36b333efb5db1200c590dc7de06d5"
+  },
+  {
+    "file": "selected-originals/card-place-1.ogg",
+    "bytes": 9624,
+    "sha256": "d8f26c33a665dcbdcc6f632f6050bc9dd548feb0d4942d4547615926d3926810"
+  },
+  {
+    "file": "selected-originals/card-shuffle.ogg",
+    "bytes": 30002,
+    "sha256": "96c84883a30845ede723a4cf2e8369e9837e7dd4e0d4eb0212b0a7ed21b0f544"
+  },
+  {
+    "file": "selected-originals/footstep_wood_000.ogg",
+    "bytes": 5949,
+    "sha256": "5f1c252942a220d658121bd9417448cd19649ded9fff2ff15f6e50899373ce8e"
+  },
+  {
+    "file": "selected-originals/impactTin_medium_000.ogg",
+    "bytes": 6509,
+    "sha256": "f4bbee66ca191ec744b84fc07ac9ed2a6fda955d51cfed8360f12b62815d3cbd"
+  },
+  {
+    "file": "selected-originals/impactWood_light_001.ogg",
+    "bytes": 6373,
+    "sha256": "4b76bf3ccc8e60d19188f3165b778a7817786faa6887c55d9049bcbeef3b425f"
+  },
+  {
+    "file": "selected-originals/inhale-otherthings.mp3",
+    "bytes": 25201,
+    "sha256": "fef5c968e47ccc5f169267444452c579152b241011a454ed0bb3be019122b764"
+  },
+  {
+    "file": "selected-originals/sneezing-sapereaudio-preview.mp3",
+    "bytes": 69801,
+    "sha256": "e49cb015b57df4cba4d35c59738d126194cde3967f9b5964bbd7175d8987f6e0"
+  },
+  {
+    "file": "selected-originals/sniff-jrssandoval.mp3",
+    "bytes": 83904,
+    "sha256": "052259a85674c765b86f5479bccb7de98b427e582aaf4f26455eb0eaed4fe816"
+  },
+  {
+    "file": "selected-originals/yawn2.wav",
+    "bytes": 690880,
+    "sha256": "db372c37d195d169b85408eafaf5c2b544e85341db6a249e421c742788881cd1"
+  },
+  {
+    "file": "stems/bucket.wav",
+    "bytes": 3840044,
+    "sha256": "e9101034f12cb7048149a61da02ee90ed98ceee7953f799deb93abf25b335129"
+  },
+  {
+    "file": "stems/cards.wav",
+    "bytes": 3840044,
+    "sha256": "f5d333ee17eb79775fdf3fa2b00419b63aae7ef853d4325c8a8899fe0ac0814e"
+  },
+  {
+    "file": "stems/contacts.wav",
+    "bytes": 3840044,
+    "sha256": "d2cdaca4e506a11bd1b923c7e1b71ab62e3cb2204786258f8f6de2c9a02d8a2c"
+  },
+  {
+    "file": "stems/foley.wav",
+    "bytes": 3840044,
+    "sha256": "4475cd81be34e89d3f9aa103d1f24afa47e2c7ac869367f30623e4c93595cbdd"
+  },
+  {
+    "file": "stems/music.wav",
+    "bytes": 3840044,
+    "sha256": "97b76d03796a638d2ca4613bc85b6a376f626be990bf11d5832a34a800330698"
+  },
+  {
+    "file": "stems/preparation.wav",
+    "bytes": 3840044,
+    "sha256": "d6fb901d74c0224e78d64557f64b41902396565e699ae98652a4ca4f79df6a7b"
+  },
+  {
+    "file": "stems/relief.wav",
+    "bytes": 3840044,
+    "sha256": "aff7788f9780c695a08f585d9e4cbad291787e554894d0bd49e1a4ce720770b4"
+  },
+  {
+    "file": "stems/sneeze.wav",
+    "bytes": 3840044,
+    "sha256": "bf281d056b7b35ba906d9f2ada8a8dfaabee915b41be761d22f1e03b63752d7e"
+  },
+  {
+    "file": "stems/suppression.wav",
+    "bytes": 3840044,
+    "sha256": "d8ff4d62864b9d5505b5cd970a6680ad90d49698d27b5790ce2b863bef63c234"
+  }
+]

@@ -1,0 +1,259 @@
+{
+  "model": "MIT/ast-finetuned-audioset-10-10-0.4593",
+  "commit": "f826b80d28226b62986cc218e5cec390b1096902",
+  "exact_master_sha256": "16b32b5d3ad7bb700a7bbfb20acf2f6a106507add305e1de230a357607bb5fcf",
+  "results": [
+    {
+      "file": "clip-01.wav",
+      "top5": [
+        {
+          "label": "Gasp",
+          "score": 0.6366426944732666
+        },
+        {
+          "label": "Sigh",
+          "score": 0.15775179862976074
+        },
+        {
+          "label": "Snort",
+          "score": 0.10474839061498642
+        },
+        {
+          "label": "Breathing",
+          "score": 0.03119279444217682
+        },
+        {
+          "label": "Sneeze",
+          "score": 0.013719041831791401
+        }
+      ]
+    },
+    {
+      "file": "clip-02.wav",
+      "top5": [
+        {
+          "label": "Snort",
+          "score": 0.33650121092796326
+        },
+        {
+          "label": "Gasp",
+          "score": 0.20035864412784576
+        },
+        {
+          "label": "Breathing",
+          "score": 0.06194021552801132
+        },
+        {
+          "label": "Sneeze",
+          "score": 0.02556326612830162
+        },
+        {
+          "label": "Rub",
+          "score": 0.012273038737475872
+        }
+      ]
+    },
+    {
+      "file": "clip-03.wav",
+      "top5": [
+        {
+          "label": "Sneeze",
+          "score": 0.8581488132476807
+        },
+        {
+          "label": "Sigh",
+          "score": 0.05031397193670273
+        },
+        {
+          "label": "Gasp",
+          "score": 0.02917533554136753
+        },
+        {
+          "label": "Speech",
+          "score": 0.014690817333757877
+        },
+        {
+          "label": "Throat clearing",
+          "score": 0.006737594958394766
+        }
+      ]
+    },
+    {
+      "file": "clip-04.wav",
+      "top5": [
+        {
+          "label": "Plop",
+          "score": 0.42786523699760437
+        },
+        {
+          "label": "Sound effect",
+          "score": 0.09582918882369995
+        },
+        {
+          "label": "Music",
+          "score": 0.026116399094462395
+        },
+        {
+          "label": "Speech",
+          "score": 0.02584722265601158
+        },
+        {
+          "label": "Knock",
+          "score": 0.016755549237132072
+        }
+      ]
+    },
+    {
+      "file": "clip-05.wav",
+      "top5": [
+        {
+          "label": "Gasp",
+          "score": 0.6179739236831665
+        },
+        {
+          "label": "Sigh",
+          "score": 0.18866103887557983
+        },
+        {
+          "label": "Snort",
+          "score": 0.11947164684534073
+        },
+        {
+          "label": "Breathing",
+          "score": 0.03841150552034378
+        },
+        {
+          "label": "Sound effect",
+          "score": 0.012883998453617096
+        }
+      ]
+    },
+    {
+      "file": "clip-06.wav",
+      "top5": [
+        {
+          "label": "Sneeze",
+          "score": 0.9197578430175781
+        },
+        {
+          "label": "Sigh",
+          "score": 0.029498424381017685
+        },
+        {
+          "label": "Gasp",
+          "score": 0.013263948261737823
+        },
+        {
+          "label": "Speech",
+          "score": 0.01099296472966671
+        },
+        {
+          "label": "Throat clearing",
+          "score": 0.005090748891234398
+        }
+      ]
+    },
+    {
+      "file": "clip-07.wav",
+      "top5": [
+        {
+          "label": "Sigh",
+          "score": 0.2940247356891632
+        },
+        {
+          "label": "Gasp",
+          "score": 0.17507730424404144
+        },
+        {
+          "label": "Speech",
+          "score": 0.03832666575908661
+        },
+        {
+          "label": "Snort",
+          "score": 0.03712337836623192
+        },
+        {
+          "label": "Inside, small room",
+          "score": 0.016269797459244728
+        }
+      ]
+    },
+    {
+      "file": "clip-08.wav",
+      "top5": [
+        {
+          "label": "Shuffling cards",
+          "score": 0.10940641164779663
+        },
+        {
+          "label": "Sound effect",
+          "score": 0.08229154348373413
+        },
+        {
+          "label": "Scrape",
+          "score": 0.065046027302742
+        },
+        {
+          "label": "Single-lens reflex camera",
+          "score": 0.03459455445408821
+        },
+        {
+          "label": "Tearing",
+          "score": 0.02981373481452465
+        }
+      ]
+    },
+    {
+      "file": "clip-09.wav",
+      "top5": [
+        {
+          "label": "Knock",
+          "score": 0.3847893476486206
+        },
+        {
+          "label": "Silence",
+          "score": 0.030629459768533707
+        },
+        {
+          "label": "Speech",
+          "score": 0.023964103311300278
+        },
+        {
+          "label": "Sound effect",
+          "score": 0.021964238956570625
+        },
+        {
+          "label": "Tap",
+          "score": 0.017090067267417908
+        }
+      ]
+    },
+    {
+      "file": "clip-10.wav",
+      "top5": [
+        {
+          "label": "Knock",
+          "score": 0.3847893476486206
+        },
+        {
+          "label": "Silence",
+          "score": 0.030629459768533707
+        },
+        {
+          "label": "Speech",
+          "score": 0.023964103311300278
+        },
+        {
+          "label": "Sound effect",
+          "score": 0.021964238956570625
+        },
+        {
+          "label": "Tap",
+          "score": 0.017090067267417908
+        }
+      ]
+    }
+  ],
+  "human_listened": false,
+  "interpretation": "Sneeze is strongly classifier-supported; breath/sigh/cards weaker or ambiguous. No claim of audience comprehension or visual sync."
+}

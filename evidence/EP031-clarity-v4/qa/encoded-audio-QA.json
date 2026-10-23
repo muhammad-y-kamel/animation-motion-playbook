@@ -1,0 +1,482 @@
+{
+  "video_file": "EP031-The-Held-Sneeze-v4.mp4",
+  "video_sha256": "b2b4cdd7f1799047150c847be70053da6bf4f8b03eeb4c3991ee713c5fd8a419",
+  "unchanged_while_tested": true,
+  "master_sha256": "16b32b5d3ad7bb700a7bbfb20acf2f6a106507add305e1de230a357607bb5fcf",
+  "full_decode_returncode": 0,
+  "full_decode_error_log": "",
+  "video": {
+    "codec": "h264",
+    "width": 1080,
+    "height": 1920,
+    "fps": "60/1",
+    "duration": "40.000000",
+    "read_frames": "2400",
+    "read_packets": "2400"
+  },
+  "audio": {
+    "codec": "aac",
+    "rate": "48000",
+    "channels": 1,
+    "declared_duration": "40.000000",
+    "read_frames": "1875",
+    "read_packets": "1876",
+    "decoded_samples": 1920000,
+    "decoded_duration": 40.0,
+    "master_samples": 1920000,
+    "padding_samples": 0,
+    "nonfinite": 0,
+    "peak_dbfs": -1.8150792075666984,
+    "samples_at_or_above_full_scale": 0,
+    "global_zero_lag_pearson": 0.9999552652553694,
+    "global_rmse": 0.00037343891913810257
+  },
+  "cue_correlations": [
+    {
+      "purpose": "preparation",
+      "start": 3.1,
+      "end": 5.35,
+      "zero_lag_pearson": 0.9999848485933683,
+      "best_lag_samples": 0,
+      "best_lag_seconds": 0.0,
+      "rmse": 0.0003523674316098562,
+      "decoded_peak_dbfs": -8.104029847910677
+    },
+    {
+      "purpose": "suppression",
+      "start": 8.0,
+      "end": 9.8,
+      "zero_lag_pearson": 0.9998471539084065,
+      "best_lag_samples": 0,
+      "best_lag_seconds": 0.0,
+      "rmse": 0.0007307480507215904,
+      "decoded_peak_dbfs": -6.567001272703785
+    },
+    {
+      "purpose": "bucket sneeze",
+      "start": 12.1,
+      "end": 14.8,
+      "zero_lag_pearson": 0.9999524253910425,
+      "best_lag_samples": 0,
+      "best_lag_seconds": 0.0,
+      "rmse": 0.0007991621154736512,
+      "decoded_peak_dbfs": -1.898019820919462
+    },
+    {
+      "purpose": "bucket floor",
+      "start": 15.3,
+      "end": 16.5,
+      "zero_lag_pearson": 0.9999520353086621,
+      "best_lag_samples": 0,
+      "best_lag_seconds": 0.0,
+      "rmse": 5.390390559070817e-05,
+      "decoded_peak_dbfs": -17.440685475703262
+    },
+    {
+      "purpose": "renewed preparation",
+      "start": 17.5,
+      "end": 19.7,
+      "zero_lag_pearson": 0.999985302327944,
+      "best_lag_samples": 0,
+      "best_lag_seconds": 0.0,
+      "rmse": 0.00035078311849004733,
+      "decoded_peak_dbfs": -8.11091128086045
+    },
+    {
+      "purpose": "turnaway sneeze",
+      "start": 21.1,
+      "end": 23.5,
+      "zero_lag_pearson": 0.9999489812753751,
+      "best_lag_samples": 0,
+      "best_lag_seconds": 0.0,
+      "rmse": 0.00089589579818152,
+      "decoded_peak_dbfs": -1.8150792075666984
+    },
+    {
+      "purpose": "relief with early cards",
+      "start": 30.0,
+      "end": 31.65,
+      "zero_lag_pearson": 0.9999537559463241,
+      "best_lag_samples": 0,
+      "best_lag_seconds": 0.0,
+      "rmse": 0.00039000997767431344,
+      "decoded_peak_dbfs": -7.992368387440665
+    },
+    {
+      "purpose": "cards after relief",
+      "start": 31.3,
+      "end": 32.9,
+      "zero_lag_pearson": 0.9997877817587684,
+      "best_lag_samples": 0,
+      "best_lag_seconds": 0.0,
+      "rmse": 0.0003319932729336573,
+      "decoded_peak_dbfs": -14.65270916687808
+    },
+    {
+      "purpose": "wood landing",
+      "start": 6.1,
+      "end": 7.2,
+      "zero_lag_pearson": 0.9999809193847917,
+      "best_lag_samples": 0,
+      "best_lag_seconds": 0.0,
+      "rmse": 5.018576558733397e-05,
+      "decoded_peak_dbfs": -16.749081140193077
+    },
+    {
+      "purpose": "wood landing",
+      "start": 28.3,
+      "end": 29.4,
+      "zero_lag_pearson": 0.9999982465932012,
+      "best_lag_samples": 0,
+      "best_lag_seconds": 0.0,
+      "rmse": 1.3234881758891084e-05,
+      "decoded_peak_dbfs": -16.70660414971894
+    }
+  ],
+  "sneeze_onsets": [
+    {
+      "target_seconds": 13.2,
+      "master_threshold_onset": 13.2,
+      "decoded_threshold_onset": 13.2,
+      "decoded_vs_master_delta_seconds": 0.0,
+      "decoded_vs_target_delta_seconds": 0.0,
+      "method": "First10ms block RMS>.08 in target+-0.2s; acoustic threshold, not human perception",
+      "decoded_blocks": [
+        [
+          13.0,
+          0.0
+        ],
+        [
+          13.01,
+          0.0
+        ],
+        [
+          13.02,
+          0.0
+        ],
+        [
+          13.03,
+          1.935412704317265e-05
+        ],
+        [
+          13.04,
+          0.000709848292506261
+        ],
+        [
+          13.05,
+          0.0008567386562274578
+        ],
+        [
+          13.06,
+          0.0034836229758793643
+        ],
+        [
+          13.07,
+          0.002725595815309578
+        ],
+        [
+          13.08,
+          0.0006803671287419643
+        ],
+        [
+          13.09,
+          0.0003073818427195553
+        ],
+        [
+          13.1,
+          0.005533511486338031
+        ],
+        [
+          13.11,
+          0.013702854539585236
+        ],
+        [
+          13.12,
+          0.008635678099596648
+        ],
+        [
+          13.13,
+          0.009442730240516797
+        ],
+        [
+          13.14,
+          0.0050932780294048186
+        ],
+        [
+          13.15,
+          0.007984014837913321
+        ],
+        [
+          13.16,
+          0.0058705954726986625
+        ],
+        [
+          13.17,
+          0.0071872506017968485
+        ],
+        [
+          13.18,
+          0.01728778149478173
+        ],
+        [
+          13.19,
+          0.031432359839665
+        ],
+        [
+          13.2,
+          0.09076972938291976
+        ],
+        [
+          13.21,
+          0.2436222074392933
+        ],
+        [
+          13.22,
+          0.4315623380960987
+        ],
+        [
+          13.23,
+          0.5620303695397426
+        ],
+        [
+          13.24,
+          0.5460833325263665
+        ],
+        [
+          13.25,
+          0.4298116982834968
+        ],
+        [
+          13.26,
+          0.333031250212907
+        ],
+        [
+          13.27,
+          0.24922944709830583
+        ],
+        [
+          13.28,
+          0.19518283608360473
+        ],
+        [
+          13.29,
+          0.1445514481303846
+        ],
+        [
+          13.3,
+          0.12283183946097703
+        ],
+        [
+          13.31,
+          0.11524687781836893
+        ],
+        [
+          13.32,
+          0.0842917810665514
+        ],
+        [
+          13.33,
+          0.08374306901166859
+        ],
+        [
+          13.34,
+          0.09902195108482283
+        ],
+        [
+          13.35,
+          0.07225646894869835
+        ],
+        [
+          13.36,
+          0.06409573617645149
+        ],
+        [
+          13.37,
+          0.05920956702885225
+        ],
+        [
+          13.38,
+          0.05646412175698392
+        ],
+        [
+          13.39,
+          0.06128417657870968
+        ]
+      ]
+    },
+    {
+      "target_seconds": 22.2,
+      "master_threshold_onset": 22.2,
+      "decoded_threshold_onset": 22.2,
+      "decoded_vs_master_delta_seconds": 0.0,
+      "decoded_vs_target_delta_seconds": 0.0,
+      "method": "First10ms block RMS>.08 in target+-0.2s; acoustic threshold, not human perception",
+      "decoded_blocks": [
+        [
+          22.0,
+          0.0
+        ],
+        [
+          22.01,
+          0.0
+        ],
+        [
+          22.02,
+          0.0
+        ],
+        [
+          22.03,
+          1.935412704317265e-05
+        ],
+        [
+          22.04,
+          0.0007093717956866251
+        ],
+        [
+          22.05,
+          0.0008529839870040106
+        ],
+        [
+          22.06,
+          0.003497969675329487
+        ],
+        [
+          22.07,
+          0.0027859467537352284
+        ],
+        [
+          22.08,
+          0.0006735435647065167
+        ],
+        [
+          22.09,
+          0.00030571822187113086
+        ],
+        [
+          22.1,
+          0.005516944306377178
+        ],
+        [
+          22.11,
+          0.013723769597419347
+        ],
+        [
+          22.12,
+          0.008560472726349123
+        ],
+        [
+          22.13,
+          0.009429871071225953
+        ],
+        [
+          22.14,
+          0.005046175255262406
+        ],
+        [
+          22.15,
+          0.00804427329253209
+        ],
+        [
+          22.16,
+          0.005892280227179034
+        ],
+        [
+          22.17,
+          0.007172127168635313
+        ],
+        [
+          22.18,
+          0.017307665575041237
+        ],
+        [
+          22.19,
+          0.03141577688047101
+        ],
+        [
+          22.2,
+          0.09094752669972642
+        ],
+        [
+          22.21,
+          0.2440019469170006
+        ],
+        [
+          22.22,
+          0.430087978975409
+        ],
+        [
+          22.23,
+          0.563124599927475
+        ],
+        [
+          22.24,
+          0.5424817753365184
+        ],
+        [
+          22.25,
+          0.428344208044758
+        ],
+        [
+          22.26,
+          0.33234204137651174
+        ],
+        [
+          22.27,
+          0.2494602874327013
+        ],
+        [
+          22.28,
+          0.19477241303153378
+        ],
+        [
+          22.29,
+          0.1446418294250624
+        ],
+        [
+          22.3,
+          0.12286211838931461
+        ],
+        [
+          22.31,
+          0.11513173989314539
+        ],
+        [
+          22.32,
+          0.08422581320000826
+        ],
+        [
+          22.33,
+          0.08372016992126546
+        ],
+        [
+          22.34,
+          0.09900864683286911
+        ],
+        [
+          22.35,
+          0.07228670839578702
+        ],
+        [
+          22.36,
+          0.06417247772865131
+        ],
+        [
+          22.37,
+          0.05920165589235098
+        ],
+        [
+          22.38,
+          0.056402557235905273
+        ],
+        [
+          22.39,
+          0.06126027122730075
+        ]
+      ]
+    }
+  ],
+  "human_listened": false,
+  "semantic_claim": false,
+  "limitations": "Lossy AAC correlation and acoustic-onset tests establish signal retention/alignment, not audience understanding. Existing finalmix model evidence remains separate.",
+  "technical_pass": true
+}

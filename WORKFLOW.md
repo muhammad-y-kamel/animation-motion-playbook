@@ -15,3 +15,7 @@
 
 ## Status vocabulary
 `observed` → `diagnosing` → `repair_attempted` → `validated_with_limits`; `reopened` when reproduced. Historical imports may use `validated_with_partial_history`. An unverified lead is not a confirmed error entry. Preserve earlier result when superseding with new evidence.
+
+
+## Explicit universal error-capture directive
+For EVERY user-authorized animation or motion-graphics project, log every error noticed by the producer, a delegated agent, an independent reviewer or the user—even when fixed without user intervention. Record symptom, cause, discoveryattribution, each actual attempted solution/result, best tested repair, exact evidence and regressions. Read the cumulative playbook at script/layout/rig/motion/audio/render/review/archive stages. After review, record and repair new errors and re-test; do not silentlyfix. User rejection reopens creative acceptance; numerical correctness is not story comprehension. No future production beyond the user's current scope is authorized by this rule.

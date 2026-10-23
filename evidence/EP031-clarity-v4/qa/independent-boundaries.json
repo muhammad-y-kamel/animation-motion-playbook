@@ -1,0 +1,5 @@
+{
+  "tested": 40,
+  "scope": "hand target and sx/sy/rot continuity only",
+  "issues": []
+}

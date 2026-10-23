@@ -1,0 +1,17 @@
+# Independent motion/geometry review — clarity-v4
+Verdict: **REJECT / repair required**. Reviewed actual episode.js using render.cjs, not old proof. No audio listening claim. Reproducer: `node qa/review-motion.cjs`; freshly rendered 52-frame motion sheet plus full-size selected frames in this directory. Source branch boundaries evaluated at t−1e−7 and t. No source edits.
+
+## Confirmed blockers
+1. **Repeated Moki-hand/Peb-eye occlusion, e.g. 13.8 s.** Moki neutral right hand is (555,1432), radius 31 world px (plus thumb/stroke); Peb left eye center is approximately (576.78,1429.34), distance 21.94. Hands render last, so Moki's fist visibly covers Peb's left eye. Full-size `frame-13.8.png` proves this. The same neutral hand placement recurs through multiple adjacent beats while Peb stands x=600. Move actor spacing/hand target, do not merely hide the hand.
+2. **Peb intersects the intact card castle on descent, 5.85–5.95 s.** At 5.95 right shoe center=(695.765,1216.432), shoe halfwidth=23.76, halfheight=10.8; the card deck at x=699..769,y=1222..1230 is overlapped by the shoe. Body also masks cards as it descends. `frame-5.95.png` visibly shows shoe over middle deck, with no castle response. In a 2D same-table setup this reads as collision, not a clean bypass. Route the jump outside the castle silhouette or establish a distinct depth plane.
+3. **Same-shot discontinuities at 22.2 s and 31 s.** At 22.2, unchanged camera [350,1340,2]: Moki left/right hands jump 138.3/113.4 world px (276.6/226.8 output px), rotation resets .075→0 and sy 1.1→1 before sneeze ramp. At 31, unchanged [850,1220,2.2]: Peb hands each jump 38.6 world px (~84.9 output px), overriding exhale pose abruptly. At 31.3 sy snaps .95→1 (~21 output px at head tip). These are actual boundary resets, not fast easing.
+4. **Castle parts vanish instead of falling, first frame after 31 s.** `castle()` draws three horizontal support cards only under `if(!phase&&row<2&&j<n-1)`. Any nonzero collapse removes all three instantly; only twelve sloped cards animate. Preserve and animate all fifteen objects.
+5. **Bucket penetrates ground during roll, 15.5–17 s.** `b.bottom` remains at FLOOR minus tiny bounce while angle rotates about bottom center. At t=16, bottom-left polygon corner is y=1579.7536 + (−160)*sin(−.285185)=1624.77, **44.77 world px below FLOOR=1580**; curved base extends further. Rotation needs floor contact compensation. (At initial upright state ellipse itself also extends 12 px below the nominal floor.)
+6. **Bucket pickup clips left grip off-screen, 10.4 s.** At t=10.4 left hand target=(22,1560); wide camera maps its center to x=−3.9; nearly entire left fist is clipped. `frame-10.4.png` proves it; pickup grip should be visible if this is intended action proof.
+
+## Composition issues / contextual notes
+- At 13.8 the launched bucket overlaps fixed title text at y≈140–180 (`frame-13.8.png`), reducing prop silhouette clarity.
+- At 21–23.1 the close camera clips much of Peb at the right edge; this is framing, not actor disappearance from source.
+- Ordinary grounded foot bottoms are consistent with support: actor() sets foot center to footY−23*s and ellipse+stroke reach +23*s. This does not rescue the bucket floor failure.
+- Several other hand resets coincide with camera cuts (3,5,17,19,21); not all are automatic blockers because shot transitions can conceal them. The 22.2/31/31.3 failures above do not have that excuse.
+59747ff738ff225494f86f8ac786fd5adfe60d46f1f566bf3f020cadaa0e2f64  /workspace/shared/ep031/clarity-v4/episode.js

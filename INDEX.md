@@ -65,3 +65,8 @@ IDs never change or get reused. New occurrence of same mechanism links the origi
 | [MOKI-EP030-AUDIO-002](entries/MOKI-EP030-AUDIO-002.md) | verification | EP030 | Opening cue creates a negative correlation window | validated_with_limits |
 | [MOKI-EP030-REVIEW-001](entries/MOKI-EP030-REVIEW-001.md) | geometry | EP030 | Independent x and support tracks penetrate raised decks | validated_with_limits |
 | [MOKI-EP030-REVIEW-002](entries/MOKI-EP030-REVIEW-002.md) | geometry | EP030 | Swept clearance finds hand, control station and structural overlaps | validated_with_limits |
+
+
+
+## EP031 clarity rebuild and invalidated earlier pass
+| [MOKI-EP031-CLARITY-V4](entries/MOKI-EP031-CLARITY-V4.md) | creative/audio/geometry/verification | EP031 | User rejection, readable causal acting, recorded semantic sound, failed musicduck and final scoped tests | validated_with_limits |
