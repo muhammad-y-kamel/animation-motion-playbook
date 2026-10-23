@@ -1,0 +1,43 @@
+{
+  "sourceSHA256": "ce96490dcf0818751f9f343f4054fde0fc3560dc5ce4fba4e4a38821b3d5178c",
+  "pass": true,
+  "hashes": {
+    "0": "dedea6f755ca1b6b424615b554a0078144497f567105cbc9cf1cd53a45247730",
+    "31": "53d122c637b83acd8560acc0f8c4e058373a09449953cd857e8c031d8c330787",
+    "79": "f392b3a34175608b86e0eb9ab66760e9c3bfcca1709ff83c440ca250f6a5bc11",
+    "98": "bb8003751101e418e972bd65bcb2b9912d8976dff8f85cf1fb8a30a5e8a46843",
+    "105": "5f6f907ab64c5bf4f79fceed5b32b2b6f016f5654e26e54d2ce851f0966e8a33",
+    "117": "01f4924eaa4745bb55b42c7dcba34fc685e2e9cbdee9dcf1843a9c0ce41eda82",
+    "133": "24e049b93bd9e8825f11e5f83f9f345b1ce0e72d3b7d562d9c017f31c0d63391",
+    "164": "18c00758f21ce68d3c1ba2950e31a7a4ad9bdd759d77994a34db2d4137abcf28",
+    "169": "1dfc931dc272e17bdc2cc658f5ebe415bbdb3eed135b634abd02842b22b6ff6f",
+    "170": "ac49056ec1fb1ff5e3fcaa9d66ac2115dee966fcda88ee26ffe55c9384e4321c",
+    "172": "0f53467c88013b21b74b45fc50e9c75d1e782ec4b4c4951da659a9894662bc4a",
+    "175": "c7803fb53434f4e58c48b7520e5b812b1411a0d696fcaff6105dafa4a47c02f9",
+    "39.5": "ea1d65592a2dc673ef040bffa55a256137ff136758def90293506e909865ca3e",
+    "82.4": "3c8aa9b856d6ca35fbc8cdeb0b6aef7c73d42ae9e67d6fbb864e7f6b68bbb7ac",
+    "116.5": "47fe9621e8b90a8fbdab5e2635acd3c64dc0e95c9c79125a2b31e21864083701",
+    "117.4": "8897648b16749adbc2e6c6f332964ef385bcab73509d58dff2f7e6e846b14179",
+    "180.99": "ba6bae10e79156aa982f51b36dc7dd9f7ac195b3841a06db927f10334da9ee7b"
+  },
+  "priorSourceSHA256": "bda702750937e7911c29d82b45c66dfae45eb472017299f3f0e7ed8cf7e8df1f",
+  "priorPixelIdentity": {
+    "0": true,
+    "31": true,
+    "79": true,
+    "98": true,
+    "105": true,
+    "117": true,
+    "133": true,
+    "164": true,
+    "169": true,
+    "170": true,
+    "172": true,
+    "175": true,
+    "39.5": true,
+    "82.4": true,
+    "116.5": true,
+    "117.4": true,
+    "180.99": true
+  }
+}

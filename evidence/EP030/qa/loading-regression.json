@@ -1,0 +1,16 @@
+{
+  "sourceSHA256": "6b89bb72f71710ba082f2dc5886351b24c728611c2312e7c91325122c08685ce",
+  "scope": "10500 states; support center and painted horizontal shoe/crate clearance, not full mesh or encoded review",
+  "counts": {
+    "dockFootStates": 7020,
+    "carriedBoxStates": 420,
+    "jumpClearanceStates": 240
+  },
+  "maxPen": 0,
+  "maxCarryError": 0,
+  "maxJumpPen": 0,
+  "maxEnvelopePen": 0,
+  "maxStanceGap": 6.821210263296962e-13,
+  "failures": [],
+  "pass": true
+}

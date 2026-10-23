@@ -1,0 +1,9 @@
+{
+  "canonical_git_blob_sha": "188ba566cba2406cc22f99e64a32868bad86473a",
+  "canonical_sha256": "7da102184b01d73eb73674e3d68b84dc852ef1a800e60cb71e28007e339b7a19",
+  "canonical_bytes": 14855,
+  "zip_path": "EP030-Editable-Source.zip",
+  "zip_sha256": "09555f70953dc95f5e1e3a858f7c8991b7ee61dd2396d148e171ed4860d01814",
+  "zip_entry": "USER-SCRIPT-EP030.txt",
+  "extracted_git_blob_matches_canonical": true
+}

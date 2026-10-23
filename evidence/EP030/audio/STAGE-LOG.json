@@ -1,0 +1,53 @@
+[
+  {
+    "stage": "audio planning and synthesis",
+    "read": [
+      "PREFLIGHT",
+      "ANIM-0009",
+      "MOKI-EP029-AUDIO-001",
+      "MOKI-EP029-AUDIO-002"
+    ],
+    "status": "original composition, script-derived cue candidates; geometry audit pending",
+    "scope": "No listening or continuous playback claimed."
+  },
+  {
+    "stage": "audio numerical review",
+    "read": [
+      "PREFLIGHT",
+      "ANIM-0009",
+      "MOKI-EP029-AUDIO-001",
+      "MOKI-EP029-AUDIO-002"
+    ],
+    "source_sha256": "978781346ab81741ff8cd12aacba547d8cb4ac31ada1329198f6819d0da9891a",
+    "results": "181 s, 48k stereo; byte-identical rebuild; no clipping; peak0.505; -22.07LUFS, -5.41dBTP; stem-sum residual <=1LSB; terminal samples zero",
+    "status": "passed numerical only; geometry/mux pending"
+  },
+  {
+    "stage": "source synchronization repair and audio QA",
+    "read": [
+      "PREFLIGHT",
+      "ANIM-0009",
+      "MOKI-EP029-AUDIO-002"
+    ],
+    "source_sha256": "59f0def7c94bc0d99734f8124bfd3baf989768a2e35b59876f392ce6e5eddddf",
+    "audio_sha256": "8a7de2e860c3ffefed82d3715501381b48695c4ba4787aa6ac6fffac6920e6b6",
+    "status": "all numeric source contact/event tests and audio reconstruction pass; final mux pending",
+    "new_error": "MOKI-EP030-AUDIO-001",
+    "limits": "No listening, continuous playback or encoded review claimed."
+  },
+  {
+    "stage": "final AAC/full decode verification",
+    "read": [
+      "PREFLIGHT",
+      "ANIM-0009",
+      "MOKI-EP029-AUDIO-001",
+      "MOKI-EP029-AUDIO-002"
+    ],
+    "source_sha256": "6b89bb72f71710ba082f2dc5886351b24c728611c2312e7c91325122c08685ce",
+    "video_sha256": "891b322c698b801de5610f937bcbb64ae9ced282610c998b2543f2056aa84228",
+    "audio_sha256": "cefbb528f4a28319d28f7e1964a4390748eefbc2510c9d9b77e4e8f2073bb0fa",
+    "result": "PASS: 45 cue windows zero-sample lag; no decoded clipping; full AV decode empty error log; current source audit passes. AAC decoder640 sample padding within standard frame padding; container duration independently checked by producer.",
+    "new_error": "MOKI-EP030-AUDIO-002 test start boundary repaired and validated",
+    "limitations": "No listening, continuous playback or full-resolution visual approval by audio agent."
+  }
+]

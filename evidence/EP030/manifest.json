@@ -1,0 +1,329 @@
+{
+  "scope": "Exact staged text/script evidence; excludes this self-referential manifest",
+  "files": [
+    {
+      "path": "INDEX.md",
+      "size": 7701,
+      "sha256": "0b1f7de64c18cb0ffab23b4e4883f57b1e87cb84facc76f62a7c347ea68e587c",
+      "gitBlobSHA": "37eb1470397d26d3affc79fda4ae7f95a350f0ae"
+    },
+    {
+      "path": "PREFLIGHT.md",
+      "size": 3705,
+      "sha256": "2a698694a13999d39b732f4efad2cb6b1d3d5bb16a3d1ff4c08cea8b5845511d",
+      "gitBlobSHA": "662aafc839c8efb96ccfa809dc7873a9ad0c65cb"
+    },
+    {
+      "path": "entries/MOKI-EP030-001.md",
+      "size": 7650,
+      "sha256": "1f68c07b7e8fa6712773b8bf45c4d44127b26a93818041a09ee7ebb3dd12ed67",
+      "gitBlobSHA": "debc9e0361bbb7745597e7362785c929584c0246"
+    },
+    {
+      "path": "entries/MOKI-EP030-002.md",
+      "size": 6381,
+      "sha256": "bd7f68051f49daa10cd87c14dd458057f123028ab267fa662343c230fbf874a5",
+      "gitBlobSHA": "f81bff234968e6e72cd3dde11e802b837c2dcd1b"
+    },
+    {
+      "path": "entries/MOKI-EP030-003.md",
+      "size": 4200,
+      "sha256": "45c51a89bf021916a29250c9928e505ec3308c153885ec778c26359429c2522a",
+      "gitBlobSHA": "05f3b69e2341ceb63f4493afbc1e3ff39f850181"
+    },
+    {
+      "path": "entries/MOKI-EP030-004.md",
+      "size": 4186,
+      "sha256": "f4b4a31a81966effb3d103a75511d4ef8013f0b32ba7dd66bbc526f697558185",
+      "gitBlobSHA": "b261cff01f15dc905fde89874143a0cbb79b2cb7"
+    },
+    {
+      "path": "entries/MOKI-EP030-005.md",
+      "size": 7114,
+      "sha256": "7e31e4190f54243e3ddefb84792ce948a2b37accd6cc81695ef0b5b74a684501",
+      "gitBlobSHA": "3462b272f37da37a2cca5dd006a93da7e3646e83"
+    },
+    {
+      "path": "entries/MOKI-EP030-006.md",
+      "size": 4475,
+      "sha256": "f9e891b9d7d90fa3aac137ecb9b9baec407c7e5e7913e95b42a9520d9fac325b",
+      "gitBlobSHA": "82c3ca89ee7af481d5e5a161666111e59d783cbe"
+    },
+    {
+      "path": "entries/MOKI-EP030-007.md",
+      "size": 4200,
+      "sha256": "bc26aed1d5599c136c74248f779ceefa95d666dd3c55638b6d5755fcf478f569",
+      "gitBlobSHA": "ecb13ec322d3b43d8709d2cf1e1db4a33948ebff"
+    },
+    {
+      "path": "entries/MOKI-EP030-008.md",
+      "size": 5863,
+      "sha256": "9c1ad05d08af8ab751dd0e3d5a4235a2f4e0f5f2428b625a0efefd621e1d11df",
+      "gitBlobSHA": "08ea9574993542478575b3c3c3c7b7766572c702"
+    },
+    {
+      "path": "entries/MOKI-EP030-AUDIO-001.md",
+      "size": 6803,
+      "sha256": "cc59d2ef20ea45cf3719bcd8662f467dbb5095d773fb71070d23cde282b1745d",
+      "gitBlobSHA": "fb18562511ef9f91604f1a5670eda272d47e63c6"
+    },
+    {
+      "path": "entries/MOKI-EP030-AUDIO-002.md",
+      "size": 4000,
+      "sha256": "d40aa35f02fc20fb7ebc167e8e7acdcdea401f3fe2d413d383c62c559d9900d4",
+      "gitBlobSHA": "96079619dc9f8cda88e38eab181e7736d8935166"
+    },
+    {
+      "path": "entries/MOKI-EP030-REVIEW-001.md",
+      "size": 8312,
+      "sha256": "783650876d750bac61c110b846b32068b9e4ec254cda18e7fbe91c3c906ebd38",
+      "gitBlobSHA": "0a0a94f25bdbb62622f8c8aa664ee0519dfc04db"
+    },
+    {
+      "path": "entries/MOKI-EP030-REVIEW-002.md",
+      "size": 7147,
+      "sha256": "77145ea5ef4673961e0d569fb0caf848243cc338669af92e4d1abba205cf1ea3",
+      "gitBlobSHA": "0d427e9352b0ebc83bd18f21a877a562e9bf9c8f"
+    },
+    {
+      "path": "evidence/EP030/LESSONS-PLAYBOOK.md",
+      "size": 4092,
+      "sha256": "c589c55e9a730cf0a97832ced9c894c0e3861848c76921aaed43531d4f7940d4",
+      "gitBlobSHA": "464742b49eff4c66bb61be673c71a636d9b2ec9f"
+    },
+    {
+      "path": "evidence/EP030/PHYSICS-PLAN.md",
+      "size": 11335,
+      "sha256": "9b50acf3bdfef6581bc3ff641e4f53c55dd2f9456fbe8ae0f83c2dda922a5cf1",
+      "gitBlobSHA": "b1eb54557c8950d1c5f308cb526327abf2192907"
+    },
+    {
+      "path": "evidence/EP030/QA-REPORT.md",
+      "size": 5746,
+      "sha256": "f686b7c636a0654c0c858e777cecf56da06f0a8d3fde47642a7f0c1fa7e668ae",
+      "gitBlobSHA": "8a5c98a871b15c22495f6e35c71d4549eb63359b"
+    },
+    {
+      "path": "evidence/EP030/README.md",
+      "size": 3364,
+      "sha256": "04754b55dead4da8ce5b4f4c6b7d268a0393ae2e55d078730790c64f7c3b3bde",
+      "gitBlobSHA": "360a9c72c9ce230524ac813c69d977fd7404c981"
+    },
+    {
+      "path": "evidence/EP030/STAGE-LOG.md",
+      "size": 2808,
+      "sha256": "8f3d0c5d9e6f379f924c2b469f5fe7316d95d4e10b2024f137cfa07d9e8d2688",
+      "gitBlobSHA": "273b48fafe85ac1b8115e28dcd3558ad4cdbbc11"
+    },
+    {
+      "path": "evidence/EP030/audio/LESSONS-TEST-WINDOW.md",
+      "size": 1154,
+      "sha256": "3b670e1f83aa166dc1acc2dff82384fdf7864cb77a36bca0cddf0e4e38cbe3f6",
+      "gitBlobSHA": "9550435534a995ab8a11310c5ad84d3d05695999"
+    },
+    {
+      "path": "evidence/EP030/audio/LESSONS.md",
+      "size": 3957,
+      "sha256": "4c81dbdde9f2154187b6b51d40dd52bcb5e3dc697f1840b623c377d7e8d667b2",
+      "gitBlobSHA": "d80a09fbd5e10bac739d27c87dce71cdcea0752d"
+    },
+    {
+      "path": "evidence/EP030/audio/STAGE-LOG.json",
+      "size": 2239,
+      "sha256": "7e808564add2695d9993345b82c44c4e71cb6646bd2467c846f839520f637637",
+      "gitBlobSHA": "647090204e179c96d4c3e041b265bc74bc62f73c"
+    },
+    {
+      "path": "evidence/EP030/audio/audio-QA.json",
+      "size": 7457,
+      "sha256": "32f29e64830c0773a1d3eb62cd1cdf4d6c7fe13a84c6a155a20ae25922e19989",
+      "gitBlobSHA": "4fc209cd49ddfe0cae5c6388f63bc116e110f2be"
+    },
+    {
+      "path": "evidence/EP030/audio/audit_source.cjs",
+      "size": 2031,
+      "sha256": "2b17b4f202413f39aa5cbcd2881f7e56012629982c1c41857313eb57c2df0c4e",
+      "gitBlobSHA": "befea8ce2c596a9378eb38d578dd904a29e8d51f"
+    },
+    {
+      "path": "evidence/EP030/audio/events.json",
+      "size": 5386,
+      "sha256": "efa072743b0e020e998e4bdb80ddb2dcc978eb320ac91fa2c1a1d9b81348228b",
+      "gitBlobSHA": "a99eddabdb5b7d24667d4a7bed8e2d65590ab280"
+    },
+    {
+      "path": "evidence/EP030/audio/final-mux-QA.json",
+      "size": 5718,
+      "sha256": "e7bf0e29391a048b2bda627e879b525d1aa1e7e583afc231550b3e39ec82c24a",
+      "gitBlobSHA": "647f6cb3f1c7673d63848723616bfdb31452d8c5"
+    },
+    {
+      "path": "evidence/EP030/audio/rejected-negative-window-test/verify_mux.py",
+      "size": 1581,
+      "sha256": "c81ca3f9d300186d5e933b006981a6a5ae90bd36dcefcaf60100ff31198dab49",
+      "gitBlobSHA": "47bd7e3d7a61d3117cf23a859df41fb68bd2e5b4"
+    },
+    {
+      "path": "evidence/EP030/audio/source-alignment.json",
+      "size": 7770,
+      "sha256": "b2fec6fc7aef5b0ed60ee6a9cb8034a0767131c30759b2d8af62be682c67038d",
+      "gitBlobSHA": "5b4afeb29d1e974b376e0cc11f80c00b4ec39e71"
+    },
+    {
+      "path": "evidence/EP030/audio/verify_mux.py",
+      "size": 1618,
+      "sha256": "bbd7cf5721901fdc7f36817f82a916d860af50584cb42fed144da0db561b42ec",
+      "gitBlobSHA": "4af4721c0699066aeb77eb34f0b56c228fbca4d4"
+    },
+    {
+      "path": "evidence/EP030/qa/CONTACT-REGRESSION-RECURRENCE.md",
+      "size": 3383,
+      "sha256": "d8e2cde6e89e520c9766131d6bafb0cb7b481472b6ecba9b971b58247fb24387",
+      "gitBlobSHA": "8a80a288c5ef959ecda2670a85dfedf19ac3e08f"
+    },
+    {
+      "path": "evidence/EP030/qa/INDEPENDENT-SOURCE-REVIEW.md",
+      "size": 3673,
+      "sha256": "0f549f62b16b5a78bc2e9f3a9ed03e73e80c47709cf173853636ed9b063f3dd3",
+      "gitBlobSHA": "3248c46396cde9eee43ffc7dbdbef5a19fa3adb0"
+    },
+    {
+      "path": "evidence/EP030/qa/canonical-byte-identity.json",
+      "size": 408,
+      "sha256": "0af615aff83f5f7fd07b75bfa3b9f88a1bfb3e9f7af6764379ebe5c7acabba7d",
+      "gitBlobSHA": "03d05a534922d62ded10b4fb5f30d539155789c4"
+    },
+    {
+      "path": "evidence/EP030/qa/contact-utils.cjs",
+      "size": 1263,
+      "sha256": "fe784906c75fe87d8f1098ddc071fe5edb0a7b1b3f0f5d8db3881d833201efdc",
+      "gitBlobSHA": "feae0ee286075a5a99adee2bf948bcf63ee4ed62"
+    },
+    {
+      "path": "evidence/EP030/qa/determinism.cjs",
+      "size": 650,
+      "sha256": "c3d4c041906c983260a0e1b252b50e8c3d063950e025b9cd4d1e0f81eefdac5e",
+      "gitBlobSHA": "d4f240465448b56ae87578101d5c84ac2792b83b"
+    },
+    {
+      "path": "evidence/EP030/qa/determinism.json",
+      "size": 1829,
+      "sha256": "8ae6b052173480a2fe4521221341c14d47bf281908d7c141fb9931c799db17a7",
+      "gitBlobSHA": "2e1fb11a12565d3072051c35c98a434a95e85c8f"
+    },
+    {
+      "path": "evidence/EP030/qa/loading-regression.cjs",
+      "size": 2343,
+      "sha256": "e05e99fc6b672f7665f206668f9169ad018f0d224af51d63481b1a2f84b1a698",
+      "gitBlobSHA": "d19cdd678c2563eb95733d3b7c96a36d7902bb2f"
+    },
+    {
+      "path": "evidence/EP030/qa/loading-regression.json",
+      "size": 469,
+      "sha256": "cfc1b5c92d6b4e148b534dd9dfc5b37db6211a6d7a969e248ba78b1ce73ff30d",
+      "gitBlobSHA": "ea50778c64406e49bfd8584afd1bf035cc7d4b14"
+    },
+    {
+      "path": "evidence/EP030/qa/media-verification.json",
+      "size": 421,
+      "sha256": "7d4adc3f53e4dc3ac5cd211ac6ae9b6fe6f237e36482837259a04fb552bc7431",
+      "gitBlobSHA": "e09f4647951f2b12b3ee222da8dfc066c613e591"
+    },
+    {
+      "path": "evidence/EP030/qa/physics-determinism.json",
+      "size": 1883,
+      "sha256": "1ab6cbbdbafb23e82f7fec1c1f632be696f59a8c1d812df24c5f9530ae54448e",
+      "gitBlobSHA": "02130aba808e77644c29aad46a67d5b0818f8187"
+    },
+    {
+      "path": "evidence/EP030/qa/physics.cjs",
+      "size": 2787,
+      "sha256": "41d233d45579ccfe6b1d38f3bfb54f68e5cc318c2b21bd4020e826b1aa7c414f",
+      "gitBlobSHA": "b7c6bc234f84f7b2dab5bdc1a857d7607c1be5d7"
+    },
+    {
+      "path": "evidence/EP030/qa/physics.json",
+      "size": 528,
+      "sha256": "a3dd0d08b164a1ec4ff4f1542fe57cc0290b0e2d0c40ae5a00741d9932249979",
+      "gitBlobSHA": "1c3040cb54788a72d616f6a787bf0527c7c12a10"
+    },
+    {
+      "path": "evidence/EP030/qa/producer-review-final.json",
+      "size": 5385,
+      "sha256": "2bad3ffa9f2a9e9ea31b19707dbe67fe7cedf869e0345454462c16cad68b155a",
+      "gitBlobSHA": "c2b75276319312970d000fcab8c6c780ab70a8b6"
+    },
+    {
+      "path": "evidence/EP030/qa/rejected-review-001/loading-trial1.json",
+      "size": 1667,
+      "sha256": "04651c8c81c26c61ddc6bf2490e99d333f13b02edaf75eec5944ca12bceeaefc",
+      "gitBlobSHA": "1771a67d742b2b1410eda55a726edaf3747f695b"
+    },
+    {
+      "path": "evidence/EP030/qa/rejected-review-001/support-evidence.json",
+      "size": 4119,
+      "sha256": "e479106da5b3b1d74ffae5b9a58b0d1377ee4dcc123951701f14db13a9bca81d",
+      "gitBlobSHA": "76d6504330609eb22fa229e4f447b89019ecc808"
+    },
+    {
+      "path": "evidence/EP030/qa/reviewer-encoded-final.json",
+      "size": 5462,
+      "sha256": "7c0c27d9bb3c976ebb889ddaef4527ffb6d3d593f09b643884527688bf21bcd7",
+      "gitBlobSHA": "dde72106be351578671a76dbd6eaf93097d4cfbe"
+    },
+    {
+      "path": "evidence/EP030/qa/reviewer-source-gate.json",
+      "size": 1212,
+      "sha256": "9e7591571869fe0794759c6285325ac99b33cd43cd30e8fce2c0eacaba86bbba",
+      "gitBlobSHA": "b9ccef060ff622fb0fdd9cfebcdd01c44dcd196e"
+    },
+    {
+      "path": "evidence/EP030/qa/source-rebuild.json",
+      "size": 478,
+      "sha256": "cb4ad52db79b1ed4ec738bf4c7cc966270f237570a380f9ca2a686df42fee1ff",
+      "gitBlobSHA": "f046e306e34b44fb79165abcbc77a04310ffbda1"
+    },
+    {
+      "path": "evidence/EP030/qa/support-ownership.cjs",
+      "size": 1615,
+      "sha256": "e5ea84a2fc1dcc956e51001d2f7f8873226d6bb1cca1b21e8c9d959eb2090b7d",
+      "gitBlobSHA": "a3697a59f8b172d1b077bdd55aef63ced025d86a"
+    },
+    {
+      "path": "evidence/EP030/qa/support-ownership.json",
+      "size": 541,
+      "sha256": "033f187aad4e2fae089fff22aaddbe3f3e91f65f69a790be98ae9f2013746fd9",
+      "gitBlobSHA": "6fbbc4c8fb8929cc6de0bb54007a9ccfc91661ce"
+    },
+    {
+      "path": "evidence/EP030/qa/swept-contact.cjs",
+      "size": 4255,
+      "sha256": "ac982a402c39a84a029dc21c1f100b1d5636391149eaad469430ae161c0ee2b7",
+      "gitBlobSHA": "66b329616ee596656cc0de02879f1c73d7a619ab"
+    },
+    {
+      "path": "evidence/EP030/qa/swept-contact.json",
+      "size": 1170,
+      "sha256": "64de881b81326dd63fb65fce7edf13dfa8000a2b037edd6f86f5aababa164833",
+      "gitBlobSHA": "fc824d866ad0fd1d238905029f7c6955bbe8fede"
+    },
+    {
+      "path": "helpers/README.md",
+      "size": 627,
+      "sha256": "e54f2decb012a76b4f00b4d824508ca79382314cfb235b12297fc08fe9fc1f87",
+      "gitBlobSHA": "00ba32019dfab3b39ea57d51664e552f52110064"
+    },
+    {
+      "path": "helpers/contact-utils.cjs",
+      "size": 1263,
+      "sha256": "fe784906c75fe87d8f1098ddc071fe5edb0a7b1b3f0f5d8db3881d833201efdc",
+      "gitBlobSHA": "feae0ee286075a5a99adee2bf948bcf63ee4ed62"
+    },
+    {
+      "path": "index.json",
+      "size": 14880,
+      "sha256": "e67c3bef59d6c6ed4e9550e1ae971637024ddf9c6184ba088f2ee702a4ea24c4",
+      "gitBlobSHA": "bcfbcfcf4596aaa3afb2fd8483965a496a4738f2"
+    }
+  ]
+}

@@ -1,0 +1,280 @@
+{
+  "episode": "EP030",
+  "results": {
+    "music.wav": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "samples_per_channel": 8688000,
+      "duration": 181.0,
+      "peak": 0.27886962890625,
+      "rms": 0.03279213102294747,
+      "dc": 1.9901767400527308e-05,
+      "clipped_samples": 0,
+      "max_adjacent_sample_delta": 0.0457763671875,
+      "sha256": "e6b184033934d2085472b29088076133af741847b86f405be9b66090120cbf27"
+    },
+    "foley.wav": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "samples_per_channel": 8688000,
+      "duration": 181.0,
+      "peak": 0.47760009765625,
+      "rms": 0.028836563960949333,
+      "dc": 3.0347321793080255e-06,
+      "clipped_samples": 0,
+      "max_adjacent_sample_delta": 0.438690185546875,
+      "sha256": "35dbb0fd2d222cc89eed3adbc72a557ad8e4bfd99cf3cb44d43317919aff2e3a"
+    },
+    "EP030-mix.wav": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "samples_per_channel": 8688000,
+      "duration": 181.0,
+      "peak": 0.47760009765625,
+      "rms": 0.04368929526036336,
+      "dc": 2.2934409575348183e-05,
+      "clipped_samples": 0,
+      "max_adjacent_sample_delta": 0.438690185546875,
+      "sha256": "cefbb528f4a28319d28f7e1964a4390748eefbc2510c9d9b77e4e8f2073bb0fa"
+    }
+  },
+  "rebuild_byte_identical": true,
+  "max_pcm_reconstruction_error_lsb": 1,
+  "critical_event_audio_energy": [
+    {
+      "script_event": 0.05,
+      "peak_first60ms": 0.11572265625,
+      "rms_first60ms": 0.030749354887490005
+    },
+    {
+      "script_event": 1,
+      "peak_first60ms": 0.15814208984375,
+      "rms_first60ms": 0.05680865462279938
+    },
+    {
+      "script_event": 5.65,
+      "peak_first60ms": 0.205535888671875,
+      "rms_first60ms": 0.03965833780131045
+    },
+    {
+      "script_event": 7.05,
+      "peak_first60ms": 0.27386474609375,
+      "rms_first60ms": 0.07045324581233331
+    },
+    {
+      "script_event": 8.45,
+      "peak_first60ms": 0.1732177734375,
+      "rms_first60ms": 0.03950105398062418
+    },
+    {
+      "script_event": 9.85,
+      "peak_first60ms": 0.23248291015625,
+      "rms_first60ms": 0.06657344250597202
+    },
+    {
+      "script_event": 11.25,
+      "peak_first60ms": 0.228912353515625,
+      "rms_first60ms": 0.05295955753476419
+    },
+    {
+      "script_event": 15.8,
+      "peak_first60ms": 0.17413330078125,
+      "rms_first60ms": 0.054081956605337676
+    },
+    {
+      "script_event": 17.2,
+      "peak_first60ms": 0.1727294921875,
+      "rms_first60ms": 0.057663547104037746
+    },
+    {
+      "script_event": 24,
+      "peak_first60ms": 0.12261962890625,
+      "rms_first60ms": 0.02150140114995313
+    },
+    {
+      "script_event": 31,
+      "peak_first60ms": 0.35479736328125,
+      "rms_first60ms": 0.0858733933002368
+    },
+    {
+      "script_event": 32,
+      "peak_first60ms": 0.126129150390625,
+      "rms_first60ms": 0.031185023502944303
+    },
+    {
+      "script_event": 42,
+      "peak_first60ms": 0.13720703125,
+      "rms_first60ms": 0.04203143559516859
+    },
+    {
+      "script_event": 46,
+      "peak_first60ms": 0.249420166015625,
+      "rms_first60ms": 0.07970431214836589
+    },
+    {
+      "script_event": 51,
+      "peak_first60ms": 0.12127685546875,
+      "rms_first60ms": 0.09684671999453517
+    },
+    {
+      "script_event": 57,
+      "peak_first60ms": 0.17254638671875,
+      "rms_first60ms": 0.04705523946749212
+    },
+    {
+      "script_event": 57,
+      "peak_first60ms": 0.17254638671875,
+      "rms_first60ms": 0.04705523946749212
+    },
+    {
+      "script_event": 62,
+      "peak_first60ms": 0.16851806640625,
+      "rms_first60ms": 0.05643198370010579
+    },
+    {
+      "script_event": 75,
+      "peak_first60ms": 0.392333984375,
+      "rms_first60ms": 0.07506865127477239
+    },
+    {
+      "script_event": 81.9,
+      "peak_first60ms": 0.290496826171875,
+      "rms_first60ms": 0.16139703717569892
+    },
+    {
+      "script_event": 81.9,
+      "peak_first60ms": 0.290496826171875,
+      "rms_first60ms": 0.16139703717569892
+    },
+    {
+      "script_event": 82.4,
+      "peak_first60ms": 0.30712890625,
+      "rms_first60ms": 0.059329888080955656
+    },
+    {
+      "script_event": 82.4,
+      "peak_first60ms": 0.30712890625,
+      "rms_first60ms": 0.059329888080955656
+    },
+    {
+      "script_event": 88,
+      "peak_first60ms": 0.1873779296875,
+      "rms_first60ms": 0.07395681316818688
+    },
+    {
+      "script_event": 92,
+      "peak_first60ms": 0.1905517578125,
+      "rms_first60ms": 0.05011463519759559
+    },
+    {
+      "script_event": 92,
+      "peak_first60ms": 0.1905517578125,
+      "rms_first60ms": 0.05011463519759559
+    },
+    {
+      "script_event": 96,
+      "peak_first60ms": 0.12005615234375,
+      "rms_first60ms": 0.031211997454831865
+    },
+    {
+      "script_event": 102,
+      "peak_first60ms": 0.144805908203125,
+      "rms_first60ms": 0.04436920059625445
+    },
+    {
+      "script_event": 115,
+      "peak_first60ms": 0.108856201171875,
+      "rms_first60ms": 0.03051890065718307
+    },
+    {
+      "script_event": 116.5,
+      "peak_first60ms": 0.120941162109375,
+      "rms_first60ms": 0.04336953684043213
+    },
+    {
+      "script_event": 117.4,
+      "peak_first60ms": 0.21380615234375,
+      "rms_first60ms": 0.07437258188212309
+    },
+    {
+      "script_event": 117.4,
+      "peak_first60ms": 0.21380615234375,
+      "rms_first60ms": 0.07437258188212309
+    },
+    {
+      "script_event": 125,
+      "peak_first60ms": 0.334808349609375,
+      "rms_first60ms": 0.07354289821865694
+    },
+    {
+      "script_event": 125,
+      "peak_first60ms": 0.334808349609375,
+      "rms_first60ms": 0.07354289821865694
+    },
+    {
+      "script_event": 130,
+      "peak_first60ms": 0.300445556640625,
+      "rms_first60ms": 0.06233074083002784
+    },
+    {
+      "script_event": 132,
+      "peak_first60ms": 0.239013671875,
+      "rms_first60ms": 0.061239014690990155
+    },
+    {
+      "script_event": 137,
+      "peak_first60ms": 0.2744140625,
+      "rms_first60ms": 0.05467408798882473
+    },
+    {
+      "script_event": 138,
+      "peak_first60ms": 0.331298828125,
+      "rms_first60ms": 0.07107992483054522
+    },
+    {
+      "script_event": 138,
+      "peak_first60ms": 0.331298828125,
+      "rms_first60ms": 0.07107992483054522
+    },
+    {
+      "script_event": 148,
+      "peak_first60ms": 0.33599853515625,
+      "rms_first60ms": 0.10329041921406061
+    },
+    {
+      "script_event": 157.5,
+      "peak_first60ms": 0.31890869140625,
+      "rms_first60ms": 0.05106874901138015
+    },
+    {
+      "script_event": 160,
+      "peak_first60ms": 0.24285888671875,
+      "rms_first60ms": 0.0499379178126527
+    },
+    {
+      "script_event": 161,
+      "peak_first60ms": 0.25506591796875,
+      "rms_first60ms": 0.03841488626617134
+    },
+    {
+      "script_event": 163.5,
+      "peak_first60ms": 0.3243408203125,
+      "rms_first60ms": 0.04839218502393131
+    },
+    {
+      "script_event": 166.5,
+      "peak_first60ms": 0.19622802734375,
+      "rms_first60ms": 0.06336706438867529
+    }
+  ],
+  "listening_performed": false,
+  "continuous_playback_performed": false,
+  "source_visual_alignment": "Separate actual-source numerical alignment evidence in source-alignment.json, valid only for its recorded source hash. These audio measurements do not establish visual approval.",
+  "measured_ffmpeg_loudness": {
+    "input_i": "-21.88",
+    "input_tp": "-6.31",
+    "input_lra": "14.50",
+    "input_thresh": "-32.35"
+  },
+  "normalization_applied": false
+}

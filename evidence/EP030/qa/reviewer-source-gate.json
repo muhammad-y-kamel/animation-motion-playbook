@@ -1,0 +1,34 @@
+{
+  "source_sha256": "d34790c280075acb360adb829719940acda2b03ec25703ca1bbfd1461b104440",
+  "stage": "source pre-encode review",
+  "playbook_read": [
+    "PREFLIGHT",
+    "EP029-GEO003",
+    "EP029-GEO005",
+    "EP029-GEO007",
+    "EP030-001..006",
+    "EP030-REVIEW001"
+  ],
+  "fullres_times": [
+    14.9,
+    24.5,
+    28,
+    56,
+    91.8
+  ],
+  "images": {
+    "qa/reviewer-source-final/14.9.png": "49aa9be30c5e40767f4ef0100b98c953f591fa0179025b91cfed9daf0e35af49",
+    "qa/reviewer-source-final/24.5.png": "34f08de7949c01bf08e8249c56707e2cfcb1d8f7a255637ee987db39823555a0",
+    "qa/reviewer-source-final/28.png": "fa5932e78b434a7ddc6c71d8e1ca21cbd4fdffb255437f1910f46b03291f7827",
+    "qa/reviewer-source-final/56.png": "1bd1e2f4f6ed819329efafcb9505a7a8ea533c37bc7f1a1cc60e4140e22badb5",
+    "qa/reviewer-source-final/91.8.png": "ed46f0ed62b024aed30e4bee82486b199358660406dd0682c45a4df2b8198a37"
+  },
+  "numeric": "qa/loading-regression.json",
+  "result": "source repair gate passed; encoded review pending",
+  "limitations": [
+    "No encoded visual approval yet",
+    "No human audio listening",
+    "No continuous audiovisual playback",
+    "Expanded-ellipse sampled support is not exact mesh proof"
+  ]
+}

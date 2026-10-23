@@ -1,0 +1,32 @@
+{
+  "sourceSHA256": "6b89bb72f71710ba082f2dc5886351b24c728611c2312e7c91325122c08685ce",
+  "scope": "Four temporal subsamples per 60fps interval plus +/-1e-6 boundary probes. Conditional support registry; actual stroked ellipse perimeter at128 points. Not a continuous analytic collision proof or full mesh test.",
+  "supportRegistry": {
+    "moki": "leftDock14–41.5 and77–96; moving deck otherwise covered by physics/support tests",
+    "peb": "rightDock19–31; airborne55–57 and90–92; other support covered by physics/support tests",
+    "crate": "owned carry24–31 before docking",
+    "controls": "actual declared haul/catch contact against moving left deck",
+    "floorRatchet": null,
+    "balconyLeft": 1560,
+    "postXs": [
+      1610,
+      1880
+    ]
+  },
+  "stats": {
+    "samples": 42132,
+    "dockFootChecks": 28216,
+    "carryChecks": 1684,
+    "jumpChecks": 966,
+    "haulHandChecks": 5652,
+    "maxRampPen": 0.14813138863939912,
+    "maxStanceGap": 0.14813138863939912,
+    "maxFloorRatchetDepth": 0,
+    "maxHandDeckDepth": 0,
+    "maxJumpBoxDepth": 0,
+    "maxCarryError": 0,
+    "maxStructureOverlap": 0
+  },
+  "failures": [],
+  "pass": true
+}

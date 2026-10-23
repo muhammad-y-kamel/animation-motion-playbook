@@ -1,0 +1,89 @@
+{
+  "status": "PASS within stated visual scope",
+  "reviewer": "encoded_review",
+  "mp4_sha256": "891b322c698b801de5610f937bcbb64ae9ced282610c998b2543f2056aa84228",
+  "source_sha256": "6b89bb72f71710ba082f2dc5886351b24c728611c2312e7c91325122c08685ce",
+  "thumbnail_sheet_range": [
+    1,
+    23
+  ],
+  "frame_range_inclusive": [
+    0,
+    5519
+  ],
+  "thumbnail_states": 5520,
+  "thumbnail_dimensions": [
+    160,
+    90
+  ],
+  "selected_full_resolution_seconds": [
+    0,
+    0.5,
+    1,
+    5.65,
+    14.9,
+    24.5,
+    28,
+    31,
+    39,
+    46,
+    56,
+    62,
+    75,
+    82.4,
+    91.8
+  ],
+  "new_findings": [],
+  "observations": [
+    "No visible blank frames, pose resets or clipping in inspected thumbnail states.",
+    "Repaired ramp/deck loading, owned crate lift/carry, airborne foot clearance and hauled-hand/deck separation are visible in selected full-resolution frames.",
+    "Raised balcony abuts the right deck; no repeat of the earlier structural overlap was observed in this scope."
+  ],
+  "limits": [
+    "Static encoded thumbnail-sheet inspection, not real-time continuous playback.",
+    "Only listed selected frames inspected at full resolution; no every-frame full-resolution claim.",
+    "No listening performed or subjective audio approval.",
+    "Frames 5520\u201310859 and later selected frames are assigned to producer, not approved by this report.",
+    "Any source or MP4 change invalidates this hash-bound review."
+  ],
+  "evidence_sha256": {
+    "qa/encoded-sheets/sheet-01.jpg": "34c534d8e5587baf725b9734722962b8e1e91433fa1ce8db5a2f68033f665f0c",
+    "qa/encoded-sheets/sheet-02.jpg": "9c55b6ae8a505bd9634e34045a4cd8ef97d2458fb1525d236e15a57f3c3dc38d",
+    "qa/encoded-sheets/sheet-03.jpg": "aac89aac91374d3baf7bffa046678af9c2d503a377a373918d5c81a898a22f3b",
+    "qa/encoded-sheets/sheet-04.jpg": "198852c710e8b43d8612c0bfdb020f244da1dd8eb6c589dd6599b3aeda9c1d0f",
+    "qa/encoded-sheets/sheet-05.jpg": "e7d78915cff7a8e636c6e1dadce87233c6551942bf8de86cdd9ca00f24149bd1",
+    "qa/encoded-sheets/sheet-06.jpg": "70ebc9fe6f3ee5da2fdf387438749121703c19678f007cd13890439c45954e82",
+    "qa/encoded-sheets/sheet-07.jpg": "c5f5bbf1554ce6211ccf5a5d2e9733d706c397dcb4954c8fd7349c903b25e2ea",
+    "qa/encoded-sheets/sheet-08.jpg": "7521e5670faab1ac82578465162e86bc5bff66ed1bc8d0e7748afb57850c371e",
+    "qa/encoded-sheets/sheet-09.jpg": "6f6242f6f5d3f00fd9e7e5d9881485c8e8445cee577ac2a839b700264f74ce45",
+    "qa/encoded-sheets/sheet-10.jpg": "d5b42a4d0f2494da5abf6fc79c4f0b0ba186737494bbce6cb6c3838be00e323a",
+    "qa/encoded-sheets/sheet-11.jpg": "fe3d43ee0d1b5a501772520089eefdd112af3ef866d17d266f503fd42ac524b4",
+    "qa/encoded-sheets/sheet-12.jpg": "cbb8527eaeaa695dee526c36c1547b02b30e48bb9791809c40be4e5b918247e6",
+    "qa/encoded-sheets/sheet-13.jpg": "2a2ea731a7fef6ec59f086c8d40469a6f359bf2008bb938a9c13e8c9c356565f",
+    "qa/encoded-sheets/sheet-14.jpg": "2fbfbd3719f42e14ede585d064526623a8aeed216922c4d2d32a968991634b77",
+    "qa/encoded-sheets/sheet-15.jpg": "6f35bd9a3184117d246333432ecfb6c4cce47d487cd38a4f22bf818e39d51ab9",
+    "qa/encoded-sheets/sheet-16.jpg": "161cdc2881b918f2d886d6162e47a6f9b059d300dce62b14f40572bbe6ccc074",
+    "qa/encoded-sheets/sheet-17.jpg": "7d96e4503b4765528eea19a4df4856bf831241b3d6a9bfc728fd76294f8b7a65",
+    "qa/encoded-sheets/sheet-18.jpg": "917a2e6f9868582db71cdb4b0b3d7f02a2c13aa8ae8e9286ad6a90274250ff79",
+    "qa/encoded-sheets/sheet-19.jpg": "a40b33cef1915295e603b98cf75fb6233f73160ed66ddd3b31986147de090bd2",
+    "qa/encoded-sheets/sheet-20.jpg": "ab79780b4d9ab1593a232b607fcb7d72a073c67412e4694668ec6a6e6201e353",
+    "qa/encoded-sheets/sheet-21.jpg": "5a9577352c89cda201808e31767d523226faa3dde21b94464bbedd9bd73ba348",
+    "qa/encoded-sheets/sheet-22.jpg": "64b2f13af7079315b3a50c0616e9aaf90f5428cbd911ce599f52a4a6b08a5b49",
+    "qa/encoded-sheets/sheet-23.jpg": "d9b9bdc91326a30ad21c9fec09882000216b41d5b842379a49be5d8090e5ab51",
+    "qa/encoded-critical/0.png": "a516ebbee27f18827c2d5ed161a7de7207f8688389ebde92047571f8431482af",
+    "qa/encoded-critical/0.5.png": "a31f6308be39ae3c1b10a73bbdbe8b363e17ee4ab330a56104d6156a5b16978f",
+    "qa/encoded-critical/1.png": "d69ae65dd95f7689e008ea5f5b848d1bf749f9896a740d66fed0d51f670e13e7",
+    "qa/encoded-critical/5.65.png": "9a771b8b3b1975df4c52ad9051ad1a42a10f411d60b47479d48b9f3c9d94b692",
+    "qa/encoded-critical/14.9.png": "9bdb448b2a915df28a9e5c1dfb654319a20454acc00aa828d9e66cd458524bce",
+    "qa/encoded-critical/24.5.png": "4f09ea8dac06abd561d7e4cf02fff4ca00a23dec433de589cdb019a2a679c4c0",
+    "qa/encoded-critical/28.png": "0b3fd06d6445779fda387c559a190639c17ac9ab25b8a25514431d410a09c83e",
+    "qa/encoded-critical/31.png": "ab65ddfe026fcaa098dd93ba4a5dba3f5763ab013e51d112f3f60b8604e83d81",
+    "qa/encoded-critical/39.png": "b5462e349bd7e914c84e2d522d7dc6dc98df640d8502d546ce103adbfef7aedd",
+    "qa/encoded-critical/46.png": "363f8589d0ec1be75417034e07dda3305d1c738ee851799a0e27c71f7cf0a768",
+    "qa/encoded-critical/56.png": "b5c3419fa5afa79c8599da3389c746246fdedcfe3d14ac5e6df9dbfb9ca684af",
+    "qa/encoded-critical/62.png": "fecd7d184a32e2f9e22ee3919cdbc668f0b597b93a320da7bb3b99682f99050f",
+    "qa/encoded-critical/75.png": "4d4a267452bee10afa310ce230ab3b3f7bb4ddd8566bc5cfa0bbb30c939ab64e",
+    "qa/encoded-critical/82.4.png": "df25d4f110e32243e5007cf1ebe37a42ff6dc5a100cf8a05392e4ea7d078f0b6",
+    "qa/encoded-critical/91.8.png": "8a250a77528830c65242490e61cf88f7ac95e25785b31fb15a4348a67bc05406"
+  }
+}

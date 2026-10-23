@@ -1,0 +1,19 @@
+{
+  "sourceSHA256": "6b89bb72f71710ba082f2dc5886351b24c728611c2312e7c91325122c08685ce",
+  "scope": "10500 story semantic states + epsilon boundaries; no encoded/pixel/occlusion or listening claim",
+  "max": {
+    "ropeError": 0,
+    "handStep": 14.512489311482385,
+    "footStep": 18.269190672168122,
+    "boxStep": 6.249421296295964,
+    "weightStep": 1.24999537037138,
+    "bucketStep": 6.367276107663466
+  },
+  "violations": [],
+  "discontinuities": [],
+  "crossing": {
+    "left": 630,
+    "right": 630
+  },
+  "pass": true
+}

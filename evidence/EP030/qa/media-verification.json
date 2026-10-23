@@ -1,0 +1,16 @@
+{
+  "video_sha256": "891b322c698b801de5610f937bcbb64ae9ced282610c998b2543f2056aa84228",
+  "frames": 10860,
+  "width": 1920,
+  "height": 1080,
+  "rate": "60/1",
+  "duration": "181.000000",
+  "audio_rate": "48000",
+  "audio_channels": 2,
+  "min_frame_std": 20.776709263969263,
+  "blank_frames": [],
+  "min_mean": 209.18722222222223,
+  "max_mean": 221.17763888888888,
+  "moov_before_mdat": true,
+  "decode_log_empty": true
+}

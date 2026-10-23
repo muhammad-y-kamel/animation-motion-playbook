@@ -1,0 +1,397 @@
+{
+  "source_sha256": "6b89bb72f71710ba082f2dc5886351b24c728611c2312e7c91325122c08685ce",
+  "scope": "Numerical cue/source alignment, not visual inspection or listening. Fold mechanics pending visual audit.",
+  "checks": [
+    {
+      "name": "platform stop 1",
+      "pass": true,
+      "data": {
+        "before": 879.587962962963,
+        "at": 880,
+        "after": 880
+      }
+    },
+    {
+      "name": "platform stop 17.2",
+      "pass": true,
+      "data": {
+        "before": 380.210897851204,
+        "at": 380,
+        "after": 380
+      }
+    },
+    {
+      "name": "platform stop 46",
+      "pass": true,
+      "data": {
+        "before": 380.02596932870375,
+        "at": 380,
+        "after": 380
+      }
+    },
+    {
+      "name": "platform stop 62",
+      "pass": true,
+      "data": {
+        "before": 879.9833703703703,
+        "at": 880,
+        "after": 880
+      }
+    },
+    {
+      "name": "platform stop 125",
+      "pass": true,
+      "data": {
+        "before": 879.9963983941752,
+        "at": 880,
+        "after": 880
+      }
+    },
+    {
+      "name": "platform stop 148",
+      "pass": true,
+      "data": {
+        "before": 380.004162037037,
+        "at": 380,
+        "after": 380
+      }
+    },
+    {
+      "name": "Peb hop landing 5.65",
+      "pass": true,
+      "data": {
+        "foot": {
+          "x": 1238.616,
+          "y": 371.0576
+        },
+        "deck": 380,
+        "descent": 3.379595886102379
+      }
+    },
+    {
+      "name": "Peb hop landing 7.05",
+      "pass": true,
+      "data": {
+        "foot": {
+          "x": 1238.616,
+          "y": 371.0575999999999
+        },
+        "deck": 380,
+        "descent": 3.379595886102436
+      }
+    },
+    {
+      "name": "Peb hop landing 8.45",
+      "pass": true,
+      "data": {
+        "foot": {
+          "x": 1238.616,
+          "y": 371.05759999999987
+        },
+        "deck": 380,
+        "descent": 3.3795958861026634
+      }
+    },
+    {
+      "name": "Peb hop landing 9.85",
+      "pass": true,
+      "data": {
+        "foot": {
+          "x": 1238.616,
+          "y": 371.0575999999999
+        },
+        "deck": 380,
+        "descent": 3.3795958861026065
+      }
+    },
+    {
+      "name": "Peb hop landing 11.25",
+      "pass": true,
+      "data": {
+        "foot": {
+          "x": 1238.616,
+          "y": 371.0576
+        },
+        "deck": 380,
+        "descent": 3.3795958861026065
+      }
+    },
+    {
+      "name": "box arrival 31",
+      "pass": true,
+      "data": {
+        "before": {
+          "x": 1400.0078557956103,
+          "bottom": 880,
+          "pusher": 0,
+          "open": 0
+        },
+        "at": {
+          "x": 1400,
+          "bottom": 880,
+          "pusher": 0,
+          "open": 0
+        },
+        "after": {
+          "x": 1400,
+          "bottom": 880,
+          "pusher": 0,
+          "open": 0
+        }
+      }
+    },
+    {
+      "name": "box arrival 130",
+      "pass": true,
+      "data": {
+        "before": {
+          "x": 1679.9906874074074,
+          "bottom": 380,
+          "pusher": 0.9999667407407408,
+          "open": 0
+        },
+        "at": {
+          "x": 1680,
+          "bottom": 380,
+          "pusher": 1,
+          "open": 0
+        },
+        "after": {
+          "x": 1680,
+          "bottom": 380,
+          "pusher": 1,
+          "open": 0
+        }
+      }
+    },
+    {
+      "name": "hand contact peg",
+      "pass": true,
+      "data": {
+        "time": 75,
+        "contact": [
+          {
+            "who": "small",
+            "hand": "right",
+            "label": "peg",
+            "point": {
+              "x": 1680,
+              "y": 900
+            },
+            "actual": {
+              "x": 1680,
+              "y": 900
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "hand contact caught rope",
+      "pass": true,
+      "data": {
+        "time": 82.4,
+        "contact": [
+          {
+            "who": "big",
+            "hand": "right",
+            "label": "caught rope",
+            "point": {
+              "x": 320,
+              "y": 760
+            },
+            "actual": {
+              "x": 320,
+              "y": 760
+            }
+          },
+          {
+            "who": "big",
+            "hand": "left",
+            "label": "caught rope",
+            "point": {
+              "x": 320,
+              "y": 805
+            },
+            "actual": {
+              "x": 320,
+              "y": 805
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "hand contact Peb hand",
+      "pass": true,
+      "data": {
+        "time": 116.5,
+        "contact": [
+          {
+            "who": "big",
+            "hand": "right",
+            "label": "Peb hand",
+            "point": {
+              "x": 950,
+              "y": 585
+            },
+            "actual": {
+              "x": 950,
+              "y": 585
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "hand contact left latch",
+      "pass": true,
+      "data": {
+        "time": 157.5,
+        "contact": [
+          {
+            "who": "big",
+            "hand": "right",
+            "label": "left latch",
+            "point": {
+              "x": 1610,
+              "y": 320
+            },
+            "actual": {
+              "x": 1610,
+              "y": 320
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "hand contact right latch",
+      "pass": true,
+      "data": {
+        "time": 160,
+        "contact": [
+          {
+            "who": "small",
+            "hand": "left",
+            "label": "right latch",
+            "point": {
+              "x": 1750,
+              "y": 320
+            },
+            "actual": {
+              "x": 1750,
+              "y": 320
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "box clearing jump lands 57",
+      "pass": true,
+      "data": {
+        "before": {
+          "x": 1658.5248425925924,
+          "y": 905.2903843352312
+        },
+        "at": {
+          "x": 1658.616,
+          "y": 911.0576
+        },
+        "deck": 920
+      }
+    },
+    {
+      "name": "box clearing jump lands 92",
+      "pass": true,
+      "data": {
+        "before": {
+          "x": 1218.7071574074075,
+          "y": 865.3069584093053
+        },
+        "at": {
+          "x": 1218.616,
+          "y": 871.0576
+        },
+        "deck": 880
+      }
+    },
+    {
+      "name": "box owned while carried 24",
+      "pass": true,
+      "data": {
+        "time": 24,
+        "box": {
+          "x": 1740,
+          "bottom": 920,
+          "pusher": 0,
+          "open": 0
+        }
+      }
+    },
+    {
+      "name": "box owned while carried 25",
+      "pass": true,
+      "data": {
+        "time": 25,
+        "box": {
+          "x": 1740,
+          "bottom": 880,
+          "pusher": 0,
+          "open": 0
+        }
+      }
+    },
+    {
+      "name": "box owned while carried 28",
+      "pass": true,
+      "data": {
+        "time": 28,
+        "box": {
+          "x": 1570,
+          "bottom": 880,
+          "pusher": 0,
+          "open": 0
+        }
+      }
+    },
+    {
+      "name": "box owned while carried 30",
+      "pass": true,
+      "data": {
+        "time": 30,
+        "box": {
+          "x": 1425.1851851851852,
+          "bottom": 880,
+          "pusher": 0,
+          "open": 0
+        }
+      }
+    },
+    {
+      "name": "water interval102..112",
+      "pass": true,
+      "data": {
+        "start": 1,
+        "end": 0
+      }
+    },
+    {
+      "name": "transfer deck coincidence116.5",
+      "pass": true,
+      "data": {
+        "left": 630,
+        "right": 630
+      }
+    },
+    {
+      "name": "ladder completed166.5",
+      "pass": true,
+      "data": {
+        "u": 1
+      }
+    }
+  ],
+  "pass": true
+}

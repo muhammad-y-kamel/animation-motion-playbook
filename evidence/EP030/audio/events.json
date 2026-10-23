@@ -1,0 +1,333 @@
+[
+  {
+    "time": 0.05,
+    "kind": "pulley",
+    "d": 0.95,
+    "label": "rope and pulley motion"
+  },
+  {
+    "time": 1,
+    "kind": "puff",
+    "d": 0.26,
+    "g": 0.22,
+    "label": "platform end stop"
+  },
+  {
+    "time": 5.65,
+    "kind": "knock",
+    "g": 0.1,
+    "pan": 0.3,
+    "f": 510,
+    "label": "Peb platform bounce landing"
+  },
+  {
+    "time": 7.05,
+    "kind": "knock",
+    "g": 0.1,
+    "pan": 0.3,
+    "f": 510,
+    "label": "Peb platform bounce landing"
+  },
+  {
+    "time": 8.45,
+    "kind": "knock",
+    "g": 0.1,
+    "pan": 0.3,
+    "f": 510,
+    "label": "Peb platform bounce landing"
+  },
+  {
+    "time": 9.85,
+    "kind": "knock",
+    "g": 0.1,
+    "pan": 0.3,
+    "f": 510,
+    "label": "Peb platform bounce landing"
+  },
+  {
+    "time": 11.25,
+    "kind": "knock",
+    "g": 0.1,
+    "pan": 0.3,
+    "f": 510,
+    "label": "Peb platform bounce landing"
+  },
+  {
+    "time": 15.8,
+    "kind": "pulley",
+    "d": 1.4,
+    "label": "rope and pulley motion"
+  },
+  {
+    "time": 17.2,
+    "kind": "puff",
+    "d": 0.26,
+    "g": 0.22,
+    "label": "platform end stop"
+  },
+  {
+    "time": 24,
+    "kind": "knock",
+    "g": 0.055,
+    "pan": 0.4,
+    "f": 380,
+    "label": "wooden box handle gripped"
+  },
+  {
+    "time": 31,
+    "kind": "knock",
+    "g": 0.17,
+    "pan": 0.3,
+    "f": 300,
+    "label": "box set on platform"
+  },
+  {
+    "time": 32,
+    "kind": "pulley",
+    "d": 8,
+    "label": "rope and pulley motion"
+  },
+  {
+    "time": 42,
+    "kind": "pulley",
+    "d": 4,
+    "label": "rope and pulley motion"
+  },
+  {
+    "time": 46,
+    "kind": "puff",
+    "d": 0.26,
+    "g": 0.22,
+    "label": "platform end stop"
+  },
+  {
+    "time": 51,
+    "kind": "gliss",
+    "d": 0.5,
+    "f0": 540,
+    "f1": 220,
+    "g": 0.11,
+    "label": "late realization"
+  },
+  {
+    "time": 57,
+    "kind": "pulley",
+    "d": 5,
+    "label": "rope and pulley motion"
+  },
+  {
+    "time": 57,
+    "kind": "knock",
+    "g": 0.09,
+    "pan": 0.5,
+    "f": 440,
+    "label": "Peb lands on floor beyond box"
+  },
+  {
+    "time": 62,
+    "kind": "puff",
+    "d": 0.26,
+    "g": 0.22,
+    "label": "platform end stop"
+  },
+  {
+    "time": 75,
+    "kind": "knock",
+    "g": 0.18,
+    "pan": -0.3,
+    "f": 440,
+    "label": "ground peg secured"
+  },
+  {
+    "time": 81.9,
+    "kind": "pulley",
+    "d": 0.5,
+    "label": "rope and pulley motion"
+  },
+  {
+    "time": 81.9,
+    "kind": "gliss",
+    "d": 0.28,
+    "f0": 700,
+    "f1": 140,
+    "g": 0.18,
+    "label": "peg pops free"
+  },
+  {
+    "time": 82.4,
+    "kind": "pulley",
+    "d": 0.6,
+    "label": "rope and pulley motion"
+  },
+  {
+    "time": 82.4,
+    "kind": "rustle",
+    "d": 0.4,
+    "g": 0.13,
+    "pan": -0.3,
+    "label": "Moki rope catch"
+  },
+  {
+    "time": 88,
+    "kind": "pulley",
+    "d": 2,
+    "label": "rope and pulley motion"
+  },
+  {
+    "time": 92,
+    "kind": "pulley",
+    "d": 3,
+    "label": "rope and pulley motion"
+  },
+  {
+    "time": 92,
+    "kind": "knock",
+    "g": 0.1,
+    "pan": 0.2,
+    "f": 510,
+    "label": "Peb lands on right platform after clearing box"
+  },
+  {
+    "time": 96,
+    "kind": "pulley",
+    "d": 2,
+    "label": "rope and pulley motion"
+  },
+  {
+    "time": 102,
+    "kind": "water",
+    "d": 10,
+    "g": 0.13,
+    "label": "bucket water pour"
+  },
+  {
+    "time": 115,
+    "kind": "pulley",
+    "d": 1.5,
+    "label": "rope and pulley motion"
+  },
+  {
+    "time": 116.5,
+    "kind": "puff",
+    "d": 0.2,
+    "g": 0.16,
+    "label": "Moki catches Peb"
+  },
+  {
+    "time": 117.4,
+    "kind": "pulley",
+    "d": 7.6,
+    "label": "rope and pulley motion"
+  },
+  {
+    "time": 117.4,
+    "kind": "knock",
+    "g": 0.1,
+    "pan": -0.1,
+    "f": 410,
+    "label": "Peb lands on left platform"
+  },
+  {
+    "time": 125,
+    "kind": "puff",
+    "d": 0.26,
+    "g": 0.22,
+    "label": "platform end stop"
+  },
+  {
+    "time": 125,
+    "kind": "rustle",
+    "d": 5,
+    "g": 0.12,
+    "pan": 0.5,
+    "rate": 15,
+    "label": "box rolls onto balcony"
+  },
+  {
+    "time": 130,
+    "kind": "knock",
+    "g": 0.16,
+    "pan": 0.5,
+    "f": 360,
+    "label": "box safely docked"
+  },
+  {
+    "time": 132,
+    "kind": "rustle",
+    "d": 5,
+    "g": 0.1,
+    "pan": 0.1,
+    "rate": 19,
+    "label": "counterweight rolls onto deck"
+  },
+  {
+    "time": 137,
+    "kind": "knock",
+    "g": 0.14,
+    "pan": 0.1,
+    "f": 210,
+    "label": "counterweight aboard"
+  },
+  {
+    "time": 138,
+    "kind": "pulley",
+    "d": 10,
+    "label": "rope and pulley motion"
+  },
+  {
+    "time": 138,
+    "kind": "knock",
+    "g": 0.16,
+    "pan": -0.3,
+    "f": 950,
+    "label": "counterweight brake release"
+  },
+  {
+    "time": 148,
+    "kind": "puff",
+    "d": 0.26,
+    "g": 0.22,
+    "label": "platform end stop"
+  },
+  {
+    "time": 157.5,
+    "kind": "knock",
+    "g": 0.13,
+    "pan": 0.5,
+    "f": 1200,
+    "label": "box latch click"
+  },
+  {
+    "time": 160,
+    "kind": "knock",
+    "g": 0.13,
+    "pan": 0.5,
+    "f": 1200,
+    "label": "box latch click"
+  },
+  {
+    "time": 161,
+    "kind": "rustle",
+    "d": 0.5,
+    "g": 0.1,
+    "pan": 0.5,
+    "label": "lid hinge opens"
+  },
+  {
+    "time": 163.5,
+    "kind": "rustle",
+    "d": 3,
+    "g": 0.14,
+    "pan": 0.5,
+    "rate": 19,
+    "label": "telescoping wooden ladder slide"
+  },
+  {
+    "time": 166.5,
+    "kind": "puff",
+    "d": 0.3,
+    "g": 0.22,
+    "pan": 0.5,
+    "label": "ladder touches floor"
+  }
+]

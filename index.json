@@ -3,7 +3,7 @@
   "entries": [
     {
       "id": "ANIM-0001",
-      "title": "Floating stack gaps and base penetration \u2014 blocking contact defect",
+      "title": "Floating stack gaps and base penetration — blocking contact defect",
       "category": "geometry",
       "project": "MOKI & PEB",
       "episode": "EP027",
@@ -12,7 +12,7 @@
     },
     {
       "id": "ANIM-0002",
-      "title": "Camera transform clipped hand and exposed black bottom \u2014 blocking composition defect",
+      "title": "Camera transform clipped hand and exposed black bottom — blocking composition defect",
       "category": "composition",
       "project": "MOKI & PEB",
       "episode": "EP027",
@@ -21,7 +21,7 @@
     },
     {
       "id": "ANIM-0003",
-      "title": "Rotating hourglass penetrated tabletop \u2014 blocking support defect",
+      "title": "Rotating hourglass penetrated tabletop — blocking support defect",
       "category": "geometry",
       "project": "MOKI & PEB",
       "episode": "EP027",
@@ -30,7 +30,7 @@
     },
     {
       "id": "ANIM-0004",
-      "title": "Open palm during high cube carrying \u2014 blocking grip/readability defect",
+      "title": "Open palm during high cube carrying — blocking grip/readability defect",
       "category": "animation",
       "project": "MOKI & PEB",
       "episode": "EP027",
@@ -39,7 +39,7 @@
     },
     {
       "id": "ANIM-0005",
-      "title": "Hourglass outline vanished during particle/clump rendering \u2014 blocking render regression",
+      "title": "Hourglass outline vanished during particle/clump rendering — blocking render regression",
       "category": "rendering",
       "project": "MOKI & PEB",
       "episode": "EP027",
@@ -48,7 +48,7 @@
     },
     {
       "id": "ANIM-0006",
-      "title": "Sand hung from upper cap after flip \u2014 blocking visual physics defect",
+      "title": "Sand hung from upper cap after flip — blocking visual physics defect",
       "category": "animation",
       "project": "MOKI & PEB",
       "episode": "EP027",
@@ -57,7 +57,7 @@
     },
     {
       "id": "ANIM-0007",
-      "title": "Jam too subtle \u2014 important story-readability repair",
+      "title": "Jam too subtle — important story-readability repair",
       "category": "storytelling",
       "project": "MOKI & PEB",
       "episode": "EP027",
@@ -66,7 +66,7 @@
     },
     {
       "id": "ANIM-0008",
-      "title": "Cubes appeared without visible source \u2014 continuity improvement",
+      "title": "Cubes appeared without visible source — continuity improvement",
       "category": "continuity",
       "project": "MOKI & PEB",
       "episode": "EP027",
@@ -330,6 +330,126 @@
       "status": "validated_with_evidence_limits",
       "file": "entries/MOKI-EP029-006.md",
       "discovered_by": "agent"
+    },
+    {
+      "id": "MOKI-EP030-001",
+      "title": "Contradictory pulley staging requires explicit work and stored energy",
+      "category": "physics",
+      "project": "MOKI & PEB",
+      "episode": "EP030",
+      "status": "validated_with_limits",
+      "file": "entries/MOKI-EP030-001.md",
+      "discovered_by": "reviewer"
+    },
+    {
+      "id": "MOKI-EP030-002",
+      "title": "Ladder mode resets contacts and mismatches rung support",
+      "category": "animation",
+      "project": "MOKI & PEB",
+      "episode": "EP030",
+      "status": "validated_with_limits",
+      "file": "entries/MOKI-EP030-002.md",
+      "discovered_by": "reviewer"
+    },
+    {
+      "id": "MOKI-EP030-003",
+      "title": "Actor and prop routes intersect without silhouette exclusion",
+      "category": "geometry",
+      "project": "MOKI & PEB",
+      "episode": "EP030",
+      "status": "validated_with_limits",
+      "file": "entries/MOKI-EP030-003.md",
+      "discovered_by": "agent"
+    },
+    {
+      "id": "MOKI-EP030-004",
+      "title": "Catch grip obscures an eye and ladder extraction lacks origin",
+      "category": "storytelling",
+      "project": "MOKI & PEB",
+      "episode": "EP030",
+      "status": "validated_with_limits",
+      "file": "entries/MOKI-EP030-004.md",
+      "discovered_by": "agent"
+    },
+    {
+      "id": "MOKI-EP030-005",
+      "title": "Rotated bucket loses its bail and pouring anchors",
+      "category": "animation",
+      "project": "MOKI & PEB",
+      "episode": "EP030",
+      "status": "validated_with_limits",
+      "file": "entries/MOKI-EP030-005.md",
+      "discovered_by": "reviewer"
+    },
+    {
+      "id": "MOKI-EP030-006",
+      "title": "Semantic control grips target an undrawn rope",
+      "category": "animation",
+      "project": "MOKI & PEB",
+      "episode": "EP030",
+      "status": "validated_with_limits",
+      "file": "entries/MOKI-EP030-006.md",
+      "discovered_by": "reviewer"
+    },
+    {
+      "id": "MOKI-EP030-007",
+      "title": "Poster title panel obscures Moki’s face",
+      "category": "composition",
+      "project": "MOKI & PEB",
+      "episode": "EP030",
+      "status": "validated_with_limits",
+      "file": "entries/MOKI-EP030-007.md",
+      "discovered_by": "agent"
+    },
+    {
+      "id": "MOKI-EP030-008",
+      "title": "Canonical script serialization appends a newline",
+      "category": "workflow/archive",
+      "project": "MOKI & PEB",
+      "episode": "EP030",
+      "status": "validated_with_limits",
+      "file": "entries/MOKI-EP030-008.md",
+      "discovered_by": "agent"
+    },
+    {
+      "id": "MOKI-EP030-AUDIO-001",
+      "title": "Script Foley timing differs from reconciled motion and mechanisms",
+      "category": "audio",
+      "project": "MOKI & PEB",
+      "episode": "EP030",
+      "status": "validated_with_limits",
+      "file": "entries/MOKI-EP030-AUDIO-001.md",
+      "discovered_by": "agent"
+    },
+    {
+      "id": "MOKI-EP030-AUDIO-002",
+      "title": "Opening cue creates a negative correlation window",
+      "category": "verification",
+      "project": "MOKI & PEB",
+      "episode": "EP030",
+      "status": "validated_with_limits",
+      "file": "entries/MOKI-EP030-AUDIO-002.md",
+      "discovered_by": "agent"
+    },
+    {
+      "id": "MOKI-EP030-REVIEW-001",
+      "title": "Independent x and support tracks penetrate raised decks",
+      "category": "geometry",
+      "project": "MOKI & PEB",
+      "episode": "EP030",
+      "status": "validated_with_limits",
+      "file": "entries/MOKI-EP030-REVIEW-001.md",
+      "discovered_by": "reviewer"
+    },
+    {
+      "id": "MOKI-EP030-REVIEW-002",
+      "title": "Swept clearance finds hand, control station and structural overlaps",
+      "category": "geometry",
+      "project": "MOKI & PEB",
+      "episode": "EP030",
+      "status": "validated_with_limits",
+      "file": "entries/MOKI-EP030-REVIEW-002.md",
+      "discovered_by": "reviewer"
     }
   ]
 }

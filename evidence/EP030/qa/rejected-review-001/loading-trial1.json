@@ -1,0 +1,70 @@
+{
+  "sourceSHA256": "6adb0f6cf1d2ea33b15c20dcecdfa6b33b38a004a09792e6f19a6bd496176e3d",
+  "scope": "10500 states; support center and painted horizontal shoe/crate clearance, not full mesh or encoded review",
+  "counts": {
+    "dockFootStates": 7020,
+    "carriedBoxStates": 420,
+    "jumpClearanceStates": 240
+  },
+  "maxPen": 0,
+  "maxCarryError": 0,
+  "maxJumpPen": 40.84575111456468,
+  "failures": [
+    {
+      "t": 91.7,
+      "kind": "jump shoe crate collision",
+      "pen": 2.552090057300461
+    },
+    {
+      "t": 91.71666666666667,
+      "kind": "jump shoe crate collision",
+      "pen": 7.468438331805146
+    },
+    {
+      "t": 91.73333333333333,
+      "kind": "jump shoe crate collision",
+      "pen": 12.461642227027937
+    },
+    {
+      "t": 91.75,
+      "kind": "jump shoe crate collision",
+      "pen": 17.528394879680263
+    },
+    {
+      "t": 91.76666666666667,
+      "kind": "jump shoe crate collision",
+      "pen": 19.754583724881513
+    },
+    {
+      "t": 91.78333333333333,
+      "kind": "jump shoe crate collision",
+      "pen": 22.17479833587936
+    },
+    {
+      "t": 91.8,
+      "kind": "jump shoe crate collision",
+      "pen": 24.907267705416416
+    },
+    {
+      "t": 91.81666666666666,
+      "kind": "jump shoe crate collision",
+      "pen": 28.05930957141561
+    },
+    {
+      "t": 91.83333333333333,
+      "kind": "jump shoe crate collision",
+      "pen": 31.722491461499203
+    },
+    {
+      "t": 91.85,
+      "kind": "jump shoe crate collision",
+      "pen": 35.968478723567046
+    },
+    {
+      "t": 91.86666666666666,
+      "kind": "jump shoe crate collision",
+      "pen": 40.84575111456468
+    }
+  ],
+  "pass": false
+}

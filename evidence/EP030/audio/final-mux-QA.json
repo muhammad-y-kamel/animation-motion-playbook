@@ -1,0 +1,284 @@
+{
+  "video": "/workspace/shared/ep030/EP030-The-Pulley-Elevator.mp4",
+  "video_sha256": "891b322c698b801de5610f937bcbb64ae9ced282610c998b2543f2056aa84228",
+  "decoded_samples": 8688640,
+  "decoded_duration": 181.01333333333332,
+  "sample_rate": 48000,
+  "channels": 2,
+  "peak": 0.481536865234375,
+  "clipped_samples": 0,
+  "cue_crosscorrelations": [
+    {
+      "time": 0.05,
+      "lag_samples": 0,
+      "lag_ms": 0.0,
+      "window_rms": 0.02904491541830678
+    },
+    {
+      "time": 1,
+      "lag_samples": 0,
+      "lag_ms": 0.0,
+      "window_rms": 0.02668146033775207
+    },
+    {
+      "time": 5.65,
+      "lag_samples": 0,
+      "lag_ms": 0.0,
+      "window_rms": 0.018751685874901065
+    },
+    {
+      "time": 7.05,
+      "lag_samples": 0,
+      "lag_ms": 0.0,
+      "window_rms": 0.05109230773796281
+    },
+    {
+      "time": 8.45,
+      "lag_samples": 0,
+      "lag_ms": 0.0,
+      "window_rms": 0.022216860310642714
+    },
+    {
+      "time": 9.85,
+      "lag_samples": 0,
+      "lag_ms": 0.0,
+      "window_rms": 0.03755151861514617
+    },
+    {
+      "time": 11.25,
+      "lag_samples": 0,
+      "lag_ms": 0.0,
+      "window_rms": 0.031347165278124534
+    },
+    {
+      "time": 15.8,
+      "lag_samples": 0,
+      "lag_ms": 0.0,
+      "window_rms": 0.05922457246706689
+    },
+    {
+      "time": 17.2,
+      "lag_samples": 0,
+      "lag_ms": 0.0,
+      "window_rms": 0.026587309817884597
+    },
+    {
+      "time": 24,
+      "lag_samples": 0,
+      "lag_ms": 0.0,
+      "window_rms": 0.008596067414528159
+    },
+    {
+      "time": 31,
+      "lag_samples": 0,
+      "lag_ms": 0.0,
+      "window_rms": 0.05184216191554374
+    },
+    {
+      "time": 32,
+      "lag_samples": 0,
+      "lag_ms": 0.0,
+      "window_rms": 0.028194984764402232
+    },
+    {
+      "time": 42,
+      "lag_samples": 0,
+      "lag_ms": 0.0,
+      "window_rms": 0.04093290549136151
+    },
+    {
+      "time": 46,
+      "lag_samples": 0,
+      "lag_ms": 0.0,
+      "window_rms": 0.059308702868474644
+    },
+    {
+      "time": 51,
+      "lag_samples": 0,
+      "lag_ms": 0.0,
+      "window_rms": 0.09085632345352335
+    },
+    {
+      "time": 57,
+      "lag_samples": 0,
+      "lag_ms": 0.0,
+      "window_rms": 0.03800512683651187
+    },
+    {
+      "time": 57,
+      "lag_samples": 0,
+      "lag_ms": 0.0,
+      "window_rms": 0.03800512683651187
+    },
+    {
+      "time": 62,
+      "lag_samples": 0,
+      "lag_ms": 0.0,
+      "window_rms": 0.03936116200701357
+    },
+    {
+      "time": 75,
+      "lag_samples": 0,
+      "lag_ms": 0.0,
+      "window_rms": 0.04278797100164066
+    },
+    {
+      "time": 81.9,
+      "lag_samples": 0,
+      "lag_ms": 0.0,
+      "window_rms": 0.13803193267922934
+    },
+    {
+      "time": 81.9,
+      "lag_samples": 0,
+      "lag_ms": 0.0,
+      "window_rms": 0.13803193267922934
+    },
+    {
+      "time": 82.4,
+      "lag_samples": 0,
+      "lag_ms": 0.0,
+      "window_rms": 0.05286987822740122
+    },
+    {
+      "time": 82.4,
+      "lag_samples": 0,
+      "lag_ms": 0.0,
+      "window_rms": 0.05286987822740122
+    },
+    {
+      "time": 88,
+      "lag_samples": 0,
+      "lag_ms": 0.0,
+      "window_rms": 0.04418882710973365
+    },
+    {
+      "time": 92,
+      "lag_samples": 0,
+      "lag_ms": 0.0,
+      "window_rms": 0.032548242560729565
+    },
+    {
+      "time": 92,
+      "lag_samples": 0,
+      "lag_ms": 0.0,
+      "window_rms": 0.032548242560729565
+    },
+    {
+      "time": 96,
+      "lag_samples": 0,
+      "lag_ms": 0.0,
+      "window_rms": 0.028343281253057268
+    },
+    {
+      "time": 102,
+      "lag_samples": 0,
+      "lag_ms": 0.0,
+      "window_rms": 0.07029898764017206
+    },
+    {
+      "time": 115,
+      "lag_samples": 0,
+      "lag_ms": 0.0,
+      "window_rms": 0.02821573964503327
+    },
+    {
+      "time": 116.5,
+      "lag_samples": 0,
+      "lag_ms": 0.0,
+      "window_rms": 0.05260774127346377
+    },
+    {
+      "time": 117.4,
+      "lag_samples": 0,
+      "lag_ms": 0.0,
+      "window_rms": 0.06641370756271635
+    },
+    {
+      "time": 117.4,
+      "lag_samples": 0,
+      "lag_ms": 0.0,
+      "window_rms": 0.06641370756271635
+    },
+    {
+      "time": 125,
+      "lag_samples": 0,
+      "lag_ms": 0.0,
+      "window_rms": 0.049012988685710836
+    },
+    {
+      "time": 125,
+      "lag_samples": 0,
+      "lag_ms": 0.0,
+      "window_rms": 0.049012988685710836
+    },
+    {
+      "time": 130,
+      "lag_samples": 0,
+      "lag_ms": 0.0,
+      "window_rms": 0.027586473538969144
+    },
+    {
+      "time": 132,
+      "lag_samples": 0,
+      "lag_ms": 0.0,
+      "window_rms": 0.04852580570594607
+    },
+    {
+      "time": 137,
+      "lag_samples": 0,
+      "lag_ms": 0.0,
+      "window_rms": 0.024164097862797895
+    },
+    {
+      "time": 138,
+      "lag_samples": 0,
+      "lag_ms": 0.0,
+      "window_rms": 0.03830648316757981
+    },
+    {
+      "time": 138,
+      "lag_samples": 0,
+      "lag_ms": 0.0,
+      "window_rms": 0.03830648316757981
+    },
+    {
+      "time": 148,
+      "lag_samples": 0,
+      "lag_ms": 0.0,
+      "window_rms": 0.07181666903526122
+    },
+    {
+      "time": 157.5,
+      "lag_samples": 0,
+      "lag_ms": 0.0,
+      "window_rms": 0.02069155442657915
+    },
+    {
+      "time": 160,
+      "lag_samples": 0,
+      "lag_ms": 0.0,
+      "window_rms": 0.01973198239017706
+    },
+    {
+      "time": 161,
+      "lag_samples": 0,
+      "lag_ms": 0.0,
+      "window_rms": 0.033508717766686506
+    },
+    {
+      "time": 163.5,
+      "lag_samples": 0,
+      "lag_ms": 0.0,
+      "window_rms": 0.04718050177006633
+    },
+    {
+      "time": 166.5,
+      "lag_samples": 0,
+      "lag_ms": 0.0,
+      "window_rms": 0.030373476538933415
+    }
+  ],
+  "no_listening_claim": true,
+  "visual_alignment_verified_here": false
+}

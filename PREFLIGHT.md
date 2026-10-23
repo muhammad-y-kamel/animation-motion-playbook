@@ -26,3 +26,16 @@ Record episode, source hash, applicable entry IDs, reviewer and pass/fail eviden
 - [ ] Source/audio rebuild and archive integrity verified; final hashes bound to evidence.
 - [ ] Index, trials, best-known repair and prevention updated for EVERY new error.
 - [ ] Separate archive validation from upload/schedule verification. No claims of publication from render QA.
+
+- [ ] Before claiming canonical byte identity, compare materialized and ZIP-extracted `git hash-object` with the repository blob SHA; avoid serialization that appends a newline. EP030-008.
+- [ ] Audio correlation windows include timeline-start/end cases; clamp to decoded stream bounds and reject empty windows before calculating lag. EP030-AUDIO-002 is a test-harness defect, not a media decode defect.
+
+## Recurrence gate — actual support and swept clearance (EP030)
+- [ ] Register every applicable support mode: floor, moving deck, ramp, ladder, bridge, carried and airborne. An unknown mode is not automatically grounded.
+- [ ] Derive each painted contact from the actual support footprint, rendered scale/rotation/outline. Test absolute planted support gaps as well as penetration. Independent x/y tracks and world-floor-only bounds are insufficient.
+- [ ] Disable planted walking anchors during flight. Check the swept shoe/hand envelope against props, machinery and architecture, including docking posts.
+- [ ] Verify semantic grips against real drawn geometry and nearby solids; matching declared points can still grip empty air or intersect a deck.
+- [ ] Use sub-frame/boundary samples and disclose tolerance/coverage. Sampled helper tests do not prove arbitrary continuous mesh clearance.
+- [ ] After source changes, invalidate affected encoded/audio reviews; preserve partial rejected encodes.
+
+Reusable helper: [contact-utils.cjs](helpers/contact-utils.cjs); [recurrence history and scope](evidence/EP030/qa/CONTACT-REGRESSION-RECURRENCE.md). See MOKI-EP030-REVIEW-001/002 and earlier ANIM-0001/0014, EP029-GEO-007.

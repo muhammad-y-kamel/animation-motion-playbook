@@ -1,0 +1,13 @@
+{
+  "sourceSHA256": "6b89bb72f71710ba082f2dc5886351b24c728611c2312e7c91325122c08685ce",
+  "scope": "Independent actual drawing anchors: bucket arc top−93 (arc center−65 radius28), ladder 11px rung top, first stance at rung0 stays on balcony deck380 until first step. Not encoded visual approval.",
+  "stats": {
+    "bucketSamples": 1500,
+    "maxBucketBailError": 3.000000000000054,
+    "maxRungSupportError": 0,
+    "maxBodyToFootSole": 1.1368683772161603e-13
+  },
+  "bucketViolations": [],
+  "bucketViolationCount": 0,
+  "pass": true
+}

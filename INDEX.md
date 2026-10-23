@@ -49,3 +49,19 @@ IDs never change or get reused. New occurrence of same mechanism links the origi
 | [MOKI-EP029-005](entries/MOKI-EP029-005.md) | workflow/archive | EP029 | Cached string blob differs from serialized local file | validated_with_limits |
 
 | [MOKI-EP029-006](entries/MOKI-EP029-006.md) | workflow/archive | EP029 | Unretained blob response obscures concurrent staging failure | validated_with_evidence_limits |
+
+
+## EP030 — final validation with stated evidence limits
+
+| [MOKI-EP030-001](entries/MOKI-EP030-001.md) | physics | EP030 | Contradictory pulley staging requires explicit work and stored energy | validated_with_limits |
+| [MOKI-EP030-002](entries/MOKI-EP030-002.md) | animation | EP030 | Ladder mode resets contacts and mismatches rung support | validated_with_limits |
+| [MOKI-EP030-003](entries/MOKI-EP030-003.md) | geometry | EP030 | Actor and prop routes intersect without silhouette exclusion | validated_with_limits |
+| [MOKI-EP030-004](entries/MOKI-EP030-004.md) | storytelling | EP030 | Catch grip obscures an eye and ladder extraction lacks origin | validated_with_limits |
+| [MOKI-EP030-005](entries/MOKI-EP030-005.md) | animation | EP030 | Rotated bucket loses its bail and pouring anchors | validated_with_limits |
+| [MOKI-EP030-006](entries/MOKI-EP030-006.md) | animation | EP030 | Semantic control grips target an undrawn rope | validated_with_limits |
+| [MOKI-EP030-007](entries/MOKI-EP030-007.md) | composition | EP030 | Poster title panel obscures Moki’s face | validated_with_limits |
+| [MOKI-EP030-008](entries/MOKI-EP030-008.md) | workflow/archive | EP030 | Canonical script serialization appends a newline | validated_with_limits |
+| [MOKI-EP030-AUDIO-001](entries/MOKI-EP030-AUDIO-001.md) | audio | EP030 | Script Foley timing differs from reconciled motion and mechanisms | validated_with_limits |
+| [MOKI-EP030-AUDIO-002](entries/MOKI-EP030-AUDIO-002.md) | verification | EP030 | Opening cue creates a negative correlation window | validated_with_limits |
+| [MOKI-EP030-REVIEW-001](entries/MOKI-EP030-REVIEW-001.md) | geometry | EP030 | Independent x and support tracks penetrate raised decks | validated_with_limits |
+| [MOKI-EP030-REVIEW-002](entries/MOKI-EP030-REVIEW-002.md) | geometry | EP030 | Swept clearance finds hand, control station and structural overlaps | validated_with_limits |
