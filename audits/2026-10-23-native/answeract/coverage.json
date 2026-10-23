@@ -1,0 +1,82 @@
+{
+  "retrieved_at": "2026-10-23T15:51:00Z",
+  "searches": [
+    {
+      "query": "AnswerAct",
+      "sources": [
+        "conversation"
+      ],
+      "pages": 1,
+      "status": "tool_error",
+      "error": "Error searching saved ChatGPT content.",
+      "next_cursor": null
+    },
+    {
+      "query": "brainrot",
+      "sources": [
+        "conversation"
+      ],
+      "pages": 1,
+      "status": "tool_error",
+      "error": "Error searching saved ChatGPT content.",
+      "next_cursor": null
+    },
+    {
+      "query": "إعادة بناء",
+      "sources": [
+        "conversation"
+      ],
+      "pages": 1,
+      "status": "tool_error",
+      "error": "Error searching saved ChatGPT content.",
+      "next_cursor": null
+    },
+    {
+      "query": "برومبت لفيديو 3D",
+      "sources": [
+        "conversation"
+      ],
+      "pages": 1,
+      "status": "tool_error",
+      "error": "Error searching saved ChatGPT content.",
+      "next_cursor": null
+    }
+  ],
+  "conversations": [
+    {
+      "conversation_id": "6ad352d7-d63c-83ea-8596-a11ed8e009f9",
+      "url": "https://chatgpt.com/c/6ad352d7-d63c-83ea-8596-a11ed8e009f9",
+      "title": "إعادة بناء المشروع (parent-supplied lead)",
+      "read_calls": 6,
+      "distinct_messages": 9,
+      "visible_messages": 8,
+      "omitted_message_ids": [
+        "3e66301c-5628-4819-b4f2-dec961ca597d"
+      ],
+      "start": "2026-10-17T10:51:22.650788Z",
+      "end": "2026-10-17T13:26:19.846760Z",
+      "all_directions_exhausted": true,
+      "status": "all visible text read; one message remains omitted even on direct anchored retry"
+    },
+    {
+      "conversation_id": "69b1e321-4c40-8329-ab45-47eb7433baba",
+      "url": "https://chatgpt.com/c/69b1e321-4c40-8329-ab45-47eb7433baba",
+      "title": "برومبت لفيديو 3D (parent-supplied lead); actual project Learn EG angry tablet",
+      "read_calls": 4,
+      "distinct_messages": 16,
+      "omitted_message_ids": [],
+      "start": "2026-03-11T21:48:21.094322Z",
+      "end": "2026-03-11T21:59:14.601114Z",
+      "all_directions_exhausted": true,
+      "pagination_chunks_reassembled": true,
+      "offset_gaps": [],
+      "status": "all returned visible text read and split message spans reassembled"
+    }
+  ],
+  "limitations": [
+    "Discovery search unavailable; direct reads of parent-provided IDs succeeded",
+    "Cannot establish all AnswerAct/native account conversations found",
+    "No finished media/source artifacts independently inspected",
+    "Generic negative prompts and conditional suggestions excluded as unobserved errors"
+  ]
+}

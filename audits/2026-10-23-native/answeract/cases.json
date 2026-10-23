@@ -1,0 +1,122 @@
+[
+  {
+    "id": "N-AA01",
+    "title": "Frame blending caused doubled moving edges",
+    "kind": "new mechanism",
+    "discovered_by": "agent",
+    "sources": [
+      "70b2e870-7f3a-4f16-bc12-231ffd1fea93"
+    ],
+    "description": "V3 assistant explicitly attributed doubled edges during motion to frame mixing and said it removed that mixing. Different from general overlap or dot detachments.",
+    "attempts": "After user rejected both rebuilt films, assistant claimed rebuilding rather than globally speeding old versions; removed frame blend, rerendered38.95s/36.17s. No artifact or user validation retrieved.",
+    "related": [
+      "A03",
+      "A09"
+    ]
+  },
+  {
+    "id": "N-AA02",
+    "title": "Requested Three.js deliverable remained unbuilt",
+    "kind": "new scope-completion failure",
+    "discovered_by": "agent",
+    "sources": [
+      "ef64f136-4d80-49ff-90a8-e584990384ab",
+      "b6d80d7d-67df-4663-8ebc-481b2598a586"
+    ],
+    "description": "Assistant twice disclosed delivered HTML was Canvas2D; additional horizontal Three.js corridor film was not implemented. Overall request incomplete despite completed rebuilds.",
+    "attempts": "First delivery11:53UTC explicitly limited scope; second12:12UTC again admitted unbuiltThreejs and incomplete original request. LaterV3 response concerns two rebuilds, not proof missing item completed.",
+    "related": []
+  },
+  {
+    "id": "N-AA03",
+    "title": "Repeated rebuild rejected for weak music energy/broken placement",
+    "kind": "additional dated occurrence, dedup existing mechanisms",
+    "discovered_by": "user",
+    "sources": [
+      "bbb219aa-b974-44be-869c-2f235eab53ff",
+      "70b2e870-7f3a-4f16-bc12-231ffd1fea93"
+    ],
+    "description": "User at12:21UTC says ordinary motion looked good but energy lagged song, many animations outside place/broken; brainrot same; asks rebuild.",
+    "attempts": "V3 claimed beat-retimed cards and bass-linked endURLnear37s; machine head text anchored to head, print to paper, documents through slot with correct occlusion. Final automated playback was silent; no auditory approval.",
+    "related": [
+      "A03",
+      "A13",
+      "A14"
+    ]
+  },
+  {
+    "id": "N-AA04",
+    "title": "Frozen-motion workaround and receipt numeral direction",
+    "kind": "additional dated repairs, not new duplicate mechanisms",
+    "discovered_by": "agent",
+    "sources": [
+      "ef64f136-4d80-49ff-90a8-e584990384ab",
+      "b6d80d7d-67df-4663-8ebc-481b2598a586"
+    ],
+    "description": "Assistant admits card-title coupling repaired by independent movement, restoring continuous motion instead of freezing; printer/paper/24-7 corrected. Receipt reorganized and numeral direction corrected.",
+    "attempts": "Earlier deliveries claimed repairs but user subsequently rejects overall animation. Link these as failed/incomplete intermediate attempts, not proven final fixes. Receipt direction is a new specific typography occurrence.",
+    "related": [
+      "A13",
+      "A14",
+      "A01"
+    ]
+  },
+  {
+    "id": "N-AA05",
+    "title": "QA evidence limited to silent automatic playback",
+    "kind": "evidence limitation / regression gate",
+    "discovered_by": "agent",
+    "sources": [
+      "b6d80d7d-67df-4663-8ebc-481b2598a586",
+      "70b2e870-7f3a-4f16-bc12-231ffd1fea93"
+    ],
+    "description": "Assistant states successful1x/0.5xautomatic playback was silent, not complete auditorymixreview or exhaustive frameapproval.",
+    "attempts": "No failed actual audio proven by this statement. Preserve as QA limitation for N-AA03; do not convert tool play success into listening proof.",
+    "related": [
+      "A09",
+      "H07"
+    ]
+  },
+  {
+    "id": "N-LE01",
+    "title": "Veo scene-duration constraint missed in20s single video prompt",
+    "kind": "new project authoring mistake",
+    "discovered_by": "user",
+    "sources": [
+      "fe77a103-d9ee-4aa5-aa72-81a1a74ef5a1",
+      "bbb2191b-2894-416b-9acf-aa42276db374",
+      "4b19db0a-9e56-42ae-9c36-24ab60446495"
+    ],
+    "description": "Learn EG tablet mascot conversation: assistant gives20sJSON. User corrects that their Veo3 workflow maxes at8s and requests scene splits plus image prompt/scene.",
+    "attempts": "Assistant supplies3 scenes6–8s (each detailed scene8s) plus reference-image prompts, repeated character description and same lighting/material/cap/eyes guidance. This is prompt revision, no generated film inspected.8s is user's historical constraint, not current model specification verification.",
+    "related": []
+  },
+  {
+    "id": "N-LE02",
+    "title": "Copy did not fit established angry-tablet character",
+    "kind": "new creative revision history",
+    "discovered_by": "user",
+    "sources": [
+      "bbb21aab-983e-4b75-baae-9d1a4b2b6b0d",
+      "bbb21386-9abe-4a7b-ad77-b43f08c27f19",
+      "94a142ce-d827-4b1a-99ff-5c6573fc8e4b"
+    ],
+    "description": "User repeatedly asks for copy matching already-built angry character rather than generic sales prose.",
+    "attempts": "Assistant rewrites as comedic irritated teacher addressing overspending, then sceneJSON. Earlier desire for longer content is preference revision, not render defect. No audio or finished animation verification.",
+    "related": [
+      "A10"
+    ]
+  },
+  {
+    "id": "N-LE03",
+    "title": "Autonomous voiceover-copy QA: typo and unsupported universal claim",
+    "kind": "new authoring-stage review",
+    "discovered_by": "agent",
+    "sources": [
+      "67f4bb86-5ee5-461e-8110-404bfad59fb8"
+    ],
+    "description": "Assistant flags typo مستقى→مستقر and calls «كريديت حقيقي عند كل الشركات» exaggerated, proposing «قيمة قوية في سوق العمل».",
+    "attempts": "Recorded editorial critique only; underlying marketing/pricing/recognition claims not verified here. Generic negative-prompt bans/conditional weak-motion advice are not observed animation errors.",
+    "related": []
+  }
+]

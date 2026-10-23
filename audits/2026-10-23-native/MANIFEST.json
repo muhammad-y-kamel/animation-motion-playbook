@@ -1,0 +1,34 @@
+[
+  {
+    "path": "own/FINDINGS.md",
+    "sha256": "900127817dc3091d58553faee48f946a7e2fc850babd64b68138d792826c4708"
+  },
+  {
+    "path": "own/cases.json",
+    "sha256": "351c28e47b1080d16226967fb2d65ac8904213f91494cbfc3f68078ff12057c3"
+  },
+  {
+    "path": "own/coverage.json",
+    "sha256": "f4cea28e0387ffe20f41b51c549e1a09f3401adfe46cdad3d29fc2384c48cfbb"
+  },
+  {
+    "path": "moki-stories/coverage.json",
+    "sha256": "e06e8e3824768f548f77a5a5a503b696bdc50eba9252858bc6045ad987655cfa"
+  },
+  {
+    "path": "answeract/evidence.json",
+    "sha256": "77599f99fe6820d504da4ad4c2c5c15d148929a6ee8efb9f440f6a9f5c2cc0a0"
+  },
+  {
+    "path": "answeract/cases.json",
+    "sha256": "7527ce5ed248f6396ce05b47c17d543f88af25dfc0f00b77c018990ee43e3389"
+  },
+  {
+    "path": "answeract/findings.md",
+    "sha256": "095a14a1a4455a5af9ba4003d01b0d0b3faaca2f28517d39ee49feeed2989143"
+  },
+  {
+    "path": "answeract/coverage.json",
+    "sha256": "a49b21194d9f6e218e25242a20abbe2f17a7412f43dbf764ad221b6f65d3c1f6"
+  }
+]

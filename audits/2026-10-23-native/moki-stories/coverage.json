@@ -1,0 +1,103 @@
+{
+  "conversation_id": "6a21ed68-0144-8326-bee6-d692044e3b9f",
+  "url": "https://chatgpt.com/c/6a21ed68-0144-8326-bee6-d692044e3b9f",
+  "title": "حكاوي الحارة وتحسينات البرومبت (parent supplied lead)",
+  "retrieved_at": "2026-10-23T15:51:00Z",
+  "pages": 4,
+  "unique_messages": 2,
+  "coverage": "previous and next pagination exhausted; all assistant character chunks0–34665 read",
+  "content_omitted": [],
+  "unresolved_truncation": false,
+  "classification": "requirements_and_prompt_design_only_no_observed_rendered_error",
+  "messages": [
+    {
+      "id": "58bb01f4-bc76-473f-ad07-c07778a10e07",
+      "url": "https://chatgpt.com/c/6a21ed68-0144-8326-bee6-d692044e3b9f?messageId=58bb01f4-bc76-473f-ad07-c07778a10e07",
+      "date": "2026-06-04T21:36:02.080757Z",
+      "role": "assistant",
+      "start": 0,
+      "end": 16547,
+      "content_omitted": false
+    },
+    {
+      "id": "9019265a-fbb7-40e5-8b7c-bcb7b8f116ca",
+      "url": "https://chatgpt.com/c/6a21ed68-0144-8326-bee6-d692044e3b9f?messageId=9019265a-fbb7-40e5-8b7c-bcb7b8f116ca",
+      "date": "2026-06-04T21:25:59.742000Z",
+      "role": "user",
+      "start": 0,
+      "end": 1380,
+      "content_omitted": false
+    },
+    {
+      "id": "58bb01f4-bc76-473f-ad07-c07778a10e07",
+      "url": "https://chatgpt.com/c/6a21ed68-0144-8326-bee6-d692044e3b9f?messageId=58bb01f4-bc76-473f-ad07-c07778a10e07",
+      "date": "2026-06-04T21:36:02.080757Z",
+      "role": "assistant",
+      "start": 16547,
+      "end": 32608,
+      "content_omitted": false
+    },
+    {
+      "id": "58bb01f4-bc76-473f-ad07-c07778a10e07",
+      "url": "https://chatgpt.com/c/6a21ed68-0144-8326-bee6-d692044e3b9f?messageId=58bb01f4-bc76-473f-ad07-c07778a10e07",
+      "date": "2026-06-04T21:36:02.080757Z",
+      "role": "assistant",
+      "start": 32608,
+      "end": 34665,
+      "content_omitted": false
+    }
+  ],
+  "findings": [
+    {
+      "type": "requirement_not_error",
+      "quote": "ميكونش تشكيل زايد يبطأ السرد ولا يخليه ممل وبطيئ",
+      "source_url": "https://chatgpt.com/c/6a21ed68-0144-8326-bee6-d692044e3b9f?messageId=9019265a-fbb7-40e5-8b7c-bcb7b8f116ca",
+      "date": "2026-06-04T21:25:59.742000Z",
+      "interpretation": "Preventive pacing/diacritics request, not reported failure of generated artifact."
+    }
+  ],
+  "search_failures": [
+    {
+      "query": "موكي",
+      "result": "Error searching saved ChatGPT content.",
+      "sources": [
+        "conversation"
+      ]
+    },
+    {
+      "query": "Moki",
+      "result": "Error searching saved ChatGPT content.",
+      "sources": [
+        "conversation"
+      ]
+    },
+    {
+      "query": "بيب",
+      "result": "Error searching saved ChatGPT content.",
+      "sources": [
+        "conversation"
+      ]
+    },
+    {
+      "query": "ماذا لو كنت",
+      "result": "Error searching saved ChatGPT content.",
+      "sources": [
+        "conversation"
+      ]
+    },
+    {
+      "query": "قصص الأنبياء",
+      "result": "Error searching saved ChatGPT content.",
+      "sources": [
+        "conversation"
+      ]
+    },
+    {
+      "query": "حكاوي الحارة",
+      "result": "Error searching saved ChatGPT content.",
+      "sources": [
+        "conversation"
+      ]
+    }
+  ]
+}

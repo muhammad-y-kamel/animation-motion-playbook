@@ -1,0 +1,46 @@
+{
+  "searched_queries_failed": [
+    "animation",
+    "موشن",
+    "فيديو كورسيرا",
+    "برومبت نانو بانانا"
+  ],
+  "error": "Error searching saved ChatGPT content.",
+  "time_utc": "2026-10-23T15:51Z",
+  "conversations": [
+    {
+      "conversation_id": "6a4c060c-8f30-83ea-a1e1-8de605143eeb",
+      "url": "https://chatgpt.com/c/6a4c060c-8f30-83ea-a1e1-8de605143eeb",
+      "pages": 4,
+      "unique_messages": 22,
+      "previous_cursor_exhausted": true,
+      "initial_next_cursor": null,
+      "omitted_message_ids": [
+        "bbb21daa-7229-4b4e-b5f8-9f2d216b695f",
+        "bbb21901-4209-4386-8d9b-37a02d47f6aa",
+        "bbb2179e-9f4a-43ac-a94f-873946ea6da1",
+        "bbb21aec-eb12-4ed9-a147-e09c8486bef8",
+        "bbb21ec6-fa29-4539-b1aa-830a5996cca5"
+      ],
+      "date_start": "2026-07-06T19:48:57.527815Z",
+      "date_end": "2026-07-06T22:03:02.274389Z",
+      "status": "All available reader pages exhausted; omitted attachment/content remains unavailable; no artifact review"
+    },
+    {
+      "conversation_id": "6968d7df-37ac-8327-b969-c213398c3b64",
+      "url": "https://chatgpt.com/c/6968d7df-37ac-8327-b969-c213398c3b64",
+      "pages": 2,
+      "unique_messages": 20,
+      "previous_cursor_exhausted": true,
+      "initial_next_cursor": null,
+      "omitted_message_ids": [
+        "bbb21439-1f87-4646-afd7-361974c9149c",
+        "bbb2137c-212c-48fd-b00e-4894b704dfc7",
+        "bbb213e6-d7a0-4493-8946-2fcb74f4af81"
+      ],
+      "date_start": "2026-01-15T12:05:26.803642Z",
+      "date_end": "2026-01-15T13:56:13.099823Z",
+      "status": "All available reader pages exhausted; omitted attachment/content remains unavailable; no artifact review"
+    }
+  ]
+}

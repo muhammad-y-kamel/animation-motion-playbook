@@ -29,3 +29,7 @@ The original 13 entries above remain intact. [Historical audit and case index](H
 
 ## Discovery origin and autonomous findings
 [Autonomous-discovery audit](DISCOVERY-ORIGIN-AUDIT.md) explicitly attributes all125 historical records (`discovered_by`), preserves agent/reviewer findings without owner complaints, and adds14 previously omitted historical cases plus failed-attempt supplements. Historical claims remain distinct from independent verification.
+
+
+## Native conversation recovery (2026-10-23)
+[Native audit and exact-source coverage](NATIVE-CONVERSATION-AUDIT.md): five directly readable conversations; 11 new historical cases/corrections plus two dated occurrence supplements and one QA limitation. Search discovery remains unavailable; no all-account completion or newly verified media repair claim.
