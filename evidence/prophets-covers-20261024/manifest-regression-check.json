@@ -1,0 +1,246 @@
+{
+  "checked_utc": "2026-10-23T22:38:00Z",
+  "scope": "Local byte identity and final selection only, not YouTube upload verification.",
+  "checks": [
+    {
+      "id": "E01_P01",
+      "hash_matches": true,
+      "below_2MB": true,
+      "final_not_candidate": true
+    },
+    {
+      "id": "E01_P02",
+      "hash_matches": true,
+      "below_2MB": true,
+      "final_not_candidate": true
+    },
+    {
+      "id": "E01_P03",
+      "hash_matches": true,
+      "below_2MB": true,
+      "final_not_candidate": true
+    },
+    {
+      "id": "E01_P04",
+      "hash_matches": true,
+      "below_2MB": true,
+      "final_not_candidate": true
+    },
+    {
+      "id": "E01_P05",
+      "hash_matches": true,
+      "below_2MB": true,
+      "final_not_candidate": true
+    },
+    {
+      "id": "E01_P06",
+      "hash_matches": true,
+      "below_2MB": true,
+      "final_not_candidate": true
+    },
+    {
+      "id": "E01_P07",
+      "hash_matches": true,
+      "below_2MB": true,
+      "final_not_candidate": true
+    },
+    {
+      "id": "E01_P08",
+      "hash_matches": true,
+      "below_2MB": true,
+      "final_not_candidate": true
+    },
+    {
+      "id": "E01_P09",
+      "hash_matches": true,
+      "below_2MB": true,
+      "final_not_candidate": true
+    },
+    {
+      "id": "E01_P10",
+      "hash_matches": true,
+      "below_2MB": true,
+      "final_not_candidate": true
+    },
+    {
+      "id": "E02_P01",
+      "hash_matches": true,
+      "below_2MB": true,
+      "final_not_candidate": true
+    },
+    {
+      "id": "E02_P02",
+      "hash_matches": true,
+      "below_2MB": true,
+      "final_not_candidate": true
+    },
+    {
+      "id": "E02_P03",
+      "hash_matches": true,
+      "below_2MB": true,
+      "final_not_candidate": true
+    },
+    {
+      "id": "E02_P04",
+      "hash_matches": true,
+      "below_2MB": true,
+      "final_not_candidate": true
+    },
+    {
+      "id": "E02_P05",
+      "hash_matches": true,
+      "below_2MB": true,
+      "final_not_candidate": true
+    },
+    {
+      "id": "E02_P06",
+      "hash_matches": true,
+      "below_2MB": true,
+      "final_not_candidate": true
+    },
+    {
+      "id": "E02_P07",
+      "hash_matches": true,
+      "below_2MB": true,
+      "final_not_candidate": true
+    },
+    {
+      "id": "E02_P08",
+      "hash_matches": true,
+      "below_2MB": true,
+      "final_not_candidate": true
+    },
+    {
+      "id": "E02_P09",
+      "hash_matches": true,
+      "below_2MB": true,
+      "final_not_candidate": true
+    },
+    {
+      "id": "E02_P10",
+      "hash_matches": true,
+      "below_2MB": true,
+      "final_not_candidate": true
+    },
+    {
+      "id": "E03_P01",
+      "hash_matches": true,
+      "below_2MB": true,
+      "final_not_candidate": true
+    },
+    {
+      "id": "E03_P02",
+      "hash_matches": true,
+      "below_2MB": true,
+      "final_not_candidate": true
+    },
+    {
+      "id": "E03_P03",
+      "hash_matches": true,
+      "below_2MB": true,
+      "final_not_candidate": true
+    },
+    {
+      "id": "E03_P04",
+      "hash_matches": true,
+      "below_2MB": true,
+      "final_not_candidate": true
+    },
+    {
+      "id": "E03_P05",
+      "hash_matches": true,
+      "below_2MB": true,
+      "final_not_candidate": true
+    },
+    {
+      "id": "E03_P06",
+      "hash_matches": true,
+      "below_2MB": true,
+      "final_not_candidate": true
+    },
+    {
+      "id": "E03_P07",
+      "hash_matches": true,
+      "below_2MB": true,
+      "final_not_candidate": true
+    },
+    {
+      "id": "E03_P08",
+      "hash_matches": true,
+      "below_2MB": true,
+      "final_not_candidate": true
+    },
+    {
+      "id": "E03_P09",
+      "hash_matches": true,
+      "below_2MB": true,
+      "final_not_candidate": true
+    },
+    {
+      "id": "E03_P10",
+      "hash_matches": true,
+      "below_2MB": true,
+      "final_not_candidate": true
+    },
+    {
+      "id": "E04_P01",
+      "hash_matches": true,
+      "below_2MB": true,
+      "final_not_candidate": true
+    },
+    {
+      "id": "E04_P02",
+      "hash_matches": true,
+      "below_2MB": true,
+      "final_not_candidate": true
+    },
+    {
+      "id": "E04_P03",
+      "hash_matches": true,
+      "below_2MB": true,
+      "final_not_candidate": true
+    },
+    {
+      "id": "E04_P04",
+      "hash_matches": true,
+      "below_2MB": true,
+      "final_not_candidate": true
+    },
+    {
+      "id": "E04_P05",
+      "hash_matches": true,
+      "below_2MB": true,
+      "final_not_candidate": true
+    },
+    {
+      "id": "E04_P06",
+      "hash_matches": true,
+      "below_2MB": true,
+      "final_not_candidate": true
+    },
+    {
+      "id": "E04_P07",
+      "hash_matches": true,
+      "below_2MB": true,
+      "final_not_candidate": true
+    },
+    {
+      "id": "E04_P08",
+      "hash_matches": true,
+      "below_2MB": true,
+      "final_not_candidate": true
+    },
+    {
+      "id": "E04_P09",
+      "hash_matches": true,
+      "below_2MB": true,
+      "final_not_candidate": true
+    },
+    {
+      "id": "E04_P10",
+      "hash_matches": true,
+      "below_2MB": true,
+      "final_not_candidate": true
+    }
+  ]
+}

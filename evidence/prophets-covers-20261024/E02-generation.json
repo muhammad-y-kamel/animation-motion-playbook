@@ -1,0 +1,246 @@
+{
+  "mode": "built-in image_gen",
+  "provenance": "Regenerated from original authored cover_text and visual_concept in Shorts_Map.txt, not historical tool prompts or recovered identical originals.",
+  "attempts": [
+    {
+      "id": "E02_P01",
+      "part": "01/10",
+      "title": "النصر والحكمة",
+      "cover_text": "قصة داوود + 01/10 + النصر والحكمة",
+      "visual_concept": "النهر وحلقات درع في تكوين واحد",
+      "prompt": "Generate ONE separate portrait 9:16 YouTube Short thumbnail, not collage. Original identity: engraved 2D manuscript illustration, fine cross-hatched ink on warm layered paper. Palette parchment #e8e1cb, green-black ink #182827, muted turquoise #47716b, small brick-red #995141 accents, ivory. Reference1 provides Dawood story identity; reference2 provides title hierarchy/layout ONLY, do not borrow its water/rocks subject unless requested. Fresh portrait composition for the exact original visual concept. Header smaller, main Arabic title very large/mobile-readable Naskh-style, part badge clear, safe outer margins. Only supplied exact Arabic words and part numeral, no other writing. No human figures of any kind: no prophets, faces, bodies, hands, feet, shadows, reflections, glowing substitutes, or first-person view. No God, angels, supernatural visualization, fake sacred text, weapons, invented historical artifacts, photography, 3D, glow, gradients. Objects and illustrative architecture/environment only, not exact archaeological reconstruction. Original visual concept: النهر وحلقات درع في تكوين واحد. Exact text (header / badge / main title): 'قصة داوود' / '01/10' / 'النصر والحكمة'. Main title: 'النصر والحكمة'.",
+      "hint": "Generated images are saved to /workspace/scratch/bb6b47af6d33/generated_images as /workspace/scratch/bb6b47af6d33/generated_images/exec-1dbcd75a-3ec7-4817-ac23-f1cd8a550177.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+      "generated_source": "/workspace/scratch/bb6b47af6d33/generated_images/exec-1dbcd75a-3ec7-4817-ac23-f1cd8a550177.png",
+      "qa": "visual pass: exact Arabic, part, no people, appropriate concept",
+      "png_path": "/workspace/shared/prophets_recovery/covers-regenerated/E02_P01_Cover.png",
+      "jpg_path": "/workspace/shared/prophets_recovery/covers-regenerated/E02_P01_Cover.jpg",
+      "dimensions": [
+        940,
+        1672
+      ],
+      "png_sha256": "6a97f14daae2384d6e45aacc56d7284e16ae5501f14b4c08db9108cbda34cbf8",
+      "jpg_sha256": "0583753630233124b7d74a90bde8bba347be4402f8871d1d1aba0ed8c8a2c9f7",
+      "jpg_bytes": 1208521
+    },
+    {
+      "id": "E02_P02",
+      "part": "02/10",
+      "title": "طلب الملك",
+      "cover_text": "قصة داوود + 02/10 + طلب الملك",
+      "visual_concept": "رايات وأدوات مجردة لا تجسد جيشًا أو هيئة نبي",
+      "prompt": "Generate ONE separate portrait 9:16 YouTube Short thumbnail, not collage. Original identity: engraved 2D manuscript illustration, fine cross-hatched ink on warm layered paper. Palette parchment #e8e1cb, green-black ink #182827, muted turquoise #47716b, small brick-red #995141 accents, ivory. Reference1 provides Dawood story identity; reference2 provides title hierarchy/layout ONLY, do not borrow its water/rocks subject unless requested. Fresh portrait composition for the exact original visual concept. Header smaller, main Arabic title very large/mobile-readable Naskh-style, part badge clear, safe outer margins. Only supplied exact Arabic words and part numeral, no other writing. No human figures of any kind: no prophets, faces, bodies, hands, feet, shadows, reflections, glowing substitutes, or first-person view. No God, angels, supernatural visualization, fake sacred text, weapons, invented historical artifacts, photography, 3D, glow, gradients. Objects and illustrative architecture/environment only, not exact archaeological reconstruction. Original visual concept: رايات وأدوات مجردة لا تجسد جيشًا أو هيئة نبي. Exact text (header / badge / main title): 'قصة داوود' / '02/10' / 'طلب الملك'. Main title: 'طلب الملك'.",
+      "hint": "Generated images are saved to /workspace/scratch/bb6b47af6d33/generated_images as /workspace/scratch/bb6b47af6d33/generated_images/exec-f10e544a-97b8-4f3a-8771-991b67a1f246.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+      "generated_source": "/workspace/scratch/bb6b47af6d33/generated_images/exec-f10e544a-97b8-4f3a-8771-991b67a1f246.png",
+      "qa": "visual pass: exact Arabic, part, no people, appropriate concept",
+      "png_path": "/workspace/shared/prophets_recovery/covers-regenerated/E02_P02_Cover.png",
+      "jpg_path": "/workspace/shared/prophets_recovery/covers-regenerated/E02_P02_Cover.jpg",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "png_sha256": "6e708d5127d531d7ebdecf814d72166e52a7dd3b4a98123b7e8b22f011f3e7bc",
+      "jpg_sha256": "770ad81a9a19a19aa60acfd23562b0ad65e54e3aed27be4020398e5978725a5f",
+      "jpg_bytes": 1222313
+    },
+    {
+      "id": "E02_P03",
+      "part": "03/10",
+      "title": "اختيار طالوت",
+      "cover_text": "قصة داوود + 03/10 + اختيار طالوت",
+      "visual_concept": "صندوق تخطيطي دون ملائكة أو وصف غيبي للسكينة",
+      "prompt": "Generate ONE separate portrait 9:16 YouTube Short thumbnail, not collage. Original identity: engraved 2D manuscript illustration, fine cross-hatched ink on warm layered paper. Palette parchment #e8e1cb, green-black ink #182827, muted turquoise #47716b, small brick-red #995141 accents, ivory. Reference1 provides Dawood story identity; reference2 provides title hierarchy/layout ONLY, do not borrow its water/rocks subject unless requested. Fresh portrait composition for the exact original visual concept. Header smaller, main Arabic title very large/mobile-readable Naskh-style, part badge clear, safe outer margins. Only supplied exact Arabic words and part numeral, no other writing. No human figures of any kind: no prophets, faces, bodies, hands, feet, shadows, reflections, glowing substitutes, or first-person view. No God, angels, supernatural visualization, fake sacred text, weapons, invented historical artifacts, photography, 3D, glow, gradients. Objects and illustrative architecture/environment only, not exact archaeological reconstruction. Original visual concept: صندوق تخطيطي دون ملائكة أو وصف غيبي للسكينة. Exact text (header / badge / main title): 'قصة داوود' / '03/10' / 'اختيار طالوت'. Main title: 'اختيار طالوت'.",
+      "hint": "Generated images are saved to /workspace/scratch/bb6b47af6d33/generated_images as /workspace/scratch/bb6b47af6d33/generated_images/exec-708aa777-1136-455e-b2c3-f42a79ccd1c0.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+      "generated_source": "/workspace/scratch/bb6b47af6d33/generated_images/exec-708aa777-1136-455e-b2c3-f42a79ccd1c0.png",
+      "qa": "needs visual concept correction: missing specified chest",
+      "png_path": "/workspace/shared/prophets_recovery/covers-regenerated/E02_P03_candidate.png",
+      "jpg_path": "/workspace/shared/prophets_recovery/covers-regenerated/E02_P03_candidate.jpg",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "png_sha256": "9fb82f54b4e72002b0fc9fe44a1d35d395e7e0771f77cec07133df9de0831164",
+      "jpg_sha256": "f110700cdd71de73a57e04d81e7a801e704bdbb2e4b1cadc1d9914d68c6bac07",
+      "jpg_bytes": 1221519
+    },
+    {
+      "id": "E02_P03",
+      "part": "03/10",
+      "title": "اختيار طالوت",
+      "cover_text": "قصة داوود + 03/10 + اختيار طالوت",
+      "visual_concept": "صندوق تخطيطي دون ملائكة أو وصف غيبي للسكينة",
+      "prompt": "Generate ONE separate portrait 9:16 YouTube Short thumbnail, not collage. Original identity: engraved 2D manuscript illustration, fine cross-hatched ink on warm layered paper. Palette parchment #e8e1cb, green-black ink #182827, muted turquoise #47716b, small brick-red #995141 accents, ivory. Reference1 provides Dawood story identity; reference2 provides title hierarchy/layout ONLY, do not borrow its water/rocks subject unless requested. Fresh portrait composition for the exact original visual concept. Header smaller, main Arabic title very large/mobile-readable Naskh-style, part badge clear, safe outer margins. Only supplied exact Arabic words and part numeral, no other writing. No human figures of any kind: no prophets, faces, bodies, hands, feet, shadows, reflections, glowing substitutes, or first-person view. No God, angels, supernatural visualization, fake sacred text, weapons, invented historical artifacts, photography, 3D, glow, gradients. Objects and illustrative architecture/environment only, not exact archaeological reconstruction. Original visual concept: صندوق تخطيطي دون ملائكة أو وصف غيبي للسكينة. REQUIRED primary foreground subject: a simple CLOSED WOODEN CHEST with plain undecorated panels, no carved figures or religious symbols, sitting on stone. The chest must clearly be visible in bottom half; do not replace with cloth or foliage. It is schematic, not archaeological claim.. Exact text: 'قصة داوود' / '03/10' / 'اختيار طالوت'. Main title: 'اختيار طالوت'.",
+      "hint": "Generated images are saved to /workspace/scratch/bb6b47af6d33/generated_images as /workspace/scratch/bb6b47af6d33/generated_images/exec-69abef0d-057c-4ae7-ad03-d040cf46c101.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+      "generated_source": "/workspace/scratch/bb6b47af6d33/generated_images/exec-69abef0d-057c-4ae7-ad03-d040cf46c101.png",
+      "qa": "visual pass: exact Arabic, correct part number, no humans, specified visual concept",
+      "png_path": "/workspace/shared/prophets_recovery/covers-regenerated/E02_P03_Cover.png",
+      "jpg_path": "/workspace/shared/prophets_recovery/covers-regenerated/E02_P03_Cover.jpg",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "png_sha256": "7ee95115ae68bb05cdafb16029676cb62ba797c32d12af3472b969fc0f0c04f7",
+      "jpg_sha256": "1e94bd9159b21fb9e80fb1383ca99ce20fa5aa0aa2d17663e5f667f0acd8591c",
+      "jpg_bytes": 1180346
+    },
+    {
+      "id": "E02_P04",
+      "part": "04/10",
+      "title": "امتحان النهر",
+      "cover_text": "قصة داوود + 04/10 + امتحان النهر",
+      "visual_concept": "مجرى نهر يتحرك بخطوط تركوازية",
+      "prompt": "Generate ONE separate portrait 9:16 YouTube Short thumbnail, not collage. Original identity: engraved 2D manuscript illustration, fine cross-hatched ink on warm layered paper. Palette parchment #e8e1cb, green-black ink #182827, muted turquoise #47716b, small brick-red #995141 accents, ivory. Reference1 provides Dawood story identity; reference2 provides title hierarchy/layout ONLY, do not borrow its water/rocks subject unless requested. Fresh portrait composition for the exact original visual concept. Header smaller, main Arabic title very large/mobile-readable Naskh-style, part badge clear, safe outer margins. Only supplied exact Arabic words and part numeral, no other writing. No human figures of any kind: no prophets, faces, bodies, hands, feet, shadows, reflections, glowing substitutes, or first-person view. No God, angels, supernatural visualization, fake sacred text, weapons, invented historical artifacts, photography, 3D, glow, gradients. Objects and illustrative architecture/environment only, not exact archaeological reconstruction. Original visual concept: مجرى نهر يتحرك بخطوط تركوازية. REQUIRED primary foreground subject: مجرى نهر يتحرك بخطوط تركوازية. Exact text: 'قصة داوود' / '04/10' / 'امتحان النهر'. Main title: 'امتحان النهر'.",
+      "hint": "Generated images are saved to /workspace/scratch/bb6b47af6d33/generated_images as /workspace/scratch/bb6b47af6d33/generated_images/exec-cec7dfaa-1524-4fc2-8740-ec9663428c7a.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+      "generated_source": "/workspace/scratch/bb6b47af6d33/generated_images/exec-cec7dfaa-1524-4fc2-8740-ec9663428c7a.png",
+      "qa": "visual pass: exact Arabic, correct part number, no humans, specified visual concept",
+      "png_path": "/workspace/shared/prophets_recovery/covers-regenerated/E02_P04_Cover.png",
+      "jpg_path": "/workspace/shared/prophets_recovery/covers-regenerated/E02_P04_Cover.jpg",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "png_sha256": "0b19e1c1fb52493bb16751c8e027b5133d13ffa5e7bc84c74bf3774a25954f3c",
+      "jpg_sha256": "5e0a3e7f696fb5d001f048b25478ba0587ea03c4835f6dc6ffe6c669e95af955",
+      "jpg_bytes": 1292036
+    },
+    {
+      "id": "E02_P05",
+      "part": "05/10",
+      "title": "النصر بإذن الله",
+      "cover_text": "قصة داوود + 05/10 + النصر بإذن الله",
+      "visual_concept": "عناصر رايات مجردة دون تخيل سلاح قتل جالوت",
+      "prompt": "Generate ONE separate portrait 9:16 YouTube Short thumbnail, not collage. Original identity: engraved 2D manuscript illustration, fine cross-hatched ink on warm layered paper. Palette parchment #e8e1cb, green-black ink #182827, muted turquoise #47716b, small brick-red #995141 accents, ivory. Reference1 provides Dawood story identity; reference2 provides title hierarchy/layout ONLY, do not borrow its water/rocks subject unless requested. Fresh portrait composition for the exact original visual concept. Header smaller, main Arabic title very large/mobile-readable Naskh-style, part badge clear, safe outer margins. Only supplied exact Arabic words and part numeral, no other writing. No human figures of any kind: no prophets, faces, bodies, hands, feet, shadows, reflections, glowing substitutes, or first-person view. No God, angels, supernatural visualization, fake sacred text, weapons, invented historical artifacts, photography, 3D, glow, gradients. Objects and illustrative architecture/environment only, not exact archaeological reconstruction. Original visual concept: عناصر رايات مجردة دون تخيل سلاح قتل جالوت. REQUIRED primary foreground subject: عناصر رايات مجردة دون تخيل سلاح قتل جالوت. Exact text: 'قصة داوود' / '05/10' / 'النصر بإذن الله'. Main title: 'النصر بإذن الله'.",
+      "hint": "Generated images are saved to /workspace/scratch/bb6b47af6d33/generated_images as /workspace/scratch/bb6b47af6d33/generated_images/exec-2957402c-6bef-45cb-9e70-a91f7941a55c.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+      "generated_source": "/workspace/scratch/bb6b47af6d33/generated_images/exec-2957402c-6bef-45cb-9e70-a91f7941a55c.png",
+      "qa": "visual pass: exact Arabic, correct part number, no humans, specified visual concept",
+      "png_path": "/workspace/shared/prophets_recovery/covers-regenerated/E02_P05_Cover.png",
+      "jpg_path": "/workspace/shared/prophets_recovery/covers-regenerated/E02_P05_Cover.jpg",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "png_sha256": "ab476db2a9b8ecafd5a9436183fadfd293d2c72dea4b41a7d279ddd255f09c3a",
+      "jpg_sha256": "ff1f24a1f44bbd5476ff4bf89586e557effd04c5930c286b8e2b486cb4f078a5",
+      "jpg_bytes": 1224153
+    },
+    {
+      "id": "E02_P06",
+      "part": "06/10",
+      "title": "عبادة وتسبيح",
+      "cover_text": "قصة داوود + 06/10 + عبادة وتسبيح",
+      "visual_concept": "جبال وطير مرسومة دون تقليد صوت تسبيحها",
+      "prompt": "Generate ONE separate portrait 9:16 YouTube Short thumbnail, not collage. Original identity: engraved 2D manuscript illustration, fine cross-hatched ink on warm layered paper. Palette parchment #e8e1cb, green-black ink #182827, muted turquoise #47716b, small brick-red #995141 accents, ivory. Reference1 provides Dawood story identity; reference2 provides title hierarchy/layout ONLY, do not borrow its water/rocks subject unless requested. Fresh portrait composition for the exact original visual concept. Header smaller, main Arabic title very large/mobile-readable Naskh-style, part badge clear, safe outer margins. Only supplied exact Arabic words and part numeral, no other writing. No human figures of any kind: no prophets, faces, bodies, hands, feet, shadows, reflections, glowing substitutes, or first-person view. No God, angels, supernatural visualization, fake sacred text, weapons, invented historical artifacts, photography, 3D, glow, gradients. Objects and illustrative architecture/environment only, not exact archaeological reconstruction. Original visual concept: جبال وطير مرسومة دون تقليد صوت تسبيحها. Make the named subject clearly prominent in bottom half. Mountains and flying ordinary birds only; no supernatural light or literal visualized voices. Exact text: 'قصة داوود' / '06/10' / 'عبادة وتسبيح'. Main title: 'عبادة وتسبيح'.",
+      "hint": "Generated images are saved to /workspace/scratch/bb6b47af6d33/generated_images as /workspace/scratch/bb6b47af6d33/generated_images/exec-747a61d3-3269-4cce-9555-4c997148d7e2.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+      "generated_source": "/workspace/scratch/bb6b47af6d33/generated_images/exec-747a61d3-3269-4cce-9555-4c997148d7e2.png",
+      "qa": "visual pass: exact Arabic, correct part number, no humans, specified visual concept",
+      "png_path": "/workspace/shared/prophets_recovery/covers-regenerated/E02_P06_Cover.png",
+      "jpg_path": "/workspace/shared/prophets_recovery/covers-regenerated/E02_P06_Cover.jpg",
+      "dimensions": [
+        940,
+        1672
+      ],
+      "png_sha256": "964545926496e67d7df3d39a6e7b3a2d159013d66e1ea4aa79625badac9f46b5",
+      "jpg_sha256": "9cf9cc8b5cf4fce52cc4a84f970bd24a040f6c4a4f18480b4372b99759e7ecc1",
+      "jpg_bytes": 1142473
+    },
+    {
+      "id": "E02_P07",
+      "part": "07/10",
+      "title": "الحديد والعمل",
+      "cover_text": "قصة داوود + 07/10 + الحديد والعمل",
+      "visual_concept": "حلقات درع تترابط بلا أيد أو جسم",
+      "prompt": "Generate ONE separate portrait 9:16 YouTube Short thumbnail, not collage. Original identity: engraved 2D manuscript illustration, fine cross-hatched ink on warm layered paper. Palette parchment #e8e1cb, green-black ink #182827, muted turquoise #47716b, small brick-red #995141 accents, ivory. Reference1 provides Dawood story identity; reference2 provides title hierarchy/layout ONLY, do not borrow its water/rocks subject unless requested. Fresh portrait composition for the exact original visual concept. Header smaller, main Arabic title very large/mobile-readable Naskh-style, part badge clear, safe outer margins. Only supplied exact Arabic words and part numeral, no other writing. No human figures of any kind: no prophets, faces, bodies, hands, feet, shadows, reflections, glowing substitutes, or first-person view. No God, angels, supernatural visualization, fake sacred text, weapons, invented historical artifacts, photography, 3D, glow, gradients. Objects and illustrative architecture/environment only, not exact archaeological reconstruction. Original visual concept: حلقات درع تترابط بلا أيد أو جسم. Make the named subject clearly prominent in bottom half. Interlocking iron chainmail rings laid flat on stone, no armor being worn, no body-shaped empty suit. Exact text: 'قصة داوود' / '07/10' / 'الحديد والعمل'. Main title: 'الحديد والعمل'.",
+      "hint": "Generated images are saved to /workspace/scratch/bb6b47af6d33/generated_images as /workspace/scratch/bb6b47af6d33/generated_images/exec-c5a3d0f4-5536-4feb-af80-b8b3ffd56126.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+      "generated_source": "/workspace/scratch/bb6b47af6d33/generated_images/exec-c5a3d0f4-5536-4feb-af80-b8b3ffd56126.png",
+      "qa": "needs cleanup of tiny artifact near title dots",
+      "png_path": "/workspace/shared/prophets_recovery/covers-regenerated/E02_P07_candidate.png",
+      "jpg_path": "/workspace/shared/prophets_recovery/covers-regenerated/E02_P07_candidate.jpg",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "png_sha256": "f10bc872977ec3fb7063248e8d703c52c261921a7d63f08abfe14be0f7379258",
+      "jpg_sha256": "a40280dbb7b6b118d2dc4911db6014cd6f227b11498ef9b25b2f54761a20ca7c",
+      "jpg_bytes": 1218112
+    },
+    {
+      "id": "E02_P08",
+      "part": "08/10",
+      "title": "قضاء الحرث",
+      "cover_text": "قصة داوود + 08/10 + قضاء الحرث",
+      "visual_concept": "حقل تخطيطي وأغنام مرسومة دون رواية آلية التعويض",
+      "prompt": "Generate ONE separate portrait 9:16 YouTube Short thumbnail, not collage. Original identity: engraved 2D manuscript illustration, fine cross-hatched ink on warm layered paper. Palette parchment #e8e1cb, green-black ink #182827, muted turquoise #47716b, small brick-red #995141 accents, ivory. Reference1 provides Dawood story identity; reference2 provides title hierarchy/layout ONLY, do not borrow its water/rocks subject unless requested. Fresh portrait composition for the exact original visual concept. Header smaller, main Arabic title very large/mobile-readable Naskh-style, part badge clear, safe outer margins. Only supplied exact Arabic words and part numeral, no other writing. No human figures of any kind: no prophets, faces, bodies, hands, feet, shadows, reflections, glowing substitutes, or first-person view. No God, angels, supernatural visualization, fake sacred text, weapons, invented historical artifacts, photography, 3D, glow, gradients. Objects and illustrative architecture/environment only, not exact archaeological reconstruction. Original visual concept: حقل تخطيطي وأغنام مرسومة دون رواية آلية التعويض. Make the named subject clearly prominent in bottom half. Illustrative cultivated field with a few ordinary sheep, no people, no specific numerical claim or invented compensation mechanism. Exact text: 'قصة داوود' / '08/10' / 'قضاء الحرث'. Main title: 'قضاء الحرث'.",
+      "hint": "Generated images are saved to /workspace/scratch/bb6b47af6d33/generated_images as /workspace/scratch/bb6b47af6d33/generated_images/exec-8ea1511e-174b-4d92-a9a5-1206b22960f3.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+      "generated_source": "/workspace/scratch/bb6b47af6d33/generated_images/exec-8ea1511e-174b-4d92-a9a5-1206b22960f3.png",
+      "qa": "visual pass: exact Arabic, correct part number, no humans, specified visual concept",
+      "png_path": "/workspace/shared/prophets_recovery/covers-regenerated/E02_P08_Cover.png",
+      "jpg_path": "/workspace/shared/prophets_recovery/covers-regenerated/E02_P08_Cover.jpg",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "png_sha256": "eef285b794771da17ef468a3d7ddd1da9da3c928f76ed3171aa68a357a9ed532",
+      "jpg_sha256": "4089daa37d3da3d0923de9842599de33c0b2e80c6a8f9b158dd4971ba6857648",
+      "jpg_bytes": 1232279
+    },
+    {
+      "id": "E02_P07",
+      "part": "07/10",
+      "title": "الحديد والعمل",
+      "cover_text": "قصة داوود + 07/10 + الحديد والعمل",
+      "visual_concept": "حلقات درع تترابط بلا أيد أو جسم",
+      "prompt": "Edit only the tiny typography artifacts in this completed portrait cover. Preserve the entire illustration, composition, colors, all words and part badge. Exact header must read 'قصة داوود', exact main title 'الحديد والعمل', badge '07/10'. Remove the faint stray translucent gray geometric shard that overlaps one of the two dots beneath ي in الحديد, and render the two dots as clean solid dark-green ink diamonds. Clean any tiny malformed line across dots in header قصة. Keep everything else unchanged. No new objects or people.",
+      "hint": "Generated images are saved to /workspace/scratch/bb6b47af6d33/generated_images as /workspace/scratch/bb6b47af6d33/generated_images/exec-e9a860d2-4e7d-4b93-a22e-ff8d7dab15d8.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+      "generated_source": "/workspace/scratch/bb6b47af6d33/generated_images/exec-e9a860d2-4e7d-4b93-a22e-ff8d7dab15d8.png",
+      "qa": "visual pass: exact Arabic, correct part number, no humans, specified visual concept",
+      "png_path": "/workspace/shared/prophets_recovery/covers-regenerated/E02_P07_Cover.png",
+      "jpg_path": "/workspace/shared/prophets_recovery/covers-regenerated/E02_P07_Cover.jpg",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "png_sha256": "14d0503298fc0143cd4e625efaf131684f67eed33366ff0081eaf9b6653dec58",
+      "jpg_sha256": "ae83437c7ae8b21f670774f9d65246fd7208d4e1112ebc84b16607f50b32ae0f",
+      "jpg_bytes": 1021880
+    },
+    {
+      "id": "E02_P09",
+      "part": "09/10",
+      "title": "خصومة المحراب",
+      "cover_text": "قصة داوود + 09/10 + خصومة المحراب",
+      "visual_concept": "المحراب مع وحدات نعاج معدودة برمجيًا إن استعمل العدد",
+      "prompt": "Generate ONE separate portrait 9:16 YouTube Short thumbnail, not collage. Original identity: engraved 2D manuscript illustration, fine cross-hatched ink on warm layered paper. Palette parchment #e8e1cb, green-black ink #182827, muted turquoise #47716b, small brick-red #995141 accents, ivory. Reference1 provides Dawood story identity; reference2 provides title hierarchy/layout ONLY, do not borrow its water/rocks subject unless requested. Fresh portrait composition for the exact original visual concept. Header smaller, main Arabic title very large/mobile-readable Naskh-style, part badge clear, safe outer margins. Only supplied exact Arabic words and part numeral, no other writing. No human figures of any kind: no prophets, faces, bodies, hands, feet, shadows, reflections, glowing substitutes, or first-person view. No God, angels, supernatural visualization, fake sacred text, weapons, invented historical artifacts, photography, 3D, glow, gradients. Objects and illustrative architecture/environment only, not exact archaeological reconstruction. Original visual concept: المحراب مع وحدات نعاج معدودة برمجيًا إن استعمل العدد. PRIMARY artwork: empty architectural mihrab/niche, balanced etched contours and symmetric stone steps, definitely no people. Do NOT render a precise count of sheep or claim 99, use no sheep and just the empty mihrab architectural symbol. Exact text: 'قصة داوود' / '09/10' / 'خصومة المحراب'. Main title: 'خصومة المحراب'.",
+      "hint": "Generated images are saved to /workspace/scratch/bb6b47af6d33/generated_images as /workspace/scratch/bb6b47af6d33/generated_images/exec-d51618d5-f30c-4bc1-b118-e7a82caa83d2.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+      "generated_source": "/workspace/scratch/bb6b47af6d33/generated_images/exec-d51618d5-f30c-4bc1-b118-e7a82caa83d2.png",
+      "qa": "visual pass: exact Arabic, correct part number, no humans, specified visual concept",
+      "png_path": "/workspace/shared/prophets_recovery/covers-regenerated/E02_P09_Cover.png",
+      "jpg_path": "/workspace/shared/prophets_recovery/covers-regenerated/E02_P09_Cover.jpg",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "png_sha256": "870d51b8f9324385f1408803bf8502a51a5add24ded242ce913b6f4b563f8e50",
+      "jpg_sha256": "02ee8b18b017b8cf943d844b5f6eeb823759bd343d514aa484814c7b735c4b6a",
+      "jpg_bytes": 1258555
+    },
+    {
+      "id": "E02_P10",
+      "part": "10/10",
+      "title": "الإنابة والعدل",
+      "cover_text": "قصة داوود + 10/10 + الإنابة والعدل",
+      "visual_concept": "عمارة المحراب وخطوط متوازنة ترمز إلى العدل",
+      "prompt": "Generate ONE separate portrait 9:16 YouTube Short thumbnail, not collage. Original identity: engraved 2D manuscript illustration, fine cross-hatched ink on warm layered paper. Palette parchment #e8e1cb, green-black ink #182827, muted turquoise #47716b, small brick-red #995141 accents, ivory. Reference1 provides Dawood story identity; reference2 provides title hierarchy/layout ONLY, do not borrow its water/rocks subject unless requested. Fresh portrait composition for the exact original visual concept. Header smaller, main Arabic title very large/mobile-readable Naskh-style, part badge clear, safe outer margins. Only supplied exact Arabic words and part numeral, no other writing. No human figures of any kind: no prophets, faces, bodies, hands, feet, shadows, reflections, glowing substitutes, or first-person view. No God, angels, supernatural visualization, fake sacred text, weapons, invented historical artifacts, photography, 3D, glow, gradients. Objects and illustrative architecture/environment only, not exact archaeological reconstruction. Original visual concept: عمارة المحراب وخطوط متوازنة ترمز إلى العدل. PRIMARY artwork: empty architectural mihrab/niche, balanced etched contours and symmetric stone steps, definitely no people. Balanced parallel engraving lines symbolizing justice, no modern symbols or invented sacred writing. Exact text: 'قصة داوود' / '10/10' / 'الإنابة والعدل'. Main title: 'الإنابة والعدل'.",
+      "hint": "Generated images are saved to /workspace/scratch/bb6b47af6d33/generated_images as /workspace/scratch/bb6b47af6d33/generated_images/exec-26749576-01ce-4d53-a57e-ed4abad77969.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+      "generated_source": "/workspace/scratch/bb6b47af6d33/generated_images/exec-26749576-01ce-4d53-a57e-ed4abad77969.png",
+      "qa": "visual pass: exact Arabic, correct part number, no humans, specified visual concept",
+      "png_path": "/workspace/shared/prophets_recovery/covers-regenerated/E02_P10_Cover.png",
+      "jpg_path": "/workspace/shared/prophets_recovery/covers-regenerated/E02_P10_Cover.jpg",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "png_sha256": "5db56661b12b173ec225529dd414f4f952b0afb782796c486c94441ae72f6b72",
+      "jpg_sha256": "f605f6045bbb1307efbaf8ff98d7e84572732cf020fa5145b92d049223edf86d",
+      "jpg_bytes": 1312131
+    }
+  ]
+}

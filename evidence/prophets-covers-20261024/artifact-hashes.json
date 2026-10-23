@@ -1,0 +1,584 @@
+[
+  {
+    "path": "E01_P09_Cover.jpg",
+    "bytes": 1083061,
+    "sha256": "6faa70aa04bdb7d1aa1870586e8e97021bd7a6f55710eb7393493a589a0fea38",
+    "role": "final_or_review"
+  },
+  {
+    "path": "E02_P06_Cover.jpg",
+    "bytes": 1142473,
+    "sha256": "9cf9cc8b5cf4fce52cc4a84f970bd24a040f6c4a4f18480b4372b99759e7ecc1",
+    "role": "final_or_review"
+  },
+  {
+    "path": "E02_P07_Cover.png",
+    "bytes": 3260090,
+    "sha256": "14d0503298fc0143cd4e625efaf131684f67eed33366ff0081eaf9b6653dec58",
+    "role": "final_or_review"
+  },
+  {
+    "path": "E03_P02_Cover.jpg",
+    "bytes": 1108563,
+    "sha256": "978e1274035ee2268a6921b1d84be14090193d939c2b55b85156680cab9ef74f",
+    "role": "final_or_review"
+  },
+  {
+    "path": "E04_P06_Cover.png",
+    "bytes": 3645716,
+    "sha256": "c1112bbe405a70d8b7df5fa7d9d1bbc5f79189ab64ed7a111e9a11303b004146",
+    "role": "final_or_review"
+  },
+  {
+    "path": "E03_P05_Cover.jpg",
+    "bytes": 1145577,
+    "sha256": "e19145ba87352a15d628f89459bea68120b5b06d5a90561d6d59a67d7bbfd06f",
+    "role": "final_or_review"
+  },
+  {
+    "path": "E03_P05_Cover.png",
+    "bytes": 3742314,
+    "sha256": "008dba04d6fddb5d38bbf7569bf58b917155054acbcaaf0a3a6d90822cc1c6a8",
+    "role": "final_or_review"
+  },
+  {
+    "path": "E01_P07_Cover.jpg",
+    "bytes": 1215530,
+    "sha256": "81cfa4296731971d45038e5782c7bfef08f263f161056c7f1368301c1e041258",
+    "role": "final_or_review"
+  },
+  {
+    "path": "E01_P05_Cover.png",
+    "bytes": 3759223,
+    "sha256": "15816cd6d528907691dfa4aed4db52a72ec638a4e0589ac7ff054402b9c28501",
+    "role": "final_or_review"
+  },
+  {
+    "path": "E01_P03_Cover.jpg",
+    "bytes": 1153063,
+    "sha256": "df841bd758e03d8105b55b74d7c0247b4f2167bd1311415ce68423401d7472ab",
+    "role": "final_or_review"
+  },
+  {
+    "path": "E04_P03_Cover.jpg",
+    "bytes": 1304811,
+    "sha256": "75d320e0fd7ace131dabe80ee33a2f99fddc3090d009d984cc9413e942e7168a",
+    "role": "final_or_review"
+  },
+  {
+    "path": "E04_P08_Cover.png",
+    "bytes": 3648903,
+    "sha256": "409c3dca32c609e81e581b15e37ded619e6ecdeaef2720f0b3775d65aa43127d",
+    "role": "final_or_review"
+  },
+  {
+    "path": "E03_P08_Cover.jpg",
+    "bytes": 1154322,
+    "sha256": "ea88616fe36405890923015e406d45226c21e6afcfe26c7ab672f75beed210b9",
+    "role": "final_or_review"
+  },
+  {
+    "path": "E04_P06_Cover.jpg",
+    "bytes": 1201075,
+    "sha256": "0dfa5fd035ac0c0334c419ebe1e30157230323624900484a9eaa7ed2b5f83b2a",
+    "role": "final_or_review"
+  },
+  {
+    "path": "E03_P10_Cover.jpg",
+    "bytes": 1119199,
+    "sha256": "4faccf18d973b63ae82dd06592384e50a9bcf576f5fde68d7ccef6e520cae9ca",
+    "role": "final_or_review"
+  },
+  {
+    "path": "E04_P04_Cover.jpg",
+    "bytes": 1181277,
+    "sha256": "c5974e8e271a96bf7f7d4e844d1b26ea1c6579e289c28cf17e8504c2c0582a79",
+    "role": "final_or_review"
+  },
+  {
+    "path": "E03_P09_Cover.png",
+    "bytes": 3693220,
+    "sha256": "f1b27c54a44bb3c79bd9206a7eb95eccdfa0f1e42c9672f9af33ce6b0f66774a",
+    "role": "final_or_review"
+  },
+  {
+    "path": "E03_P07_Cover.png",
+    "bytes": 3554452,
+    "sha256": "61f4f025b13344cf54b73ffa8b8af55dfca4151bf93dd9a703d2d5a4c64c40e1",
+    "role": "final_or_review"
+  },
+  {
+    "path": "E03_P06_Cover.jpg",
+    "bytes": 1138897,
+    "sha256": "649b9c9a25efeca1973616ddb4f94a78313643dd186531e0c5dc7a8e75829bae",
+    "role": "final_or_review"
+  },
+  {
+    "path": "E02_P03_Cover.png",
+    "bytes": 3633530,
+    "sha256": "7ee95115ae68bb05cdafb16029676cb62ba797c32d12af3472b969fc0f0c04f7",
+    "role": "final_or_review"
+  },
+  {
+    "path": "E01_P10_candidate-mixed-scenes.png",
+    "bytes": 3962146,
+    "sha256": "a97c85216d153f76ef5bce25765178332d4c8ce95a737912d217504b575f9b92",
+    "role": "rejected_or_candidate"
+  },
+  {
+    "path": "E02_P08_Cover.jpg",
+    "bytes": 1232279,
+    "sha256": "4089daa37d3da3d0923de9842599de33c0b2e80c6a8f9b158dd4971ba6857648",
+    "role": "final_or_review"
+  },
+  {
+    "path": "E01_P05_Cover.jpg",
+    "bytes": 1178128,
+    "sha256": "940ff6111d3916193f58668b85d2f3b8c9e2028f6578905bdf09e350f8eb763f",
+    "role": "final_or_review"
+  },
+  {
+    "path": "E02_P02_Cover.jpg",
+    "bytes": 1222313,
+    "sha256": "770ad81a9a19a19aa60acfd23562b0ad65e54e3aed27be4020398e5978725a5f",
+    "role": "final_or_review"
+  },
+  {
+    "path": "E02_P10_Cover.jpg",
+    "bytes": 1312131,
+    "sha256": "f605f6045bbb1307efbaf8ff98d7e84572732cf020fa5145b92d049223edf86d",
+    "role": "final_or_review"
+  },
+  {
+    "path": "E04_P05_Cover.png",
+    "bytes": 3605337,
+    "sha256": "9c490a1d8df9310c427c494475aac151632b67d584e6a625b73e46246e5e2e57",
+    "role": "final_or_review"
+  },
+  {
+    "path": "E02_P03_candidate.png",
+    "bytes": 3747349,
+    "sha256": "9fb82f54b4e72002b0fc9fe44a1d35d395e7e0771f77cec07133df9de0831164",
+    "role": "rejected_or_candidate"
+  },
+  {
+    "path": "E02_P10_Cover.png",
+    "bytes": 4005422,
+    "sha256": "5db56661b12b173ec225529dd414f4f952b0afb782796c486c94441ae72f6b72",
+    "role": "final_or_review"
+  },
+  {
+    "path": "E02_P04_Cover.png",
+    "bytes": 3792666,
+    "sha256": "0b19e1c1fb52493bb16751c8e027b5133d13ffa5e7bc84c74bf3774a25954f3c",
+    "role": "final_or_review"
+  },
+  {
+    "path": "E01_P08_candidate-mixed-scenes.png",
+    "bytes": 3936092,
+    "sha256": "c545ee9f9941e14f7235511c0fb088011781c4364f9af50eb2bd6197d3921723",
+    "role": "rejected_or_candidate"
+  },
+  {
+    "path": "E02_P01_Cover.png",
+    "bytes": 3739907,
+    "sha256": "6a97f14daae2384d6e45aacc56d7284e16ae5501f14b4c08db9108cbda34cbf8",
+    "role": "final_or_review"
+  },
+  {
+    "path": "E04_P02_Cover.png",
+    "bytes": 3948207,
+    "sha256": "45eaa778e6b611f7ca3d1b01e0c291529549d69e61e4651cb17e83fe8b9365f3",
+    "role": "final_or_review"
+  },
+  {
+    "path": "E02_P05_Cover.jpg",
+    "bytes": 1224153,
+    "sha256": "ff1f24a1f44bbd5476ff4bf89586e557effd04c5930c286b8e2b486cb4f078a5",
+    "role": "final_or_review"
+  },
+  {
+    "path": "E03_P01_Cover.png",
+    "bytes": 3744253,
+    "sha256": "787c4df4bac79e6132eb181795c0f62d0269d648884d9b7c55dcee95de4029d3",
+    "role": "final_or_review"
+  },
+  {
+    "path": "E01_P10_Cover.jpg",
+    "bytes": 1355864,
+    "sha256": "5890346d80180bd5a3a8d04e82272d49b4461b45cf778b6dc266c3c61c04b279",
+    "role": "final_or_review"
+  },
+  {
+    "path": "E02_P03_candidate.jpg",
+    "bytes": 1221519,
+    "sha256": "f110700cdd71de73a57e04d81e7a801e704bdbb2e4b1cadc1d9914d68c6bac07",
+    "role": "rejected_or_candidate"
+  },
+  {
+    "path": "E04_P02_Cover.jpg",
+    "bytes": 1320855,
+    "sha256": "41314d653ad7bb61f5df917b790ff740d2556cafe60003d3d25c9e37216cd633",
+    "role": "final_or_review"
+  },
+  {
+    "path": "E01_P02_Cover.png",
+    "bytes": 3690108,
+    "sha256": "95938b52164ff8cb544bfb3fdbb301135dfdbecb982a29d02af18b3e90e4ed42",
+    "role": "final_or_review"
+  },
+  {
+    "path": "E01_P02_Cover.jpg",
+    "bytes": 1284344,
+    "sha256": "e878393e3b2e068a98b0426a95df22c06dde6e7076ea40eda0d8560560e1ba42",
+    "role": "final_or_review"
+  },
+  {
+    "path": "E02_P04_Cover.jpg",
+    "bytes": 1292036,
+    "sha256": "5e0a3e7f696fb5d001f048b25478ba0587ea03c4835f6dc6ffe6c669e95af955",
+    "role": "final_or_review"
+  },
+  {
+    "path": "QA-all40-contact.jpg",
+    "bytes": 2933044,
+    "sha256": "1b07bb8a0d6f964e79b34b6335c36f5c093cf9337fe155c702b3ce83c45d757e",
+    "role": "final_or_review"
+  },
+  {
+    "path": "E01_P07_Cover.png",
+    "bytes": 3898885,
+    "sha256": "ba4c959b60ee71e6fef9dd60ddade00605cde1a3aaa9ddf58d9dda972170442b",
+    "role": "final_or_review"
+  },
+  {
+    "path": "E04_P08_Cover.jpg",
+    "bytes": 1168354,
+    "sha256": "81e8852ef6cfda8e17fd76fb497d2914c1546b5ee6084992cf1b7729c9f02bf5",
+    "role": "final_or_review"
+  },
+  {
+    "path": "E01_P09_Cover.png",
+    "bytes": 3693819,
+    "sha256": "a39c19c122bdd7f5f7c41c988e389dbdb46248b91bc2f5f9b988df008342a226",
+    "role": "final_or_review"
+  },
+  {
+    "path": "E04_P05_Cover.jpg",
+    "bytes": 1176839,
+    "sha256": "367278823c7bf01c3600d4c227c6a4d08a4f3a5be9634e69778953e33eb1e343",
+    "role": "final_or_review"
+  },
+  {
+    "path": "E01_P04_Cover.png",
+    "bytes": 3973495,
+    "sha256": "ad1ecede0b54c8292341516dfc7a71d9e51dc5284b07b2069b3d32373bf06c5c",
+    "role": "final_or_review"
+  },
+  {
+    "path": "E03_P01_Cover.jpg",
+    "bytes": 1163985,
+    "sha256": "be42ee28adece55c4d321f21a9182f52b8b31330dc52bc478b5498ed074d6747",
+    "role": "final_or_review"
+  },
+  {
+    "path": "E04_P09_Cover.png",
+    "bytes": 4021379,
+    "sha256": "aba0a37a63b3e1ed5c5804933f78ded9e4ca0d40a0c2d01d7ad8672e89efcbfb",
+    "role": "final_or_review"
+  },
+  {
+    "path": "E01_P08_Cover.png",
+    "bytes": 3882460,
+    "sha256": "13c0dabe9ae87a5761d343d335660ed0e666efc826ac7d8c263a104122eaf374",
+    "role": "final_or_review"
+  },
+  {
+    "path": "E03_P07_Cover.jpg",
+    "bytes": 1076495,
+    "sha256": "ac154c5745d18403bcba3344b2457b00b65a33b0aea2844cbe7944cfc6971acb",
+    "role": "final_or_review"
+  },
+  {
+    "path": "E04_P10_Cover.png",
+    "bytes": 3913522,
+    "sha256": "9e100e7675fa858e4c4695b4bab3bf8ec5cbb9aa745e71391598edd4ad7d0e6b",
+    "role": "final_or_review"
+  },
+  {
+    "path": "E02_P01_Cover.jpg",
+    "bytes": 1208521,
+    "sha256": "0583753630233124b7d74a90bde8bba347be4402f8871d1d1aba0ed8c8a2c9f7",
+    "role": "final_or_review"
+  },
+  {
+    "path": "E04_P04_Cover.png",
+    "bytes": 3630139,
+    "sha256": "4e9a5281fb614ed42ce68c40b68db55686a6371c6702a9ecd6caecc06be2645e",
+    "role": "final_or_review"
+  },
+  {
+    "path": "E02_P06_Cover.png",
+    "bytes": 3529830,
+    "sha256": "964545926496e67d7df3d39a6e7b3a2d159013d66e1ea4aa79625badac9f46b5",
+    "role": "final_or_review"
+  },
+  {
+    "path": "E02_P08_Cover.png",
+    "bytes": 3747857,
+    "sha256": "eef285b794771da17ef468a3d7ddd1da9da3c928f76ed3171aa68a357a9ed532",
+    "role": "final_or_review"
+  },
+  {
+    "path": "E03_P09_Cover.jpg",
+    "bytes": 1120449,
+    "sha256": "c947ad0d64de40781674babe1a0d5462ff0d850fafcccfb8634a3621b8491ce0",
+    "role": "final_or_review"
+  },
+  {
+    "path": "E02_P07_candidate.jpg",
+    "bytes": 1218112,
+    "sha256": "a40280dbb7b6b118d2dc4911db6014cd6f227b11498ef9b25b2f54761a20ca7c",
+    "role": "rejected_or_candidate"
+  },
+  {
+    "path": "E01_P06_candidate-hamza.png",
+    "bytes": 4045640,
+    "sha256": "9f6b48e8eab85225ffb65244f363fcda147d537fc87a4785d9f68ffa1e2166b5",
+    "role": "rejected_or_candidate"
+  },
+  {
+    "path": "E01_P10_Cover.png",
+    "bytes": 4023667,
+    "sha256": "9090bdfca34046222e05f69835b135457272b405069e1362071b0c5c0780e328",
+    "role": "final_or_review"
+  },
+  {
+    "path": "E01_P03_Cover.png",
+    "bytes": 3790975,
+    "sha256": "6ef213e874a9401d45f6066752c3ce3b417dfc4a57adebedc960f62ff8272ec8",
+    "role": "final_or_review"
+  },
+  {
+    "path": "E01_P09_candidate-mixed-scenes.png",
+    "bytes": 3857258,
+    "sha256": "9bc61d0c3dd9584904943c8f20e42052af842ff29a636ac68b18d261043a849e",
+    "role": "rejected_or_candidate"
+  },
+  {
+    "path": "E03_P06_Cover.png",
+    "bytes": 3704147,
+    "sha256": "98f732a5a1caf0da8564f9e5d08718f754a24f6ad518cb210c163ca5e7c2370c",
+    "role": "final_or_review"
+  },
+  {
+    "path": "E04_P07_Cover.png",
+    "bytes": 3906105,
+    "sha256": "567fa2994083369a3e277f0a5cd5314e1fa3f2832218736c669900985f04b68c",
+    "role": "final_or_review"
+  },
+  {
+    "path": "E02_P02_Cover.png",
+    "bytes": 3842616,
+    "sha256": "6e708d5127d531d7ebdecf814d72166e52a7dd3b4a98123b7e8b22f011f3e7bc",
+    "role": "final_or_review"
+  },
+  {
+    "path": "E01_P06_candidate-hamza-edit-failed.png",
+    "bytes": 3414331,
+    "sha256": "fccbdea45881a0791d921644ad8e1e51aff14635da3b02c526e71f3db00915dd",
+    "role": "rejected_or_candidate"
+  },
+  {
+    "path": "E01_P04_candidate-scene-rejected.png",
+    "bytes": 3781736,
+    "sha256": "cf870f4c107d130316df7ef2ca06e1137f1f5551bbfef8db4bab70112dce6552",
+    "role": "rejected_or_candidate"
+  },
+  {
+    "path": "E04_P07_Cover.jpg",
+    "bytes": 1300518,
+    "sha256": "6f0e87fc9804a259fe9e16f1fac95c7420f2f6b0de6e78f2a13f45ad9bf3779b",
+    "role": "final_or_review"
+  },
+  {
+    "path": "E03_P08_Cover.png",
+    "bytes": 3813388,
+    "sha256": "881c2d557a11c8e5858ccc42bd71622f337af98370c868164de0b5e1ab2fc541",
+    "role": "final_or_review"
+  },
+  {
+    "path": "E02_P07_candidate.png",
+    "bytes": 3685297,
+    "sha256": "f10bc872977ec3fb7063248e8d703c52c261921a7d63f08abfe14be0f7379258",
+    "role": "rejected_or_candidate"
+  },
+  {
+    "path": "E04_P01_Cover.jpg",
+    "bytes": 1198917,
+    "sha256": "26b681687771d0f5bca9023c8c058c85e342960d00a06748a8e93c8407ab367b",
+    "role": "final_or_review"
+  },
+  {
+    "path": "E04_P10_Cover.jpg",
+    "bytes": 1292174,
+    "sha256": "bbc81fbfb87ef4686b1a4c3777c2c6ed97fe2ab78ebf1ca980dc0fcb00297d1d",
+    "role": "final_or_review"
+  },
+  {
+    "path": "E04_P03_Cover.png",
+    "bytes": 3831267,
+    "sha256": "e1f9a6aef5c22f8f794caf6c35bef38cf223aed22c76b5815a4b990561b8f098",
+    "role": "final_or_review"
+  },
+  {
+    "path": "E02_P03_Cover.jpg",
+    "bytes": 1180346,
+    "sha256": "1e94bd9159b21fb9e80fb1383ca99ce20fa5aa0aa2d17663e5f667f0acd8591c",
+    "role": "final_or_review"
+  },
+  {
+    "path": "E02_P07_Cover.jpg",
+    "bytes": 1021880,
+    "sha256": "ae83437c7ae8b21f670774f9d65246fd7208d4e1112ebc84b16607f50b32ae0f",
+    "role": "final_or_review"
+  },
+  {
+    "path": "E01_P08_Cover.jpg",
+    "bytes": 1313323,
+    "sha256": "afaa5e6fd0b0f2d9d6dd1bd743a7b516b012eb614f66563bc6250d6930b785f6",
+    "role": "final_or_review"
+  },
+  {
+    "path": "E03_P04_Cover.png",
+    "bytes": 3774316,
+    "sha256": "d31d0169fbd65093941d8098787e1fb84a54bc64b2fb1826d90a3cf385f394ae",
+    "role": "final_or_review"
+  },
+  {
+    "path": "E03_P10_Cover.png",
+    "bytes": 3722784,
+    "sha256": "977203124af358cd346e0c2a7afad047ec1dded863ed65a655aad4cc083df199",
+    "role": "final_or_review"
+  },
+  {
+    "path": "E03_P03_Cover.jpg",
+    "bytes": 1155179,
+    "sha256": "e995913823efdf25eed7a1bbe91434875cda56e54ef6b5320365e9a91bb4c0d9",
+    "role": "final_or_review"
+  },
+  {
+    "path": "E01_P03_candidate-scene-rejected.png",
+    "bytes": 3844161,
+    "sha256": "c24e754d9867d700d49fbc5acba2a5a109465d2123d413e76f3b5a735606a603",
+    "role": "rejected_or_candidate"
+  },
+  {
+    "path": "E01_P07_candidate-mixed-scenes.png",
+    "bytes": 4050442,
+    "sha256": "2cad8c5c85a60c727a61f8401e66411d1bea55a31e16b56344565e9be2956be7",
+    "role": "rejected_or_candidate"
+  },
+  {
+    "path": "E04_P09_Cover.jpg",
+    "bytes": 1340236,
+    "sha256": "5f17f9ded9f09aa2374f5033b38b41619dd4a1549dff27acb78447de84c194c4",
+    "role": "final_or_review"
+  },
+  {
+    "path": "E03_P04_Cover.jpg",
+    "bytes": 1164730,
+    "sha256": "77d4cb405b49d807c3864febc0723c153df4b95cab66f8c22bb3e1ea61402f17",
+    "role": "final_or_review"
+  },
+  {
+    "path": "E04_P01_Cover.png",
+    "bytes": 3747431,
+    "sha256": "0b9e5f47227cea7e70d35a47800b2d13ed75bb88267cf2dd4a53f83c26d314d2",
+    "role": "final_or_review"
+  },
+  {
+    "path": "E02_P09_Cover.png",
+    "bytes": 3872501,
+    "sha256": "870d51b8f9324385f1408803bf8502a51a5add24ded242ce913b6f4b563f8e50",
+    "role": "final_or_review"
+  },
+  {
+    "path": "E03_P03_Cover.png",
+    "bytes": 3747279,
+    "sha256": "f5bfd28cd90627c00a54111290cc147508eaf4edbe6fd1f93b09298f97b5a44f",
+    "role": "final_or_review"
+  },
+  {
+    "path": "E02_P05_Cover.png",
+    "bytes": 3826882,
+    "sha256": "ab476db2a9b8ecafd5a9436183fadfd293d2c72dea4b41a7d279ddd255f09c3a",
+    "role": "final_or_review"
+  },
+  {
+    "path": "E02_P09_Cover.jpg",
+    "bytes": 1258555,
+    "sha256": "02ee8b18b017b8cf943d844b5f6eeb823759bd343d514aa484814c7b735c4b6a",
+    "role": "final_or_review"
+  },
+  {
+    "path": "E01_P01_Cover.jpg",
+    "bytes": 1197788,
+    "sha256": "6e0fe217b831186de254e3704aa3bb2b21f7d01518e4f99cc96b9237d7ea91a1",
+    "role": "final_or_review"
+  },
+  {
+    "path": "E01_P06_Cover.png",
+    "bytes": 3898412,
+    "sha256": "6fe05621007ffabd1744dc12ed1a0ef85922185536ea1405d124c3f9662fb964",
+    "role": "final_or_review"
+  },
+  {
+    "path": "E03_P02_Cover.png",
+    "bytes": 3612041,
+    "sha256": "055de70617389bca0f47f549b1b6590b3d65c8709e1e2f75a991bf0b4ce92757",
+    "role": "final_or_review"
+  },
+  {
+    "path": "E01_P06_Cover.jpg",
+    "bytes": 1166238,
+    "sha256": "8b0a22da560afab8dab09cfd91c46404eec23ec9b875d542f1e019d74ca63f44",
+    "role": "final_or_review"
+  },
+  {
+    "path": "E01_P01_Cover.png",
+    "bytes": 3647768,
+    "sha256": "7230b4a4f4e7c5e5287d33bf173bf0f18f00de4bf5d2d8b36b8cb15889190919",
+    "role": "final_or_review"
+  },
+  {
+    "path": "E01_P04_Cover.jpg",
+    "bytes": 1215754,
+    "sha256": "e30a47891651ae5060e3ec7087895a2139f3401ed4f4c1059e953c62b621269e",
+    "role": "final_or_review"
+  },
+  {
+    "path": "rejected/E04_P06-cross-part-contamination.png",
+    "bytes": 3929026,
+    "sha256": "e294792b729370621e23a0f8fcfaae8e7f2ce12c148a184ee5a5c6a0164645bc",
+    "role": "rejected_or_candidate"
+  },
+  {
+    "path": "rejected/E04_P04-cross-part-contamination.png",
+    "bytes": 3972729,
+    "sha256": "a9e1ae928f5e02ed76472a219d60a0f78e19f8e1f1162c319ac3965b0ec86b9c",
+    "role": "rejected_or_candidate"
+  },
+  {
+    "path": "rejected/E04_P05-cross-part-contamination.png",
+    "bytes": 3985780,
+    "sha256": "d68c929b88079747f8e996fa093a4ea6157bdb9e7eedc2583341f698c1eb750e",
+    "role": "rejected_or_candidate"
+  },
+  {
+    "path": "E01_P06_candidate-hamza-edit-failed.png",
+    "bytes": 3414331,
+    "sha256": "fccbdea45881a0791d921644ad8e1e51aff14635da3b02c526e71f3db00915dd",
+    "role": "rejected_or_candidate"
+  }
+]

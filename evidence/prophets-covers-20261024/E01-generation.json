@@ -1,0 +1,185 @@
+{
+  "provenance": "Regenerated using built-in image_gen from original authored Shorts_Map.txt cover specs and Production_Brief.txt visual identity; not recovered original images or exact historical tool prompts.",
+  "files": [
+    {
+      "id": "E01_P01",
+      "path": "/workspace/shared/prophets_recovery/covers-regenerated/E01_P01_Cover.jpg",
+      "size_bytes": 1197788,
+      "dimensions": [
+        940,
+        1672
+      ],
+      "sha256": "6e0fe217b831186de254e3704aa3bb2b21f7d01518e4f99cc96b9237d7ea91a1",
+      "original_png": "/workspace/shared/prophets_recovery/covers-regenerated/E01_P01_Cover.png",
+      "qa": {
+        "arabic_text": "visually verified",
+        "part_number": "01/10",
+        "scene_matches_original_spec": true,
+        "no_humans_or_prophet_depiction": true,
+        "upload_size_under_2MB": true
+      }
+    },
+    {
+      "id": "E01_P02",
+      "path": "/workspace/shared/prophets_recovery/covers-regenerated/E01_P02_Cover.jpg",
+      "size_bytes": 1284344,
+      "dimensions": [
+        941,
+        1672
+      ],
+      "sha256": "e878393e3b2e068a98b0426a95df22c06dde6e7076ea40eda0d8560560e1ba42",
+      "original_png": "/workspace/shared/prophets_recovery/covers-regenerated/E01_P02_Cover.png",
+      "qa": {
+        "arabic_text": "visually verified",
+        "part_number": "02/10",
+        "scene_matches_original_spec": true,
+        "no_humans_or_prophet_depiction": true,
+        "upload_size_under_2MB": true
+      }
+    },
+    {
+      "id": "E01_P03",
+      "path": "/workspace/shared/prophets_recovery/covers-regenerated/E01_P03_Cover.jpg",
+      "size_bytes": 1153063,
+      "dimensions": [
+        941,
+        1672
+      ],
+      "sha256": "df841bd758e03d8105b55b74d7c0247b4f2167bd1311415ce68423401d7472ab",
+      "original_png": "/workspace/shared/prophets_recovery/covers-regenerated/E01_P03_Cover.png",
+      "qa": {
+        "arabic_text": "visually verified",
+        "part_number": "03/10",
+        "scene_matches_original_spec": true,
+        "no_humans_or_prophet_depiction": true,
+        "upload_size_under_2MB": true
+      }
+    },
+    {
+      "id": "E01_P04",
+      "path": "/workspace/shared/prophets_recovery/covers-regenerated/E01_P04_Cover.jpg",
+      "size_bytes": 1215754,
+      "dimensions": [
+        941,
+        1672
+      ],
+      "sha256": "e30a47891651ae5060e3ec7087895a2139f3401ed4f4c1059e953c62b621269e",
+      "original_png": "/workspace/shared/prophets_recovery/covers-regenerated/E01_P04_Cover.png",
+      "qa": {
+        "arabic_text": "visually verified",
+        "part_number": "04/10",
+        "scene_matches_original_spec": true,
+        "no_humans_or_prophet_depiction": true,
+        "upload_size_under_2MB": true
+      }
+    },
+    {
+      "id": "E01_P05",
+      "path": "/workspace/shared/prophets_recovery/covers-regenerated/E01_P05_Cover.jpg",
+      "size_bytes": 1178128,
+      "dimensions": [
+        941,
+        1672
+      ],
+      "sha256": "940ff6111d3916193f58668b85d2f3b8c9e2028f6578905bdf09e350f8eb763f",
+      "original_png": "/workspace/shared/prophets_recovery/covers-regenerated/E01_P05_Cover.png",
+      "qa": {
+        "arabic_text": "visually verified",
+        "part_number": "05/10",
+        "scene_matches_original_spec": true,
+        "no_humans_or_prophet_depiction": true,
+        "upload_size_under_2MB": true
+      }
+    },
+    {
+      "id": "E01_P06",
+      "path": "/workspace/shared/prophets_recovery/covers-regenerated/E01_P06_Cover.jpg",
+      "size_bytes": 1166238,
+      "dimensions": [
+        941,
+        1672
+      ],
+      "sha256": "8b0a22da560afab8dab09cfd91c46404eec23ec9b875d542f1e019d74ca63f44",
+      "original_png": "/workspace/shared/prophets_recovery/covers-regenerated/E01_P06_Cover.png",
+      "qa": {
+        "arabic_text": "visually verified",
+        "part_number": "06/10",
+        "scene_matches_original_spec": true,
+        "no_humans_or_prophet_depiction": true,
+        "upload_size_under_2MB": true
+      }
+    },
+    {
+      "id": "E01_P07",
+      "path": "/workspace/shared/prophets_recovery/covers-regenerated/E01_P07_Cover.jpg",
+      "size_bytes": 1215530,
+      "dimensions": [
+        941,
+        1672
+      ],
+      "sha256": "81cfa4296731971d45038e5782c7bfef08f263f161056c7f1368301c1e041258",
+      "original_png": "/workspace/shared/prophets_recovery/covers-regenerated/E01_P07_Cover.png",
+      "qa": {
+        "arabic_text": "visually verified",
+        "part_number": "07/10",
+        "scene_matches_original_spec": true,
+        "no_humans_or_prophet_depiction": true,
+        "upload_size_under_2MB": true
+      }
+    },
+    {
+      "id": "E01_P08",
+      "path": "/workspace/shared/prophets_recovery/covers-regenerated/E01_P08_Cover.jpg",
+      "size_bytes": 1313323,
+      "dimensions": [
+        941,
+        1672
+      ],
+      "sha256": "afaa5e6fd0b0f2d9d6dd1bd743a7b516b012eb614f66563bc6250d6930b785f6",
+      "original_png": "/workspace/shared/prophets_recovery/covers-regenerated/E01_P08_Cover.png",
+      "qa": {
+        "arabic_text": "visually verified",
+        "part_number": "08/10",
+        "scene_matches_original_spec": true,
+        "no_humans_or_prophet_depiction": true,
+        "upload_size_under_2MB": true
+      }
+    },
+    {
+      "id": "E01_P09",
+      "path": "/workspace/shared/prophets_recovery/covers-regenerated/E01_P09_Cover.jpg",
+      "size_bytes": 1083061,
+      "dimensions": [
+        941,
+        1672
+      ],
+      "sha256": "6faa70aa04bdb7d1aa1870586e8e97021bd7a6f55710eb7393493a589a0fea38",
+      "original_png": "/workspace/shared/prophets_recovery/covers-regenerated/E01_P09_Cover.png",
+      "qa": {
+        "arabic_text": "visually verified",
+        "part_number": "09/10",
+        "scene_matches_original_spec": true,
+        "no_humans_or_prophet_depiction": true,
+        "upload_size_under_2MB": true
+      }
+    },
+    {
+      "id": "E01_P10",
+      "path": "/workspace/shared/prophets_recovery/covers-regenerated/E01_P10_Cover.jpg",
+      "size_bytes": 1355864,
+      "dimensions": [
+        941,
+        1672
+      ],
+      "sha256": "5890346d80180bd5a3a8d04e82272d49b4461b45cf778b6dc266c3c61c04b279",
+      "original_png": "/workspace/shared/prophets_recovery/covers-regenerated/E01_P10_Cover.png",
+      "qa": {
+        "arabic_text": "visually verified",
+        "part_number": "10/10",
+        "scene_matches_original_spec": true,
+        "no_humans_or_prophet_depiction": true,
+        "upload_size_under_2MB": true
+      }
+    }
+  ]
+}

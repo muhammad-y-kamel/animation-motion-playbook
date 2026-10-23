@@ -469,6 +469,15 @@
       "episode": "E01–E04",
       "status": "mixed_evidence_12_records",
       "file": "entries/PROPHETS-20261024-AUDIT.md"
+    },
+    {
+      "id": "PROPHETS-COVERS-20261024",
+      "title": "Five regenerated-cover defect mechanisms and actual repair trials",
+      "category": "cover-art-and-typography",
+      "project": "قصص الأنبياء",
+      "episode": "E01–E04",
+      "status": "validated_with_limits",
+      "file": "entries/PROPHETS-COVERS-20261024.md"
     }
   ]
 }

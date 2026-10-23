@@ -52,3 +52,11 @@ Reusable helper: [contact-utils.cjs](helpers/contact-utils.cjs); [recurrence his
 - [ ] Source/encode changes require exacthash-bound rechecks; codec lookahead may change frames before an editedcut. Compare decodedpixels and inspect differences.
 - [ ] SourceZIP must rebuild source/audio/pixels from local relativeassets; exclude caches, credentials, modelweights and irrelevant hugearchives.
 Evidence: [EP031 clarity repairs](entries/MOKI-EP031-CLARITY-V4.md), [cross-episode pacing audit](evidence/creative-pacing-20261023/MOKI-PEB-CREATIVE-PACING-AUDIT.md). Evidence is bounded; no measured audience/retention claim.
+
+## Cover generation regression gate
+- [ ] Each prompt contains only its own part's positive subject list; shared conditional language must not mention other parts' scene objects.
+- [ ] Style/layout references do not transfer their subjects. Check required subjects and narrative exclusions independently of typography.
+- [ ] Inspect Arabic hamza, dots and joins at full resolution; a successful edit call is not a successful visual repair.
+- [ ] Preserve failed edits and rejected candidates; recheck the entire affected cover and manifest only final accepted hashes.
+Evidence: [Prophets cover trials](entries/PROPHETS-COVERS-20261024.md). No full-video or publication claim follows from a still-cover pass.
+

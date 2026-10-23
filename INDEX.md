@@ -75,3 +75,8 @@ IDs never change or get reused. New occurrence of same mechanism links the origi
 
 [12 evidence-backed records, including unresolved leads and preventive constraints](entries/PROPHETS-20261024-AUDIT.md). These are not 12 confirmed drawing defects. Full visible conversation and recovered source QA reviewed; failed export trials, rejected optimizations and review limitations retained.
 
+
+## Prophets regenerated covers — 2026-10-24
+
+[Five defect mechanisms and repair trials](entries/PROPHETS-COVERS-20261024.md): reference-scene drift, missing hamza with failed edit, cross-part object leakage (including recurrence), omitted required chest, and artifacts on Arabic dots. Rejected attempts and exact final identities retained; still-image QA only.
+
