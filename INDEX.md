@@ -46,6 +46,6 @@ IDs never change or get reused. New occurrence of same mechanism links the origi
 
 | [MOKI-EP029-004](entries/MOKI-EP029-004.md) | workflow/archive | EP029 | Incomplete JSON parse with missing raw diagnostic | validated_with_evidence_limits |
 
-| [MOKI-EP029-005](entries/MOKI-EP029-005.md) | workflow/archive | EP029 | Cached string blob differs from serialized local file | repair_attempted |
+| [MOKI-EP029-005](entries/MOKI-EP029-005.md) | workflow/archive | EP029 | Cached string blob differs from serialized local file | validated_with_limits |
 
 | [MOKI-EP029-006](entries/MOKI-EP029-006.md) | workflow/archive | EP029 | Unretained blob response obscures concurrent staging failure | validated_with_evidence_limits |

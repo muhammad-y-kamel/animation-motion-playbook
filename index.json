@@ -317,7 +317,7 @@
       "category": "workflow/archive",
       "project": "MOKI & PEB",
       "episode": "EP029",
-      "status": "repair_attempted",
+      "status": "validated_with_limits",
       "file": "entries/MOKI-EP029-005.md",
       "discovered_by": "agent"
     },
