@@ -1,0 +1,325 @@
+[
+  {
+    "id": "EZZAY-OLD-06",
+    "title": "Corrupt last-episode export detected by agent",
+    "symptom": "A variant of the last episode was exported corrupt.",
+    "cause": "Not documented; no codec/container cause inferred.",
+    "attempts": "Agent reported re-export, then repair and complete20-file verification. No independent current artifact verification.",
+    "ids": [
+      "msg_0365e9dc27ee78ec016ad85f4ef2e08191abc4acdd57786163",
+      "msg_0365e9dc27ee78ec016ad860191ec4819190973623f4f3e576"
+    ],
+    "project": "إزاي first ten",
+    "discovered_by": "agent",
+    "status": "historical_agent_report_not_independently_verified",
+    "sources": [
+      {
+        "thread_id": "01a15c1a-ea88-733c-89df-6ec6e2f4e050",
+        "item_id": "msg_0365e9dc27ee78ec016ad85f4ef2e08191abc4acdd57786163",
+        "role": "assistant",
+        "excerpt": "العشر حلقات خلصوا بصوت Ahmed، وضبط الكلمات زي «بيكرمش» اتحفظ في المشروع. الفحص كشف إن نسخة من الحلقة الأخيرة اتصدّرت بملف تالف؛ بأعيد تصديرها قبل ما أبعتلك الحزمة النهائية."
+      },
+      {
+        "thread_id": "01a15c1a-ea88-733c-89df-6ec6e2f4e050",
+        "item_id": "msg_0365e9dc27ee78ec016ad860191ec4819190973623f4f3e576",
+        "role": "assistant",
+        "excerpt": "النسخة التالفة اتصلحت. دلوقتي بفحص ملفات الفيديو العشرين كاملة — نسخة بالكلام المكتوب ونسخة من غيره لكل حلقة — قبل تجميع ملف التحميل."
+      }
+    ]
+  },
+  {
+    "id": "EZZAY-OLD-07",
+    "title": "ABS wheel briefly reverses direction",
+    "symptom": "Agent review found the ABS wheel temporarily reversing direction.",
+    "cause": "Not documented; cannot assume angle wrap or easing without source diff.",
+    "attempts": "Adjustment promised before render; later explicitly reported corrected. Verify unwrapped angular direction/phase across successive encoded frames as future test, not test already rerun.",
+    "ids": [
+      "msg_02978293c4b2e228016ad9199342c88191a218d75945693410",
+      "msg_02978293c4b2e228016ad91ebf11a48191b3daf46cd7a3a625"
+    ],
+    "project": "إزاي first ten",
+    "discovered_by": "agent",
+    "status": "historical_agent_report_not_independently_verified",
+    "sources": [
+      {
+        "thread_id": "01a15c1a-ea88-733c-89df-6ec6e2f4e050",
+        "item_id": "msg_02978293c4b2e228016ad9199342c88191a218d75945693410",
+        "role": "assistant",
+        "excerpt": "أول خمس حلقات دخلوا التصدير النهائي بعد مراجعة الرسومات. وفي الباقي ظهرت نقطتان واتمسكت قبل التصدير: فرق احمرار العين في المقارنة كان محتاج يبقى أوضح، وحركة عجلة الـABS كانت بتعكس اتجاهها لحظيًا. بظبطهم، ومعاهم مستمر فحص الكلام على التسجيلات نفسها.\n\n"
+      },
+      {
+        "thread_id": "01a15c1a-ea88-733c-89df-6ec6e2f4e050",
+        "item_id": "msg_02978293c4b2e228016ad91ebf11a48191b3daf46cd7a3a625",
+        "role": "assistant",
+        "excerpt": "العشر حلقات اتصدّروا بالنسختين، ومعاهم الهوية الجديدة. التدقيق كشف كام تفصيلة في الرسوم واتصلحت، منها حركة عجلة الـABS والفرق بين العين قبل الفلاش وبعده. دلوقتي براجع ملفات الفيديو النهائية وتزامن الصوت، وبفحص الكلمات اللي اختلف عليها التفريغ الآلي بمقاطع قصيرة قبل ما أقفل الحزمة.\n"
+      }
+    ]
+  },
+  {
+    "id": "EZZAY-OLD-08",
+    "title": "Before/after red-eye contrast too weak",
+    "symptom": "Review found the before/after eye-redness comparison insufficiently distinct.",
+    "cause": "Not documented beyond weak visible difference.",
+    "attempts": "Adjustment before export and later correction claimed; no quantitative contrast test or new viewing.",
+    "ids": [
+      "msg_02978293c4b2e228016ad9199342c88191a218d75945693410",
+      "msg_02978293c4b2e228016ad91ebf11a48191b3daf46cd7a3a625"
+    ],
+    "project": "إزاي first ten",
+    "discovered_by": "agent",
+    "status": "historical_agent_report_not_independently_verified",
+    "sources": [
+      {
+        "thread_id": "01a15c1a-ea88-733c-89df-6ec6e2f4e050",
+        "item_id": "msg_02978293c4b2e228016ad9199342c88191a218d75945693410",
+        "role": "assistant",
+        "excerpt": "أول خمس حلقات دخلوا التصدير النهائي بعد مراجعة الرسومات. وفي الباقي ظهرت نقطتان واتمسكت قبل التصدير: فرق احمرار العين في المقارنة كان محتاج يبقى أوضح، وحركة عجلة الـABS كانت بتعكس اتجاهها لحظيًا. بظبطهم، ومعاهم مستمر فحص الكلام على التسجيلات نفسها.\n\n"
+      },
+      {
+        "thread_id": "01a15c1a-ea88-733c-89df-6ec6e2f4e050",
+        "item_id": "msg_02978293c4b2e228016ad91ebf11a48191b3daf46cd7a3a625",
+        "role": "assistant",
+        "excerpt": "العشر حلقات اتصدّروا بالنسختين، ومعاهم الهوية الجديدة. التدقيق كشف كام تفصيلة في الرسوم واتصلحت، منها حركة عجلة الـABS والفرق بين العين قبل الفلاش وبعده. دلوقتي براجع ملفات الفيديو النهائية وتزامن الصوت، وبفحص الكلمات اللي اختلف عليها التفريغ الآلي بمقاطع قصيرة قبل ما أقفل الحزمة.\n"
+      }
+    ]
+  },
+  {
+    "case_id": "WHATIF-H13",
+    "title": "Thumbnail wording did not accurately convey story consequence",
+    "discovered_by": "agent",
+    "symptom": "Third cover text adjusted to «الحبر لا يكفي»: character crosses out a paragraph in her own copy while other copies remain. Earlier exact text not supplied.",
+    "cause": "Mismatch between proposed cover implication and story; original wording unavailable.",
+    "attempts_and_outcome": "Assistant reported changing wording; no independent thumbnail inspection here.",
+    "status": "historical_agent_report_not_independently_verified",
+    "sources": [
+      {
+        "thread_id": "01a15161-568f-727a-9d02-00fe38e08077",
+        "item_id": "msg_00cae75d6af9eafd016ad59307451c8191bb49af8cdded8224",
+        "role": "assistant",
+        "excerpt": "الثامبنيلز الثلاثة اتولّدوا، وبراجع النسخ الرأسية منها الآن. وعدّلت نص التصميم الثالث إلى **«الحبر لا يكفي»** ليطابق القصة بدقة: هي تشطب الفقرة في نسختها، بينما النسخ الأخرى تظل موجودة. جدول النشر المقترح يبدأ بالفيلم الكامل يوم الخميس 22 أكتوبر الساعة 8 مساءً، ثم جزء يوميًا لمدة عشرة أيام."
+      }
+    ]
+  },
+  {
+    "case_id": "WHATIF-H14",
+    "title": "Arithmetic, sequencing and historical-claim errors found during script review",
+    "discovered_by": "agent",
+    "symptom": "Agent reported limited arithmetic, sequence and historical-claim errors in four supplied episodes.",
+    "cause": "Specific propositions/calculations not identified in this message; unknown.",
+    "attempts_and_outcome": "Proposed correction preserving events/endings and documenting changes. This evidence alone does not prove repair completed; later approved-script preservation still applies.",
+    "status": "historical_discovery_repair_planned_not_verified",
+    "sources": [
+      {
+        "thread_id": "01a15161-568f-727a-9d02-00fe38e08077",
+        "item_id": "msg_0bde8721998e6dd3016ad82b42de4c8191bf43c76cebb34d14",
+        "role": "assistant",
+        "excerpt": "الملفين فيهم أربع حلقات: متذوّق طعام في ميلانو، وناسخ في باريس، وعامل منجم، وصياد من جزر آران. لقيت أخطاء محدودة في الحساب والتسلسل وبعض الادعاءات التاريخية؛ هصححها مع الحفاظ على الأحداث والنهايات، وأرفق بيانًا بالتعديلات. حلقة آران هتكون المختلفة بصريًا، بأسلوب حفر وحبر وحركة مستوحاة من الخيط والموج."
+      }
+    ]
+  },
+  {
+    "id": "HIST-GM-ADD-01",
+    "project": "GetMotion",
+    "title": "GM025 ball/shadow obscures text",
+    "discovered_by": "agent",
+    "observed_error": "Enlarged review found ball covering part of text; two positions affected. Distinct from GM025 repeated text/send-icon case18.",
+    "attempts_and_outcome": "Previously described AR candidate returned to correction; relocate text clear of ball and shadow, preserve ball motion, rerender both. Corrected source ready for full-size review; no dedicated final proof here.",
+    "status": "assistant_reported_repair_or_pending_not_independently_verified",
+    "sources": [
+      {
+        "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+        "item_id": "msg_04ec605e1f3eda98016ad9156b3f0881919c6bee7f7dbcc618",
+        "role": "assistant",
+        "text": "المراجعة المكبّرة كشفت إن الكرة بتغطي جزءًا من الكتابة في GM025، فهعيد تصدير النسختين بعد ضبط موضع النص. بالتالي النسخة العربية اللي ذكرتها سابقًا رجعت للتعديل. وفي المقابل، تصحيحات النص والأرقام في مشاهد GMX01 ثلاثية الأبعاد اجتازت مراجعة اللقطات.",
+        "truncated": false
+      },
+      {
+        "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+        "item_id": "msg_04ec605e1f3eda98016ad917113f2c8191aebb8a9338af8061",
+        "role": "assistant",
+        "text": "تصحيح GM025 اتحدد في موضعين للنص، وحركة الكرة نفسها سليمة في اللقطات اللي راجعتها. وبراجع الآن نسخ الفيديو المصدّرة، خصوصًا ظهور السعر «799»، ومدة «24–48 ساعة»، وقراءة العربي وقت الانتقالات.",
+        "truncated": false
+      },
+      {
+        "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+        "item_id": "msg_04ec605e1f3eda98016ad917ac4f5c8191881b59c7f06f179e",
+        "role": "assistant",
+        "text": "تصحيح GM025 جاهز للمراجعة: النص بقى داخل مساحة واضحة بعيدًا عن الكرة وظلها في اللقطتين المتأثرتين. هراجع النسخة المصححة بالحجم الكامل قبل إعادة التصدير. كمان بدأت الدفعة التالية من الفيديوهات تدخل التصدير النهائي.",
+        "truncated": false
+      }
+    ],
+    "rationale": "Autonomous assistant review; no user complaint required for inclusion."
+  },
+  {
+    "id": "HIST-GM-ADD-02",
+    "project": "GetMotion",
+    "title": "GM099 seven-second static explanation",
+    "discovered_by": "agent",
+    "observed_error": "A shot stays static about7s during spoken explanation; distinct from GM099 construction-line collision.",
+    "attempts_and_outcome": "Add spoken-content-linked building steps while preserving architectural typography. Planned change, not verified outcome.",
+    "status": "agent_reported_issue_with_planned_fix",
+    "sources": [
+      {
+        "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+        "item_id": "msg_04ec605e1f3eda98016ad916835d808191875a1fcac0e7dbff",
+        "role": "assistant",
+        "text": "المراجعة كشفت كمان لقطة في GM099 بتفضل ثابتة حوالي 7 ثوانٍ أثناء الشرح. هضيف فيها خطوات بناء مرتبطة بالكلام، مع الحفاظ على فكرة الحروف المعمارية. تصحيح موضع النص في GM025 والتصدير ثلاثي الأبعاد مستمرين بالتوازي.",
+        "truncated": false
+      }
+    ],
+    "rationale": "Autonomous assistant review; no user complaint required for inclusion."
+  },
+  {
+    "id": "HIST-GM-ADD-03",
+    "project": "GetMotion",
+    "title": "Three styles fail continuity / loop contract",
+    "discovered_by": "agent",
+    "observed_error": "Three styles need continuity or ending-to-start repair under original brief.",
+    "attempts_and_outcome": "Poster same frame transforms typography→solid→interactive interface then returns to actual first frame; other styles not individually identified. Keep grouped, do not invent3separate identities.",
+    "status": "assistant_reported_repair_or_pending_not_independently_verified",
+    "sources": [
+      {
+        "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+        "item_id": "msg_04ec605e1f3eda98016ada2f752b98819183e89ace2f2c63ad",
+        "role": "assistant",
+        "text": "مكمل. المراجعة كشفت إن ٣ أساليب محتاجة تصحيح في استمرارية الحركة أو رجوع النهاية للبداية حسب الوصف الأصلي. بأصلّحها قبل اعتماد النسخ، وباقي التصدير والمراجعة شغّالين بالتوازي مع الحفاظ على الصوت كاملًا.",
+        "truncated": false
+      },
+      {
+        "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+        "item_id": "msg_04ec605e1f3eda98016ada3118eae481919feb749534721979",
+        "role": "assistant",
+        "text": "بأكمّل تصحيح أسلوب البوستر بحيث نفس الإطار يتحوّل من الكتابة للمجسّم ثم واجهة التفاعل، وتعود النهاية للبداية فعلًا. كمان خلص تصحيح مسار السحّاب في أسلوب تاني، ودخل إعادة التصدير بعد إبعاده عن اللوجو والكلام.",
+        "truncated": false
+      }
+    ],
+    "rationale": "Autonomous assistant review; no user complaint required for inclusion."
+  },
+  {
+    "id": "HIST-GM-ADD-04",
+    "project": "GetMotion",
+    "title": "Zipper path crosses logo/text",
+    "discovered_by": "agent",
+    "observed_error": "Zipper path required clearance correction distinct from previously recorded title/background collision.",
+    "attempts_and_outcome": "Move path away from logo/text, corrected style queued for rerender.",
+    "status": "assistant_reported_repair_or_pending_not_independently_verified",
+    "sources": [
+      {
+        "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+        "item_id": "msg_04ec605e1f3eda98016ada3118eae481919feb749534721979",
+        "role": "assistant",
+        "text": "بأكمّل تصحيح أسلوب البوستر بحيث نفس الإطار يتحوّل من الكتابة للمجسّم ثم واجهة التفاعل، وتعود النهاية للبداية فعلًا. كمان خلص تصحيح مسار السحّاب في أسلوب تاني، ودخل إعادة التصدير بعد إبعاده عن اللوجو والكلام.",
+        "truncated": false
+      }
+    ],
+    "rationale": "Autonomous assistant review; no user complaint required for inclusion."
+  },
+  {
+    "id": "HIST-GM-ADD-05",
+    "project": "GetMotion",
+    "title": "English zipper title exits frame during zoom",
+    "discovered_by": "agent",
+    "observed_error": "Title briefly exceeds frame edge during zoom; static safe frame insufficient.",
+    "attempts_and_outcome": "Adjust title width and rerender; intended fix only in diagnostic source.",
+    "status": "agent_reported_issue_with_planned_fix",
+    "sources": [
+      {
+        "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+        "item_id": "msg_04ec605e1f3eda98016ada24263fb48191a23039c6949b645e",
+        "role": "assistant",
+        "text": "ظهر في الفحص الدقيق أن عنوانًا إنجليزيًا في ستايل السوستة يخرج للحظات عن حافة الكادر أثناء الزووم؛ هعدّل عرضه وأعيد التصدير. وكمان برجع أحد الستايلات للتطوير لأن حركاته بتتكرر أكثر من المطلوب في البرومبت. التصحيح هنا ضروري عشان النتيجة تحقق مستوى الشوريل اللي طلبته.",
+        "truncated": false
+      }
+    ],
+    "rationale": "Autonomous assistant review; no user complaint required for inclusion."
+  },
+  {
+    "id": "HIST-GM-ADD-06",
+    "project": "GetMotion",
+    "title": "Excessively repeated choreography relative to brief",
+    "discovered_by": "agent",
+    "observed_error": "One unnamed style repeats movement more than prompt allows; not repeated text case18.",
+    "attempts_and_outcome": "Return style to development to meet showreel quality. No detailed change or verified end result supplied.",
+    "status": "agent_reported_issue_with_planned_fix",
+    "sources": [
+      {
+        "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+        "item_id": "msg_04ec605e1f3eda98016ada24263fb48191a23039c6949b645e",
+        "role": "assistant",
+        "text": "ظهر في الفحص الدقيق أن عنوانًا إنجليزيًا في ستايل السوستة يخرج للحظات عن حافة الكادر أثناء الزووم؛ هعدّل عرضه وأعيد التصدير. وكمان برجع أحد الستايلات للتطوير لأن حركاته بتتكرر أكثر من المطلوب في البرومبت. التصحيح هنا ضروري عشان النتيجة تحقق مستوى الشوريل اللي طلبته.",
+        "truncated": false
+      }
+    ],
+    "rationale": "Autonomous assistant review; no user complaint required for inclusion."
+  },
+  {
+    "id": "HIST-GM-ADD-07",
+    "project": "GetMotion",
+    "title": "GlassPrint dependent-file preparation failure",
+    "discovered_by": "agent",
+    "observed_error": "Export began only after repairing dependency-file preparation step; distinct from visual refraction seam.",
+    "attempts_and_outcome": "Preparation step repaired and export resumed; exact mechanism and failed implementation absent.",
+    "status": "assistant_reported_repair_or_pending_not_independently_verified",
+    "sources": [
+      {
+        "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+        "item_id": "msg_04ec605e1f3eda98016ada67c13abc8191b3a7bbd816d0e658",
+        "role": "assistant",
+        "text": "تصدير GlassPrint بدأ الآن بعد إصلاح خطوة تجهيز الملفات التابعة له. النسخة العربية من TypeForge جاهزة أيضًا، وبراجع وضوح العربية والسعر ومدة التسليم في الفيديو المُصدّر.\n",
+        "truncated": false
+      }
+    ],
+    "rationale": "Autonomous assistant review; no user complaint required for inclusion."
+  },
+  {
+    "case_id": "A20-new",
+    "project": "AnswerAct",
+    "discovered_by": "agent",
+    "sources": [
+      {
+        "case_id": "A20-new",
+        "discovered_by": "agent",
+        "source_id": "msg_01970fd4588b4086016ad36d1cf2d48191a87c1a49abc4b214",
+        "thread_id": "01a1499a-0980-7305-b35e-303f6cc8804e",
+        "source_url": null,
+        "source_date": null,
+        "exact_excerpt": "البراين روت اتصدّر بالصوت، واتشغّل كاملًا بالسرعة العادية ونصف السرعة. النسخة النهائية فيها نفس الحركة والموسيقى، مع التنسيق الجديد ومن غير كلام الهوامش أو عدّاد المشاهد.\n\nأما أول تجربة للموشن، فكشفت خللًا في توزيع الطباعة على الكروت، وضبابًا بيضعف لقطة النهاية. اتحدد سببهم، وجاري مراجعة لقطات جديدة بعد التصحيح قبل التصدير.",
+        "rationale": "New autonomous rendering finding: card typography distribution faulty and fog weakened final name reveal; agent said cause identified/corrected but exact cause/parameter changes absent. Do not invent fog settings.",
+        "verification_status": "historical assistant report, artifact not independently reviewed"
+      },
+      {
+        "case_id": "A20-new",
+        "discovered_by": "agent",
+        "source_id": "msg_01970fd4588b4086016ad37030bc208191a2c6e43f06f746bc",
+        "thread_id": "01a1499a-0980-7305-b35e-303f6cc8804e",
+        "source_url": null,
+        "source_date": null,
+        "exact_excerpt": "تكوينات الموشن الأساسية بقت جاهزة للمراجعة بالحركة. فيه أيضًا تراكب بين بعض كروت الجدران بيتصلّح الآن، عشان تفاصيلها تبقى أنظف أثناء حركة الكاميرا.\n\nعينة الحركة هتشمل الانتقال من الجدار إلى إعداد الوكيل، ثم الرد والطلب، والسحب الأخير لكشف الاسم. البراين روت جاهز ضمن التسليم.",
+        "rationale": "Subsequent same rebuild preview found wall-card overlap; claimed corrected before camera-motion sample. Separate occurrence, no claim final artifact independently verified.",
+        "verification_status": "historical assistant report, artifact not independently reviewed"
+      }
+    ],
+    "status": "historical_agent_report_not_independently_verified",
+    "notes": "See missing-additions.md for distinct symptom/attempt; multiple source occurrences preserved in one new case."
+  },
+  {
+    "case_id": "B08-new",
+    "project": "AnswerAct",
+    "discovered_by": "agent",
+    "sources": [
+      {
+        "case_id": "B08-new",
+        "discovered_by": "agent",
+        "source_id": "msg_0bd9f608fae1fb7d016ad2f9c22ad08191a464f54ebd67d4a9",
+        "thread_id": "01a147b2-5b70-741a-a766-5677de487044",
+        "source_url": null,
+        "source_date": null,
+        "exact_excerpt": "المراجعة الأولى كشفت إن ورقة الطلب في افتتاحية الفيديو كانت بتقرب زيادة من السطر السفلي؛ عدّلت المسافة. ولقطة «أقل من ساعة» مكتوبة كتحدّي لصاحب البيزنس، ضمن حكاية بناء الوكيل وتجربته وتشغيله.\n",
+        "rationale": "New autonomous brainrot opening QA occurrence: order paper approached lower text too closely; spacing changed. No exact distance or independent result available.",
+        "verification_status": "historical assistant report, artifact not independently reviewed"
+      }
+    ],
+    "status": "historical_agent_report_not_independently_verified",
+    "notes": "See missing-additions.md for distinct symptom/attempt; multiple source occurrences preserved in one new case."
+  }
+]

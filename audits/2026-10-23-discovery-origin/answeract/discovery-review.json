@@ -1,0 +1,944 @@
+{
+  "reviewed_at": "2026-10-23T15:33:00Z",
+  "recovery": {
+    "re_retrieved": true,
+    "pages": 164,
+    "visible_items": 460,
+    "cursors_exhausted": true,
+    "truncated_item": "01a14a59-4d58-7460-a5ae-87ff1f52f20a",
+    "source_urls_available": false
+  },
+  "definition": {
+    "agent": "Production assistant reporting own code/render/audio/visual inspection",
+    "reviewer": "Separately identifiable reviewer; none established in these histories",
+    "user": "Explicit owner feedback",
+    "unknown": "Defect/discoverer not established"
+  },
+  "records": [
+    {
+      "case_id": "A01",
+      "title": "Brand backgrounds and text boxes",
+      "discovered_by": "user",
+      "first_discovery_scope": "earliest explicit observation established within retrieved visible histories; not proof of original real-world discovery",
+      "first_discovery_evidence": [
+        {
+          "thread_id": "01a1499a-0980-7305-b35e-303f6cc8804e",
+          "item_id": "01a14b79-1a15-70dc-a424-3cac0821cc70",
+          "role": "user",
+          "excerpt": "الموشن حلو بس اولا اللوجوهات ظهر وراءها عللنو بيضاء ثانيا كل الكلام في غير مكانه او خارج عن اطاره او حجمه كبير بشكل مزعج \n\nصلح وراجع بصريا وصلح بعدها وابعت"
+        }
+      ],
+      "user_feedback_sources": [
+        "01a14b79-1a15-70dc-a424-3cac0821cc70"
+      ],
+      "agent_diagnosis_or_review_sources": [
+        "msg_01970fd4588b4086016ad3d5ec525081919b1a701d6f3e6246",
+        "msg_01970fd4588b4086016ad3dc44b3888191859c85e153c31e57"
+      ],
+      "rationale": "User explicitly reports the case symptoms; later assistant diagnoses/reviews/claims repair.",
+      "independent_reviewer_identified": false,
+      "source_dates_available": false,
+      "artifact_verified": false
+    },
+    {
+      "case_id": "A02",
+      "title": "Detached dot / underline and arbitrary trajectories",
+      "discovered_by": "agent",
+      "first_discovery_scope": "earliest explicit observation established within retrieved visible histories; not proof of original real-world discovery",
+      "first_discovery_evidence": [
+        {
+          "thread_id": "01a1499a-0980-7305-b35e-303f6cc8804e",
+          "item_id": "msg_01970fd4588b4086016ad3909e86788191904f2aea12013753",
+          "role": "assistant",
+          "excerpt": "فيه خطأ صغير كان واضح أثناء الحركة فقط: خط التأكيد في رد «بنوصل لأي مكان» كان بيعدّي فوق الجملة قبل ما يوصل لمكانه. بيتصلّح مع باقي الانتقالات، بحيث كل كتابة وخط تابع ليها يتحركوا كوحدة واحدة. وفي البرين روت، الحركة الأقوى هتظهر في دخول الوكيل وفتح الطلب، حسب قوة الباص في كل مقطع.\n\n"
+        }
+      ],
+      "user_feedback_sources": [
+        "01a14b98-b11c-732b-86ad-79a48781b0de"
+      ],
+      "agent_diagnosis_or_review_sources": [
+        "msg_01970fd4588b4086016ad3e33997b08191b0586eb9f2b22960",
+        "msg_01970fd4588b4086016ad3e9a6671c81919e2520b6bf457be1"
+      ],
+      "rationale": "Agent earlier detected moving underline crossing text. Later user specifically reported broader dot breaks/arbitrary paths and wrong field label. First component is agent-discovered; broader rejection/label correction is user-discovered.",
+      "independent_reviewer_identified": false,
+      "source_dates_available": false,
+      "artifact_verified": false
+    },
+    {
+      "case_id": "A03",
+      "title": "Inter-scene text and card overlap",
+      "discovered_by": "agent",
+      "first_discovery_scope": "earliest explicit observation established within retrieved visible histories; not proof of original real-world discovery",
+      "first_discovery_evidence": [
+        {
+          "thread_id": "01a1499a-0980-7305-b35e-303f6cc8804e",
+          "item_id": "msg_01970fd4588b4086016ad35e9c1dc0819192d21c44991d7506",
+          "role": "assistant",
+          "excerpt": "ألوان الموشن ومسافاته اتظبطت في اللقطات الجديدة، ومشهد 24/7 بقى واضح. مراجعة الانتقالات كشفت تداخلًا قصيرًا بين كروت مشهدين؛ بصلحه بحركة ورقة تمر أمام الكاميرا، مع استمرار حركة الكروت خلفها.\n\nمراجعة البراين روت بتغطي الآن بدايات ونهايات المشاهد، لحظات الختم، ودخول المستندات. والمؤثرات الجديدة للنسختين جاهزة للمكس مع الأغاني الأصلية."
+        }
+      ],
+      "user_feedback_sources": [
+        "01a14a5e-3b1d-74ee-8ba6-e8ba76d5de7e"
+      ],
+      "agent_diagnosis_or_review_sources": [
+        "msg_01970fd4588b4086016ad38f6a96d88191899c1c1be90f5e8a",
+        "msg_01970fd4588b4086016ad39e93161c81918827932f329a2bbf"
+      ],
+      "rationale": "Agent had already found inter-scene card overlap during rebuild. Later user reported persistent overlap plus weak beat response/broken arrows; these latter symptoms are user-reported, subsequent path diagnoses agent-made.",
+      "independent_reviewer_identified": false,
+      "source_dates_available": false,
+      "artifact_verified": false
+    },
+    {
+      "case_id": "A04",
+      "title": "Brainrot typography / unwanted decorations",
+      "discovered_by": "user",
+      "first_discovery_scope": "earliest explicit observation established within retrieved visible histories; not proof of original real-world discovery",
+      "first_discovery_evidence": [
+        {
+          "thread_id": "01a1499a-0980-7305-b35e-303f6cc8804e",
+          "item_id": "01a149ca-abaf-75a3-a8f9-61f90387c1f8",
+          "role": "user",
+          "excerpt": "البرين روت كويس ماعدى احجام واماكن الكلام مش متظبطة وابشكل البصري غالبا بتاعها مش كويس في كل الفيديو وشيل كلمة فريق القص واللزق وشيل الكلام اللي عالهوامش دا بتاع فريق النسخ واللصق وشيل العداد بتاع الصفحات اللي تحت\n\nالفيديو التاني بايظ خالص"
+        }
+      ],
+      "user_feedback_sources": [
+        "01a149ca-abaf-75a3-a8f9-61f90387c1f8"
+      ],
+      "agent_diagnosis_or_review_sources": [
+        "msg_01970fd4588b4086016ad38634ced48191b89c060cdbfea3d2"
+      ],
+      "rationale": "User explicitly reports the case symptoms; later assistant diagnoses/reviews/claims repair.",
+      "independent_reviewer_identified": false,
+      "source_dates_available": false,
+      "artifact_verified": false
+    },
+    {
+      "case_id": "A05",
+      "title": "Arabic narration unnatural / pronunciation loop",
+      "discovered_by": "user",
+      "first_discovery_scope": "earliest explicit observation established within retrieved visible histories; not proof of original real-world discovery",
+      "first_discovery_evidence": [
+        {
+          "thread_id": "01a1499a-0980-7305-b35e-303f6cc8804e",
+          "item_id": "01a15696-d804-76d6-8c16-0cfa46f05c19",
+          "role": "user",
+          "excerpt": "طب انت اللي بعته لي دا مش بشري خالص ، اعمل هيومانايز للفكرة والكلام شوية تاني \n\n\nوكمان نطق الكلام ماطلعش صح"
+        }
+      ],
+      "user_feedback_sources": [
+        "01a15696-d804-76d6-8c16-0cfa46f05c19",
+        "01a15699-7298-7720-af77-f6adfdeafc4e",
+        "01a156e0-96d1-7235-80af-0ffb92db968c"
+      ],
+      "agent_diagnosis_or_review_sources": [
+        "msg_01970fd4588b4086016ad6aebeaf0c8191b2b30c9ece63b2df",
+        "msg_01970fd4588b4086016ad6c465b89c8191bb84e17f9bad4097",
+        "msg_01970fd4588b4086016ad6c644d61081918a811874050d106e"
+      ],
+      "rationale": "User first explicitly reports unnatural voice/emotion/pronunciation within this grouped case. Agent independently detects later phrase/ASR issues; do not treat ASR as discovery of subjective emotional quality.",
+      "independent_reviewer_identified": false,
+      "source_dates_available": false,
+      "artifact_verified": false
+    },
+    {
+      "case_id": "A06",
+      "title": "English voices for Egyptian Arabic failed",
+      "discovered_by": "user",
+      "first_discovery_scope": "earliest explicit observation established within retrieved visible histories; not proof of original real-world discovery",
+      "first_discovery_evidence": [
+        {
+          "thread_id": "01a1499a-0980-7305-b35e-303f6cc8804e",
+          "item_id": "01a157a9-a4fe-72b5-bc53-3577cc9ad4af",
+          "role": "user",
+          "excerpt": "بص اتعامل انه شو ريل لينا , الفيديو اللي انت عملته مش عاجبني , الغي البرومبت من ذاكرتك وابدع انت المرادي من دماغك , انت بس حافظلي على المعلومات اللي انا عاوزك تقولها في الفيديو وانه فيديو اعلاني \n\nُاينة , بتوصلك رسالةة لسا بتتنطق غلط , والصوت العربي مش زي الانجليزي في موضوع المشاعر انا خدت بالي , جرب تستعمل اصوات انجليزية للكلام العربي يمكن تظبط"
+        }
+      ],
+      "user_feedback_sources": [
+        "01a157a9-a4fe-72b5-bc53-3577cc9ad4af",
+        "01a157d2-8753-7310-895e-defbbaf988a0"
+      ],
+      "agent_diagnosis_or_review_sources": [
+        "msg_01970fd4588b4086016ad6fc38a3d881918399b795afb2c794",
+        "msg_0ded140a17753036016ad7005ca5548191b0766a27e5cbb08c",
+        "msg_0ded140a17753036016ad707d1b6c4819196b79ac440b8dbbc"
+      ],
+      "rationale": "User proposes English-voice trial; agent executes it; user is first to explicitly reject result as worse. Agent's trial report is not discovery of failure.",
+      "independent_reviewer_identified": false,
+      "source_dates_available": false,
+      "artifact_verified": false
+    },
+    {
+      "case_id": "A07",
+      "title": "Mid-recording voice discontinuity and unsuitable bag",
+      "discovered_by": "user",
+      "first_discovery_scope": "earliest explicit observation established within retrieved visible histories; not proof of original real-world discovery",
+      "first_discovery_evidence": [
+        {
+          "thread_id": "01a1499a-0980-7305-b35e-303f6cc8804e",
+          "item_id": "01a1577c-cfb3-73f7-8c1f-732a9fdcf762",
+          "role": "user",
+          "excerpt": "الصوت نفسه ااقطع في النص وكان كأنه شخص تاني\n\nبالنسبة للشنطة فاهي شكلها مش مناسب اساسا ومعرفش جيبتها منين"
+        }
+      ],
+      "user_feedback_sources": [
+        "01a1577c-cfb3-73f7-8c1f-732a9fdcf762"
+      ],
+      "agent_diagnosis_or_review_sources": [
+        "msg_01970fd4588b4086016ad6f22d79688191b94ad07cbffb761d"
+      ],
+      "rationale": "User explicitly reports the case symptoms; later assistant diagnoses/reviews/claims repair.",
+      "independent_reviewer_identified": false,
+      "source_dates_available": false,
+      "artifact_verified": false
+    },
+    {
+      "case_id": "A08",
+      "title": "Distorted brand identity",
+      "discovered_by": "user",
+      "first_discovery_scope": "earliest explicit observation established within retrieved visible histories; not proof of original real-world discovery",
+      "first_discovery_evidence": [
+        {
+          "thread_id": "01a1499a-0980-7305-b35e-303f6cc8804e",
+          "item_id": "01a15778-31c3-727e-afc8-4fe4747276ed",
+          "role": "user",
+          "excerpt": "اول الفيو النطق غلط في الهربي وفي الفيديوهين شكل اللوجو غير الصحيح ومعوق جدا"
+        }
+      ],
+      "user_feedback_sources": [
+        "01a15778-31c3-727e-afc8-4fe4747276ed"
+      ],
+      "agent_diagnosis_or_review_sources": [
+        "msg_01970fd4588b4086016ad6f01a5ff88191aff5db1e45d622c4",
+        "msg_01970fd4588b4086016ad6f22d79688191b94ad07cbffb761d"
+      ],
+      "rationale": "User explicitly reports the case symptoms; later assistant diagnoses/reviews/claims repair.",
+      "independent_reviewer_identified": false,
+      "source_dates_available": false,
+      "artifact_verified": false
+    },
+    {
+      "case_id": "A09",
+      "title": "V6 rejected despite prior review claims",
+      "discovered_by": "user",
+      "first_discovery_scope": "earliest explicit observation established within retrieved visible histories; not proof of original real-world discovery",
+      "first_discovery_evidence": [
+        {
+          "thread_id": "01a1499a-0980-7305-b35e-303f6cc8804e",
+          "item_id": "01a157d2-8753-7310-895e-defbbaf988a0",
+          "role": "user",
+          "excerpt": "النسخة العربية طلعت اسوء بالصوت الانجليزي خليها بصوت عربي كويس بقى وشوف لو فيه تقييمات او حاجه للصوت\n\nثانيا اظبط التشكيل بعد اذنك اغلب الكلام طالع ملغبط\n\nثالثا الفيديو طلع مبعوص بمعنى الكلمة الحركة فيه غلط وبتدخل في بعض في حركات غريبة وحاجات بتظهر فوق بعض وخرا , راجع فريم باي فريم ببنفسك بعد اذنك لفيديوهين ونفذ بس"
+        }
+      ],
+      "user_feedback_sources": [
+        "01a157d2-8753-7310-895e-defbbaf988a0"
+      ],
+      "agent_diagnosis_or_review_sources": [
+        "msg_0ded140a17753036016ad6ffa159f08191b19b6ee25065508c",
+        "msg_0ded140a17753036016ad700e02d508191abb47f9160217e36",
+        "msg_0ded140a17753036016ad707d1b6c4819196b79ac440b8dbbc"
+      ],
+      "rationale": "This record captures user's rejection of delivered V6, not first discovery of every constituent symptom. Autonomous earlier V6 preview faults are separately mapped to A18; V7 causal diagnosis follows user rejection.",
+      "independent_reviewer_identified": false,
+      "source_dates_available": false,
+      "artifact_verified": false
+    },
+    {
+      "case_id": "A10",
+      "title": "Wrong audience pain / insufficient concept",
+      "discovered_by": "user",
+      "first_discovery_scope": "earliest explicit observation established within retrieved visible histories; not proof of original real-world discovery",
+      "first_discovery_evidence": [
+        {
+          "thread_id": "01a1499a-0980-7305-b35e-303f6cc8804e",
+          "item_id": "01a15649-c66b-74b1-b859-9a3bb47f00cb",
+          "role": "user",
+          "excerpt": "ممتاز بامانة بس ناقصه حاجه\n\nهو ليه مركز عالمنتجات ، مانخليه واضح انه لأي نوع بيزنس\n\nعيد البناء مع تدقيق اشد على الانيميشن يكون مظبوط عشان حاسس دا فيه مشاكل شوية"
+        }
+      ],
+      "user_feedback_sources": [
+        "01a15649-c66b-74b1-b859-9a3bb47f00cb",
+        "01a156aa-fd78-77b3-bbf3-0df623492a51"
+      ],
+      "agent_diagnosis_or_review_sources": [
+        "msg_01970fd4588b4086016ad6abad421881918a8e838335ab1bcd",
+        "msg_01970fd4588b4086016ad6be9b21908191af75c1ce384af2f8"
+      ],
+      "rationale": "User identifies audience/concept mismatch. Agent later independently spots chat reply behaving as headline (new supplement); separate later discovery retained.",
+      "independent_reviewer_identified": false,
+      "source_dates_available": false,
+      "artifact_verified": false
+    },
+    {
+      "case_id": "A11",
+      "title": "Audio source restart / incomplete mix",
+      "discovered_by": "agent",
+      "first_discovery_scope": "earliest explicit observation established within retrieved visible histories; not proof of original real-world discovery",
+      "first_discovery_evidence": [
+        {
+          "thread_id": "01a1499a-0980-7305-b35e-303f6cc8804e",
+          "item_id": "msg_01970fd4588b4086016ad35b8c87088191a24f4a3d257ee2d7",
+          "role": "assistant",
+          "excerpt": "تحليل الصوت كشف مشكلة كمان: ملف Montagem المرفق أسرع فعلًا، لكن فيه إعادة تشغيل للمقطع قرب الثانية 37. هستخدم الجزء السليم وأركّب الحركة على نبضاته المقاسة؛ المدة المقترحة بقت نحو 36 ثانية للبراين روت و39 ثانية للموشن.\n\nخطة الموشن: رسالة متأخرة، كروت بيانات مترابطة، اختيار الموديل والأسلوب، ردود مناسبة، ثم طلب منظم ولقطة سحب تكشف العلامة. وخطة البراين روت: ماكينة «أهلًا!» بتكرر نفس الرد، تدخل لها بيانات النشاط، وتخرج منها إجابات وطلبات مفيدة. هدي جمل المحادثة وقتًا كافيًا للقراءة وسط الإيقاع السريع."
+        }
+      ],
+      "user_feedback_sources": [],
+      "agent_diagnosis_or_review_sources": [
+        "msg_01970fd4588b4086016ad35b8c87088191a24f4a3d257ee2d7",
+        "msg_01970fd4588b4086016ad686b8cdc48191b3ebd1864938d344"
+      ],
+      "rationale": "Assistant explicitly reports an autonomous review/test finding; no separate user complaint for that exact finding retrieved.",
+      "independent_reviewer_identified": false,
+      "source_dates_available": false,
+      "artifact_verified": false
+    },
+    {
+      "case_id": "A12",
+      "title": "Other render-stage defects",
+      "discovered_by": "agent",
+      "first_discovery_scope": "earliest explicit observation established within retrieved visible histories; not proof of original real-world discovery",
+      "first_discovery_evidence": [
+        {
+          "thread_id": "01a1499a-0980-7305-b35e-303f6cc8804e",
+          "item_id": "msg_01970fd4588b4086016ad35d11c8308191a8f9c78ea4aede21",
+          "role": "assistant",
+          "excerpt": "أول لقطات الموشن الجديدة أظهرت حاجات محتاجة ضبط قبل التصدير: الإضاءة فتّحت الأزرق زيادة، وبعض الكروت كانت قريبة من الحواف ومتداخلة مع السطر السفلي. بظبط التكوين والإضاءة، وبراجع مشهد 24/7 منفصلًا عشان مايتكررش التزاحم القديم.\n\nالصوتان بقوا جاهزين بالمُدد المحددة، والقياس لم يُظهر قصًّا صوتيًا. باقي ربط المؤثرات الجديدة بلحظات الحركة ثم فحص المكس النهائي."
+        }
+      ],
+      "user_feedback_sources": [],
+      "agent_diagnosis_or_review_sources": [
+        "msg_01970fd4588b4086016ad35d11c8308191a8f9c78ea4aede21",
+        "msg_01970fd4588b4086016ad37f8783ec8191af6cd9c601fe8774",
+        "msg_01970fd4588b4086016ad68af0a0388191900e860d039a6cde",
+        "msg_01970fd4588b4086016ad68c45d6ac8191bf2dc2ade9b1f94c"
+      ],
+      "rationale": "Assistant explicitly reports an autonomous review/test finding; no separate user complaint for that exact finding retrieved.",
+      "independent_reviewer_identified": false,
+      "source_dates_available": false,
+      "artifact_verified": false
+    },
+    {
+      "case_id": "H01",
+      "title": "Checkmark/card timing and broken ending",
+      "discovered_by": "user",
+      "first_discovery_scope": "earliest explicit observation established within retrieved visible histories; not proof of original real-world discovery",
+      "first_discovery_evidence": [
+        {
+          "thread_id": "01a14a59-34e5-7472-9df0-35aa633c2079",
+          "item_id": "01a14b7e-a75f-70a8-a2ee-6c30d4b0d068",
+          "role": "user",
+          "excerpt": "دا شبه ممتاز\n\nبس فيه مشاكل علامات الصح في غير مكانها ومش بتظهر في وقتها ، تقريبا كل العناصر مش سموز ومش بتتحرك صح وغير مكانها ، تقريبا كل الكلام خارج المكان المظبوط له ، تقريبا كل الانتقالات فيها كسور وخصوصا اخر مشهد\n\n\nوعاوز اعمل تعديل تاني يمشي مع الاغنية\n\nالفيجر بتاعت الموقع بتضايق مرة واحدة من ضياع الاوردرات وبعدين تطلعلها قرون ونظرة شر وتنظر لمطرقة تطلع كانه بيتحكم بيها في عقله  ويضرب بيها على الرسايل مع كل رسالة يضربها يتم عمل اكشن مباشر زي رد واضح حجز اوردر ، تم حل المشكلة ، مع كل ضربة الشاشة بتقلب لونها لاسود في وميض سريع كدا مع الفيجر والرسايل باينه بس لونها بينعكس عشان يظهر في الاسود كانه من شدة الضربة كانه بيضرب على حديد وفي الاخر يبتسم ويغمز ويرجع مكانه\n\n_AnswerAct PPAPTEKK Su\n\nper_Slowed.mp4"
+        }
+      ],
+      "user_feedback_sources": [
+        "01a14b7e-a75f-70a8-a2ee-6c30d4b0d068"
+      ],
+      "agent_diagnosis_or_review_sources": [
+        "msg_0bf238f475655df7016ad3d7f4cf7481919468e5df134d9a7b",
+        "msg_0bf238f475655df7016ad3db9f98bc8191b3cb2d673f0d8287"
+      ],
+      "rationale": "User explicitly reports the case symptoms; later assistant diagnoses/reviews/claims repair.",
+      "independent_reviewer_identified": false,
+      "source_dates_available": false,
+      "artifact_verified": false
+    },
+    {
+      "case_id": "H02",
+      "title": "Character identity and hammer composition",
+      "discovered_by": "user",
+      "first_discovery_scope": "earliest explicit observation established within retrieved visible histories; not proof of original real-world discovery",
+      "first_discovery_evidence": [
+        {
+          "thread_id": "01a14a59-34e5-7472-9df0-35aa633c2079",
+          "item_id": "01a14ba1-1cae-768d-89fb-8d68c19ed646",
+          "role": "user",
+          "excerpt": "اولا \n\nالوميض الاسود انت بعتت فيديو غلط\n\nثانيا\nالعناصر في الفيديو لسا مش في مكانها ثالثا فيه خيطالع منه وهو بيتحكم في المطرقة وهي مش معدولة صح والمفروض اساسا تتحرك بنظره ينظر لفوق المطرقة تطلع فوق ينظر لتحت المطرقة تنزل لتحت\n\nالودان دي بتاعت خفاش ومش مناسبة لرسم الشخصية ، العيون مرسومة غلط ، والضحكة كمان مش مناسبة للرسمة ولا اسلوب الرسم ، والضحكة مفروض تختفي بعد الغمزة ويرجع بطبيعته \n\nالوميض الاسود او الاحمر مفروض بيملو الشاشة تماماً "
+        }
+      ],
+      "user_feedback_sources": [
+        "01a14ba1-1cae-768d-89fb-8d68c19ed646",
+        "01a14bec-8b59-77c3-b65a-88380d69acb9"
+      ],
+      "agent_diagnosis_or_review_sources": [
+        "msg_0bf238f475655df7016ad3e0ba1e3481919d1e5cc397ec97a4",
+        "msg_0bf238f475655df7016ad3edd077808191b18e4be7372ecea8",
+        "msg_0bf238f475655df7016ad3fbac8cac819198c65bbb2b860fba"
+      ],
+      "rationale": "User explicitly reports the case symptoms; later assistant diagnoses/reviews/claims repair.",
+      "independent_reviewer_identified": false,
+      "source_dates_available": false,
+      "artifact_verified": false
+    },
+    {
+      "case_id": "H03",
+      "title": "Wrong black-flash file / fullscreen coverage",
+      "discovered_by": "user",
+      "first_discovery_scope": "earliest explicit observation established within retrieved visible histories; not proof of original real-world discovery",
+      "first_discovery_evidence": [
+        {
+          "thread_id": "01a14a59-34e5-7472-9df0-35aa633c2079",
+          "item_id": "01a14ba1-1cae-768d-89fb-8d68c19ed646",
+          "role": "user",
+          "excerpt": "اولا \n\nالوميض الاسود انت بعتت فيديو غلط\n\nثانيا\nالعناصر في الفيديو لسا مش في مكانها ثالثا فيه خيطالع منه وهو بيتحكم في المطرقة وهي مش معدولة صح والمفروض اساسا تتحرك بنظره ينظر لفوق المطرقة تطلع فوق ينظر لتحت المطرقة تنزل لتحت\n\nالودان دي بتاعت خفاش ومش مناسبة لرسم الشخصية ، العيون مرسومة غلط ، والضحكة كمان مش مناسبة للرسمة ولا اسلوب الرسم ، والضحكة مفروض تختفي بعد الغمزة ويرجع بطبيعته \n\nالوميض الاسود او الاحمر مفروض بيملو الشاشة تماماً "
+        }
+      ],
+      "user_feedback_sources": [
+        "01a14ba1-1cae-768d-89fb-8d68c19ed646"
+      ],
+      "agent_diagnosis_or_review_sources": [
+        "msg_0bf238f475655df7016ad3edd077808191b18e4be7372ecea8",
+        "msg_0bf238f475655df7016ad3faefe80c8191897a5b83a65d28a5"
+      ],
+      "rationale": "User explicitly reports the case symptoms; later assistant diagnoses/reviews/claims repair.",
+      "independent_reviewer_identified": false,
+      "source_dates_available": false,
+      "artifact_verified": false
+    },
+    {
+      "case_id": "H04",
+      "title": "Hammer skips beats",
+      "discovered_by": "user",
+      "first_discovery_scope": "earliest explicit observation established within retrieved visible histories; not proof of original real-world discovery",
+      "first_discovery_evidence": [
+        {
+          "thread_id": "01a14a59-34e5-7472-9df0-35aa633c2079",
+          "item_id": "01a14bec-8b59-77c3-b65a-88380d69acb9",
+          "role": "user",
+          "excerpt": "لسا ودان الشخصية مش مظبوطة ونظول المطرقة مش مظبوط انا كنت عاوز نزول المطرقة يكون عالسريع مع البيت بتاع المزيكا بالظبط \nويكون المشكلة معروضة في البوكس اللي تحت والحل بيجي مع ضربة الشاكوش زي كابوم كدا بس بدالها الرد \n\nبكام ؟ دي التفاصيل والسعر\nعاوز اسجل اوردر \nتم تسجيل الطلب\nعندي مشكلة في...\nتم حل المشكلة\n\nالابتسامة الواثقة معقوله بس ممكن تعدلها شوية عشان الحالي مش احسن شكل\n\nخلي قبل الغضب بوقه يبدأ بعبس تدريجياً وانه بيحزن تدريجيا لحد وقت الغضب\n\n"
+        }
+      ],
+      "user_feedback_sources": [
+        "01a14bec-8b59-77c3-b65a-88380d69acb9",
+        "01a14e54-8165-7477-8e70-dce67a9f8183"
+      ],
+      "agent_diagnosis_or_review_sources": [
+        "msg_0bf238f475655df7016ad3fbac8cac819198c65bbb2b860fba",
+        "msg_0bf238f475655df7016ad491c3197c819196131f102161ff8b",
+        "msg_0bf238f475655df7016ad4998cac748191a8e75875731abc3a"
+      ],
+      "rationale": "User explicitly reports the case symptoms; later assistant diagnoses/reviews/claims repair.",
+      "independent_reviewer_identified": false,
+      "source_dates_available": false,
+      "artifact_verified": false
+    },
+    {
+      "case_id": "H05",
+      "title": "Eye/face and hammer velocity mismatch",
+      "discovered_by": "user",
+      "first_discovery_scope": "earliest explicit observation established within retrieved visible histories; not proof of original real-world discovery",
+      "first_discovery_evidence": [
+        {
+          "thread_id": "01a14a59-34e5-7472-9df0-35aa633c2079",
+          "item_id": "01a14e91-1c88-749d-b952-e5dcb666439a",
+          "role": "user",
+          "excerpt": "وتعدبل تاني حاليا انت مخلي العين بتطلع وتنزل عاوز الوجه يومئ مع نزول العين شوية بس ميكسرش شكل نزول العين"
+        }
+      ],
+      "user_feedback_sources": [
+        "01a14e91-1c88-749d-b952-e5dcb666439a",
+        "01a14e95-88ee-73c2-a171-6729b5030874"
+      ],
+      "agent_diagnosis_or_review_sources": [
+        "msg_0bf238f475655df7016ad4a279087c81919194d2fded9a623d",
+        "msg_0bf238f475655df7016ad4a6c68a488191968a221c1ea8119c"
+      ],
+      "rationale": "User explicitly reports the case symptoms; later assistant diagnoses/reviews/claims repair.",
+      "independent_reviewer_identified": false,
+      "source_dates_available": false,
+      "artifact_verified": false
+    },
+    {
+      "case_id": "H06",
+      "title": "Insufficient response cases across flashes",
+      "discovered_by": "user",
+      "first_discovery_scope": "earliest explicit observation established within retrieved visible histories; not proof of original real-world discovery",
+      "first_discovery_evidence": [
+        {
+          "thread_id": "01a14a59-34e5-7472-9df0-35aa633c2079",
+          "item_id": "01a14e8e-4929-71bb-ac05-60a5e1618513",
+          "role": "user",
+          "excerpt": "حلو بس عاوز الافكار اللي في البوكس تتغير مع كل ومضة\n\nيعني تصبح المشكلة والحل مع بعض والخ"
+        }
+      ],
+      "user_feedback_sources": [
+        "01a14e8e-4929-71bb-ac05-60a5e1618513",
+        "01a14e8e-a225-75ba-b4c1-99785ac5cf67",
+        "01a14e95-88ee-73c2-a171-672456b5c61e"
+      ],
+      "agent_diagnosis_or_review_sources": [
+        "msg_0bf238f475655df7016ad4a6c68a488191968a221c1ea8119c"
+      ],
+      "rationale": "User explicitly reports the case symptoms; later assistant diagnoses/reviews/claims repair.",
+      "independent_reviewer_identified": false,
+      "source_dates_available": false,
+      "artifact_verified": false
+    },
+    {
+      "case_id": "H07",
+      "title": "Audio offset and other seven-film internal defects",
+      "discovered_by": "agent",
+      "first_discovery_scope": "earliest explicit observation established within retrieved visible histories; not proof of original real-world discovery",
+      "first_discovery_evidence": [
+        {
+          "thread_id": "01a14a59-34e5-7472-9df0-35aa633c2079",
+          "item_id": "msg_0bf238f475655df7016ad391cc814c8191ae6f2209bfa3daca",
+          "role": "assistant",
+          "excerpt": "المراجعة الأولى كشفت حاجتين محتاجين إصلاح: حركة بداية فيديو PPAPTEKK البطيء كانت أهدى من الإيقاع، وفي فيديو المخطط كان غطاء الصندوق بيقرب من العنوان. قوّيت حركة البداية وربطتها بالضربات، وخفّضت مسار الغطاء. كمان برفع تنوّع اللقطات في فيديو الإنبوكس الساخر قبل الرندر النهائي.\n"
+        }
+      ],
+      "user_feedback_sources": [],
+      "agent_diagnosis_or_review_sources": [
+        "msg_0bf238f475655df7016ad391cc814c8191ae6f2209bfa3daca",
+        "msg_0bf238f475655df7016ad39796ab94819199f0fa9bd2974ddb",
+        "msg_0bf238f475655df7016ad39904cd248191b4787da6eae8150c"
+      ],
+      "rationale": "Assistant explicitly reports an autonomous review/test finding; no separate user complaint for that exact finding retrieved.",
+      "independent_reviewer_identified": false,
+      "source_dates_available": false,
+      "artifact_verified": false
+    },
+    {
+      "case_id": "B01",
+      "title": "Arabic line-height",
+      "discovered_by": "user",
+      "first_discovery_scope": "earliest explicit observation established within retrieved visible histories; not proof of original real-world discovery",
+      "first_discovery_evidence": [
+        {
+          "thread_id": "01a147b2-5b70-741a-a766-5677de487044",
+          "item_id": "01a1487e-1a5e-7422-ac9a-d98a768a1d03",
+          "role": "user",
+          "excerpt": "البرين روت حلو بس المسافات بين الكلام والسطورواللاين هايت  مش مظبوطة ، اظبطها وخلي الايقاع أبطأ شوية ونفذها من جديد"
+        }
+      ],
+      "user_feedback_sources": [
+        "01a1487e-1a5e-7422-ac9a-d98a768a1d03"
+      ],
+      "agent_diagnosis_or_review_sources": [
+        "msg_0bd9f608fae1fb7d016ad312bd65648191a38dcba7e08cfe70",
+        "msg_0bd9f608fae1fb7d016ad3163ca3748191a04d929cfb179ce9"
+      ],
+      "rationale": "User explicitly reports the case symptoms; later assistant diagnoses/reviews/claims repair.",
+      "independent_reviewer_identified": false,
+      "source_dates_available": false,
+      "artifact_verified": false
+    },
+    {
+      "case_id": "B02",
+      "title": "Instagram dot / unclear problem and service",
+      "discovered_by": "user",
+      "first_discovery_scope": "earliest explicit observation established within retrieved visible histories; not proof of original real-world discovery",
+      "first_discovery_evidence": [
+        {
+          "thread_id": "01a147b2-5b70-741a-a766-5677de487044",
+          "item_id": "01a14886-9f4d-71bc-a1cd-6cd43e6b7e3e",
+          "role": "user",
+          "excerpt": "لوجو الانستاجرام كن فيه نقطة في غير مكانها\n\nكمان المشكلة بتاعت العميل ماوضحتش من اول هوك، حاول نخلي المشكلة واضحة اكتر\n\nتاخير الرد بيضيع زباين وفلوس والرد الآلي بيطفش الناس ، الذكاء الاصطناعي بيرد زي الانسان ومحدش واخد باله انه بوت ، بيسلمني الطلبات على طول وبس\n\nوكيل ذكاء اصطناعي للرد على فيسبوك وانستاجرام وتعليقاتهم مكانتش واضحة اوي كفكرة من التصميم \nدي تحديثات برأيي "
+        }
+      ],
+      "user_feedback_sources": [
+        "01a14886-9f4d-71bc-a1cd-6cd43e6b7e3e"
+      ],
+      "agent_diagnosis_or_review_sources": [
+        "msg_0bd9f608fae1fb7d016ad3143026948191bca7284b90691466",
+        "msg_0bd9f608fae1fb7d016ad315208e0c819188fcd4251de8f7ba"
+      ],
+      "rationale": "User explicitly reports the case symptoms; later assistant diagnoses/reviews/claims repair.",
+      "independent_reviewer_identified": false,
+      "source_dates_available": false,
+      "artifact_verified": false
+    },
+    {
+      "case_id": "B03",
+      "title": "3D lettering / camera collision",
+      "discovered_by": "agent",
+      "first_discovery_scope": "earliest explicit observation established within retrieved visible histories; not proof of original real-world discovery",
+      "first_discovery_evidence": [
+        {
+          "thread_id": "01a147b2-5b70-741a-a766-5677de487044",
+          "item_id": "msg_0bd9f608fae1fb7d016ad2f2faed0481918d0e05dc79506cae",
+          "role": "assistant",
+          "excerpt": "مراجعة نصف السرعة كشفت عيبًا قصيرًا: عند بداية السحب لأعلى، سطر الرسالة البارز بيتداخل مع السطر اللي تحته. هخلّي الحروف ترجع لسطح البطاقة قبل حركة الكاميرا، وأعيد تصدير الجزء المتأثر ثم أراجعه داخل الفيديو كاملًا.\n\n"
+        }
+      ],
+      "user_feedback_sources": [],
+      "agent_diagnosis_or_review_sources": [
+        "msg_0bd9f608fae1fb7d016ad2f2faed0481918d0e05dc79506cae",
+        "msg_0bd9f608fae1fb7d016ad2f3af090c8191a4fd19cb7b34ee43",
+        "msg_0bd9f608fae1fb7d016ad2f63c1c34819186c1ac884a64af40"
+      ],
+      "rationale": "Assistant explicitly reports an autonomous review/test finding; no separate user complaint for that exact finding retrieved.",
+      "independent_reviewer_identified": false,
+      "source_dates_available": false,
+      "artifact_verified": false
+    },
+    {
+      "case_id": "B04",
+      "title": "3D ribbon seams / transition overlap / RTL final",
+      "discovered_by": "agent",
+      "first_discovery_scope": "earliest explicit observation established within retrieved visible histories; not proof of original real-world discovery",
+      "first_discovery_evidence": [
+        {
+          "thread_id": "01a147b2-5b70-741a-a766-5677de487044",
+          "item_id": "msg_0bd9f608fae1fb7d016ad2e11bc5ac81919edbf01a591fc418",
+          "role": "assistant",
+          "excerpt": "المراجعة الأولى كشفت تداخلًا أثناء انتقال السطور العربية، وفواصل ظاهرة في سطح الشريط ثلاثي الأبعاد. بصحّحهم الآن، وبظبط انتقال الطلب إلى إشعار الفريق عشان يفضل واضح ومقروء أثناء الحركة.\n"
+        }
+      ],
+      "user_feedback_sources": [],
+      "agent_diagnosis_or_review_sources": [
+        "msg_0bd9f608fae1fb7d016ad2e11bc5ac81919edbf01a591fc418",
+        "msg_0bd9f608fae1fb7d016ad2e245173081919b1d781e5fef75ae",
+        "msg_0bd9f608fae1fb7d016ad2ea087f0c819180cd662bfacedb56"
+      ],
+      "rationale": "Assistant explicitly reports an autonomous review/test finding; no separate user complaint for that exact finding retrieved.",
+      "independent_reviewer_identified": false,
+      "source_dates_available": false,
+      "artifact_verified": false
+    },
+    {
+      "case_id": "B05",
+      "title": "New campaign model-card collisions / contrast",
+      "discovered_by": "agent",
+      "first_discovery_scope": "earliest explicit observation established within retrieved visible histories; not proof of original real-world discovery",
+      "first_discovery_evidence": [
+        {
+          "thread_id": "01a147b2-5b70-741a-a766-5677de487044",
+          "item_id": "msg_0bd9f608fae1fb7d016ad336dc7664819185bd16e5af062d99",
+          "role": "assistant",
+          "excerpt": "ظهرت في المراجعة الأولى مشكلة تراكب داخل بعض كروت الموديلات والخطوات، وظهور ضعيف للشعار على الأزرق. اتصلّح أصل المشكلة، وبراجع اللقطات من جديد. النسخة العادية كمان بتاخد تحولات أكبر في شكل وحجم العنصر الرئيسي، مع مساحة ثابتة وآمنة لقراءة العنوان.\n"
+        }
+      ],
+      "user_feedback_sources": [],
+      "agent_diagnosis_or_review_sources": [
+        "msg_0bd9f608fae1fb7d016ad336dc7664819185bd16e5af062d99",
+        "msg_0bd9f608fae1fb7d016ad338575f58819190075fbe554133dc"
+      ],
+      "rationale": "Assistant explicitly reports an autonomous review/test finding; no separate user complaint for that exact finding retrieved.",
+      "independent_reviewer_identified": false,
+      "source_dates_available": false,
+      "artifact_verified": false
+    },
+    {
+      "case_id": "B06",
+      "title": "Download success was HTML error",
+      "discovered_by": "agent",
+      "first_discovery_scope": "earliest explicit observation established within retrieved visible histories; not proof of original real-world discovery",
+      "first_discovery_evidence": [
+        {
+          "thread_id": "01a147b2-5b70-741a-a766-5677de487044",
+          "item_id": "msg_0bd9f608fae1fb7d016ad33b7c7ea881918a34d914d720637a",
+          "role": "assistant",
+          "excerpt": "تصحيح سريع: أداة التنزيل أعلنت النجاح، لكن فحص الملف كشف إنه صفحة خطأ من خادم الفيديو، مش ملف صوت صالح. ما ركّبتوش؛ بجرب مسار التشغيل العام على Audiomack، وبقي فحص ملفَي الصوت فعليًا قبل المكس."
+        }
+      ],
+      "user_feedback_sources": [],
+      "agent_diagnosis_or_review_sources": [
+        "msg_0bd9f608fae1fb7d016ad33b7c7ea881918a34d914d720637a"
+      ],
+      "rationale": "Assistant explicitly reports an autonomous review/test finding; no separate user complaint for that exact finding retrieved.",
+      "independent_reviewer_identified": false,
+      "source_dates_available": false,
+      "artifact_verified": false
+    },
+    {
+      "case_id": "B07",
+      "title": "Aspect ratio language ambiguity",
+      "discovered_by": "unknown",
+      "first_discovery_scope": "earliest explicit observation established within retrieved visible histories; not proof of original real-world discovery",
+      "first_discovery_evidence": [],
+      "user_feedback_sources": [
+        "01a14941-abaf-70f9-9ea5-9c84f8357c32"
+      ],
+      "agent_diagnosis_or_review_sources": [
+        "msg_0bd9f608fae1fb7d016ad344c704f48191baf24661f37c76b7"
+      ],
+      "rationale": "No actual wrong-aspect file established. User raises orientation wording; agent reconciles numeric dimensions and verifies claimed existing vertical format. Do not label an unproven file defect as user/agent discovered.",
+      "independent_reviewer_identified": false,
+      "source_dates_available": false,
+      "artifact_verified": false
+    },
+    {
+      "case_id": "A13",
+      "title": "State reset and frozen-motion pseudo-fix",
+      "discovered_by": "agent",
+      "first_discovery_scope": "earliest explicit observation established within retrieved visible histories; not proof of original real-world discovery",
+      "first_discovery_evidence": [
+        {
+          "thread_id": "01a1499a-0980-7305-b35e-303f6cc8804e",
+          "item_id": "msg_01970fd4588b4086016ad35b1ac5508191b8e6107b3263ddda",
+          "role": "assistant",
+          "excerpt": "لقيت سبب العيبين الأساسيين في السورس: حركة الكروت كانت بتبدأ من جديد مع تغيير العنوان، والتعديل السابق وقفها بدل ما يصلّح الاستمرارية. وفي البراين روت، الطباعة كانت بتختفي بعد ملامسة الورق، والورق بيتجه لنقطة بعيدة عن فتحة الماكينة.\n\nأسماء الأغاني موجودة، فمش محتاج أسألك عنها. هعيد بناء حركة الكروت والماكينة، وبحلّل الصوت الموجود عشان أحدد عليه توقيت المشاهد والضربات. النسختان هيكونوا بهوية AnswerAct وبالمقاس الرأسي المحدد في ملف التسليم."
+        }
+      ],
+      "user_feedback_sources": [],
+      "agent_diagnosis_or_review_sources": [
+        "msg_01970fd4588b4086016ad35b1ac5508191b8e6107b3263ddda"
+      ],
+      "rationale": "Assistant explicitly reports an autonomous review/test finding; no separate user complaint for that exact finding retrieved.",
+      "independent_reviewer_identified": false,
+      "source_dates_available": false,
+      "artifact_verified": false
+    },
+    {
+      "case_id": "A14",
+      "title": "Occlusion failures",
+      "discovered_by": "agent",
+      "first_discovery_scope": "earliest explicit observation established within retrieved visible histories; not proof of original real-world discovery",
+      "first_discovery_evidence": [
+        {
+          "thread_id": "01a1499a-0980-7305-b35e-303f6cc8804e",
+          "item_id": "msg_01970fd4588b4086016ad360c418108191991a32b8e73ce67b",
+          "role": "assistant",
+          "excerpt": "التصدير النهائي شغّال الآن للفيلمين. المراجعة المتتابعة كشفت تفصيلين في إخفاء العناصر خلف المجسّمات: حلقة «24/7»، والقطع التي تسقط داخل درج الفرص الضائعة. تم تصحيحهما قبل اعتماد النسخ. بعد التصدير سأفحص ملفات الـMP4 بالصوت، ثم أجمعهما مع المصدر في صفحة مشاهدة واحدة."
+        }
+      ],
+      "user_feedback_sources": [],
+      "agent_diagnosis_or_review_sources": [
+        "msg_01970fd4588b4086016ad360c418108191991a32b8e73ce67b"
+      ],
+      "rationale": "Assistant explicitly reports an autonomous review/test finding; no separate user complaint for that exact finding retrieved.",
+      "independent_reviewer_identified": false,
+      "source_dates_available": false,
+      "artifact_verified": false
+    },
+    {
+      "case_id": "A15",
+      "title": "Residual state and invisible title",
+      "discovered_by": "agent",
+      "first_discovery_scope": "earliest explicit observation established within retrieved visible histories; not proof of original real-world discovery",
+      "first_discovery_evidence": [
+        {
+          "thread_id": "01a1499a-0980-7305-b35e-303f6cc8804e",
+          "item_id": "msg_01970fd4588b4086016ad37c6b34b4819186ad29adfb1a8f97",
+          "role": "assistant",
+          "excerpt": "المراجعة الأولى كشفت عيبًا واضحًا في انتقال العناصر: بعض أيقونات النماذج فضلت ظاهرة داخل المحادثة، وصغّرت الرد الثاني، وكمان عنوان احتفظ بلون أبيض فاختفى. بصلّح انتقال الأيقونات وألوان النصوص دلوقتي، وبعدها هراجع الـ80 نبضة كلها قبل التصدير.\n"
+        }
+      ],
+      "user_feedback_sources": [],
+      "agent_diagnosis_or_review_sources": [
+        "msg_01970fd4588b4086016ad37c6b34b4819186ad29adfb1a8f97"
+      ],
+      "rationale": "Assistant explicitly reports an autonomous review/test finding; no separate user complaint for that exact finding retrieved.",
+      "independent_reviewer_identified": false,
+      "source_dates_available": false,
+      "artifact_verified": false
+    },
+    {
+      "case_id": "A16",
+      "title": "Export save failure",
+      "discovered_by": "agent",
+      "first_discovery_scope": "earliest explicit observation established within retrieved visible histories; not proof of original real-world discovery",
+      "first_discovery_evidence": [
+        {
+          "thread_id": "01a1499a-0980-7305-b35e-303f6cc8804e",
+          "item_id": "msg_01970fd4588b4086016ad3803a36a88191a9c9d0472251bd5b",
+          "role": "assistant",
+          "excerpt": "مراجعة التصميم خلصت. فحص ملف المعاينة كشف مشكلة في حفظ التصدير نفسه، فبعالج خطوة الإخراج وبضيف فحصًا مباشرًا لملف الفيديو قبل اعتماده. المصدر ولقطات المراجعة سليمين؛ التأكد من الـMP4 بعد التصدير هو الخطوة المتبقية قبل رفعه.\n"
+        }
+      ],
+      "user_feedback_sources": [],
+      "agent_diagnosis_or_review_sources": [
+        "msg_01970fd4588b4086016ad3803a36a88191a9c9d0472251bd5b"
+      ],
+      "rationale": "Assistant explicitly reports an autonomous review/test finding; no separate user complaint for that exact finding retrieved.",
+      "independent_reviewer_identified": false,
+      "source_dates_available": false,
+      "artifact_verified": false
+    },
+    {
+      "case_id": "A17",
+      "title": "Subtitle overlap / overly fast captions / bubble tail",
+      "discovered_by": "agent",
+      "first_discovery_scope": "earliest explicit observation established within retrieved visible histories; not proof of original real-world discovery",
+      "first_discovery_evidence": [
+        {
+          "thread_id": "01a1499a-0980-7305-b35e-303f6cc8804e",
+          "item_id": "msg_01970fd4588b4086016ad68630a59481918b78e256a950bcbf",
+          "role": "assistant",
+          "excerpt": "التعليقان اتولّدوا، وتوقيت الترجمة مرتبط بالكلام الناتج: النسخة المصرية حوالي 54 ثانية، والأمريكية حوالي 44 ثانية. الفحص الآلي لقى الجمل كاملة ولم يرصد نطق تعليمات الأداء. قصّرت كمان ترجمتين كانتا سريعتين على القراءة؛ الجاري الآن مراجعة المكس ولقطات الموشن.\n\n"
+        }
+      ],
+      "user_feedback_sources": [],
+      "agent_diagnosis_or_review_sources": [
+        "msg_01970fd4588b4086016ad68630a59481918b78e256a950bcbf",
+        "msg_01970fd4588b4086016ad68a3278d4819185e86b2cd97385b3",
+        "msg_01970fd4588b4086016ad6ee6043b08191885deead2b520912"
+      ],
+      "rationale": "Assistant explicitly reports an autonomous review/test finding; no separate user complaint for that exact finding retrieved.",
+      "independent_reviewer_identified": false,
+      "source_dates_available": false,
+      "artifact_verified": false
+    },
+    {
+      "case_id": "A18",
+      "title": "V6 preview line touch, partial-letter reveal and perspective seams",
+      "discovered_by": "agent",
+      "first_discovery_scope": "earliest explicit observation established within retrieved visible histories; not proof of original real-world discovery",
+      "first_discovery_evidence": [
+        {
+          "thread_id": "01a1499a-0980-7305-b35e-303f6cc8804e",
+          "item_id": "msg_01970fd4588b4086016ad6f6ff5b2481918701b650dda28159",
+          "role": "assistant",
+          "excerpt": "في مراجعة المعاينة ظهر تلامس بين سطرين في عنوان عربي، وكشف بطيء للنص كان بيخلّي أجزاء من الحروف تبان مقصوصة. دول بيتصلحوا قبل التصدير، ومعاهم تحويل لوحة إعداد المساعد لمنظور فعلي والنص ثابت عليها.\n\nوفي التسجيل استبدلت كمان صياغتين ظهر فيهما التباس في القراءة الآلية، وأعدت العربي كاملًا بنفس الصوت. جملة «بتوصلك رسالة» اتشالت من النص نهائيًا."
+        }
+      ],
+      "user_feedback_sources": [],
+      "agent_diagnosis_or_review_sources": [
+        "msg_01970fd4588b4086016ad6f6ff5b2481918701b650dda28159",
+        "msg_01970fd4588b4086016ad6f9c43ddc8191b2a1a8c39b3d53d8"
+      ],
+      "rationale": "Assistant explicitly reports an autonomous review/test finding; no separate user complaint for that exact finding retrieved.",
+      "independent_reviewer_identified": false,
+      "source_dates_available": false,
+      "artifact_verified": false
+    },
+    {
+      "case_id": "A19",
+      "title": "Detailed causes supplement A02/A08",
+      "discovered_by": "user",
+      "first_discovery_scope": "earliest explicit observation established within retrieved visible histories; not proof of original real-world discovery",
+      "first_discovery_evidence": [
+        {
+          "thread_id": "01a1499a-0980-7305-b35e-303f6cc8804e",
+          "item_id": "01a14b98-b11c-732b-86ad-79a48781b0de",
+          "role": "user",
+          "excerpt": " بدل المنتج كان مفروض تكتب اللون اسود او المنتج تي شيرت اسود مثلا دا غلط\n\nكمان للحظت في حركة النقطة فيه كسور في الرسم والتحريك وعناصر بتطلع برا مكانها او بتروح مكان عشوائي بدون سبب\n\nصلح وعدل وراجع وابعت"
+        },
+        {
+          "thread_id": "01a1499a-0980-7305-b35e-303f6cc8804e",
+          "item_id": "01a15778-31c3-727e-afc8-4fe4747276ed",
+          "role": "user",
+          "excerpt": "اول الفيو النطق غلط في الهربي وفي الفيديوهين شكل اللوجو غير الصحيح ومعوق جدا"
+        }
+      ],
+      "user_feedback_sources": [],
+      "agent_diagnosis_or_review_sources": [
+        "msg_01970fd4588b4086016ad3dfa259048191a59ae8caa3f0c6af",
+        "msg_01970fd4588b4086016ad6e7e852d48191aa0b7b7206937004"
+      ],
+      "rationale": "Supplement is agent diagnosis of existing user-reported A02/A08 symptoms, not newly discovered defect. Detailed root causes were identified by agent; first symptom discoverers remain users.",
+      "independent_reviewer_identified": false,
+      "source_dates_available": false,
+      "artifact_verified": false
+    }
+  ],
+  "missing_autonomous_findings": [
+    {
+      "case_id": "A01",
+      "discovered_by": "agent",
+      "source_id": "msg_01970fd4588b4086016ad3d70284008191aa080537a5cb094a",
+      "thread_id": "01a1499a-0980-7305-b35e-303f6cc8804e",
+      "source_url": null,
+      "source_date": null,
+      "exact_excerpt": "التعديل الأول جاهز: العناوين أصغر، والردود لها مساحة داخلية أوسع، وحقول الطلب اتقسمت لاسم وقيمة بمحاذاة واضحة. أراجع دلوقتي الصور الناتجة؛ وأول فحص للكود كشف إن بعض إعدادات المحاذاة بتضيع أثناء الانتقال، فبصلّح ده قبل التصدير النهائي.",
+      "rationale": "New failed repair detail, not duplicate case: initial resizing/column-spacing fix lost alignment settings during transitions; code review caught it, repair claimed before output.",
+      "verification_status": "historical assistant report, artifact not independently reviewed"
+    },
+    {
+      "case_id": "A03",
+      "discovered_by": "agent",
+      "source_id": "msg_01970fd4588b4086016ad3919a10588191aad0ff97186ca8de",
+      "thread_id": "01a1499a-0980-7305-b35e-303f6cc8804e",
+      "source_url": null,
+      "source_date": null,
+      "exact_excerpt": "الأسهم اتغيّر مسارها وبقت مرتبطة بنقاط على الكروت نفسها، ورأس السهم بيتبع زاوية الكارت. كمان النقاط اللي بتتحرك على الوصلات بقت تدخل الكارت وتختفي عنده بدل القفزة اللي كانت بتحصل عند تكرار الحركة. بجهّز معاينة متصلة للتأكد من شكلها مع الأغنية قبل التصدير النهائي.\n\n",
+      "rationale": "New attempt detail: traveling connector dots jumped when loop repeated. Claimed fix: follow card-local connection points, arrowhead follows angle, dots enter and disappear into target instead of teleporting.",
+      "verification_status": "historical assistant report, artifact not independently reviewed"
+    },
+    {
+      "case_id": "A17",
+      "discovered_by": "agent",
+      "source_id": "msg_01970fd4588b4086016ad69eb21208819186ec855207c6ad97",
+      "thread_id": "01a1499a-0980-7305-b35e-303f6cc8804e",
+      "source_url": null,
+      "source_date": null,
+      "exact_excerpt": "التدقيق كشف مشاكل فعلية: خلفيات كروت كانت بتتقاطع أثناء التحول، وبعض النصوص كانت بتخرج مؤقتًا من خاناتها، وسطر ترجمة طويل كان بيصغّر الخط. بصلّح مسارات التحول وارتباط النصوص بخاناتها، وبقسّم الترجمة الطويلة على توقيت الكلام عشان تفضل بنفس الحجم الواضح.",
+      "rationale": "New occurrence and fix: long subtitle auto-shrank font; split it by actual speech timing to preserve size. Same review independently caught card-back intersections/text temporarily escaping fields.",
+      "verification_status": "historical assistant report, artifact not independently reviewed"
+    },
+    {
+      "case_id": "A18",
+      "discovered_by": "agent",
+      "source_id": "msg_01970fd4588b4086016ad6f87878688191983ddc2617d6cbeb",
+      "thread_id": "01a1499a-0980-7305-b35e-303f6cc8804e",
+      "source_url": null,
+      "source_date": null,
+      "exact_excerpt": "المراجعة الأخيرة كشفت ثلاث مشاكل بصرية محددة: بقايا المشهد القديم أثناء الانتقال، خطوط بتعدّي فوق عنوان، وفواصل رفيعة في منظور الواجهة. بصلّحهم قبل التصدير، وبراجع المقاطع المتأثرة بالحجم الكامل عشان ما تتكررش كسور الحركة اللي ضايقتك قبل كده.",
+      "rationale": "New intermediate failed-preview evidence: old scene remnants, lines crossing heading, thin perspective seams; claimed repair/full-size affected-segment review.",
+      "verification_status": "historical assistant report, artifact not independently reviewed"
+    },
+    {
+      "case_id": "A10",
+      "discovered_by": "agent",
+      "source_id": "msg_01970fd4588b4086016ad6b90d60f88191aa7c84dd101ec7dc",
+      "thread_id": "01a1499a-0980-7305-b35e-303f6cc8804e",
+      "source_url": null,
+      "source_date": null,
+      "exact_excerpt": "المراجعة البصرية كشفت إن ردّ المساعد داخل الشات كان أقرب لعنوان. غيّرته لموقف طبيعي: عميل بيكمّل طلب تغيير حجز على خمس رسايل، والمساعد يستنى وبعدين يسأله عن رقم الحجز. كده المثال يوضح الفهم والمتابعة، ويبعد عن التركيز على بيع المنتجات.\n\n",
+      "rationale": "New autonomous semantic QA attempt: assistant reply looked like headline, not conversation; replaced with five-message booking-change request followed by booking-number question to demonstrate smart wait.",
+      "verification_status": "historical assistant report, artifact not independently reviewed"
+    },
+    {
+      "case_id": "A05",
+      "discovered_by": "agent",
+      "source_id": "msg_01970fd4588b4086016ad6b25ede148191b7a66bc9d99c2f96",
+      "thread_id": "01a1499a-0980-7305-b35e-303f6cc8804e",
+      "source_url": null,
+      "source_date": null,
+      "exact_excerpt": "اختبار العرض كشف موضعًا محتاج تعديل عند «نقطة للذكاء الاصطناعي». غيّرت ترتيبها إلى «ومعاها رصيد للذكاء الاصطناعي، أربعمية نقطة»، وظهرت الجملة كاملة في فحص التفريغ الجديد. بدأت دلوقتي التسجيل العربي الكامل بنفس الخامة، والإنجليزي الجديد اتولّد بالصوت اللي عجبك.",
+      "rationale": "New earlier pronunciation trial: problematic «نقطة للذكاء الاصطناعي» reordered to «ومعاها رصيد للذكاء الاصطناعي، أربعمية نقطة»; ASR reported complete sentence. Subsequent user pronunciation rejection remains, so not final validated solution.",
+      "verification_status": "historical assistant report, artifact not independently reviewed"
+    },
+    {
+      "case_id": "A20-new",
+      "discovered_by": "agent",
+      "source_id": "msg_01970fd4588b4086016ad36d1cf2d48191a87c1a49abc4b214",
+      "thread_id": "01a1499a-0980-7305-b35e-303f6cc8804e",
+      "source_url": null,
+      "source_date": null,
+      "exact_excerpt": "البراين روت اتصدّر بالصوت، واتشغّل كاملًا بالسرعة العادية ونصف السرعة. النسخة النهائية فيها نفس الحركة والموسيقى، مع التنسيق الجديد ومن غير كلام الهوامش أو عدّاد المشاهد.\n\nأما أول تجربة للموشن، فكشفت خللًا في توزيع الطباعة على الكروت، وضبابًا بيضعف لقطة النهاية. اتحدد سببهم، وجاري مراجعة لقطات جديدة بعد التصحيح قبل التصدير.",
+      "rationale": "New autonomous rendering finding: card typography distribution faulty and fog weakened final name reveal; agent said cause identified/corrected but exact cause/parameter changes absent. Do not invent fog settings.",
+      "verification_status": "historical assistant report, artifact not independently reviewed"
+    },
+    {
+      "case_id": "A20-new",
+      "discovered_by": "agent",
+      "source_id": "msg_01970fd4588b4086016ad37030bc208191a2c6e43f06f746bc",
+      "thread_id": "01a1499a-0980-7305-b35e-303f6cc8804e",
+      "source_url": null,
+      "source_date": null,
+      "exact_excerpt": "تكوينات الموشن الأساسية بقت جاهزة للمراجعة بالحركة. فيه أيضًا تراكب بين بعض كروت الجدران بيتصلّح الآن، عشان تفاصيلها تبقى أنظف أثناء حركة الكاميرا.\n\nعينة الحركة هتشمل الانتقال من الجدار إلى إعداد الوكيل، ثم الرد والطلب، والسحب الأخير لكشف الاسم. البراين روت جاهز ضمن التسليم.",
+      "rationale": "Subsequent same rebuild preview found wall-card overlap; claimed corrected before camera-motion sample. Separate occurrence, no claim final artifact independently verified.",
+      "verification_status": "historical assistant report, artifact not independently reviewed"
+    },
+    {
+      "case_id": "B08-new",
+      "discovered_by": "agent",
+      "source_id": "msg_0bd9f608fae1fb7d016ad2f9c22ad08191a464f54ebd67d4a9",
+      "thread_id": "01a147b2-5b70-741a-a766-5677de487044",
+      "source_url": null,
+      "source_date": null,
+      "exact_excerpt": "المراجعة الأولى كشفت إن ورقة الطلب في افتتاحية الفيديو كانت بتقرب زيادة من السطر السفلي؛ عدّلت المسافة. ولقطة «أقل من ساعة» مكتوبة كتحدّي لصاحب البيزنس، ضمن حكاية بناء الوكيل وتجربته وتشغيله.\n",
+      "rationale": "New autonomous brainrot opening QA occurrence: order paper approached lower text too closely; spacing changed. No exact distance or independent result available.",
+      "verification_status": "historical assistant report, artifact not independently reviewed"
+    }
+  ],
+  "new_distinct_occurrences": [
+    "A20-new",
+    "B08-new"
+  ],
+  "supplemented_existing_cases": [
+    "A01",
+    "A03",
+    "A17",
+    "A18",
+    "A10",
+    "A05"
+  ],
+  "limitations": [
+    "No hidden tool traces or files independently reviewed",
+    "Chronology from newest-first cursor ordering, not invented dates",
+    "Original records retained; additions are bounded evidence, not replacement transcript"
+  ]
+}

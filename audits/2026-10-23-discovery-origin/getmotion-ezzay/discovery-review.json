@@ -1,0 +1,1215 @@
+{
+  "reviewed_utc": "2026-10-23T15:32:00Z",
+  "scope": "45 existing cases, saved bounded recovered-message excerpts and17original reports. Full755-message temporary tool stores did not persist into this resumed turn; no second claim of complete original-history re-read.",
+  "taxonomy": {
+    "agent": "production assistant diagnosis or repair report; separate reviewer identity not established",
+    "reviewer": "explicit QA/visual/automated review origin",
+    "user": "direct user first symptom report",
+    "unknown": "repair evidence without established first discoverer"
+  },
+  "mapping": [
+    {
+      "case_id": "HIST-GM-01",
+      "discovered_by": "agent",
+      "first_discovery_scope": "first evidenced in recovered visible history, not necessarily first real-world occurrence",
+      "rationale": "Assistant message reports its own diagnosis/correction; no preceding user complaint about this visual defect in recovered visible history.",
+      "evidence": [
+        {
+          "thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+          "item_id": "msg_04ec605e1f3eda98016adb0e6612548191b0366f563e86390e",
+          "role": "assistant"
+        },
+        {
+          "thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+          "item_id": "msg_04ec605e1f3eda98016adb0eec984481918d733ec080e06b0d",
+          "role": "assistant"
+        },
+        {
+          "thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+          "item_id": "msg_04ec605e1f3eda98016adb0fec53d481919fe13f9907eab8aa",
+          "role": "assistant"
+        },
+        {
+          "thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+          "item_id": "msg_04ec605e1f3eda98016adb1088011881918b81c9c30b3df2fd",
+          "role": "assistant"
+        },
+        {
+          "thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+          "item_id": "msg_04ec605e1f3eda98016adb11c819ac8191a8963e8f9b0012a5",
+          "role": "assistant"
+        },
+        {
+          "thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+          "item_id": "msg_04ec605e1f3eda98016adb128054148191bf638053f6c1d36e",
+          "role": "assistant"
+        }
+      ],
+      "source_report": null,
+      "later_user_feedback": []
+    },
+    {
+      "case_id": "HIST-GM-02",
+      "discovered_by": "agent",
+      "first_discovery_scope": "first evidenced in recovered visible history, not necessarily first real-world occurrence",
+      "rationale": "Assistant message reports its own diagnosis/correction; no preceding user complaint about this visual defect in recovered visible history.",
+      "evidence": [
+        {
+          "thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+          "item_id": "msg_04ec605e1f3eda98016adafadf41d881918dd9560408696186",
+          "role": "assistant"
+        },
+        {
+          "thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+          "item_id": "msg_04ec605e1f3eda98016adafb1735f48191a6638076372c154f",
+          "role": "assistant"
+        },
+        {
+          "thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+          "item_id": "msg_04ec605e1f3eda98016adafb935df8819199fcd3815bff2081",
+          "role": "assistant"
+        },
+        {
+          "thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+          "item_id": "msg_04ec605e1f3eda98016adafbd936e8819180bb02095a3bc217",
+          "role": "assistant"
+        },
+        {
+          "thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+          "item_id": "msg_04ec605e1f3eda98016adafca28f248191883002a3037aaef4",
+          "role": "assistant"
+        },
+        {
+          "thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+          "item_id": "msg_04ec605e1f3eda98016adb01423ef881918d4850407a46586e",
+          "role": "assistant"
+        },
+        {
+          "thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+          "item_id": "msg_04ec605e1f3eda98016adb06cbcda481919c482cc321d30a30",
+          "role": "assistant"
+        },
+        {
+          "thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+          "item_id": "msg_04ec605e1f3eda98016adaf5a5cc6081919434a784ae4befc0",
+          "role": "assistant"
+        }
+      ],
+      "source_report": null,
+      "later_user_feedback": []
+    },
+    {
+      "case_id": "HIST-GM-03",
+      "discovered_by": "agent",
+      "first_discovery_scope": "first evidenced in recovered visible history, not necessarily first real-world occurrence",
+      "rationale": "Assistant message reports its own diagnosis/correction; no preceding user complaint about this visual defect in recovered visible history.",
+      "evidence": [
+        {
+          "thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+          "item_id": "msg_04ec605e1f3eda98016adaccd534e08191b8ef95881179345f",
+          "role": "assistant"
+        },
+        {
+          "thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+          "item_id": "msg_04ec605e1f3eda98016adacd1b03b481918a9b5e4637e1b3a6",
+          "role": "assistant"
+        },
+        {
+          "thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+          "item_id": "msg_04ec605e1f3eda98016adacd90800881919877174a79d09a13",
+          "role": "assistant"
+        },
+        {
+          "thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+          "item_id": "msg_04ec605e1f3eda98016adacddedbcc819187dfe5134a859e68",
+          "role": "assistant"
+        },
+        {
+          "thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+          "item_id": "msg_04ec605e1f3eda98016adacf61a854819198a04e17d0f6dc4a",
+          "role": "assistant"
+        },
+        {
+          "thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+          "item_id": "msg_04ec605e1f3eda98016adacfbfe0a08191ab1ebd77f76079b5",
+          "role": "assistant"
+        },
+        {
+          "thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+          "item_id": "msg_04ec605e1f3eda98016adad1a15f548191afaad7ffb88afd59",
+          "role": "assistant"
+        }
+      ],
+      "source_report": null,
+      "later_user_feedback": []
+    },
+    {
+      "case_id": "HIST-GM-04",
+      "discovered_by": "agent",
+      "first_discovery_scope": "first evidenced in recovered visible history, not necessarily first real-world occurrence",
+      "rationale": "Assistant message reports its own diagnosis/correction; no preceding user complaint about this visual defect in recovered visible history.",
+      "evidence": [
+        {
+          "thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+          "item_id": "msg_04ec605e1f3eda98016adab4f2f21081918ef0585d85a355bd",
+          "role": "assistant"
+        },
+        {
+          "thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+          "item_id": "msg_04ec605e1f3eda98016adab569c5b481919ae4071a672345b9",
+          "role": "assistant"
+        },
+        {
+          "thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+          "item_id": "msg_04ec605e1f3eda98016adab6dc9fa481919e250b34ea156ceb",
+          "role": "assistant"
+        }
+      ],
+      "source_report": null,
+      "later_user_feedback": []
+    },
+    {
+      "case_id": "HIST-GM-05",
+      "discovered_by": "agent",
+      "first_discovery_scope": "first evidenced in recovered visible history, not necessarily first real-world occurrence",
+      "rationale": "Assistant message reports its own diagnosis/correction; no preceding user complaint about this visual defect in recovered visible history.",
+      "evidence": [
+        {
+          "thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+          "item_id": "msg_04ec605e1f3eda98016adaad75cca481919195ba04092c173e",
+          "role": "assistant"
+        },
+        {
+          "thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+          "item_id": "msg_04ec605e1f3eda98016adaad8f80848191a8c49e3d8d69fd6a",
+          "role": "assistant"
+        }
+      ],
+      "source_report": null,
+      "later_user_feedback": []
+    },
+    {
+      "case_id": "HIST-GM-06",
+      "discovered_by": "agent",
+      "first_discovery_scope": "first evidenced in recovered visible history, not necessarily first real-world occurrence",
+      "rationale": "Assistant message reports its own diagnosis/correction; no preceding user complaint about this visual defect in recovered visible history.",
+      "evidence": [
+        {
+          "thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+          "item_id": "msg_04ec605e1f3eda98016adaae254954819188269fca6b1f507c",
+          "role": "assistant"
+        },
+        {
+          "thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+          "item_id": "msg_04ec605e1f3eda98016adab178dadc819185421252a890af31",
+          "role": "assistant"
+        },
+        {
+          "thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+          "item_id": "msg_04ec605e1f3eda98016adab257fc2c8191b431cc5ea29c9427",
+          "role": "assistant"
+        },
+        {
+          "thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+          "item_id": "msg_04ec605e1f3eda98016adab64ba3308191a4454f4723c0c457",
+          "role": "assistant"
+        },
+        {
+          "thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+          "item_id": "msg_04ec605e1f3eda98016adab6dc9fa481919e250b34ea156ceb",
+          "role": "assistant"
+        },
+        {
+          "thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+          "item_id": "msg_04ec605e1f3eda98016adabb6fc3488191800cf32036e53608",
+          "role": "assistant"
+        },
+        {
+          "thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+          "item_id": "msg_04ec605e1f3eda98016adab1c36e048191ac5c13247f475767",
+          "role": "assistant"
+        }
+      ],
+      "source_report": null,
+      "later_user_feedback": []
+    },
+    {
+      "case_id": "HIST-GM-07",
+      "discovered_by": "agent",
+      "first_discovery_scope": "first evidenced in recovered visible history, not necessarily first real-world occurrence",
+      "rationale": "Assistant message reports its own diagnosis/correction; no preceding user complaint about this visual defect in recovered visible history.",
+      "evidence": [
+        {
+          "thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+          "item_id": "msg_04ec605e1f3eda98016adaaf104dac81919787c38f16c908bb",
+          "role": "assistant"
+        },
+        {
+          "thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+          "item_id": "msg_04ec605e1f3eda98016adaae9e70e08191b35ddaa4a5b7acf2",
+          "role": "assistant"
+        },
+        {
+          "thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+          "item_id": "msg_04ec605e1f3eda98016adad362eff481918b22da60b4ed65e9",
+          "role": "assistant"
+        }
+      ],
+      "source_report": null,
+      "later_user_feedback": []
+    },
+    {
+      "case_id": "HIST-GM-08",
+      "discovered_by": "agent",
+      "first_discovery_scope": "first evidenced in recovered visible history, not necessarily first real-world occurrence",
+      "rationale": "Assistant message reports its own diagnosis/correction; no preceding user complaint about this visual defect in recovered visible history.",
+      "evidence": [
+        {
+          "thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+          "item_id": "msg_04ec605e1f3eda98016ada9c779bd08191b245e1503d8aeb4b",
+          "role": "assistant"
+        }
+      ],
+      "source_report": null,
+      "later_user_feedback": []
+    },
+    {
+      "case_id": "HIST-GM-09",
+      "discovered_by": "unknown",
+      "first_discovery_scope": "first evidenced in recovered visible history, not necessarily first real-world occurrence",
+      "rationale": "Two occurrences must stay separate: earlier loss at13exports was agent-discovered; later final-download symptom was user-reported and then agent diagnosed missing files. The later storage/rebuild complaint is not first discovery of the earlier loss.",
+      "evidence": [
+        {
+          "thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+          "item_id": "01a165d2-cf85-767f-91e8-904d25845a78",
+          "role": "user"
+        },
+        {
+          "thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+          "item_id": "msg_01096a014f44d8d7016ada946859848191885a76e520dec470",
+          "role": "assistant"
+        },
+        {
+          "thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+          "item_id": "msg_04ec605e1f3eda98016ada95661e68819199f275fdd66631c3",
+          "role": "assistant"
+        },
+        {
+          "thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+          "item_id": "01a165e2-7430-722f-8ea2-afd0c68b75eb",
+          "role": "user"
+        },
+        {
+          "thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+          "item_id": "msg_0f2531c904aa8fe8016ada06e91b9c8191b81230d2f499bd22",
+          "role": "assistant"
+        }
+      ],
+      "source_report": null,
+      "later_user_feedback": [
+        {
+          "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+          "item_id": "01a165d2-cf85-767f-91e8-904d25845a78",
+          "role": "user",
+          "text": "حدث خطا وقت التحميل ارسل الملفات مرة اخرى",
+          "truncated": false
+        },
+        {
+          "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+          "item_id": "01a165e2-7430-722f-8ea2-afd0c68b75eb",
+          "role": "user",
+          "text": "مع ان عندي مساحة في اشتراكي كنت تقدى تحفظ عليها\n\nدلوقتي عيد المهمة من اولها مرة أخرى ",
+          "truncated": false
+        }
+      ],
+      "component_discovery": [
+        {
+          "event": "earlier workspace loss after13exports",
+          "discovered_by": "agent",
+          "source": {
+            "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+            "item_id": "msg_0f2531c904aa8fe8016ada06e91b9c8191b81230d2f499bd22",
+            "role": "assistant",
+            "text": "هكمل للنهاية. لكن التحقق كشف مشكلة لازم أوضحها: صيانة مساحة العمل مسحت الملفات المحلية اللي كنا شغالين عليها. بحاول أسترجع النسخ المحفوظة وملفات المشروع قبل استئناف التصدير؛ رقم الـ13 كان آخر تقدم مسجّل قبل المشكلة.",
+            "truncated": false
+          }
+        },
+        {
+          "event": "later failed final-file download",
+          "discovered_by": "user",
+          "source": {
+            "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+            "item_id": "01a165d2-cf85-767f-91e8-904d25845a78",
+            "role": "user",
+            "text": "حدث خطا وقت التحميل ارسل الملفات مرة اخرى",
+            "truncated": false
+          },
+          "diagnosis_by": "agent",
+          "diagnosis_source": {
+            "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+            "item_id": "msg_04ec605e1f3eda98016ada95661e68819199f275fdd66631c3",
+            "role": "assistant",
+            "text": "آسف يا يحيى. اتأكدت إن **ملفات التسليم النهائية اتشالت أثناء صيانة مساحة العمل**، وبحثت في الملفات المحفوظة ولم أجد نسخة من حزمة الـ40 فيديو. الروابط السابقة مش هتشتغل حاليًا.\n\nاللي قدرت أسترجعه وأتحقق من سلامته هو **نسخة احتياطية مبكرة من المشروع، تحتوي على المصادر القديمة وفيديو واحد فقط**:\n\n[GetMotion_Checkpoint_1Export_Preserved_20261022.zip](sandbox:/workspace/scratch/b240b0171589/GetMotion_Checkpoint_1Export_Preserved_20261022.zip)\n\n**هل اكتمل عندك تنزيل أي أرشيف من الثلاثة قبل ظهور الخطأ، خصوصًا ملف المشروع `GetMotion_Editable_Project.zip`؟** لو موجود، ارفعه هنا لاستعادة محتواه. ولو ولا ملف اكتمل، فالنسخ النهائية المفقودة هتحتاج إعادة بناء من المصدر المتبقي؛ إعادة إرسال نفس الروابط مش هترجّعها.",
+            "truncated": false
+          }
+        },
+        {
+          "event": "subscription-storage complaint and rebuild request",
+          "kind": "later_user_feedback",
+          "source": {
+            "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+            "item_id": "01a165e2-7430-722f-8ea2-afd0c68b75eb",
+            "role": "user",
+            "text": "مع ان عندي مساحة في اشتراكي كنت تقدى تحفظ عليها\n\nدلوقتي عيد المهمة من اولها مرة أخرى ",
+            "truncated": false
+          }
+        }
+      ]
+    },
+    {
+      "case_id": "HIST-GM-10",
+      "discovered_by": "agent",
+      "first_discovery_scope": "first evidenced in recovered visible history, not necessarily first real-world occurrence",
+      "rationale": "Assistant message reports its own diagnosis/correction; no preceding user complaint about this visual defect in recovered visible history.",
+      "evidence": [
+        {
+          "thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+          "item_id": "msg_04ec605e1f3eda98016ada6fdfafa08191b98022479ec258c8",
+          "role": "assistant"
+        },
+        {
+          "thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+          "item_id": "msg_04ec605e1f3eda98016ada716a0cb081919e163e9bd5744e4c",
+          "role": "assistant"
+        },
+        {
+          "thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+          "item_id": "msg_04ec605e1f3eda98016ada73bec44c8191bdb5afa5d820d020",
+          "role": "assistant"
+        }
+      ],
+      "source_report": null,
+      "later_user_feedback": []
+    },
+    {
+      "case_id": "HIST-GM-11",
+      "discovered_by": "agent",
+      "first_discovery_scope": "first evidenced in recovered visible history, not necessarily first real-world occurrence",
+      "rationale": "Assistant message reports its own diagnosis/correction; no preceding user complaint about this visual defect in recovered visible history.",
+      "evidence": [
+        {
+          "thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+          "item_id": "msg_04ec605e1f3eda98016ada5c134a3c819184f82069d81a0286",
+          "role": "assistant"
+        },
+        {
+          "thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+          "item_id": "msg_04ec605e1f3eda98016ada5ac7a440819188982d731113eb48",
+          "role": "assistant"
+        },
+        {
+          "thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+          "item_id": "msg_04ec605e1f3eda98016ada5e9e39248191ae68ed337b62d6bb",
+          "role": "assistant"
+        }
+      ],
+      "source_report": null,
+      "later_user_feedback": []
+    },
+    {
+      "case_id": "HIST-GM-12",
+      "discovered_by": "agent",
+      "first_discovery_scope": "first evidenced in recovered visible history, not necessarily first real-world occurrence",
+      "rationale": "Assistant message reports its own diagnosis/correction; no preceding user complaint about this visual defect in recovered visible history.",
+      "evidence": [
+        {
+          "thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+          "item_id": "msg_04ec605e1f3eda98016ada65789c608191ada8bf695a8dccca",
+          "role": "assistant"
+        },
+        {
+          "thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+          "item_id": "msg_04ec605e1f3eda98016ada66e5214c81918c084b38de0bbc0d",
+          "role": "assistant"
+        },
+        {
+          "thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+          "item_id": "msg_04ec605e1f3eda98016ada6774e15c8191ad9548162e9b7c92",
+          "role": "assistant"
+        }
+      ],
+      "source_report": null,
+      "later_user_feedback": []
+    },
+    {
+      "case_id": "HIST-GM-13",
+      "discovered_by": "agent",
+      "first_discovery_scope": "first evidenced in recovered visible history, not necessarily first real-world occurrence",
+      "rationale": "Assistant message reports its own diagnosis/correction; no preceding user complaint about this visual defect in recovered visible history.",
+      "evidence": [
+        {
+          "thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+          "item_id": "msg_04ec605e1f3eda98016ada4f98d31081919690a8feb1f251b7",
+          "role": "assistant"
+        },
+        {
+          "thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+          "item_id": "msg_04ec605e1f3eda98016ada535bb9f08191883b3d7b253c21c3",
+          "role": "assistant"
+        },
+        {
+          "thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+          "item_id": "msg_04ec605e1f3eda98016ada59c34fa08191987733e1d08ed98d",
+          "role": "assistant"
+        },
+        {
+          "thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+          "item_id": "msg_04ec605e1f3eda98016ada5ac7a440819188982d731113eb48",
+          "role": "assistant"
+        },
+        {
+          "thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+          "item_id": "msg_04ec605e1f3eda98016ada5d06e6e081918c02d40fcd1d8a4c",
+          "role": "assistant"
+        }
+      ],
+      "source_report": null,
+      "later_user_feedback": []
+    },
+    {
+      "case_id": "HIST-GM-14",
+      "discovered_by": "agent",
+      "first_discovery_scope": "first evidenced in recovered visible history, not necessarily first real-world occurrence",
+      "rationale": "Assistant message reports its own diagnosis/correction; no preceding user complaint about this visual defect in recovered visible history.",
+      "evidence": [
+        {
+          "thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+          "item_id": "msg_04ec605e1f3eda98016ada49cbffa88191a25e7f9ae605315d",
+          "role": "assistant"
+        },
+        {
+          "thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+          "item_id": "msg_04ec605e1f3eda98016ada463491cc81919a05525d49e55525",
+          "role": "assistant"
+        },
+        {
+          "thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+          "item_id": "msg_04ec605e1f3eda98016ada419cb2148191b455d4dbc700269f",
+          "role": "assistant"
+        },
+        {
+          "thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+          "item_id": "msg_04ec605e1f3eda98016ada3aa827ac81918c5f8b93742d2fc9",
+          "role": "assistant"
+        }
+      ],
+      "source_report": null,
+      "later_user_feedback": []
+    },
+    {
+      "case_id": "HIST-GM-15",
+      "discovered_by": "agent",
+      "first_discovery_scope": "first evidenced in recovered visible history, not necessarily first real-world occurrence",
+      "rationale": "Assistant message reports its own diagnosis/correction; no preceding user complaint about this visual defect in recovered visible history.",
+      "evidence": [
+        {
+          "thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+          "item_id": "msg_04ec605e1f3eda98016ada21f512508191b0d82d7008b4520a",
+          "role": "assistant"
+        },
+        {
+          "thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+          "item_id": "msg_04ec605e1f3eda98016ada2a9c3d00819185d3359fdbf407b3",
+          "role": "assistant"
+        },
+        {
+          "thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+          "item_id": "msg_04ec605e1f3eda98016ada0d0afb308191a3e7bdb57de0ef98",
+          "role": "assistant"
+        }
+      ],
+      "source_report": null,
+      "later_user_feedback": []
+    },
+    {
+      "case_id": "HIST-GM-16",
+      "discovered_by": "agent",
+      "first_discovery_scope": "first evidenced in recovered visible history, not necessarily first real-world occurrence",
+      "rationale": "Assistant message reports its own diagnosis/correction; no preceding user complaint about this visual defect in recovered visible history.",
+      "evidence": [
+        {
+          "thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+          "item_id": "msg_04ec605e1f3eda98016ada202fbcb0819195ca78a820a9a58e",
+          "role": "assistant"
+        }
+      ],
+      "source_report": null,
+      "later_user_feedback": []
+    },
+    {
+      "case_id": "HIST-GM-17",
+      "discovered_by": "agent",
+      "first_discovery_scope": "first evidenced in recovered visible history, not necessarily first real-world occurrence",
+      "rationale": "Assistant message reports its own diagnosis/correction; no preceding user complaint about this visual defect in recovered visible history.",
+      "evidence": [
+        {
+          "thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+          "item_id": "msg_04ec605e1f3eda98016ada11d61be081919dcd331e3d39b2aa",
+          "role": "assistant"
+        },
+        {
+          "thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+          "item_id": "msg_04ec605e1f3eda98016ada1390f5388191acd5c4a71f27112a",
+          "role": "assistant"
+        },
+        {
+          "thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+          "item_id": "msg_04ec605e1f3eda98016ada144f0d3481918c9b0046421eba28",
+          "role": "assistant"
+        },
+        {
+          "thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+          "item_id": "msg_04ec605e1f3eda98016ada19ab1d808191ae1432096b998dfc",
+          "role": "assistant"
+        },
+        {
+          "thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+          "item_id": "msg_04ec605e1f3eda98016ada1b55e00881919a9f7e72e8c4d4b8",
+          "role": "assistant"
+        }
+      ],
+      "source_report": null,
+      "later_user_feedback": []
+    },
+    {
+      "case_id": "HIST-GM-18",
+      "discovered_by": "agent",
+      "first_discovery_scope": "first evidenced in recovered visible history, not necessarily first real-world occurrence",
+      "rationale": "Assistant message reports its own diagnosis/correction; no preceding user complaint about this visual defect in recovered visible history.",
+      "evidence": [
+        {
+          "thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+          "item_id": "msg_04ec605e1f3eda98016ad9232bad9881919cb22082b60aff6f",
+          "role": "assistant"
+        },
+        {
+          "thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+          "item_id": "msg_04ec605e1f3eda98016ad926e9ad9c81918f47cc7735e3dd15",
+          "role": "assistant"
+        },
+        {
+          "thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+          "item_id": "msg_04ec605e1f3eda98016ad928458f2c8191a82d7b343c0311d4",
+          "role": "assistant"
+        }
+      ],
+      "source_report": null,
+      "later_user_feedback": []
+    },
+    {
+      "case_id": "HIST-GM-19",
+      "discovered_by": "agent",
+      "first_discovery_scope": "first evidenced in recovered visible history, not necessarily first real-world occurrence",
+      "rationale": "Assistant message reports its own diagnosis/correction; no preceding user complaint about this visual defect in recovered visible history.",
+      "evidence": [
+        {
+          "thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+          "item_id": "msg_04ec605e1f3eda98016ad91c6029508191ada03954a10db801",
+          "role": "assistant"
+        }
+      ],
+      "source_report": null,
+      "later_user_feedback": []
+    },
+    {
+      "case_id": "HIST-GM-20",
+      "discovered_by": "agent",
+      "first_discovery_scope": "first evidenced in recovered visible history, not necessarily first real-world occurrence",
+      "rationale": "Assistant message reports its own diagnosis/correction; no preceding user complaint about this visual defect in recovered visible history.",
+      "evidence": [
+        {
+          "thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+          "item_id": "msg_04ec605e1f3eda98016ad90aecf7ac8191b5b7aafa37b5cd06",
+          "role": "assistant"
+        },
+        {
+          "thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+          "item_id": "msg_04ec605e1f3eda98016ad904f177988191b9604aa32969d90d",
+          "role": "assistant"
+        },
+        {
+          "thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+          "item_id": "msg_04ec605e1f3eda98016ad91b764c30819180319679381c6872",
+          "role": "assistant"
+        }
+      ],
+      "source_report": null,
+      "later_user_feedback": []
+    },
+    {
+      "case_id": "HIST-GM-21",
+      "discovered_by": "agent",
+      "first_discovery_scope": "first evidenced in recovered visible history, not necessarily first real-world occurrence",
+      "rationale": "Assistant message reports its own diagnosis/correction; no preceding user complaint about this visual defect in recovered visible history.",
+      "evidence": [
+        {
+          "thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+          "item_id": "msg_04ec605e1f3eda98016ad9044e612c8191bebc8f4ea3eb8ef3",
+          "role": "assistant"
+        }
+      ],
+      "source_report": null,
+      "later_user_feedback": []
+    },
+    {
+      "case_id": "HIST-GM-22",
+      "discovered_by": "agent",
+      "first_discovery_scope": "first evidenced in recovered visible history, not necessarily first real-world occurrence",
+      "rationale": "Assistant message reports its own diagnosis/correction; no preceding user complaint about this visual defect in recovered visible history.",
+      "evidence": [
+        {
+          "thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+          "item_id": "msg_04ec605e1f3eda98016ad8fd5ac8288191b2f854f9d4cbf061",
+          "role": "assistant"
+        }
+      ],
+      "source_report": null,
+      "later_user_feedback": []
+    },
+    {
+      "case_id": "HIST-GM-23",
+      "discovered_by": "agent",
+      "first_discovery_scope": "first evidenced in recovered visible history, not necessarily first real-world occurrence",
+      "rationale": "Assistant message reports its own diagnosis/correction; no preceding user complaint about this visual defect in recovered visible history.",
+      "evidence": [
+        {
+          "thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+          "item_id": "msg_04ec605e1f3eda98016ad8fa073f5481918c31c0f96dc41b65",
+          "role": "assistant"
+        },
+        {
+          "thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+          "item_id": "msg_04ec605e1f3eda98016ad8feef6ef481918548b4f6542b21a2",
+          "role": "assistant"
+        },
+        {
+          "thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+          "item_id": "msg_04ec605e1f3eda98016ad8d178afec8191b00ccdd1d30f8e70",
+          "role": "assistant"
+        }
+      ],
+      "source_report": null,
+      "later_user_feedback": []
+    },
+    {
+      "case_id": "HIST-GM-24",
+      "discovered_by": "agent",
+      "first_discovery_scope": "first evidenced in recovered visible history, not necessarily first real-world occurrence",
+      "rationale": "Assistant message reports its own diagnosis/correction; no preceding user complaint about this visual defect in recovered visible history.",
+      "evidence": [
+        {
+          "thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+          "item_id": "msg_04ec605e1f3eda98016ad8ef64c90081919863e0ee7ded0d25",
+          "role": "assistant"
+        }
+      ],
+      "source_report": null,
+      "later_user_feedback": []
+    },
+    {
+      "case_id": "HIST-GM-25",
+      "discovered_by": "agent",
+      "first_discovery_scope": "first evidenced in recovered visible history, not necessarily first real-world occurrence",
+      "rationale": "Assistant message reports its own diagnosis/correction; no preceding user complaint about this visual defect in recovered visible history.",
+      "evidence": [
+        {
+          "thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+          "item_id": "msg_04ec605e1f3eda98016adad91a762081919334516377efae18",
+          "role": "assistant"
+        },
+        {
+          "thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+          "item_id": "msg_04ec605e1f3eda98016adaf5a5cc6081919434a784ae4befc0",
+          "role": "assistant"
+        }
+      ],
+      "source_report": null,
+      "later_user_feedback": []
+    },
+    {
+      "case_id": "HIST-EZ-L01",
+      "discovered_by": "agent",
+      "first_discovery_scope": "first evidenced in recovered visible history, not necessarily first real-world occurrence",
+      "rationale": "Assistant directly reports the specific visual finding during its production review; no separate reviewer identity proved and no user-specific complaint is the discovery source.",
+      "evidence": [
+        {
+          "source_thread_id": "01a1666c-1bdc-7492-98b8-d37aeaed3062",
+          "item_id": "msg_02cdcabf10a2911b016adadbb5528c8191b60a50ff4a3eac08",
+          "role": "assistant",
+          "text": "مراجعة فيديو التبريد كشفت كمان سهمًا وخط مواسير متداخلين مع تسميتين، ولونَي حرارة محتاجين توحيد. التصحيحات موضعية في الرسوم؛ وبعدها هتتراجع النسخة المعاد تصديرها. سجل التعديلات العلمية محفوظ مع النص الأصلي والمراجع ومصادر كل تعديل.\n",
+          "truncated": false
+        }
+      ],
+      "source_report": "reports/L01_visual_corrections.json",
+      "later_user_feedback": [],
+      "autonomous_discovery_supported": true
+    },
+    {
+      "case_id": "HIST-EZ-L02",
+      "discovered_by": "agent",
+      "first_discovery_scope": "first evidenced in recovered visible history, not necessarily first real-world occurrence",
+      "rationale": "Assistant directly reports the specific visual finding during its production review; no separate reviewer identity proved and no user-specific complaint is the discovery source.",
+      "evidence": [
+        {
+          "source_thread_id": "01a1666c-1bdc-7492-98b8-d37aeaed3062",
+          "item_id": "msg_02cdcabf10a2911b016adadb1754f081919a72a19812034304",
+          "role": "assistant",
+          "text": "المراجعة لقطت حركة محتاجة تصحيح في فيديو شاشة الموبايل: الإصبع كان بيبدأ تحت الزجاج في ثلاث لقطات بدل ما ينزل من فوق ويلامسه. بصحّح مساره، وهعيد تصدير الفيديو ده بعد مراجعة باقي مشاهده. تصدير الفيديوهات الأخرى مستمر.\n",
+          "truncated": false
+        }
+      ],
+      "source_report": "reports/L02_visual_correction_record.json",
+      "later_user_feedback": [],
+      "autonomous_discovery_supported": true
+    },
+    {
+      "case_id": "HIST-EZ-L03",
+      "discovered_by": "agent",
+      "first_discovery_scope": "first evidenced in recovered visible history, not necessarily first real-world occurrence",
+      "rationale": "Assistant directly reports the specific visual finding during its production review; no separate reviewer identity proved and no user-specific complaint is the discovery source.",
+      "evidence": [
+        {
+          "source_thread_id": "01a1666c-1bdc-7492-98b8-d37aeaed3062",
+          "item_id": "msg_02cdcabf10a2911b016adaddc732848191a9949a696bee8445",
+          "role": "assistant",
+          "text": "مراجعة الفيديو الطويل عن المسكنات لقطت تسمية «كوكس» متداخلة مع حدود الرسم، فبفصلها عن الخط قبل اعتماد النسخة. أول شورت في الدفعة الحالية خلص التصدير، وببدأ مراجعته الآن؛ التصحيحات البصرية بتتجمع لكل فيديو قبل إعادة تصديره.\n",
+          "truncated": false
+        }
+      ],
+      "source_report": "reports/L03_visual_correction_record.json",
+      "later_user_feedback": [],
+      "autonomous_discovery_supported": true
+    },
+    {
+      "case_id": "HIST-EZ-L04",
+      "discovered_by": "unknown",
+      "first_discovery_scope": "first evidenced in recovered visible history, not necessarily first real-world occurrence",
+      "rationale": "Production correction/QA record proves autonomous diagnosis but does not unambiguously identify the first discoverer or distinguish self-review from a separate reviewer. Do not label generic review as distinct reviewer.",
+      "evidence": [],
+      "source_report": "reports/L04_visual_corrections.json",
+      "later_user_feedback": [],
+      "autonomous_discovery_supported": true
+    },
+    {
+      "case_id": "HIST-EZ-L05",
+      "discovered_by": "unknown",
+      "first_discovery_scope": "first evidenced in recovered visible history, not necessarily first real-world occurrence",
+      "rationale": "Production correction/QA record proves autonomous diagnosis but does not unambiguously identify the first discoverer or distinguish self-review from a separate reviewer. Do not label generic review as distinct reviewer.",
+      "evidence": [],
+      "source_report": "reports/L05_visual_correction_record.json",
+      "later_user_feedback": [],
+      "autonomous_discovery_supported": true
+    },
+    {
+      "case_id": "HIST-EZ-S02",
+      "discovered_by": "unknown",
+      "first_discovery_scope": "first evidenced in recovered visible history, not necessarily first real-world occurrence",
+      "rationale": "Production correction/QA record proves autonomous diagnosis but does not unambiguously identify the first discoverer or distinguish self-review from a separate reviewer. Do not label generic review as distinct reviewer.",
+      "evidence": [],
+      "source_report": "reports/S02_motion_corrections.json",
+      "later_user_feedback": [],
+      "autonomous_discovery_supported": true
+    },
+    {
+      "case_id": "HIST-EZ-S03",
+      "discovered_by": "agent",
+      "first_discovery_scope": "first evidenced in recovered visible history, not necessarily first real-world occurrence",
+      "rationale": "Assistant directly reports the specific visual finding during its production review; no separate reviewer identity proved and no user-specific complaint is the discovery source.",
+      "evidence": [
+        {
+          "source_thread_id": "01a1666c-1bdc-7492-98b8-d37aeaed3062",
+          "item_id": "msg_02cdcabf10a2911b016adae01fe20c8191bc72abee1dd7ba57",
+          "role": "assistant",
+          "text": "مراجعة الكابشن والرسوم مستمرة على النسخ الفعلية. فصلت تسمية طبقة الأساس في فيديو التيفال عن حدود الرسم، وبراجع الآن فيديوَي الطنين وكارت الدفع؛ أي ملاحظة مؤكدة بتتسجل مع توقيتها وتصحيحها قبل اعتماد الملف.\n",
+          "truncated": false
+        }
+      ],
+      "source_report": "reports/S03_visual_corrections.json",
+      "later_user_feedback": [],
+      "autonomous_discovery_supported": true
+    },
+    {
+      "case_id": "HIST-EZ-S05",
+      "discovered_by": "unknown",
+      "first_discovery_scope": "first evidenced in recovered visible history, not necessarily first real-world occurrence",
+      "rationale": "Production correction/QA record proves autonomous diagnosis but does not unambiguously identify the first discoverer or distinguish self-review from a separate reviewer. Do not label generic review as distinct reviewer.",
+      "evidence": [],
+      "source_report": "reports/S05_visual_correction_record.json",
+      "later_user_feedback": [],
+      "autonomous_discovery_supported": true
+    },
+    {
+      "case_id": "HIST-EZ-S08",
+      "discovered_by": "unknown",
+      "first_discovery_scope": "first evidenced in recovered visible history, not necessarily first real-world occurrence",
+      "rationale": "Production correction/QA record proves autonomous diagnosis but does not unambiguously identify the first discoverer or distinguish self-review from a separate reviewer. Do not label generic review as distinct reviewer.",
+      "evidence": [],
+      "source_report": "reports/S08_visual_correction_record.json",
+      "later_user_feedback": [],
+      "autonomous_discovery_supported": true
+    },
+    {
+      "case_id": "HIST-EZ-S10",
+      "discovered_by": "unknown",
+      "first_discovery_scope": "first evidenced in recovered visible history, not necessarily first real-world occurrence",
+      "rationale": "Production correction/QA record proves autonomous diagnosis but does not unambiguously identify the first discoverer or distinguish self-review from a separate reviewer. Do not label generic review as distinct reviewer.",
+      "evidence": [],
+      "source_report": "reports/S10_visual_correction_record.json",
+      "later_user_feedback": [],
+      "autonomous_discovery_supported": true
+    },
+    {
+      "case_id": "HIST-EZ-S11",
+      "discovered_by": "agent",
+      "first_discovery_scope": "first evidenced in recovered visible history, not necessarily first real-world occurrence",
+      "rationale": "Assistant directly reports the specific visual finding during its production review; no separate reviewer identity proved and no user-specific complaint is the discovery source.",
+      "evidence": [
+        {
+          "source_thread_id": "01a1666c-1bdc-7492-98b8-d37aeaed3062",
+          "item_id": "msg_02cdcabf10a2911b016adae58bfd408191af6b5b88917033e2",
+          "role": "assistant",
+          "text": "مراجعة الرسوم كشفت كمان سهمًا في شورت تكيّف العين كان بيشير للمخاريط وقت شرح العصي؛ اتصحّح، والنسخة الجديدة داخلة في دفعة التصدير. فهرس التسليم هيجمع مسار كل فيديو وصوت وسكريبت وأصل، عشان تلاقي الملفات الخام بسهولة.\n\n",
+          "truncated": false
+        }
+      ],
+      "source_report": "reports/S11_visual_correction_record.json",
+      "later_user_feedback": [],
+      "autonomous_discovery_supported": true
+    },
+    {
+      "case_id": "HIST-EZ-S17",
+      "discovered_by": "unknown",
+      "first_discovery_scope": "first evidenced in recovered visible history, not necessarily first real-world occurrence",
+      "rationale": "Production correction/QA record proves autonomous diagnosis but does not unambiguously identify the first discoverer or distinguish self-review from a separate reviewer. Do not label generic review as distinct reviewer.",
+      "evidence": [],
+      "source_report": "reports/S17_motion_corrections.json",
+      "later_user_feedback": [],
+      "autonomous_discovery_supported": true
+    },
+    {
+      "case_id": "HIST-EZ-S21",
+      "discovered_by": "reviewer",
+      "first_discovery_scope": "first evidenced in recovered visible history, not necessarily first real-world occurrence",
+      "rationale": "Report explicitly says runtime reviewer confirmed original static stage, then root assigned repair; a distinct reviewer role is evidenced.",
+      "evidence": [],
+      "source_report": "reports/S21_visual_correction_record.json",
+      "later_user_feedback": []
+    },
+    {
+      "case_id": "HIST-EZ-EXTRA-39",
+      "discovered_by": "agent",
+      "first_discovery_scope": "first evidenced in recovered visible history, not necessarily first real-world occurrence",
+      "rationale": "Assistant message reports its own diagnosis/correction; no preceding user complaint about this visual defect in recovered visible history.",
+      "evidence": [],
+      "source_report": null,
+      "later_user_feedback": []
+    },
+    {
+      "case_id": "HIST-EZ-EXTRA-40",
+      "discovered_by": "unknown",
+      "first_discovery_scope": "first evidenced in recovered visible history, not necessarily first real-world occurrence",
+      "rationale": "Only assistant repair/continuity completion is recorded; first observation/discoverer is absent.",
+      "evidence": [
+        {
+          "thread_id": "01a1666c-1bdc-7492-98b8-d37aeaed3062",
+          "item_id": "msg_02cdcabf10a2911b016adad998d7048191b4ca8c7b6d4ed552",
+          "role": "assistant"
+        }
+      ],
+      "source_report": null,
+      "later_user_feedback": []
+    },
+    {
+      "case_id": "HIST-EZ-EXTRA-41",
+      "discovered_by": "user",
+      "first_discovery_scope": "first evidenced in recovered visible history, not necessarily first real-world occurrence",
+      "rationale": "User directly says referenced files were not supplied; assistant subsequently provides separate files.",
+      "evidence": [
+        {
+          "thread_id": "01a1666c-1bdc-7492-98b8-d37aeaed3062",
+          "item_id": "01a1667d-81fe-7154-9f88-41068b5b01aa",
+          "role": "user"
+        }
+      ],
+      "source_report": null,
+      "later_user_feedback": [
+        {
+          "source_thread_id": "01a1666c-1bdc-7492-98b8-d37aeaed3062",
+          "item_id": "01a1667d-81fe-7154-9f88-41068b5b01aa",
+          "role": "user",
+          "text": "الملفات ل ذكرتها فلبرومبت ماديتهاليش عشان ابعتهاله",
+          "truncated": false
+        }
+      ]
+    },
+    {
+      "case_id": "HIST-EZ-EXTRA-42",
+      "discovered_by": "agent",
+      "first_discovery_scope": "first evidenced in recovered visible history, not necessarily first real-world occurrence",
+      "rationale": "Assistant message reports its own diagnosis/correction; no preceding user complaint about this visual defect in recovered visible history.",
+      "evidence": [
+        {
+          "thread_id": "01a1666c-1bdc-7492-98b8-d37aeaed3062",
+          "item_id": "msg_02cdcabf10a2911b016adac9446ebc8191babdaa3f25a83f4c",
+          "role": "assistant"
+        }
+      ],
+      "source_report": null,
+      "later_user_feedback": []
+    },
+    {
+      "case_id": "HIST-EZ-EXTRA-43",
+      "discovered_by": "agent",
+      "first_discovery_scope": "first evidenced in recovered visible history, not necessarily first real-world occurrence",
+      "rationale": "Assistant explicitly reports derived-WAV length failure during export review; report preserves repairs.",
+      "evidence": [
+        {
+          "thread_id": "01a1666c-1bdc-7492-98b8-d37aeaed3062",
+          "item_id": "msg_02cdcabf10a2911b016adad5b400b08191bcd69e9c4f28b1c3",
+          "role": "assistant"
+        }
+      ],
+      "source_report": "reports/derived_wav_repairs.json",
+      "later_user_feedback": []
+    },
+    {
+      "case_id": "HIST-EZ-EXTRA-44",
+      "discovered_by": "unknown",
+      "first_discovery_scope": "first evidenced in recovered visible history, not necessarily first real-world occurrence",
+      "rationale": "Adjustment report states safe-margin reason but does not identify who first noticed it. Agent-authored repair record is not proof of first discoverer.",
+      "evidence": [],
+      "source_report": "reports/cover_title_adjustments.json",
+      "later_user_feedback": []
+    },
+    {
+      "case_id": "HIST-EZ-ASR-CAVEAT",
+      "discovered_by": "reviewer",
+      "first_discovery_scope": "first evidenced in recovered visible history, not necessarily first real-world occurrence",
+      "rationale": "Automated speech-recognition review raised uncertainty, not a confirmed pronunciation failure or user complaint.",
+      "evidence": [
+        {
+          "thread_id": "01a1666c-1bdc-7492-98b8-d37aeaed3062",
+          "item_id": "msg_02cdcabf10a2911b016adaf01236f88191a0abd731dec50d7c",
+          "role": "assistant"
+        }
+      ],
+      "source_report": null,
+      "later_user_feedback": []
+    }
+  ],
+  "new_autonomous_findings": [
+    {
+      "id": "HIST-GM-ADD-01",
+      "project": "GetMotion",
+      "title": "GM025 ball/shadow obscures text",
+      "discovered_by": "agent",
+      "observed_error": "Enlarged review found ball covering part of text; two positions affected. Distinct from GM025 repeated text/send-icon case18.",
+      "attempts_and_outcome": "Previously described AR candidate returned to correction; relocate text clear of ball and shadow, preserve ball motion, rerender both. Corrected source ready for full-size review; no dedicated final proof here.",
+      "status": "assistant_reported_repair_or_pending_not_independently_verified",
+      "sources": [
+        {
+          "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+          "item_id": "msg_04ec605e1f3eda98016ad9156b3f0881919c6bee7f7dbcc618",
+          "role": "assistant",
+          "text": "المراجعة المكبّرة كشفت إن الكرة بتغطي جزءًا من الكتابة في GM025، فهعيد تصدير النسختين بعد ضبط موضع النص. بالتالي النسخة العربية اللي ذكرتها سابقًا رجعت للتعديل. وفي المقابل، تصحيحات النص والأرقام في مشاهد GMX01 ثلاثية الأبعاد اجتازت مراجعة اللقطات.",
+          "truncated": false
+        },
+        {
+          "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+          "item_id": "msg_04ec605e1f3eda98016ad917113f2c8191aebb8a9338af8061",
+          "role": "assistant",
+          "text": "تصحيح GM025 اتحدد في موضعين للنص، وحركة الكرة نفسها سليمة في اللقطات اللي راجعتها. وبراجع الآن نسخ الفيديو المصدّرة، خصوصًا ظهور السعر «799»، ومدة «24–48 ساعة»، وقراءة العربي وقت الانتقالات.",
+          "truncated": false
+        },
+        {
+          "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+          "item_id": "msg_04ec605e1f3eda98016ad917ac4f5c8191881b59c7f06f179e",
+          "role": "assistant",
+          "text": "تصحيح GM025 جاهز للمراجعة: النص بقى داخل مساحة واضحة بعيدًا عن الكرة وظلها في اللقطتين المتأثرتين. هراجع النسخة المصححة بالحجم الكامل قبل إعادة التصدير. كمان بدأت الدفعة التالية من الفيديوهات تدخل التصدير النهائي.",
+          "truncated": false
+        }
+      ],
+      "rationale": "Autonomous assistant review; no user complaint required for inclusion."
+    },
+    {
+      "id": "HIST-GM-ADD-02",
+      "project": "GetMotion",
+      "title": "GM099 seven-second static explanation",
+      "discovered_by": "agent",
+      "observed_error": "A shot stays static about7s during spoken explanation; distinct from GM099 construction-line collision.",
+      "attempts_and_outcome": "Add spoken-content-linked building steps while preserving architectural typography. Planned change, not verified outcome.",
+      "status": "agent_reported_issue_with_planned_fix",
+      "sources": [
+        {
+          "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+          "item_id": "msg_04ec605e1f3eda98016ad916835d808191875a1fcac0e7dbff",
+          "role": "assistant",
+          "text": "المراجعة كشفت كمان لقطة في GM099 بتفضل ثابتة حوالي 7 ثوانٍ أثناء الشرح. هضيف فيها خطوات بناء مرتبطة بالكلام، مع الحفاظ على فكرة الحروف المعمارية. تصحيح موضع النص في GM025 والتصدير ثلاثي الأبعاد مستمرين بالتوازي.",
+          "truncated": false
+        }
+      ],
+      "rationale": "Autonomous assistant review; no user complaint required for inclusion."
+    },
+    {
+      "id": "HIST-GM-ADD-03",
+      "project": "GetMotion",
+      "title": "Three styles fail continuity / loop contract",
+      "discovered_by": "agent",
+      "observed_error": "Three styles need continuity or ending-to-start repair under original brief.",
+      "attempts_and_outcome": "Poster same frame transforms typography→solid→interactive interface then returns to actual first frame; other styles not individually identified. Keep grouped, do not invent3separate identities.",
+      "status": "assistant_reported_repair_or_pending_not_independently_verified",
+      "sources": [
+        {
+          "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+          "item_id": "msg_04ec605e1f3eda98016ada2f752b98819183e89ace2f2c63ad",
+          "role": "assistant",
+          "text": "مكمل. المراجعة كشفت إن ٣ أساليب محتاجة تصحيح في استمرارية الحركة أو رجوع النهاية للبداية حسب الوصف الأصلي. بأصلّحها قبل اعتماد النسخ، وباقي التصدير والمراجعة شغّالين بالتوازي مع الحفاظ على الصوت كاملًا.",
+          "truncated": false
+        },
+        {
+          "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+          "item_id": "msg_04ec605e1f3eda98016ada3118eae481919feb749534721979",
+          "role": "assistant",
+          "text": "بأكمّل تصحيح أسلوب البوستر بحيث نفس الإطار يتحوّل من الكتابة للمجسّم ثم واجهة التفاعل، وتعود النهاية للبداية فعلًا. كمان خلص تصحيح مسار السحّاب في أسلوب تاني، ودخل إعادة التصدير بعد إبعاده عن اللوجو والكلام.",
+          "truncated": false
+        }
+      ],
+      "rationale": "Autonomous assistant review; no user complaint required for inclusion."
+    },
+    {
+      "id": "HIST-GM-ADD-04",
+      "project": "GetMotion",
+      "title": "Zipper path crosses logo/text",
+      "discovered_by": "agent",
+      "observed_error": "Zipper path required clearance correction distinct from previously recorded title/background collision.",
+      "attempts_and_outcome": "Move path away from logo/text, corrected style queued for rerender.",
+      "status": "assistant_reported_repair_or_pending_not_independently_verified",
+      "sources": [
+        {
+          "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+          "item_id": "msg_04ec605e1f3eda98016ada3118eae481919feb749534721979",
+          "role": "assistant",
+          "text": "بأكمّل تصحيح أسلوب البوستر بحيث نفس الإطار يتحوّل من الكتابة للمجسّم ثم واجهة التفاعل، وتعود النهاية للبداية فعلًا. كمان خلص تصحيح مسار السحّاب في أسلوب تاني، ودخل إعادة التصدير بعد إبعاده عن اللوجو والكلام.",
+          "truncated": false
+        }
+      ],
+      "rationale": "Autonomous assistant review; no user complaint required for inclusion."
+    },
+    {
+      "id": "HIST-GM-ADD-05",
+      "project": "GetMotion",
+      "title": "English zipper title exits frame during zoom",
+      "discovered_by": "agent",
+      "observed_error": "Title briefly exceeds frame edge during zoom; static safe frame insufficient.",
+      "attempts_and_outcome": "Adjust title width and rerender; intended fix only in diagnostic source.",
+      "status": "agent_reported_issue_with_planned_fix",
+      "sources": [
+        {
+          "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+          "item_id": "msg_04ec605e1f3eda98016ada24263fb48191a23039c6949b645e",
+          "role": "assistant",
+          "text": "ظهر في الفحص الدقيق أن عنوانًا إنجليزيًا في ستايل السوستة يخرج للحظات عن حافة الكادر أثناء الزووم؛ هعدّل عرضه وأعيد التصدير. وكمان برجع أحد الستايلات للتطوير لأن حركاته بتتكرر أكثر من المطلوب في البرومبت. التصحيح هنا ضروري عشان النتيجة تحقق مستوى الشوريل اللي طلبته.",
+          "truncated": false
+        }
+      ],
+      "rationale": "Autonomous assistant review; no user complaint required for inclusion."
+    },
+    {
+      "id": "HIST-GM-ADD-06",
+      "project": "GetMotion",
+      "title": "Excessively repeated choreography relative to brief",
+      "discovered_by": "agent",
+      "observed_error": "One unnamed style repeats movement more than prompt allows; not repeated text case18.",
+      "attempts_and_outcome": "Return style to development to meet showreel quality. No detailed change or verified end result supplied.",
+      "status": "agent_reported_issue_with_planned_fix",
+      "sources": [
+        {
+          "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+          "item_id": "msg_04ec605e1f3eda98016ada24263fb48191a23039c6949b645e",
+          "role": "assistant",
+          "text": "ظهر في الفحص الدقيق أن عنوانًا إنجليزيًا في ستايل السوستة يخرج للحظات عن حافة الكادر أثناء الزووم؛ هعدّل عرضه وأعيد التصدير. وكمان برجع أحد الستايلات للتطوير لأن حركاته بتتكرر أكثر من المطلوب في البرومبت. التصحيح هنا ضروري عشان النتيجة تحقق مستوى الشوريل اللي طلبته.",
+          "truncated": false
+        }
+      ],
+      "rationale": "Autonomous assistant review; no user complaint required for inclusion."
+    },
+    {
+      "id": "HIST-GM-ADD-07",
+      "project": "GetMotion",
+      "title": "GlassPrint dependent-file preparation failure",
+      "discovered_by": "agent",
+      "observed_error": "Export began only after repairing dependency-file preparation step; distinct from visual refraction seam.",
+      "attempts_and_outcome": "Preparation step repaired and export resumed; exact mechanism and failed implementation absent.",
+      "status": "assistant_reported_repair_or_pending_not_independently_verified",
+      "sources": [
+        {
+          "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+          "item_id": "msg_04ec605e1f3eda98016ada67c13abc8191b3a7bbd816d0e658",
+          "role": "assistant",
+          "text": "تصدير GlassPrint بدأ الآن بعد إصلاح خطوة تجهيز الملفات التابعة له. النسخة العربية من TypeForge جاهزة أيضًا، وبراجع وضوح العربية والسعر ومدة التسليم في الفيديو المُصدّر.\n",
+          "truncated": false
+        }
+      ],
+      "rationale": "Autonomous assistant review; no user complaint required for inclusion."
+    }
+  ],
+  "existing_case_updates": [
+    {
+      "case_id": "HIST-GM-07",
+      "type": "additional_occurrence_not_new_case",
+      "detail": "GM005 editable file omitted new lighting images; explicitly embed them and add dedicated offline image/lighting check.",
+      "sources": [
+        {
+          "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+          "item_id": "msg_04ec605e1f3eda98016adac731c0b08191939a724a0d22fbb5",
+          "role": "assistant",
+          "text": "GMX04 الإنجليزي وصل لحوالي ٣٤٪. وبالتوازي ظهرت نقطة محتاجة تصحيح في ملف تعديل GM005: صور الإضاءة الجديدة لازم تتضمّن داخله عشان يشتغل كاملًا من غير إنترنت. بصلّح تضمين الصور قبل ما ييجي دوره.\n",
+          "truncated": false
+        },
+        {
+          "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+          "item_id": "msg_04ec605e1f3eda98016adac8d6d1ec81919963725d7bf4fee3",
+          "role": "assistant",
+          "text": "GMX04 الإنجليزي وصل لحوالي ٨١٪. تصحيح تضمين صور GM005 خلص، واتضاف له فحص مخصص للتأكد من ظهور الصور وتأثير الإضاءة في ملف التعديل بدون إنترنت.\n",
+          "truncated": false
+        }
+      ]
+    },
+    {
+      "case_id": "HIST-GM-03",
+      "type": "additional_test_not_new_failure",
+      "detail": "Post-repair geometric checks found no intersections in affected AR/EN transitions; corrected neighbouring frames reviewed before rerender.",
+      "sources": [
+        {
+          "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+          "item_id": "msg_04ec605e1f3eda98016adace1d8eb08191a98fd17d6cedb270",
+          "role": "assistant",
+          "text": "الفحص الهندسي بعد التصحيح لم يجد تقاطعات في التحوّلات المتأثرة، في العربي والإنجليزي. براجع الآن صور التحوّل المصحح واللقطات المجاورة له قبل إعادة تصدير الفيديوهين.\n",
+          "truncated": false
+        },
+        {
+          "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+          "item_id": "msg_04ec605e1f3eda98016adace84fcac81919e1001aa042bdea7",
+          "role": "assistant",
+          "text": "صور التحوّلات المصححة واللقطات المجاورة اتراجعت، والتقاطع اختفى فيها. التصحيح حافظ على التوقيت وأحداث الصوت؛ بجهّز الآن إعادة تصدير العربي، ثم الإنجليزي، من النسخة المصححة.\n",
+          "truncated": false
+        }
+      ]
+    }
+  ],
+  "limitations": [
+    "No new image/audio/source execution verification.",
+    "No unsuccessful alternative repair is invented when history only says corrected.",
+    "Source-only pending report states remain preserved;13later release reports supplied acceptance claims previously documented."
+  ]
+}

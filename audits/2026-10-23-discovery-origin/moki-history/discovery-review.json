@@ -1,0 +1,690 @@
+{
+  "reviewed_at": "2026-10-23",
+  "scope": "Fresh pagination of five histories: 93 pages,377 returned items.",
+  "coverage": [
+    {
+      "id": "01a157ad-5689-71e2-99e1-63bb19f0605b",
+      "pages": 23,
+      "total": 60,
+      "exhausted": true
+    },
+    {
+      "id": "01a158a7-4a10-74e1-a3ee-91d863e46041",
+      "pages": 1,
+      "total": 10,
+      "exhausted": true
+    },
+    {
+      "id": "01a15f04-7dc4-76fd-a6ac-be390cbbf014",
+      "pages": 2,
+      "total": 12,
+      "exhausted": true
+    },
+    {
+      "id": "01a15161-568f-727a-9d02-00fe38e08077",
+      "pages": 60,
+      "total": 252,
+      "exhausted": true
+    },
+    {
+      "id": "01a15135-c119-75c0-8c41-2d31e4351050",
+      "pages": 7,
+      "total": 43,
+      "exhausted": true
+    }
+  ],
+  "method": "Compare all returned assistant messages against existing evidence IDs; failure/repair term screen then read44unmapped candidates for new mechanisms versus repeats/success-only/requirements.",
+  "mapping": [
+    {
+      "case_id": "MOKI-H01",
+      "discovered_by": "agent",
+      "rationale": "Specific issue identified in assistant review/build statements; general user request to review does not make user the discoverer.",
+      "evidence": [
+        {
+          "thread_id": "01a157ad-5689-71e2-99e1-63bb19f0605b",
+          "item_id": "msg_0d962f3dd9a65c76016ad6f6f81cd88191b3aac114b9475279",
+          "role": "assistant"
+        },
+        {
+          "thread_id": "01a157ad-5689-71e2-99e1-63bb19f0605b",
+          "item_id": "msg_0d962f3dd9a65c76016ad6f7c87b24819185b865dea46d5f24",
+          "role": "assistant"
+        },
+        {
+          "thread_id": "01a157ad-5689-71e2-99e1-63bb19f0605b",
+          "item_id": "01a157be-8ef4-75fe-893e-26c83909d4db",
+          "role": "user"
+        }
+      ],
+      "limits": "First evidenced in available history only; not a claim of universal first discovery or independent repair verification."
+    },
+    {
+      "case_id": "MOKI-H02",
+      "discovered_by": "user",
+      "rationale": "Specific symptom/preference explicitly reported by user; later assistant repair claims are distinct.",
+      "evidence": [
+        {
+          "thread_id": "01a157ad-5689-71e2-99e1-63bb19f0605b",
+          "item_id": "01a157be-8ef4-75fe-893e-26c83909d4db",
+          "role": "user"
+        },
+        {
+          "thread_id": "01a157ad-5689-71e2-99e1-63bb19f0605b",
+          "item_id": "01a157bf-8c9a-74c0-9234-f2cbad70e4ce",
+          "role": "user"
+        },
+        {
+          "thread_id": "01a157ad-5689-71e2-99e1-63bb19f0605b",
+          "item_id": "msg_0d962f3dd9a65c76016ad6f9cbdba48191aea8cdb624495d36",
+          "role": "assistant"
+        },
+        {
+          "thread_id": "01a157ad-5689-71e2-99e1-63bb19f0605b",
+          "item_id": "msg_0d962f3dd9a65c76016ad6fac33d6881919176df536d6988ee",
+          "role": "assistant"
+        }
+      ],
+      "limits": "First evidenced in available history only; not a claim of universal first discovery or independent repair verification."
+    },
+    {
+      "case_id": "MOKI-H03",
+      "discovered_by": "agent",
+      "rationale": "Specific issue identified in assistant review/build statements; general user request to review does not make user the discoverer.",
+      "evidence": [
+        {
+          "thread_id": "01a157ad-5689-71e2-99e1-63bb19f0605b",
+          "item_id": "msg_0d962f3dd9a65c76016ad6ffba841c8191b6c5a4f8307b9bc9",
+          "role": "assistant"
+        },
+        {
+          "thread_id": "01a157ad-5689-71e2-99e1-63bb19f0605b",
+          "item_id": "msg_0d962f3dd9a65c76016ad700b3f9988191b61dd35dcfbac121",
+          "role": "assistant"
+        }
+      ],
+      "limits": "First evidenced in available history only; not a claim of universal first discovery or independent repair verification."
+    },
+    {
+      "case_id": "MOKI-H04",
+      "discovered_by": "agent",
+      "rationale": "Specific issue identified in assistant review/build statements; general user request to review does not make user the discoverer.",
+      "evidence": [
+        {
+          "thread_id": "01a157ad-5689-71e2-99e1-63bb19f0605b",
+          "item_id": "msg_0d962f3dd9a65c76016ad6fdca21e881918650991215f81b23",
+          "role": "assistant"
+        }
+      ],
+      "limits": "First evidenced in available history only; not a claim of universal first discovery or independent repair verification."
+    },
+    {
+      "case_id": "MOKI-H05",
+      "discovered_by": "agent",
+      "rationale": "Specific issue identified in assistant review/build statements; general user request to review does not make user the discoverer.",
+      "evidence": [
+        {
+          "thread_id": "01a157ad-5689-71e2-99e1-63bb19f0605b",
+          "item_id": "msg_0d962f3dd9a65c76016ad7038e06f081918b0f0e035b927f09",
+          "role": "assistant"
+        }
+      ],
+      "limits": "First evidenced in available history only; not a claim of universal first discovery or independent repair verification."
+    },
+    {
+      "case_id": "MOKI-H06",
+      "discovered_by": "agent",
+      "rationale": "Specific issue identified in assistant review/build statements; general user request to review does not make user the discoverer.",
+      "evidence": [
+        {
+          "thread_id": "01a157ad-5689-71e2-99e1-63bb19f0605b",
+          "item_id": "msg_0d962f3dd9a65c76016ad704918ffc81919c819ad9a4be70e0",
+          "role": "assistant"
+        }
+      ],
+      "limits": "First evidenced in available history only; not a claim of universal first discovery or independent repair verification."
+    },
+    {
+      "case_id": "MOKI-H07",
+      "discovered_by": "agent",
+      "rationale": "Specific issue identified in assistant review/build statements; general user request to review does not make user the discoverer.",
+      "evidence": [
+        {
+          "thread_id": "01a157ad-5689-71e2-99e1-63bb19f0605b",
+          "item_id": "msg_0d962f3dd9a65c76016ad70ae4d22c8191a5972c462de98c02",
+          "role": "assistant"
+        }
+      ],
+      "limits": "First evidenced in available history only; not a claim of universal first discovery or independent repair verification."
+    },
+    {
+      "case_id": "MOKI-H08",
+      "discovered_by": "agent",
+      "rationale": "Specific issue identified in assistant review/build statements; general user request to review does not make user the discoverer.",
+      "evidence": [
+        {
+          "thread_id": "01a157ad-5689-71e2-99e1-63bb19f0605b",
+          "item_id": "msg_0d962f3dd9a65c76016ad710f7ff708191a08080c20bf7f044",
+          "role": "assistant"
+        },
+        {
+          "thread_id": "01a157ad-5689-71e2-99e1-63bb19f0605b",
+          "item_id": "msg_0d962f3dd9a65c76016ad713c804e48191a08229c17508c9f2",
+          "role": "assistant"
+        },
+        {
+          "thread_id": "01a157ad-5689-71e2-99e1-63bb19f0605b",
+          "item_id": "msg_0d962f3dd9a65c76016ad71578da448191acc31120a4dd7451",
+          "role": "assistant"
+        }
+      ],
+      "limits": "First evidenced in available history only; not a claim of universal first discovery or independent repair verification."
+    },
+    {
+      "case_id": "MOKI-H09",
+      "discovered_by": "agent",
+      "rationale": "Specific issue identified in assistant review/build statements; general user request to review does not make user the discoverer.",
+      "evidence": [
+        {
+          "thread_id": "01a157ad-5689-71e2-99e1-63bb19f0605b",
+          "item_id": "msg_0d962f3dd9a65c76016ad71692de1481919e613ecb2d1b7896",
+          "role": "assistant"
+        },
+        {
+          "thread_id": "01a157ad-5689-71e2-99e1-63bb19f0605b",
+          "item_id": "msg_0d962f3dd9a65c76016ad71724cba48191b275de345dd9a914",
+          "role": "assistant"
+        },
+        {
+          "thread_id": "01a157ad-5689-71e2-99e1-63bb19f0605b",
+          "item_id": "msg_0d962f3dd9a65c76016ad717a7c4a481919a78625f2d6fe93b",
+          "role": "assistant"
+        },
+        {
+          "thread_id": "01a157ad-5689-71e2-99e1-63bb19f0605b",
+          "item_id": "msg_0d962f3dd9a65c76016ad715ecccc48191ba5ed6e8601e3aea",
+          "role": "assistant"
+        },
+        {
+          "thread_id": "01a157ad-5689-71e2-99e1-63bb19f0605b",
+          "item_id": "msg_0d962f3dd9a65c76016ad7192a6d988191ad1cdb14cd428e8e",
+          "role": "assistant"
+        }
+      ],
+      "limits": "First evidenced in available history only; not a claim of universal first discovery or independent repair verification."
+    },
+    {
+      "case_id": "MOKI-H10",
+      "discovered_by": "agent",
+      "rationale": "Specific issue identified in assistant review/build statements; general user request to review does not make user the discoverer.",
+      "evidence": [
+        {
+          "thread_id": "01a157ad-5689-71e2-99e1-63bb19f0605b",
+          "item_id": "msg_0d962f3dd9a65c76016ad719fe0b7081918c6061b548b2cff9",
+          "role": "assistant"
+        },
+        {
+          "thread_id": "01a157ad-5689-71e2-99e1-63bb19f0605b",
+          "item_id": "msg_0d962f3dd9a65c76016ad71a87d9688191869365f8c5882da8",
+          "role": "assistant"
+        },
+        {
+          "thread_id": "01a157ad-5689-71e2-99e1-63bb19f0605b",
+          "item_id": "msg_0d962f3dd9a65c76016ad71b6f78588191aee3035e15c401cc",
+          "role": "assistant"
+        }
+      ],
+      "limits": "First evidenced in available history only; not a claim of universal first discovery or independent repair verification."
+    },
+    {
+      "case_id": "MOKI-H11",
+      "discovered_by": "user",
+      "rationale": "Specific symptom/preference explicitly reported by user; later assistant repair claims are distinct.",
+      "evidence": [
+        {
+          "thread_id": "01a158a7-4a10-74e1-a3ee-91d863e46041",
+          "item_id": "01a158a7-cb2f-705e-8d63-0d718883dd2e",
+          "role": "user"
+        },
+        {
+          "thread_id": "01a158a7-4a10-74e1-a3ee-91d863e46041",
+          "item_id": "msg_02c68397fadaff3b016ad7368a32788191bb1e9596a8190c70",
+          "role": "assistant"
+        },
+        {
+          "thread_id": "01a158a7-4a10-74e1-a3ee-91d863e46041",
+          "item_id": "msg_02c68397fadaff3b016ad736fbc5bc81919169d32a9df99d04",
+          "role": "assistant"
+        }
+      ],
+      "limits": "First evidenced in available history only; not a claim of universal first discovery or independent repair verification."
+    },
+    {
+      "case_id": "MOKI-H12",
+      "discovered_by": "agent",
+      "rationale": "Specific issue identified in assistant review/build statements; general user request to review does not make user the discoverer.",
+      "evidence": [
+        {
+          "thread_id": "01a15f04-7dc4-76fd-a6ac-be390cbbf014",
+          "item_id": "msg_0a0fa065ef347140016ad8d8488fa4819782645c2de367c34b",
+          "role": "assistant"
+        },
+        {
+          "thread_id": "01a15f04-7dc4-76fd-a6ac-be390cbbf014",
+          "item_id": "msg_0a0fa065ef347140016ad8d78c8d548197817cc1294df497cb",
+          "role": "assistant"
+        },
+        {
+          "thread_id": "01a15f04-7dc4-76fd-a6ac-be390cbbf014",
+          "item_id": "msg_0a0fa065ef347140016ad8d722434881978d226b1cf28a4493",
+          "role": "assistant"
+        }
+      ],
+      "limits": "First evidenced in available history only; not a claim of universal first discovery or independent repair verification."
+    },
+    {
+      "case_id": "WHATIF-H01",
+      "discovered_by": "agent",
+      "rationale": "Specific issue identified in assistant review/build statements; general user request to review does not make user the discoverer.",
+      "evidence": [
+        {
+          "thread_id": "01a15161-568f-727a-9d02-00fe38e08077",
+          "item_id": "msg_00cae75d6af9eafd016ad57e932ef0819195ea4460f9b2d3c4",
+          "role": "assistant"
+        }
+      ],
+      "limits": "First evidenced in available history only; not a claim of universal first discovery or independent repair verification."
+    },
+    {
+      "case_id": "WHATIF-H02",
+      "discovered_by": "agent",
+      "rationale": "Specific issue identified in assistant review/build statements; general user request to review does not make user the discoverer.",
+      "evidence": [
+        {
+          "thread_id": "01a15161-568f-727a-9d02-00fe38e08077",
+          "item_id": "msg_00cae75d6af9eafd016ad5961c5c10819188a845ffe4c1fca5",
+          "role": "assistant"
+        }
+      ],
+      "limits": "First evidenced in available history only; not a claim of universal first discovery or independent repair verification."
+    },
+    {
+      "case_id": "WHATIF-H03",
+      "discovered_by": "agent",
+      "rationale": "Specific issue identified in assistant review/build statements; general user request to review does not make user the discoverer.",
+      "evidence": [
+        {
+          "thread_id": "01a15161-568f-727a-9d02-00fe38e08077",
+          "item_id": "msg_00cae75d6af9eafd016ad5989dcf988191a81d4b6bd95a4853",
+          "role": "assistant"
+        },
+        {
+          "thread_id": "01a15161-568f-727a-9d02-00fe38e08077",
+          "item_id": "msg_00cae75d6af9eafd016ad59a99f6d0819181bd1e967e161078",
+          "role": "assistant"
+        },
+        {
+          "thread_id": "01a15161-568f-727a-9d02-00fe38e08077",
+          "item_id": "msg_00cae75d6af9eafd016ad59bc8eb3c81918f40eb50656e1cdc",
+          "role": "assistant"
+        },
+        {
+          "thread_id": "01a15161-568f-727a-9d02-00fe38e08077",
+          "item_id": "msg_00cae75d6af9eafd016ad5a1ecb2a48191982bbd1993da2042",
+          "role": "assistant"
+        }
+      ],
+      "limits": "First evidenced in available history only; not a claim of universal first discovery or independent repair verification."
+    },
+    {
+      "case_id": "WHATIF-H04",
+      "discovered_by": "agent",
+      "rationale": "Specific issue identified in assistant review/build statements; general user request to review does not make user the discoverer.",
+      "evidence": [
+        {
+          "thread_id": "01a15161-568f-727a-9d02-00fe38e08077",
+          "item_id": "msg_00cae75d6af9eafd016ad5a2a417b48191b041932bef4b92b4",
+          "role": "assistant"
+        },
+        {
+          "thread_id": "01a15161-568f-727a-9d02-00fe38e08077",
+          "item_id": "msg_00cae75d6af9eafd016ad5a318fce08191bf73b46cae45a807",
+          "role": "assistant"
+        },
+        {
+          "thread_id": "01a15161-568f-727a-9d02-00fe38e08077",
+          "item_id": "msg_00cae75d6af9eafd016ad5a6d2e7608191acdc98b3fd932f2f",
+          "role": "assistant"
+        }
+      ],
+      "limits": "First evidenced in available history only; not a claim of universal first discovery or independent repair verification."
+    },
+    {
+      "case_id": "WHATIF-H05",
+      "discovered_by": "agent",
+      "rationale": "Specific issue identified in assistant review/build statements; general user request to review does not make user the discoverer.",
+      "evidence": [
+        {
+          "thread_id": "01a15161-568f-727a-9d02-00fe38e08077",
+          "item_id": "msg_00cae75d6af9eafd016ad5a48fbdd08191bdb502d67def1c69",
+          "role": "assistant"
+        },
+        {
+          "thread_id": "01a15161-568f-727a-9d02-00fe38e08077",
+          "item_id": "msg_00cae75d6af9eafd016ad5a3c6e0c48191a422f2c43d4c61f3",
+          "role": "assistant"
+        },
+        {
+          "thread_id": "01a15161-568f-727a-9d02-00fe38e08077",
+          "item_id": "msg_00cae75d6af9eafd016ad5a6d2e7608191acdc98b3fd932f2f",
+          "role": "assistant"
+        }
+      ],
+      "limits": "First evidenced in available history only; not a claim of universal first discovery or independent repair verification."
+    },
+    {
+      "case_id": "WHATIF-H06",
+      "discovered_by": "agent",
+      "rationale": "Specific issue identified in assistant review/build statements; general user request to review does not make user the discoverer.",
+      "evidence": [
+        {
+          "thread_id": "01a15161-568f-727a-9d02-00fe38e08077",
+          "item_id": "msg_0bde8721998e6dd3016ad635f87bdc8191af531a23ef7fab00",
+          "role": "assistant"
+        },
+        {
+          "thread_id": "01a15161-568f-727a-9d02-00fe38e08077",
+          "item_id": "msg_0bde8721998e6dd3016ad636ab9bcc81919957e4624260e60c",
+          "role": "assistant"
+        },
+        {
+          "thread_id": "01a15161-568f-727a-9d02-00fe38e08077",
+          "item_id": "msg_0fc5331f62e66b09016ad83d61eb508191af07bcfc2207a669",
+          "role": "assistant"
+        },
+        {
+          "thread_id": "01a15161-568f-727a-9d02-00fe38e08077",
+          "item_id": "msg_0fc5331f62e66b09016ad83dfced34819197c4dcb97198d75b",
+          "role": "assistant"
+        }
+      ],
+      "limits": "First evidenced in available history only; not a claim of universal first discovery or independent repair verification."
+    },
+    {
+      "case_id": "WHATIF-H07",
+      "discovered_by": "user",
+      "rationale": "Specific symptom/preference explicitly reported by user; later assistant repair claims are distinct.",
+      "evidence": [
+        {
+          "thread_id": "01a15161-568f-727a-9d02-00fe38e08077",
+          "item_id": "01a15495-11fe-7245-8584-531582b3ecc3",
+          "role": "user"
+        },
+        {
+          "thread_id": "01a15161-568f-727a-9d02-00fe38e08077",
+          "item_id": "01a154f2-e560-7265-af01-10b6eebec141",
+          "role": "user"
+        },
+        {
+          "thread_id": "01a15161-568f-727a-9d02-00fe38e08077",
+          "item_id": "01a15540-766d-76f3-8c5f-84cee9f202c6",
+          "role": "user"
+        },
+        {
+          "thread_id": "01a15161-568f-727a-9d02-00fe38e08077",
+          "item_id": "01a15eb8-58a4-77df-8ac2-4acc516512e1",
+          "role": "user"
+        },
+        {
+          "thread_id": "01a15161-568f-727a-9d02-00fe38e08077",
+          "item_id": "msg_0bde8721998e6dd3016ad6431aa548819196b7406f0a4bd3f6",
+          "role": "assistant"
+        },
+        {
+          "thread_id": "01a15161-568f-727a-9d02-00fe38e08077",
+          "item_id": "msg_0bde8721998e6dd3016ad657990b2881918135d5a2b4d818ac",
+          "role": "assistant"
+        },
+        {
+          "thread_id": "01a15161-568f-727a-9d02-00fe38e08077",
+          "item_id": "msg_0dd7de45ee3a43ff016ad8c3b389d48191b97aef4fde8e5330",
+          "role": "assistant"
+        }
+      ],
+      "limits": "First evidenced in available history only; not a claim of universal first discovery or independent repair verification."
+    },
+    {
+      "case_id": "WHATIF-H08",
+      "discovered_by": "user",
+      "rationale": "Specific symptom/preference explicitly reported by user; later assistant repair claims are distinct.",
+      "evidence": [
+        {
+          "thread_id": "01a15161-568f-727a-9d02-00fe38e08077",
+          "item_id": "01a15c38-cdbf-7281-a894-f0483b1795c5",
+          "role": "user"
+        },
+        {
+          "thread_id": "01a15161-568f-727a-9d02-00fe38e08077",
+          "item_id": "msg_0bde8721998e6dd3016ad823c87330819191debcd4eb457e30",
+          "role": "assistant"
+        },
+        {
+          "thread_id": "01a15161-568f-727a-9d02-00fe38e08077",
+          "item_id": "msg_0bde8721998e6dd3016ad82e68c4d881919545854a8fa7f253",
+          "role": "assistant"
+        },
+        {
+          "thread_id": "01a15161-568f-727a-9d02-00fe38e08077",
+          "item_id": "01a15f38-68c8-7593-9644-ca5bb9d9d950",
+          "role": "user"
+        }
+      ],
+      "limits": "First evidenced in available history only; not a claim of universal first discovery or independent repair verification."
+    },
+    {
+      "case_id": "WHATIF-H09",
+      "discovered_by": "agent",
+      "rationale": "Specific issue identified in assistant review/build statements; general user request to review does not make user the discoverer.",
+      "evidence": [
+        {
+          "thread_id": "01a15161-568f-727a-9d02-00fe38e08077",
+          "item_id": "msg_0bde8721998e6dd3016ad831225a108191ae3725de0f1358c5",
+          "role": "assistant"
+        },
+        {
+          "thread_id": "01a15161-568f-727a-9d02-00fe38e08077",
+          "item_id": "msg_0fc5331f62e66b09016ad835c42dbc8191a1ede93ebb1b0fd1",
+          "role": "assistant"
+        }
+      ],
+      "limits": "First evidenced in available history only; not a claim of universal first discovery or independent repair verification."
+    },
+    {
+      "case_id": "WHATIF-H10",
+      "discovered_by": "agent",
+      "rationale": "Specific issue identified in assistant review/build statements; general user request to review does not make user the discoverer.",
+      "evidence": [
+        {
+          "thread_id": "01a15161-568f-727a-9d02-00fe38e08077",
+          "item_id": "msg_0fc5331f62e66b09016ad83a4af84c8191837ba19e2d50b239",
+          "role": "assistant"
+        }
+      ],
+      "limits": "First evidenced in available history only; not a claim of universal first discovery or independent repair verification."
+    },
+    {
+      "case_id": "WHATIF-H11",
+      "discovered_by": "agent",
+      "rationale": "Specific issue identified in assistant review/build statements; general user request to review does not make user the discoverer.",
+      "evidence": [
+        {
+          "thread_id": "01a15161-568f-727a-9d02-00fe38e08077",
+          "item_id": "msg_0fc5331f62e66b09016ad84a68737c81918f494772f9718c7a",
+          "role": "assistant"
+        },
+        {
+          "thread_id": "01a15161-568f-727a-9d02-00fe38e08077",
+          "item_id": "msg_0fc5331f62e66b09016ad84c3440148191a56526eaedd49c7d",
+          "role": "assistant"
+        },
+        {
+          "thread_id": "01a15161-568f-727a-9d02-00fe38e08077",
+          "item_id": "msg_0fc5331f62e66b09016ad84d63891481919653fb75a5e64477",
+          "role": "assistant"
+        }
+      ],
+      "limits": "First evidenced in available history only; not a claim of universal first discovery or independent repair verification."
+    },
+    {
+      "case_id": "WHATIF-H12",
+      "discovered_by": "agent",
+      "rationale": "Specific issue identified in assistant review/build statements; general user request to review does not make user the discoverer.",
+      "evidence": [
+        {
+          "thread_id": "01a15161-568f-727a-9d02-00fe38e08077",
+          "item_id": "msg_0fc5331f62e66b09016ad8367bd8408191a529e31521c07c7d",
+          "role": "assistant"
+        }
+      ],
+      "limits": "First evidenced in available history only; not a claim of universal first discovery or independent repair verification."
+    },
+    {
+      "case_id": "PROMPT-H01",
+      "discovered_by": "agent",
+      "rationale": "Specific issue identified in assistant review/build statements; general user request to review does not make user the discoverer.",
+      "evidence": [
+        {
+          "thread_id": "01a15135-c119-75c0-8c41-2d31e4351050",
+          "item_id": "msg_031100ec8af7f1be016ad939a5c6788191b36d7bec5190a33a",
+          "role": "assistant"
+        },
+        {
+          "thread_id": "01a15135-c119-75c0-8c41-2d31e4351050",
+          "item_id": "msg_031100ec8af7f1be016ad9396bf60881918367b1132a70080a",
+          "role": "assistant"
+        }
+      ],
+      "limits": "First evidenced in available history only; not a claim of universal first discovery or independent repair verification."
+    },
+    {
+      "case_id": "PROMPT-H02",
+      "discovered_by": "agent",
+      "rationale": "Specific issue identified in assistant review/build statements; general user request to review does not make user the discoverer.",
+      "evidence": [
+        {
+          "thread_id": "01a15135-c119-75c0-8c41-2d31e4351050",
+          "item_id": "msg_031100ec8af7f1be016ad9339215108191bfad41c661df57b1",
+          "role": "assistant"
+        }
+      ],
+      "limits": "First evidenced in available history only; not a claim of universal first discovery or independent repair verification."
+    },
+    {
+      "case_id": "PROMPT-H03",
+      "discovered_by": "user",
+      "rationale": "Specific symptom/preference explicitly reported by user; later assistant repair claims are distinct.",
+      "evidence": [
+        {
+          "thread_id": "01a15135-c119-75c0-8c41-2d31e4351050",
+          "item_id": "01a160d8-379e-701f-8736-ac71e92c7331",
+          "role": "user"
+        },
+        {
+          "thread_id": "01a15135-c119-75c0-8c41-2d31e4351050",
+          "item_id": "01a160d8-4baa-7084-813e-1a3fce6e7093",
+          "role": "user"
+        },
+        {
+          "thread_id": "01a15135-c119-75c0-8c41-2d31e4351050",
+          "item_id": "msg_0bf4a3a7c26f350e016ad94eb6c274819185d3b5ec3ec57a3d",
+          "role": "assistant"
+        }
+      ],
+      "limits": "First evidenced in available history only; not a claim of universal first discovery or independent repair verification."
+    },
+    {
+      "case_id": "PROMPT-H04",
+      "discovered_by": "agent",
+      "rationale": "User requested audio/gesture directions, but agent identified the technical distinction between physical gestures and audio tags; user trigger is not user discovery.",
+      "evidence": [
+        {
+          "thread_id": "01a15135-c119-75c0-8c41-2d31e4351050",
+          "item_id": "01a15143-1986-7692-b202-93668702ae25",
+          "role": "user"
+        },
+        {
+          "thread_id": "01a15135-c119-75c0-8c41-2d31e4351050",
+          "item_id": "msg_09a52937867a763d016ad55150a3c08191ac0e2fd1e80725c9",
+          "role": "assistant"
+        },
+        {
+          "thread_id": "01a15135-c119-75c0-8c41-2d31e4351050",
+          "item_id": "msg_031100ec8af7f1be016ad9396bf60881918367b1132a70080a",
+          "role": "assistant"
+        }
+      ],
+      "limits": "First evidenced in available history only; not a claim of universal first discovery or independent repair verification."
+    }
+  ],
+  "new_autonomous_findings": [
+    {
+      "case_id": "WHATIF-H13",
+      "title": "Thumbnail wording did not accurately convey story consequence",
+      "discovered_by": "agent",
+      "symptom": "Third cover text adjusted to «الحبر لا يكفي»: character crosses out a paragraph in her own copy while other copies remain. Earlier exact text not supplied.",
+      "cause": "Mismatch between proposed cover implication and story; original wording unavailable.",
+      "attempts_and_outcome": "Assistant reported changing wording; no independent thumbnail inspection here.",
+      "status": "historical_agent_report_not_independently_verified",
+      "sources": [
+        {
+          "thread_id": "01a15161-568f-727a-9d02-00fe38e08077",
+          "item_id": "msg_00cae75d6af9eafd016ad59307451c8191bb49af8cdded8224",
+          "role": "assistant",
+          "excerpt": "الثامبنيلز الثلاثة اتولّدوا، وبراجع النسخ الرأسية منها الآن. وعدّلت نص التصميم الثالث إلى **«الحبر لا يكفي»** ليطابق القصة بدقة: هي تشطب الفقرة في نسختها، بينما النسخ الأخرى تظل موجودة. جدول النشر المقترح يبدأ بالفيلم الكامل يوم الخميس 22 أكتوبر الساعة 8 مساءً، ثم جزء يوميًا لمدة عشرة أيام."
+        }
+      ]
+    },
+    {
+      "case_id": "WHATIF-H14",
+      "title": "Arithmetic, sequencing and historical-claim errors found during script review",
+      "discovered_by": "agent",
+      "symptom": "Agent reported limited arithmetic, sequence and historical-claim errors in four supplied episodes.",
+      "cause": "Specific propositions/calculations not identified in this message; unknown.",
+      "attempts_and_outcome": "Proposed correction preserving events/endings and documenting changes. This evidence alone does not prove repair completed; later approved-script preservation still applies.",
+      "status": "historical_discovery_repair_planned_not_verified",
+      "sources": [
+        {
+          "thread_id": "01a15161-568f-727a-9d02-00fe38e08077",
+          "item_id": "msg_0bde8721998e6dd3016ad82b42de4c8191bf43c76cebb34d14",
+          "role": "assistant",
+          "excerpt": "الملفين فيهم أربع حلقات: متذوّق طعام في ميلانو، وناسخ في باريس، وعامل منجم، وصياد من جزر آران. لقيت أخطاء محدودة في الحساب والتسلسل وبعض الادعاءات التاريخية؛ هصححها مع الحفاظ على الأحداث والنهايات، وأرفق بيانًا بالتعديلات. حلقة آران هتكون المختلفة بصريًا، بأسلوب حفر وحبر وحركة مستوحاة من الخيط والموج."
+        }
+      ]
+    }
+  ],
+  "existing_case_updates": [
+    {
+      "case_id": "WHATIF-H11",
+      "discovered_by": "agent",
+      "note": "Additional corrupted intermediate occurrence in opening minute of Aran long film, distinct asset from Short02 but same corruption mechanism, not another case ID.",
+      "sources": [
+        {
+          "thread_id": "01a15161-568f-727a-9d02-00fe38e08077",
+          "item_id": "msg_0fc5331f62e66b09016ad8520c062481919941123371d092ec",
+          "role": "assistant",
+          "excerpt": "الجزء الثاني المصحح جاهز للتحميل: [ep04_aran_Short_02.mp4](sandbox:/workspace/scratch/104693317ed9/production_batch_v2/deliverables_ASCII/ep04_aran_Short_02.mp4).\n\nالفحص الوقائي كشف كمان مقطعًا داخليًا تالفًا في بداية فيلم آران الطويل. هعيد تصدير الدقيقة دي أثناء استمرار باقي الفيلم، عشان يتصلّح قبل الدمج النهائي."
+        },
+        {
+          "thread_id": "01a15161-568f-727a-9d02-00fe38e08077",
+          "item_id": "msg_0fc5331f62e66b09016ad85920e2208191bbf3345f2cdc4830",
+          "role": "assistant",
+          "excerpt": "إصلاح بداية آران الطويل اكتمل وتركّب في مكانه. اتأكدت من تطابق توقيت الرسم، وباقي الفيلم مستمر. باريس والمنجم قربوا من ٦٠٪، وآران وصل لنصفه تقريبًا، والأجزاء ٦ و٧ و٨ من آران بتتصدّر الآن."
+        }
+      ]
+    }
+  ],
+  "limitations": [
+    "Reader truncations/empty items remain; no hidden tool internals recovered.",
+    "Autonomous does not mean user gave no overall production/review instruction; it means specific failure was reported by agent, not raised in matching user feedback.",
+    "No code/render/audio tests rerun."
+  ]
+}

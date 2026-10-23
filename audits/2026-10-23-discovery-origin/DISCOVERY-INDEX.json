@@ -1,0 +1,764 @@
+{
+  "schema_version": 1,
+  "audit_date": "2026-10-23",
+  "records": [
+    {
+      "group": "own",
+      "case_id": "CANVA-01",
+      "discovered_by": "user",
+      "detail_file": "own-discovery-review.json"
+    },
+    {
+      "group": "own",
+      "case_id": "CANVA-02",
+      "discovered_by": "agent",
+      "detail_file": "own-discovery-review.json"
+    },
+    {
+      "group": "own",
+      "case_id": "CANVA-03",
+      "discovered_by": "agent",
+      "detail_file": "own-discovery-review.json"
+    },
+    {
+      "group": "own",
+      "case_id": "CANVA-04",
+      "discovered_by": "agent",
+      "detail_file": "own-discovery-review.json"
+    },
+    {
+      "group": "own",
+      "case_id": "CANVA-05",
+      "discovered_by": "agent",
+      "detail_file": "own-discovery-review.json"
+    },
+    {
+      "group": "own",
+      "case_id": "CANVA-06",
+      "discovered_by": "agent",
+      "detail_file": "own-discovery-review.json"
+    },
+    {
+      "group": "own",
+      "case_id": "CANVA-07",
+      "discovered_by": "agent",
+      "detail_file": "own-discovery-review.json"
+    },
+    {
+      "group": "own",
+      "case_id": "SHOW-01",
+      "discovered_by": "agent",
+      "detail_file": "own-discovery-review.json"
+    },
+    {
+      "group": "own",
+      "case_id": "SHOW-02",
+      "discovered_by": "agent",
+      "detail_file": "own-discovery-review.json"
+    },
+    {
+      "group": "own",
+      "case_id": "SHOW-03",
+      "discovered_by": "agent",
+      "detail_file": "own-discovery-review.json"
+    },
+    {
+      "group": "own",
+      "case_id": "SHOW-04",
+      "discovered_by": "agent",
+      "detail_file": "own-discovery-review.json"
+    },
+    {
+      "group": "own",
+      "case_id": "SHOW-05",
+      "discovered_by": "agent",
+      "detail_file": "own-discovery-review.json"
+    },
+    {
+      "group": "own",
+      "case_id": "SHOW-06",
+      "discovered_by": "agent",
+      "detail_file": "own-discovery-review.json"
+    },
+    {
+      "group": "own",
+      "case_id": "EZZAY-OLD-01",
+      "discovered_by": "user",
+      "detail_file": "own-discovery-review.json"
+    },
+    {
+      "group": "own",
+      "case_id": "EZZAY-OLD-02",
+      "discovered_by": "agent",
+      "detail_file": "own-discovery-review.json"
+    },
+    {
+      "group": "own",
+      "case_id": "EZZAY-OLD-03",
+      "discovered_by": "agent",
+      "detail_file": "own-discovery-review.json"
+    },
+    {
+      "group": "own",
+      "case_id": "EZZAY-OLD-04",
+      "discovered_by": "user",
+      "detail_file": "own-discovery-review.json"
+    },
+    {
+      "group": "own",
+      "case_id": "EZZAY-OLD-05",
+      "discovered_by": "unknown",
+      "detail_file": "own-discovery-review.json"
+    },
+    {
+      "group": "own",
+      "case_id": "GETMOTION-COPY-01",
+      "discovered_by": "user",
+      "detail_file": "own-discovery-review.json"
+    },
+    {
+      "group": "moki-history",
+      "case_id": "MOKI-H01",
+      "discovered_by": "agent",
+      "detail_file": "moki-history/discovery-review.json"
+    },
+    {
+      "group": "moki-history",
+      "case_id": "MOKI-H02",
+      "discovered_by": "user",
+      "detail_file": "moki-history/discovery-review.json"
+    },
+    {
+      "group": "moki-history",
+      "case_id": "MOKI-H03",
+      "discovered_by": "agent",
+      "detail_file": "moki-history/discovery-review.json"
+    },
+    {
+      "group": "moki-history",
+      "case_id": "MOKI-H04",
+      "discovered_by": "agent",
+      "detail_file": "moki-history/discovery-review.json"
+    },
+    {
+      "group": "moki-history",
+      "case_id": "MOKI-H05",
+      "discovered_by": "agent",
+      "detail_file": "moki-history/discovery-review.json"
+    },
+    {
+      "group": "moki-history",
+      "case_id": "MOKI-H06",
+      "discovered_by": "agent",
+      "detail_file": "moki-history/discovery-review.json"
+    },
+    {
+      "group": "moki-history",
+      "case_id": "MOKI-H07",
+      "discovered_by": "agent",
+      "detail_file": "moki-history/discovery-review.json"
+    },
+    {
+      "group": "moki-history",
+      "case_id": "MOKI-H08",
+      "discovered_by": "agent",
+      "detail_file": "moki-history/discovery-review.json"
+    },
+    {
+      "group": "moki-history",
+      "case_id": "MOKI-H09",
+      "discovered_by": "agent",
+      "detail_file": "moki-history/discovery-review.json"
+    },
+    {
+      "group": "moki-history",
+      "case_id": "MOKI-H10",
+      "discovered_by": "agent",
+      "detail_file": "moki-history/discovery-review.json"
+    },
+    {
+      "group": "moki-history",
+      "case_id": "MOKI-H11",
+      "discovered_by": "user",
+      "detail_file": "moki-history/discovery-review.json"
+    },
+    {
+      "group": "moki-history",
+      "case_id": "MOKI-H12",
+      "discovered_by": "agent",
+      "detail_file": "moki-history/discovery-review.json"
+    },
+    {
+      "group": "moki-history",
+      "case_id": "WHATIF-H01",
+      "discovered_by": "agent",
+      "detail_file": "moki-history/discovery-review.json"
+    },
+    {
+      "group": "moki-history",
+      "case_id": "WHATIF-H02",
+      "discovered_by": "agent",
+      "detail_file": "moki-history/discovery-review.json"
+    },
+    {
+      "group": "moki-history",
+      "case_id": "WHATIF-H03",
+      "discovered_by": "agent",
+      "detail_file": "moki-history/discovery-review.json"
+    },
+    {
+      "group": "moki-history",
+      "case_id": "WHATIF-H04",
+      "discovered_by": "agent",
+      "detail_file": "moki-history/discovery-review.json"
+    },
+    {
+      "group": "moki-history",
+      "case_id": "WHATIF-H05",
+      "discovered_by": "agent",
+      "detail_file": "moki-history/discovery-review.json"
+    },
+    {
+      "group": "moki-history",
+      "case_id": "WHATIF-H06",
+      "discovered_by": "agent",
+      "detail_file": "moki-history/discovery-review.json"
+    },
+    {
+      "group": "moki-history",
+      "case_id": "WHATIF-H07",
+      "discovered_by": "user",
+      "detail_file": "moki-history/discovery-review.json"
+    },
+    {
+      "group": "moki-history",
+      "case_id": "WHATIF-H08",
+      "discovered_by": "user",
+      "detail_file": "moki-history/discovery-review.json"
+    },
+    {
+      "group": "moki-history",
+      "case_id": "WHATIF-H09",
+      "discovered_by": "agent",
+      "detail_file": "moki-history/discovery-review.json"
+    },
+    {
+      "group": "moki-history",
+      "case_id": "WHATIF-H10",
+      "discovered_by": "agent",
+      "detail_file": "moki-history/discovery-review.json"
+    },
+    {
+      "group": "moki-history",
+      "case_id": "WHATIF-H11",
+      "discovered_by": "agent",
+      "detail_file": "moki-history/discovery-review.json"
+    },
+    {
+      "group": "moki-history",
+      "case_id": "WHATIF-H12",
+      "discovered_by": "agent",
+      "detail_file": "moki-history/discovery-review.json"
+    },
+    {
+      "group": "moki-history",
+      "case_id": "PROMPT-H01",
+      "discovered_by": "agent",
+      "detail_file": "moki-history/discovery-review.json"
+    },
+    {
+      "group": "moki-history",
+      "case_id": "PROMPT-H02",
+      "discovered_by": "agent",
+      "detail_file": "moki-history/discovery-review.json"
+    },
+    {
+      "group": "moki-history",
+      "case_id": "PROMPT-H03",
+      "discovered_by": "user",
+      "detail_file": "moki-history/discovery-review.json"
+    },
+    {
+      "group": "moki-history",
+      "case_id": "PROMPT-H04",
+      "discovered_by": "agent",
+      "detail_file": "moki-history/discovery-review.json"
+    },
+    {
+      "group": "answeract",
+      "case_id": "A01",
+      "discovered_by": "user",
+      "detail_file": "answeract/discovery-review.json"
+    },
+    {
+      "group": "answeract",
+      "case_id": "A02",
+      "discovered_by": "agent",
+      "detail_file": "answeract/discovery-review.json"
+    },
+    {
+      "group": "answeract",
+      "case_id": "A03",
+      "discovered_by": "agent",
+      "detail_file": "answeract/discovery-review.json"
+    },
+    {
+      "group": "answeract",
+      "case_id": "A04",
+      "discovered_by": "user",
+      "detail_file": "answeract/discovery-review.json"
+    },
+    {
+      "group": "answeract",
+      "case_id": "A05",
+      "discovered_by": "user",
+      "detail_file": "answeract/discovery-review.json"
+    },
+    {
+      "group": "answeract",
+      "case_id": "A06",
+      "discovered_by": "user",
+      "detail_file": "answeract/discovery-review.json"
+    },
+    {
+      "group": "answeract",
+      "case_id": "A07",
+      "discovered_by": "user",
+      "detail_file": "answeract/discovery-review.json"
+    },
+    {
+      "group": "answeract",
+      "case_id": "A08",
+      "discovered_by": "user",
+      "detail_file": "answeract/discovery-review.json"
+    },
+    {
+      "group": "answeract",
+      "case_id": "A09",
+      "discovered_by": "user",
+      "detail_file": "answeract/discovery-review.json"
+    },
+    {
+      "group": "answeract",
+      "case_id": "A10",
+      "discovered_by": "user",
+      "detail_file": "answeract/discovery-review.json"
+    },
+    {
+      "group": "answeract",
+      "case_id": "A11",
+      "discovered_by": "agent",
+      "detail_file": "answeract/discovery-review.json"
+    },
+    {
+      "group": "answeract",
+      "case_id": "A12",
+      "discovered_by": "agent",
+      "detail_file": "answeract/discovery-review.json"
+    },
+    {
+      "group": "answeract",
+      "case_id": "H01",
+      "discovered_by": "user",
+      "detail_file": "answeract/discovery-review.json"
+    },
+    {
+      "group": "answeract",
+      "case_id": "H02",
+      "discovered_by": "user",
+      "detail_file": "answeract/discovery-review.json"
+    },
+    {
+      "group": "answeract",
+      "case_id": "H03",
+      "discovered_by": "user",
+      "detail_file": "answeract/discovery-review.json"
+    },
+    {
+      "group": "answeract",
+      "case_id": "H04",
+      "discovered_by": "user",
+      "detail_file": "answeract/discovery-review.json"
+    },
+    {
+      "group": "answeract",
+      "case_id": "H05",
+      "discovered_by": "user",
+      "detail_file": "answeract/discovery-review.json"
+    },
+    {
+      "group": "answeract",
+      "case_id": "H06",
+      "discovered_by": "user",
+      "detail_file": "answeract/discovery-review.json"
+    },
+    {
+      "group": "answeract",
+      "case_id": "H07",
+      "discovered_by": "agent",
+      "detail_file": "answeract/discovery-review.json"
+    },
+    {
+      "group": "answeract",
+      "case_id": "B01",
+      "discovered_by": "user",
+      "detail_file": "answeract/discovery-review.json"
+    },
+    {
+      "group": "answeract",
+      "case_id": "B02",
+      "discovered_by": "user",
+      "detail_file": "answeract/discovery-review.json"
+    },
+    {
+      "group": "answeract",
+      "case_id": "B03",
+      "discovered_by": "agent",
+      "detail_file": "answeract/discovery-review.json"
+    },
+    {
+      "group": "answeract",
+      "case_id": "B04",
+      "discovered_by": "agent",
+      "detail_file": "answeract/discovery-review.json"
+    },
+    {
+      "group": "answeract",
+      "case_id": "B05",
+      "discovered_by": "agent",
+      "detail_file": "answeract/discovery-review.json"
+    },
+    {
+      "group": "answeract",
+      "case_id": "B06",
+      "discovered_by": "agent",
+      "detail_file": "answeract/discovery-review.json"
+    },
+    {
+      "group": "answeract",
+      "case_id": "B07",
+      "discovered_by": "unknown",
+      "detail_file": "answeract/discovery-review.json"
+    },
+    {
+      "group": "answeract",
+      "case_id": "A13",
+      "discovered_by": "agent",
+      "detail_file": "answeract/discovery-review.json"
+    },
+    {
+      "group": "answeract",
+      "case_id": "A14",
+      "discovered_by": "agent",
+      "detail_file": "answeract/discovery-review.json"
+    },
+    {
+      "group": "answeract",
+      "case_id": "A15",
+      "discovered_by": "agent",
+      "detail_file": "answeract/discovery-review.json"
+    },
+    {
+      "group": "answeract",
+      "case_id": "A16",
+      "discovered_by": "agent",
+      "detail_file": "answeract/discovery-review.json"
+    },
+    {
+      "group": "answeract",
+      "case_id": "A17",
+      "discovered_by": "agent",
+      "detail_file": "answeract/discovery-review.json"
+    },
+    {
+      "group": "answeract",
+      "case_id": "A18",
+      "discovered_by": "agent",
+      "detail_file": "answeract/discovery-review.json"
+    },
+    {
+      "group": "answeract",
+      "case_id": "A19",
+      "discovered_by": "user",
+      "detail_file": "answeract/discovery-review.json"
+    },
+    {
+      "group": "getmotion-ezzay",
+      "case_id": "HIST-GM-01",
+      "discovered_by": "agent",
+      "detail_file": "getmotion-ezzay/discovery-review.json"
+    },
+    {
+      "group": "getmotion-ezzay",
+      "case_id": "HIST-GM-02",
+      "discovered_by": "agent",
+      "detail_file": "getmotion-ezzay/discovery-review.json"
+    },
+    {
+      "group": "getmotion-ezzay",
+      "case_id": "HIST-GM-03",
+      "discovered_by": "agent",
+      "detail_file": "getmotion-ezzay/discovery-review.json"
+    },
+    {
+      "group": "getmotion-ezzay",
+      "case_id": "HIST-GM-04",
+      "discovered_by": "agent",
+      "detail_file": "getmotion-ezzay/discovery-review.json"
+    },
+    {
+      "group": "getmotion-ezzay",
+      "case_id": "HIST-GM-05",
+      "discovered_by": "agent",
+      "detail_file": "getmotion-ezzay/discovery-review.json"
+    },
+    {
+      "group": "getmotion-ezzay",
+      "case_id": "HIST-GM-06",
+      "discovered_by": "agent",
+      "detail_file": "getmotion-ezzay/discovery-review.json"
+    },
+    {
+      "group": "getmotion-ezzay",
+      "case_id": "HIST-GM-07",
+      "discovered_by": "agent",
+      "detail_file": "getmotion-ezzay/discovery-review.json"
+    },
+    {
+      "group": "getmotion-ezzay",
+      "case_id": "HIST-GM-08",
+      "discovered_by": "agent",
+      "detail_file": "getmotion-ezzay/discovery-review.json"
+    },
+    {
+      "group": "getmotion-ezzay",
+      "case_id": "HIST-GM-09",
+      "discovered_by": "unknown",
+      "detail_file": "getmotion-ezzay/discovery-review.json"
+    },
+    {
+      "group": "getmotion-ezzay",
+      "case_id": "HIST-GM-10",
+      "discovered_by": "agent",
+      "detail_file": "getmotion-ezzay/discovery-review.json"
+    },
+    {
+      "group": "getmotion-ezzay",
+      "case_id": "HIST-GM-11",
+      "discovered_by": "agent",
+      "detail_file": "getmotion-ezzay/discovery-review.json"
+    },
+    {
+      "group": "getmotion-ezzay",
+      "case_id": "HIST-GM-12",
+      "discovered_by": "agent",
+      "detail_file": "getmotion-ezzay/discovery-review.json"
+    },
+    {
+      "group": "getmotion-ezzay",
+      "case_id": "HIST-GM-13",
+      "discovered_by": "agent",
+      "detail_file": "getmotion-ezzay/discovery-review.json"
+    },
+    {
+      "group": "getmotion-ezzay",
+      "case_id": "HIST-GM-14",
+      "discovered_by": "agent",
+      "detail_file": "getmotion-ezzay/discovery-review.json"
+    },
+    {
+      "group": "getmotion-ezzay",
+      "case_id": "HIST-GM-15",
+      "discovered_by": "agent",
+      "detail_file": "getmotion-ezzay/discovery-review.json"
+    },
+    {
+      "group": "getmotion-ezzay",
+      "case_id": "HIST-GM-16",
+      "discovered_by": "agent",
+      "detail_file": "getmotion-ezzay/discovery-review.json"
+    },
+    {
+      "group": "getmotion-ezzay",
+      "case_id": "HIST-GM-17",
+      "discovered_by": "agent",
+      "detail_file": "getmotion-ezzay/discovery-review.json"
+    },
+    {
+      "group": "getmotion-ezzay",
+      "case_id": "HIST-GM-18",
+      "discovered_by": "agent",
+      "detail_file": "getmotion-ezzay/discovery-review.json"
+    },
+    {
+      "group": "getmotion-ezzay",
+      "case_id": "HIST-GM-19",
+      "discovered_by": "agent",
+      "detail_file": "getmotion-ezzay/discovery-review.json"
+    },
+    {
+      "group": "getmotion-ezzay",
+      "case_id": "HIST-GM-20",
+      "discovered_by": "agent",
+      "detail_file": "getmotion-ezzay/discovery-review.json"
+    },
+    {
+      "group": "getmotion-ezzay",
+      "case_id": "HIST-GM-21",
+      "discovered_by": "agent",
+      "detail_file": "getmotion-ezzay/discovery-review.json"
+    },
+    {
+      "group": "getmotion-ezzay",
+      "case_id": "HIST-GM-22",
+      "discovered_by": "agent",
+      "detail_file": "getmotion-ezzay/discovery-review.json"
+    },
+    {
+      "group": "getmotion-ezzay",
+      "case_id": "HIST-GM-23",
+      "discovered_by": "agent",
+      "detail_file": "getmotion-ezzay/discovery-review.json"
+    },
+    {
+      "group": "getmotion-ezzay",
+      "case_id": "HIST-GM-24",
+      "discovered_by": "agent",
+      "detail_file": "getmotion-ezzay/discovery-review.json"
+    },
+    {
+      "group": "getmotion-ezzay",
+      "case_id": "HIST-GM-25",
+      "discovered_by": "agent",
+      "detail_file": "getmotion-ezzay/discovery-review.json"
+    },
+    {
+      "group": "getmotion-ezzay",
+      "case_id": "HIST-EZ-L01",
+      "discovered_by": "agent",
+      "detail_file": "getmotion-ezzay/discovery-review.json"
+    },
+    {
+      "group": "getmotion-ezzay",
+      "case_id": "HIST-EZ-L02",
+      "discovered_by": "agent",
+      "detail_file": "getmotion-ezzay/discovery-review.json"
+    },
+    {
+      "group": "getmotion-ezzay",
+      "case_id": "HIST-EZ-L03",
+      "discovered_by": "agent",
+      "detail_file": "getmotion-ezzay/discovery-review.json"
+    },
+    {
+      "group": "getmotion-ezzay",
+      "case_id": "HIST-EZ-L04",
+      "discovered_by": "unknown",
+      "detail_file": "getmotion-ezzay/discovery-review.json"
+    },
+    {
+      "group": "getmotion-ezzay",
+      "case_id": "HIST-EZ-L05",
+      "discovered_by": "unknown",
+      "detail_file": "getmotion-ezzay/discovery-review.json"
+    },
+    {
+      "group": "getmotion-ezzay",
+      "case_id": "HIST-EZ-S02",
+      "discovered_by": "unknown",
+      "detail_file": "getmotion-ezzay/discovery-review.json"
+    },
+    {
+      "group": "getmotion-ezzay",
+      "case_id": "HIST-EZ-S03",
+      "discovered_by": "agent",
+      "detail_file": "getmotion-ezzay/discovery-review.json"
+    },
+    {
+      "group": "getmotion-ezzay",
+      "case_id": "HIST-EZ-S05",
+      "discovered_by": "unknown",
+      "detail_file": "getmotion-ezzay/discovery-review.json"
+    },
+    {
+      "group": "getmotion-ezzay",
+      "case_id": "HIST-EZ-S08",
+      "discovered_by": "unknown",
+      "detail_file": "getmotion-ezzay/discovery-review.json"
+    },
+    {
+      "group": "getmotion-ezzay",
+      "case_id": "HIST-EZ-S10",
+      "discovered_by": "unknown",
+      "detail_file": "getmotion-ezzay/discovery-review.json"
+    },
+    {
+      "group": "getmotion-ezzay",
+      "case_id": "HIST-EZ-S11",
+      "discovered_by": "agent",
+      "detail_file": "getmotion-ezzay/discovery-review.json"
+    },
+    {
+      "group": "getmotion-ezzay",
+      "case_id": "HIST-EZ-S17",
+      "discovered_by": "unknown",
+      "detail_file": "getmotion-ezzay/discovery-review.json"
+    },
+    {
+      "group": "getmotion-ezzay",
+      "case_id": "HIST-EZ-S21",
+      "discovered_by": "reviewer",
+      "detail_file": "getmotion-ezzay/discovery-review.json"
+    },
+    {
+      "group": "getmotion-ezzay",
+      "case_id": "HIST-EZ-EXTRA-39",
+      "discovered_by": "agent",
+      "detail_file": "getmotion-ezzay/discovery-review.json"
+    },
+    {
+      "group": "getmotion-ezzay",
+      "case_id": "HIST-EZ-EXTRA-40",
+      "discovered_by": "unknown",
+      "detail_file": "getmotion-ezzay/discovery-review.json"
+    },
+    {
+      "group": "getmotion-ezzay",
+      "case_id": "HIST-EZ-EXTRA-41",
+      "discovered_by": "user",
+      "detail_file": "getmotion-ezzay/discovery-review.json"
+    },
+    {
+      "group": "getmotion-ezzay",
+      "case_id": "HIST-EZ-EXTRA-42",
+      "discovered_by": "agent",
+      "detail_file": "getmotion-ezzay/discovery-review.json"
+    },
+    {
+      "group": "getmotion-ezzay",
+      "case_id": "HIST-EZ-EXTRA-43",
+      "discovered_by": "agent",
+      "detail_file": "getmotion-ezzay/discovery-review.json"
+    },
+    {
+      "group": "getmotion-ezzay",
+      "case_id": "HIST-EZ-EXTRA-44",
+      "discovered_by": "unknown",
+      "detail_file": "getmotion-ezzay/discovery-review.json"
+    },
+    {
+      "group": "getmotion-ezzay",
+      "case_id": "HIST-EZ-ASR-CAVEAT",
+      "discovered_by": "reviewer",
+      "detail_file": "getmotion-ezzay/discovery-review.json"
+    }
+  ],
+  "existing_origin_counts": {
+    "user": 27,
+    "agent": 84,
+    "unknown": 12,
+    "reviewer": 2
+  },
+  "new_case_count": 14,
+  "interpretation": "Origin supplements125previous historical records; not all account data accessible and not independently verified fixes. Self-review=agent; reviewer only separately evidenced. Unknown includes mixed groups. General user review request is not discovery of every specific defect."
+}

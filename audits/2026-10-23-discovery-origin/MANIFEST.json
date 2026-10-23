@@ -1,0 +1,45 @@
+{
+  "files": [
+    {
+      "path": "DISCOVERY-INDEX.json",
+      "sha256": "09fa356dd91a202b981da89ac8280c7cdc538c02db99ac049a5b6bbd90f2c91c",
+      "bytes": 20649
+    },
+    {
+      "path": "NEW-CASES.json",
+      "sha256": "3582c03a9805ed64a29bb4fa65689972deecc1c3898b107aee56b0e72d49e168",
+      "bytes": 23148
+    },
+    {
+      "path": "answeract/discovery-review.json",
+      "sha256": "52a1c3070925a333a590a0c32dff0a258866839b2516f99e786d10b0546ff76a",
+      "bytes": 62096
+    },
+    {
+      "path": "answeract/missing-additions.md",
+      "sha256": "c378ae6924901bfee2421d76b27037cd299b5328d358bf7415b4937fbe0fbfa2",
+      "bytes": 7487
+    },
+    {
+      "path": "getmotion-ezzay/discovery-review.json",
+      "sha256": "84aa225d2fddb5014fe70bac2ffbb09e8ab739c8fc3271ddb2601c1f575c4628",
+      "bytes": 61401
+    },
+    {
+      "path": "getmotion-ezzay/missing-additions.md",
+      "sha256": "e65cef32e4e4a408930b63e6587469441b927b849ce6a04cab7520a78d0b07a8",
+      "bytes": 3358
+    },
+    {
+      "path": "moki-history/discovery-review.json",
+      "sha256": "f4be25900b0c69ce9a03026778b1b79d4c1e7c1f005f741076940b93e030c7a0",
+      "bytes": 30440
+    },
+    {
+      "path": "own-discovery-review.json",
+      "sha256": "9ab958eaeb12ecdfe4103e8c817e1489f0b40814825ac39b9465d2133868bd6f",
+      "bytes": 22042
+    }
+  ],
+  "scope": "additive discovery-origin audit; manifest excludes itself"
+}

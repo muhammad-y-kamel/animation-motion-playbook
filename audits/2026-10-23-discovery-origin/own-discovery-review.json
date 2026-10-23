@@ -1,0 +1,476 @@
+{
+  "scope": "19existing cases; retained352-item source corpus searched for autonomous-error candidates;3omitted defects found",
+  "method": "Re-read case evidence; search retained assistant text for failure/repair terms, then semantically review candidates and neighboring messages. Requirements/success-only messages excluded. This is not a claim of a fresh line-by-line review of every full message.",
+  "existing_case_attribution": [
+    {
+      "id": "CANVA-01",
+      "project": "Canva / Learn EG",
+      "discovered_by": "user",
+      "attribution_scope": "specific symptom as documented, not absolute first discovery outside available history",
+      "rationale": "Explicit user criticism or preference identifies this symptom before repair discussion.",
+      "source_thread": "01a15ce0-5a29-73b3-83a3-c30111c3a041",
+      "evidence": [
+        {
+          "id": "01a16535-e533-73a0-99d7-4099e1efbb8d",
+          "role": "user"
+        },
+        {
+          "id": "msg_0ba978014de52f25016ada709ac09881919bb53ff85405d37e",
+          "role": "assistant"
+        }
+      ]
+    },
+    {
+      "id": "CANVA-02",
+      "project": "Canva / Learn EG",
+      "discovered_by": "agent",
+      "attribution_scope": "specific symptom as documented, not absolute first discovery outside available history",
+      "rationale": "Assistant reports specific discovery during its own review/build; no matching specific user complaint establishes the discovery in this case.",
+      "source_thread": "01a15ce0-5a29-73b3-83a3-c30111c3a041",
+      "evidence": [
+        {
+          "id": "msg_0ba978014de52f25016ada718a2be08191aa7696500c318db1",
+          "role": "assistant"
+        },
+        {
+          "id": "msg_0ba978014de52f25016ada709ac09881919bb53ff85405d37e",
+          "role": "assistant"
+        }
+      ]
+    },
+    {
+      "id": "CANVA-03",
+      "project": "Canva / Learn EG",
+      "discovered_by": "agent",
+      "attribution_scope": "specific symptom as documented, not absolute first discovery outside available history",
+      "rationale": "Assistant reports specific discovery during its own review/build; no matching specific user complaint establishes the discovery in this case.",
+      "source_thread": "01a15ce0-5a29-73b3-83a3-c30111c3a041",
+      "evidence": [
+        {
+          "id": "msg_0ba978014de52f25016ada709ac09881919bb53ff85405d37e",
+          "role": "assistant"
+        }
+      ]
+    },
+    {
+      "id": "CANVA-04",
+      "project": "Canva / Learn EG",
+      "discovered_by": "agent",
+      "attribution_scope": "specific symptom as documented, not absolute first discovery outside available history",
+      "rationale": "Assistant reports specific discovery during its own review/build; no matching specific user complaint establishes the discovery in this case.",
+      "source_thread": "01a15ce0-5a29-73b3-83a3-c30111c3a041",
+      "evidence": [
+        {
+          "id": "msg_0ba978014de52f25016ad84ffea2a88191857bae534ee8adbe",
+          "role": "assistant"
+        }
+      ]
+    },
+    {
+      "id": "CANVA-05",
+      "project": "Canva / Learn EG",
+      "discovered_by": "agent",
+      "attribution_scope": "specific symptom as documented, not absolute first discovery outside available history",
+      "rationale": "Assistant reports specific discovery during its own review/build; no matching specific user complaint establishes the discovery in this case.",
+      "source_thread": "01a15ce0-5a29-73b3-83a3-c30111c3a041",
+      "evidence": [
+        {
+          "id": "msg_0ba978014de52f25016ad84e16262c8191be1f604a2553c05f",
+          "role": "assistant"
+        }
+      ]
+    },
+    {
+      "id": "CANVA-06",
+      "project": "Canva / Learn EG",
+      "discovered_by": "agent",
+      "attribution_scope": "specific symptom as documented, not absolute first discovery outside available history",
+      "rationale": "Assistant reports specific discovery during its own review/build; no matching specific user complaint establishes the discovery in this case.",
+      "source_thread": "01a15ce0-5a29-73b3-83a3-c30111c3a041",
+      "evidence": [
+        {
+          "id": "msg_0ba978014de52f25016ad8e90a9e68819197c904f53e031991",
+          "role": "assistant"
+        }
+      ]
+    },
+    {
+      "id": "CANVA-07",
+      "project": "Canva / Learn EG",
+      "discovered_by": "agent",
+      "attribution_scope": "specific symptom as documented, not absolute first discovery outside available history",
+      "rationale": "Assistant reports specific discovery during its own review/build; no matching specific user complaint establishes the discovery in this case.",
+      "source_thread": "01a15ce0-5a29-73b3-83a3-c30111c3a041",
+      "evidence": [
+        {
+          "id": "msg_0ba978014de52f25016ada7b93fbc481918b22d9bd78b48db7",
+          "role": "assistant"
+        },
+        {
+          "id": "msg_0ba978014de52f25016ada7c97f9a88191be06a28b9b2f8a7c",
+          "role": "assistant"
+        }
+      ]
+    },
+    {
+      "id": "SHOW-01",
+      "project": "JUST ONE MORE REVISION",
+      "discovered_by": "agent",
+      "attribution_scope": "specific symptom as documented, not absolute first discovery outside available history",
+      "rationale": "Assistant reports specific discovery during its own review/build; no matching specific user complaint establishes the discovery in this case.",
+      "source_thread": "01a157ad-2ca3-70e7-adef-e57d4dd82063",
+      "evidence": [
+        {
+          "id": "msg_027cd859be686e22016ad6f6e7a0408191a8a66676c2ed3457",
+          "role": "assistant"
+        }
+      ]
+    },
+    {
+      "id": "SHOW-02",
+      "project": "ONE FORM / ENDLESS MOTION",
+      "discovered_by": "agent",
+      "attribution_scope": "specific symptom as documented, not absolute first discovery outside available history",
+      "rationale": "Assistant reports specific discovery during its own review/build; no matching specific user complaint establishes the discovery in this case.",
+      "source_thread": "01a15799-4f45-768e-9e69-93724dd18073",
+      "evidence": [
+        {
+          "id": "msg_0d6ef9b93527a7b7016ad6f31cb97081919165752d201faf90",
+          "role": "assistant"
+        },
+        {
+          "id": "msg_0d6ef9b93527a7b7016ad6f3f8472c81919ab96e4d3a6321d5",
+          "role": "assistant"
+        }
+      ]
+    },
+    {
+      "id": "SHOW-03",
+      "project": "ONE FORM / ENDLESS MOTION",
+      "discovered_by": "agent",
+      "attribution_scope": "specific symptom as documented, not absolute first discovery outside available history",
+      "rationale": "Assistant reports specific discovery during its own review/build; no matching specific user complaint establishes the discovery in this case.",
+      "source_thread": "01a15799-4f45-768e-9e69-93724dd18073",
+      "evidence": [
+        {
+          "id": "msg_0d6ef9b93527a7b7016ad6f31cb97081919165752d201faf90",
+          "role": "assistant"
+        },
+        {
+          "id": "msg_0d6ef9b93527a7b7016ad6f4d6968881918daca42e29c28d68",
+          "role": "assistant"
+        }
+      ]
+    },
+    {
+      "id": "SHOW-04",
+      "project": "ONE FORM / ENDLESS MOTION",
+      "discovered_by": "agent",
+      "attribution_scope": "specific symptom as documented, not absolute first discovery outside available history",
+      "rationale": "Assistant reports specific discovery during its own review/build; no matching specific user complaint establishes the discovery in this case.",
+      "source_thread": "01a15799-4f45-768e-9e69-93724dd18073",
+      "evidence": [
+        {
+          "id": "msg_0d6ef9b93527a7b7016ad6f31cb97081919165752d201faf90",
+          "role": "assistant"
+        },
+        {
+          "id": "msg_0d6ef9b93527a7b7016ad6f3f8472c81919ab96e4d3a6321d5",
+          "role": "assistant"
+        }
+      ]
+    },
+    {
+      "id": "SHOW-05",
+      "project": "ONE FORM / ENDLESS MOTION",
+      "discovered_by": "agent",
+      "attribution_scope": "specific symptom as documented, not absolute first discovery outside available history",
+      "rationale": "Assistant reports specific discovery during its own review/build; no matching specific user complaint establishes the discovery in this case.",
+      "source_thread": "01a15799-4f45-768e-9e69-93724dd18073",
+      "evidence": [
+        {
+          "id": "msg_0d6ef9b93527a7b7016ad6f4d6968881918daca42e29c28d68",
+          "role": "assistant"
+        }
+      ]
+    },
+    {
+      "id": "SHOW-06",
+      "project": "FORM / FUNCTION",
+      "discovered_by": "agent",
+      "attribution_scope": "specific symptom as documented, not absolute first discovery outside available history",
+      "rationale": "Assistant reports specific discovery during its own review/build; no matching specific user complaint establishes the discovery in this case.",
+      "source_thread": "01a15799-0ccd-7696-9a5f-c02746acd047",
+      "evidence": [
+        {
+          "id": "msg_01a9e385714a94ae016ad6f18079d881918956625da21a91a4",
+          "role": "assistant"
+        },
+        {
+          "id": "msg_01a9e385714a94ae016ad6f3322ad08191a3ed63297f88af4d",
+          "role": "assistant"
+        }
+      ]
+    },
+    {
+      "id": "EZZAY-OLD-01",
+      "project": "إزاي first ten / agent kit",
+      "discovered_by": "user",
+      "attribution_scope": "specific symptom as documented, not absolute first discovery outside available history",
+      "rationale": "Explicit user criticism or preference identifies this symptom before repair discussion.",
+      "source_thread": "01a15c1a-ea88-733c-89df-6ec6e2f4e050",
+      "evidence": [
+        {
+          "id": "01a15d07-4c64-7160-8643-cda70264ecb4",
+          "role": "user"
+        },
+        {
+          "id": "01a15d07-c0ed-74ad-93a7-b3886deb5c2f",
+          "role": "user"
+        },
+        {
+          "id": "msg_0365e9dc27ee78ec016ad85fbedcac8191b0f530aaf1bdcb0d",
+          "role": "assistant"
+        },
+        {
+          "id": "01a15fe1-03c0-77ee-b2f6-061570f44516",
+          "role": "user"
+        },
+        {
+          "id": "01a15fe2-225d-73e2-816d-c70951cd00fc",
+          "role": "user"
+        },
+        {
+          "id": "msg_02978293c4b2e228016ad910c7314c8191a30c1617075038ae",
+          "role": "assistant"
+        },
+        {
+          "id": "01a15ff4-c977-7781-a3d5-eaa4acba4c9c",
+          "role": "user"
+        }
+      ]
+    },
+    {
+      "id": "EZZAY-OLD-02",
+      "project": "إزاي first ten / agent kit",
+      "discovered_by": "agent",
+      "attribution_scope": "specific symptom as documented, not absolute first discovery outside available history",
+      "rationale": "Assistant reports specific discovery during its own review/build; no matching specific user complaint establishes the discovery in this case.",
+      "source_thread": "01a15c1a-ea88-733c-89df-6ec6e2f4e050",
+      "evidence": [
+        {
+          "id": "msg_02978293c4b2e228016ad8dcbb562c8191b34486e15055a1e5",
+          "role": "assistant"
+        },
+        {
+          "id": "msg_02978293c4b2e228016ad8deccd7488191b0fc6c393ed51401",
+          "role": "assistant"
+        },
+        {
+          "id": "msg_02978293c4b2e228016ad91a665e1481918d39682a001842f4",
+          "role": "assistant"
+        },
+        {
+          "id": "msg_02978293c4b2e228016ad91f0d144c819199984ba2d7b4d2c9",
+          "role": "assistant"
+        }
+      ]
+    },
+    {
+      "id": "EZZAY-OLD-03",
+      "project": "إزاي first ten / agent kit",
+      "discovered_by": "agent",
+      "attribution_scope": "specific symptom as documented, not absolute first discovery outside available history",
+      "rationale": "Assistant reports specific discovery during its own review/build; no matching specific user complaint establishes the discovery in this case.",
+      "source_thread": "01a15c1a-ea88-733c-89df-6ec6e2f4e050",
+      "evidence": [
+        {
+          "id": "msg_0365e9dc27ee78ec016ad84d48d7ec81918479c60405320779",
+          "role": "assistant"
+        },
+        {
+          "id": "msg_02978293c4b2e228016ad91761dc148191b56ba4f974290604",
+          "role": "assistant"
+        }
+      ]
+    },
+    {
+      "id": "EZZAY-OLD-04",
+      "project": "إزاي first ten / agent kit",
+      "discovered_by": "user",
+      "attribution_scope": "specific symptom as documented, not absolute first discovery outside available history",
+      "rationale": "Explicit user criticism or preference identifies this symptom before repair discussion.",
+      "source_thread": "01a15c1a-ea88-733c-89df-6ec6e2f4e050",
+      "evidence": [
+        {
+          "id": "01a16056-9e59-72a5-84bb-e7ee5c3157e6",
+          "role": "user"
+        },
+        {
+          "id": "01a160bf-25e1-7264-8bb6-794dd8c9b999",
+          "role": "user"
+        },
+        {
+          "id": "msg_02978293c4b2e228016ad92e7c59a8819199e68eaa9fa9ceab",
+          "role": "assistant"
+        },
+        {
+          "id": "msg_02978293c4b2e228016ad94ecfa5588191aa13c6f0ee796ea4",
+          "role": "assistant"
+        }
+      ]
+    },
+    {
+      "id": "EZZAY-OLD-05",
+      "project": "إزاي first ten / agent kit",
+      "discovered_by": "unknown",
+      "attribution_scope": "specific symptom as documented, not absolute first discovery outside available history",
+      "rationale": "Grouped record combines user-reported unavailable link and agent-discovered packaging debris; see components.",
+      "source_thread": "01a15c1a-ea88-733c-89df-6ec6e2f4e050",
+      "evidence": [
+        {
+          "id": "01a1602e-b587-720f-ad38-0af3e486db21",
+          "role": "user"
+        },
+        {
+          "id": "msg_02978293c4b2e228016ad8f2325d4c8191ae12ea751e4df057",
+          "role": "assistant"
+        }
+      ],
+      "components": [
+        {
+          "symptom": "unavailable link",
+          "discovered_by": "user"
+        },
+        {
+          "symptom": "temporary render leftovers in archive",
+          "discovered_by": "agent"
+        }
+      ]
+    },
+    {
+      "id": "GETMOTION-COPY-01",
+      "project": "GetMotion brand / copy",
+      "discovered_by": "user",
+      "attribution_scope": "specific symptom as documented, not absolute first discovery outside available history",
+      "rationale": "Explicit user criticism or preference identifies this symptom before repair discussion.",
+      "source_thread": "01a15766-00a2-707d-83d8-0035d84fa053",
+      "evidence": [
+        {
+          "id": "01a157cd-22af-7711-9a5d-8350befd5f21",
+          "role": "user"
+        },
+        {
+          "id": "01a15815-68df-737a-b787-8e36b09cf8fb",
+          "role": "user"
+        }
+      ]
+    }
+  ],
+  "new_cases": [
+    {
+      "id": "EZZAY-OLD-06",
+      "title": "Corrupt last-episode export detected by agent",
+      "symptom": "A variant of the last episode was exported corrupt.",
+      "cause": "Not documented; no codec/container cause inferred.",
+      "attempts": "Agent reported re-export, then repair and complete20-file verification. No independent current artifact verification.",
+      "ids": [
+        "msg_0365e9dc27ee78ec016ad85f4ef2e08191abc4acdd57786163",
+        "msg_0365e9dc27ee78ec016ad860191ec4819190973623f4f3e576"
+      ],
+      "project": "إزاي first ten",
+      "discovered_by": "agent",
+      "status": "historical_agent_report_not_independently_verified",
+      "sources": [
+        {
+          "thread_id": "01a15c1a-ea88-733c-89df-6ec6e2f4e050",
+          "item_id": "msg_0365e9dc27ee78ec016ad85f4ef2e08191abc4acdd57786163",
+          "role": "assistant",
+          "excerpt": "العشر حلقات خلصوا بصوت Ahmed، وضبط الكلمات زي «بيكرمش» اتحفظ في المشروع. الفحص كشف إن نسخة من الحلقة الأخيرة اتصدّرت بملف تالف؛ بأعيد تصديرها قبل ما أبعتلك الحزمة النهائية."
+        },
+        {
+          "thread_id": "01a15c1a-ea88-733c-89df-6ec6e2f4e050",
+          "item_id": "msg_0365e9dc27ee78ec016ad860191ec4819190973623f4f3e576",
+          "role": "assistant",
+          "excerpt": "النسخة التالفة اتصلحت. دلوقتي بفحص ملفات الفيديو العشرين كاملة — نسخة بالكلام المكتوب ونسخة من غيره لكل حلقة — قبل تجميع ملف التحميل."
+        }
+      ]
+    },
+    {
+      "id": "EZZAY-OLD-07",
+      "title": "ABS wheel briefly reverses direction",
+      "symptom": "Agent review found the ABS wheel temporarily reversing direction.",
+      "cause": "Not documented; cannot assume angle wrap or easing without source diff.",
+      "attempts": "Adjustment promised before render; later explicitly reported corrected. Verify unwrapped angular direction/phase across successive encoded frames as future test, not test already rerun.",
+      "ids": [
+        "msg_02978293c4b2e228016ad9199342c88191a218d75945693410",
+        "msg_02978293c4b2e228016ad91ebf11a48191b3daf46cd7a3a625"
+      ],
+      "project": "إزاي first ten",
+      "discovered_by": "agent",
+      "status": "historical_agent_report_not_independently_verified",
+      "sources": [
+        {
+          "thread_id": "01a15c1a-ea88-733c-89df-6ec6e2f4e050",
+          "item_id": "msg_02978293c4b2e228016ad9199342c88191a218d75945693410",
+          "role": "assistant",
+          "excerpt": "أول خمس حلقات دخلوا التصدير النهائي بعد مراجعة الرسومات. وفي الباقي ظهرت نقطتان واتمسكت قبل التصدير: فرق احمرار العين في المقارنة كان محتاج يبقى أوضح، وحركة عجلة الـABS كانت بتعكس اتجاهها لحظيًا. بظبطهم، ومعاهم مستمر فحص الكلام على التسجيلات نفسها.\n\n"
+        },
+        {
+          "thread_id": "01a15c1a-ea88-733c-89df-6ec6e2f4e050",
+          "item_id": "msg_02978293c4b2e228016ad91ebf11a48191b3daf46cd7a3a625",
+          "role": "assistant",
+          "excerpt": "العشر حلقات اتصدّروا بالنسختين، ومعاهم الهوية الجديدة. التدقيق كشف كام تفصيلة في الرسوم واتصلحت، منها حركة عجلة الـABS والفرق بين العين قبل الفلاش وبعده. دلوقتي براجع ملفات الفيديو النهائية وتزامن الصوت، وبفحص الكلمات اللي اختلف عليها التفريغ الآلي بمقاطع قصيرة قبل ما أقفل الحزمة.\n"
+        }
+      ]
+    },
+    {
+      "id": "EZZAY-OLD-08",
+      "title": "Before/after red-eye contrast too weak",
+      "symptom": "Review found the before/after eye-redness comparison insufficiently distinct.",
+      "cause": "Not documented beyond weak visible difference.",
+      "attempts": "Adjustment before export and later correction claimed; no quantitative contrast test or new viewing.",
+      "ids": [
+        "msg_02978293c4b2e228016ad9199342c88191a218d75945693410",
+        "msg_02978293c4b2e228016ad91ebf11a48191b3daf46cd7a3a625"
+      ],
+      "project": "إزاي first ten",
+      "discovered_by": "agent",
+      "status": "historical_agent_report_not_independently_verified",
+      "sources": [
+        {
+          "thread_id": "01a15c1a-ea88-733c-89df-6ec6e2f4e050",
+          "item_id": "msg_02978293c4b2e228016ad9199342c88191a218d75945693410",
+          "role": "assistant",
+          "excerpt": "أول خمس حلقات دخلوا التصدير النهائي بعد مراجعة الرسومات. وفي الباقي ظهرت نقطتان واتمسكت قبل التصدير: فرق احمرار العين في المقارنة كان محتاج يبقى أوضح، وحركة عجلة الـABS كانت بتعكس اتجاهها لحظيًا. بظبطهم، ومعاهم مستمر فحص الكلام على التسجيلات نفسها.\n\n"
+        },
+        {
+          "thread_id": "01a15c1a-ea88-733c-89df-6ec6e2f4e050",
+          "item_id": "msg_02978293c4b2e228016ad91ebf11a48191b3daf46cd7a3a625",
+          "role": "assistant",
+          "excerpt": "العشر حلقات اتصدّروا بالنسختين، ومعاهم الهوية الجديدة. التدقيق كشف كام تفصيلة في الرسوم واتصلحت، منها حركة عجلة الـABS والفرق بين العين قبل الفلاش وبعده. دلوقتي براجع ملفات الفيديو النهائية وتزامن الصوت، وبفحص الكلمات اللي اختلف عليها التفريغ الآلي بمقاطع قصيرة قبل ما أقفل الحزمة.\n"
+        }
+      ]
+    }
+  ],
+  "supplementary_occurrences": [
+    {
+      "existing_case": "EZZAY-OLD-03",
+      "discovered_by": "agent",
+      "note": "Additional occurrence, not new mechanism: breaker label line confused diagram parts; moved label above coil.",
+      "sources": [
+        {
+          "thread_id": "01a15c1a-ea88-733c-89df-6ec6e2f4e050",
+          "item_id": "msg_02978293c4b2e228016ad9185b45c88191bcf9652a4ed81b0b",
+          "excerpt": "توليد صوت الحلقات العشر خلص بالإعدادات اللي وافقت عليها. المراجعة شغالة على الكلام، وتزامن الكتابة، والرسومات والانتقالات. ظهر خط تسمية في رسم القاطع محتاج يتنقل عشان مايلخبطش توضيح الأجزاء؛ هصلّحه قبل التصدير.\n\n"
+        },
+        {
+          "thread_id": "01a15c1a-ea88-733c-89df-6ec6e2f4e050",
+          "item_id": "msg_02978293c4b2e228016ad9190601e88191a7e9b5041c2c4fd3",
+          "excerpt": "إصلاح رسم القاطع خلص، والتسمية بقت واضحة فوق الملف. الهوية الجديدة كمان اتراجعت: كحلي مع أزرق ولمسة ليموني، وخط عربي واضح. والـCTA موجود في آخر كل حلقة، ومتوقّت مع نهاية الكلام.\n\n"
+        }
+      ]
+    }
+  ],
+  "limits": "Some original content omitted/truncated by reader; credential-bearing messages excluded. No independent artifacts retested."
+}

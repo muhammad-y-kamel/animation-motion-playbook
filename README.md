@@ -26,3 +26,6 @@ Additive updates; preserve prior attempts and history. No automatic claiming of 
 
 ## Cross-project historical audit — 2026-10-23
 The original 13 entries above remain intact. [Historical audit and case index](HISTORICAL-AUDIT.md) adds 125 attributed historical case records across animation/motion projects, with exact user feedback, repair attempts, coverage gaps and proposed regression checks. These are **not 125 independently validated fixes** and do not mean all account conversations were accessible. Read the [cross-project stage checks](audits/2026-10-23-history/REUSE-CHECKLIST.md) alongside the existing preflight at every relevant stage.
+
+## Discovery origin and autonomous findings
+[Autonomous-discovery audit](DISCOVERY-ORIGIN-AUDIT.md) explicitly attributes all125 historical records (`discovered_by`), preserves agent/reviewer findings without owner complaints, and adds14 previously omitted historical cases plus failed-attempt supplements. Historical claims remain distinct from independent verification.
