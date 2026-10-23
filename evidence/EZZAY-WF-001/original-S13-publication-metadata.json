@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "S13",
+  "title": "إزاي القلم الجاف بيتحكم في الحبر؟ | إزاي",
+  "title_character_count": 40,
+  "description": "كرة صغيرة في سن القلم بتلف مع حركة إيدك، وتنقل طبقة رفيعة من الحبر للورق. دقة تركيب الكرة ولزوجة الحبر بيساعدوا يحدّوا من خروجه والقلم ثابت. اكتب لنا في التعليقات سؤال عن حاجة عاوز تفهم بتحصل إزاي.",
+  "language": "Egyptian Arabic",
+  "format": "short",
+  "aspect_ratio": "9:16",
+  "basis": "reviewed_script",
+  "reviewed_script_file": "scripts/S13/script_reviewed.txt",
+  "reviewed_script_sha256": "9aa4d15cde3446e0f8329501a5b4097ad9937b95de1dabb445605a439ce850ef",
+  "editorial_note": "Avoids the original absolute implication that a ballpoint never leaks.",
+  "original_metadata_preserved": "metadata.json",
+  "audio_or_script_modified": false
+}
