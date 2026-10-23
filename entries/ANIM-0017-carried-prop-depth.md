@@ -1,0 +1,31 @@
+# ANIM-0017 — Carried-object identity hidden by body and grip depth order
+
+Project MOKI & PEB / EP028. Status repair_attempted; revised full-resolution source preview verified, second encode in progress. Do not infer final encoded pass.
+
+# EP028 live findings
+## ANIM-0014 — Seat/support coordinate mismatch (observed source preview v1)
+Symptom: Moki rises rather than lowers to sit; first left hand clips edge. Cause: EP027 standing floor/body constants copied into EP028 chair coordinates, plus x205 entry position. Evidence: qa/rejected/story.js, art.js and layout-v1.jpg (source preview, not encoded).
+Trial 1: derive floor1522, standing Moki y1410, body-bottom at y+12*.94, sitting center1430 so bottom1441.28 matches cushion top1442 within0.72px; first aborted sit1420 leaves10.72px clearance. Chair foot plane1522, foot sole plane1522; keep fixed torso geometry and proportions. Shift entry minimum x245. Pending visual/numerical regression.
+## ANIM-0015 — Authored hand/prop boundary discontinuities (observed code audit)
+Symptom: hard conditional action ownership starts/ends at full reach; spare cushion position jumps at27/44.5. Cause: isolated action intervals lack approach/release interpolation. Evidence: rejected/story.js. Repair pending; require all 3480 story transitions sampled for limb/prop displacement and neighboring views.
+## SCRIPT-028 — Canonical synopsis versus timed scenes
+Preserved exact source. Summary attaches horn to belt and ends with a second seat honk; detailed scenes3–5 attach horn under extra cushion and end with Moki kindly squeezing it, then duet. Detailed timings and reiterated final-gag section prevail. Bridging action at24.5–27 explicitly removes trap-bearing extra pad from right chair and replaces with spare from visible side stand; this explains silent press and held pad without materializing a prop.
+
+ANIM-0015 trial results: smooth ownership envelopes removed hard action starts. Full3480frame state pass caught remaining spare C181px reset at44.5/45.5 and cup hand release72px/frame at3.95. Extended spare support interval to45.5; widened cup hand release from0.1s to0.8s. Re-test max pad7.14px/frame, max hand25.12px/frame, no threshold jumps. A naive relative foot oscillator still jumped40.32px at interval ends; replaced with exact absolute-time planted stance/swing anchored to sampled torso path. Re-test max foot11.15px/frame (intended surprise jump), no40px discontinuities. One source syntax typo from inserted extra bracket was caught before render; corrected bracket and executed source successfully. Preserved original rejected source and initial montage; no encoded rejected candidate existed at these stages.
+
+## ANIM-0016 — Ownership and facial occlusion in shared-prop action
+Independent source reviewer observed horn/left hand covering Peb eyes53–58s; spare C moving25–27 with no hand; B bouncing in place instead of swapping. Evidence: qa/independent original source snapshot and54.5.png; qa/rejected/story-before-independent.js/art-before-independent.js. Cause: action positioning chosen without eye-mask overlay, implicit rather than explicit second-hand ownership, and inconsistent cushion history after generous transfer. Trial: shared horn lowered1370→1430 with anchors; Peb left carries C; first generosity exchanges A/B, leaving coherent endpoints for actual reverse exchange at16. Moki moves to center for first exchange, longer hand approach keeps max hand28.19px/frame. Numerical source test3480states passes thresholds. Independent re-review pending.
+Additional source-review symptom: initial horn foreground disappearing at0.8 without occlusion. Cause draw order bypassed hidden-under-pad state. Trial: horn ends at pad center1458 and padA redraw masks horn naturally while sliding in, preserving hand foreground. Independent boundary review pending.
+
+ANIM-0014 recurrence: independent reviewer measured small Peb soles~11.85px above floor because Moki foot center reused for small rig. Derive each standing center FLOOR−23*scale including outline, seated Peb center1503.5−23*scale from rung top. Jump offset preserved. Independent regression pending.
+
+## ANIM-0017 — Grip foreground hides carried-object identity
+First encoded fullres0.4s showed steaming fists: hand circles completely hid the carried cups.9.6s showed central Moki torso hiding both carried cushions. Source thumb montage was insufficient to detect identity loss. Cause: static depth order treated a carried prop like a background seat pad, and cup hand anchors covered cup bodies. Evidence exact rejected encode69cafade0be3d43db1e3b7be0f927a7d982925507dee7aad44132e173413ed87 and source/encoded-critical sheets retained qa/rejected/encode-v1. Repair trial: draw actively carried pads above actor torsos but below grip hands; retain intentional behind-back padA; draw carried cup body above gripping hand. Source and encoded re-review pending. Prevention: verify carried-object silhouette in actual fullres action midpoint, not just correct coordinates.
+## ANIM-0018 — Jump pose moves torso but fails airborne foot clearance
+Independent encoded47.2s review: torso rises90px but feet remain~3.5px below upper cushion top, reading standing rather than airborne. Cause: seated rung anchoring plus90px body lift insufficient to clear higher stacked pad; no explicit jump-foot clearance envelope. Same rejected encode evidence. Repair trial: add30px sinusoidal foot tuck during47–47.65 with zero endpoint offsets; preserve body90px surprise and exact sound47. Regression: inspect47/47.2/47.65, numerical continuity and apex sole height. Pending final encode.
+
+QA harness correction (not an animation defect): initial geometry test wrongly demanded floor contact for walking swing feet and seated-rung feet at4.9/53, and treated weight>.999 semantic near-full grips as mathematically weight1. Retained qa/rejected/geometry-harness-v1.json. Corrected standing samples to12/26/31, kept dedicated seated/jump tests and declared0.35px near-full-grip tolerance (measured0.324px). No production geometry altered to satisfy a false expectation.
+
+
+## Validation scope
+See EP028 qa/independent/v3 source preview and retained first candidate hash69cafade0be3d43db1e3b7be0f927a7d982925507dee7aad44132e173413ed87. Final re-encode and full affected review mandatory per ANIM-0013. No listening/continuousAV claim.

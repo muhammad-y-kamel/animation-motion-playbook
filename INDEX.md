@@ -21,3 +21,6 @@ IDs never change or get reused. New occurrence of same mechanism links the origi
 | [ANIM-0014](entries/ANIM-0014-seat-support-contract.md) | geometry | EP028 | Seat and sole support constants crossed between rigs | repair_attempted |
 | [ANIM-0015](entries/ANIM-0015-action-boundaries.md) | animation | EP028 | Discontinuous hand, spare-pad and foot states at action boundaries | repair_attempted |
 | [ANIM-0016](entries/ANIM-0016-ownership-occlusion.md) | storytelling | EP028 | Unowned pad motion and shared horn obscuring facial acting | repair_attempted |
+
+| [ANIM-0017](entries/ANIM-0017-carried-prop-depth.md) | rendering | EP028 | Carried-object identity hidden by body and grip depth order | repair_attempted |
+| [ANIM-0018](entries/ANIM-0018-airborne-clearance.md) | animation | EP028 | Surprise jump torso moves but feet fail airborne clearance | repair_attempted |

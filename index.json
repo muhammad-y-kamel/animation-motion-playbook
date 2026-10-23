@@ -144,6 +144,24 @@
       "episode": "EP028",
       "status": "repair_attempted",
       "file": "entries/ANIM-0016-ownership-occlusion.md"
+    },
+    {
+      "id": "ANIM-0017",
+      "title": "Carried-object identity hidden by body and grip depth order",
+      "category": "rendering",
+      "project": "MOKI & PEB",
+      "episode": "EP028",
+      "status": "repair_attempted",
+      "file": "entries/ANIM-0017-carried-prop-depth.md"
+    },
+    {
+      "id": "ANIM-0018",
+      "title": "Surprise jump torso moves but feet fail airborne clearance",
+      "category": "animation",
+      "project": "MOKI & PEB",
+      "episode": "EP028",
+      "status": "repair_attempted",
+      "file": "entries/ANIM-0018-airborne-clearance.md"
     }
   ]
 }
