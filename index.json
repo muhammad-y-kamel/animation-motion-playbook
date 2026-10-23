@@ -3,7 +3,7 @@
   "entries": [
     {
       "id": "ANIM-0001",
-      "title": "Floating stack gaps and base penetration \u2014 blocking contact defect",
+      "title": "Floating stack gaps and base penetration — blocking contact defect",
       "category": "geometry",
       "project": "MOKI & PEB",
       "episode": "EP027",
@@ -12,7 +12,7 @@
     },
     {
       "id": "ANIM-0002",
-      "title": "Camera transform clipped hand and exposed black bottom \u2014 blocking composition defect",
+      "title": "Camera transform clipped hand and exposed black bottom — blocking composition defect",
       "category": "composition",
       "project": "MOKI & PEB",
       "episode": "EP027",
@@ -21,7 +21,7 @@
     },
     {
       "id": "ANIM-0003",
-      "title": "Rotating hourglass penetrated tabletop \u2014 blocking support defect",
+      "title": "Rotating hourglass penetrated tabletop — blocking support defect",
       "category": "geometry",
       "project": "MOKI & PEB",
       "episode": "EP027",
@@ -30,7 +30,7 @@
     },
     {
       "id": "ANIM-0004",
-      "title": "Open palm during high cube carrying \u2014 blocking grip/readability defect",
+      "title": "Open palm during high cube carrying — blocking grip/readability defect",
       "category": "animation",
       "project": "MOKI & PEB",
       "episode": "EP027",
@@ -39,7 +39,7 @@
     },
     {
       "id": "ANIM-0005",
-      "title": "Hourglass outline vanished during particle/clump rendering \u2014 blocking render regression",
+      "title": "Hourglass outline vanished during particle/clump rendering — blocking render regression",
       "category": "rendering",
       "project": "MOKI & PEB",
       "episode": "EP027",
@@ -48,7 +48,7 @@
     },
     {
       "id": "ANIM-0006",
-      "title": "Sand hung from upper cap after flip \u2014 blocking visual physics defect",
+      "title": "Sand hung from upper cap after flip — blocking visual physics defect",
       "category": "animation",
       "project": "MOKI & PEB",
       "episode": "EP027",
@@ -57,7 +57,7 @@
     },
     {
       "id": "ANIM-0007",
-      "title": "Jam too subtle \u2014 important story-readability repair",
+      "title": "Jam too subtle — important story-readability repair",
       "category": "storytelling",
       "project": "MOKI & PEB",
       "episode": "EP027",
@@ -66,7 +66,7 @@
     },
     {
       "id": "ANIM-0008",
-      "title": "Cubes appeared without visible source \u2014 continuity improvement",
+      "title": "Cubes appeared without visible source — continuity improvement",
       "category": "continuity",
       "project": "MOKI & PEB",
       "episode": "EP027",
@@ -117,6 +117,33 @@
       "episode": "EP026",
       "status": "validated_with_partial_history",
       "file": "entries/ANIM-0013-margin-review-invalidation.md"
+    },
+    {
+      "id": "ANIM-0014",
+      "title": "Seat and sole support constants crossed between rigs",
+      "category": "geometry",
+      "project": "MOKI & PEB",
+      "episode": "EP028",
+      "status": "repair_attempted",
+      "file": "entries/ANIM-0014-seat-support-contract.md"
+    },
+    {
+      "id": "ANIM-0015",
+      "title": "Discontinuous hand, spare-pad and foot states at action boundaries",
+      "category": "animation",
+      "project": "MOKI & PEB",
+      "episode": "EP028",
+      "status": "repair_attempted",
+      "file": "entries/ANIM-0015-action-boundaries.md"
+    },
+    {
+      "id": "ANIM-0016",
+      "title": "Unowned pad motion and shared horn obscuring facial acting",
+      "category": "storytelling",
+      "project": "MOKI & PEB",
+      "episode": "EP028",
+      "status": "repair_attempted",
+      "file": "entries/ANIM-0016-ownership-occlusion.md"
     }
   ]
 }

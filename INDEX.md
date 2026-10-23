@@ -17,3 +17,7 @@ IDs never change or get reused. New occurrence of same mechanism links the origi
 | [ANIM-0011](entries/ANIM-0011-layered-action-readability.md) | drawing | EP026 | Hidden handle and missing readable tug | validated_with_partial_history |
 | [ANIM-0012](entries/ANIM-0012-frame-state-leak.md) | rendering | EP026 | Random-access renders depended on Canvas state | validated_with_partial_history |
 | [ANIM-0013](entries/ANIM-0013-margin-review-invalidation.md) | workflow | EP026 | Late margin correction required encoded revalidation | validated_with_partial_history |
+
+| [ANIM-0014](entries/ANIM-0014-seat-support-contract.md) | geometry | EP028 | Seat and sole support constants crossed between rigs | repair_attempted |
+| [ANIM-0015](entries/ANIM-0015-action-boundaries.md) | animation | EP028 | Discontinuous hand, spare-pad and foot states at action boundaries | repair_attempted |
+| [ANIM-0016](entries/ANIM-0016-ownership-occlusion.md) | storytelling | EP028 | Unowned pad motion and shared horn obscuring facial acting | repair_attempted |
