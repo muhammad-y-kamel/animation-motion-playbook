@@ -1,0 +1,32 @@
+{
+  "S08": {
+    "times": [
+      10.9,
+      13.5,
+      16.8,
+      19.9
+    ],
+    "before_module_sha256": "b1860ae788606229ad8aef8eb73b5d21b4e72fc966fbf0bc46336d518600c04d",
+    "job_sha256": "57c555519cda7023236cb66f1f2d315804e8312665b74fe170293be3e74d2518"
+  },
+  "S10": {
+    "times": [
+      33.6,
+      36.2,
+      41,
+      44.1
+    ],
+    "before_module_sha256": "cc8b68424a2c786037e8fc185e332d2b510980eb85a3d48945dc34ce0f22577f",
+    "job_sha256": "d6516e894b6e073a6fb9d9b210833c23dd9a94125d53aed7baf97835df9953fa"
+  },
+  "S11": {
+    "times": [
+      18.6,
+      21,
+      23.9,
+      27.3
+    ],
+    "before_module_sha256": "7aa23e9a27191b9e19fc013092bc572cb692f78c8c36ed641e37296baaf490e4",
+    "job_sha256": "91bcf77edd3cca5a7e5e22ee4fd555fc9f8a778f042018930f3a93d34382011a"
+  }
+}

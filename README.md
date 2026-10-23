@@ -23,3 +23,6 @@ Keep these distinct: source geometry tests; source-preview inspection; encoded t
 
 ## Repository policy
 Additive updates; preserve prior attempts and history. No automatic claiming of completeness or animation mastery. A recurring pattern can become a reusable helper/skill only after reproducible tests and validated project adaptations. User-provided private destination: `muhammad-y-kamel/animation-motion-playbook`.
+
+## Cross-project historical audit — 2026-10-23
+The original 13 entries above remain intact. [Historical audit and case index](HISTORICAL-AUDIT.md) adds 125 attributed historical case records across animation/motion projects, with exact user feedback, repair attempts, coverage gaps and proposed regression checks. These are **not 125 independently validated fixes** and do not mean all account conversations were accessible. Read the [cross-project stage checks](audits/2026-10-23-history/REUSE-CHECKLIST.md) alongside the existing preflight at every relevant stage.

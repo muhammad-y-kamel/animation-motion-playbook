@@ -1,0 +1,32 @@
+[
+  {
+    "episode": "L02",
+    "before_wav_sha256": "ac794271eb9e98425aca2f2937b9567f9bba890e27f3f4a7567894463d20c60e",
+    "after_wav_sha256": "62474042ff0d4c450907bf0b79e1261814c6fb8bb930e992c7da61089fed7b38",
+    "wav_duration": 383.68,
+    "mp3_duration": 383.712653,
+    "original_mp3_sha256_unchanged": true,
+    "action": "WAV rederived from complete original MP3; no TTS request; no speech or speed changes",
+    "utc": "2026-10-23T03:33:44.069443+00:00"
+  },
+  {
+    "episode": "L03",
+    "before_wav_sha256": "e274f044b6eab7b27f72b28c28cadadfe7827b1250d12b240c2ed3857a212fdb",
+    "after_wav_sha256": "a06706ecebcc946bdd07a676dbc929fedabd7a724d7bc081f97bba45ed77ed3c",
+    "wav_duration": 422.24,
+    "mp3_duration": 422.269388,
+    "original_mp3_sha256_unchanged": true,
+    "action": "WAV rederived from complete original MP3; no TTS request; no speech or speed changes",
+    "utc": "2026-10-23T03:33:49.731201+00:00"
+  },
+  {
+    "episode": "S14",
+    "before_wav_sha256": "3bb1460116fcb7ba94116a469d78b06154cb548c7593784ced5e633a0cb1c0a0",
+    "after_wav_sha256": "60c03c5d14e4393735a059cf90aeb95a9e615191f267f145924f0e69c4c34944",
+    "wav_duration": 59.44,
+    "mp3_duration": 59.480816,
+    "original_mp3_sha256_unchanged": true,
+    "action": "WAV rederived from complete original MP3; no TTS request; no speech or speed changes",
+    "utc": "2026-10-23T03:33:50.698138+00:00"
+  }
+]

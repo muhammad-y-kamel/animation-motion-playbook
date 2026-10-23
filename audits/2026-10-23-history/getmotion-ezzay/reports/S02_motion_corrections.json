@@ -1,0 +1,135 @@
+{
+  "id": "S02",
+  "status": "source_correction_frozen_pending_final_export_review",
+  "created_at_utc": "2026-10-23T04:25:45.859968+00:00",
+  "reason": "The first export held the compartment drawing essentially unchanged for about 19 seconds; the motion prompt requires meaningful explanatory progression when narration permits it.",
+  "source_changes": [
+    {
+      "file": "diagrams/S02.cjs",
+      "before_sha256": "b8ef9d9d8b5d0439679acea589705ef743d7f028d2a93e5b308a58387195b387",
+      "after_sha256": "68e2117081db89d386ea2d343b6b5da35d261d88f758acdfa8614927e5a753f5",
+      "scope": "Replace the S02 shared-module wrapper with an isolated, narration-cued drawing module; shared rendering and other episode modules unchanged."
+    }
+  ],
+  "unchanged_evidence": {
+    "shared_module": "runtime/subjects_first_half.cjs",
+    "shared_module_sha256": "fe49cb4d1129420aba36653a8861cbb55a2f348d605414897116a1346c8aa977",
+    "job_file": "jobs/S02.json",
+    "job_sha256": "4c61a37bd21116fc3ca28695e553d670921f39f22388395e4d5ab9ef1e4b7a64",
+    "audio_file": "audio/S02/narration.mp3",
+    "audio_sha256": "f1f40b5cb7f65d738b54e5f737f8d953cb52dd420aee59f7a0a5b01a2062d651",
+    "storyboard_changed": false,
+    "script_changed": false
+  },
+  "motion_timing": {
+    "basis": "Exact continuous phrases matched against words in the retained final-audio captions. No expected or guessed replacement timing; missing cue throws.",
+    "cue_file": "quality/S02_motion_cues.json",
+    "cue_file_sha256": "9b72388c2476f9a51cac748adfd8b554652441301212e56d2c798ce8b25026ef",
+    "cue_count": 32
+  },
+  "changes": [
+    "Chemical-defense explanation reveals a schematic internal separated cell at the corresponding spoken phrase; insect approach and ground level follow their own real-word cues.",
+    "Cell partition traces at 20.04 s. The sulfur-containing compound compartment appears from 21.76 s; compound symbols are introduced at 22.56, 23.64 and 24.96 s. The second compartment appears at 25.92 s and enzyme symbols at 27.76 s.",
+    "The intact divider is emphasized at 29.20 s; separation marks follow at 30.76 s and the absence of mixing/reaction is stated at 32.16 s. Knife approach begins at 35.72 s.",
+    "Knife penetration and wall/divider rupture follow 38.16–39.60 s; materials then visibly cross the ruptured barrier during 39.76–41.76 s. The enzyme remains present in the reaction schematic.",
+    "The volatile product schematic forms with 42.80–43.44 s reaction, rises with 43.52–44.80 s release, receives the tear-factor label at 45.52 s and moves toward air at 47.60 s; the retained spoken compound name appears at 49.68 s.",
+    "The irritant reaches the eye surface at 52.32–53.60 s, a nerve-surface trace appears at 53.72–55.12 s, the tear gland responds at 57.72–58.64 s, tear flow at 58.76–59.60 s and wash-down at 59.84–61.36 s.",
+    "Opening cut/tear visuals use the actual hook-word cues. Frame-zero cover composition, narration, captions, fixed CTA and tail behavior remain controlled by the existing job/runtime."
+  ],
+  "visual_preview_review": {
+    "source_frames_viewed": 46,
+    "contact_sheets_viewed": 8,
+    "full_resolution_times_seconds": [
+      5.5,
+      9.5,
+      39.4,
+      60.4
+    ],
+    "times_seconds": [
+      2.8,
+      4.6,
+      5.5,
+      6.3,
+      7.5,
+      8.6,
+      9.5,
+      10.3,
+      12.6,
+      15.8,
+      17.9,
+      18.7,
+      20.8,
+      22.8,
+      24.3,
+      25.4,
+      26.8,
+      28.5,
+      29.8,
+      31.5,
+      33.5,
+      35.8,
+      36.7,
+      37.7,
+      38.5,
+      39.4,
+      40.1,
+      41.4,
+      42.1,
+      43.2,
+      44.4,
+      45.9,
+      47.9,
+      49.9,
+      51.2,
+      52.5,
+      53.5,
+      54.5,
+      55.5,
+      56.5,
+      58.3,
+      59.3,
+      60.4,
+      61.4,
+      63.1,
+      67.9
+    ],
+    "scope": "All 46 source-rendered corrected preview samples viewed through eight sheets; four additional full-size views checked knife/title/caption separation, barrier rupture, eye/tear/gland labels and hook geometry. These are source previews, not a final encoded-video acceptance.",
+    "issues_remaining_in_viewed_samples": [],
+    "evidence": [
+      {
+        "file": "working/final_render/corrections/S02/S02_motion_page_01.jpg",
+        "sha256": "e440cfba08204ddf9d12518ab495ad9f2d5b2e5240eba050310d59a3268dcf7c"
+      },
+      {
+        "file": "working/final_render/corrections/S02/S02_motion_page_02.jpg",
+        "sha256": "06bd2bb667f60e4b03d0004fa1795123cb29a8c4d78b89cefa1661df804de9da"
+      },
+      {
+        "file": "working/final_render/corrections/S02/S02_motion_page_03.jpg",
+        "sha256": "91a562a107bc2e1f87b6442b7c65c12e35555df43f9a7917a0aeb78ec5cce3cc"
+      },
+      {
+        "file": "working/final_render/corrections/S02/S02_motion_page_04.jpg",
+        "sha256": "5620475e2672619d3ea685def5797859e9255b23015ee64d0eafb2832a2b5a09"
+      },
+      {
+        "file": "working/final_render/corrections/S02/S02_motion_page_05.jpg",
+        "sha256": "469a66b2f450262ca5ae3dda407798ca3b6d16fd4fce6de50d76beceb15f8f91"
+      },
+      {
+        "file": "working/final_render/corrections/S02/S02_motion_page_06.jpg",
+        "sha256": "131233a1d8bab27351067daa8439ccc88220e5911252e983d34d97cfd12d39ee"
+      },
+      {
+        "file": "working/final_render/corrections/S02/S02_motion_page_07.jpg",
+        "sha256": "2f775035860da6fef6d832f956de8cbcafe2330f22f71ac08a6a2e5630378025"
+      },
+      {
+        "file": "working/final_render/corrections/S02/S02_motion_page_08.jpg",
+        "sha256": "36d8be2fafd202461533f16bcad6fb5e8ba08bb723769568e2fe8ec4424ac9e1"
+      }
+    ]
+  },
+  "final_export_accepted": false,
+  "next_step": "Rerender final and clean outputs, regenerate technical checks, then inspect actual encoded samples before acceptance."
+}

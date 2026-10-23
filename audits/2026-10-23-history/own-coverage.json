@@ -1,0 +1,89 @@
+[
+  {
+    "thread_id": "01a15ce0-5a29-73b3-83a3-c30111c3a041",
+    "pages": 22,
+    "exhausted": true,
+    "visible_messages": 85,
+    "truncated_messages": [
+      "msg_0ba978014de52f25016ad8da4a81a88191a46d7cbfd39979a0",
+      "msg_0ba978014de52f25016ad8d92671f8819192946bb900b472ff"
+    ],
+    "empty_messages": 1,
+    "secret_containing_messages_not_archived": 2,
+    "date": "not returned",
+    "source_url": null,
+    "source_tool": "cloud_threads.read"
+  },
+  {
+    "thread_id": "01a157ad-2ca3-70e7-adef-e57d4dd82063",
+    "pages": 3,
+    "exhausted": true,
+    "visible_messages": 8,
+    "truncated_messages": [],
+    "empty_messages": 0,
+    "secret_containing_messages_not_archived": 0,
+    "date": "not returned",
+    "source_url": null,
+    "source_tool": "cloud_threads.read"
+  },
+  {
+    "thread_id": "01a15799-4f45-768e-9e69-93724dd18073",
+    "pages": 4,
+    "exhausted": true,
+    "visible_messages": 12,
+    "truncated_messages": [],
+    "empty_messages": 0,
+    "secret_containing_messages_not_archived": 0,
+    "date": "not returned",
+    "source_url": null,
+    "source_tool": "cloud_threads.read"
+  },
+  {
+    "thread_id": "01a15799-0ccd-7696-9a5f-c02746acd047",
+    "pages": 4,
+    "exhausted": true,
+    "visible_messages": 8,
+    "truncated_messages": [],
+    "empty_messages": 0,
+    "secret_containing_messages_not_archived": 0,
+    "date": "not returned",
+    "source_url": null,
+    "source_tool": "cloud_threads.read"
+  },
+  {
+    "thread_id": "01a15798-9034-77ab-8349-fcfea4b40067",
+    "pages": 3,
+    "exhausted": true,
+    "visible_messages": 11,
+    "truncated_messages": [],
+    "empty_messages": 0,
+    "secret_containing_messages_not_archived": 0,
+    "date": "not returned",
+    "source_url": null,
+    "source_tool": "cloud_threads.read"
+  },
+  {
+    "thread_id": "01a15c1a-ea88-733c-89df-6ec6e2f4e050",
+    "pages": 59,
+    "exhausted": true,
+    "visible_messages": 184,
+    "truncated_messages": [],
+    "empty_messages": 0,
+    "secret_containing_messages_not_archived": 2,
+    "date": "not returned",
+    "source_url": null,
+    "source_tool": "cloud_threads.read"
+  },
+  {
+    "thread_id": "01a15766-00a2-707d-83d8-0035d84fa053",
+    "pages": 10,
+    "exhausted": true,
+    "visible_messages": 44,
+    "truncated_messages": [],
+    "empty_messages": 0,
+    "secret_containing_messages_not_archived": 0,
+    "date": "not returned",
+    "source_url": null,
+    "source_tool": "cloud_threads.read"
+  }
+]

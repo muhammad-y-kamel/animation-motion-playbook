@@ -1,0 +1,147 @@
+{
+  "episode": "S11",
+  "status": "source_correction_frozen_pending_final_export_review",
+  "ready_for_rerender": true,
+  "final_export_accepted": false,
+  "source_frozen_at_utc": "2026-10-23T04:34:39.329079+00:00",
+  "authorization": "Root authorized isolated episode module correction for confirmed cadence defects; S11 sensitive arrow correction additionally authorized after actual-MP4 confirmation.",
+  "source_file": "diagrams/S11.cjs",
+  "previous_source_sha256": "7aa23e9a27191b9e19fc013092bc572cb692f78c8c36ed641e37296baaf490e4",
+  "source_sha256": "4f888facfdd0a0cab8bb8913f53518802aa8c84fd8480ed91ae1cac9e1aa6070",
+  "after_module_sha256": "4f888facfdd0a0cab8bb8913f53518802aa8c84fd8480ed91ae1cac9e1aa6070",
+  "job_sha256_unchanged": "91bcf77edd3cca5a7e5e22ee4fd555fc9f8a778f042018930f3a93d34382011a",
+  "script_audio_storyboard_timing_unchanged": true,
+  "shared_runtime_unchanged": true,
+  "previous_video_hashes": [
+    {
+      "file": "exports/S11/S11_final.mp4",
+      "sha256": "8d6d57cf212246ad2eca414539607e86a902168d982633168e0cc86f0b512081",
+      "archived_file": "working/superseded_first_export_S11/exports/S11_final.mp4"
+    },
+    {
+      "file": "exports/S11/S11_clean.mp4",
+      "sha256": "699e850b19d333ca5ff3473d6de8c5c6b2347fc4544f43692b830b0dc5a8bad7",
+      "archived_file": "working/superseded_first_export_S11/exports/S11_clean.mp4"
+    }
+  ],
+  "rejected_visual_qa_file": "working/superseded_first_export_S11/exports/S11_visual_qa.json",
+  "issues": [
+    {
+      "id": "long_body_stage_static",
+      "stage": "cells",
+      "start_seconds": 16.96,
+      "end_seconds": 28.16,
+      "duration_seconds": 11.2,
+      "detail": "The previous stage ignored both actual progress and elapsed time and remained static for its entire body duration.",
+      "evidence": "quality/S04_S06_S12_body_cadence_audit.json"
+    },
+    {
+      "id": "sensitive_arrow_points_at_cone",
+      "stage": "sensitive",
+      "time_seconds": 53.466667,
+      "detail": "The original blue arrow at x450 addressed the central cone while narration referred to rods. It now uses x365, the second rod, without moving the labels.",
+      "before_actual_mp4_frame": "working/S11_sensitive_actual.png",
+      "after_source_preview": "diagrams/qa/S11_cadence_correction/after_53.467s.png",
+      "confirmed_by_root_and_independently_viewed": true
+    }
+  ],
+  "corrections": [
+    "Trace the retinal section, then reveal both receptor shapes.",
+    "Emphasize cones when named and associate them with color vision in light.",
+    "Emphasize rods when named, then introduce a sparse light arrow during the dim-light phrase."
+  ],
+  "exact_final_audio_cues": [
+    {
+      "exact_spoken_word": "نوعين",
+      "absolute_seconds": 18.933,
+      "relative_seconds": 1.973
+    },
+    {
+      "exact_spoken_word": "الخلايا",
+      "absolute_seconds": 20.08,
+      "relative_seconds": 3.12
+    },
+    {
+      "exact_spoken_word": "المخاريط",
+      "absolute_seconds": 22.08,
+      "relative_seconds": 5.12
+    },
+    {
+      "exact_spoken_word": "الألوان",
+      "absolute_seconds": 23.44,
+      "relative_seconds": 6.48
+    },
+    {
+      "exact_spoken_word": "والعصي",
+      "absolute_seconds": 24.64,
+      "relative_seconds": 7.68
+    },
+    {
+      "exact_spoken_word": "الإضاءة",
+      "absolute_seconds": 26.613,
+      "relative_seconds": 9.653
+    }
+  ],
+  "cue_lookup": "At render time, each semantic cue is resolved from exact words in the current h.job captions, restricted to this scene; all intended cues were verified present exactly once.",
+  "before_source_frames": [
+    "diagrams/qa/S11_cadence_correction/before_18.600s.png",
+    "diagrams/qa/S11_cadence_correction/before_21.000s.png",
+    "diagrams/qa/S11_cadence_correction/before_23.900s.png",
+    "diagrams/qa/S11_cadence_correction/before_27.300s.png"
+  ],
+  "corrected_source_frames_reviewed": [
+    "diagrams/qa/S11_cadence_correction/after_18.600s.png",
+    "diagrams/qa/S11_cadence_correction/after_21.000s.png",
+    "diagrams/qa/S11_cadence_correction/after_23.900s.png",
+    "diagrams/qa/S11_cadence_correction/after_27.300s.png",
+    "diagrams/qa/S11_cadence_correction/after_53.467s.png"
+  ],
+  "corrected_source_contact_sheets": [
+    "diagrams/qa/S11_cadence_correction/before_after_contact.jpg"
+  ],
+  "correction_visual_result": [
+    "Four before frames show all receptors fully drawn and static. Four after frames progress from retinal section to receptor types, cones/color and rods/dim light.",
+    "Arrows in the revised cells stage point to the intended receptor geometry and avoid label text.",
+    "The separately corrected sensitive stage now points at a rod at x365, rather than the central cone at x450; actual old MP4 and corrected source preview were inspected."
+  ],
+  "isolation_checks": {
+    "cover_pixels_identical": true,
+    "unchanged_stage_pixels_identical": [
+      "pigment",
+      "regenerate",
+      "time",
+      "dark"
+    ],
+    "caption_free_diagram_sample_times_relative": [
+      2.8,
+      6.16,
+      9.52
+    ],
+    "original_diagram_hashes": [
+      "b61c4e86b94692e4fabb1b1f74946750a0dd6cd0a5688e078aa387504002d3e2",
+      "b61c4e86b94692e4fabb1b1f74946750a0dd6cd0a5688e078aa387504002d3e2",
+      "b61c4e86b94692e4fabb1b1f74946750a0dd6cd0a5688e078aa387504002d3e2"
+    ],
+    "corrected_diagram_hashes": [
+      "c0d9f96bd70c752a7b7e4fab5190f64e6efc011439b23c7e37be2439b0a30b93",
+      "37a93bde0edc900bb6f9e12709fbd8f9326a54aa19bd58104ad3d6346801b450",
+      "2fcefe3b47519abfac0d7b45b859e741bb8a7ff8abeedcc60d42801212b1353b"
+    ],
+    "original_unique_count": 1,
+    "corrected_unique_count": 3
+  },
+  "isolation_check_record": "quality/S08_S10_S11_cadence_isolation_checks.json",
+  "limitations": [
+    "The after evidence consists of source compositor previews, not a new encoded final MP4.",
+    "The new final and clean videos require technical checks and sampled visual review after root rerenders them.",
+    "No listening review was performed during this correction."
+  ],
+  "sensitive_arrow_change": {
+    "before": "A(450,216,450,300,c.blue)",
+    "after": "A(365,216,365,300,c.blue)",
+    "rod_index": 2,
+    "rod_x": 365,
+    "cone_index": 3,
+    "cone_x": 450
+  }
+}

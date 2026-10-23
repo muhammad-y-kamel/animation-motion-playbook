@@ -1,0 +1,70 @@
+[
+  {
+    "file": "reports/L01_visual_corrections.json",
+    "sha256": "58388ab9fdede60d86456aee4289a66827bd581a1b767f38ef3680b4522465f6"
+  },
+  {
+    "file": "reports/L02_visual_correction_record.json",
+    "sha256": "8a579c8a9d194060cb355c4181132a8ce816f900f04f4dec892b53b0a7a6581e"
+  },
+  {
+    "file": "reports/L03_visual_correction_record.json",
+    "sha256": "69d1ec1f42c8e1958bc55f5a9ae9fca0f7064f94c24b2c1605facfbb82e6edc8"
+  },
+  {
+    "file": "reports/L04_visual_corrections.json",
+    "sha256": "5524ee3bbacd42c3a3074a6d3a355e827c4bf232ac3f81f29589b73a76d9633c"
+  },
+  {
+    "file": "reports/L05_visual_correction_record.json",
+    "sha256": "9f6f8ec600add21dcbc0f123a1d58eb41d27631cffb26bf39abf1e6f60516ea1"
+  },
+  {
+    "file": "reports/S02_motion_corrections.json",
+    "sha256": "0d2d02ebb1e8c690007978345768131563cc7e90e44615dd23db4bc591fbf2e9"
+  },
+  {
+    "file": "reports/S03_visual_corrections.json",
+    "sha256": "90f9a8e33b890988bf9e7db3bf1f660bdc6dadd730814d3f3f7f065313dd6aaa"
+  },
+  {
+    "file": "reports/S05_visual_correction_record.json",
+    "sha256": "2f008f665796645b8f18c96851c0344211eb38943ee224c347be410e1d26f2c3"
+  },
+  {
+    "file": "reports/S08_visual_correction_record.json",
+    "sha256": "eccd6f131fc92a85127c7ec34ced7df352cca191bb95ca0f9fcd63ffc9256512"
+  },
+  {
+    "file": "reports/S10_visual_correction_record.json",
+    "sha256": "169e805aba2b5b733d5295d4aefce7a878d7381f4fb4594839d0faa036eb3aa8"
+  },
+  {
+    "file": "reports/S11_visual_correction_record.json",
+    "sha256": "d946f3e632ec6fd09faf49a70a7d1fe8f1524b5f0998bfb2c1aa30dbaa7f48ae"
+  },
+  {
+    "file": "reports/S17_motion_corrections.json",
+    "sha256": "0e28f210e256abc851c13bee5b71f38b73099b1ab93127eb72e1938fc9ffe094"
+  },
+  {
+    "file": "reports/S21_visual_correction_record.json",
+    "sha256": "8d079e6f96fd817ecc8101da081fe3974d3f2c2a76d82e52cebc9dde3da0fa13"
+  },
+  {
+    "file": "reports/cover_title_adjustments.json",
+    "sha256": "ea8f0159718cbf02e76d0799537522f276a8c194cbb8025f67aae7c2aaf6b80c"
+  },
+  {
+    "file": "reports/derived_wav_repairs.json",
+    "sha256": "05443f308bdb36a05977f2d0545db28ab38a5aada137d4aa53d50569aa4a640a"
+  },
+  {
+    "file": "reports/final_correction_release_verification.json",
+    "sha256": "38ddbd81905ca282d548ebcdfe81c0449b36a38b2efe3e55b36f177389329a89"
+  },
+  {
+    "file": "reports/short_cadence_correction_before_manifest.json",
+    "sha256": "6852bf4bb264d42b54f8bdc75b9d280156356226ac609625747696356ac57fe4"
+  }
+]

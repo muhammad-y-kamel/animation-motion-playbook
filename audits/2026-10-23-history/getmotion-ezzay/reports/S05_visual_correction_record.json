@@ -1,0 +1,200 @@
+{
+  "episode": "S05",
+  "status": "source_corrected_pending_full_rerender",
+  "recorded_utc": "2026-10-23T04:24:40.674372+00:00",
+  "source_file": "diagrams/S05.cjs",
+  "previous_source_sha256": "4c8a1467310fbea405768d0a8e7c09c0e3f8569616c70216e6c2f802bf83d7d8",
+  "source_sha256": "63cad9964ca81731c520d103e093d0edcb61ca80fd166308dbbba675f6e5b11b",
+  "rejected_visual_qa_file": "working/superseded_first_export_S05/exports/S05_visual_qa.json",
+  "previous_video_hashes": [
+    {
+      "file": "exports/S05/S05_final.mp4",
+      "sha256": "cc1f2f86756ace2e976a76b0727ce22ec206b7a206575b50180a589dd0adc338"
+    },
+    {
+      "file": "exports/S05/S05_clean.mp4",
+      "sha256": "33914785de7bbc668b0e4e2bede32d6cecffd62ae4fd80263d49889f6cb6c20d"
+    }
+  ],
+  "scope": "Only diagrams/S05.cjs changed. Episode-local renderer; shared subjects_first_half.cjs, narration, timing job, storyboard and captions unchanged.",
+  "issues": [
+    {
+      "type": "label_coil_overlap",
+      "label": "الشريحة",
+      "actual_mp4_time": 35.30449
+    },
+    {
+      "type": "long_static_explanation",
+      "stages": [
+        {
+          "stage": "card",
+          "duration_seconds": 7.44
+        },
+        {
+          "stage": "coil",
+          "duration_seconds": 10.4
+        }
+      ]
+    }
+  ],
+  "corrections": [
+    "Move the chip label to the empty inner-left area, with clear separation from the winding and chip outline.",
+    "Move the coil callout leader start below its label baseline.",
+    "In the long card stage, progressively reveal the interior, then reveal the reader field at the existing aligned word الحث and carry the visible energy explanation into the coil and chip.",
+    "In the coil stage, trace winding turns from ملف, reveal its chip connection at ومتوصّل, and emphasize the reader at the existing question طب السلك ده بيجيب كهربا منين؟.",
+    "Keep the powered chip visible during load modulation; in the final summary, start withdrawal at ويفصل, then turn off the field and chip. The final CTA remains a stable unpowered state."
+  ],
+  "exact_final_audio_cues": [
+    {
+      "word": "الحث",
+      "time_seconds": 18.64
+    },
+    {
+      "word": "ملف",
+      "time_seconds": 25.28
+    },
+    {
+      "word": "ومتوصل",
+      "time_seconds": 29.36
+    },
+    {
+      "word": "طب",
+      "time_seconds": 31.36
+    },
+    {
+      "word": "ويفصل",
+      "time_seconds": 62.4
+    }
+  ],
+  "corrected_source_frames_reviewed": [
+    {
+      "time": 16.5,
+      "file": "working/S05_correction_frames/corrected_00_16.500s.png",
+      "source": "corrected_source_render_not_final_mp4",
+      "sha256": "835b36784d58969390334bfb414431a60bb5fdf4f04a6b26a66f52097589f37f"
+    },
+    {
+      "time": 18.1,
+      "file": "working/S05_correction_frames/corrected_01_18.100s.png",
+      "source": "corrected_source_render_not_final_mp4",
+      "sha256": "b254f532f3a3fb976f9d24cd375762491918a64f5c8fa1b269f56a4b0949b279"
+    },
+    {
+      "time": 19.2,
+      "file": "working/S05_correction_frames/corrected_02_19.200s.png",
+      "source": "corrected_source_render_not_final_mp4",
+      "sha256": "9f88407c0df5dbc7fa7b40a65d62b2a53511c8a3ef2367228565d43403922e7e"
+    },
+    {
+      "time": 20.5,
+      "file": "working/S05_correction_frames/corrected_03_20.500s.png",
+      "source": "corrected_source_render_not_final_mp4",
+      "sha256": "ef6d90ef90d6351be5b12728d921ca891b09571dc1192eeb43ed80c243250078"
+    },
+    {
+      "time": 22.9,
+      "file": "working/S05_correction_frames/corrected_04_22.900s.png",
+      "source": "corrected_source_render_not_final_mp4",
+      "sha256": "aa6af5a69e907865d5d1b77d69a49af7fa28f1bb8f17432b80af4c446312492a"
+    },
+    {
+      "time": 24.2,
+      "file": "working/S05_correction_frames/corrected_05_24.200s.png",
+      "source": "corrected_source_render_not_final_mp4",
+      "sha256": "21be12b7155d9c14be36334a2e87d80e442d3deca16aa44cca1552629d589160"
+    },
+    {
+      "time": 25.6,
+      "file": "working/S05_correction_frames/corrected_06_25.600s.png",
+      "source": "corrected_source_render_not_final_mp4",
+      "sha256": "741cd177996f80dccbf0a8fc52c62b0a75d46eae1441b61a991d8de23dc677e8"
+    },
+    {
+      "time": 27.5,
+      "file": "working/S05_correction_frames/corrected_07_27.500s.png",
+      "source": "corrected_source_render_not_final_mp4",
+      "sha256": "830b6286fc70a7ea851b1b7c711f44164c0a628c266c2fc7f5c161bb26bee409"
+    },
+    {
+      "time": 29.1,
+      "file": "working/S05_correction_frames/corrected_08_29.100s.png",
+      "source": "corrected_source_render_not_final_mp4",
+      "sha256": "2098181ee9a86b002ada50b8e9ee7e5c97c39d6d1bc6f49b4963f17a0f209f33"
+    },
+    {
+      "time": 30.25,
+      "file": "working/S05_correction_frames/corrected_09_30.250s.png",
+      "source": "corrected_source_render_not_final_mp4",
+      "sha256": "16537095a69f63029f3c1f96b65776d660faddec0559e84d825ec9d5113e0b14"
+    },
+    {
+      "time": 32.7,
+      "file": "working/S05_correction_frames/corrected_10_32.700s.png",
+      "source": "corrected_source_render_not_final_mp4",
+      "sha256": "09c06e2f0ccead25c46b76ae0faf7acbebf23ed9efbbe50b331d6f35329b91b0"
+    },
+    {
+      "time": 35.30449,
+      "file": "working/S05_correction_frames/corrected_11_35.304s.png",
+      "source": "corrected_source_render_not_final_mp4",
+      "sha256": "c3bc9140d86a62bedef16ff3d68652763b9e68541e61e9950d2e5d541557e2db"
+    },
+    {
+      "time": 43.4,
+      "file": "working/S05_correction_frames/corrected_12_43.400s.png",
+      "source": "corrected_source_render_not_final_mp4",
+      "sha256": "593f85340cf36164c4c7a7abe0eef6f80785e06513834143015e866da51e9088"
+    },
+    {
+      "time": 48.267,
+      "file": "working/S05_correction_frames/corrected_13_48.267s.png",
+      "source": "corrected_source_render_not_final_mp4",
+      "sha256": "e5d81f20d95196d1ba310371a3a94efc9e8d23d2348442068b4609f0d4ee0d88"
+    },
+    {
+      "time": 54.8,
+      "file": "working/S05_correction_frames/corrected_14_54.800s.png",
+      "source": "corrected_source_render_not_final_mp4",
+      "sha256": "54cba9417ea43d677939f52f7cef9ebef7d50a4c51688c0cc251fbcc9d79acc3"
+    },
+    {
+      "time": 61.5,
+      "file": "working/S05_correction_frames/corrected_15_61.500s.png",
+      "source": "corrected_source_render_not_final_mp4",
+      "sha256": "bdb668011cd09e521d23785c00f0291f758a1eeb8e5052f3e1ff2d7adee9fe2e"
+    },
+    {
+      "time": 63.5,
+      "file": "working/S05_correction_frames/corrected_16_63.500s.png",
+      "source": "corrected_source_render_not_final_mp4",
+      "sha256": "453a62ba409a808ee29dcc617c334cee19d2c2872f821597417610926ca5c452"
+    },
+    {
+      "time": 65.68,
+      "file": "working/S05_correction_frames/corrected_17_65.680s.png",
+      "source": "corrected_source_render_not_final_mp4",
+      "sha256": "fe9f23715ba31f90b728d5240efbc522dc1accff36e6fd66771d59853481db12"
+    }
+  ],
+  "corrected_source_contact_sheets": [
+    {
+      "file": "working/S05_correction_frames/correction_sheet_1.jpg",
+      "sha256": "d0e2718b406032c4b93f1b36064a56ea59593f1421c59b1ac84c808312080ce4"
+    },
+    {
+      "file": "working/S05_correction_frames/correction_sheet_2.jpg",
+      "sha256": "c8549bf7c8d6ccc488fcf529ca8237971c56ffc3157d9ec4a0179cc35cf1e59c"
+    }
+  ],
+  "correction_visual_result": "All18 corrected source frames were inspected through two contact sheets; the original failing35.304s state was also inspected full-size. Chip label is clear of winding/connector lines in every sampled state; winding, connection, reader-source and energy-off stages visibly evolve at their aligned words; captions and margins remain clear.",
+  "unchanged_hashes": {
+    "job_sha256": "102fe33d344b54312800bf6d170c65f623b1c6511c89a8dbb082ca1f042d947f",
+    "narration_mp3_sha256": "57d2b2f0a8273e2c2a2e7f728b6edc0c6bccb20d9103c8d011ed86813b3d4e3a",
+    "shared_subjects_sha256": "fe49cb4d1129420aba36653a8861cbb55a2f348d605414897116a1346c8aa977",
+    "storyboard_sha256": "9f03745c3f67d25de6bf80a1539b4a535d1fc0dac59d85b9ec0f974252619278"
+  },
+  "limitations": [
+    "Corrected source frames are not a substitute for a rerendered MP4.",
+    "Final video acceptance requires new matching technical and visual QA after rerender."
+  ]
+}

@@ -1,0 +1,133 @@
+[
+  {
+    "thread_id": "01a15ce0-5a29-73b3-83a3-c30111c3a041",
+    "project": "Canva / Learn EG",
+    "cases": [
+      {
+        "id": "CANVA-01",
+        "title": "Wrong cursor click coordinates",
+        "status": "historical_claims_not_independently_verified"
+      },
+      {
+        "id": "CANVA-02",
+        "title": "Stale scene layers and incorrect selection frame",
+        "status": "historical_claims_not_independently_verified"
+      },
+      {
+        "id": "CANVA-03",
+        "title": "Mixed-script caption word order",
+        "status": "historical_claims_not_independently_verified"
+      },
+      {
+        "id": "CANVA-04",
+        "title": "Duplicate drag, text collisions and low contrast",
+        "status": "historical_claims_not_independently_verified"
+      },
+      {
+        "id": "CANVA-05",
+        "title": "Brand name pronunciation",
+        "status": "historical_claims_not_independently_verified"
+      },
+      {
+        "id": "CANVA-06",
+        "title": "Timer mismatch and misleading feature count",
+        "status": "historical_claims_not_independently_verified"
+      },
+      {
+        "id": "CANVA-07",
+        "title": "Full storage interrupts source packaging",
+        "status": "historical_claims_not_independently_verified"
+      }
+    ]
+  },
+  {
+    "thread_id": "01a157ad-2ca3-70e7-adef-e57d4dd82063",
+    "project": "JUST ONE MORE REVISION",
+    "cases": [
+      {
+        "id": "SHOW-01",
+        "title": "Phone readability and weak opening",
+        "status": "historical_claims_not_independently_verified"
+      }
+    ]
+  },
+  {
+    "thread_id": "01a15799-4f45-768e-9e69-93724dd18073",
+    "project": "ONE FORM / ENDLESS MOTION",
+    "cases": [
+      {
+        "id": "SHOW-02",
+        "title": "Inherited rotation makes title crooked",
+        "status": "historical_claims_not_independently_verified"
+      },
+      {
+        "id": "SHOW-03",
+        "title": "Caption and ring invade protected regions",
+        "status": "historical_claims_not_independently_verified"
+      },
+      {
+        "id": "SHOW-04",
+        "title": "Extruded glyph seams and overlapping outlines",
+        "status": "historical_claims_not_independently_verified"
+      },
+      {
+        "id": "SHOW-05",
+        "title": "Audio processing shifts beat alignment",
+        "status": "historical_claims_not_independently_verified"
+      }
+    ]
+  },
+  {
+    "thread_id": "01a15799-0ccd-7696-9a5f-c02746acd047",
+    "project": "FORM / FUNCTION",
+    "cases": [
+      {
+        "id": "SHOW-06",
+        "title": "Contour overlap, header intrusion and title occlusion",
+        "status": "historical_claims_not_independently_verified"
+      }
+    ]
+  },
+  {
+    "thread_id": "01a15c1a-ea88-733c-89df-6ec6e2f4e050",
+    "project": "إزاي first ten / agent kit",
+    "cases": [
+      {
+        "id": "EZZAY-OLD-01",
+        "title": "Repeated rejected TTS attempts",
+        "status": "historical_claims_not_independently_verified"
+      },
+      {
+        "id": "EZZAY-OLD-02",
+        "title": "Diacritics and ASR false certainty",
+        "status": "historical_claims_not_independently_verified"
+      },
+      {
+        "id": "EZZAY-OLD-03",
+        "title": "Mechanism discontinuity and diagram attachments",
+        "status": "historical_claims_not_independently_verified"
+      },
+      {
+        "id": "EZZAY-OLD-04",
+        "title": "Pacing and cover clutter preference",
+        "status": "historical_claims_not_independently_verified"
+      },
+      {
+        "id": "EZZAY-OLD-05",
+        "title": "Packaging debris and unavailable delivery link",
+        "status": "historical_claims_not_independently_verified"
+      }
+    ]
+  },
+  {
+    "thread_id": "01a15766-00a2-707d-83d8-0035d84fa053",
+    "project": "GetMotion brand / copy",
+    "cases": [
+      {
+        "id": "GETMOTION-COPY-01",
+        "title": "Insufficient explanation and weak hook",
+        "status": "historical_claims_not_independently_verified"
+      }
+    ]
+  }
+]

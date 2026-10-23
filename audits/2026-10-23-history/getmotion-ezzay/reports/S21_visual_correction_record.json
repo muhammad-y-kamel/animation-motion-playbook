@@ -1,0 +1,148 @@
+{
+  "episode": "S21",
+  "status": "source_correction_frozen_pending_final_export_review",
+  "ready_for_rerender": true,
+  "final_export_accepted": false,
+  "source_frozen_at_utc": "2026-10-23T04:42:57.011824+00:00",
+  "authorization": "Root assigned an isolated S21.cjs monomer-stage cadence correction after runtime reviewer confirmed it in actual final/clean MP4 samples and all scene sample pages.",
+  "source_file": "diagrams/S21.cjs",
+  "previous_source_sha256": "4fa3e835707918fa2e0fb69cef2616d31448b22316a9d34150c8c03f3c5530f7",
+  "source_sha256": "9b6cf5b0c67d9e4af752d4802e49d46c56ade9f65970c3de3023b06dc41690de",
+  "after_module_sha256": "9b6cf5b0c67d9e4af752d4802e49d46c56ade9f65970c3de3023b06dc41690de",
+  "job_sha256_unchanged": "1a6a969f20bf773b2a2ec5e2b440727668a756a28e46a693f45f9b96d37ed36a",
+  "script_audio_storyboard_timing_unchanged": true,
+  "shared_group_b_unchanged": true,
+  "previous_video_hashes": [
+    {
+      "file": "exports/S21/S21_final.mp4",
+      "sha256": "63380f71f68541cc01567308a303394b19b5b8b432bcb2012e13426c3a2afcad",
+      "archived_file": "working/superseded_first_export_S21/exports/S21_final.mp4"
+    },
+    {
+      "file": "exports/S21/S21_clean.mp4",
+      "sha256": "d20b32982d4e06cdb46c20ceb83bdb49be0b4c6f69b57afba9db7d69d62d01ae",
+      "archived_file": "working/superseded_first_export_S21/exports/S21_clean.mp4"
+    }
+  ],
+  "rejected_visual_qa_file": "working/superseded_first_export_S21/exports/S21_visual_qa.json",
+  "issues": [
+    {
+      "id": "monomer_stage_static",
+      "key": "monomer",
+      "start_seconds": 21.44,
+      "end_seconds": 32.48,
+      "duration_seconds": 11.04,
+      "detail": "The previous monomer branch drew the same six disconnected glyphs for the entire stage, ignoring both progress and elapsed time.",
+      "actual_mp4_evidence": "working/superseded_first_export_S21/decoded/S21_actual_mp4.jpg",
+      "actual_sample_time_seconds": 30.3,
+      "compositor_evidence": "working/superseded_first_export_S21/decoded/S21_composite_04.jpg",
+      "compositor_sample_times_seconds": [
+        21.667,
+        26.967,
+        32.433
+      ]
+    }
+  ],
+  "corrections": [
+    "Introduce one symbolic unit, then progressively reveal separate monomer symbols as the compound and its molecules are introduced.",
+    "Resolve the compound-name, plurality, sensitivity and first water mention from exact current audio-caption words.",
+    "Use circular symbolic units with an explicit qualification that they are not a structural formula.",
+    "Emphasize one representative unit as moisture sensitivity is explained, then bring a small molecular water symbol near it.",
+    "Keep every monomer disconnected throughout this stage; chain creation remains in the later unchanged chain scene."
+  ],
+  "exact_final_audio_cues": [
+    {
+      "exact_spoken_word": "مركب",
+      "absolute_seconds": 23.48,
+      "relative_seconds": 2.04,
+      "occurrences_in_stage": 1,
+      "selection": "first occurrence in this scene"
+    },
+    {
+      "exact_spoken_word": "سيانوكريلات.",
+      "absolute_seconds": 24.96,
+      "relative_seconds": 3.52,
+      "occurrences_in_stage": 1,
+      "selection": "first occurrence in this scene"
+    },
+    {
+      "exact_spoken_word": "جزيئاته",
+      "absolute_seconds": 27.32,
+      "relative_seconds": 5.88,
+      "occurrences_in_stage": 1,
+      "selection": "first occurrence in this scene"
+    },
+    {
+      "exact_spoken_word": "حساسة",
+      "absolute_seconds": 28.08,
+      "relative_seconds": 6.64,
+      "occurrences_in_stage": 1,
+      "selection": "first occurrence in this scene"
+    },
+    {
+      "exact_spoken_word": "مية",
+      "absolute_seconds": 30.4,
+      "relative_seconds": 8.96,
+      "occurrences_in_stage": 2,
+      "selection": "first occurrence in this scene"
+    }
+  ],
+  "before_source_frames": [
+    "diagrams/qa/S21_cadence_correction/before_22.500s.png",
+    "diagrams/qa/S21_cadence_correction/before_25.500s.png",
+    "diagrams/qa/S21_cadence_correction/before_28.600s.png",
+    "diagrams/qa/S21_cadence_correction/before_31.600s.png"
+  ],
+  "corrected_source_frames_reviewed": [
+    "diagrams/qa/S21_cadence_correction/after_22.500s.png",
+    "diagrams/qa/S21_cadence_correction/after_25.500s.png",
+    "diagrams/qa/S21_cadence_correction/after_28.600s.png",
+    "diagrams/qa/S21_cadence_correction/after_31.600s.png",
+    "diagrams/qa/S21_cadence_correction/after_30.450s.png"
+  ],
+  "corrected_source_contact_sheets": [
+    "diagrams/qa/S21_cadence_correction/before_after_contact.jpg"
+  ],
+  "correction_visual_result": [
+    "Four source before frames and five corrected source frames inspected, including full-size moisture-introduction and final-stage frames.",
+    "The revised sequence advances from individual symbolic unit to separate monomers and then moisture sensitivity, with no premature chain.",
+    "Arabic headings, the symbolic-diagram qualification, the water label and captions remain separate and readable.",
+    "Fully revealed unit outlines use complete-circle primitives so they remain visible at the end of each reveal.",
+    "The cover and every untouched body stage are pixel-identical to the base module."
+  ],
+  "isolation_checks": {
+    "source_sha256": "9b6cf5b0c67d9e4af752d4802e49d46c56ade9f65970c3de3023b06dc41690de",
+    "cover_pixels_identical": true,
+    "unchanged_stage_pixels_identical": [
+      "moisture",
+      "storage",
+      "contact",
+      "chain",
+      "set",
+      "strength"
+    ],
+    "caption_free_sample_progress": [
+      0.25,
+      0.55,
+      0.85
+    ],
+    "original_diagram_hashes": [
+      "05fa0c37e9cd87734d2fcb028c28eba2c4c5050fc63aaf864523ffb55ea2a994",
+      "05fa0c37e9cd87734d2fcb028c28eba2c4c5050fc63aaf864523ffb55ea2a994",
+      "05fa0c37e9cd87734d2fcb028c28eba2c4c5050fc63aaf864523ffb55ea2a994"
+    ],
+    "corrected_diagram_hashes": [
+      "811fbb6ce6c859bbd15910d89ed6c55cebaadca78f5731bbf95f8a3c080dbf34",
+      "a22e449308e8f2297323b89c0115a380604d4b15cacacaf67fb76e9a523dd5e7",
+      "d37d4873654ed296832a2b0be1cbfcd00bbb8b169e8434ece4de9c0aaa5c9cbc"
+    ],
+    "original_unique_count": 1,
+    "corrected_unique_count": 3
+  },
+  "isolation_check_record": "quality/S21_cadence_isolation_checks.json",
+  "limitations": [
+    "Corrected evidence is source compositor output, not a new encoded final video.",
+    "New final/clean MP4 technical checks and sampled visual review are still required after rerender.",
+    "No full listening review was performed."
+  ]
+}

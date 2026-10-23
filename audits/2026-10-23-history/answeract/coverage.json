@@ -1,0 +1,60 @@
+{
+  "retrieved_at": "2026-10-23T15:07:00Z",
+  "scope": "three assigned AnswerAct cloud task histories; not all account",
+  "retrieval_method": "cloud_threads_read",
+  "threads": [
+    {
+      "thread_id": "01a1499a-0980-7305-b35e-303f6cc8804e",
+      "project": "AnswerAct films/rebuild and bilingual narration",
+      "source_url": null,
+      "date_range": "not returned",
+      "pages": 106,
+      "visible_items": 263,
+      "truncated_items": [],
+      "cursor_exhausted": true,
+      "status": "visible history exhausted; no item truncation flags",
+      "limitations": [
+        "Hidden tool details not exposed",
+        "No independent artifact inspection",
+        "No per-item timestamps/source URLs returned"
+      ]
+    },
+    {
+      "thread_id": "01a14a59-34e5-7472-9df0-35aa633c2079",
+      "project": "AnswerAct seven films / hammer variants",
+      "source_url": null,
+      "date_range": "not returned",
+      "pages": 29,
+      "visible_items": 89,
+      "truncated_items": [
+        "01a14a59-4d58-7460-a5ae-87ff1f52f20a"
+      ],
+      "cursor_exhausted": true,
+      "status": "visible history exhausted, one item truncated",
+      "limitations": [
+        "Hidden tool details not exposed",
+        "No independent artifact inspection",
+        "No per-item timestamps/source URLs returned"
+      ]
+    },
+    {
+      "thread_id": "01a147b2-5b70-741a-a766-5677de487044",
+      "project": "AnswerAct original motion / 3D corridors / brainrot",
+      "source_url": null,
+      "date_range": "not returned",
+      "pages": 29,
+      "visible_items": 108,
+      "truncated_items": [],
+      "cursor_exhausted": true,
+      "status": "visible history exhausted; no item truncation flags",
+      "limitations": [
+        "Hidden tool details not exposed",
+        "No independent artifact inspection",
+        "No per-item timestamps/source URLs returned"
+      ]
+    }
+  ],
+  "case_count": 33,
+  "excerpt_count": 88,
+  "secret_handling": "Only selected relevant bounded excerpts; no API key or full initial briefs retained"
+}

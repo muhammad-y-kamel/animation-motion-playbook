@@ -1,0 +1,127 @@
+{
+  "episode": "S10",
+  "status": "source_correction_frozen_pending_final_export_review",
+  "ready_for_rerender": true,
+  "final_export_accepted": false,
+  "source_frozen_at_utc": "2026-10-23T04:34:39.329079+00:00",
+  "authorization": "Root authorized isolated episode module correction for confirmed cadence defects; S11 sensitive arrow correction additionally authorized after actual-MP4 confirmation.",
+  "source_file": "diagrams/S10.cjs",
+  "previous_source_sha256": "cc8b68424a2c786037e8fc185e332d2b510980eb85a3d48945dc34ce0f22577f",
+  "source_sha256": "aacb1f96d610e037a7f43c658c883ef74aba316f7a385ada6cc04bc2e4d63fcb",
+  "after_module_sha256": "aacb1f96d610e037a7f43c658c883ef74aba316f7a385ada6cc04bc2e4d63fcb",
+  "job_sha256_unchanged": "d6516e894b6e073a6fb9d9b210833c23dd9a94125d53aed7baf97835df9953fa",
+  "script_audio_storyboard_timing_unchanged": true,
+  "shared_runtime_unchanged": true,
+  "previous_video_hashes": [
+    {
+      "file": "exports/S10/S10_final.mp4",
+      "sha256": "7afea49045949d311b553d548896a2a047e406384d809b2be4c90fb022f69762",
+      "archived_file": "working/superseded_first_export_S10/exports/S10_final.mp4"
+    },
+    {
+      "file": "exports/S10/S10_clean.mp4",
+      "sha256": "bdb18d14f91872a3adaae22671cec7b125cd16d831994342c8728be00cdccd76",
+      "archived_file": "working/superseded_first_export_S10/exports/S10_clean.mp4"
+    }
+  ],
+  "rejected_visual_qa_file": "working/superseded_first_export_S10/exports/S10_visual_qa.json",
+  "issues": [
+    {
+      "id": "long_body_stage_static",
+      "stage": "conduction",
+      "start_seconds": 31.8,
+      "end_seconds": 45.08,
+      "duration_seconds": 13.28,
+      "detail": "The previous stage ignored both actual progress and elapsed time and remained static for its entire body duration.",
+      "evidence": "quality/S04_S06_S12_body_cadence_audit.json"
+    }
+  ],
+  "corrections": [
+    "Reveal the thicker tray section at the mass phrase.",
+    "Progressively reveal stored thermal energy in the tray.",
+    "Contrast the more rapidly cooling thin foil with the still-hot tray.",
+    "A schematic skin section approaches from below and stops at the tray underside.",
+    "Heat shading and a downward arrow advance into the skin only after contact."
+  ],
+  "exact_final_audio_cues": [
+    {
+      "exact_spoken_word": "فكتلتها",
+      "absolute_seconds": 33.04,
+      "relative_seconds": 1.24
+    },
+    {
+      "exact_spoken_word": "وجزيئاتها",
+      "absolute_seconds": 34.64,
+      "relative_seconds": 2.84
+    },
+    {
+      "exact_spoken_word": "فبتفضل",
+      "absolute_seconds": 36.88,
+      "relative_seconds": 5.08
+    },
+    {
+      "exact_spoken_word": "وبتنقلها",
+      "absolute_seconds": 39.68,
+      "relative_seconds": 7.88
+    },
+    {
+      "exact_spoken_word": "لأن",
+      "absolute_seconds": 42.56,
+      "relative_seconds": 10.76
+    }
+  ],
+  "cue_lookup": "At render time, each semantic cue is resolved from exact words in the current h.job captions, restricted to this scene; all intended cues were verified present exactly once.",
+  "before_source_frames": [
+    "diagrams/qa/S10_cadence_correction/before_33.600s.png",
+    "diagrams/qa/S10_cadence_correction/before_36.200s.png",
+    "diagrams/qa/S10_cadence_correction/before_41.000s.png",
+    "diagrams/qa/S10_cadence_correction/before_44.100s.png"
+  ],
+  "corrected_source_frames_reviewed": [
+    "diagrams/qa/S10_cadence_correction/after_33.600s.png",
+    "diagrams/qa/S10_cadence_correction/after_36.200s.png",
+    "diagrams/qa/S10_cadence_correction/after_41.000s.png",
+    "diagrams/qa/S10_cadence_correction/after_44.100s.png"
+  ],
+  "corrected_source_contact_sheets": [
+    "diagrams/qa/S10_cadence_correction/before_after_contact.jpg"
+  ],
+  "correction_visual_result": [
+    "Four before frames show a fixed arrow without contact geometry. Four after frames show mass, stored heat and progressive contact transfer.",
+    "Skin top stops at local y=460, exactly the tray underside; it does not move through the tray.",
+    "The heat arrow points from hot metal into skin, and its path avoids all labels."
+  ],
+  "isolation_checks": {
+    "cover_pixels_identical": true,
+    "unchanged_stage_pixels_identical": [
+      "same",
+      "mass",
+      "capacity",
+      "cooling",
+      "steam"
+    ],
+    "caption_free_diagram_sample_times_relative": [
+      3.3199999999999994,
+      7.303999999999999,
+      11.287999999999998
+    ],
+    "original_diagram_hashes": [
+      "5e13f0c69d232cbcbe3024729f81693b1f9eb7e822489ae24b105ece0685238f",
+      "5e13f0c69d232cbcbe3024729f81693b1f9eb7e822489ae24b105ece0685238f",
+      "5e13f0c69d232cbcbe3024729f81693b1f9eb7e822489ae24b105ece0685238f"
+    ],
+    "corrected_diagram_hashes": [
+      "f3183121ba2256d3d0e0ba8fdd18ba67493cf2cc5d69a6e36b4e6e8fe68d358b",
+      "2cefe6720b6b3ebf3065ae8579ff477abc4c94684caf998dfe86cf2f14b4711b",
+      "e1e5c4743e72223b975b08885bc26eb2dcb905997556c2f5949ac10588d471af"
+    ],
+    "original_unique_count": 1,
+    "corrected_unique_count": 3
+  },
+  "isolation_check_record": "quality/S08_S10_S11_cadence_isolation_checks.json",
+  "limitations": [
+    "The after evidence consists of source compositor previews, not a new encoded final MP4.",
+    "The new final and clean videos require technical checks and sampled visual review after root rerenders them.",
+    "No listening review was performed during this correction."
+  ]
+}

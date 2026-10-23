@@ -1,0 +1,78 @@
+[
+  {
+    "thread_id": "01a157ad-5689-71e2-99e1-63bb19f0605b",
+    "reader": "cloud_threads_read",
+    "pages": 23,
+    "items": 60,
+    "empty_messages": 0,
+    "truncated_messages": [],
+    "pagination_exhausted": true,
+    "errors": [],
+    "source_url": null,
+    "dates": "Reader did not return message dates; retrieval 2026-10-23",
+    "status": "all returned message pages read; tool/system internals unavailable",
+    "secrets": "Credential-bearing unrelated message excluded from saved evidence"
+  },
+  {
+    "thread_id": "01a158a7-4a10-74e1-a3ee-91d863e46041",
+    "reader": "cloud_threads_read",
+    "pages": 1,
+    "items": 10,
+    "empty_messages": 0,
+    "truncated_messages": [],
+    "pagination_exhausted": true,
+    "errors": [],
+    "source_url": null,
+    "dates": "Reader did not return message dates; retrieval 2026-10-23",
+    "status": "all returned message pages read; tool/system internals unavailable",
+    "secrets": "Credential-bearing unrelated message excluded from saved evidence"
+  },
+  {
+    "thread_id": "01a15f04-7dc4-76fd-a6ac-be390cbbf014",
+    "reader": "cloud_threads_read",
+    "pages": 2,
+    "items": 12,
+    "empty_messages": 0,
+    "truncated_messages": [],
+    "pagination_exhausted": true,
+    "errors": [],
+    "source_url": null,
+    "dates": "Reader did not return message dates; retrieval 2026-10-23",
+    "status": "all returned message pages read; tool/system internals unavailable",
+    "secrets": "Credential-bearing unrelated message excluded from saved evidence"
+  },
+  {
+    "thread_id": "01a15161-568f-727a-9d02-00fe38e08077",
+    "reader": "cloud_threads_read",
+    "pages": 60,
+    "items": 252,
+    "empty_messages": 0,
+    "truncated_messages": [],
+    "pagination_exhausted": true,
+    "errors": [],
+    "source_url": null,
+    "dates": "Reader did not return message dates; retrieval 2026-10-23",
+    "status": "all returned message pages read; tool/system internals unavailable",
+    "secrets": "Credential-bearing unrelated message excluded from saved evidence"
+  },
+  {
+    "thread_id": "01a15135-c119-75c0-8c41-2d31e4351050",
+    "reader": "cloud_threads_read",
+    "pages": 7,
+    "items": 43,
+    "empty_messages": 4,
+    "truncated_messages": [
+      "msg_09a52937867a763d016ad54e5dab8c8191a36cef4163b51162",
+      "msg_09a52937867a763d016ad54e1fe7388191a75a1144e9a6a0f0",
+      "msg_09a52937867a763d016ad54da877088191aeb64973766126bc",
+      "msg_09a52937867a763d016ad54d47b4a48191839998e417983294",
+      "01a15135-d97e-70f2-8798-ca02c160a5c3"
+    ],
+    "pagination_exhausted": true,
+    "errors": [],
+    "source_url": null,
+    "dates": "Reader did not return message dates; retrieval 2026-10-23",
+    "status": "all returned message pages read; tool/system internals unavailable",
+    "secrets": "Credential-bearing unrelated message excluded from saved evidence"
+  }
+]

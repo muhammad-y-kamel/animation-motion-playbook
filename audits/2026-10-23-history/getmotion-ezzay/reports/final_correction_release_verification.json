@@ -1,0 +1,415 @@
+{
+  "accepted": true,
+  "verified_at_utc": "2026-10-23T05:15:59.401180+00:00",
+  "corrected_episode_count": 13,
+  "scope": "Each corrected episode source matches its frozen release. Current final/clean video bytes match accepted technical and visual reports and differ from the rejected first export.",
+  "episodes": [
+    {
+      "episode": "L01",
+      "episode_source": "diagrams/L01.cjs",
+      "episode_source_sha256": "6e2f8d518da7a1c2f2c92118fd25f1b7a005687e1aafc2acd407466489230657",
+      "matches_frozen_correction_source": true,
+      "correction_report": "quality/L01_visual_corrections.json",
+      "correction_report_sha256": "58388ab9fdede60d86456aee4289a66827bd581a1b767f38ef3680b4522465f6",
+      "job_sha256": "f2cc574ed06742636dd84d3b0405ffdd527f700bb1f915479293bf5d161362ef",
+      "technical_qa": "exports/L01/L01_technical_qa.json",
+      "technical_qa_sha256": "d45ce6b55fdc1e171ea87bae57eb50e8f36f1983eb20c7a71dae672a7eb2b39e",
+      "visual_qa": "exports/L01/L01_visual_qa.json",
+      "visual_qa_sha256": "b791c92f2f59b39a5c408831a6c2cf1d086f5feaf0f03856e0586c5fe35212fb",
+      "exports": [
+        {
+          "file": "exports/L01/L01_final.mp4",
+          "sha256": "f079d7256a2da43a5777a3e47e5542eeee16fb5f430dda56a1df1a5b49186497",
+          "distinct_from_rejected_export": true,
+          "technical_decode_passed": true,
+          "visually_accepted": true
+        },
+        {
+          "file": "exports/L01/L01_clean.mp4",
+          "sha256": "2f7186fbec5fd91d1238b34cb0ea3252932733692dba0a23d82beeac1f715a50",
+          "distinct_from_rejected_export": true,
+          "technical_decode_passed": true,
+          "visually_accepted": true
+        }
+      ]
+    },
+    {
+      "episode": "L02",
+      "episode_source": "diagrams/L02.cjs",
+      "episode_source_sha256": "1158479732df93ef13c5f5cc334bc75287f5c2745d181209735e897cc679e37e",
+      "matches_frozen_correction_source": true,
+      "correction_report": "quality/L02_visual_correction_record.json",
+      "correction_report_sha256": "8a579c8a9d194060cb355c4181132a8ce816f900f04f4dec892b53b0a7a6581e",
+      "job_sha256": "82b9dc6e2ea0bff9e0ed1b25c09262ea6193cd7ff55322915ad59d9f3e9593a8",
+      "technical_qa": "exports/L02/L02_technical_qa.json",
+      "technical_qa_sha256": "2460dd9253dc5683c624d813ae0d74cf68c67b3f28899c1ce3435f847a7394b2",
+      "visual_qa": "exports/L02/L02_visual_qa.json",
+      "visual_qa_sha256": "5206455c09d4efa1ccfae33c07baa75b305ddca3b3aee6ae597def9c691bf5f6",
+      "exports": [
+        {
+          "file": "exports/L02/L02_final.mp4",
+          "sha256": "b57d143470ac0b94c4e2e3fb8b1d64a7baccacecf5c8ab85525e24a6c83ba122",
+          "distinct_from_rejected_export": true,
+          "technical_decode_passed": true,
+          "visually_accepted": true
+        },
+        {
+          "file": "exports/L02/L02_clean.mp4",
+          "sha256": "fd58145e7e7705456cbbb5395af1552bf4fdf7184a76e73e9b54d2ebb8312824",
+          "distinct_from_rejected_export": true,
+          "technical_decode_passed": true,
+          "visually_accepted": true
+        }
+      ]
+    },
+    {
+      "episode": "L03",
+      "episode_source": "diagrams/L03.cjs",
+      "episode_source_sha256": "dd512f5e71f51ded6b41647cc5caa74fc27749c44f20dedcac67fedcf5958ceb",
+      "matches_frozen_correction_source": true,
+      "correction_report": "quality/L03_visual_correction_record.json",
+      "correction_report_sha256": "69d1ec1f42c8e1958bc55f5a9ae9fca0f7064f94c24b2c1605facfbb82e6edc8",
+      "job_sha256": "2362ae8668fea133ade0451bb6970b837b63acfb1749560c5af68ea4976557c5",
+      "technical_qa": "exports/L03/L03_technical_qa.json",
+      "technical_qa_sha256": "00385549589392725c80cea67d94359e85d1af908e867c58a39da6f491e9c2aa",
+      "visual_qa": "exports/L03/L03_visual_qa.json",
+      "visual_qa_sha256": "2b7a7706435f82b9e077acc66f1b08637cc697460d1f677abdf1bcd7338fbac3",
+      "exports": [
+        {
+          "file": "exports/L03/L03_final.mp4",
+          "sha256": "47b3c90eb4b50747622dd3f6ba5b8bff300a97956acd1ddf057d2e00dfd482e0",
+          "distinct_from_rejected_export": true,
+          "technical_decode_passed": true,
+          "visually_accepted": true
+        },
+        {
+          "file": "exports/L03/L03_clean.mp4",
+          "sha256": "62b56da9622f51b472e57b92b1ff7b941723cc14f36f609b54ca7363b0f866d2",
+          "distinct_from_rejected_export": true,
+          "technical_decode_passed": true,
+          "visually_accepted": true
+        }
+      ]
+    },
+    {
+      "episode": "L04",
+      "episode_source": "diagrams/L04.cjs",
+      "episode_source_sha256": "7bcff342cf06ebf29ca64e674e505c17d32a348f4e600c5a6340e4b4f2febd37",
+      "matches_frozen_correction_source": true,
+      "correction_report": "quality/L04_visual_corrections.json",
+      "correction_report_sha256": "5524ee3bbacd42c3a3074a6d3a355e827c4bf232ac3f81f29589b73a76d9633c",
+      "job_sha256": "93898a71e44373ab6558bd3fe769eb7c6fa1a4f1a35385a48b55577f08526775",
+      "technical_qa": "exports/L04/L04_technical_qa.json",
+      "technical_qa_sha256": "48f05f9c0eb29051dc388e2eb49393be77c6f68e91513668bc1274157c88693e",
+      "visual_qa": "exports/L04/L04_visual_qa.json",
+      "visual_qa_sha256": "4eb5ae804083a10d1a4c6a72a0babccb88630287bd09dc0a7f29f6f1743beb18",
+      "exports": [
+        {
+          "file": "exports/L04/L04_final.mp4",
+          "sha256": "217fc2ae939287ab894a3ee5d3d1ca95295aa14e4ccc07cb296de0a9e20c0e1b",
+          "distinct_from_rejected_export": true,
+          "technical_decode_passed": true,
+          "visually_accepted": true
+        },
+        {
+          "file": "exports/L04/L04_clean.mp4",
+          "sha256": "2255f400cbb0be6c900b10b4ed9485c8af7cb4b6465769d297ed46d551e918cc",
+          "distinct_from_rejected_export": true,
+          "technical_decode_passed": true,
+          "visually_accepted": true
+        }
+      ]
+    },
+    {
+      "episode": "L05",
+      "episode_source": "diagrams/L05.cjs",
+      "episode_source_sha256": "a90f0ed61c0f33bcf76fe9a8a486ad5ee6aa3e249413b4d3384811617e0cfaf2",
+      "matches_frozen_correction_source": true,
+      "correction_report": "quality/L05_visual_correction_record.json",
+      "correction_report_sha256": "9f6f8ec600add21dcbc0f123a1d58eb41d27631cffb26bf39abf1e6f60516ea1",
+      "job_sha256": "fdfcb60b354bf6b2f3b758bd8764c0fa8e46c43140115377ba24a2d0b3b6c9de",
+      "technical_qa": "exports/L05/L05_technical_qa.json",
+      "technical_qa_sha256": "8d9ea519b6e512b7b228088b2dc1d5721d6e3e9177c8a99f9b89c1d7d161b0db",
+      "visual_qa": "exports/L05/L05_visual_qa.json",
+      "visual_qa_sha256": "37914f580da12b4892b6377f267bd6ac093dd2b896dd362d6e442979088a35ff",
+      "exports": [
+        {
+          "file": "exports/L05/L05_final.mp4",
+          "sha256": "5ded57871550d1fc05e3cc17081f52eaed67f799991e94436e58ed0df0b6f77e",
+          "distinct_from_rejected_export": true,
+          "technical_decode_passed": true,
+          "visually_accepted": true
+        },
+        {
+          "file": "exports/L05/L05_clean.mp4",
+          "sha256": "43ca4cb164ab13b6546e372150f1c63530f663aa7f56451f5df4af528f52a420",
+          "distinct_from_rejected_export": true,
+          "technical_decode_passed": true,
+          "visually_accepted": true
+        }
+      ]
+    },
+    {
+      "episode": "S02",
+      "episode_source": "diagrams/S02.cjs",
+      "episode_source_sha256": "68e2117081db89d386ea2d343b6b5da35d261d88f758acdfa8614927e5a753f5",
+      "matches_frozen_correction_source": true,
+      "correction_report": "quality/S02_motion_corrections.json",
+      "correction_report_sha256": "0d2d02ebb1e8c690007978345768131563cc7e90e44615dd23db4bc591fbf2e9",
+      "job_sha256": "4c61a37bd21116fc3ca28695e553d670921f39f22388395e4d5ab9ef1e4b7a64",
+      "technical_qa": "exports/S02/S02_technical_qa.json",
+      "technical_qa_sha256": "1135f34ce7bcf4ad1dcf74f1ac344c9ce2d4fc528d9e6ca2f0be47efa5518b38",
+      "visual_qa": "exports/S02/S02_visual_qa.json",
+      "visual_qa_sha256": "edeac5549e2ca4a3b09da88c193c738f3a78f3696775a07bbbab617847292a92",
+      "exports": [
+        {
+          "file": "exports/S02/S02_final.mp4",
+          "sha256": "821aa40a053afaf739b744c399abf3e06876cf91df16fccec357e254b9adc9a9",
+          "distinct_from_rejected_export": true,
+          "technical_decode_passed": true,
+          "visually_accepted": true
+        },
+        {
+          "file": "exports/S02/S02_clean.mp4",
+          "sha256": "f1170e3855a0b1301656d4449320d50d1449a2e66bff3638ff3d1e86e0f274ec",
+          "distinct_from_rejected_export": true,
+          "technical_decode_passed": true,
+          "visually_accepted": true
+        }
+      ]
+    },
+    {
+      "episode": "S03",
+      "episode_source": "diagrams/S03.cjs",
+      "episode_source_sha256": "8cb397ba29d9372c4f8411ada6faeb54b9a9931a679a059869ab0bff92941ea6",
+      "matches_frozen_correction_source": true,
+      "correction_report": "quality/S03_visual_corrections.json",
+      "correction_report_sha256": "90f9a8e33b890988bf9e7db3bf1f660bdc6dadd730814d3f3f7f065313dd6aaa",
+      "job_sha256": "717289f32ba807d07fa6ab8006085ab5bd006b9953c4dd1863a99e3567fb03c3",
+      "technical_qa": "exports/S03/S03_technical_qa.json",
+      "technical_qa_sha256": "c5bdab4c4216f83c60587610d8ef36b0593a0e0aaae973f1fa4dad1092ef6d91",
+      "visual_qa": "exports/S03/S03_visual_qa.json",
+      "visual_qa_sha256": "88cbba291c8e73ebf88e138911482d56aa506bce50719dcf9ab06c41e7bf90f9",
+      "exports": [
+        {
+          "file": "exports/S03/S03_final.mp4",
+          "sha256": "19a10211d8849be167c3d5e5ab754f6a60b541bcb7d3b55fd000dd8fa2aeb8d5",
+          "distinct_from_rejected_export": true,
+          "technical_decode_passed": true,
+          "visually_accepted": true
+        },
+        {
+          "file": "exports/S03/S03_clean.mp4",
+          "sha256": "d520e95519ba41d56e68bc41c9b8a77edc17e74c3805c40b522cb20eac7f289f",
+          "distinct_from_rejected_export": true,
+          "technical_decode_passed": true,
+          "visually_accepted": true
+        }
+      ]
+    },
+    {
+      "episode": "S05",
+      "episode_source": "diagrams/S05.cjs",
+      "episode_source_sha256": "63cad9964ca81731c520d103e093d0edcb61ca80fd166308dbbba675f6e5b11b",
+      "matches_frozen_correction_source": true,
+      "correction_report": "quality/S05_visual_correction_record.json",
+      "correction_report_sha256": "2f008f665796645b8f18c96851c0344211eb38943ee224c347be410e1d26f2c3",
+      "job_sha256": "102fe33d344b54312800bf6d170c65f623b1c6511c89a8dbb082ca1f042d947f",
+      "technical_qa": "exports/S05/S05_technical_qa.json",
+      "technical_qa_sha256": "c24c5e52881b837fcdaeb44baaafa1acea11133056d6f748e246968640455f31",
+      "visual_qa": "exports/S05/S05_visual_qa.json",
+      "visual_qa_sha256": "a279ff3c73a283eb38c95f97ce55ed493e3a7c8b6d884c5c020ad6880af1ffca",
+      "exports": [
+        {
+          "file": "exports/S05/S05_final.mp4",
+          "sha256": "15d09d0d0b3a12ca7e7203742e484287b5242d3bc2ee998b25e40e0b8a71b56e",
+          "distinct_from_rejected_export": true,
+          "technical_decode_passed": true,
+          "visually_accepted": true
+        },
+        {
+          "file": "exports/S05/S05_clean.mp4",
+          "sha256": "eae1e7395b404f871952a9f20cf30dfbc7c9461eb0a4ecfe1a5226cca0d7a145",
+          "distinct_from_rejected_export": true,
+          "technical_decode_passed": true,
+          "visually_accepted": true
+        }
+      ]
+    },
+    {
+      "episode": "S08",
+      "episode_source": "diagrams/S08.cjs",
+      "episode_source_sha256": "1b0ef0c53cb8e2b80c85de51d2d55b6d9b0b9b40215007c844b104b1aba7f099",
+      "matches_frozen_correction_source": true,
+      "correction_report": "quality/S08_visual_correction_record.json",
+      "correction_report_sha256": "eccd6f131fc92a85127c7ec34ced7df352cca191bb95ca0f9fcd63ffc9256512",
+      "job_sha256": "57c555519cda7023236cb66f1f2d315804e8312665b74fe170293be3e74d2518",
+      "technical_qa": "exports/S08/S08_technical_qa.json",
+      "technical_qa_sha256": "3d59c6653daec7f86ac26d0028823383afdce843a8d556eef22854c27667d3ed",
+      "visual_qa": "exports/S08/S08_visual_qa.json",
+      "visual_qa_sha256": "0321e2c875cbd2f52f91329d542f081a96b05b7609aba728b62d63e3a0483bf1",
+      "exports": [
+        {
+          "file": "exports/S08/S08_final.mp4",
+          "sha256": "e040f67f1064134d73564f61e0258fecc1430c6f7004fca3c48e2abcae8e8325",
+          "distinct_from_rejected_export": true,
+          "technical_decode_passed": true,
+          "visually_accepted": true
+        },
+        {
+          "file": "exports/S08/S08_clean.mp4",
+          "sha256": "df08669d0dc62d867edc584ed809e03728d165f81b32097dca09507f10a983fb",
+          "distinct_from_rejected_export": true,
+          "technical_decode_passed": true,
+          "visually_accepted": true
+        }
+      ]
+    },
+    {
+      "episode": "S10",
+      "episode_source": "diagrams/S10.cjs",
+      "episode_source_sha256": "aacb1f96d610e037a7f43c658c883ef74aba316f7a385ada6cc04bc2e4d63fcb",
+      "matches_frozen_correction_source": true,
+      "correction_report": "quality/S10_visual_correction_record.json",
+      "correction_report_sha256": "169e805aba2b5b733d5295d4aefce7a878d7381f4fb4594839d0faa036eb3aa8",
+      "job_sha256": "d6516e894b6e073a6fb9d9b210833c23dd9a94125d53aed7baf97835df9953fa",
+      "technical_qa": "exports/S10/S10_technical_qa.json",
+      "technical_qa_sha256": "a0869991d3874c18e4d2e09acdd7d2a487e630cfc9c5e3aaa9ca370be66e0813",
+      "visual_qa": "exports/S10/S10_visual_qa.json",
+      "visual_qa_sha256": "c776623c4f05a5dbdd94cd5a0c7bc16b83277d881a68077dcf9d45d682bb2451",
+      "exports": [
+        {
+          "file": "exports/S10/S10_final.mp4",
+          "sha256": "3ace6e8d9f26fae2eaf60c04d9d41b7f5ac0e49080289c031c8e6313b6af377c",
+          "distinct_from_rejected_export": true,
+          "technical_decode_passed": true,
+          "visually_accepted": true
+        },
+        {
+          "file": "exports/S10/S10_clean.mp4",
+          "sha256": "81ea1b405ed9a840ebf90856e2ce7bfc992e0aa4690a0b374f7e389ed6933b95",
+          "distinct_from_rejected_export": true,
+          "technical_decode_passed": true,
+          "visually_accepted": true
+        }
+      ]
+    },
+    {
+      "episode": "S11",
+      "episode_source": "diagrams/S11.cjs",
+      "episode_source_sha256": "4f888facfdd0a0cab8bb8913f53518802aa8c84fd8480ed91ae1cac9e1aa6070",
+      "matches_frozen_correction_source": true,
+      "correction_report": "quality/S11_visual_correction_record.json",
+      "correction_report_sha256": "d946f3e632ec6fd09faf49a70a7d1fe8f1524b5f0998bfb2c1aa30dbaa7f48ae",
+      "job_sha256": "91bcf77edd3cca5a7e5e22ee4fd555fc9f8a778f042018930f3a93d34382011a",
+      "technical_qa": "exports/S11/S11_technical_qa.json",
+      "technical_qa_sha256": "e548cc6f86ec5b9772ac51a578c31534b64f95a20222b1994cb16c3a3858c66f",
+      "visual_qa": "exports/S11/S11_visual_qa.json",
+      "visual_qa_sha256": "8078436cf3b1b590c8275a65d6d0c28e823dadfc9facd5fea91a45c600f47426",
+      "exports": [
+        {
+          "file": "exports/S11/S11_final.mp4",
+          "sha256": "1ace519847518bb104c2eb41f059346bf3d0b95028ceffcb4673f14436b01806",
+          "distinct_from_rejected_export": true,
+          "technical_decode_passed": true,
+          "visually_accepted": true
+        },
+        {
+          "file": "exports/S11/S11_clean.mp4",
+          "sha256": "8e9a0099234cf794874fe156f5a0a0f6e8818933d442ad841e216fff03c9d989",
+          "distinct_from_rejected_export": true,
+          "technical_decode_passed": true,
+          "visually_accepted": true
+        }
+      ]
+    },
+    {
+      "episode": "S17",
+      "episode_source": "diagrams/S17.cjs",
+      "episode_source_sha256": "0640201e3c353b3d78903fa8f3ff134cd1aebcf51531d39c6ad0f92e3abeff62",
+      "matches_frozen_correction_source": true,
+      "correction_report": "quality/S17_motion_corrections.json",
+      "correction_report_sha256": "0e28f210e256abc851c13bee5b71f38b73099b1ab93127eb72e1938fc9ffe094",
+      "job_sha256": "68417a9dd35e5408a8480fe056e6039a177cc19ac87beb80ca749e3bf7d66d70",
+      "technical_qa": "exports/S17/S17_technical_qa.json",
+      "technical_qa_sha256": "aa9a9d0303669f73104f0abcb7372e2f8f5ade9ca1de4f92f3cabbaf68571fd5",
+      "visual_qa": "exports/S17/S17_visual_qa.json",
+      "visual_qa_sha256": "4f7685a96df093e5d66dc2dfe88bee49f3bfb75a5ff24753752358b9f3c0fbfe",
+      "exports": [
+        {
+          "file": "exports/S17/S17_final.mp4",
+          "sha256": "012636bba873b46acac2cf2decf886ba74227afa8a52a2aa61bc0f14abadb498",
+          "distinct_from_rejected_export": true,
+          "technical_decode_passed": true,
+          "visually_accepted": true
+        },
+        {
+          "file": "exports/S17/S17_clean.mp4",
+          "sha256": "52957d7b8f2a6b78e54daba7847b9ad47206763dd07df301bcc67ff49017539e",
+          "distinct_from_rejected_export": true,
+          "technical_decode_passed": true,
+          "visually_accepted": true
+        }
+      ]
+    },
+    {
+      "episode": "S21",
+      "episode_source": "diagrams/S21.cjs",
+      "episode_source_sha256": "9b6cf5b0c67d9e4af752d4802e49d46c56ade9f65970c3de3023b06dc41690de",
+      "matches_frozen_correction_source": true,
+      "correction_report": "quality/S21_visual_correction_record.json",
+      "correction_report_sha256": "8d079e6f96fd817ecc8101da081fe3974d3f2c2a76d82e52cebc9dde3da0fa13",
+      "job_sha256": "1a6a969f20bf773b2a2ec5e2b440727668a756a28e46a693f45f9b96d37ed36a",
+      "technical_qa": "exports/S21/S21_technical_qa.json",
+      "technical_qa_sha256": "7c986f8a69407e048fa0268b1c92d0b206f76e232b1e4005de0d6c7c83b805cf",
+      "visual_qa": "exports/S21/S21_visual_qa.json",
+      "visual_qa_sha256": "5d260e6fb0fe361e709a278b12465061fca70e4590bb5ddb40ff6f82bb145fc2",
+      "exports": [
+        {
+          "file": "exports/S21/S21_final.mp4",
+          "sha256": "0a52b21983329570a3683097cba6c2c6ab83b8b3dfb7174e2fa4346495deadb7",
+          "distinct_from_rejected_export": true,
+          "technical_decode_passed": true,
+          "visually_accepted": true
+        },
+        {
+          "file": "exports/S21/S21_clean.mp4",
+          "sha256": "7d0178fa2fac5a6bebf9c515b9e52d358e4ccec28d5bdd2e7fb278223720bee7",
+          "distinct_from_rejected_export": true,
+          "technical_decode_passed": true,
+          "visually_accepted": true
+        }
+      ]
+    }
+  ],
+  "shared_runtime_delivery_snapshot": [
+    {
+      "file": "runtime/render_video.cjs",
+      "sha256": "5f20418d3930379909dceddcba963b691042b312f25c9979b2c8bc81138b2633"
+    },
+    {
+      "file": "runtime/render_cover.cjs",
+      "sha256": "9866be3d65901523bd98b5225004ad54ebe3d0ddbaf920c4ec15125b07b18e10"
+    },
+    {
+      "file": "runtime/lib/core.cjs",
+      "sha256": "5ff322828484d350ee823084cd26c3994656aaf36b8b7197184e2591468987fd"
+    },
+    {
+      "file": "runtime/subjects_first_half.cjs",
+      "sha256": "fe49cb4d1129420aba36653a8861cbb55a2f348d605414897116a1346c8aa977"
+    },
+    {
+      "file": "diagrams/group_b.cjs",
+      "sha256": "ab248ee39e188a42c46d626022fbcee2a327f6b5cba028ce1a3ae8fae05fcee4"
+    },
+    {
+      "file": "diagrams/_refrigerator_intro.cjs",
+      "sha256": "297a6be89732169ed7acb9cfbd0e7abd80a4c57926fb3458d5fc486aa2669e4e"
+    }
+  ],
+  "limitations": [
+    "The shared runtime hashes are a delivery-time reproduction snapshot, not new retrospective pre-render evidence.",
+    "Visual acceptance is based on the explicitly documented samples and source contact sheets, not real-time inspection of every encoded frame."
+  ]
+}

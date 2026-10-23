@@ -1,0 +1,126 @@
+{
+  "episode": "S08",
+  "status": "source_correction_frozen_pending_final_export_review",
+  "ready_for_rerender": true,
+  "final_export_accepted": false,
+  "source_frozen_at_utc": "2026-10-23T04:34:39.329079+00:00",
+  "authorization": "Root authorized isolated episode module correction for confirmed cadence defects; S11 sensitive arrow correction additionally authorized after actual-MP4 confirmation.",
+  "source_file": "diagrams/S08.cjs",
+  "previous_source_sha256": "b1860ae788606229ad8aef8eb73b5d21b4e72fc966fbf0bc46336d518600c04d",
+  "source_sha256": "1b0ef0c53cb8e2b80c85de51d2d55b6d9b0b9b40215007c844b104b1aba7f099",
+  "after_module_sha256": "1b0ef0c53cb8e2b80c85de51d2d55b6d9b0b9b40215007c844b104b1aba7f099",
+  "job_sha256_unchanged": "57c555519cda7023236cb66f1f2d315804e8312665b74fe170293be3e74d2518",
+  "script_audio_storyboard_timing_unchanged": true,
+  "shared_runtime_unchanged": true,
+  "previous_video_hashes": [
+    {
+      "file": "exports/S08/S08_final.mp4",
+      "sha256": "d608fa6c0186db8de8bd323bb0aaff3355115064e15212e6d56530413e969c00",
+      "archived_file": "working/superseded_first_export_S08/exports/S08_final.mp4"
+    },
+    {
+      "file": "exports/S08/S08_clean.mp4",
+      "sha256": "a1fc9181e1b19b1f717394216c201f37f8fb5dc2b2936de9617f372dd860fc3d",
+      "archived_file": "working/superseded_first_export_S08/exports/S08_clean.mp4"
+    }
+  ],
+  "rejected_visual_qa_file": "working/superseded_first_export_S08/exports/S08_visual_qa.json",
+  "issues": [
+    {
+      "id": "long_body_stage_static",
+      "stage": "vapor",
+      "start_seconds": 8.64,
+      "end_seconds": 20.72,
+      "duration_seconds": 12.08,
+      "detail": "The previous stage ignored both actual progress and elapsed time and remained static for its entire body duration.",
+      "evidence": "quality/S04_S06_S12_body_cadence_audit.json"
+    }
+  ],
+  "corrections": [
+    "Molecules leave the surface of a small warm-water source.",
+    "Additional molecules enter the air, preserving the original mirror object.",
+    "An explicit label identifies gas-phase water as invisible and the symbols as molecular representations rather than visible droplets.",
+    "Molecular displacement continues; short velocity arrows follow the actual analytic direction of the represented motion."
+  ],
+  "exact_final_audio_cues": [
+    {
+      "exact_spoken_word": "بتتبخر",
+      "absolute_seconds": 10.56,
+      "relative_seconds": 1.92
+    },
+    {
+      "exact_spoken_word": "وتملأ",
+      "absolute_seconds": 11.36,
+      "relative_seconds": 2.72
+    },
+    {
+      "exact_spoken_word": "وغير",
+      "absolute_seconds": 13.84,
+      "relative_seconds": 5.2
+    },
+    {
+      "exact_spoken_word": "البخار",
+      "absolute_seconds": 16.32,
+      "relative_seconds": 7.68
+    },
+    {
+      "exact_spoken_word": "طاقته",
+      "absolute_seconds": 18.84,
+      "relative_seconds": 10.2
+    }
+  ],
+  "cue_lookup": "At render time, each semantic cue is resolved from exact words in the current h.job captions, restricted to this scene; all intended cues were verified present exactly once.",
+  "before_source_frames": [
+    "diagrams/qa/S08_cadence_correction/before_10.900s.png",
+    "diagrams/qa/S08_cadence_correction/before_13.500s.png",
+    "diagrams/qa/S08_cadence_correction/before_16.800s.png",
+    "diagrams/qa/S08_cadence_correction/before_19.900s.png"
+  ],
+  "corrected_source_frames_reviewed": [
+    "diagrams/qa/S08_cadence_correction/after_10.900s.png",
+    "diagrams/qa/S08_cadence_correction/after_13.500s.png",
+    "diagrams/qa/S08_cadence_correction/after_16.800s.png",
+    "diagrams/qa/S08_cadence_correction/after_19.900s.png"
+  ],
+  "corrected_source_contact_sheets": [
+    "diagrams/qa/S08_cadence_correction/before_after_contact.jpg"
+  ],
+  "correction_visual_result": [
+    "The four before frames show one unchanged diagram; four after frames show water-to-gas movement and later thermal motion.",
+    "Original mirror and reflection positions are preserved.",
+    "Labels, the molecular-representation qualification and captions remain separate and readable."
+  ],
+  "isolation_checks": {
+    "cover_pixels_identical": true,
+    "unchanged_stage_pixels_identical": [
+      "cool",
+      "dew",
+      "droplets",
+      "scatter",
+      "liquid"
+    ],
+    "caption_free_diagram_sample_times_relative": [
+      3.0199999999999996,
+      6.643999999999999,
+      10.267999999999999
+    ],
+    "original_diagram_hashes": [
+      "6ac0eae3dd4665b0cc49dcbd1442514e17cb033519ac684035d83fdeb8595360",
+      "6ac0eae3dd4665b0cc49dcbd1442514e17cb033519ac684035d83fdeb8595360",
+      "6ac0eae3dd4665b0cc49dcbd1442514e17cb033519ac684035d83fdeb8595360"
+    ],
+    "corrected_diagram_hashes": [
+      "f84dab149dd3553e81c619f7d54bf62a122532eb4f7016cfdb26b0f52d0891e7",
+      "a56677b1ddb398c7bee4dcc253af18206e23f71cfc10d2dac0d47df30e227211",
+      "4f212cfcf534a01e4b9b812f3e3eec3fd2f7084dddda053b77f125c11134c85f"
+    ],
+    "original_unique_count": 1,
+    "corrected_unique_count": 3
+  },
+  "isolation_check_record": "quality/S08_S10_S11_cadence_isolation_checks.json",
+  "limitations": [
+    "The after evidence consists of source compositor previews, not a new encoded final MP4.",
+    "The new final and clean videos require technical checks and sampled visual review after root rerenders them.",
+    "No listening review was performed during this correction."
+  ]
+}

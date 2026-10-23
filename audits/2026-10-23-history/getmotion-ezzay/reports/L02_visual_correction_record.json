@@ -1,0 +1,81 @@
+{
+  "episode": "L02",
+  "authorization": "Root authorized correction after actual visual QA found finger-through-glass trajectory. Only diagrams/L02.cjs changed.",
+  "issues": [
+    {
+      "id": "finger_trajectory",
+      "severity": "required_fix",
+      "source": "confirmed_in_decoded_final_mp4",
+      "time_seconds": 207.166667,
+      "detail": "The finger initially intersects the glass and travels upward through it in mutual-capacitance stages. It must approach the outer surface from above.",
+      "evidence": "working/final_render/decoded/L02/issue_mp4_207.167s.png"
+    },
+    {
+      "id": "material_contact_extent",
+      "severity": "required_fix",
+      "source": "confirmed_in_decoded_final_mp4",
+      "time_seconds": 333.766667,
+      "detail": "The conductive-glove tip and its threads extend into the glass. Use the rotated silhouette bounds to stop the glove/finger/pen at the outer surface.",
+      "evidence": "working/final_render/decoded/L02/issue_mp4_333.767s.png"
+    },
+    {
+      "id": "water_label_clearance",
+      "severity": "required_fix",
+      "source": "confirmed_in_decoded_final_mp4",
+      "time_seconds": 347.6,
+      "detail": "The water droplet starts partly behind its small explanatory label. Keep the same final location, but begin below the label.",
+      "evidence": "working/final_render/decoded/L02/issue_mp4_347.600s.png"
+    }
+  ],
+  "before_module_sha256": "908cc1cfd8ad4f87c7b12cc479dad3825dbe1e3c6f35b569a3167d39c2092ba0",
+  "after_module_sha256": "1158479732df93ef13c5f5cc334bc75287f5c2745d181209735e897cc679e37e",
+  "superseded_videos": [
+    {
+      "file": "exports/L02/L02_final.mp4",
+      "sha256": "3872a771df30689c261845a3104ec38a59d6202d9a9996b0a17630ea91d075d7"
+    },
+    {
+      "file": "exports/L02/L02_clean.mp4",
+      "sha256": "9fb73c41a52db1270e3752bd86a6180b8df57b9d5d366ca25fbd4dca5d7987bb"
+    }
+  ],
+  "job_sha256_unchanged": "82b9dc6e2ea0bff9e0ed1b25c09262ea6193cd7ff55322915ad59d9f3e9593a8",
+  "script_audio_storyboard_timing_unchanged": true,
+  "runtime_core_unchanged": true,
+  "changes": [
+    "Shared fixed angle remains 0.58 radians; exact rotated rounded-rectangle/pen-tip support computes a contact origin that stops at the glass outer boundary.",
+    "Mutual-capacitance finger approaches downward by 40 local units, with field endpoints following it. The no-DC explanatory label moves left to preserve clearance.",
+    "Material examples approach the same contact boundary; glove thread marks remain inside the glove outline.",
+    "Water droplet starts at y=250 instead of y=210, while retaining y=330 at completion; this clears the label."
+  ],
+  "corrected_source_preview_files": [
+    "diagrams/qa/L02_contact_correction/corrected_207.167s.png",
+    "diagrams/qa/L02_contact_correction/corrected_210.500s.png",
+    "diagrams/qa/L02_contact_correction/corrected_229.167s.png",
+    "diagrams/qa/L02_contact_correction/corrected_232.500s.png",
+    "diagrams/qa/L02_contact_correction/corrected_333.767s.png",
+    "diagrams/qa/L02_contact_correction/corrected_347.600s.png"
+  ],
+  "corrected_source_previews_inspected": true,
+  "rerender_required": true,
+  "source_preview_observations": [
+    "Six corrected full-frame compositor previews inspected individually at 207.167, 210.500, 229.167, 232.500, 333.767 and 347.600 seconds.",
+    "Mutual-capacitance finger is above the glass initially and stops at its outer boundary; the glass is never penetrated.",
+    "Both the main heading and moved no-DC explanatory label have clear space around the finger.",
+    "The conductive glove ends on the glass, with thread marks inside the glove outline.",
+    "The initial water droplet is separated from its explanatory label.",
+    "No script, audio, storyboard, scene timing or runtime file changed."
+  ],
+  "geometry_check": {
+    "angle_radians": 0.58,
+    "rounded_finger_bottom_extent_unscaled_with_stroke": 33.96175856079969,
+    "mutual_outer_glass_y": 283.5,
+    "mutual_fingertip_initial_y": 243.5,
+    "mutual_fingertip_final_y": 283.5,
+    "material_outer_glass_y": 378,
+    "material_fingertip_initial_y": 298,
+    "material_fingertip_final_y": 378
+  },
+  "source_frozen_at_utc": "2026-10-23T04:02:15.789514+00:00",
+  "status": "source_correction_verified_waiting_full_targeted_rerender"
+}

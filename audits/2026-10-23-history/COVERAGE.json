@@ -1,0 +1,427 @@
+{
+  "audit_date": "2026-10-23",
+  "complete_account_audit": false,
+  "discovery": {
+    "cloud_threads": {
+      "active_count": 43,
+      "archived_count": 1,
+      "list_cursors_exhausted": true
+    },
+    "global_search": [
+      {
+        "query": "موشن",
+        "sources": [
+          "conversation"
+        ],
+        "status": "error",
+        "error": "Error searching saved ChatGPT content."
+      },
+      {
+        "query": "animation",
+        "sources": [
+          "conversation"
+        ],
+        "status": "error",
+        "error": "Error searching saved ChatGPT content."
+      }
+    ],
+    "library_search": {
+      "first_queries": [
+        "AnswerAct",
+        "GetMotion",
+        "موشن"
+      ],
+      "first_result": "no results; not evidence of absence",
+      "retry_queries": [
+        "motion",
+        "MOKI",
+        "Canva",
+        "Ezzay",
+        "حكاوي"
+      ],
+      "retry_result": "18 matches, mainly older files; no conversation source recovered"
+    },
+    "library_folder_inventory": {
+      "cursors_exhausted": true,
+      "root_projects": [
+        "what if",
+        "إزاي",
+        "حكاوي الحارة",
+        "قصص الانبياء"
+      ],
+      "notes": "Other unrelated root folder omitted; nested Ezzay folders inventoried. Hawaky seven prompt files, Prophets one zip; not incident proof."
+    }
+  },
+  "limits": [
+    "Global Search unavailable, so saved ChatGPT-only conversations and unknown projects may be missing.",
+    "Local-only histories not searched; denied session paths untouched.",
+    "Empty task messages and explicit truncations retained as gaps.",
+    "Source API returns no per-message date or conversation URL. Exact thread/item IDs recorded; no inferred links/dates.",
+    "Not a full new artifact/frame/audio QA. Repair claims remain attributed.",
+    "User-deleted private project's old content deliberately not resurrected.",
+    "Cloud task listing may omit computers/tasks not authorized for this dot; list exhaustion is not universal account coverage."
+  ],
+  "threads": [
+    {
+      "thread_id": "01a16902-0961-76f1-84e1-82319a2ec017",
+      "scope": "current_work",
+      "status": "current_user_context_and_first_page",
+      "notes": "Active publishing/playbook task. Not a historical corpus fully exhausted."
+    },
+    {
+      "thread_id": "01a16902-1d60-7701-93c0-f64be4b9307d",
+      "scope": "unknown",
+      "status": "all_returned_messages_empty",
+      "notes": "Full pagination returned only empty assistant messages; underlying contents unavailable, not proof no motion project.",
+      "pages": 2,
+      "cursor_exhausted": true
+    },
+    {
+      "thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+      "scope": "motion",
+      "status": "visible_pages_exhausted_see_project_limits",
+      "detail": "getmotion-ezzay/coverage.json"
+    },
+    {
+      "thread_id": "01a1666c-1bdc-7492-98b8-d37aeaed3062",
+      "scope": "motion",
+      "status": "visible_pages_exhausted_see_project_limits",
+      "detail": "getmotion-ezzay/coverage.json"
+    },
+    {
+      "thread_id": "01a16551-a6e6-70ed-8572-0a92f0777018",
+      "scope": "out_of_scope_operational_sample",
+      "status": "latest_page_screened_not_full_history",
+      "notes": "Connectivity/maintenance/software deployment task; no animation-production defect surfaced in initial scope screening."
+    },
+    {
+      "thread_id": "01a164f6-9226-7406-a008-be42e77680d9",
+      "scope": "unknown",
+      "status": "all_returned_messages_empty",
+      "notes": "Full pagination returned only empty assistant messages; underlying contents unavailable, not proof no motion project.",
+      "pages": 6,
+      "cursor_exhausted": true
+    },
+    {
+      "thread_id": "01a15fd0-3a2b-7261-93f8-63baf1f2e039",
+      "scope": "unknown",
+      "status": "all_returned_messages_empty",
+      "notes": "Full pagination returned only empty assistant messages; underlying contents unavailable, not proof no motion project.",
+      "pages": 6,
+      "cursor_exhausted": true
+    },
+    {
+      "thread_id": "01a16263-762a-768f-b2da-adc0644b60ef",
+      "scope": "unknown",
+      "status": "all_returned_messages_empty",
+      "notes": "Full pagination returned only empty assistant messages; underlying contents unavailable, not proof no motion project.",
+      "pages": 5,
+      "cursor_exhausted": true
+    },
+    {
+      "thread_id": "01a15f9f-ec6e-702d-830c-ef2dc30ef019",
+      "scope": "out_of_scope_operational_sample",
+      "status": "latest_page_screened_not_full_history",
+      "notes": "Connectivity/maintenance/software deployment task; no animation-production defect surfaced in initial scope screening."
+    },
+    {
+      "thread_id": "01a15f95-b8a1-776a-80a2-b718cb70b033",
+      "scope": "out_of_scope_operational_sample",
+      "status": "latest_page_screened_not_full_history",
+      "notes": "Connectivity/maintenance/software deployment task; no animation-production defect surfaced in initial scope screening."
+    },
+    {
+      "thread_id": "01a15f04-7dc4-76fd-a6ac-be390cbbf014",
+      "scope": "motion",
+      "status": "visible_pages_exhausted_see_project_limits",
+      "detail": "moki-history/coverage.json"
+    },
+    {
+      "thread_id": "01a15ef6-e046-704b-a481-8fbe97dc3012",
+      "scope": "out_of_scope_operational_sample",
+      "status": "latest_page_screened_not_full_history",
+      "notes": "Connectivity/maintenance/software deployment task; no animation-production defect surfaced in initial scope screening."
+    },
+    {
+      "thread_id": "01a15ed9-149a-7426-830f-5701f3b27024",
+      "scope": "out_of_scope_operational_sample",
+      "status": "latest_page_screened_not_full_history",
+      "notes": "Connectivity/maintenance/software deployment task; no animation-production defect surfaced in initial scope screening."
+    },
+    {
+      "thread_id": "01a15d3d-0f6a-7022-89de-39f20cb01034",
+      "scope": "unknown",
+      "status": "all_returned_messages_empty",
+      "notes": "Full pagination returned only empty assistant messages; underlying contents unavailable, not proof no motion project.",
+      "pages": 7,
+      "cursor_exhausted": true
+    },
+    {
+      "thread_id": "01a15aa9-e430-720d-9697-76351e5970de",
+      "scope": "unknown",
+      "status": "all_returned_messages_empty",
+      "notes": "Full pagination returned only empty assistant messages; underlying contents unavailable, not proof no motion project.",
+      "pages": 6,
+      "cursor_exhausted": true
+    },
+    {
+      "thread_id": "01a15816-b08c-75d5-884a-79bac4a4400a",
+      "scope": "unknown",
+      "status": "all_returned_messages_empty",
+      "notes": "Full pagination returned only empty assistant messages; underlying contents unavailable, not proof no motion project.",
+      "pages": 5,
+      "cursor_exhausted": true
+    },
+    {
+      "thread_id": "01a15583-894a-76f9-ac7f-c5f04f36a021",
+      "scope": "unknown",
+      "status": "all_returned_messages_empty",
+      "notes": "Full pagination returned only empty assistant messages; underlying contents unavailable, not proof no motion project.",
+      "pages": 3,
+      "cursor_exhausted": true
+    },
+    {
+      "thread_id": "01a14f13-b222-708f-a3ea-bf8e1accd0be",
+      "scope": "unknown",
+      "status": "all_returned_messages_empty",
+      "notes": "Full pagination returned only empty assistant messages; underlying contents unavailable, not proof no motion project.",
+      "pages": 5,
+      "cursor_exhausted": true
+    },
+    {
+      "thread_id": "01a151a6-b502-7141-9538-df803fc0c0c2",
+      "scope": "unknown",
+      "status": "all_returned_messages_empty",
+      "notes": "Full pagination returned only empty assistant messages; underlying contents unavailable, not proof no motion project.",
+      "pages": 3,
+      "cursor_exhausted": true
+    },
+    {
+      "thread_id": "01a152f0-625c-7061-ad16-053e55ad30d2",
+      "scope": "unknown",
+      "status": "all_returned_messages_empty",
+      "notes": "Full pagination returned only empty assistant messages; underlying contents unavailable, not proof no motion project.",
+      "pages": 3,
+      "cursor_exhausted": true
+    },
+    {
+      "thread_id": "01a14c80-5848-745f-b034-b7d2cdd5b0f8",
+      "scope": "unknown",
+      "status": "all_returned_messages_empty",
+      "notes": "Full pagination returned only empty assistant messages; underlying contents unavailable, not proof no motion project.",
+      "pages": 5,
+      "cursor_exhausted": true
+    },
+    {
+      "thread_id": "01a149ed-3ca7-7377-92b9-c49d20ce7023",
+      "scope": "unknown",
+      "status": "all_returned_messages_empty",
+      "notes": "Full pagination returned only empty assistant messages; underlying contents unavailable, not proof no motion project.",
+      "pages": 5,
+      "cursor_exhausted": true
+    },
+    {
+      "thread_id": "01a1437d-4035-72d0-bcec-61b85a474031",
+      "scope": "unknown",
+      "status": "all_returned_messages_empty",
+      "notes": "Full pagination returned only empty assistant messages; underlying contents unavailable, not proof no motion project.",
+      "pages": 4,
+      "cursor_exhausted": true
+    },
+    {
+      "thread_id": "01a1475a-0c05-76f7-92c1-148653c0100a",
+      "scope": "unknown",
+      "status": "all_returned_messages_empty",
+      "notes": "Full pagination returned only empty assistant messages; underlying contents unavailable, not proof no motion project.",
+      "pages": 5,
+      "cursor_exhausted": true
+    },
+    {
+      "thread_id": "01a144c6-f28e-71ae-be63-fc0e77cac019",
+      "scope": "unknown",
+      "status": "all_returned_messages_empty",
+      "notes": "Full pagination returned only empty assistant messages; underlying contents unavailable, not proof no motion project.",
+      "pages": 5,
+      "cursor_exhausted": true
+    },
+    {
+      "thread_id": "01a14188-2510-75be-92ee-6452c1f750ca",
+      "scope": "mixed_room_history",
+      "status": "visible_pages_exhausted_relevance_screened",
+      "pages": 256,
+      "total_visible_items": 604,
+      "retained_matches": 26,
+      "notes": "No new animation defect beyond project histories; unrelated service/software errors excluded; full private conversation not archived."
+    },
+    {
+      "thread_id": "01a14188-39b1-7109-8e33-e3f90c787066",
+      "scope": "mixed_room_history",
+      "status": "visible_pages_exhausted_relevance_screened",
+      "pages": 5,
+      "total_visible_items": 10,
+      "retained_matches": 0,
+      "notes": "No new animation defect beyond project histories; unrelated service/software errors excluded; full private conversation not archived."
+    },
+    {
+      "thread_id": "01a15ce0-5a29-73b3-83a3-c30111c3a041",
+      "scope": "motion",
+      "status": "visible_pages_exhausted",
+      "pages": 22,
+      "messages": 85,
+      "truncated_messages": 2,
+      "detail": "own-coverage.json",
+      "secret_messages_excluded": 2
+    },
+    {
+      "thread_id": "01a15135-c119-75c0-8c41-2d31e4351050",
+      "scope": "motion",
+      "status": "visible_pages_exhausted_see_project_limits",
+      "detail": "moki-history/coverage.json"
+    },
+    {
+      "thread_id": "01a15c1a-ea88-733c-89df-6ec6e2f4e050",
+      "scope": "motion",
+      "status": "visible_pages_exhausted",
+      "pages": 59,
+      "messages": 184,
+      "truncated_messages": 0,
+      "detail": "own-coverage.json",
+      "secret_messages_excluded": 2
+    },
+    {
+      "thread_id": "01a15f94-111d-756b-a78e-05ae9733f05e",
+      "scope": "deleted_private_project",
+      "status": "not_reconstructed",
+      "notes": "Latest visible response says user-requested deletion; did not retrieve older private content or resurrect deleted assets."
+    },
+    {
+      "thread_id": "01a15161-568f-727a-9d02-00fe38e08077",
+      "scope": "motion",
+      "status": "visible_pages_exhausted_see_project_limits",
+      "detail": "moki-history/coverage.json"
+    },
+    {
+      "thread_id": "01a15b0b-dd06-731a-bcf0-8904fd57b064",
+      "scope": "out_of_scope_operational_sample",
+      "status": "latest_page_screened_not_full_history",
+      "notes": "Connectivity/maintenance/software deployment task; no animation-production defect surfaced in initial scope screening."
+    },
+    {
+      "thread_id": "01a158a7-4a10-74e1-a3ee-91d863e46041",
+      "scope": "motion",
+      "status": "visible_pages_exhausted_see_project_limits",
+      "detail": "moki-history/coverage.json"
+    },
+    {
+      "thread_id": "01a157ad-5689-71e2-99e1-63bb19f0605b",
+      "scope": "motion",
+      "status": "visible_pages_exhausted_see_project_limits",
+      "detail": "moki-history/coverage.json"
+    },
+    {
+      "thread_id": "01a15766-00a2-707d-83d8-0035d84fa053",
+      "scope": "motion",
+      "status": "visible_pages_exhausted",
+      "pages": 10,
+      "messages": 44,
+      "truncated_messages": 0,
+      "detail": "own-coverage.json",
+      "secret_messages_excluded": 0
+    },
+    {
+      "thread_id": "01a1499a-0980-7305-b35e-303f6cc8804e",
+      "scope": "motion",
+      "status": "visible_pages_exhausted_see_project_limits",
+      "detail": "answeract/coverage.json"
+    },
+    {
+      "thread_id": "01a157ad-2ca3-70e7-adef-e57d4dd82063",
+      "scope": "motion",
+      "status": "visible_pages_exhausted",
+      "pages": 3,
+      "messages": 8,
+      "truncated_messages": 0,
+      "detail": "own-coverage.json",
+      "secret_messages_excluded": 0
+    },
+    {
+      "thread_id": "01a15799-4f45-768e-9e69-93724dd18073",
+      "scope": "motion",
+      "status": "visible_pages_exhausted",
+      "pages": 4,
+      "messages": 12,
+      "truncated_messages": 0,
+      "detail": "own-coverage.json",
+      "secret_messages_excluded": 0
+    },
+    {
+      "thread_id": "01a15799-0ccd-7696-9a5f-c02746acd047",
+      "scope": "motion",
+      "status": "visible_pages_exhausted",
+      "pages": 4,
+      "messages": 8,
+      "truncated_messages": 0,
+      "detail": "own-coverage.json",
+      "secret_messages_excluded": 0
+    },
+    {
+      "thread_id": "01a15798-9034-77ab-8349-fcfea4b40067",
+      "scope": "motion",
+      "status": "visible_pages_exhausted",
+      "pages": 3,
+      "messages": 11,
+      "truncated_messages": 0,
+      "detail": "own-coverage.json",
+      "secret_messages_excluded": 0
+    },
+    {
+      "thread_id": "01a14a59-34e5-7472-9df0-35aa633c2079",
+      "scope": "motion",
+      "status": "visible_pages_exhausted_see_project_limits",
+      "detail": "answeract/coverage.json"
+    },
+    {
+      "thread_id": "01a147b2-5b70-741a-a766-5677de487044",
+      "scope": "motion",
+      "status": "visible_pages_exhausted_see_project_limits",
+      "detail": "answeract/coverage.json"
+    },
+    {
+      "thread_id": "01a15bf3-85ec-75dc-a2ff-3594dbf19004",
+      "archived": true,
+      "scope": "mixed_room_history",
+      "status": "visible_pages_exhausted_relevance_screened",
+      "pages": 85,
+      "total_visible_items": 279,
+      "retained_matches": 26,
+      "notes": "No additional animation-production error; unrelated service incidents excluded."
+    }
+  ],
+  "unresolved_leads": [
+    {
+      "name": "إعادة بناء المشروع / 45s15s / HTML three.js",
+      "status": "May overlap AnswerAct recovered histories; canonical mapping not established, not declared audited separately."
+    },
+    {
+      "name": "New chat / four long5–12min videos, shorts<120s",
+      "status": "Historical lead provided at15:02; canonical conversation ID unavailable; requirements only, no defect asserted."
+    },
+    {
+      "name": "حكاوي الحارة",
+      "status": "Prompt artifact retrieved; full conversation unavailable."
+    },
+    {
+      "name": "Static product layouts",
+      "status": "Not imported absent demonstrated animation relevance; no claim entire design history audited."
+    }
+  ],
+  "summary": {
+    "related_histories_fully_paginated": 17,
+    "related_pages": 566,
+    "related_returned_items": 1944,
+    "explicitly_truncated_related_items": 8,
+    "empty_content_tasks_exhausted": 16,
+    "historical_case_records": 125,
+    "record_count_warning": "Includes grouped occurrences and one causal supplement; not125unique independently verified defects."
+  }
+}

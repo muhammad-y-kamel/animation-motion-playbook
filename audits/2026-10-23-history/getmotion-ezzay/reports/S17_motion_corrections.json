@@ -1,0 +1,115 @@
+{
+  "id": "S17",
+  "status": "source_correction_frozen_ready_for_rerender",
+  "created_utc": "2026-10-23T04:49:47.510780+00:00",
+  "confirmed_original_issue": {
+    "body_stage": "wing",
+    "stage_interval_seconds": [
+      14.32,
+      27.84
+    ],
+    "static_mechanism_interval_seconds": [
+      17.12,
+      27.84
+    ],
+    "duration_seconds": 10.72,
+    "evidence": "working/superseded_first_export_S17"
+  },
+  "scope": "Only body wing stage in diagrams/S17.cjs. All other shots and cover delegate unchanged to the existing reviewed group_b implementation.",
+  "before_sha256": {
+    "diagrams/S17.cjs": "ac0549de55182ee36baceae7bc8152b22a1435487daba15759781cd2e3220d20",
+    "diagrams/group_b.cjs": "ab248ee39e188a42c46d626022fbcee2a327f6b5cba028ce1a3ae8fae05fcee4",
+    "jobs/S17.json": "68417a9dd35e5408a8480fe056e6039a177cc19ac87beb80ca749e3bf7d66d70",
+    "audio/S17/narration.mp3": "d86af0ca05e6241866e5dba9f3f588f9a0a31f0398c56a4ff9a1c2e6b56dd402"
+  },
+  "after_sha256": {
+    "diagrams/S17.cjs": "0640201e3c353b3d78903fa8f3ff134cd1aebcf51531d39c6ad0f92e3abeff62",
+    "diagrams/group_b.cjs": "ab248ee39e188a42c46d626022fbcee2a327f6b5cba028ce1a3ae8fae05fcee4",
+    "jobs/S17.json": "68417a9dd35e5408a8480fe056e6039a177cc19ac87beb80ca749e3bf7d66d70",
+    "audio/S17/narration.mp3": "d86af0ca05e6241866e5dba9f3f588f9a0a31f0398c56a4ff9a1c2e6b56dd402"
+  },
+  "unchanged_files_verified": [
+    "diagrams/group_b.cjs",
+    "jobs/S17.json",
+    "audio/S17/narration.mp3"
+  ],
+  "changes": [
+    "Trace upper wing profile during actual design phrase 15.88–17.04s.",
+    "Grow upward force arrow with physical-force phrase 17.36–19.08s; show lift label at spoken 19.08s.",
+    "Advance to cross-section at 20.16s, reveal leader at actual word مقطع 21.52–21.84s, and airfoil name at 22.56s.",
+    "Reveal the previously reviewed angle reference geometry at 24.32–25.36s.",
+    "Trace external airflow above and below the solid wing during actual phrase 25.60–27.76s. No streamline intersects the wing.",
+    "No audio, script, subtitle, job, cover or shared module changed."
+  ],
+  "actual_word_cue_report": "quality/S17_motion_cues.json",
+  "validation": {
+    "node_syntax_check_passed": true,
+    "caption_free_isolation_checks": "quality/S17_motion_isolation_checks.json",
+    "unchanged_full_frame_samples": 10,
+    "changing_mechanism_pairs": 5,
+    "source_preview_frames_viewed": 26,
+    "source_preview_pages_viewed": 5,
+    "source_preview_times_seconds": [
+      0,
+      8.5,
+      14.4,
+      15.9,
+      16.5,
+      17.4,
+      18.3,
+      19.4,
+      20.2,
+      21.6,
+      21.9,
+      22.7,
+      23.5,
+      24.4,
+      24.9,
+      25.4,
+      25.7,
+      26.4,
+      27.2,
+      27.8,
+      28.2,
+      34.4,
+      40,
+      47.5,
+      52,
+      57
+    ],
+    "full_resolution_frames_viewed_seconds": [
+      19.4,
+      27.8
+    ],
+    "preview_observations": [
+      "Wing outline, upward force, section identification, angle and outside airflow evolve in narration order.",
+      "Text and arrows do not clip or cross labels/captions in inspected preview frames.",
+      "Airflow stays outside solid wing; later downwash, pressure and lift mechanism unchanged."
+    ],
+    "preview_sheets": [
+      {
+        "file": "working/final_render/corrections/S17/S17_motion_page_01.jpg",
+        "sha256": "48a2953877e1e1d622e2919787dbf9fab4e9fc6263c5df0ed8084ab5d3c697c5"
+      },
+      {
+        "file": "working/final_render/corrections/S17/S17_motion_page_02.jpg",
+        "sha256": "f4be2d4eb651e75c603017768756a27103607ce5be310a80421657aa2ae07cfb"
+      },
+      {
+        "file": "working/final_render/corrections/S17/S17_motion_page_03.jpg",
+        "sha256": "78f77e6570cbf8679ea2feacfc18f08a6a0511e950b7e2a5f06e13f0fe951b86"
+      },
+      {
+        "file": "working/final_render/corrections/S17/S17_motion_page_04.jpg",
+        "sha256": "205267588134650ffe8fde9e520d38adde4aa673533240abbba46c8bd37ead36"
+      },
+      {
+        "file": "working/final_render/corrections/S17/S17_motion_page_05.jpg",
+        "sha256": "5734350ceb205c9305dbba77ae5cecc3315c1ab82c85c5a68b7d8e2f31f9bef6"
+      }
+    ]
+  },
+  "final_export_accepted": false,
+  "final_export_status": "Requires new export and actual MP4 visual acceptance; original unaccepted exports archived by root.",
+  "limitations": "Source frame samples plus targeted deterministic pixel comparisons, not full final-video playback or human audio listening."
+}

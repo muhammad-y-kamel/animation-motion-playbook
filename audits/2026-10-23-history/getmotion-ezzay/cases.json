@@ -1,0 +1,2040 @@
+[
+  {
+    "id": "HIST-GM-01",
+    "project": "GetMotion",
+    "title": "GMX10 title / 3D background collision",
+    "observed_error": "Background geometry line touched the two-line السعر والتسليم title.",
+    "cause": "Unknown unless explicitly stated in observed_error",
+    "attempts_and_outcome": "Shift scene downward while titles stay fixed; compare AR/EN tight clearances, previous failure frame + neighbours; rerender and selected exported frames reported clear.",
+    "status": "assistant_reported_repair_not_independently_verified",
+    "sources": [
+      {
+        "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+        "item_id": "msg_04ec605e1f3eda98016adb0e6612548191b0366f563e86390e",
+        "role": "assistant",
+        "text": "ظهر تداخل في لقطة من GMX10 العربي: خط من المجسّمات بيلمس حروف عنوان «السعر والتسليم». هصحّح المسافة حول العنوان وأعيد تصدير النسخة، ثم أراجع موضع المشكلة من جديد قبل الحفظ.\n",
+        "truncated": false
+      },
+      {
+        "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+        "item_id": "msg_04ec605e1f3eda98016adb0eec984481918d733ec080e06b0d",
+        "role": "assistant",
+        "text": "المشكلة محددة في تقاطع خط خلفي مع عنوان من سطرين. التصحيح الجاري هيحافظ على تفاصيل المشهد مع توفير مسافة واضحة حول الكتابة، وهنراجع نفس الموضع واللقطات القريبة منه بعد إعادة التصدير.\n",
+        "truncated": false
+      },
+      {
+        "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+        "item_id": "msg_04ec605e1f3eda98016adb0fec53d481919fe13f9907eab8aa",
+        "role": "assistant",
+        "text": "التصحيح المختار هو إزاحة المشهد لأسفل مع تثبيت العناوين، للحفاظ على تفاصيله وحركته. الفحص الحسابي يشير لمسافة كافية حول الكتابة؛ جاري التأكد من اللقطات وحدود النص السفلي قبل إعادة التصدير.\n",
+        "truncated": false
+      },
+      {
+        "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+        "item_id": "msg_04ec605e1f3eda98016adb1088011881918b81c9c30b3df2fd",
+        "role": "assistant",
+        "text": "فحص التصحيح مرّ، ولقطة التداخل السابقة بقت واضحة مع بقاء الحركة والصوت كما هما. بفحص الآن لقطات السعر والتسليم والنهاية بعد إزاحة المشهد، ثم أبدأ إعادة التصدير الكامل.\n",
+        "truncated": false
+      },
+      {
+        "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+        "item_id": "msg_04ec605e1f3eda98016adb11c819ac8191a8963e8f9b0012a5",
+        "role": "assistant",
+        "text": "راجعت موضع المشكلة في الفيديو الجديد واللقطتين المجاورتين له: التداخل اختفى، والسعر والتسليم والنهاية واضحين. باقي إنهاء مراجعة اللقطات المختارة وتجهيز ملفات الحفظ.\n",
+        "truncated": false
+      },
+      {
+        "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+        "item_id": "msg_04ec605e1f3eda98016adb128054148191bf638053f6c1d36e",
+        "role": "assistant",
+        "text": "مراجعة GMX10 العربي المصحّح اكتملت بدون مشكلة ظاهرة في اللقطات المفحوصة. بحفظ الفيديو ونسخة التعديل والمصدر الآن.\n",
+        "truncated": false
+      }
+    ],
+    "user_feedback": []
+  },
+  {
+    "id": "HIST-GM-02",
+    "project": "GetMotion",
+    "title": "GMX02 shadow stripes / depth precision",
+    "observed_error": "Flat logo shadow intersects floor during disappearance; stripes in two nearby frames, both languages.",
+    "cause": "Unknown unless explicitly stated in observed_error",
+    "attempts_and_outcome": "Limited camera-depth precision adjustment; compare shadow, test near clipping and unchanged framing, rerender both languages. Earlier AR acceptance superseded by defect discovery.",
+    "status": "assistant_reported_repair_not_independently_verified",
+    "sources": [
+      {
+        "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+        "item_id": "msg_04ec605e1f3eda98016adafadf41d881918dd9560408696186",
+        "role": "assistant",
+        "text": "الملاحظة ظهرت في لقطتين متقاربتين: خطوط خفيفة في ظل الشعار أثناء انتقاله. أوقفت حفظ النسخة الإنجليزية مؤقتًا عشان أحدد السبب وأصلحها لو كانت مشكلة في الرسم.\n",
+        "truncated": false
+      },
+      {
+        "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+        "item_id": "msg_04ec605e1f3eda98016adafb1735f48191a6638076372c154f",
+        "role": "assistant",
+        "text": "السبب اتحدد في طبقة الظل المسطّحة أثناء اختفاء الشعار، وليس في النص أو الصوت. بجرب تعديلًا محدودًا على نفس اللقطة للتأكد من اختفاء الخطوط قبل إعادة التصدير.\n",
+        "truncated": false
+      },
+      {
+        "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+        "item_id": "msg_04ec605e1f3eda98016adafb935df8819199fcd3815bff2081",
+        "role": "assistant",
+        "text": "اتأكدنا إن الخطوط عيب ناتج عن تداخل الظل مع سطح الأرضية. بجرب إصلاح دقة العمق في كاميرا GMX02؛ الهدف إزالة العيب مع الحفاظ على شكل المشهد وتوقيته.\n",
+        "truncated": false
+      },
+      {
+        "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+        "item_id": "msg_04ec605e1f3eda98016adafbd936e8819180bb02095a3bc217",
+        "role": "assistant",
+        "text": "التعديل أزال الخطوط في لقطة الاختبار وحافظ على موضع الظل. العيب موجود أيضًا في نفس انتقال النسخة العربية، فهعيد تصدير النسختين بعد تثبيت الإصلاح وأستبدل العربية المحفوظة بنسختها المصححة.\n",
+        "truncated": false
+      },
+      {
+        "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+        "item_id": "msg_04ec605e1f3eda98016adafca28f248191883002a3037aaef4",
+        "role": "assistant",
+        "text": "فحص الكاميرا نجح: العناصر بعيدة عن حد القص الجديد، وتأطير المشهد لم يتغير. الإصلاح اتثبت، وجاري إخراج أربع لقطات تأكيد قبل إعادة تصدير النسختين.\n",
+        "truncated": false
+      },
+      {
+        "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+        "item_id": "msg_04ec605e1f3eda98016adb01423ef881918d4850407a46586e",
+        "role": "assistant",
+        "text": "اتأكدت من اختفاء الخطوط في فريمَي الظل داخل الفيديو العربي الجديد. لقطات السعر والتسليم والنهاية واضحة أيضًا؛ جاري إنهاء بقية المراجعة المختارة قبل تحديث الملفات.\n",
+        "truncated": false
+      },
+      {
+        "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+        "item_id": "msg_04ec605e1f3eda98016adb06cbcda481919c482cc321d30a30",
+        "role": "assistant",
+        "text": "اتأكدت إن الخطوط اختفت من فريمَي الظل في MP4 الإنجليزي الجديد أيضًا. الفحص التقني نجح، ولقطات السعر والتسليم والنهاية واضحة؛ جاري إنهاء بقية المراجعة المختارة.\n",
+        "truncated": false
+      },
+      {
+        "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+        "item_id": "msg_04ec605e1f3eda98016adaf5a5cc6081919434a784ae4befc0",
+        "role": "assistant",
+        "text": "المراجعة المختارة لـGMX02 العربي انتهت من غير عيب بصري يمنع التسليم. اتسجلت ملاحظة إن فيه تكوين ثابت تقريبًا لمدة ٣٫٤ ثانية ضمن عرض المميزات؛ جاري تجهيز ملفات الحزمة.\n",
+        "truncated": false
+      }
+    ],
+    "user_feedback": []
+  },
+  {
+    "id": "HIST-GM-03",
+    "project": "GetMotion",
+    "title": "GMX07 self-intersecting morph",
+    "observed_error": "English then Arabic shape boundaries cross; point ordering, not compression, identified as cause.",
+    "cause": "Unknown unless explicitly stated in observed_error",
+    "attempts_and_outcome": "Correct morph path across eight transitions; source checks then both-language rerender and selected-frame review.",
+    "status": "assistant_reported_repair_not_independently_verified",
+    "sources": [
+      {
+        "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+        "item_id": "msg_04ec605e1f3eda98016adaccd534e08191b8ef95881179345f",
+        "role": "assistant",
+        "text": "ظهرت مشكلة واضحة في تحوّل أحد الأشكال في GMX07 الإنجليزي: حدود الشكل بتتقاطع أثناء الحركة. أوقفت تجهيز تسليمه، وهصحّح التحوّل وأفحص أثره على العربي كمان قبل متابعة بقية الفيديوهات.\n",
+        "truncated": false
+      },
+      {
+        "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+        "item_id": "msg_04ec605e1f3eda98016adacd1b03b481918a9b5e4637e1b3a6",
+        "role": "assistant",
+        "text": "ثبت إن التقاطع في شكل التحوّل نفسه، مش بسبب ضغط الفيديو. التصحيح مركز على مسار التحوّل، مع الحفاظ على التوقيت والتسجيل الصوتي؛ وبفحص نفس الحركة في النسخة العربية المحفوظة.\n",
+        "truncated": false
+      },
+      {
+        "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+        "item_id": "msg_04ec605e1f3eda98016adacd90800881919877174a79d09a13",
+        "role": "assistant",
+        "text": "اتأكدت إن نفس العيب موجود في العربي أيضًا. السبب اتحدد في ترتيب نقاط الأشكال أثناء التحوّل، والتصحيح بيشمل التحوّلات المتأثرة في النسختين. هعيد تصدير العربي وأحدّث ملفاته المحفوظة، ثم أكمّل الإنجليزي.\n",
+        "truncated": false
+      },
+      {
+        "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+        "item_id": "msg_04ec605e1f3eda98016adacddedbcc819187dfe5134a859e68",
+        "role": "assistant",
+        "text": "التصحيح المقترح نجح في فحص التحوّل الذي ظهر فيه العيب، من غير تقاطع في حدوده. المراجعة ممتدة الآن لباقي التحوّلات المتأثرة قبل إعادة التصدير، مع إبقاء الصوت والتوقيت كما هما.\n",
+        "truncated": false
+      },
+      {
+        "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+        "item_id": "msg_04ec605e1f3eda98016adacf61a854819198a04e17d0f6dc4a",
+        "role": "assistant",
+        "text": "تصحيح التحوّلات خلص واتثبت في المصدر. هعيد تصدير نسختَي GMX07 وأراجع اللقطات اللي ظهر فيها العيب، ثم أحفظ النسخ المصححة وأكمل بقية المجموعة.\n",
+        "truncated": false
+      },
+      {
+        "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+        "item_id": "msg_04ec605e1f3eda98016adacfbfe0a08191ab1ebd77f76079b5",
+        "role": "assistant",
+        "text": "النسخة العربية المصححة بتتصدّر الآن. زوّدت لقطات الفحص حول التحوّلات الثمانية المتأثرة، عشان أتأكد إن الإصلاح ظهر في ملف الفيديو نفسه.\n",
+        "truncated": false
+      },
+      {
+        "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+        "item_id": "msg_04ec605e1f3eda98016adad1a15f548191afaad7ffb88afd59",
+        "role": "assistant",
+        "text": "مراجعة الإنجليزي المصحح خلصت من غير مشكلة في اللقطات المفحوصة. بحفظه الآن مع ملف التعديل والمصدر.\n",
+        "truncated": false
+      }
+    ],
+    "user_feedback": []
+  },
+  {
+    "id": "HIST-GM-04",
+    "project": "GetMotion",
+    "title": "Arabic connected glyph gaps GM001 / GM067",
+    "observed_error": "Path-fill handling introduced small gaps at overlaps of connected Arabic letters.",
+    "cause": "Unknown unless explicitly stated in observed_error",
+    "attempts_and_outcome": "Restrict repair to glyph drawing; pixel comparison reported correction while other pixels/audio/timing unchanged.",
+    "status": "assistant_reported_repair_not_independently_verified",
+    "sources": [
+      {
+        "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+        "item_id": "msg_04ec605e1f3eda98016adab4f2f21081918ef0585d85a355bd",
+        "role": "assistant",
+        "text": "الرندر الحالي عدى ٥٧٪. وفي مراجعة المصادر ظهر احتمال تداخل صغير في مسارات الحروف العربية بأسلوبي GM001 وGM067؛ بفحصه على شكل الحروف الأصلي قبل تثبيت نسخهم النهائية، من غير تغيير الصوت أو توقيته.",
+        "truncated": false
+      },
+      {
+        "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+        "item_id": "msg_04ec605e1f3eda98016adab569c5b481919ae4071a672345b9",
+        "role": "assistant",
+        "text": "اتأكد سبب مشكلة اتصال بعض الحروف العربية: طريقة ملء المسارات كانت بتعمل فراغات صغيرة عند تداخلها. الإصلاح محدود في رسم الحروف نفسها، وبنقارنه بالصور السابقة للتأكد إن العناصر الأخرى ثابتة.",
+        "truncated": false
+      },
+      {
+        "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+        "item_id": "msg_04ec605e1f3eda98016adab6dc9fa481919e250b34ea156ceb",
+        "role": "assistant",
+        "text": "إصلاح الحروف العربية بقى مؤكدًا بمقارنة البكسلات، مع بقاء الصوت والتوقيت كما هما. وفي GMX04 بكمّل ضبط الدومينو الأكبر بحيث يظل هو نفسه جزءًا من الكلمة بعد التحول، مع إزالة تداخل ظهر في لقطة التجربة.",
+        "truncated": false
+      }
+    ],
+    "user_feedback": []
+  },
+  {
+    "id": "HIST-GM-05",
+    "project": "GetMotion",
+    "title": "GM005 vertical refraction seam",
+    "observed_error": "Unexpected vertical line inside glass lens attributed to refraction-map extension.",
+    "cause": "Unknown unless explicitly stated in observed_error",
+    "attempts_and_outcome": "Repair extension; six full-resolution source frames reported clean, both-language targets.",
+    "status": "assistant_reported_repair_not_independently_verified",
+    "sources": [
+      {
+        "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+        "item_id": "msg_04ec605e1f3eda98016adaad75cca481919195ba04092c173e",
+        "role": "assistant",
+        "text": "اتصلح سبب خط رأسي غير مقصود كان ظاهرًا داخل العدسة الزجاجية في GM005. المشكلة كانت في تمديد خريطة الانكسار، وجاري فحص اللقطات المتأثرة بالعربي والإنجليزي. نسخة الحفظ الجديدة للمشروع بتتجهز الآن.\n",
+        "truncated": false
+      },
+      {
+        "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+        "item_id": "msg_04ec605e1f3eda98016adaad8f80848191a8c49e3d8d69fd6a",
+        "role": "assistant",
+        "text": "نسخة الاسترجاع الجديدة جاهزة، وبحفظها الآن مع المصادر والأصول والتوقيتات وتقارير المراجعة. وتصحيح العدسة في GM005 اتراجع في ست لقطات بدقتها الأصلية؛ الخط غير المقصود اختفى.\n",
+        "truncated": false
+      }
+    ],
+    "user_feedback": []
+  },
+  {
+    "id": "HIST-GM-06",
+    "project": "GetMotion",
+    "title": "Opening choreography does not implement brief",
+    "observed_error": "GMX01 camera crossing/arrival; GMX04 domino identity/collision; GMX05 reverse opening; GMX06 glyph-to-depth geometry needed repair.",
+    "cause": "Unknown unless explicitly stated in observed_error",
+    "attempts_and_outcome": "GMX01 crossing clarified and arriving object fully visible; GMX04 larger domino remains part of transformed word; GMX06 letters become depth surfaces traversed by camera; GMX05 completion claimed without detailed method.",
+    "status": "assistant_reported_repair_not_independently_verified",
+    "sources": [
+      {
+        "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+        "item_id": "msg_04ec605e1f3eda98016adaae254954819188269fca6b1f507c",
+        "role": "assistant",
+        "text": "المراجعة الإضافية كشفت حركتين افتتاحيتين محتاجتين تصحيح في GMX04 وGMX05، وبنصلحهما قبل تصديرهما. المصدر والتوقيتات محفوظة، والعمل على الفيديوهات الأخرى مستمر بالتوازي؛ GMX01 يظل الفيديو الجاري إنهاؤه أولًا.\n",
+        "truncated": false
+      },
+      {
+        "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+        "item_id": "msg_04ec605e1f3eda98016adab178dadc819185421252a890af31",
+        "role": "assistant",
+        "text": "راجعت إصلاح حركة الكاميرا في افتتاحية GMX01؛ العبور بقى واضح، والعنصر الأساسي ظاهر كامل أثناء الوصول. النسخ الأربع المحفوظة موجودة، وبكمّل باقي التصديرات مع حفظ كل نسخة وملفات تعديلها فور انتهاء مراجعتها.",
+        "truncated": false
+      },
+      {
+        "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+        "item_id": "msg_04ec605e1f3eda98016adab257fc2c8191b431cc5ea29c9427",
+        "role": "assistant",
+        "text": "التصدير العربي الجديد لـGMX01 شغّال الآن، ومعاه مؤثرات الحركة المحدّثة. أثناء التصدير، براجع إصلاحين محددين في GMX04 وGMX06 علشان افتتاحياتهم تنفّذ الحركة المطلوبة في الوصف قبل بدء تصديرهم.",
+        "truncated": false
+      },
+      {
+        "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+        "item_id": "msg_04ec605e1f3eda98016adab64ba3308191a4454f4723c0c457",
+        "role": "assistant",
+        "text": "الرندر وصل لحوالي ٨٢٪. وإصلاح GMX06 انتهى: الحروف نفسها بقت تتحول لأسطح لها عمق، والكاميرا تمر عليها كما هو مطلوب. باقي مشاهده طابقت النسخة السابقة؛ بحدّث الآن مؤثر الاتصال الجديد في الصوت.",
+        "truncated": false
+      },
+      {
+        "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+        "item_id": "msg_04ec605e1f3eda98016adab6dc9fa481919e250b34ea156ceb",
+        "role": "assistant",
+        "text": "إصلاح الحروف العربية بقى مؤكدًا بمقارنة البكسلات، مع بقاء الصوت والتوقيت كما هما. وفي GMX04 بكمّل ضبط الدومينو الأكبر بحيث يظل هو نفسه جزءًا من الكلمة بعد التحول، مع إزالة تداخل ظهر في لقطة التجربة.",
+        "truncated": false
+      },
+      {
+        "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+        "item_id": "msg_04ec605e1f3eda98016adabb6fc3488191800cf32036e53608",
+        "role": "assistant",
+        "text": "وصل تصدير GMX01 الإنجليزي إلى نحو 55%. وفي GMX04 اتراجع ترتيب اصطدام الحروف واتصلح تداخل صغير بينها؛ فحص الصور الأخيرة جارٍ قبل اعتماد المصدر للتصدير.\n",
+        "truncated": false
+      },
+      {
+        "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+        "item_id": "msg_04ec605e1f3eda98016adab1c36e048191ac5c13247f475767",
+        "role": "assistant",
+        "text": "إصلاح GMX05 خلص، والمسارات الصوتية لـGM001 وGM067 اتراجعت بعد رجوع التشغيل وكلها سليمة. كمان ربطت تقارير الفحص ببصمة ملف الفيديو نفسه، علشان أي تعديل جديد ما يتسلّمش بتقرير يخص تصدير أقدم.",
+        "truncated": false
+      }
+    ],
+    "user_feedback": []
+  },
+  {
+    "id": "HIST-GM-07",
+    "project": "GetMotion",
+    "title": "Editable HTML differs from render / missing glyph outlines",
+    "observed_error": "Preview bundle missing contours for 3D-letter styles; GMX02 composed-shadow transition needed preview parity.",
+    "cause": "Unknown unless explicitly stated in observed_error",
+    "attempts_and_outcome": "Embed glyph outlines and repair composed shadow; independent-folder offline playback/seek/audio tests planned per file. GMX06 preview repair also under test.",
+    "status": "assistant_reported_repair_not_independently_verified",
+    "sources": [
+      {
+        "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+        "item_id": "msg_04ec605e1f3eda98016adaaf104dac81919787c38f16c908bb",
+        "role": "assistant",
+        "text": "اتصلحت نقطتان في تجهيز ملفات المعاينة: تضمين حدود الحروف اللازمة للأساليب المجسّمة، وإظهار انتقال الظل المركّب في GMX02 كما يظهر في الرندر. وكل ملف HTML هيتفحص منفصلًا بعد التصدير، من مجلد جديد ومن غير اتصال خارجي.\n",
+        "truncated": false
+      },
+      {
+        "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+        "item_id": "msg_04ec605e1f3eda98016adaae9e70e08191b35ddaa4a5b7acf2",
+        "role": "assistant",
+        "text": "النسخة المحدثة من المشروع بقت متاحة، والعمل الحالي على إصلاح حركات محددة في الافتتاحيات قبل الرندر. كمان بفحص ملفات المعاينة القابلة للتعديل، خصوصًا الأساليب اللي بتستخدم الحروف كأجسام ثلاثية الأبعاد، للتأكد إن الأصول اللازمة مضمّنة معها.\n",
+        "truncated": false
+      },
+      {
+        "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+        "item_id": "msg_04ec605e1f3eda98016adad362eff481918b22da60b4ed65e9",
+        "role": "assistant",
+        "text": "مراجعة GMX06 مستمرة، خصوصًا بداية الحروف وانتقالات الأسلوب. إصلاح ملف التعديل تحت الاختبار الآن؛ بعدها أحفظ العربي وأبدأ الإنجليزي.\n",
+        "truncated": false
+      }
+    ],
+    "user_feedback": []
+  },
+  {
+    "id": "HIST-GM-08",
+    "project": "GetMotion",
+    "title": "UI preview path and title crossings",
+    "observed_error": "معاينة starts from wrong position; film path crosses title; detail cards/play button placement adjusted.",
+    "cause": "Unknown unless explicitly stated in observed_error",
+    "attempts_and_outcome": "Positions/path corrected then corrected frame review; preserve content and soundtrack.",
+    "status": "assistant_reported_repair_not_independently_verified",
+    "sources": [
+      {
+        "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+        "item_id": "msg_04ec605e1f3eda98016ada9c779bd08191b245e1503d8aeb4b",
+        "role": "assistant",
+        "text": "المراجعة البصرية لأول أسلوب كشفت حاجتين واتصلحوا: كلمة «معاينة» كانت بتتحرك من موضع غلط، ومسار نقل الفيلم كان بيعدّي فوق العنوان. اتعدل كمان موضع كروت التفاصيل وزر التشغيل، وبراجع الفريمات المصححة قبل بدء تصدير النسخة العربية كاملة.\n",
+        "truncated": false
+      }
+    ],
+    "user_feedback": []
+  },
+  {
+    "id": "HIST-GM-09",
+    "project": "GetMotion",
+    "title": "Download failure and lost final delivery",
+    "observed_error": "User could not download; assistant attributed missing 40-video finals to workspace maintenance. Earlier local loss occurred at recorded13 exports too.",
+    "cause": "Unknown unless explicitly stated in observed_error",
+    "attempts_and_outcome": "Old-link resend cannot recover bytes; early source+one-video checkpoint only; user requested full rebuild and durable subscription storage. Rebuild latest snapshot24saved, not all40 recovered.",
+    "status": "user_reported_failure_with_partial_rebuild",
+    "sources": [
+      {
+        "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+        "item_id": "01a165d2-cf85-767f-91e8-904d25845a78",
+        "role": "user",
+        "text": "حدث خطا وقت التحميل ارسل الملفات مرة اخرى",
+        "truncated": false
+      },
+      {
+        "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+        "item_id": "msg_01096a014f44d8d7016ada946859848191885a76e520dec470",
+        "role": "assistant",
+        "text": "لقيت إن ملفات التحميل القديمة اتشالت أثناء صيانة مساحة العمل، فإعادة نفس الروابط مش هتحل المشكلة. براجع النسخ المحفوظة وملفات الاستعادة عشان أرجّع الملفات نفسها.",
+        "truncated": false
+      },
+      {
+        "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+        "item_id": "msg_04ec605e1f3eda98016ada95661e68819199f275fdd66631c3",
+        "role": "assistant",
+        "text": "آسف يا يحيى. اتأكدت إن **ملفات التسليم النهائية اتشالت أثناء صيانة مساحة العمل**، وبحثت في الملفات المحفوظة ولم أجد نسخة من حزمة الـ40 فيديو. الروابط السابقة مش هتشتغل حاليًا.\n\nاللي قدرت أسترجعه وأتحقق من سلامته هو **نسخة احتياطية مبكرة من المشروع، تحتوي على المصادر القديمة وفيديو واحد فقط**:\n\n[GetMotion_Checkpoint_1Export_Preserved_20261022.zip](sandbox:/workspace/scratch/b240b0171589/GetMotion_Checkpoint_1Export_Preserved_20261022.zip)\n\n**هل اكتمل عندك تنزيل أي أرشيف من الثلاثة قبل ظهور الخطأ، خصوصًا ملف المشروع `GetMotion_Editable_Project.zip`؟** لو موجود، ارفعه هنا لاستعادة محتواه. ولو ولا ملف اكتمل، فالنسخ النهائية المفقودة هتحتاج إعادة بناء من المصدر المتبقي؛ إعادة إرسال نفس الروابط مش هترجّعها.",
+        "truncated": false
+      },
+      {
+        "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+        "item_id": "01a165e2-7430-722f-8ea2-afd0c68b75eb",
+        "role": "user",
+        "text": "مع ان عندي مساحة في اشتراكي كنت تقدى تحفظ عليها\n\nدلوقتي عيد المهمة من اولها مرة أخرى ",
+        "truncated": false
+      },
+      {
+        "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+        "item_id": "msg_0f2531c904aa8fe8016ada06e91b9c8191b81230d2f499bd22",
+        "role": "assistant",
+        "text": "هكمل للنهاية. لكن التحقق كشف مشكلة لازم أوضحها: صيانة مساحة العمل مسحت الملفات المحلية اللي كنا شغالين عليها. بحاول أسترجع النسخ المحفوظة وملفات المشروع قبل استئناف التصدير؛ رقم الـ13 كان آخر تقدم مسجّل قبل المشكلة.",
+        "truncated": false
+      }
+    ],
+    "user_feedback": [
+      {
+        "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+        "item_id": "01a165d2-cf85-767f-91e8-904d25845a78",
+        "role": "user",
+        "text": "حدث خطا وقت التحميل ارسل الملفات مرة اخرى",
+        "truncated": false
+      },
+      {
+        "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+        "item_id": "01a165e2-7430-722f-8ea2-afd0c68b75eb",
+        "role": "user",
+        "text": "مع ان عندي مساحة في اشتراكي كنت تقدى تحفظ عليها\n\nدلوقتي عيد المهمة من اولها مرة أخرى ",
+        "truncated": false
+      }
+    ]
+  },
+  {
+    "id": "HIST-GM-10",
+    "project": "GetMotion",
+    "title": "Disk / render resource failure",
+    "observed_error": "Final export encountered insufficient workspace disk; separate memory-pressure stop reported in full history.",
+    "cause": "Unknown unless explicitly stated in observed_error",
+    "attempts_and_outcome": "Disk space later reported sufficient; memory restart from last good chunk, then sequential export to reduce pressure. No source of space recovery established here.",
+    "status": "assistant_reported_repair_not_independently_verified",
+    "sources": [
+      {
+        "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+        "item_id": "msg_04ec605e1f3eda98016ada6fdfafa08191b98022479ec258c8",
+        "role": "assistant",
+        "text": "مكمل للنهاية. التصدير الأخير واجه مشكلة في المساحة المتاحة؛ بحلّها مع الحفاظ على الشغل المنجز، وبعدها أكمّل فحص الملفات وتجهيز روابط الفيديوهات وملفات التعديل.",
+        "truncated": false
+      },
+      {
+        "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+        "item_id": "msg_04ec605e1f3eda98016ada716a0cb081919e163e9bd5744e4c",
+        "role": "assistant",
+        "text": "مشكلة المساحة اتحلّ جزء كبير منها، والتصدير الأخير مستمر. براجع كمان أن حزمة التسليم تشير لنفس نسخ الفيديوهات التي اتفحصت، وأن ملفات التعديل تفتح بأصولها وصوتها الصحيح.",
+        "truncated": false
+      },
+      {
+        "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+        "item_id": "msg_04ec605e1f3eda98016ada73bec44c8191bdb5afa5d820d020",
+        "role": "assistant",
+        "text": "مشكلة المساحة اتحلّت، وبقى فيه مساحة كافية لحزمة التسليم كاملة. هسلّم الفيديوهات كملفات MP4 منفردة، ومعاها ملفات التعديل بالأصول والصوت ودليل التشغيل، ونسخة مضغوطة لتسهيل التنزيل.",
+        "truncated": false
+      }
+    ],
+    "user_feedback": [],
+    "additional_sources": [
+      {
+        "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+        "item_id": "msg_04ec605e1f3eda98016ada562b9a0c8191b782024ee65f996d",
+        "role": "assistant",
+        "text": "اختبار تقسيم الرندر نجح: الـ240 فريمًا في الاختبار طابقت التصدير المتسلسل فريمًا بفريم، والصوت طابقه أيضًا. هستخدم الطريقة دي في الفيديو الزجاجي لتوزيع الشغل وتسريع التصدير، مع نفس الدقة وعدد عينات الحركة.\n",
+        "truncated": false
+      },
+      {
+        "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+        "item_id": "msg_0ae89dce891b56c8016ad91ee2c7208191b86fbce946791a11",
+        "role": "assistant",
+        "text": "حصل توقف في التصدير بسبب ضغط الذاكرة. الأجزاء اللي اكتملت محفوظة، واستأنفت التصدير من آخر جزء سليم. وبراجع تشغيل التصديرات بالتوازي علشان أكمل بنفس الجودة من غير تكرار التوقف.\n",
+        "truncated": false
+      },
+      {
+        "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+        "item_id": "msg_04ec605e1f3eda98016ad8ed4c7ab4819185aa98b54e7d5c07",
+        "role": "assistant",
+        "text": "النسخة العربية المحدّثة من تصميم السوستة خلصت التصدير واجتازت فحص الملف كاملًا: 1080×1920، ‏60 إطارًا في الثانية، والصوت كامل. براجع الآن لقطات الانتقال والنهاية من الفيديو الناتج، وبكمل تصدير باقي النسخ بالتتابع لتقليل ضغط الذاكرة.\n",
+        "truncated": false
+      }
+    ]
+  },
+  {
+    "id": "HIST-GM-11",
+    "project": "GetMotion",
+    "title": "GlassPrint cursor / clock collision",
+    "observed_error": "Cursor overlapped clock numeral.",
+    "cause": "Unknown unless explicitly stated in observed_error",
+    "attempts_and_outcome": "Collect cursor path corrections, review English+affected frames before freezing render source.",
+    "status": "assistant_reported_repair_not_independently_verified",
+    "sources": [
+      {
+        "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+        "item_id": "msg_04ec605e1f3eda98016ada5c134a3c819184f82069d81a0286",
+        "role": "assistant",
+        "text": "مكمل للنهاية. خلصت دلوقتي مراجعة النسخة العربية من TypeTrap، وباقي النسخ شغّالة في التصدير. وفي GlassPrint لقيت تداخل صغير بين المؤشر ورقم الساعة، وبنصلحه قبل تثبيت النسخة للتصدير.\n",
+        "truncated": false
+      },
+      {
+        "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+        "item_id": "msg_04ec605e1f3eda98016ada5ac7a440819188982d731113eb48",
+        "role": "assistant",
+        "text": "المراجعة أكدت إن تداخل MorphRail العربي اتصلح في الفيديو المصدّر نفسه، والنصوص الجديدة واضحة. TypeTrap العربي وصل لآخر جزء من الرندر. وفي GlassPrint بنجمع تصحيحات مسار المؤشر ونراجعها قبل تثبيت النسخة التي ستُصدَّر.\n",
+        "truncated": false
+      },
+      {
+        "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+        "item_id": "msg_04ec605e1f3eda98016ada5e9e39248191ae68ed337b62d6bb",
+        "role": "assistant",
+        "text": "تصحيحات مسار المؤشر في GlassPrint خلصت، والنسخة الحالية دخلت مراجعة اللقطات المتأثرة والنسخة الإنجليزية. جهّزت كمان فهرسًا واضحًا لملفات التعديل، بحيث كل أسلوب يشير إلى مواصفاته الحالية وتظهر المسودات القديمة بصفتها مسودات.\n",
+        "truncated": false
+      }
+    ],
+    "user_feedback": []
+  },
+  {
+    "id": "HIST-GM-12",
+    "project": "GetMotion",
+    "title": "MetricLoad transition word overlap",
+    "observed_error": "Two words overlapped during one Arabic transition in actual MP4.",
+    "cause": "Unknown unless explicitly stated in observed_error",
+    "attempts_and_outcome": "Exclude old export; correct source transition; check corrected frames and queue both affected versions for rerender.",
+    "status": "assistant_reported_repair_not_independently_verified",
+    "sources": [
+      {
+        "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+        "item_id": "msg_04ec605e1f3eda98016ada65789c608191ada8bf695a8dccca",
+        "role": "assistant",
+        "text": "مراجعة الفيديو الفعلي لـMetricLoad أظهرت تداخلًا بين كلمتين في انتقال واحد. بصحّح الانتقال في المصدر وبعيد تصدير النسختين المتأثرتين؛ باقي الفيديوهات مستمرة، والنسخة التي ظهر فيها العيب مستبعدة من التسليم.\n",
+        "truncated": false
+      },
+      {
+        "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+        "item_id": "msg_04ec605e1f3eda98016ada66e5214c81918c084b38de0bbc0d",
+        "role": "assistant",
+        "text": "مراجعة TinyDomino الإنجليزي انتهت من غير عيب جديد ظاهر في اللقطات المفحوصة. وتصحيح MetricLoad اتحدد في انتقالات عربية محدودة؛ باقي مشاهده سليمة، وبراجع اللقطات المصححة قبل إعادة التصدير.\n",
+        "truncated": false
+      },
+      {
+        "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+        "item_id": "msg_04ec605e1f3eda98016ada6774e15c8191ad9548162e9b7c92",
+        "role": "assistant",
+        "text": "تصحيح MetricLoad اتراجع، والتداخل اختفى من اللقطات المصححة؛ النسختان دخلتا قائمة إعادة التصدير. حاليًا عندنا30 فيديو اجتازت الفحص التقني ومراجعة اللقطات المختارة، مع استبعاد النسخ القديمة المتأثرة بالتصحيح.\n",
+        "truncated": false
+      }
+    ],
+    "user_feedback": []
+  },
+  {
+    "id": "HIST-GM-13",
+    "project": "GetMotion",
+    "title": "MorphRail checkmark crosses إرسال",
+    "observed_error": "Confirmation check overlaps إرسال text.",
+    "cause": "Unknown unless explicitly stated in observed_error",
+    "attempts_and_outcome": "Remove candidate from delivery, correct in both languages, rerender; actual Arabic MP4 repair claimed.",
+    "status": "assistant_reported_repair_not_independently_verified",
+    "sources": [
+      {
+        "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+        "item_id": "msg_04ec605e1f3eda98016ada4f98d31081919690a8feb1f251b7",
+        "role": "assistant",
+        "text": "المراجعة كشفت تداخلًا بين علامة تأكيد وكلمة «إرسال» في فيديو MorphRail، فاستبعدت النسخة دي من التسليم مؤقتًا لحد ما يتصلح التداخل وتتراجع النسخة الجديدة. باقي التصدير مستمر، والنسخ السليمة محفوظة.\n",
+        "truncated": false
+      },
+      {
+        "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+        "item_id": "msg_04ec605e1f3eda98016ada535bb9f08191883b3d7b253c21c3",
+        "role": "assistant",
+        "text": "تداخل «إرسال» اتصلح واتراجع في اللغتين، وMorphRail رجع لطابور التصدير. المشاهد الزجاجية في GlassPrint بتاخد وقت أطول في الرندر؛ بجهّز توزيعًا لأجزاء التصدير بالتوازي مع الحفاظ على نفس الدقة والحركة والعينات.\n",
+        "truncated": false
+      },
+      {
+        "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+        "item_id": "msg_04ec605e1f3eda98016ada59c34fa08191987733e1d08ed98d",
+        "role": "assistant",
+        "text": "النسخة العربية المصحّحة من MorphRail خلصت التصدير، وبتتراجع الآن عند الموضع الذي ظهر فيه التداخل سابقًا. النسخة الإنجليزية منها بدأت، وما زال TinyDomino وTypeTrap يتقدّمان في الرندر.\n",
+        "truncated": false
+      },
+      {
+        "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+        "item_id": "msg_04ec605e1f3eda98016ada5ac7a440819188982d731113eb48",
+        "role": "assistant",
+        "text": "المراجعة أكدت إن تداخل MorphRail العربي اتصلح في الفيديو المصدّر نفسه، والنصوص الجديدة واضحة. TypeTrap العربي وصل لآخر جزء من الرندر. وفي GlassPrint بنجمع تصحيحات مسار المؤشر ونراجعها قبل تثبيت النسخة التي ستُصدَّر.\n",
+        "truncated": false
+      },
+      {
+        "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+        "item_id": "msg_04ec605e1f3eda98016ada5d06e6e081918c02d40fcd1d8a4c",
+        "role": "assistant",
+        "text": "TinyDomino العربي اتصدّر كامل، واللقطات اللي راجعتها منه أظهرت الشعار والسعر ومدة التسليم بوضوح. كمان النسختان من MorphRail خلصوا بعد تصحيح التداخل. مستمر في باقي التصدير، وبراجع تعليمات ملفات التعديل علشان تطابق النسخ الحالية.\n",
+        "truncated": false
+      }
+    ],
+    "user_feedback": []
+  },
+  {
+    "id": "HIST-GM-14",
+    "project": "GetMotion",
+    "title": "Other layout collisions retained individually",
+    "observed_error": "Logo vs delivery text; scene number vs logo; animated line vs price; logo symbol vs brand name.",
+    "cause": "Unknown unless explicitly stated in observed_error",
+    "attempts_and_outcome": "Local changes and targeted bilingual checks claimed; exact geometry unspecified, do not invent a shared fix.",
+    "status": "assistant_reported_repair_not_independently_verified",
+    "sources": [
+      {
+        "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+        "item_id": "msg_04ec605e1f3eda98016ada49cbffa88191a25e7f9ae605315d",
+        "role": "assistant",
+        "text": "مكمل للنهاية. حاليًا فيه 10 نسخ اتصدّرت واجتازت الفحوصات التقنية، وباقي النسخ شغّالة في التصدير وتجهيز المشاهد. المراجعة كشفت تداخلًا بين اللوجو ونص مدة التسليم في أحد التصاميم؛ أصلحته وبراجع اللقطات المتأثرة قبل تصديره.\n",
+        "truncated": false
+      },
+      {
+        "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+        "item_id": "msg_04ec605e1f3eda98016ada463491cc81919a05525d49e55525",
+        "role": "assistant",
+        "text": "مراجعة أسلوب السحّاب اكتملت للنسختين، والعناوين والسعر ولقطة النهاية واضحة في اللقطات اللي فحصتها من التصدير. وفي أسلوب الواجهة الخطية ظهر تداخل صغير بين ترقيم المشاهد واللوجو؛ بصحّحه قبل التصدير.",
+        "truncated": false
+      },
+      {
+        "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+        "item_id": "msg_04ec605e1f3eda98016ada419cb2148191b455d4dbc700269f",
+        "role": "assistant",
+        "text": "وصلت دلوقتي لـ٩ نسخ MP4 اجتازت فحص التصدير الكامل. أثناء المراجعة لقيت تداخلًا بين خط متحرك والسعر في أحد الأساليب، وصحّحته؛ وبكمل تصدير ومراجعة بقية النسخ العربية والإنجليزية.\n",
+        "truncated": false
+      },
+      {
+        "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+        "item_id": "msg_04ec605e1f3eda98016ada3aa827ac81918c5f8b93742d2fc9",
+        "role": "assistant",
+        "text": "ظهر تداخل صغير بين علامة الشعار واسمه في لقطة إعادة الاستخدام، وعدّلته. أعيد فحص الجزء المتأثر في اللغتين، وبالتوازي أكمّل أسلوب الرسم بالخطوط الضوئية وربط المؤشر بنتيجة كل ضغطة وسحب.\n",
+        "truncated": false
+      }
+    ],
+    "user_feedback": []
+  },
+  {
+    "id": "HIST-GM-15",
+    "project": "GetMotion",
+    "title": "Logo clipped before entrance in musical-ball style",
+    "observed_error": "Part of logo visible clipped before full entry.",
+    "cause": "Unknown unless explicitly stated in observed_error",
+    "attempts_and_outcome": "Save bad frame, stop English candidate, repair entrance; corrected Arabic encoded sample reported good.",
+    "status": "assistant_reported_repair_not_independently_verified",
+    "sources": [
+      {
+        "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+        "item_id": "msg_04ec605e1f3eda98016ada21f512508191b0d82d7008b4520a",
+        "role": "assistant",
+        "text": "في مراجعة الفيديو المصدَّر لستايل الكرات الموسيقية، ظهر جزء مقصوص من الشعار قبل دخوله الكامل. حفظت اللقطة لتوثيق العيب، وأوقفت النسخة الإنجليزية عشان تتصدر بالإصلاح. باقي التصدير مستمر.\n\n",
+        "truncated": false
+      },
+      {
+        "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+        "item_id": "msg_04ec605e1f3eda98016ada2a9c3d00819185d3359fdbf407b3",
+        "role": "assistant",
+        "text": "مراجعة النسخة العربية من ستايل الآلة الموسيقية اكتملت، وإصلاح دخول اللوجو ظاهر سليم في الفيديو المتصدّر. وبراجع دلوقتي تسلسل «Reverse Evidence» الجديد؛ كل رجوع فيه بيكشف ورقة البداية، وبعدها بتتبني نتيجة مختلفة مرتبطة بالكلام.\n",
+        "truncated": false
+      },
+      {
+        "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+        "item_id": "msg_04ec605e1f3eda98016ada0d0afb308191a3e7bdb57de0ef98",
+        "role": "assistant",
+        "text": "راجعت لقطات أسلوب الورق بالعربي بالحجم الأصلي: الحروف متصلة، والنص داخل الطيّات، والسعر ومدة التسليم ظاهرين في توقيتاتهم المحددة. المراجعة كمان كشفت قصًّا في الشعار بأحد الأساليب الأخرى، واتصلح قبل التصدير الكامل.",
+        "truncated": false
+      }
+    ],
+    "user_feedback": []
+  },
+  {
+    "id": "HIST-GM-16",
+    "project": "GetMotion",
+    "title": "Glass motion blur duplicate sample times",
+    "observed_error": "At some cuts two motion-blur samples used the same instant.",
+    "cause": "Unknown unless explicitly stated in observed_error",
+    "attempts_and_outcome": "Repair pending in cited diagnostic; other19styles reported unaffected. No exact formula or dedicated final repair evidence.",
+    "status": "assistant_reported_issue_repair_details_incomplete",
+    "sources": [
+      {
+        "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+        "item_id": "msg_04ec605e1f3eda98016ada202fbcb0819195ca78a820a9a58e",
+        "role": "assistant",
+        "text": "فحص توقيت الفريمات كشف نقطة صغيرة في ستايل الزجاج: عند بعض القطعات كانت عينتان من عينات الموشن بلور بتتاخدوا من نفس اللحظة. بيتصلّح قبل تصديره. الفحص نفسه لم يجد المشكلة في باقي الـ19 ستايل.\n\n",
+        "truncated": false
+      }
+    ],
+    "user_feedback": []
+  },
+  {
+    "id": "HIST-GM-17",
+    "project": "GetMotion",
+    "title": "Transient price/currency and frame/title collision",
+    "observed_error": "Price motion crosses جنيه and animated edge crosses title, invisible in settled stills.",
+    "cause": "Unknown unless explicitly stated in observed_error",
+    "attempts_and_outcome": "Inspect transition beginnings, reject affected deliveries, rerender both; paper-style corrected MP4 samples reported clean.",
+    "status": "assistant_reported_repair_not_independently_verified",
+    "sources": [
+      {
+        "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+        "item_id": "msg_04ec605e1f3eda98016ada11d61be081919dcd331e3d39b2aa",
+        "role": "assistant",
+        "text": "مراجعة الفيديو المصدَّر كشفت تداخلًا قصيرًا بين حركة السعر وكلمة «جنيه»، وحافة متحركة مرّت فوق عنوان. بصلّح الحالتين وبعيد تصدير النسختين المتأثرتين؛ اللقطات الثابتة بعد استقرار الحركة ما كانتش مبيّنة التداخل.",
+        "truncated": false
+      },
+      {
+        "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+        "item_id": "msg_04ec605e1f3eda98016ada1390f5388191acd5c4a71f27112a",
+        "role": "assistant",
+        "text": "مكمل للنهاية. براجع دلوقتي إصلاحات الحركة على لقطات من بداية الانتقالات نفسها، وبعدها بأعيد التصدير وبفحص الفيديو والصوت الناتجين. النسخ اللي ظهر فيها تداخل اتشالت من مجموعة التسليم.",
+        "truncated": false
+      },
+      {
+        "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+        "item_id": "msg_04ec605e1f3eda98016ada144f0d3481918c9b0046421eba28",
+        "role": "assistant",
+        "text": "إصلاحات تداخل السعر والعناوين اتراجعت بالعربي والإنجليزي، والتصدير الجديد بدأ. وبجهّز مع الفيديوهات ملفات التعديل، بحيث العناصر والتوقيتات والصوت يفضلوا قابلين للتعديل وإعادة التصدير.",
+        "truncated": false
+      },
+      {
+        "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+        "item_id": "msg_04ec605e1f3eda98016ada19ab1d808191ae1432096b998dfc",
+        "role": "assistant",
+        "text": "النسخة العربية المصححة من ستايل الورق اتصدّرت كاملة: 1080×1920 و60 فريم/ثانية، والتسجيل كامل لنهايته. راجعت لقطات من ملف الفيديو الناتج نفسه، ومنها مواضع التداخل السابقة، والإصلاحات ظاهرة بشكل سليم. النسخة الإنجليزية وباقي التصدير مكملين.",
+        "truncated": false
+      },
+      {
+        "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+        "item_id": "msg_04ec605e1f3eda98016ada1b55e00881919a9f7e72e8c4d4b8",
+        "role": "assistant",
+        "text": "النسخة العربية من ستايل «فتح المشهد بالسوستة» خلص تصديرها كاملة، ودخلت فحص الملف الناتج. وفي مراجعة ستايلات التايبو ظهر تداخل بسيط بين إطار الحركة وحروف العنوان؛ بيتصلّح قبل تصديرها.\n\n",
+        "truncated": false
+      }
+    ],
+    "user_feedback": []
+  },
+  {
+    "id": "HIST-GM-18",
+    "project": "GetMotion",
+    "title": "GM025 / GMX08 repeated phrases and send icon",
+    "observed_error": "GMX08 short phrases repeated in both languages; GM025 repeated text/send icon noted.",
+    "cause": "Unknown unless explicitly stated in observed_error",
+    "attempts_and_outcome": "Combine bilingual corrections; completion reported for both styles.",
+    "status": "assistant_reported_repair_not_independently_verified",
+    "sources": [
+      {
+        "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+        "item_id": "msg_04ec605e1f3eda98016ad9232bad9881919cb22082b60aff6f",
+        "role": "assistant",
+        "text": "وصلت مراجعة GMX08 الإنجليزية لنفس ملاحظة العربية: بعض العبارات القصيرة بتظهر مرتين. بجمع الملاحظات في تصحيح واحد، وفي الوقت نفسه تصدير GM025 وGMX04 مستمر من الأجزاء السليمة المحفوظة.",
+        "truncated": false
+      },
+      {
+        "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+        "item_id": "msg_04ec605e1f3eda98016ad926e9ad9c81918f47cc7735e3dd15",
+        "role": "assistant",
+        "text": "مراجعة اللقطات المحددة لـGMX04 الإنجليزية خلصت، بما فيها ظهور السعر ومدة التسليم وتكوين اللوجو في النهاية. النسخة جاهزة لبدء التصدير الكامل، وتصحيح النصوص في GMX08 خلص واتثبت على النسختين.",
+        "truncated": false
+      },
+      {
+        "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+        "item_id": "msg_04ec605e1f3eda98016ad928458f2c8191a82d7b343c0311d4",
+        "role": "assistant",
+        "text": "تصحيح تكرار النصوص وأيقونة الإرسال في GM025 خلص واتراجع على العربي والإنجليزي. كمان تصدير نسختَي GM125 خلص، وهراجع لقطاتهم أثناء تصدير النسخ المصحّحة.",
+        "truncated": false
+      }
+    ],
+    "user_feedback": []
+  },
+  {
+    "id": "HIST-GM-19",
+    "project": "GetMotion",
+    "title": "GM099 English text intersects construction line",
+    "observed_error": "A construction line newly crossed English text.",
+    "cause": "Unknown unless explicitly stated in observed_error",
+    "attempts_and_outcome": "Repair before source freeze; source-only completion assertion.",
+    "status": "assistant_reported_repair_not_independently_verified",
+    "sources": [
+      {
+        "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+        "item_id": "msg_04ec605e1f3eda98016ad91c6029508191ada03954a10db801",
+        "role": "assistant",
+        "text": "المراجعة كشفت تقاطعًا جديدًا بين أحد خطوط البناء والنص الإنجليزي في GM099، واتصلّح قبل تثبيت النسخة. التصدير الكامل لـGMX10 الإنجليزية مستمر، ومراجعة GMX01 وصلت لمشاهد التواصل والإعلان الجاهز.\n",
+        "truncated": false
+      }
+    ],
+    "user_feedback": []
+  },
+  {
+    "id": "HIST-GM-20",
+    "project": "GetMotion",
+    "title": "3D text / paper fold clipping",
+    "observed_error": "Moving solid intersects Arabic line; English phrase ends clip inside folded paper.",
+    "cause": "Unknown unless explicitly stated in observed_error",
+    "attempts_and_outcome": "Adjust text space through movement/fold, then selected GMX01 English frames reported clear.",
+    "status": "assistant_reported_repair_not_independently_verified",
+    "sources": [
+      {
+        "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+        "item_id": "msg_04ec605e1f3eda98016ad90aecf7ac8191b5b7aafa37b5cd06",
+        "role": "assistant",
+        "text": "ظهر تداخل بسيط بين مجسّم متحرك وسطر عربي في أحد مشاهد الـ3D. بنصلّح مساحة النص في هذا الانتقال، مع الحفاظ على حركة المشهد نفسها، قبل اعتماد التصدير.\n",
+        "truncated": false
+      },
+      {
+        "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+        "item_id": "msg_04ec605e1f3eda98016ad904f177988191b9604aa32969d90d",
+        "role": "assistant",
+        "text": "مراجعة نسخة الخامات كشفت إن التحول بين السطح والحروف واضح، والكلام ظاهر من غير تداخل. وفي نسخة الكتابة ثلاثية الأبعاد بظبط مساحة العبارة الإنجليزية داخل الورقة المطوية عشان ما تتقصّش أطرافها أثناء الطي.\n",
+        "truncated": false
+      },
+      {
+        "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+        "item_id": "msg_04ec605e1f3eda98016ad91b764c30819180319679381c6872",
+        "role": "assistant",
+        "text": "اللقطات الأولى من GMX01 الإنجليزية واضحة بعد تصحيح تداخل النص مع المجسمات. بكمل الآن لقطات السعر والمدة والنهاية، وبراجع الإضافات في GM099 علشان الحركة تفضل مرتبطة بالكلام طوال الشرح.",
+        "truncated": false
+      }
+    ],
+    "user_feedback": []
+  },
+  {
+    "id": "HIST-GM-21",
+    "project": "GetMotion",
+    "title": "Blur combines two Arabic sentences",
+    "observed_error": "Transition frame displayed two sentences simultaneously due to motion blur.",
+    "cause": "Unknown unless explicitly stated in observed_error",
+    "attempts_and_outcome": "Adjust text replacement timing, inspect boundaries in both languages while preserving movement smoothing.",
+    "status": "assistant_reported_repair_not_independently_verified",
+    "sources": [
+      {
+        "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+        "item_id": "msg_04ec605e1f3eda98016ad9044e612c8191bebc8f4ea3eb8ef3",
+        "role": "assistant",
+        "text": "لقيت فريم انتقال كانت فيه جملتان عربيتان ظاهرين فوق بعض بسبب تمويه الحركة. اتصلح توقيت تبديل النص، وبفحص الحدود دي في النسختين مع الحفاظ على نعومة حركة العناصر.\n",
+        "truncated": false
+      }
+    ],
+    "user_feedback": []
+  },
+  {
+    "id": "HIST-GM-22",
+    "project": "GetMotion",
+    "title": "Reverse Evidence boundary crosses Arabic lines",
+    "observed_error": "Moving boundaries cross Arabic text; semantic motion may end before spoken phrase.",
+    "cause": "Unknown unless explicitly stated in observed_error",
+    "attempts_and_outcome": "Correct boundary clearance and check continuing explanatory action, no long idle after idea ends.",
+    "status": "assistant_reported_repair_not_independently_verified",
+    "sources": [
+      {
+        "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+        "item_id": "msg_04ec605e1f3eda98016ad8fd5ac8288191b2f854f9d4cbf061",
+        "role": "assistant",
+        "text": "المراجعة كشفت تداخلًا بين حدود متحركة وبعض السطور العربية في فيديو الرجوع العكسي، فبيتم تصحيحه قبل اعتماد النسختين. كمان بنراجع أن الحركة تكمل بنتيجة واضحة طول العبارة، من غير فترات سكون طويلة بعد انتهاء الفكرة.\n",
+        "truncated": false
+      }
+    ],
+    "user_feedback": []
+  },
+  {
+    "id": "HIST-GM-23",
+    "project": "GetMotion",
+    "title": "3D size jump / end-logo assembly / camera jump",
+    "observed_error": "Object size jumps between shots and final assembly needs correction.",
+    "cause": "Unknown unless explicitly stated in observed_error",
+    "attempts_and_outcome": "Preserve object position/scale until exit, continue from previous endpoint; camera jump repair reported with other scenes/SFX unchanged.",
+    "status": "assistant_reported_repair_not_independently_verified",
+    "sources": [
+      {
+        "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+        "item_id": "msg_04ec605e1f3eda98016ad8fa073f5481918c31c0f96dc41b65",
+        "role": "assistant",
+        "text": "في الفيديو ثلاثي الأبعاد، لقيت قفزات في حجم العنصر بين بعض المشاهد، وتجميع الشعار في النهاية محتاج تصحيح. هصلّح الحركة دي قبل التسليم؛ باقي الفيديوهات مستمرة في التصدير أثناء الإصلاح.",
+        "truncated": false
+      },
+      {
+        "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+        "item_id": "msg_04ec605e1f3eda98016ad8feef6ef481918548b4f6542b21a2",
+        "role": "assistant",
+        "text": "براجع دلوقتي انتقال العنصر نفسه بين المشاهد: يفضل في مكانه وبحجمه الطبيعي لحد ما يخرج من الكادر، وتستمر الحركة من نفس نقطة النهاية. المراجعة دي بتمنع القفزات أو اختفاء أجزاء من التصميم أثناء الانتقال.\n",
+        "truncated": false
+      },
+      {
+        "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+        "item_id": "msg_04ec605e1f3eda98016ad8d178afec8191b00ccdd1d30f8e70",
+        "role": "assistant",
+        "text": "اتصلحت قفزة الكاميرا، واتأكدت إن التعديل محافظ على بقية المشاهد وتوقيت المؤثرات. وبروفات المشروع القابل للتعديل شغّالة في اللغتين: تشغيل، إيقاف، وتنقّل على التوقيت، مع الصوت المرتبط بكل نسخة.\n",
+        "truncated": false
+      }
+    ],
+    "user_feedback": []
+  },
+  {
+    "id": "HIST-GM-24",
+    "project": "GetMotion",
+    "title": "UI preview overlaps send button",
+    "observed_error": "Video preview intersects send button.",
+    "cause": "Unknown unless explicitly stated in observed_error",
+    "attempts_and_outcome": "Shrink preview visibly inside message; logo corner completes return into final mark; repair claimed.",
+    "status": "assistant_reported_repair_not_independently_verified",
+    "sources": [
+      {
+        "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+        "item_id": "msg_04ec605e1f3eda98016ad8ef64c90081919863e0ee7ded0d25",
+        "role": "assistant",
+        "text": "المراجعة كشفت تداخلًا بسيطًا بين معاينة الفيديو وزر الإرسال في تصميم الواجهات، واتصلّح. المعاينة دلوقتي بتصغر داخل الرسالة بوضوح، وركن اللوجو بيكمل حركته لحد ما يرجع مكانه في الشعار النهائي.",
+        "truncated": false
+      }
+    ],
+    "user_feedback": []
+  },
+  {
+    "id": "HIST-GM-25",
+    "project": "GetMotion",
+    "title": "GM002 single-frame blend / GMX02 hold noted, not proven defect",
+    "observed_error": "GM002 one-frame overlap attributed to motion blend; GMX02 nearly static3.4s benefits composition recorded.",
+    "cause": "Unknown unless explicitly stated in observed_error",
+    "attempts_and_outcome": "Both were accepted within sampled review rather than repaired. Preserve as reviewed caveats, not unresolved proven bugs.",
+    "status": "observed_caveat_accepted_by_prior_assistant",
+    "sources": [
+      {
+        "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+        "item_id": "msg_04ec605e1f3eda98016adad91a762081919334516377efae18",
+        "role": "assistant",
+        "text": "خلص تصدير GM002 العربي، وفحص الصوت وعدد الفريمات سليم. بمراجعة اللقطات المختارة ظهر تداخل عند انتقال واحد لمدة فريم واحد؛ اتأكدنا إنه ناتج عن مزج الحركة في الانتقال. لقطات السعر والتسليم والخاتمة واضحة، وبجهّز حفظ النسخة دي قبل الإنجليزي. المحفوظ لحد دلوقتي 12 فيديو.\n",
+        "truncated": false
+      },
+      {
+        "source_thread_id": "01a15eba-b95e-71fd-b397-75cefedda07b",
+        "item_id": "msg_04ec605e1f3eda98016adaf5a5cc6081919434a784ae4befc0",
+        "role": "assistant",
+        "text": "المراجعة المختارة لـGMX02 العربي انتهت من غير عيب بصري يمنع التسليم. اتسجلت ملاحظة إن فيه تكوين ثابت تقريبًا لمدة ٣٫٤ ثانية ضمن عرض المميزات؛ جاري تجهيز ملفات الحزمة.\n",
+        "truncated": false
+      }
+    ],
+    "user_feedback": []
+  },
+  {
+    "id": "HIST-EZ-L01",
+    "project": "Ezzay",
+    "title": "L01 original correction record",
+    "observed_error": [
+      {
+        "stage": "pressure_rise",
+        "time": 198.933,
+        "change": "Move the pressure label to the right of the vertical pressure arrow and above the horizontal heat arrow; no strokes pass through the text.",
+        "corrected_source_frame": "working/final_render/corrections/L01/corrected_198.933s.png",
+        "sha256": "32d322a8b4a9c0ff54056710bad6ce5fd0e0577604c8c4b14e472e3d8fb1a982",
+        "explicit_full_resolution_visual_review_passed": true
+      },
+      {
+        "stage": "cycle_split",
+        "time": 209.033,
+        "change": "Move both compartment labels into open interior spaces, clear of the vertical pipe segments and center dashed divider.",
+        "corrected_source_frame": "working/final_render/corrections/L01/corrected_209.033s.png",
+        "sha256": "6e8af3d5c848735429d789028bc4dba03f9a749c2f80e19d581d326ae3de0c0d",
+        "explicit_full_resolution_visual_review_passed": true
+      },
+      {
+        "stage": "temperature_rule",
+        "time": 282.633,
+        "change": "Use coral for the hotter thermometer and blue for the cooler one; preserve correct direction of heat flow and other temperature scenes.",
+        "corrected_source_frame": "working/final_render/corrections/L01/corrected_282.633s.png",
+        "sha256": "6192b5acb940420f3840f7689ffa80099e885fbbcf0d2940ad4a3ceb271d0954",
+        "explicit_full_resolution_visual_review_passed": true
+      }
+    ],
+    "attempts_and_outcome": [
+      {
+        "stage": "pressure_rise",
+        "time": 198.933,
+        "change": "Move the pressure label to the right of the vertical pressure arrow and above the horizontal heat arrow; no strokes pass through the text.",
+        "corrected_source_frame": "working/final_render/corrections/L01/corrected_198.933s.png",
+        "sha256": "32d322a8b4a9c0ff54056710bad6ce5fd0e0577604c8c4b14e472e3d8fb1a982",
+        "explicit_full_resolution_visual_review_passed": true
+      },
+      {
+        "stage": "cycle_split",
+        "time": 209.033,
+        "change": "Move both compartment labels into open interior spaces, clear of the vertical pipe segments and center dashed divider.",
+        "corrected_source_frame": "working/final_render/corrections/L01/corrected_209.033s.png",
+        "sha256": "6e8af3d5c848735429d789028bc4dba03f9a749c2f80e19d581d326ae3de0c0d",
+        "explicit_full_resolution_visual_review_passed": true
+      },
+      {
+        "stage": "temperature_rule",
+        "time": 282.633,
+        "change": "Use coral for the hotter thermometer and blue for the cooler one; preserve correct direction of heat flow and other temperature scenes.",
+        "corrected_source_frame": "working/final_render/corrections/L01/corrected_282.633s.png",
+        "sha256": "6192b5acb940420f3840f7689ffa80099e885fbbcf0d2940ad4a3ceb271d0954",
+        "explicit_full_resolution_visual_review_passed": true
+      }
+    ],
+    "cause": "Preserve explicit report mechanism; otherwise unestablished",
+    "status": "archived_QA_reports_accept_corrected_export_not_new_visual_review",
+    "initial_status": "source_corrections_visually_confirmed; final_rerender_pending",
+    "release_report": {
+      "episode": "L01",
+      "episode_source": "diagrams/L01.cjs",
+      "episode_source_sha256": "6e2f8d518da7a1c2f2c92118fd25f1b7a005687e1aafc2acd407466489230657",
+      "matches_frozen_correction_source": true,
+      "correction_report": "quality/L01_visual_corrections.json",
+      "correction_report_sha256": "58388ab9fdede60d86456aee4289a66827bd581a1b767f38ef3680b4522465f6",
+      "job_sha256": "f2cc574ed06742636dd84d3b0405ffdd527f700bb1f915479293bf5d161362ef",
+      "technical_qa": "exports/L01/L01_technical_qa.json",
+      "technical_qa_sha256": "d45ce6b55fdc1e171ea87bae57eb50e8f36f1983eb20c7a71dae672a7eb2b39e",
+      "visual_qa": "exports/L01/L01_visual_qa.json",
+      "visual_qa_sha256": "b791c92f2f59b39a5c408831a6c2cf1d086f5feaf0f03856e0586c5fe35212fb",
+      "exports": [
+        {
+          "file": "exports/L01/L01_final.mp4",
+          "sha256": "f079d7256a2da43a5777a3e47e5542eeee16fb5f430dda56a1df1a5b49186497",
+          "distinct_from_rejected_export": true,
+          "technical_decode_passed": true,
+          "visually_accepted": true
+        },
+        {
+          "file": "exports/L01/L01_clean.mp4",
+          "sha256": "2f7186fbec5fd91d1238b34cb0ea3252932733692dba0a23d82beeac1f715a50",
+          "distinct_from_rejected_export": true,
+          "technical_decode_passed": true,
+          "visually_accepted": true
+        }
+      ]
+    },
+    "source_report": "reports/L01_visual_corrections.json",
+    "source_report_sha256": "58388ab9fdede60d86456aee4289a66827bd581a1b767f38ef3680b4522465f6",
+    "source_library_url": "https://chatgpt.com/api/library/files/libfile_ab54e17084d8819192e6775daeea18c8/download",
+    "user_feedback": []
+  },
+  {
+    "id": "HIST-EZ-L02",
+    "project": "Ezzay",
+    "title": "L02 original correction record",
+    "observed_error": [
+      {
+        "id": "finger_trajectory",
+        "severity": "required_fix",
+        "source": "confirmed_in_decoded_final_mp4",
+        "time_seconds": 207.166667,
+        "detail": "The finger initially intersects the glass and travels upward through it in mutual-capacitance stages. It must approach the outer surface from above.",
+        "evidence": "working/final_render/decoded/L02/issue_mp4_207.167s.png"
+      },
+      {
+        "id": "material_contact_extent",
+        "severity": "required_fix",
+        "source": "confirmed_in_decoded_final_mp4",
+        "time_seconds": 333.766667,
+        "detail": "The conductive-glove tip and its threads extend into the glass. Use the rotated silhouette bounds to stop the glove/finger/pen at the outer surface.",
+        "evidence": "working/final_render/decoded/L02/issue_mp4_333.767s.png"
+      },
+      {
+        "id": "water_label_clearance",
+        "severity": "required_fix",
+        "source": "confirmed_in_decoded_final_mp4",
+        "time_seconds": 347.6,
+        "detail": "The water droplet starts partly behind its small explanatory label. Keep the same final location, but begin below the label.",
+        "evidence": "working/final_render/decoded/L02/issue_mp4_347.600s.png"
+      }
+    ],
+    "attempts_and_outcome": [
+      "Shared fixed angle remains 0.58 radians; exact rotated rounded-rectangle/pen-tip support computes a contact origin that stops at the glass outer boundary.",
+      "Mutual-capacitance finger approaches downward by 40 local units, with field endpoints following it. The no-DC explanatory label moves left to preserve clearance.",
+      "Material examples approach the same contact boundary; glove thread marks remain inside the glove outline.",
+      "Water droplet starts at y=250 instead of y=210, while retaining y=330 at completion; this clears the label."
+    ],
+    "cause": "Preserve explicit report mechanism; otherwise unestablished",
+    "status": "archived_QA_reports_accept_corrected_export_not_new_visual_review",
+    "initial_status": "source_correction_verified_waiting_full_targeted_rerender",
+    "release_report": {
+      "episode": "L02",
+      "episode_source": "diagrams/L02.cjs",
+      "episode_source_sha256": "1158479732df93ef13c5f5cc334bc75287f5c2745d181209735e897cc679e37e",
+      "matches_frozen_correction_source": true,
+      "correction_report": "quality/L02_visual_correction_record.json",
+      "correction_report_sha256": "8a579c8a9d194060cb355c4181132a8ce816f900f04f4dec892b53b0a7a6581e",
+      "job_sha256": "82b9dc6e2ea0bff9e0ed1b25c09262ea6193cd7ff55322915ad59d9f3e9593a8",
+      "technical_qa": "exports/L02/L02_technical_qa.json",
+      "technical_qa_sha256": "2460dd9253dc5683c624d813ae0d74cf68c67b3f28899c1ce3435f847a7394b2",
+      "visual_qa": "exports/L02/L02_visual_qa.json",
+      "visual_qa_sha256": "5206455c09d4efa1ccfae33c07baa75b305ddca3b3aee6ae597def9c691bf5f6",
+      "exports": [
+        {
+          "file": "exports/L02/L02_final.mp4",
+          "sha256": "b57d143470ac0b94c4e2e3fb8b1d64a7baccacecf5c8ab85525e24a6c83ba122",
+          "distinct_from_rejected_export": true,
+          "technical_decode_passed": true,
+          "visually_accepted": true
+        },
+        {
+          "file": "exports/L02/L02_clean.mp4",
+          "sha256": "fd58145e7e7705456cbbb5395af1552bf4fdf7184a76e73e9b54d2ebb8312824",
+          "distinct_from_rejected_export": true,
+          "technical_decode_passed": true,
+          "visually_accepted": true
+        }
+      ]
+    },
+    "source_report": "reports/L02_visual_correction_record.json",
+    "source_report_sha256": "8a579c8a9d194060cb355c4181132a8ce816f900f04f4dec892b53b0a7a6581e",
+    "source_library_url": "https://chatgpt.com/api/library/files/libfile_7b25c02ec3d88191be070f6960bcb133/download",
+    "user_feedback": []
+  },
+  {
+    "id": "HIST-EZ-L03",
+    "project": "Ezzay",
+    "title": "L03 original correction record",
+    "observed_error": [
+      {
+        "id": "cox_label_overlap",
+        "severity": "required_fix",
+        "source": "confirmed_in_decoded_final_mp4",
+        "time_seconds": [
+          138.933333,
+          307.533333
+        ],
+        "detail": "COX, COX 1 and COX 2 labels overlap the black binding-pocket outline; the moving inhibitor can also cover the label. Move labels above the enzyme symbols.",
+        "evidence": [
+          "working/final_render/decoded/L03/issue_mp4_138.933s.png",
+          "working/final_render/decoded/L03/issue_mp4_307.533s.png"
+        ]
+      },
+      {
+        "id": "gastric_arrow_overlap_and_direction",
+        "severity": "required_fix",
+        "source": "confirmed_in_decoded_final_mp4",
+        "time_seconds": [
+          316.366667,
+          336.766667
+        ],
+        "detail": "The red arrow passes through the protective-mucus label. In the thick-mucus state it points upward from the surface. Move it left of the label and make it point downward from the lumen toward the outer mucus surface.",
+        "evidence": [
+          "working/final_render/decoded/L03/issue_mp4_316.367s.png",
+          "working/final_render/decoded/L03/issue_mp4_336.767s.png"
+        ]
+      }
+    ],
+    "attempts_and_outcome": [
+      {
+        "before": "T('كوكس',800,330,46,c.ink,800)",
+        "after": "T('كوكس',800,195,46,c.ink,800)",
+        "reason": "Separate label from the binding-pocket outline and inhibitor trajectory."
+      },
+      {
+        "before": "T('كوكس ١',550,325,43,c.ink,700);T('كوكس ٢',1050,325,43,c.ink,700)",
+        "after": "T('كوكس ١',550,190,43,c.ink,700);T('كوكس ٢',1050,190,43,c.ink,700)",
+        "reason": "Place both type labels above the corresponding enzyme outlines."
+      },
+      {
+        "before": "A(1050,320,1050,400-th,c.coral)",
+        "after": "A(970,280,970,400-th,c.coral)",
+        "reason": "Keep the arrow left of the mucus label, consistently pointing down from lumen to just above the protective layer."
+      }
+    ],
+    "cause": "Preserve explicit report mechanism; otherwise unestablished",
+    "status": "archived_QA_reports_accept_corrected_export_not_new_visual_review",
+    "initial_status": "source_correction_verified_waiting_full_targeted_rerender",
+    "release_report": {
+      "episode": "L03",
+      "episode_source": "diagrams/L03.cjs",
+      "episode_source_sha256": "dd512f5e71f51ded6b41647cc5caa74fc27749c44f20dedcac67fedcf5958ceb",
+      "matches_frozen_correction_source": true,
+      "correction_report": "quality/L03_visual_correction_record.json",
+      "correction_report_sha256": "69d1ec1f42c8e1958bc55f5a9ae9fca0f7064f94c24b2c1605facfbb82e6edc8",
+      "job_sha256": "2362ae8668fea133ade0451bb6970b837b63acfb1749560c5af68ea4976557c5",
+      "technical_qa": "exports/L03/L03_technical_qa.json",
+      "technical_qa_sha256": "00385549589392725c80cea67d94359e85d1af908e867c58a39da6f491e9c2aa",
+      "visual_qa": "exports/L03/L03_visual_qa.json",
+      "visual_qa_sha256": "2b7a7706435f82b9e077acc66f1b08637cc697460d1f677abdf1bcd7338fbac3",
+      "exports": [
+        {
+          "file": "exports/L03/L03_final.mp4",
+          "sha256": "47b3c90eb4b50747622dd3f6ba5b8bff300a97956acd1ddf057d2e00dfd482e0",
+          "distinct_from_rejected_export": true,
+          "technical_decode_passed": true,
+          "visually_accepted": true
+        },
+        {
+          "file": "exports/L03/L03_clean.mp4",
+          "sha256": "62b56da9622f51b472e57b92b1ff7b941723cc14f36f609b54ca7363b0f866d2",
+          "distinct_from_rejected_export": true,
+          "technical_decode_passed": true,
+          "visually_accepted": true
+        }
+      ]
+    },
+    "source_report": "reports/L03_visual_correction_record.json",
+    "source_report_sha256": "69d1ec1f42c8e1958bc55f5a9ae9fca0f7064f94c24b2c1605facfbb82e6edc8",
+    "source_library_url": "https://chatgpt.com/api/library/files/libfile_95081a464a948191ab271283daef9d01/download",
+    "user_feedback": []
+  },
+  {
+    "id": "HIST-EZ-L04",
+    "project": "Ezzay",
+    "title": "L04 original correction record",
+    "observed_error": "Move الرسم غير مقياسي from x=330 to x=240 at y=520 so the orbital ellipse does not touch its initial Arabic letters. This one label is shared within the episode constellation/horizon/obstruction stages.",
+    "attempts_and_outcome": "Move الرسم غير مقياسي from x=330 to x=240 at y=520 so the orbital ellipse does not touch its initial Arabic letters. This one label is shared within the episode constellation/horizon/obstruction stages.",
+    "cause": "Preserve explicit report mechanism; otherwise unestablished",
+    "status": "archived_QA_reports_accept_corrected_export_not_new_visual_review",
+    "initial_status": "source_correction_visually_confirmed; final_rerender_pending",
+    "release_report": {
+      "episode": "L04",
+      "episode_source": "diagrams/L04.cjs",
+      "episode_source_sha256": "7bcff342cf06ebf29ca64e674e505c17d32a348f4e600c5a6340e4b4f2febd37",
+      "matches_frozen_correction_source": true,
+      "correction_report": "quality/L04_visual_corrections.json",
+      "correction_report_sha256": "5524ee3bbacd42c3a3074a6d3a355e827c4bf232ac3f81f29589b73a76d9633c",
+      "job_sha256": "93898a71e44373ab6558bd3fe769eb7c6fa1a4f1a35385a48b55577f08526775",
+      "technical_qa": "exports/L04/L04_technical_qa.json",
+      "technical_qa_sha256": "48f05f9c0eb29051dc388e2eb49393be77c6f68e91513668bc1274157c88693e",
+      "visual_qa": "exports/L04/L04_visual_qa.json",
+      "visual_qa_sha256": "4eb5ae804083a10d1a4c6a72a0babccb88630287bd09dc0a7f29f6f1743beb18",
+      "exports": [
+        {
+          "file": "exports/L04/L04_final.mp4",
+          "sha256": "217fc2ae939287ab894a3ee5d3d1ca95295aa14e4ccc07cb296de0a9e20c0e1b",
+          "distinct_from_rejected_export": true,
+          "technical_decode_passed": true,
+          "visually_accepted": true
+        },
+        {
+          "file": "exports/L04/L04_clean.mp4",
+          "sha256": "2255f400cbb0be6c900b10b4ed9485c8af7cb4b6465769d297ed46d551e918cc",
+          "distinct_from_rejected_export": true,
+          "technical_decode_passed": true,
+          "visually_accepted": true
+        }
+      ]
+    },
+    "source_report": "reports/L04_visual_corrections.json",
+    "source_report_sha256": "5524ee3bbacd42c3a3074a6d3a355e827c4bf232ac3f81f29589b73a76d9633c",
+    "source_library_url": "https://chatgpt.com/api/library/files/libfile_bd8e79c99aa4819198de52ca5f8bed07/download",
+    "user_feedback": []
+  },
+  {
+    "id": "HIST-EZ-L05",
+    "project": "Ezzay",
+    "title": "L05 original correction record",
+    "observed_error": [
+      {
+        "id": "deep_discharge_curve_incomplete",
+        "severity": "required_fix",
+        "source": "confirmed_in_decoded_final_mp4",
+        "stage": "deep_discharge",
+        "function": "voltage",
+        "start_seconds": 395.76,
+        "end_seconds": 398.0,
+        "duration_seconds": 2.24,
+        "original_reveal_seconds": 5,
+        "time_seconds": [
+          397.92
+        ],
+        "detail": "The fixed five-second reveal stops before the voltage curve reaches the cutoff or its deeper-discharge segment during the 2.24-second scene.",
+        "evidence": [
+          "working/final_render/decoded/L05/issue_mp4_397.920s.png"
+        ]
+      },
+      {
+        "id": "charge_taper_curve_incomplete",
+        "severity": "required_fix",
+        "source": "confirmed_in_decoded_final_mp4",
+        "stage": "slow_charge",
+        "function": "charging",
+        "start_seconds": 416.28,
+        "end_seconds": 419.04,
+        "duration_seconds": 2.76,
+        "original_reveal_seconds": 6,
+        "time_seconds": [
+          419.0
+        ],
+        "detail": "The fixed six-second reveal stops before the main charging-current taper during the 2.76-second scene.",
+        "evidence": [
+          "working/final_render/decoded/L05/issue_mp4_419.000s.png"
+        ]
+      }
+    ],
+    "attempts_and_outcome": [
+      {
+        "function": "voltage(ctx,U,s,t,p)",
+        "stage": "deep_discharge",
+        "before": "q = D.tween(t, 0, 5)",
+        "after": "q = s === 'deep_discharge' ? D.smooth(p / .8) : D.tween(t, 0, 5)",
+        "reason": "Complete the deep-discharge path within 80% of its actual scene; hold its complete result for the final 20% (about 0.448 seconds). Other voltage stages retain their timing."
+      },
+      {
+        "function": "charging(ctx,U,s,t,p)",
+        "stage": "slow_charge",
+        "before": "q = D.tween(t, 0, 6)",
+        "after": "q = s === 'slow_charge' ? D.smooth(p / .8) : D.tween(t, 0, 6)",
+        "reason": "Complete the current taper within 80% of its actual scene; hold its complete result for the final 20% (about 0.552 seconds). Optimized-charging timing is unchanged."
+      },
+      {
+        "before": "voltage(ctx,U,s,t); / charging(ctx,U,s,t);",
+        "after": "voltage(ctx,U,s,t,p); / charging(ctx,U,s,t,p);",
+        "reason": "Pass existing actual scene progress to these two episode-local functions."
+      }
+    ],
+    "cause": "Preserve explicit report mechanism; otherwise unestablished",
+    "status": "archived_QA_reports_accept_corrected_export_not_new_visual_review",
+    "initial_status": "source_correction_verified_waiting_full_targeted_rerender",
+    "release_report": {
+      "episode": "L05",
+      "episode_source": "diagrams/L05.cjs",
+      "episode_source_sha256": "a90f0ed61c0f33bcf76fe9a8a486ad5ee6aa3e249413b4d3384811617e0cfaf2",
+      "matches_frozen_correction_source": true,
+      "correction_report": "quality/L05_visual_correction_record.json",
+      "correction_report_sha256": "9f6f8ec600add21dcbc0f123a1d58eb41d27631cffb26bf39abf1e6f60516ea1",
+      "job_sha256": "fdfcb60b354bf6b2f3b758bd8764c0fa8e46c43140115377ba24a2d0b3b6c9de",
+      "technical_qa": "exports/L05/L05_technical_qa.json",
+      "technical_qa_sha256": "8d9ea519b6e512b7b228088b2dc1d5721d6e3e9177c8a99f9b89c1d7d161b0db",
+      "visual_qa": "exports/L05/L05_visual_qa.json",
+      "visual_qa_sha256": "37914f580da12b4892b6377f267bd6ac093dd2b896dd362d6e442979088a35ff",
+      "exports": [
+        {
+          "file": "exports/L05/L05_final.mp4",
+          "sha256": "5ded57871550d1fc05e3cc17081f52eaed67f799991e94436e58ed0df0b6f77e",
+          "distinct_from_rejected_export": true,
+          "technical_decode_passed": true,
+          "visually_accepted": true
+        },
+        {
+          "file": "exports/L05/L05_clean.mp4",
+          "sha256": "43ca4cb164ab13b6546e372150f1c63530f663aa7f56451f5df4af528f52a420",
+          "distinct_from_rejected_export": true,
+          "technical_decode_passed": true,
+          "visually_accepted": true
+        }
+      ]
+    },
+    "source_report": "reports/L05_visual_correction_record.json",
+    "source_report_sha256": "9f6f8ec600add21dcbc0f123a1d58eb41d27631cffb26bf39abf1e6f60516ea1",
+    "source_library_url": "https://chatgpt.com/api/library/files/libfile_d2496d9380c48191b00c1386bef79258/download",
+    "user_feedback": []
+  },
+  {
+    "id": "HIST-EZ-S02",
+    "project": "Ezzay",
+    "title": "S02 original correction record",
+    "observed_error": "The first export held the compartment drawing essentially unchanged for about 19 seconds; the motion prompt requires meaningful explanatory progression when narration permits it.",
+    "attempts_and_outcome": [
+      "Chemical-defense explanation reveals a schematic internal separated cell at the corresponding spoken phrase; insect approach and ground level follow their own real-word cues.",
+      "Cell partition traces at 20.04 s. The sulfur-containing compound compartment appears from 21.76 s; compound symbols are introduced at 22.56, 23.64 and 24.96 s. The second compartment appears at 25.92 s and enzyme symbols at 27.76 s.",
+      "The intact divider is emphasized at 29.20 s; separation marks follow at 30.76 s and the absence of mixing/reaction is stated at 32.16 s. Knife approach begins at 35.72 s.",
+      "Knife penetration and wall/divider rupture follow 38.16–39.60 s; materials then visibly cross the ruptured barrier during 39.76–41.76 s. The enzyme remains present in the reaction schematic.",
+      "The volatile product schematic forms with 42.80–43.44 s reaction, rises with 43.52–44.80 s release, receives the tear-factor label at 45.52 s and moves toward air at 47.60 s; the retained spoken compound name appears at 49.68 s.",
+      "The irritant reaches the eye surface at 52.32–53.60 s, a nerve-surface trace appears at 53.72–55.12 s, the tear gland responds at 57.72–58.64 s, tear flow at 58.76–59.60 s and wash-down at 59.84–61.36 s.",
+      "Opening cut/tear visuals use the actual hook-word cues. Frame-zero cover composition, narration, captions, fixed CTA and tail behavior remain controlled by the existing job/runtime."
+    ],
+    "cause": "Preserve explicit report mechanism; otherwise unestablished",
+    "status": "archived_QA_reports_accept_corrected_export_not_new_visual_review",
+    "initial_status": "source_correction_frozen_pending_final_export_review",
+    "release_report": {
+      "episode": "S02",
+      "episode_source": "diagrams/S02.cjs",
+      "episode_source_sha256": "68e2117081db89d386ea2d343b6b5da35d261d88f758acdfa8614927e5a753f5",
+      "matches_frozen_correction_source": true,
+      "correction_report": "quality/S02_motion_corrections.json",
+      "correction_report_sha256": "0d2d02ebb1e8c690007978345768131563cc7e90e44615dd23db4bc591fbf2e9",
+      "job_sha256": "4c61a37bd21116fc3ca28695e553d670921f39f22388395e4d5ab9ef1e4b7a64",
+      "technical_qa": "exports/S02/S02_technical_qa.json",
+      "technical_qa_sha256": "1135f34ce7bcf4ad1dcf74f1ac344c9ce2d4fc528d9e6ca2f0be47efa5518b38",
+      "visual_qa": "exports/S02/S02_visual_qa.json",
+      "visual_qa_sha256": "edeac5549e2ca4a3b09da88c193c738f3a78f3696775a07bbbab617847292a92",
+      "exports": [
+        {
+          "file": "exports/S02/S02_final.mp4",
+          "sha256": "821aa40a053afaf739b744c399abf3e06876cf91df16fccec357e254b9adc9a9",
+          "distinct_from_rejected_export": true,
+          "technical_decode_passed": true,
+          "visually_accepted": true
+        },
+        {
+          "file": "exports/S02/S02_clean.mp4",
+          "sha256": "f1170e3855a0b1301656d4449320d50d1449a2e66bff3638ff3d1e86e0f274ec",
+          "distinct_from_rejected_export": true,
+          "technical_decode_passed": true,
+          "visually_accepted": true
+        }
+      ]
+    },
+    "source_report": "reports/S02_motion_corrections.json",
+    "source_report_sha256": "0d2d02ebb1e8c690007978345768131563cc7e90e44615dd23db4bc591fbf2e9",
+    "source_library_url": "https://chatgpt.com/api/library/files/libfile_74cb0507d9b881918931f99b547851ec/download",
+    "user_feedback": []
+  },
+  {
+    "id": "HIST-EZ-S03",
+    "project": "Ezzay",
+    "title": "S03 original correction record",
+    "observed_error": {
+      "type": "label_interface_overlap",
+      "time_seconds": 46.94,
+      "label": "طبقة أساس",
+      "evidence": "The actual MP4 detail crop shows the label baseline touching the jagged material interface.",
+      "correction": "Place the label in two lines outside the material section with a short leader pointing into the primer band."
+    },
+    "attempts_and_outcome": {
+      "type": "label_interface_overlap",
+      "time_seconds": 46.94,
+      "label": "طبقة أساس",
+      "evidence": "The actual MP4 detail crop shows the label baseline touching the jagged material interface.",
+      "correction": "Place the label in two lines outside the material section with a short leader pointing into the primer band."
+    },
+    "cause": "Preserve explicit report mechanism; otherwise unestablished",
+    "status": "archived_QA_reports_accept_corrected_export_not_new_visual_review",
+    "initial_status": "source_corrected_pending_full_rerender",
+    "release_report": {
+      "episode": "S03",
+      "episode_source": "diagrams/S03.cjs",
+      "episode_source_sha256": "8cb397ba29d9372c4f8411ada6faeb54b9a9931a679a059869ab0bff92941ea6",
+      "matches_frozen_correction_source": true,
+      "correction_report": "quality/S03_visual_corrections.json",
+      "correction_report_sha256": "90f9a8e33b890988bf9e7db3bf1f660bdc6dadd730814d3f3f7f065313dd6aaa",
+      "job_sha256": "717289f32ba807d07fa6ab8006085ab5bd006b9953c4dd1863a99e3567fb03c3",
+      "technical_qa": "exports/S03/S03_technical_qa.json",
+      "technical_qa_sha256": "c5bdab4c4216f83c60587610d8ef36b0593a0e0aaae973f1fa4dad1092ef6d91",
+      "visual_qa": "exports/S03/S03_visual_qa.json",
+      "visual_qa_sha256": "88cbba291c8e73ebf88e138911482d56aa506bce50719dcf9ab06c41e7bf90f9",
+      "exports": [
+        {
+          "file": "exports/S03/S03_final.mp4",
+          "sha256": "19a10211d8849be167c3d5e5ab754f6a60b541bcb7d3b55fd000dd8fa2aeb8d5",
+          "distinct_from_rejected_export": true,
+          "technical_decode_passed": true,
+          "visually_accepted": true
+        },
+        {
+          "file": "exports/S03/S03_clean.mp4",
+          "sha256": "d520e95519ba41d56e68bc41c9b8a77edc17e74c3805c40b522cb20eac7f289f",
+          "distinct_from_rejected_export": true,
+          "technical_decode_passed": true,
+          "visually_accepted": true
+        }
+      ]
+    },
+    "source_report": "reports/S03_visual_corrections.json",
+    "source_report_sha256": "90f9a8e33b890988bf9e7db3bf1f660bdc6dadd730814d3f3f7f065313dd6aaa",
+    "source_library_url": "https://chatgpt.com/api/library/files/libfile_087be8e6e67c8191868b5e235fd33be6/download",
+    "user_feedback": []
+  },
+  {
+    "id": "HIST-EZ-S05",
+    "project": "Ezzay",
+    "title": "S05 original correction record",
+    "observed_error": [
+      {
+        "type": "label_coil_overlap",
+        "label": "الشريحة",
+        "actual_mp4_time": 35.30449
+      },
+      {
+        "type": "long_static_explanation",
+        "stages": [
+          {
+            "stage": "card",
+            "duration_seconds": 7.44
+          },
+          {
+            "stage": "coil",
+            "duration_seconds": 10.4
+          }
+        ]
+      }
+    ],
+    "attempts_and_outcome": [
+      "Move the chip label to the empty inner-left area, with clear separation from the winding and chip outline.",
+      "Move the coil callout leader start below its label baseline.",
+      "In the long card stage, progressively reveal the interior, then reveal the reader field at the existing aligned word الحث and carry the visible energy explanation into the coil and chip.",
+      "In the coil stage, trace winding turns from ملف, reveal its chip connection at ومتوصّل, and emphasize the reader at the existing question طب السلك ده بيجيب كهربا منين؟.",
+      "Keep the powered chip visible during load modulation; in the final summary, start withdrawal at ويفصل, then turn off the field and chip. The final CTA remains a stable unpowered state."
+    ],
+    "cause": "Preserve explicit report mechanism; otherwise unestablished",
+    "status": "archived_QA_reports_accept_corrected_export_not_new_visual_review",
+    "initial_status": "source_corrected_pending_full_rerender",
+    "release_report": {
+      "episode": "S05",
+      "episode_source": "diagrams/S05.cjs",
+      "episode_source_sha256": "63cad9964ca81731c520d103e093d0edcb61ca80fd166308dbbba675f6e5b11b",
+      "matches_frozen_correction_source": true,
+      "correction_report": "quality/S05_visual_correction_record.json",
+      "correction_report_sha256": "2f008f665796645b8f18c96851c0344211eb38943ee224c347be410e1d26f2c3",
+      "job_sha256": "102fe33d344b54312800bf6d170c65f623b1c6511c89a8dbb082ca1f042d947f",
+      "technical_qa": "exports/S05/S05_technical_qa.json",
+      "technical_qa_sha256": "c24c5e52881b837fcdaeb44baaafa1acea11133056d6f748e246968640455f31",
+      "visual_qa": "exports/S05/S05_visual_qa.json",
+      "visual_qa_sha256": "a279ff3c73a283eb38c95f97ce55ed493e3a7c8b6d884c5c020ad6880af1ffca",
+      "exports": [
+        {
+          "file": "exports/S05/S05_final.mp4",
+          "sha256": "15d09d0d0b3a12ca7e7203742e484287b5242d3bc2ee998b25e40e0b8a71b56e",
+          "distinct_from_rejected_export": true,
+          "technical_decode_passed": true,
+          "visually_accepted": true
+        },
+        {
+          "file": "exports/S05/S05_clean.mp4",
+          "sha256": "eae1e7395b404f871952a9f20cf30dfbc7c9461eb0a4ecfe1a5226cca0d7a145",
+          "distinct_from_rejected_export": true,
+          "technical_decode_passed": true,
+          "visually_accepted": true
+        }
+      ]
+    },
+    "source_report": "reports/S05_visual_correction_record.json",
+    "source_report_sha256": "2f008f665796645b8f18c96851c0344211eb38943ee224c347be410e1d26f2c3",
+    "source_library_url": "https://chatgpt.com/api/library/files/libfile_5adb51589f1c819197e364b0eb22c9fc/download",
+    "user_feedback": []
+  },
+  {
+    "id": "HIST-EZ-S08",
+    "project": "Ezzay",
+    "title": "S08 original correction record",
+    "observed_error": [
+      {
+        "id": "long_body_stage_static",
+        "stage": "vapor",
+        "start_seconds": 8.64,
+        "end_seconds": 20.72,
+        "duration_seconds": 12.08,
+        "detail": "The previous stage ignored both actual progress and elapsed time and remained static for its entire body duration.",
+        "evidence": "quality/S04_S06_S12_body_cadence_audit.json"
+      }
+    ],
+    "attempts_and_outcome": [
+      "Molecules leave the surface of a small warm-water source.",
+      "Additional molecules enter the air, preserving the original mirror object.",
+      "An explicit label identifies gas-phase water as invisible and the symbols as molecular representations rather than visible droplets.",
+      "Molecular displacement continues; short velocity arrows follow the actual analytic direction of the represented motion."
+    ],
+    "cause": "Preserve explicit report mechanism; otherwise unestablished",
+    "status": "archived_QA_reports_accept_corrected_export_not_new_visual_review",
+    "initial_status": "source_correction_frozen_pending_final_export_review",
+    "release_report": {
+      "episode": "S08",
+      "episode_source": "diagrams/S08.cjs",
+      "episode_source_sha256": "1b0ef0c53cb8e2b80c85de51d2d55b6d9b0b9b40215007c844b104b1aba7f099",
+      "matches_frozen_correction_source": true,
+      "correction_report": "quality/S08_visual_correction_record.json",
+      "correction_report_sha256": "eccd6f131fc92a85127c7ec34ced7df352cca191bb95ca0f9fcd63ffc9256512",
+      "job_sha256": "57c555519cda7023236cb66f1f2d315804e8312665b74fe170293be3e74d2518",
+      "technical_qa": "exports/S08/S08_technical_qa.json",
+      "technical_qa_sha256": "3d59c6653daec7f86ac26d0028823383afdce843a8d556eef22854c27667d3ed",
+      "visual_qa": "exports/S08/S08_visual_qa.json",
+      "visual_qa_sha256": "0321e2c875cbd2f52f91329d542f081a96b05b7609aba728b62d63e3a0483bf1",
+      "exports": [
+        {
+          "file": "exports/S08/S08_final.mp4",
+          "sha256": "e040f67f1064134d73564f61e0258fecc1430c6f7004fca3c48e2abcae8e8325",
+          "distinct_from_rejected_export": true,
+          "technical_decode_passed": true,
+          "visually_accepted": true
+        },
+        {
+          "file": "exports/S08/S08_clean.mp4",
+          "sha256": "df08669d0dc62d867edc584ed809e03728d165f81b32097dca09507f10a983fb",
+          "distinct_from_rejected_export": true,
+          "technical_decode_passed": true,
+          "visually_accepted": true
+        }
+      ]
+    },
+    "source_report": "reports/S08_visual_correction_record.json",
+    "source_report_sha256": "eccd6f131fc92a85127c7ec34ced7df352cca191bb95ca0f9fcd63ffc9256512",
+    "source_library_url": "https://chatgpt.com/api/library/files/libfile_e99eb28a8e088191801f41882c181ace/download",
+    "user_feedback": []
+  },
+  {
+    "id": "HIST-EZ-S10",
+    "project": "Ezzay",
+    "title": "S10 original correction record",
+    "observed_error": [
+      {
+        "id": "long_body_stage_static",
+        "stage": "conduction",
+        "start_seconds": 31.8,
+        "end_seconds": 45.08,
+        "duration_seconds": 13.28,
+        "detail": "The previous stage ignored both actual progress and elapsed time and remained static for its entire body duration.",
+        "evidence": "quality/S04_S06_S12_body_cadence_audit.json"
+      }
+    ],
+    "attempts_and_outcome": [
+      "Reveal the thicker tray section at the mass phrase.",
+      "Progressively reveal stored thermal energy in the tray.",
+      "Contrast the more rapidly cooling thin foil with the still-hot tray.",
+      "A schematic skin section approaches from below and stops at the tray underside.",
+      "Heat shading and a downward arrow advance into the skin only after contact."
+    ],
+    "cause": "Preserve explicit report mechanism; otherwise unestablished",
+    "status": "archived_QA_reports_accept_corrected_export_not_new_visual_review",
+    "initial_status": "source_correction_frozen_pending_final_export_review",
+    "release_report": {
+      "episode": "S10",
+      "episode_source": "diagrams/S10.cjs",
+      "episode_source_sha256": "aacb1f96d610e037a7f43c658c883ef74aba316f7a385ada6cc04bc2e4d63fcb",
+      "matches_frozen_correction_source": true,
+      "correction_report": "quality/S10_visual_correction_record.json",
+      "correction_report_sha256": "169e805aba2b5b733d5295d4aefce7a878d7381f4fb4594839d0faa036eb3aa8",
+      "job_sha256": "d6516e894b6e073a6fb9d9b210833c23dd9a94125d53aed7baf97835df9953fa",
+      "technical_qa": "exports/S10/S10_technical_qa.json",
+      "technical_qa_sha256": "a0869991d3874c18e4d2e09acdd7d2a487e630cfc9c5e3aaa9ca370be66e0813",
+      "visual_qa": "exports/S10/S10_visual_qa.json",
+      "visual_qa_sha256": "c776623c4f05a5dbdd94cd5a0c7bc16b83277d881a68077dcf9d45d682bb2451",
+      "exports": [
+        {
+          "file": "exports/S10/S10_final.mp4",
+          "sha256": "3ace6e8d9f26fae2eaf60c04d9d41b7f5ac0e49080289c031c8e6313b6af377c",
+          "distinct_from_rejected_export": true,
+          "technical_decode_passed": true,
+          "visually_accepted": true
+        },
+        {
+          "file": "exports/S10/S10_clean.mp4",
+          "sha256": "81ea1b405ed9a840ebf90856e2ce7bfc992e0aa4690a0b374f7e389ed6933b95",
+          "distinct_from_rejected_export": true,
+          "technical_decode_passed": true,
+          "visually_accepted": true
+        }
+      ]
+    },
+    "source_report": "reports/S10_visual_correction_record.json",
+    "source_report_sha256": "169e805aba2b5b733d5295d4aefce7a878d7381f4fb4594839d0faa036eb3aa8",
+    "source_library_url": "https://chatgpt.com/api/library/files/libfile_41819163ce60819199eabe8654be300f/download",
+    "user_feedback": []
+  },
+  {
+    "id": "HIST-EZ-S11",
+    "project": "Ezzay",
+    "title": "S11 original correction record",
+    "observed_error": [
+      {
+        "id": "long_body_stage_static",
+        "stage": "cells",
+        "start_seconds": 16.96,
+        "end_seconds": 28.16,
+        "duration_seconds": 11.2,
+        "detail": "The previous stage ignored both actual progress and elapsed time and remained static for its entire body duration.",
+        "evidence": "quality/S04_S06_S12_body_cadence_audit.json"
+      },
+      {
+        "id": "sensitive_arrow_points_at_cone",
+        "stage": "sensitive",
+        "time_seconds": 53.466667,
+        "detail": "The original blue arrow at x450 addressed the central cone while narration referred to rods. It now uses x365, the second rod, without moving the labels.",
+        "before_actual_mp4_frame": "working/S11_sensitive_actual.png",
+        "after_source_preview": "diagrams/qa/S11_cadence_correction/after_53.467s.png",
+        "confirmed_by_root_and_independently_viewed": true
+      }
+    ],
+    "attempts_and_outcome": [
+      "Trace the retinal section, then reveal both receptor shapes.",
+      "Emphasize cones when named and associate them with color vision in light.",
+      "Emphasize rods when named, then introduce a sparse light arrow during the dim-light phrase."
+    ],
+    "cause": "Preserve explicit report mechanism; otherwise unestablished",
+    "status": "archived_QA_reports_accept_corrected_export_not_new_visual_review",
+    "initial_status": "source_correction_frozen_pending_final_export_review",
+    "release_report": {
+      "episode": "S11",
+      "episode_source": "diagrams/S11.cjs",
+      "episode_source_sha256": "4f888facfdd0a0cab8bb8913f53518802aa8c84fd8480ed91ae1cac9e1aa6070",
+      "matches_frozen_correction_source": true,
+      "correction_report": "quality/S11_visual_correction_record.json",
+      "correction_report_sha256": "d946f3e632ec6fd09faf49a70a7d1fe8f1524b5f0998bfb2c1aa30dbaa7f48ae",
+      "job_sha256": "91bcf77edd3cca5a7e5e22ee4fd555fc9f8a778f042018930f3a93d34382011a",
+      "technical_qa": "exports/S11/S11_technical_qa.json",
+      "technical_qa_sha256": "e548cc6f86ec5b9772ac51a578c31534b64f95a20222b1994cb16c3a3858c66f",
+      "visual_qa": "exports/S11/S11_visual_qa.json",
+      "visual_qa_sha256": "8078436cf3b1b590c8275a65d6d0c28e823dadfc9facd5fea91a45c600f47426",
+      "exports": [
+        {
+          "file": "exports/S11/S11_final.mp4",
+          "sha256": "1ace519847518bb104c2eb41f059346bf3d0b95028ceffcb4673f14436b01806",
+          "distinct_from_rejected_export": true,
+          "technical_decode_passed": true,
+          "visually_accepted": true
+        },
+        {
+          "file": "exports/S11/S11_clean.mp4",
+          "sha256": "8e9a0099234cf794874fe156f5a0a0f6e8818933d442ad841e216fff03c9d989",
+          "distinct_from_rejected_export": true,
+          "technical_decode_passed": true,
+          "visually_accepted": true
+        }
+      ]
+    },
+    "source_report": "reports/S11_visual_correction_record.json",
+    "source_report_sha256": "d946f3e632ec6fd09faf49a70a7d1fe8f1524b5f0998bfb2c1aa30dbaa7f48ae",
+    "source_library_url": "https://chatgpt.com/api/library/files/libfile_56d873f69b488191b590a59b538420b0/download",
+    "user_feedback": []
+  },
+  {
+    "id": "HIST-EZ-S17",
+    "project": "Ezzay",
+    "title": "S17 original correction record",
+    "observed_error": {
+      "body_stage": "wing",
+      "stage_interval_seconds": [
+        14.32,
+        27.84
+      ],
+      "static_mechanism_interval_seconds": [
+        17.12,
+        27.84
+      ],
+      "duration_seconds": 10.72,
+      "evidence": "working/superseded_first_export_S17"
+    },
+    "attempts_and_outcome": [
+      "Trace upper wing profile during actual design phrase 15.88–17.04s.",
+      "Grow upward force arrow with physical-force phrase 17.36–19.08s; show lift label at spoken 19.08s.",
+      "Advance to cross-section at 20.16s, reveal leader at actual word مقطع 21.52–21.84s, and airfoil name at 22.56s.",
+      "Reveal the previously reviewed angle reference geometry at 24.32–25.36s.",
+      "Trace external airflow above and below the solid wing during actual phrase 25.60–27.76s. No streamline intersects the wing.",
+      "No audio, script, subtitle, job, cover or shared module changed."
+    ],
+    "cause": "Preserve explicit report mechanism; otherwise unestablished",
+    "status": "archived_QA_reports_accept_corrected_export_not_new_visual_review",
+    "initial_status": "source_correction_frozen_ready_for_rerender",
+    "release_report": {
+      "episode": "S17",
+      "episode_source": "diagrams/S17.cjs",
+      "episode_source_sha256": "0640201e3c353b3d78903fa8f3ff134cd1aebcf51531d39c6ad0f92e3abeff62",
+      "matches_frozen_correction_source": true,
+      "correction_report": "quality/S17_motion_corrections.json",
+      "correction_report_sha256": "0e28f210e256abc851c13bee5b71f38b73099b1ab93127eb72e1938fc9ffe094",
+      "job_sha256": "68417a9dd35e5408a8480fe056e6039a177cc19ac87beb80ca749e3bf7d66d70",
+      "technical_qa": "exports/S17/S17_technical_qa.json",
+      "technical_qa_sha256": "aa9a9d0303669f73104f0abcb7372e2f8f5ade9ca1de4f92f3cabbaf68571fd5",
+      "visual_qa": "exports/S17/S17_visual_qa.json",
+      "visual_qa_sha256": "4f7685a96df093e5d66dc2dfe88bee49f3bfb75a5ff24753752358b9f3c0fbfe",
+      "exports": [
+        {
+          "file": "exports/S17/S17_final.mp4",
+          "sha256": "012636bba873b46acac2cf2decf886ba74227afa8a52a2aa61bc0f14abadb498",
+          "distinct_from_rejected_export": true,
+          "technical_decode_passed": true,
+          "visually_accepted": true
+        },
+        {
+          "file": "exports/S17/S17_clean.mp4",
+          "sha256": "52957d7b8f2a6b78e54daba7847b9ad47206763dd07df301bcc67ff49017539e",
+          "distinct_from_rejected_export": true,
+          "technical_decode_passed": true,
+          "visually_accepted": true
+        }
+      ]
+    },
+    "source_report": "reports/S17_motion_corrections.json",
+    "source_report_sha256": "0e28f210e256abc851c13bee5b71f38b73099b1ab93127eb72e1938fc9ffe094",
+    "source_library_url": "https://chatgpt.com/api/library/files/libfile_633af746ed988191b6306c688d8f0ab7/download",
+    "user_feedback": []
+  },
+  {
+    "id": "HIST-EZ-S21",
+    "project": "Ezzay",
+    "title": "S21 original correction record",
+    "observed_error": [
+      {
+        "id": "monomer_stage_static",
+        "key": "monomer",
+        "start_seconds": 21.44,
+        "end_seconds": 32.48,
+        "duration_seconds": 11.04,
+        "detail": "The previous monomer branch drew the same six disconnected glyphs for the entire stage, ignoring both progress and elapsed time.",
+        "actual_mp4_evidence": "working/superseded_first_export_S21/decoded/S21_actual_mp4.jpg",
+        "actual_sample_time_seconds": 30.3,
+        "compositor_evidence": "working/superseded_first_export_S21/decoded/S21_composite_04.jpg",
+        "compositor_sample_times_seconds": [
+          21.667,
+          26.967,
+          32.433
+        ]
+      }
+    ],
+    "attempts_and_outcome": [
+      "Introduce one symbolic unit, then progressively reveal separate monomer symbols as the compound and its molecules are introduced.",
+      "Resolve the compound-name, plurality, sensitivity and first water mention from exact current audio-caption words.",
+      "Use circular symbolic units with an explicit qualification that they are not a structural formula.",
+      "Emphasize one representative unit as moisture sensitivity is explained, then bring a small molecular water symbol near it.",
+      "Keep every monomer disconnected throughout this stage; chain creation remains in the later unchanged chain scene."
+    ],
+    "cause": "Preserve explicit report mechanism; otherwise unestablished",
+    "status": "archived_QA_reports_accept_corrected_export_not_new_visual_review",
+    "initial_status": "source_correction_frozen_pending_final_export_review",
+    "release_report": {
+      "episode": "S21",
+      "episode_source": "diagrams/S21.cjs",
+      "episode_source_sha256": "9b6cf5b0c67d9e4af752d4802e49d46c56ade9f65970c3de3023b06dc41690de",
+      "matches_frozen_correction_source": true,
+      "correction_report": "quality/S21_visual_correction_record.json",
+      "correction_report_sha256": "8d079e6f96fd817ecc8101da081fe3974d3f2c2a76d82e52cebc9dde3da0fa13",
+      "job_sha256": "1a6a969f20bf773b2a2ec5e2b440727668a756a28e46a693f45f9b96d37ed36a",
+      "technical_qa": "exports/S21/S21_technical_qa.json",
+      "technical_qa_sha256": "7c986f8a69407e048fa0268b1c92d0b206f76e232b1e4005de0d6c7c83b805cf",
+      "visual_qa": "exports/S21/S21_visual_qa.json",
+      "visual_qa_sha256": "5d260e6fb0fe361e709a278b12465061fca70e4590bb5ddb40ff6f82bb145fc2",
+      "exports": [
+        {
+          "file": "exports/S21/S21_final.mp4",
+          "sha256": "0a52b21983329570a3683097cba6c2c6ab83b8b3dfb7174e2fa4346495deadb7",
+          "distinct_from_rejected_export": true,
+          "technical_decode_passed": true,
+          "visually_accepted": true
+        },
+        {
+          "file": "exports/S21/S21_clean.mp4",
+          "sha256": "7d0178fa2fac5a6bebf9c515b9e52d358e4ccec28d5bdd2e7fb278223720bee7",
+          "distinct_from_rejected_export": true,
+          "technical_decode_passed": true,
+          "visually_accepted": true
+        }
+      ]
+    },
+    "source_report": "reports/S21_visual_correction_record.json",
+    "source_report_sha256": "8d079e6f96fd817ecc8101da081fe3974d3f2c2a76d82e52cebc9dde3da0fa13",
+    "source_library_url": "https://chatgpt.com/api/library/files/libfile_e107a670a3a88191bf9b384fc4f5e805/download",
+    "user_feedback": []
+  },
+  {
+    "id": "HIST-EZ-EXTRA-39",
+    "project": "Ezzay",
+    "title": "Static opener",
+    "observed_error": "First-video cover held too long; animate drawing with question phrases before explanation, keep audio unchanged.",
+    "status": "conversation_report_only",
+    "sources": [],
+    "user_feedback": []
+  },
+  {
+    "id": "HIST-EZ-EXTRA-40",
+    "project": "Ezzay",
+    "title": "Airbag continuity",
+    "observed_error": "Airbag now remains inflated during seatbelt explanation; original exact failure and timing not documented.",
+    "status": "conversation_report_only",
+    "sources": [
+      {
+        "source_thread_id": "01a1666c-1bdc-7492-98b8-d37aeaed3062",
+        "item_id": "msg_02cdcabf10a2911b016adad998d7048191b4ca8c7b6d4ed552",
+        "role": "assistant",
+        "text": "الأغلفة الستون اجتازت فحص المقاسات ومساحة العناوين: غلاف أساسي ونسخة ٤:٥ لكل فيديو. براجعها الآن بصريًا بحجم قريب من شاشة الموبايل، بينما الفيديوهات الطويلة بتتصدّر. كمان اتصلحت استمرارية حركة الإيرباج، بحيث تفضل الوسادة منفوخة أثناء شرح دور الحزام.",
+        "truncated": false
+      }
+    ],
+    "user_feedback": []
+  },
+  {
+    "id": "HIST-EZ-EXTRA-41",
+    "project": "Ezzay",
+    "title": "Undelivered referenced files",
+    "observed_error": "User said referenced prompt files were not supplied; then requested raw files instead of bundles.",
+    "status": "conversation_report_only",
+    "sources": [
+      {
+        "source_thread_id": "01a1666c-1bdc-7492-98b8-d37aeaed3062",
+        "item_id": "01a1667d-81fe-7154-9f88-41068b5b01aa",
+        "role": "user",
+        "text": "الملفات ل ذكرتها فلبرومبت ماديتهاليش عشان ابعتهاله",
+        "truncated": false
+      }
+    ],
+    "user_feedback": [
+      {
+        "source_thread_id": "01a1666c-1bdc-7492-98b8-d37aeaed3062",
+        "item_id": "01a1667d-81fe-7154-9f88-41068b5b01aa",
+        "role": "user",
+        "text": "الملفات ل ذكرتها فلبرومبت ماديتهاليش عشان ابعتهاله",
+        "truncated": false
+      }
+    ]
+  },
+  {
+    "id": "HIST-EZ-EXTRA-42",
+    "project": "Ezzay",
+    "title": "Scientific script-to-diagram safety",
+    "observed_error": "Induction surface wrongly called cold/safe to touch; assistant says corrected before voice generation. Other scientific changes need archived reviewed script evidence rather than medical inference.",
+    "status": "conversation_report_only",
+    "sources": [
+      {
+        "source_thread_id": "01a1666c-1bdc-7492-98b8-d37aeaed3062",
+        "item_id": "msg_02cdcabf10a2911b016adac9446ebc8191babdaa3f25a83f4c",
+        "role": "assistant",
+        "text": "أيوه يا يحيى، قدرت أقرأ الرسالة كاملة، وفيها الـ30 سكريبت ومفتاح توليد الصوت وتعليمات حفظ النتائج. هبدأ بتثبيت السكريبتات وملفات المشروع، ثم مراجعة المعلومات وتجهيز النطق قبل التوليد. لاحظت بالفعل عبارات محتاجة تصحيح، منها وصف سطح الإندكشن بأنه بارد وآمن للمس؛ هو ممكن يسخن من الحلة، وهسجّل التصحيحات بوضوح قبل إنتاج الصوت.",
+        "truncated": false
+      }
+    ],
+    "user_feedback": []
+  },
+  {
+    "id": "HIST-EZ-EXTRA-43",
+    "project": "Ezzay",
+    "title": "Three truncated derived WAVs, not original TTS",
+    "status": "archived_repair_report_not_new_playback",
+    "source_report": "reports/derived_wav_repairs.json",
+    "attempts_and_outcome": [
+      {
+        "episode": "L02",
+        "before_wav_sha256": "ac794271eb9e98425aca2f2937b9567f9bba890e27f3f4a7567894463d20c60e",
+        "after_wav_sha256": "62474042ff0d4c450907bf0b79e1261814c6fb8bb930e992c7da61089fed7b38",
+        "wav_duration": 383.68,
+        "mp3_duration": 383.712653,
+        "original_mp3_sha256_unchanged": true,
+        "action": "WAV rederived from complete original MP3; no TTS request; no speech or speed changes",
+        "utc": "2026-10-23T03:33:44.069443+00:00"
+      },
+      {
+        "episode": "L03",
+        "before_wav_sha256": "e274f044b6eab7b27f72b28c28cadadfe7827b1250d12b240c2ed3857a212fdb",
+        "after_wav_sha256": "a06706ecebcc946bdd07a676dbc929fedabd7a724d7bc081f97bba45ed77ed3c",
+        "wav_duration": 422.24,
+        "mp3_duration": 422.269388,
+        "original_mp3_sha256_unchanged": true,
+        "action": "WAV rederived from complete original MP3; no TTS request; no speech or speed changes",
+        "utc": "2026-10-23T03:33:49.731201+00:00"
+      },
+      {
+        "episode": "S14",
+        "before_wav_sha256": "3bb1460116fcb7ba94116a469d78b06154cb548c7593784ced5e633a0cb1c0a0",
+        "after_wav_sha256": "60c03c5d14e4393735a059cf90aeb95a9e615191f267f145924f0e69c4c34944",
+        "wav_duration": 59.44,
+        "mp3_duration": 59.480816,
+        "original_mp3_sha256_unchanged": true,
+        "action": "WAV rederived from complete original MP3; no TTS request; no speech or speed changes",
+        "utc": "2026-10-23T03:33:50.698138+00:00"
+      }
+    ],
+    "source_library_url": "https://chatgpt.com/api/library/files/libfile_07fbd079c9e88191895c83638e4fbb65/download"
+  },
+  {
+    "id": "HIST-EZ-EXTRA-44",
+    "project": "Ezzay",
+    "title": "Eight cover titles too long for safe margins",
+    "status": "archived_repair_report_not_new_playback",
+    "source_report": "reports/cover_title_adjustments.json",
+    "attempts_and_outcome": [
+      {
+        "episode": "S01",
+        "before": [
+          "الترمس بيحافظ على السخونة",
+          "من غير سخّان إزّاي؟"
+        ],
+        "after": [
+          "الترمس بيحفظ السخونة",
+          "بالساعات إزّاي؟"
+        ],
+        "reason_ar": "اختصار عنوان الغلاف ليبقى واضحًا داخل الهامش الآمن بحجم الخط المعتمد، دون تغيير السكريبت أو الصوت."
+      },
+      {
+        "episode": "S02",
+        "before": [
+          "ليه البصل بيخلّي",
+          "عينك تدمّع أول ما يتقطع؟"
+        ],
+        "after": [
+          "ليه البصل بيخلّي",
+          "عينك تدمّع؟"
+        ],
+        "reason_ar": "اختصار عنوان الغلاف ليبقى واضحًا داخل الهامش الآمن بحجم الخط المعتمد، دون تغيير السكريبت أو الصوت."
+      },
+      {
+        "episode": "S03",
+        "before": [
+          "التيفال مش بيلزق",
+          "طب مسك في الطاسة إزّاي؟"
+        ],
+        "after": [
+          "التيفال مش بيلزق",
+          "طب ماسك إزّاي؟"
+        ],
+        "reason_ar": "اختصار عنوان الغلاف ليبقى واضحًا داخل الهامش الآمن بحجم الخط المعتمد، دون تغيير السكريبت أو الصوت."
+      },
+      {
+        "episode": "S06",
+        "before": [
+          "ليه صوتك في الريكورد",
+          "مختلف عن اللي بتسمعه؟"
+        ],
+        "after": [
+          "ليه صوتك مختلف",
+          "في الريكورد؟"
+        ],
+        "reason_ar": "اختصار عنوان الغلاف ليبقى واضحًا داخل الهامش الآمن بحجم الخط المعتمد، دون تغيير السكريبت أو الصوت."
+      },
+      {
+        "episode": "S07",
+        "before": [
+          "القهوة بتفوّقك",
+          "ولا بتخفي النعاس مؤقتاً؟"
+        ],
+        "after": [
+          "القهوة بتفوّقك",
+          "ولا بتخفي النعاس؟"
+        ],
+        "reason_ar": "اختصار عنوان الغلاف ليبقى واضحًا داخل الهامش الآمن بحجم الخط المعتمد، دون تغيير السكريبت أو الصوت."
+      },
+      {
+        "episode": "S09",
+        "before": [
+          "الإيرباج بيفتح",
+          "قبل الخبطة توصل لك إزّاي؟"
+        ],
+        "after": [
+          "الإيرباج بيفتح",
+          "بالسرعة دي إزّاي؟"
+        ],
+        "reason_ar": "اختصار عنوان الغلاف ليبقى واضحًا داخل الهامش الآمن بحجم الخط المعتمد، دون تغيير السكريبت أو الصوت."
+      },
+      {
+        "episode": "S11",
+        "before": [
+          "عينك بتشوف في الضلمة",
+          "بعد شوية إزّاي؟"
+        ],
+        "after": [
+          "عينك بتشوف إزّاي",
+          "في الضلمة؟"
+        ],
+        "reason_ar": "اختصار عنوان الغلاف ليبقى واضحًا داخل الهامش الآمن بحجم الخط المعتمد، دون تغيير السكريبت أو الصوت."
+      },
+      {
+        "episode": "S12",
+        "before": [
+          "المية ناتج احتراق",
+          "إزّاي بتطفي أنواع من النار؟"
+        ],
+        "after": [
+          "المية بتطفي",
+          "أنواع من النار إزّاي؟"
+        ],
+        "reason_ar": "اختصار عنوان الغلاف ليبقى واضحًا داخل الهامش الآمن بحجم الخط المعتمد، دون تغيير السكريبت أو الصوت."
+      }
+    ],
+    "source_library_url": "https://chatgpt.com/api/library/files/libfile_e72f0c796dd88191a2d79cc6a250d17e/download"
+  },
+  {
+    "id": "HIST-EZ-ASR-CAVEAT",
+    "project": "Ezzay",
+    "title": "Unresolved ASR ambiguity is not proven pronunciation failure",
+    "status": "unresolved_requires_listening",
+    "observed_error": "S04 10.18–10.84s ثانية transcribed سنة; S18 7.96–9.30s مش شهي يا ترى merged by ASR. No manual full listening performed.",
+    "sources": [
+      {
+        "source_thread_id": "01a1666c-1bdc-7492-98b8-d37aeaed3062",
+        "item_id": "msg_02cdcabf10a2911b016adaf01236f88191a0abd731dec50d7c",
+        "role": "assistant",
+        "text": "**مراجعة الصوت كانت آلية، وليست استماعًا بشريًا كاملًا.** فيه موضعان سجلت فيهم أدوات التفريغ التباسًا يستحق السماع قبل النشر:\n\n- **S04، من 10.18 إلى 10.84 ثانية:** كلمة «ثانية» ظهرت في التفريغ الآلي «سنة».\n- **S18، من 7.96 إلى 9.30 ثانية:** عبارة «مش شهي يا ترى» ظهرت مدموجة في التفريغ الآلي.\n\nدي ملاحظات تعرّف آلي، وليست أخطاء نطق مؤكدة. التقرير التفصيلي محفوظ في [ASR_QA_Summary_AR.txt](sandbox:/workspace/scratch/4caa3d2b1332/ezzay_production/audio/ASR_QA_Summary_AR.txt).",
+        "truncated": false
+      }
+    ]
+  }
+]

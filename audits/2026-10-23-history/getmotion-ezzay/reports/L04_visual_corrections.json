@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "id": "L04",
+  "reviewed_utc": "2026-10-23T04:12:05.924373+00:00",
+  "status": "source_correction_visually_confirmed; final_rerender_pending",
+  "authorized_by": "parent requested a localized correction after full visual review",
+  "changed_file": "diagrams/L04.cjs",
+  "before_sha256": "882d64b57eba8f2e8126b5850410f0ad92f48fe6be2281c8bf4c95b4ea4b96dd",
+  "after_sha256": "7bcff342cf06ebf29ca64e674e505c17d32a348f4e600c5a6340e4b4f2febd37",
+  "change": "Move الرسم غير مقياسي from x=330 to x=240 at y=520 so the orbital ellipse does not touch its initial Arabic letters. This one label is shared within the episode constellation/horizon/obstruction stages.",
+  "shared_helpers_or_runtime_modified": false,
+  "audio_or_script_modified": false,
+  "review_scope_of_rejected_export": {
+    "actual_final_mp4_frames_viewed": 9,
+    "actual_clean_mp4_frames_viewed": 5,
+    "source_composite_pages_viewed": 13,
+    "source_rendered_frames_in_viewed_composites": 156
+  },
+  "rejected_videos": [
+    {
+      "file": "exports/L04/L04_final.mp4",
+      "sha256": "a8027c8a3a6e2870cc48d9edd5f4f4c502f6912afdc99d15519aeb82182605a9"
+    },
+    {
+      "file": "exports/L04/L04_clean.mp4",
+      "sha256": "a41f6fbef5afd737246c1b517a44e4845e334822d9858808c952de1cd5afd2c5"
+    }
+  ],
+  "corrected_frames": [
+    {
+      "stage": "constellation",
+      "time": 80.233,
+      "file": "working/final_render/corrections/L04/corrected_80.233s.png",
+      "sha256": "0f880edb95927e4a9a0a1df99ef5bee1bfde1d94248ee02354366ede67dc1fab",
+      "explicit_full_resolution_visual_review_passed": true
+    },
+    {
+      "stage": "horizon",
+      "time": 88.367,
+      "file": "working/final_render/corrections/L04/corrected_88.367s.png",
+      "sha256": "41109897687d68c5566e1d938d97322fa9b774209c80a4108243a2c2c50db8b7",
+      "explicit_full_resolution_visual_review_passed": true
+    },
+    {
+      "stage": "obstruction",
+      "time": 92.167,
+      "file": "working/final_render/corrections/L04/corrected_92.167s.png",
+      "sha256": "c318806a145f21f2e951a560b7b27c7c37e01a3a8d49fc4068b09f99ebb5c2ec",
+      "explicit_full_resolution_visual_review_passed": true
+    }
+  ],
+  "limitations": [
+    "These corrected frames are source renders, not a corrected encoded MP4. Current exports remain unaccepted until rerendered and inspected."
+  ]
+}

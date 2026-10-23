@@ -1,0 +1,85 @@
+{
+  "episode": "L03",
+  "authorization": "Root authorized L03-only correction after sampled final video QA; no shared helper or running episode module edited.",
+  "issues": [
+    {
+      "id": "cox_label_overlap",
+      "severity": "required_fix",
+      "source": "confirmed_in_decoded_final_mp4",
+      "time_seconds": [
+        138.933333,
+        307.533333
+      ],
+      "detail": "COX, COX 1 and COX 2 labels overlap the black binding-pocket outline; the moving inhibitor can also cover the label. Move labels above the enzyme symbols.",
+      "evidence": [
+        "working/final_render/decoded/L03/issue_mp4_138.933s.png",
+        "working/final_render/decoded/L03/issue_mp4_307.533s.png"
+      ]
+    },
+    {
+      "id": "gastric_arrow_overlap_and_direction",
+      "severity": "required_fix",
+      "source": "confirmed_in_decoded_final_mp4",
+      "time_seconds": [
+        316.366667,
+        336.766667
+      ],
+      "detail": "The red arrow passes through the protective-mucus label. In the thick-mucus state it points upward from the surface. Move it left of the label and make it point downward from the lumen toward the outer mucus surface.",
+      "evidence": [
+        "working/final_render/decoded/L03/issue_mp4_316.367s.png",
+        "working/final_render/decoded/L03/issue_mp4_336.767s.png"
+      ]
+    }
+  ],
+  "before_module_sha256": "1274891fb86d0e52e57210d2ee9e4bf60a067dc1b3f08b5484e7462f831b909c",
+  "after_module_sha256": "dd512f5e71f51ded6b41647cc5caa74fc27749c44f20dedcac67fedcf5958ceb",
+  "superseded_videos": [
+    {
+      "file": "exports/L03/L03_final.mp4",
+      "sha256": "8eeb0b488bfd1d8b6bfd316e9d292e1806051d72b0db3628c65fb86126456896"
+    },
+    {
+      "file": "exports/L03/L03_clean.mp4",
+      "sha256": "ecbce7af418d123feb566e177ba4ed3fddfdc1abaa724cf688efe59a2e607358"
+    }
+  ],
+  "job_sha256_unchanged": "2362ae8668fea133ade0451bb6970b837b63acfb1749560c5af68ea4976557c5",
+  "script_audio_storyboard_timing_unchanged": true,
+  "runtime_core_unchanged": true,
+  "changes": [
+    {
+      "before": "T('كوكس',800,330,46,c.ink,800)",
+      "after": "T('كوكس',800,195,46,c.ink,800)",
+      "reason": "Separate label from the binding-pocket outline and inhibitor trajectory."
+    },
+    {
+      "before": "T('كوكس ١',550,325,43,c.ink,700);T('كوكس ٢',1050,325,43,c.ink,700)",
+      "after": "T('كوكس ١',550,190,43,c.ink,700);T('كوكس ٢',1050,190,43,c.ink,700)",
+      "reason": "Place both type labels above the corresponding enzyme outlines."
+    },
+    {
+      "before": "A(1050,320,1050,400-th,c.coral)",
+      "after": "A(970,280,970,400-th,c.coral)",
+      "reason": "Keep the arrow left of the mucus label, consistently pointing down from lumen to just above the protective layer."
+    }
+  ],
+  "corrected_source_preview_files": [
+    "diagrams/qa/L03_label_correction/corrected_138.933s.png",
+    "diagrams/qa/L03_label_correction/corrected_219.000s.png",
+    "diagrams/qa/L03_label_correction/corrected_307.533s.png",
+    "diagrams/qa/L03_label_correction/corrected_316.367s.png",
+    "diagrams/qa/L03_label_correction/corrected_336.767s.png",
+    "diagrams/qa/L03_label_correction/corrected_353.067s.png"
+  ],
+  "corrected_source_previews_inspected": true,
+  "rerender_required": true,
+  "status": "source_correction_verified_waiting_full_targeted_rerender",
+  "source_preview_observations": [
+    "Six corrected full-frame compositor previews inspected individually at 138.933, 219.000, 307.533, 316.367, 336.767 and 353.067 seconds.",
+    "COX labels are clear above their symbols and outside the moving inhibitor trajectory. COX 1 and COX 2 remain associated with separate symbols.",
+    "The gastric arrow no longer intersects the protective-mucus label and points downward from the lumen to just above the barrier in both thick- and thin-layer states.",
+    "The food-risk scene retains legible caution text, separated from the arrow and captions.",
+    "No source script, audio, storyboard, timing, shared helper or core runtime file changed."
+  ],
+  "source_frozen_at_utc": "2026-10-23T04:13:11.027159+00:00"
+}

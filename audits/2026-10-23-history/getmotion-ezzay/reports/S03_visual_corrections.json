@@ -1,0 +1,35 @@
+{
+  "episode": "S03",
+  "status": "source_corrected_pending_full_rerender",
+  "issue": {
+    "type": "label_interface_overlap",
+    "time_seconds": 46.94,
+    "label": "طبقة أساس",
+    "evidence": "The actual MP4 detail crop shows the label baseline touching the jagged material interface.",
+    "correction": "Place the label in two lines outside the material section with a short leader pointing into the primer band."
+  },
+  "source_file": "diagrams/S03.cjs",
+  "source_sha256": "8cb397ba29d9372c4f8411ada6faeb54b9a9931a679a059869ab0bff92941ea6",
+  "scope": "Only an episode-local label override changed; shared subject module, narration and timeline unchanged.",
+  "corrected_source_frames_reviewed": [
+    {
+      "file": "working/S03_corrected_primer.png",
+      "sha256": "9314c21bad03baa10f069becb38e2cc37e8d93153e44b722a8fe7394d564aec5"
+    },
+    {
+      "file": "working/S03_corrected_curing.png",
+      "sha256": "c35e6571409782c4173e042a4ec29162cbea878182fae63158317dc4f4736714"
+    }
+  ],
+  "correction_visual_result": "Both full-size source frames inspected; label clear of the jagged interface and coating; leader points to primer; captions and margins unchanged.",
+  "previous_video_hashes": [
+    {
+      "file": "exports/S03/S03_final.mp4",
+      "sha256": "9bee27913fdbd55225b632a5c8b3ceab8f1c2defe21b4331df33f88ad0c937c3"
+    },
+    {
+      "file": "exports/S03/S03_clean.mp4",
+      "sha256": "9c4c56d8bec65d722e75f556dc3ffb00241a16fa20303a3e9d33e909aa3e7d4d"
+    }
+  ]
+}

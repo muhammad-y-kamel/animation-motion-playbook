@@ -1,0 +1,96 @@
+{
+  "episode": "L05",
+  "authorization": "Root authorized L05-only correction after sampled final video QA; no shared helper or core runtime edited.",
+  "issues": [
+    {
+      "id": "deep_discharge_curve_incomplete",
+      "severity": "required_fix",
+      "source": "confirmed_in_decoded_final_mp4",
+      "stage": "deep_discharge",
+      "function": "voltage",
+      "start_seconds": 395.76,
+      "end_seconds": 398.0,
+      "duration_seconds": 2.24,
+      "original_reveal_seconds": 5,
+      "time_seconds": [
+        397.92
+      ],
+      "detail": "The fixed five-second reveal stops before the voltage curve reaches the cutoff or its deeper-discharge segment during the 2.24-second scene.",
+      "evidence": [
+        "working/final_render/decoded/L05/issue_mp4_397.920s.png"
+      ]
+    },
+    {
+      "id": "charge_taper_curve_incomplete",
+      "severity": "required_fix",
+      "source": "confirmed_in_decoded_final_mp4",
+      "stage": "slow_charge",
+      "function": "charging",
+      "start_seconds": 416.28,
+      "end_seconds": 419.04,
+      "duration_seconds": 2.76,
+      "original_reveal_seconds": 6,
+      "time_seconds": [
+        419.0
+      ],
+      "detail": "The fixed six-second reveal stops before the main charging-current taper during the 2.76-second scene.",
+      "evidence": [
+        "working/final_render/decoded/L05/issue_mp4_419.000s.png"
+      ]
+    }
+  ],
+  "before_module_sha256": "7c8fe41a5fd519f6704d6bf6c2be2ccfd724cfc17c7c2ca1ea199fdf402cf37d",
+  "after_module_sha256": "a90f0ed61c0f33bcf76fe9a8a486ad5ee6aa3e249413b4d3384811617e0cfaf2",
+  "superseded_videos": [
+    {
+      "file": "exports/L05/L05_final.mp4",
+      "sha256": "692d0b33dd2fd9573fed70aeee70bfc9982cfa51743e8a93675a1887e33934dc"
+    },
+    {
+      "file": "exports/L05/L05_clean.mp4",
+      "sha256": "4b6a2bada11df663150985281353f4bb9f6af194e7182c0eca40b0111b6dda14"
+    }
+  ],
+  "job_sha256_unchanged": "fdfcb60b354bf6b2f3b758bd8764c0fa8e46c43140115377ba24a2d0b3b6c9de",
+  "script_audio_storyboard_timing_unchanged": true,
+  "runtime_core_unchanged": true,
+  "changes": [
+    {
+      "function": "voltage(ctx,U,s,t,p)",
+      "stage": "deep_discharge",
+      "before": "q = D.tween(t, 0, 5)",
+      "after": "q = s === 'deep_discharge' ? D.smooth(p / .8) : D.tween(t, 0, 5)",
+      "reason": "Complete the deep-discharge path within 80% of its actual scene; hold its complete result for the final 20% (about 0.448 seconds). Other voltage stages retain their timing."
+    },
+    {
+      "function": "charging(ctx,U,s,t,p)",
+      "stage": "slow_charge",
+      "before": "q = D.tween(t, 0, 6)",
+      "after": "q = s === 'slow_charge' ? D.smooth(p / .8) : D.tween(t, 0, 6)",
+      "reason": "Complete the current taper within 80% of its actual scene; hold its complete result for the final 20% (about 0.552 seconds). Optimized-charging timing is unchanged."
+    },
+    {
+      "before": "voltage(ctx,U,s,t); / charging(ctx,U,s,t);",
+      "after": "voltage(ctx,U,s,t,p); / charging(ctx,U,s,t,p);",
+      "reason": "Pass existing actual scene progress to these two episode-local functions."
+    }
+  ],
+  "corrected_source_preview_files": [
+    "diagrams/qa/L05_curve_correction/corrected_396.320s.png",
+    "diagrams/qa/L05_curve_correction/corrected_397.600s.png",
+    "diagrams/qa/L05_curve_correction/corrected_397.920s.png",
+    "diagrams/qa/L05_curve_correction/corrected_416.980s.png",
+    "diagrams/qa/L05_curve_correction/corrected_418.520s.png",
+    "diagrams/qa/L05_curve_correction/corrected_419.000s.png"
+  ],
+  "corrected_source_previews_inspected": true,
+  "rerender_required": true,
+  "status": "source_correction_verified_waiting_full_targeted_rerender",
+  "source_preview_observations": [
+    "Six corrected full-frame compositor previews inspected individually.",
+    "Deep-discharge graph progresses from the beginning and reaches the below-cutoff segment before its final hold.",
+    "Charging-current graph progresses from the beginning and reaches the full descending taper before its final hold.",
+    "Labels, captions and curve margins remain clear; no unrelated source or timing changed."
+  ],
+  "source_frozen_at_utc": "2026-10-23T04:22:42.036165+00:00"
+}

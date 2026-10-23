@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "id": "L01",
+  "reviewed_utc": "2026-10-23T04:01:34.048327+00:00",
+  "status": "source_corrections_visually_confirmed; final_rerender_pending",
+  "authorized_by": "parent requested these three confirmed fixes after complete visual review",
+  "changed_file": "diagrams/L01.cjs",
+  "before_sha256": "5eaad99cb2fea056bf5d2e0cc45257adac304f4f049e9f277806075bcbd0d26b",
+  "after_sha256": "6e2f8d518da7a1c2f2c92118fd25f1b7a005687e1aafc2acd407466489230657",
+  "shared_helpers_or_runtime_modified": false,
+  "audio_or_script_modified": false,
+  "review_scope_of_rejected_export": {
+    "actual_final_mp4_frames_viewed": 9,
+    "actual_clean_mp4_frames_viewed": 5,
+    "source_composite_pages_viewed": 13,
+    "source_rendered_frames_in_viewed_composites": 156
+  },
+  "rejected_videos": [
+    {
+      "file": "exports/L01/L01_final.mp4",
+      "sha256": "cf6cff6ba2ff665360d5473ba29bbc9845e06de8074e66362a2db7368582f90b"
+    },
+    {
+      "file": "exports/L01/L01_clean.mp4",
+      "sha256": "90937f99eda3f7f3fdf057658ad24b157567b5c5e2e62614fc7580b272fa8bfc"
+    }
+  ],
+  "corrections": [
+    {
+      "stage": "pressure_rise",
+      "time": 198.933,
+      "change": "Move the pressure label to the right of the vertical pressure arrow and above the horizontal heat arrow; no strokes pass through the text.",
+      "corrected_source_frame": "working/final_render/corrections/L01/corrected_198.933s.png",
+      "sha256": "32d322a8b4a9c0ff54056710bad6ce5fd0e0577604c8c4b14e472e3d8fb1a982",
+      "explicit_full_resolution_visual_review_passed": true
+    },
+    {
+      "stage": "cycle_split",
+      "time": 209.033,
+      "change": "Move both compartment labels into open interior spaces, clear of the vertical pipe segments and center dashed divider.",
+      "corrected_source_frame": "working/final_render/corrections/L01/corrected_209.033s.png",
+      "sha256": "6e8af3d5c848735429d789028bc4dba03f9a749c2f80e19d581d326ae3de0c0d",
+      "explicit_full_resolution_visual_review_passed": true
+    },
+    {
+      "stage": "temperature_rule",
+      "time": 282.633,
+      "change": "Use coral for the hotter thermometer and blue for the cooler one; preserve correct direction of heat flow and other temperature scenes.",
+      "corrected_source_frame": "working/final_render/corrections/L01/corrected_282.633s.png",
+      "sha256": "6192b5acb940420f3840f7689ffa80099e885fbbcf0d2940ad4a3ceb271d0954",
+      "explicit_full_resolution_visual_review_passed": true
+    }
+  ],
+  "limitations": [
+    "These corrected poster frames are source renders, not a corrected encoded MP4. The rejected MP4 remains unaccepted until a new export is decoded and reviewed."
+  ]
+}
