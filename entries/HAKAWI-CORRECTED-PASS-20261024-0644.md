@@ -1,0 +1,33 @@
+# Hakawi corrected pass — bounded evidence, 24 October 2026 06:44 UTC
+
+## HAKAWI-TTS-022 — ASR lexical success missed audible Egyptian errors
+User listening found wrong vowels/gemination/stress despite intended spelling recovered by ASR. Cause: lexical decoding normalizes acoustic differences; restored PDF text does not ensure spoken Egyptian realization. Last contextual nine-method test was partial with four failures, not a phonetic pass.
+Repair: audit all four scripts before paid production (143 contextual risk occurrences), preserve immutable canonical source, apply123 conservative context edits and four IPA controls only in authorized TTS layer. Distinguish طلعت/طلّعت meanings, subject gender from voice speaker, cardinal/ordinal values and Egyptian versus protected quotation register. Do not guess unresolved terms or globally convert qaf.
+Canonical word IDs and explicit source↔TTS maps preserve original caption spelling; raw provider timing remains separate from interpolated canonical character timing. Protected Quran/hadith endings byte-equal.
+Latest user expressly authorized a best-effort full regeneration and then waived further audition/preview approval for this task. One corrected pass completed:19 requests,12,177 credits, E01 506.96s/E02 473.52s/E03 465.36s/E04 462.96s. No paid ASR, no Short TTS. Old alignment/cuts invalidated. Generation authority now closed; no automatic additional paid retries.
+Status: corrected_pass_completed / pronunciation_best_effort_not_heard. No direct listening or perfect pronunciation claim. Original Omar/Heba role continuity retained; not a voice change for other channels.
+
+## HAKAWI-PHONETIC-QA-023 — blind phone decoder failed controls
+Allosaurus blind IPA/arz experiment ran on existing42.88s audio without transcript/error hints. Raw output SHA256 `433ac603dbd83ad14b6524225c96b8536fcc17194ddb045e0ee7d1ae426a4c2e` frozen before reference mapping. Positive controls were distorted too; expected-phone differences cannot distinguish real errors. Repeated-token suppression obscures gemination; fixed45ms model window is NOT phone duration. Reject this experiment as sole phonetic QA, not all possible tools.
+Free Whisper full jobs hit resource limits/hallucination; selective crops recovered phrases and four IPA-target Arabic words without confirmed markup readout. This is gross-format/omission evidence only, not vowels/stress/emotion. No paid retakes inferred from ASR disagreement alone. Preserve failed trials and disclose unperformed listening.
+
+## HAKAWI-ANATOMY-021 follow-up — accepted sizes, bounded coverage repair
+User accepted revised Sabah/Yaser sizes, then required motion/joint coverage. Prior oversized-arm failure retained. Same person/wardrobe changes must preserve common bones; inspect thickness/head/torso/hand ratios and silhouette, not just length/connectivity.
+V10 silent proof SHA256 `efd17dcf033193ad9ffe8cee086145e8ec52b236223abdd9767ba1c65a8eb01b`: all154 decoded shoulder ROI frames inspected on seven sheets. V8 underarm gap and V9 sleeve stump/double-lobe absent, accepted size unchanged. Numerical17,248 triangles/zero inversions on the referenced mesh could not alone prove painted alpha/shape. Status: targeted_all_frame_ROI_pass; whole-film anatomy/acting remains unproven; natural idle wrist/finger acting a separate limitation.
+Finite physical clocks, actual grip/support/contact and pure absolute-time prop ownership remain mandatory; earlier pacing/continuity cases are not closed by this shoulder proof.
+
+## HAKAWI-RENDER-024 — memory/drain reliability needs bounded range loading
+Whole-film render resource failures motivate bounded scene-range asset loading (~30s lookahead,10 whole-image cache entries), whole-process RSS monitoring and encoder-drain watchdog. Missing assets must fail loudly, not silently disappear. All17 tested full-load versus range-load PNG hashes match. This is selected-frame pixel equivalence, not every-frame or sustained final-encode proof.
+Regression: check range-boundary/seek rendering, asset inventory, identical reference pixels, real full-resolution RSS and encoder completion/decode. Recheck missing-resource paths rather than declaring success from a partial MP4.
+
+## HAKAWI-COVERS-025 — culture, anatomy and reference leakage
+All44 cover artworks completed with source-specific manifest QA; final part association waits current long-master cut map.
+Actual failures/trials: E01 disconnected cloth/non-source plant → connected cuff and prop removal; soft alpha halo on identity reference → separately cleaned rig, no automatic transparency assumption. E02 generic sandwich became burrito → explicit Egyptian round baladi pita/ful/tahini; extra Karim in solo scene → inpaint removal; missing tenth-part badge → targeted Arabic repair. E04 wrong anatomical wrist → body-connected handedness correction, not whole-image mirroring; croissant-like pastry → explicit flat basbousa squares/almonds; inherited hearth in overseas kitchen → stainless commercial setting. E03 ring reappeared after giveaway → remove only ring, preserve identity/text.
+Recheck full source span, identities, absent characters, cultural objects, Arabic joins/hamza/dots/ordinal, source-state continuity and phone margins after every edit. Cover-art pass is not film/upload pass. Critical video props/locks/hands must also avoid mobile UI rails, not only captions.
+
+## Latest authority and unresolved release gates
+User messages `Sentinel_01161ce48adc8191a44f10692cd22c3d` and `Sentinel_a8be247c66d8819186d9702425656a1a` authorize these saved corrections and finishing/scheduling without another preview approval. This task-specific waiver supersedes older waiting gates, not general permissions, credentials or unlimited spending. No global custom rule created.
+Keep canonical scripts immutable; Egyptian phonetic techniques do not transfer automatically to MSA projects. Complete internally reviewed long first, then native portrait DRAWING of same actions/audio/timeline; no crop shortcut. Cut Shorts from exact final mixed PCM, no independent TTS/remix. Publish in already agreed daily Shorts-first-then-long order only after actual final media QA; no known HIGH defect release.
+At snapshot all corrected audio masters complete; E01–E04 full release/YouTube upload not established. Narrow proofs are explicitly not final approval.
+
+Evidence basis: complete contextual audit and corrected-pass plan/credit/alignment ledgers; blind experiment raw hash/report; arm-v10 independent review; range-loader pixel comparison; ALL-COVERS-MANIFEST and COVER-QA-LESSONS. Compact findings retained here, not private handoffs/credentials/raw internal logs.

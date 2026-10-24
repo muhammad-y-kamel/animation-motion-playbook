@@ -105,3 +105,5 @@ IDs never change or get reused. New occurrence of same mechanism links the origi
 | [HAKAWI-PACING-020](entries/HAKAWI-PACING-20261024-0514.md) | pacing / continuity / shared workflow | E01–E04 | Physical action stretched to narration-shot duration; full decode pass did not clear glacial gestures, missing contact and prop continuity | OPEN / repair_in_progress |
 
 | [HAKAWI-ANATOMY-021](entries/HAKAWI-ANATOMY-20261024-0529.md) | anatomy / user rejection / QA | E01 first45s | Oversized arm silhouette escaped numeric IK and selected-pose checks; both actors and family scene require reference-calibrated review | OPEN / repair_in_progress |
+
+| [HAKAWI-TTS-022 / PHONETIC-QA-023 / RENDER-024 / COVERS-025](entries/HAKAWI-CORRECTED-PASS-20261024-0644.md) | pronunciation / anatomy / render / covers | E01–E04 | Contextual corrected pass; unreliable acoustic proxies; bounded coverage/range proofs; culturally faithful covers | best_effort_audio_completed / narrow_QA_only / full_release_pending |

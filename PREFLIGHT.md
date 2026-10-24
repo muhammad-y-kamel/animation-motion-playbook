@@ -113,3 +113,12 @@ Evidence: [HAKAWI-PACING-020](entries/HAKAWI-PACING-20261024-0514.md); full E01 
 - [ ] Review both actors at rest/reach/raised/contact/withdraw and transitions, including the entire user-visible excerpt; preserve before/after images and rejected encode.
 - [ ] A numeric IK pass or source fix does not clear visual anatomy. Require corrected encoded independent QA and promised user style feedback before claiming acceptance.
 Evidence: [HAKAWI-ANATOMY-021](entries/HAKAWI-ANATOMY-20261024-0529.md); E01 first45s user rejection remains OPEN.
+
+## Contextual pronunciation and corrected-master gate
+- [ ] Full-source linguistic audit before paid TTS; canonical text/captions immutable, explicit contextual phonetic layer and source↔TTS stable-ID maps. Protected religious text byte-equal; subject gender is not speaker identity.
+- [ ] ASR spelling and IPA decoder output cannot certify vowels/stress/shadda. Validate positive controls; fixed model-window size is not phone duration. State hearing limits and stop when the bounded paid pass is complete.
+- [ ] User task-specific preview waiver removes waiting, not HIGH-defect internal QA or general permission requirements.
+- [ ] Same-person wardrobe preserves bones; zero mesh inversions is not alpha/silhouette coverage. Verify actual encoded joint regions and scope.
+- [ ] Bound asset cache/lookahead, monitor whole RSS/drain, fail missing assets and compare full/range pixels. Partial encode or selected-frame equivalence is not full film pass.
+- [ ] Check cover cultural objects, anatomical handedness, transferred-prop state and Arabic after each edit; final cover mapping follows final master cuts. Protect critical props from phone UI rails.
+Evidence: [corrected batch and bounded proofs](entries/HAKAWI-CORRECTED-PASS-20261024-0644.md).
