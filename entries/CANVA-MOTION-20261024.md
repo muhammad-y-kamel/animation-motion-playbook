@@ -91,3 +91,9 @@ Related mechanisms: ANIM-0002(camera coverage), ANIM-0013(review invalidation), 
 - Evaluate pacing with a short representative preview early; technical loudness and ASR cannot establish engagement.
 - Separate authentication, workspace name, paid entitlement and successful tool execution. Never infer one from another.
 - Reopen acceptance on user-reported defects; retain old technical evidence without presenting it as proof the rejected outcome was correct.
+
+
+### Follow-up: no-spoiler cover and reveal staging — 22:17 UTC
+User explicitly prohibited individual tool names both on the cover and anywhere in the video before each reveal. The preceding informational cover still listed names at its bottom; removed those lines from render-cover.cjs and inspected the actual 1080×1920 output. Cover now contains only “أقوى ٥ أدوات برو في كانفا”, brand assets and generic numbered cards. Library identity libfile_6429eb0f396c8191bf7bcd89ec3f5dce preserved, version2; previous versions retained. This cover fix is verified visually, not a claim that the future video is fixed.
+
+Repair source now has a reveal manifest using actual master provider first-name onsets: 9.20, 29.12, 49.84, 69.40 and 93.28 seconds. Final time-stretch/edit mapping must transform these boundaries. Paragraph start or subtitle chunk start is not a safe reveal boundary: split captions so a future name cannot appear early. Inspect intro cards, labels, transitions, chapter text, background menus and hover labels. Real editor recordings must use targeted genuine framing that excludes unrevealed tool names; no fabricated UI or tool results. Approved narration and sales ending remain unchanged. Final video gate remains OPEN pending real capture and encoded-boundary inspection.
