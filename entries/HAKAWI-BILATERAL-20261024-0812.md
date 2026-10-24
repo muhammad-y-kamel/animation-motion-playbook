@@ -71,3 +71,35 @@ The same Library identity is being replaced/uploaded. Native P01/P02 proof is ru
 ### External state and authority remain separate
 At this snapshot E03 and E04 OLD uploads remain externally scheduled pending the requested specific owner permission to make them Private without deletion and replace at the same dates. No owner answer was received at the reporting cutoff. E04 new-long QA does not itself mean its external old upload was replaced or unscheduled.
 No new user preview-approval gate is imposed on authorized repair production. Internal exact-output QA remains mandatory. Source text and PCM are preserved; no extra TTS, deletion, security/access changes or forced history rewrite is authorized by this documentation update.
+
+## Confirmed release-escape lessons and disposition — 2026-10-24 09:35 UTC
+
+This update supersedes earlier pending statuses only for the exact identities/scopes below. Earlier failed candidates and review limitations remain preserved.
+
+### New confirmed native-only defects and tested fixes
+- E04 caption recurrence: a global six-word group at41.92–44.24 leaked P02 words into P01 although audio slicing and caption placement were correct. Layout-fit checks had omitted actual per-part render dispatch. Dedicated canonical part-local groups now prove 6,485 characters/1,174 canonical word IDs rejoin exactly once. All13,893 actual wrapper frame times prove no global-array routing/out-of-part text. Five punctuation-attached tokens cross punctuation-only cuts: split punctuation only, never a spoken word. All10 parts/all9 boundaries checked; actual P01/P02 edge decodes confirm repair. Evidence: E04-master/qa/native-caption-contract.json, qa/build-native-captions.py and captions-portrait.json.
+- E04 native finite-action mismatch: portrait initially held settled endpoints for a whole beat instead of reproducing the master action phase. Same accepted natural targets now interpolate .65/.8seconds;21+25 consecutive decoded frames cleared both arms. Preserve source semantic phase, not just final pose.
+- E04 AAC export: default MP4 movie_timescale1000 rounded duration and lost16 decoded samples in P03. Remux with movie_timescale44100 from the original immutable slice preserves exact duration_ts/samplecount; verify video-packet identity, all10 sample ranges and no clipping. No new audio, TTS or per-part normalization. Raw-PCM hashes are not WAV-container hashes.
+- E04 source mutation: chunk0–30 retained old bottom captions while later chunks used upper-safe captions because source changed across a render lease transition. A lease is not a source freeze. Hash ALL rendering entrypoints plus shared code/assets/timing before leasing and before/after every checkpoint; fail on mutation, retain failed mixed-source output.
+- E01 native P07: after native basil setdown/floor anchor moved from1000 to1240, proximal sleeve root entered the viewport about50px at local9s. Actual LONG315.76 shows the correct offscreen sleeve exit and is unaffected. Extend ONLY proximal sleeve textile; preserve accepted hand size, pot/floor, event timing and PCM. Static repair passed; encoded retest remains queued/pending at this snapshot. Do not revoke/rerender an unaffected long or generate audio for a native-only bug. Evidence: E01-master/p07-root-fixed2-315.76.png and -317.4.png; actual native9s decode /tmp/e01p07-9.jpg.
+- Review all source and decoded full-resolution edge cases: cropped thigh/bust must intentionally continue outside viewport or use complete anatomy; oven/tray support must meet painted metal footprint, not alpha-glow bounds. Native restaging requires full-trajectory viewport-edge checks, not contact midpoint alone. Atlas tile boundaries can create false severed-hand claims; confirm actual full frame first.
+
+### Whole-chain correction outcomes, bounded evidence
+E01 coherent full-chain redraw and calibrated passive limb replaced hand-only attempts; all151 decoded frames in each master/native forward proof and168 used-pose source phases passed. Supplemental master9/native59 negative mesh triangles lie at alpha<=1/255, with zero pixels above5/255; this is no visible-surface inversion, NOT mathematically zero inversions.
+E02 crop-only restoration of painted rounded upper/forearm extents fixed rectangular elbow while preserving bones/pivots; affected36 static poses and180 encoded both-facing frames passed.
+E03 removed the old SAME-near-shoulder baked arm, preserved explicit far hand, repaired root/collar bridge and used genuine pinch/reaction instead of unsupported vanishing S04 paper. v3 arc pass did not catch S12 shoulder bite; v11 source/v4 actual S04/S12 retests repaired that separate root defect. The prior passive-source-pose hypothesis stays withdrawn.
+E04 lowered wrist/family targets physically forward/down, without size/blur concealment. Known-HIGH replacement review included72 critical frames,60 changed-range seconds at1fps, and a second46-decoded-frame review.
+Evidence source: hakawi-production-20261024/independent-qa/RELEASE-ESCAPE-LESSONS-20261024.md; STAGE-LOG.md; E04-master/PLAYBOOK-LESSONS.md. Historical pending language in these stage logs is not a newer final disposition.
+
+### Exact corrected long identities now cleared for known HIGH defects
+- E01: 57527112202e382059135433712d8466c8fa5ea42a579175ba0f3a40e787ec79. Independent56 actual encoded states,302 forward frames and168 source poses; full decode; unchanged22,356,936 source PCM samples, comparison correlation.999965/SNR41.50/zero clips.
+- E02: 50cf76903040e045e6774017fe690bd8561c409fa3a09c8306b7a4f984360f69.
+- E03: 2908c971db835c793add14a320785e32b0d548ddbe88a52a219cffe32c9752f6.
+- E04: 02cedaadc262e818ce770d609269b0b67e9d98ec735cb3269abe92b98851975f.
+These are bounded known-HIGH clearances, not claims of continuous every-frame viewing, complete listening or perfect pronunciation.
+
+### Native and external status are separate
+E04 all10 final native files cleared visual, technical, caption and PCM gates. P03–P10 reports at independent-qa/E04-native-final cover368 timeline samples plus40 full-resolution decodes; exact file/Library mapping: E04-master/E04-READY-RELEASES.json. Editable Library identity libfile_44e86c58ebc081918db5b828430d530e, version7. This supersedes earlier native-pending status.
+E01 native parts exceptP07 are cleared and being saved; P07 is not yet finally cleared. E02/E03 native work is still encoding/reviewing. No all-project completion claim.
+External verified owner snapshot: E01 corrected long FkS2rN0kJ-g Scheduled November3; correctedP01 Hy9x3emGdUY Scheduled October24 at19:00 Cairo. E02 _lO9wnNjjic Scheduled November14. E03/E04 OLD longs remain externally Scheduled pending unanswered specific owner permission to make Private without deletion; corrected new longs saved to their existing Library identities as version1 but NOT uploaded. Local corrected-media release does not replace an old external upload.
+Maintain canonical supplied text, one canonical audio master and native redrawing. No additional TTS/spending is implied by repair or documentation.
