@@ -118,3 +118,27 @@ This supersedes the prior four-long-clear snapshot for E02. Historical passes re
 **E01 P07 closure and current delivery scope.** Proximal sleeve-only extension passed actual local8.4/9/10.64/11.5s descent frames, final25b3d9fdea38e64013d313d866e63983279db9ee96aac1adb34032b7e78dce54; independent-qa/E01/P07-v4/DISPOSITION.json. Accepted hand/pot scale and timing unchanged; LONG remains57527112… and was unaffected. E01 all11 production artifacts final/durable and all11 YouTube entries saved Scheduled October24–November3; firstHy9x3emGdUY October24 19:00Cairo. E01 editable source version6.
 E04 all10 Shorts final and saved Scheduled November26–December5; corrected LONG remains Library version1 ready, while OLD AfhSY_b7nJk still Scheduled December6 pending explicit Private/noDelete permission. E04 editable source version7. Current accepted scheduled count21 excludes three revoked old longs. E02/E03 remaining native repairs mean the overall project is NOT complete.
 Evidence: E02-master/PLAYBOOK-DELTA-E02.md and STAGE-LOG.md; independent-qa/RELEASE-ESCAPE-LESSONS-20261024.md. Keep canonical script/PCM unchanged and no additional TTS.
+
+## Final current-media QA closure — 2026-10-24 10:26 UTC
+All44 CURRENT production media (four corrected longs and40 native parts) now have known-HIGH clearance. This supersedes earlier current-media holds only for the validated replacements; old failed media and external records remain distinct. It does NOT mean all44 are uploaded/scheduled, every frame was visually watched, or pronunciation/listening is perfect.
+
+### E02 v44 chronology closure
+Final LONG SHA256 b56dd3510d2aa6f16748e61361082d780ece9887d5797fe36b1bd3a3835e480f independently verified actual269.9s empty table→281.4s placed bangle, retaining v43 passive-arm and paper-registration repairs and the same PCM. All10 native parts clear. The failed per-action default visibility condition was replaced by explicit absolute event state: placement start+1.15, with active supported tabletop slide as the only pre-release visibility exception. All14,206 frame states audited; first visible278.0833 within placement beat, zero premature appearances. Later comfort-shot foreground occlusion is not a new prop disappearance event.
+Exact mappings: E02-master/E02-FINAL-RELEASE-INDEX.json. All E02 Library media durable; editable source Library libfile_4b843b2722ec819192c44792aafed9cc version13,315 files,404,240,057bytes, SHA25628bce7390631ea86da2c5ce3100e6aa5d2dd222cea66edbbc15ed8c1276d604c. Evidence: current E02-master/PLAYBOOK-DELTA-E02.md v44 entry.
+
+### E03 native semantic closure
+All51 scenes reviewed as a cue/phase matrix:15 repaired cases and36 valid unaffected/equivalent cases;154 initial/cue source fixtures and actual whole-part/dense critical proofs restored meaningful events and finite actions, not camera-only movement.36 representative unaffected frames retained pixel equality. S19 action-local offset2.74 is essential: retain action until contact/open threshold1.25 before the detail cut, or correct narration cue timing can still omit the action's completion.
+P01/P02 retained correct versions; P03 repaired8bce0b3eb825a9570bd8c456d305473d1202fe78d96d41067dc82ef66e7470fe; P10 retained valid native alternative46c544d9… without unnecessary rerender. Final repaired identities:
+- P04:22c3bebbe3d78990a2a06f5b043bcaaebdccf8ee0761b437b83923d911dac4c4
+- P05:9639aa0acacaca876052f1595f2d6189cfbb121fec977993e50608f960d98884
+- P06:e8c1c68af150098b7175af16690fd532733c44e0ee87f3dcb87356d802816c5e
+- P07:69b9f5384f18f5e262d2e109bee72893b1d0ddeabf79e044209a43479b4aa537
+- P08:bf3e4677b5cc52a35a23b42e1d083e1c2962dc9044722fcd4375a4f1c10c846f
+- P09:f12e4acb3e0ac1ebca8138021f081780743ab60fd9fb4e596293c6c090e5905c
+Final exact-hash dispositions: independent-qa/E03/native-final-PNN/DISPOSITION.json and canonical project copies/ready index. All13,966 actual caption-wrapper frame times,1,205 canonical words and245 local cards passed; all10 rawPCM slices rejoin20,522,376 samples (hash prefix d41017a7). Final53-input source manifest prefix d8cce430 was frozen without edits during encoding. P09 Library save/final source bundle finishing at this snapshot; media QA clearance is not proof that those transfers have completed.
+Evidence: E03-master/qa/native-semantic-repair-lessons.md, native-semantic-parity-matrix.json and native-semantic-event-ledger.json. E03 corrected LONG remains2908c971db835c793add14a320785e32b0d548ddbe88a52a219cffe32c9752f6.
+
+### External publication is NOT closed
+E01 all11 production and scheduling complete October24–November3. E04 all10 Shorts scheduled November26–December5; corrected LONG locally clear. E02/E03 corrected Shorts scheduling ongoing.
+Three OLD longs E02/E03/E04 remain externally Scheduled November14/November25/December6 but locally revoked. Explicit owner permission to make those old videos Private without deletion and replace at the same dates remains unanswered at this snapshot. Reading a question or having no reaction is not approval. Do not relabel old remote uploads as corrected, Private or replaced; do not claim all44 schedules complete.
+Prevent recurrence through all actual sprite/helper instances, whole-chain bilateral review, semantic dispatch/action-clock parity, explicit absent/held/moving/placed ownership ledger and exact part-scoped caption routing. Preserve canonical script, one audio master and native drawing; closure authorizes no extra TTS or unrelated actions.

@@ -145,3 +145,7 @@ Evidence: [bilateral escaped defects](entries/HAKAWI-BILATERAL-20261024-0812.md)
 - Validate absolute prop-event ownership before/during/after narration anchors in both formats. Correct contact at one instant cannot clear premature placement, duplicate ownership or vanished props.
 - Writing QA checks pen tip AND emitted ink inside transformed paper polygon with inset margin through contact phase. Pose/grip approval alone does not clear registration.
 - Revoke only evidenced affected identities; preserve unaffected ranges and previous attempts. Separate scoped source/encoded proof, final-media clearance, Library durability and actual external schedule. Never describe an externally scheduled revoked upload as already Private.
+
+
+## Final recurrence closure addendum
+For every semantic cue, compare absolute narration time, scene-local time and action-local offset; do not cut away before physical contact/completion merely because a narration cue arrived. Audit actual custom sprite instances as well as named rigs. Use explicit absent/held/moving/placed prop states across cuts, allowing only authored supported transitions. Classify native alternatives by meaningful event equivalence, not identical cameras or shot counts. Bind clearance to exact replacement hashes and report Library transfer/external scheduling separately; unanswered permission is not approval.
