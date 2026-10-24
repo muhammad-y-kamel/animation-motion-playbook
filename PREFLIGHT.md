@@ -100,3 +100,10 @@ Evidence: [mobile layout correction](entries/HAKAWI-PRODUCTION-20261024.md#hakaw
 - [ ] Final mobile loudness/masking is a full-master post-process, not new TTS. Preserve dry stem; derive all Short PCM from the same final mix, with no independent remix.
 - [ ] Record tool rejections precisely; no bypass or invented universal policy claim. Alternative staging preserves source and requires permitted scope.
 Evidence: [05:03 bounded QA batch](entries/HAKAWI-PRODUCTION-QA-20261024-0503.md). No full release passed by these samples.
+
+## Systemic physical-action clock and continuity gate
+- [ ] Separate finite physical reach/contact/use/release timing from the longer narration/semantic shot; do not speed speech or stretch one gesture across the whole beat.
+- [ ] Inspect actual encoded mid-action and contact plus normal-speed playback where available; static camera/head motion cannot substitute for motivated acting. Endpoint-only or decode-only passes are insufficient.
+- [ ] Reconstruct prop owner/location/support from a pure absolute-time event ledger; test shuffled seek/segment starts, transitions, duplicates, doorway geography and eyelines.
+- [ ] Recheck the same mechanism across all episodes and bind closure to new encoded evidence. A source patch is only repair_in_progress.
+Evidence: [HAKAWI-PACING-020](entries/HAKAWI-PACING-20261024-0514.md); full E01 v1 was technically valid but rejected. Final mix and publication remain separate gates.

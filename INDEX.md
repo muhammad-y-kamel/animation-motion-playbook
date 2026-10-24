@@ -101,3 +101,5 @@ IDs never change or get reused. New occurrence of same mechanism links the origi
 | [HAKAWI-LAYOUT-011](entries/HAKAWI-PRODUCTION-20261024.md#hakawi-layout-011--camera-reframing-confused-with-mobile-scene-design) | layout / cross-channel | Native portrait | Same scene redrawn for9:16, not cropped/reframed | contract_fixed / media_validation_pending |
 
 | [HAKAWI-PRODUCTION-QA-20261024-0503](entries/HAKAWI-PRODUCTION-QA-20261024-0503.md) | rig / acting / crop / mix / tool | E01–E04 | Alpha islands, inner-reach flips, detached/sliding actors, prop semantics, mobile loudness and bounded tool alternatives | targeted_sampled_fixes / full_release_pending |
+
+| [HAKAWI-PACING-020](entries/HAKAWI-PACING-20261024-0514.md) | pacing / continuity / shared workflow | E01–E04 | Physical action stretched to narration-shot duration; full decode pass did not clear glacial gestures, missing contact and prop continuity | OPEN / repair_in_progress |
