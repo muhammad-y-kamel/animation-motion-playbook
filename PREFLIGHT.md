@@ -122,3 +122,9 @@ Evidence: [HAKAWI-ANATOMY-021](entries/HAKAWI-ANATOMY-20261024-0529.md); E01 fir
 - [ ] Bound asset cache/lookahead, monitor whole RSS/drain, fail missing assets and compare full/range pixels. Partial encode or selected-frame equivalence is not full film pass.
 - [ ] Check cover cultural objects, anatomical handedness, transferred-prop state and Arabic after each edit; final cover mapping follows final master cuts. Protect critical props from phone UI rails.
 Evidence: [corrected batch and bounded proofs](entries/HAKAWI-CORRECTED-PASS-20261024-0644.md).
+
+
+## Bilateral whole-chain gate — 2026-10-24
+Read the current bilateral failure record before drawing, rigging, motion and final review. Inspect BOTH complete limbs in full-body context for every used actor/wardrobe/facing/pose family at neutral → reach → grip/use → release → return. Check anatomical side, shoulder front/back and roll, elbow bend plane, thumb/palm/dorsal/cuff orientation, body-facing and occlusion. A hand-only edit cannot correct a backward shoulder-to-arm chain. Preserve accepted proportions and use coherent intact whole-chain references before segmentation; never conceal an oversized/broken passive arm behind the torso. Require full-resolution source and decoded final ROI plus actual motion-arc/transition review. Numeric IK/Jacobians and sparse atlases cannot certify complete visual correctness. Validate visible coupled finger/prop grip for every writing/contact helper. Native defects require targeted parent-master/reused-pose audit, not blanket rejection of unrelated media. Preserve source and canonical PCM; no extra TTS is implied. Keep static, motion, encoded and external publication statuses separate; a newly found HIGH defect invalidates the affected prior release until exact-identity retest.
+
+Evidence: [bilateral escaped defects](entries/HAKAWI-BILATERAL-20261024-0812.md).
