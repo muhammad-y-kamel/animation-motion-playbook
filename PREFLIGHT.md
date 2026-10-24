@@ -149,3 +149,10 @@ Evidence: [bilateral escaped defects](entries/HAKAWI-BILATERAL-20261024-0812.md)
 
 ## Final recurrence closure addendum
 For every semantic cue, compare absolute narration time, scene-local time and action-local offset; do not cut away before physical contact/completion merely because a narration cue arrived. Audit actual custom sprite instances as well as named rigs. Use explicit absent/held/moving/placed prop states across cuts, allowing only authored supported transitions. Classify native alternatives by meaningful event equivalence, not identical cameras or shot counts. Bind clearance to exact replacement hashes and report Library transfer/external scheduling separately; unanswered permission is not approval.
+
+
+## Future narrative clarity and payoff gate — 2026-10-24
+- [ ] Read [storytelling development](projects/storytelling-development-20261024.md) with the active channel contract. Establish source/script lock and viewer relevance.
+- [ ] Map supported opening/body questions to evidence and payoffs; keep varied pressure/release and a distinct useful visual language. Never invent facts, events or speech to fill the map.
+- [ ] Review causal action and question comprehension in actual output, keeping text, audio, motion and audience evidence separate.
+- [ ] Preserve locked scripts, exact same-master derived audio, native portrait redraw and bilateral whole-chain gates. This checklist does not authorize production, paid generation or publication.
