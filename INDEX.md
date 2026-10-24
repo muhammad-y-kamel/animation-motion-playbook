@@ -113,4 +113,4 @@ IDs never change or get reused. New occurrence of same mechanism links the origi
 
 
 ## Canva native-portrait motion advertisement — 2026-10-24
-| [CANVA-MOTION-20261024](entries/CANVA-MOTION-20261024.md) | geometry / UI motion / audio QA | Learn EG five-tools | Aspect ratio, cursor-camera ownership, click-before-result, bulk-data states, CTA collision and ASR price false positive | validated_with_limits |
+| [CANVA-MOTION-20261024](entries/CANVA-MOTION-20261024.md) | UI fidelity / click QA / brand / pacing | Learn EG five-tools | User rejected non-clicking pointer, mock interface, slow narration and wrong branding; repair previews prepared, active premium access pending | REOPENED / repair_in_progress |
