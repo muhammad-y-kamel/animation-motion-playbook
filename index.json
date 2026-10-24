@@ -478,7 +478,17 @@
       "episode": "E01–E04",
       "status": "validated_with_limits",
       "file": "entries/PROPHETS-COVERS-20261024.md"
+    },
+    {
+      "id": "HAKAWI-WRITING-20261024",
+      "title": "Heavy oral narration and insufficient emotional involvement; prompt repair unvalidated",
+      "category": "storytelling/audio",
+      "project": "حكاوي الحارة",
+      "episode": "four-story writing batch",
+      "status": "repair_attempted",
+      "acceptance": "OPEN",
+      "discovered_by": "user",
+      "file": "entries/HAKAWI-WRITING-20261024.md"
     }
   ]
 }
-

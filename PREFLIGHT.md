@@ -67,3 +67,8 @@ Evidence: [Prophets cover trials](entries/PROPHETS-COVERS-20261024.md). No full-
 - [ ] Inspect meaningful subject-state change in encoded playback and camera-locked views; still contact sheets and pixel activity alone cannot pass narrative motion.
 - [ ] Resolve authorized output scope before applying full-film/ten-Short defaults; narrative/action clarity outranks musical-bar cut preference without retiming speech.
 Evidence: [Prophets audit follow-up](entries/PROPHETS-20261024-AUDIT.md#follow-up--user-creative-rejection-and-prompt-contract-repair-2026-10-24).
+
+## Hakawi writing and oral-flow gate
+- [ ] For Hakawi, check natural spoken Cairo syntax, meaningful choices and strongly earned emotion without a default word quota. Do not replace emotion with cold restraint or dramatic intensity with automatic catastrophe.
+- [ ] Keep rejected writing/voice feedback OPEN until actual replacement scripts and authorized audio are reviewed; prompt lint and repository publication do not prove emotion or pronunciation.
+Evidence: [HAKAWI-WRITING-20261024](entries/HAKAWI-WRITING-20261024.md).

@@ -82,3 +82,7 @@ IDs never change or get reused. New occurrence of same mechanism links the origi
 
 
 - Prophets audit follow-up (2026-10-24): user-rejected static motion, pronunciation and Haytham casting remain **OPEN**; prompt-contract fixes are not media fixes. Updates PROPHETS-010/012 and adds PROPHETS-013 in [existing audit](entries/PROPHETS-20261024-AUDIT.md).
+
+## Hakawi writing and oral narration — 2026-10-24
+
+[HAKAWI-WRITING-20261024](entries/HAKAWI-WRITING-20261024.md): user-rejected boring/heavy narration, weak emotional involvement and unnatural Egyptian delivery. Prompt repair published and text integrity checked; output quality remains **OPEN / repair_attempted** until new-script acceptance and separate actual listening. Hypothesized causes are not established acoustic findings.
