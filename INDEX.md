@@ -88,3 +88,5 @@ IDs never change or get reused. New occurrence of same mechanism links the origi
 [HAKAWI-WRITING-20261024](entries/HAKAWI-WRITING-20261024.md): user-rejected boring/heavy narration, weak emotional involvement and unnatural Egyptian delivery. Prompt repair published and text integrity checked; output quality remains **OPEN / repair_attempted** until new-script acceptance and separate actual listening. Hypothesized causes are not established acoustic findings.
 
 - Hakawi v3 follow-up: explicit intense moral outrage/grief target plus positive feedback on both writing probes. Revised 612-word prompt published, v2 archived; actual new-script/audio acceptance remains **OPEN**. See [existing case](entries/HAKAWI-WRITING-20261024.md#follow-up--explicit-emotional-peak-and-positive-sample-calibration-2026-10-24).
+
+- Hakawi v4 follow-up: writing partially approved, ending consequence and natural title corrected; complete standalone 753-word prompt published because Gemini chat memory cannot be assumed. New-output acceptance remains **OPEN**. See [existing case](entries/HAKAWI-WRITING-20261024.md#follow-up--v4-causal-ending-human-title-and-standalone-prompt-2026-10-24).
