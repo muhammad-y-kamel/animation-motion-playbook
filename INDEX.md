@@ -99,3 +99,5 @@ IDs never change or get reused. New occurrence of same mechanism links the origi
 | [HAKAWI-WORKFLOW-008 / SOURCE-009 / ASR-010](entries/HAKAWI-PRODUCTION-20261024.md#hakawi-workflow-008--shorts-first-publishing-mistaken-for-production-order) | workflow / source / audio QA | Four-story batch | Long-first master order, whole-PDF freeze before paid TTS, ASR false-positive triage | contract_fixed / source_frozen / audio_pending |
 
 | [HAKAWI-LAYOUT-011](entries/HAKAWI-PRODUCTION-20261024.md#hakawi-layout-011--camera-reframing-confused-with-mobile-scene-design) | layout / cross-channel | Native portrait | Same scene redrawn for9:16, not cropped/reframed | contract_fixed / media_validation_pending |
+
+| [HAKAWI-PRODUCTION-QA-20261024-0503](entries/HAKAWI-PRODUCTION-QA-20261024-0503.md) | rig / acting / crop / mix / tool | E01–E04 | Alpha islands, inner-reach flips, detached/sliding actors, prop semantics, mobile loudness and bounded tool alternatives | targeted_sampled_fixes / full_release_pending |

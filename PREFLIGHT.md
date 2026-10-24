@@ -92,3 +92,11 @@ Evidence: [Hakawi workflow/source/ASR lessons](entries/HAKAWI-PRODUCTION-2026102
 - [ ] Mobile adaptation is native drawing/layout redesign of the same scene, not camera-only reframe/crop. Keep essential actors, hands, props, causal mechanisms and text readable without squeezing or blurred filler.
 - [ ] Shared audio/action/source time is preserved; test portrait-specific support/contact/layering/safe areas. Derivative Short order follows completed-long QA; independent Shorts are not forced into that model.
 Evidence: [mobile layout correction](entries/HAKAWI-PRODUCTION-20261024.md#hakawi-layout-011--camera-reframing-confused-with-mobile-scene-design).
+
+## Hakawi multi-scene rig and final-mix regressions
+- [ ] Inspect effective alpha-clipped crops for adjacent sprite islands; confirm anatomical source ordering, proportions and cap overlap at mirrored/mid-arc poses.
+- [ ] Test complete IK target trajectory and inner/outer reach; endpoint-only stills cannot clear branch inversions.
+- [ ] Verify physical grip/support/ownership and actual independent reach, not actor sliding or baked duplicate props; match the exact source action before demanding a repair.
+- [ ] Final mobile loudness/masking is a full-master post-process, not new TTS. Preserve dry stem; derive all Short PCM from the same final mix, with no independent remix.
+- [ ] Record tool rejections precisely; no bypass or invented universal policy claim. Alternative staging preserves source and requires permitted scope.
+Evidence: [05:03 bounded QA batch](entries/HAKAWI-PRODUCTION-QA-20261024-0503.md). No full release passed by these samples.
