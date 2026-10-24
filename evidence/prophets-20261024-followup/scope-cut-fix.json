@@ -1,0 +1,10 @@
+{
+  "changed_paths": [
+    "prompts/06_QA_Repair_Release.txt",
+    "prompts/04_Prophets_Stories_Motion_Graphics.txt",
+    "references/delivery-contract.md",
+    "references/motion-contract.md"
+  ],
+  "baseline_unchanged": true,
+  "local_links": "pass"
+}

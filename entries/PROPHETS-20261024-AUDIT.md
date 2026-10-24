@@ -167,3 +167,43 @@ Evidence: [conversation-evidence.json](../evidence/prophets-20261024/conversatio
 5. Render: boundedresources,isolatedcheckpoints,strictstderr+framecount+exactfinalpathdecode.
 6. Review: separate source-still,encoded-still,continuousplaybackandlisteningcoverage; receiptprovenanceexplicit.
 7. Archive/publish: finalhashmanifest,versionidentity,duplicatecheck; timeoutisunknownnotfailure; verifyremotewrites beforeclaimingcompletion.
+
+
+## Follow-up — user creative rejection and prompt-contract repair (2026-10-24)
+
+**Current verdict: OPEN — existing media not verified fixed.** The historical “no confirmed drawing/acting defect” statement above describes the earlier evidence only. User feedback at 00:46 UTC, message `Sentinel_9fa13ea04c7881919cc40fac8285f7e9`, subsequently rejects the films as too static, like still images rather than animated scenes; requests better pronunciation and rejects Haytham for MSA narration. This supersedes creative acceptance, not the historical decode/hash results. This follow-up did not rerender media, audition a voice, listen to a replacement, or inspect continuous final playback.
+
+### PROPHETS-012 update — representation scope drift and current boundary
+- Source reconciliation: the original motion prompt permitted justified ordinary people (historically restricted to incidental/schematic roles), while later `outputs/Prophets_Stories_Review/Production_Brief.txt` says “هذه المعالجة كلها خالية من الشخصيات البشرية.” The original also explicitly rejects still illustrations animated only by camera pans/zooms/parallax.
+- Established problem: a later blanket human exclusion narrowed the original permission and does not satisfy the user's current request for meaningful ordinary-character acting. It is a specification conflict, **not evidence that a prohibited prophet was depicted**. It is not proven to be the sole cause of static results.
+- Planning repair: active prompts now permit source-supported focal ordinary-character acting; preserve the engraved identity and distinguish schematic design from authenticated historical portraits.
+- Latest override `Sentinel_37985129b8dc81918c35fbf758117dff`: prophets may be represented **only by abstract moving light without human form**. No face, head, limbs, body, robe, human outline, shadow/reflection, glowing person or prophetic POV; no prophet-character voice. This is the user's creative constraint, not a religious ruling. Do not invent historical movement or a miracle to motivate the symbol. Older absolute light prohibitions in this historical audit/source are superseded only by this narrow exception.
+- Regression: inspect actual motion, transitions, occlusion, shadow/reflection layers and both aspect ratios/covers; a light patch that becomes person-shaped fails. Prompt compliance alone does not establish output compliance.
+- Outcome: constraint text updated; existing media repair remains unperformed/unverified.
+
+### PROPHETS-010 update — user-reported pronunciation and casting rejection
+- New observation: user reports pronunciation needs improvement and Haytham is unsuitable for this project's MSA narration. This is direct user creative feedback, separate from the earlier ASR hypotheses.
+- Do not convert the seven persistent plus two unstable ASR candidates into nine confirmed pronunciation errors; no new exact-word listening evidence establishes that.
+- Planning repair: remove Haytham as automatic choice/fallback; require actual available MSA candidates, representative audition, contextual pronunciation preparation, preserved editorial/TTS/caption texts, and actual final-mix listening with bounded evidence.
+- Tests required before closure: record voice/model/settings and sample hashes, listen to names/negation/joins/connected phrasing and earlier timed suspect windows; retain rejected takes and retest repaired passage plus joins. ASR agreement, waveform peaks and decode success are not listening or casting approval.
+- Outcome: voice guidance updated; replacement voice identity, availability, audition and repaired audio remain unverified. No causal claim that voice alone produced every pronunciation problem.
+
+### PROPHETS-013 — Static-looking storytelling escaped creative acceptance gates
+- Origin/status: user / OPEN; prevention updated only.
+- Observation: user rejected delivered films as static rather than actual animated motion scenes. No new per-shot measured defect count is inferred.
+- Evidence/cause: prior 888-still/38-sheet review cannot establish continuous acting or pacing. The historical stationary-camera pixel-change statistic proves some pixel change, not meaningful action or audience comprehension. Source prompts already rejected camera-only motion; adding that sentence alone is not a proven repair.
+- Attempt performed: reconcile canonical prompts, add per-beat before/action/after, supported ordinary actors/objects, real contact/ownership/occlusion, a representative moving probe, camera-locked checks, normal-speed encoded playback and separate technical/creative verdicts.
+- Outcome: prompt/prevention package published; **no motion probe, rerender or creative playback pass was produced in this upgrade**. Neither a package validator nor a planning dry run closes this media defect.
+- Regression/closure: for the authorized output scope, viewer must understand the source-supported change in subject state with the camera stationary; inspect moving encoded output at intended size, natural speed and relevant contact boundaries. Texture, captions, parallax and background loops cannot substitute for action. Holds need narrative justification; no arbitrary movement quota or global speed-up. Preserve rejected output and bind re-review to new hashes.
+
+### Planning-only conflicts discovered and corrected
+- **Scope leakage:** complete-film/full-source/ten-Short defaults could incorrectly govern a prompt-only task, plan, scene probe or selected extract. Active delivery, motion and QA contracts now resolve requested stage/source interval/output set first; full-package obligations apply only to authorized full packages absent a different specification.
+- **Cut priority:** the original hard-cut-on-musical-bars rule could delay a necessary narrative/action cut. Updated contracts make meaning, cause-and-effect and readable action outrank bar alignment; off-bar cuts are permitted, music remains subordinate, speech is never retimed to wait for a beat. Short boundaries still preserve complete spoken units.
+- Evidence of repair is textual planning scope, not an observed repaired film. `scope-cut-fix.json` records four changed paths, baseline unchanged and local links passing. It does not report a rendered test or demonstrate that any historical shot was actually delayed by the bar rule.
+- `package-validation.json` is a **pre-publication snapshot**: validator/local-links/secret scan pass and canonical four-file match; audition/video generation not performed. Its old “github_publish: not_performed” field is superseded only for publication by the remote commit verified below, not silently rewritten.
+
+### Evidence and verification boundary
+- [Preserved provenance](../evidence/prophets-20261024-followup/provenance-and-changes.md), [planning change receipt](../evidence/prophets-20261024-followup/scope-cut-fix.json), [pre-publication validator receipt](../evidence/prophets-20261024-followup/package-validation.json).
+- Published source package: [prophet-stories commit 1d0ef91](https://github.com/muhammad-y-kamel/prophet-stories/tree/1d0ef91dc08cf180ccd6f9e2cabb97dec6951e96). Remote tree verified during this follow-up; local evidence files compared with that commit's blob SHAs.
+- Current contracts: [representation](https://github.com/muhammad-y-kamel/prophet-stories/blob/1d0ef91dc08cf180ccd6f9e2cabb97dec6951e96/references/representation-boundaries.md), [motion](https://github.com/muhammad-y-kamel/prophet-stories/blob/1d0ef91dc08cf180ccd6f9e2cabb97dec6951e96/references/motion-contract.md), [delivery/scope](https://github.com/muhammad-y-kamel/prophet-stories/blob/1d0ef91dc08cf180ccd6f9e2cabb97dec6951e96/references/delivery-contract.md), [voice](https://github.com/muhammad-y-kamel/prophet-stories/blob/1d0ef91dc08cf180ccd6f9e2cabb97dec6951e96/references/voice-and-pronunciation.md).
+- Source baseline and old QA remain preserved. This entry neither authorizes new production nor claims publication/schedule changes.

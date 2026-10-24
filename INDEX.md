@@ -80,3 +80,5 @@ IDs never change or get reused. New occurrence of same mechanism links the origi
 
 [Five defect mechanisms and repair trials](entries/PROPHETS-COVERS-20261024.md): reference-scene drift, missing hamza with failed edit, cross-part object leakage (including recurrence), omitted required chest, and artifacts on Arabic dots. Rejected attempts and exact final identities retained; still-image QA only.
 
+
+- Prophets audit follow-up (2026-10-24): user-rejected static motion, pronunciation and Haytham casting remain **OPEN**; prompt-contract fixes are not media fixes. Updates PROPHETS-010/012 and adds PROPHETS-013 in [existing audit](entries/PROPHETS-20261024-AUDIT.md).

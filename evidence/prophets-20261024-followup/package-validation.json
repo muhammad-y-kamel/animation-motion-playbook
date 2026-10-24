@@ -1,0 +1,9 @@
+{
+  "skill_validator": "pass",
+  "local_links": "pass",
+  "secret_pattern_scan": "pass",
+  "canonical_four_match_recovery_and_zip": true,
+  "voice_audition": "not_performed",
+  "video_generation": "not_performed",
+  "github_publish": "not_performed"
+}

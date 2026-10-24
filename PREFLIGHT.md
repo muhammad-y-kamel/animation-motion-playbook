@@ -60,3 +60,10 @@ Evidence: [EP031 clarity repairs](entries/MOKI-EP031-CLARITY-V4.md), [cross-epis
 - [ ] Preserve failed edits and rejected candidates; recheck the entire affected cover and manifest only final accepted hashes.
 Evidence: [Prophets cover trials](entries/PROPHETS-COVERS-20261024.md). No full-video or publication claim follows from a still-cover pass.
 
+
+## Prophets creative rejection follow-up
+- [ ] Treat static-looking motion, pronunciation and rejected casting as OPEN until actual repaired media is reviewed; a prompt update/validator/planning dry run is not a media fix.
+- [ ] Resolve ordinary-human permission separately from sacred-figure restrictions; apply latest narrowly scoped abstract-light exception only to this project, never as a universal religious ruling.
+- [ ] Inspect meaningful subject-state change in encoded playback and camera-locked views; still contact sheets and pixel activity alone cannot pass narrative motion.
+- [ ] Resolve authorized output scope before applying full-film/ten-Short defaults; narrative/action clarity outranks musical-bar cut preference without retiming speech.
+Evidence: [Prophets audit follow-up](entries/PROPHETS-20261024-AUDIT.md#follow-up--user-creative-rejection-and-prompt-contract-repair-2026-10-24).
