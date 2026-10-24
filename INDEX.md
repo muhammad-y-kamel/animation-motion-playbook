@@ -103,3 +103,5 @@ IDs never change or get reused. New occurrence of same mechanism links the origi
 | [HAKAWI-PRODUCTION-QA-20261024-0503](entries/HAKAWI-PRODUCTION-QA-20261024-0503.md) | rig / acting / crop / mix / tool | E01–E04 | Alpha islands, inner-reach flips, detached/sliding actors, prop semantics, mobile loudness and bounded tool alternatives | targeted_sampled_fixes / full_release_pending |
 
 | [HAKAWI-PACING-020](entries/HAKAWI-PACING-20261024-0514.md) | pacing / continuity / shared workflow | E01–E04 | Physical action stretched to narration-shot duration; full decode pass did not clear glacial gestures, missing contact and prop continuity | OPEN / repair_in_progress |
+
+| [HAKAWI-ANATOMY-021](entries/HAKAWI-ANATOMY-20261024-0529.md) | anatomy / user rejection / QA | E01 first45s | Oversized arm silhouette escaped numeric IK and selected-pose checks; both actors and family scene require reference-calibrated review | OPEN / repair_in_progress |

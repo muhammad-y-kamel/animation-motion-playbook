@@ -107,3 +107,9 @@ Evidence: [05:03 bounded QA batch](entries/HAKAWI-PRODUCTION-QA-20261024-0503.md
 - [ ] Reconstruct prop owner/location/support from a pure absolute-time event ledger; test shuffled seek/segment starts, transitions, duplicates, doorway geography and eyelines.
 - [ ] Recheck the same mechanism across all episodes and bind closure to new encoded evidence. A source patch is only repair_in_progress.
 Evidence: [HAKAWI-PACING-020](entries/HAKAWI-PACING-20261024-0514.md); full E01 v1 was technically valid but rejected. Final mix and publication remain separate gates.
+
+## User-caught anatomical proportion gate
+- [ ] Compare actual composite to intact full-body references: arm length/thickness, shoulder/elbow/wrist/hand, head/torso ratios and perspective—not just connected joints.
+- [ ] Review both actors at rest/reach/raised/contact/withdraw and transitions, including the entire user-visible excerpt; preserve before/after images and rejected encode.
+- [ ] A numeric IK pass or source fix does not clear visual anatomy. Require corrected encoded independent QA and promised user style feedback before claiming acceptance.
+Evidence: [HAKAWI-ANATOMY-021](entries/HAKAWI-ANATOMY-20261024-0529.md); E01 first45s user rejection remains OPEN.
