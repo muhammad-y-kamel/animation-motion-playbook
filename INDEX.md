@@ -110,3 +110,7 @@ IDs never change or get reused. New occurrence of same mechanism links the origi
 
 
 | [HAKAWI-026–029](entries/HAKAWI-BILATERAL-20261024-0812.md) | bilateral anatomy / proximal chain / grip / native QA | E01–E04 | Passive scale escape, backward shoulder not hand-only, floating writing pen, native support/caption failures; local and external release states separated | OPEN / scoped repairs / encoded retests pending |
+
+
+## Canva native-portrait motion advertisement — 2026-10-24
+| [CANVA-MOTION-20261024](entries/CANVA-MOTION-20261024.md) | geometry / UI motion / audio QA | Learn EG five-tools | Aspect ratio, cursor-camera ownership, click-before-result, bulk-data states, CTA collision and ASR price false positive | validated_with_limits |

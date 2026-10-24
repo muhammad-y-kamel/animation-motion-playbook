@@ -1,0 +1,31 @@
+{
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.16,
+      "text": " لما تشترك في كنفا بروم مدى الحياة من خلالنا فلورن اي جي"
+    },
+    {
+      "start": 4.16,
+      "end": 7.64,
+      "text": " بسعر يبدأ من 149 جنيب بس"
+    },
+    {
+      "start": 7.64,
+      "end": 10.68,
+      "text": " مع ضمان كامل لمدة سنة على ايميلك الشخصي"
+    },
+    {
+      "start": 10.68,
+      "end": 12.36,
+      "text": " ودعم فاني مستمر"
+    },
+    {
+      "start": 12.36,
+      "end": 13.16,
+      "text": " ابعت لن"
+    }
+  ],
+  "language": "ar",
+  "scope": "ASR gross content sanity check only, not vowels or listening"
+}

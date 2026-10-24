@@ -1,0 +1,62 @@
+{
+  "script_words": 322,
+  "caption_words": 322,
+  "caption_exact_word_coverage": true,
+  "script_sha256": "db92b5157d44c351db1316827b720742adb6dd7b3425a6653e7a9a9fc8dffb4d",
+  "voice_duration": 145.554286,
+  "timeline_duration": 146.454,
+  "voice_generation_requests": 1,
+  "observed_credits": 831,
+  "credit_cap": 5000,
+  "no_purchase": true,
+  "visual_scope": "Labelled illustrative desktop simulation, not exact UI screen capture",
+  "reviewer": "Independent encoded contact-sheet + full resolution84.3/88/111.1/141.5s review passed major geometry, boundary, readability and CTA-caption overlap checks. Sampled visual QA, not continuous playback/audio listening.",
+  "asr": "Base recovered all sections through ending; noisy orthography. Stronger small-model independent CTA segment recovered amount149 and guarantee/email/support correctly. No phonetic-certification claim.",
+  "limitations": "No claim of listened audio or certified Egyptian phonetics",
+  "full_decode_errors": 0,
+  "media": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "h264",
+        "width": 1080,
+        "height": 1920,
+        "r_frame_rate": "30/1",
+        "duration": "146.466667",
+        "side_data_list": [
+          {}
+        ]
+      },
+      {
+        "codec_name": "aac",
+        "r_frame_rate": "0/0",
+        "duration": "146.453991"
+      }
+    ],
+    "format": {
+      "duration": "146.466667",
+      "size": "11846180"
+    }
+  },
+  "encoded_spotcheck_seconds": [
+    5,
+    19.48,
+    23.8,
+    36.72,
+    43,
+    59.44,
+    66,
+    83.7,
+    84.3,
+    88,
+    109.5,
+    111.1,
+    112.5,
+    117,
+    129,
+    136,
+    141.5,
+    145.5
+  ]
+}

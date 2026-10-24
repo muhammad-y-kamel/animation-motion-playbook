@@ -156,3 +156,11 @@ For every semantic cue, compare absolute narration time, scene-local time and ac
 - [ ] Map supported opening/body questions to evidence and payoffs; keep varied pressure/release and a distinct useful visual language. Never invent facts, events or speech to fill the map.
 - [ ] Review causal action and question comprehension in actual output, keeping text, audio, motion and audience evidence separate.
 - [ ] Preserve locked scripts, exact same-master derived audio, native portrait redraw and bilateral whole-chain gates. This checklist does not authorize production, paid generation or publication.
+
+
+## Software-demonstration motion gate
+- [ ] Preserve intrinsic product aspect ratio in independently composed native formats; transform cursor and UI together and clamp camera coverage.
+- [ ] Require one pointer owner, tool-specific routes, visible data-selection/link states and click-before-result chronology at actual narration anchors; sample encoded boundaries.
+- [ ] Keep CTA/question outside captions and time their entrances to actual narration. Source-correct captions do not alone prove final layout.
+- [ ] Label illustrative UI as simulation, not current live capture. Weak ASR number/spelling differences are not confirmed speech errors; stronger bounded recognition may resolve them without new paid TTS, but never certifies vowels/listening.
+Evidence: [CANVA-MOTION-20261024](entries/CANVA-MOTION-20261024.md), with exact final hashes and sampled review scope.

@@ -1,0 +1,77 @@
+{
+  "files": [
+    {
+      "path": "deliverables/LearnEG-Canva-5-Tools-Haytham.mp4",
+      "sha256": "6b74d4e87453bf1e1c00a11a02ef5b2ca1c188da492609ec37db4b5a9bfc94f1",
+      "bytes": 11846180
+    },
+    {
+      "path": "deliverables/LearnEG-Canva-Haytham-Voice.mp3",
+      "sha256": "8ca45091b56bca5846e3e761df37cf9c29be616a2fe1d61dcde2b9662a863967",
+      "bytes": 2329329
+    },
+    {
+      "path": "deliverables/LearnEG-Canva-5-Tools-Editable.zip",
+      "sha256": "15f72b7d0ffbd2a7d6747641c194aef82f563d3a2067697da8ee35c2856ea8ae",
+      "bytes": 27587095
+    },
+    {
+      "path": "source/render-frozen-v1.cjs",
+      "sha256": "f6714dd8a59e14cbd208b56849d4075aec23c5c01de5e5fd87c12bebbc72afac",
+      "bytes": 11354
+    },
+    {
+      "path": "source/render-frozen-v2.cjs",
+      "sha256": "49f79e2eb8186b249d17224a8add1d435d68e118984f9cbb765989e9a4a46288",
+      "bytes": 11366
+    },
+    {
+      "path": "source/voiceover-approved.txt",
+      "sha256": "db92b5157d44c351db1316827b720742adb6dd7b3425a6653e7a9a9fc8dffb4d",
+      "bytes": 3283
+    },
+    {
+      "path": "qa/encoded-contact-sheet.jpg",
+      "sha256": "a8eac8ec6dc619449a1341c22969658cfc85e0864b4b14d57675f2c2d149b84b",
+      "bytes": 276245
+    }
+  ],
+  "library": {
+    "results": [
+      {
+        "local_path": "/workspace/scratch/bb6b47af6d33/canva-five-tools-20261024/deliverables/LearnEG-Canva-5-Tools-Haytham.mp4",
+        "purpose": "create_library_file",
+        "status": "succeeded",
+        "file_id": "file_00000000dcdc820c94aeb50ec48c4024",
+        "library_file_id": "libfile_10cb5f6976148191b7bac1de95518352",
+        "file_name": "LearnEG-Canva-5-Tools-Haytham.mp4",
+        "local_metadata_applied": true,
+        "path": "/LearnEG-Canva-5-Tools-Haytham.mp4",
+        "current_version_number": 0
+      },
+      {
+        "local_path": "/workspace/scratch/bb6b47af6d33/canva-five-tools-20261024/deliverables/LearnEG-Canva-Haytham-Voice.mp3",
+        "purpose": "create_library_file",
+        "status": "succeeded",
+        "file_id": "file_0000000057b481fd86d67e1e225fd092",
+        "library_file_id": "libfile_28ed972b16c08191b0bb6ad2c96cbf31",
+        "file_name": "LearnEG-Canva-Haytham-Voice.mp3",
+        "local_metadata_applied": true,
+        "path": "/LearnEG-Canva-Haytham-Voice.mp3",
+        "current_version_number": 0
+      },
+      {
+        "local_path": "/workspace/scratch/bb6b47af6d33/canva-five-tools-20261024/deliverables/LearnEG-Canva-5-Tools-Editable.zip",
+        "purpose": "create_library_file",
+        "status": "succeeded",
+        "file_id": "file_00000000494881fd95119e86c3b418ec",
+        "library_file_id": "libfile_4809e70baac48191a692e2510cc92b85",
+        "file_name": "LearnEG-Canva-5-Tools-Editable.zip",
+        "local_metadata_applied": true,
+        "path": "/LearnEG-Canva-5-Tools-Editable.zip",
+        "current_version_number": 0
+      }
+    ]
+  },
+  "note": "Immutable delivered artifacts; no media or script changed during documentation closeout."
+}

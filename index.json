@@ -490,6 +490,16 @@
       "discovered_by": "user",
       "file": "entries/HAKAWI-WRITING-20261024.md",
       "latest_trial": "v4 standalone prompt; causal narrator consequence and natural title; partial positive writing feedback retained"
+    },
+    {
+      "id": "CANVA-MOTION-20261024",
+      "title": "Native portrait software illustration: geometry, causal UI timing and bounded ASR",
+      "category": "geometry/UI-motion/audio-QA",
+      "project": "Learn EG",
+      "episode": "Canva five-tools advertisement",
+      "status": "validated_with_limits",
+      "discovered_by": "reviewer for visuals; agent for ASR/tooling",
+      "file": "entries/CANVA-MOTION-20261024.md"
     }
   ]
 }
