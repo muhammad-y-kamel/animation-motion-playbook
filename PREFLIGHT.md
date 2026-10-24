@@ -80,3 +80,15 @@ Evidence: [HAKAWI-WRITING-20261024](entries/HAKAWI-WRITING-20261024.md).
 - [ ] Check generated scene state, sleeve/prop semantics and visible joint seams against source. Preserve failed edits.
 - [ ] Test actual target-resolution render under sustained resource load; a low-resolution pass or partial MP4 is insufficient. Record real FPS/sample count and separate bounded proof from full delivery.
 Evidence: [Hakawi production trials](entries/HAKAWI-PRODUCTION-20261024.md).
+
+
+## Canonical long-first workflow and source freeze
+- [ ] Record production order separately from publication order: full narration master → complete reviewed long video → Shorts derived from its exact audiovisual timeline; Shorts may publish first without being independently produced.
+- [ ] Reconcile the whole rendered PDF before paid full-story TTS; freeze source-copy SHA and require exact plan/input match. Never apply broad lam-alef/numeral replacements without context.
+- [ ] Reuse good audio. Repair only confirmed defects, not ASR-only omissions; any duration change invalidates downstream cuts/alignment and relevant QA. No independent Short TTS.
+Evidence: [Hakawi workflow/source/ASR lessons](entries/HAKAWI-PRODUCTION-20261024.md#hakawi-workflow-008--shorts-first-publishing-mistaken-for-production-order).
+
+## Native portrait design gate — all channels
+- [ ] Mobile adaptation is native drawing/layout redesign of the same scene, not camera-only reframe/crop. Keep essential actors, hands, props, causal mechanisms and text readable without squeezing or blurred filler.
+- [ ] Shared audio/action/source time is preserved; test portrait-specific support/contact/layering/safe areas. Derivative Short order follows completed-long QA; independent Shorts are not forced into that model.
+Evidence: [mobile layout correction](entries/HAKAWI-PRODUCTION-20261024.md#hakawi-layout-011--camera-reframing-confused-with-mobile-scene-design).

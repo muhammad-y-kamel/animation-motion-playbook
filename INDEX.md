@@ -94,3 +94,8 @@ IDs never change or get reused. New occurrence of same mechanism links the origi
 
 ## Hakawi actual production trials — 24 October 2026
 | [HAKAWI-PRODUCTION-20261024](entries/HAKAWI-PRODUCTION-20261024.md) | audio / art / rig / render | E01 proof | Cheerful audition rejected; accepted dual-voice sample; semantic asset/joint repairs; native-memory encode failure | sample_user_accepted / proof_validated_with_limits / full_media_pending |
+
+
+| [HAKAWI-WORKFLOW-008 / SOURCE-009 / ASR-010](entries/HAKAWI-PRODUCTION-20261024.md#hakawi-workflow-008--shorts-first-publishing-mistaken-for-production-order) | workflow / source / audio QA | Four-story batch | Long-first master order, whole-PDF freeze before paid TTS, ASR false-positive triage | contract_fixed / source_frozen / audio_pending |
+
+| [HAKAWI-LAYOUT-011](entries/HAKAWI-PRODUCTION-20261024.md#hakawi-layout-011--camera-reframing-confused-with-mobile-scene-design) | layout / cross-channel | Native portrait | Same scene redrawn for9:16, not cropped/reframed | contract_fixed / media_validation_pending |
