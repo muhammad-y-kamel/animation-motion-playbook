@@ -493,13 +493,14 @@
     },
     {
       "id": "CANVA-MOTION-20261024",
-      "title": "Native portrait software illustration: geometry, causal UI timing and bounded ASR",
+      "title": "Rejected Canva illustration: missing clicks, real-UI requirement, brand provenance and slow narration",
       "category": "geometry/UI-motion/audio-QA",
       "project": "Learn EG",
       "episode": "Canva five-tools advertisement",
-      "status": "validated_with_limits",
-      "discovered_by": "reviewer for visuals; agent for ASR/tooling",
-      "file": "entries/CANVA-MOTION-20261024.md"
+      "status": "reopened_repair_in_progress",
+      "discovered_by": "user rejection; agent confirmed click=0 and entitlement blocker",
+      "file": "entries/CANVA-MOTION-20261024.md",
+      "acceptance": "OPEN"
     }
   ]
 }
