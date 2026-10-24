@@ -137,3 +137,11 @@ Evidence: [bilateral escaped defects](entries/HAKAWI-BILATERAL-20261024-0812.md)
 - Preserve exact canonical sample counts through container timing. When AAC MP4 timescale rounding occurs, remux from immutable source slices with sufficient precision (tested case44100), verify decoded duration/sample coverage and unchanged video packets; no regenerated speech or independent remix. Distinguish rawPCM and WAV-file hashes.
 - Native-only failures require direct parent-master comparison before revocation: fix only evidenced affected formats/ranges. Inspect actual full-resolution frames before treating an atlas tile-edge artifact as severed anatomy.
 - Bind final review to exact media hashes; report known-HIGH sample scope, remaining native tests, Library state and externally verified scheduling separately. Do not infer full listening/continuous playback or external replacement from technical or source tests.
+
+
+## Custom-helper, semantic dispatch and event-chronology recurrence gate
+- Enumerate ALL actual rendered sprite instances across the full timeline: direct action overlays, custom helpers, background/secondary actors and base-source detachable parts, not only main-rig IK targets. Inspect both complete limbs and action extremes at full resolution; preserve authored proportions.
+- Audit native semantic cue dispatch, recorded action phases/call counts and settled durations at initial/mid/end. Handler existence/anatomy clearance cannot prove meaningful action. Document legitimate equivalent native composition; camera motion alone is not an event and proven unaffected equivalents need no rerender.
+- Validate absolute prop-event ownership before/during/after narration anchors in both formats. Correct contact at one instant cannot clear premature placement, duplicate ownership or vanished props.
+- Writing QA checks pen tip AND emitted ink inside transformed paper polygon with inset margin through contact phase. Pose/grip approval alone does not clear registration.
+- Revoke only evidenced affected identities; preserve unaffected ranges and previous attempts. Separate scoped source/encoded proof, final-media clearance, Library durability and actual external schedule. Never describe an externally scheduled revoked upload as already Private.
