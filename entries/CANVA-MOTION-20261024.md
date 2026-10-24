@@ -1,6 +1,6 @@
 # CANVA-MOTION-20261024 — Desktop demonstration in native portrait
 - Project: Learn EG five-tools Canva advertisement; observed2026-10-24.
-- Status: validated_with_limits; no full-listening or continuous-playback claim.
+- Status: REOPENED after user rejection; see authoritative current-status section below. Prior technical evidence retained; no full-listening or continuous-playback claim.
 - Discovery: reviewer for geometry, cursor, visual causality, readability and CTA overlap; agent for ASR/tooling failures. These were autonomous findings, not user-reported defects.
 - Toolchain: @napi-rs/canvas deterministic1080×1920, FFmpeg H.26430fps/AAC; frozenv2.
 - Exact identities: [artifact receipt](../evidence/canva-five-tools-20261024/artifact-hashes.json).
@@ -66,3 +66,28 @@ Initial bulk/resize presentation lacked clear data-table→field-link→generate
 - Release: freeze source before encode, preserve rejected attempts, bind review to exact hashes, distinguish decode/stills/ASR/listening/playback/publication.
 
 Related mechanisms: ANIM-0002(camera coverage), ANIM-0013(review invalidation), Hakawi source/ASR gates and native-portrait gate. This cross-project occurrence does not broaden previous validation or certify all future software interfaces.
+
+
+## Reopened after user rejection — 2026-10-24 (authoritative current status)
+**Status: REOPENED / unresolved.** The earlier `validated_with_limits` assessment only described technical and sampled checks; it did not establish creative acceptance or an authentic product demonstration. Do not treat the earlier “after click” wording as proof that a visible press event actually occurred.
+
+### User-discovered failures and inspection results
+1. **Pointer does not click.** User identified absent clicking. Inspection of the delivered frozen renderer found both cursor calls passing click=0 (`cursor(px+pw*.55,py+ph*.55,0)` and `cursor(mix(a[1],b[1],cp),mix(a[2],b[2],cp),0)`). The click-pulse branch never ran. Earlier still/phase-order checks missed the missing click event entirely. This is a QA false pass, not merely a new preference.
+2. **Not the real Canva interface.** User rejected the illustrated interface. Labeling a mock interface as illustrative avoided claiming live capture but did not satisfy the requested Desktop walkthrough. Root cause: substituting a generic drawing for task-required product capture. Required repair: actual current Canva editor, real tool activation, and corresponding visible UI result; no fabricated success sequence.
+3. **Slow, boring narration.** User rejected pacing. Technical duration/ASR checks did not validate engagement. A non-destructive FFmpeg atempo=1.16 preview of the existing master was prepared (opening plus first tool, about 23.7 seconds); pitch preserved and no new paid generation. This is a proposed repair awaiting feedback, not verified naturalness or an audition claim. Source text remains unchanged.
+4. **Wrong LearnEG/Canva branding.** User rejected generic branding with logos. Root cause: reused generated charcoal/gold visuals were mistaken for identity authority. Recovered original user-uploaded 124506.jpg (Library libfile_82ce811db4d08191a3d3d3bfe23a39d0) establishes LearnEG blue #1075AD and white circular growth-arrow emblem/wordmark. Official Canva SVG uses teal/violet gradient. A new 1080×1920 style proposal preserves the intact original LearnEG image; it is a proposed co-branded composition, not proof of an official partnership.
+
+### Repair attempts and evidence boundary
+- Browser authentication succeeded. Current Canva account offers only a team named “Canva Pro” explicitly marked Free (480 members), plus Personal explicitly Free (1 member). Canva displayed that this team’s Education plan ended and premium tools such as Background Remover are unavailable. Team NAME is not entitlement. No purchase, trial, eligibility submission or access-control workaround was attempted. Actual premium-tool capture remains blocked pending active authorized access or user-supplied real recordings.
+- New style preview: libfile_6429eb0f396c8191bf7bcd89ec3f5dce, LearnEG-Canva-Style-Proposal.png, version0. Inspected full-resolution; no fake editor is present.
+- Pace preview: libfile_822601818d0c8191a64d3feb7152368b, Haytham-Pace-Preview-116.mp3, version0. Existing recording only. No claim that pronunciation or emotional delivery has been fully listened to.
+- During style rendering, @napi-rs/canvas corrupted the official SVG pattern gradient; rasterizing the official SVG through sharp at 2× fixed the observed checkered artifact. Intermediate font weight650 dropped an Arabic line; supported700 restored it. Fresh full-resolution PNG inspection verified those two local rendering fixes only.
+- Original delivered files and source remain preserved. No replacement final video has yet passed review.
+
+### Strengthened release gates
+- Validate pointer press on the actual encoded frames: pre-press, down/visible feedback, release, and correct resulting UI state. A cursor route, source phase constant or result animation alone is not click evidence.
+- Confirm product-demonstration fidelity before building: real UI vs an explicitly authorized illustration. A disclaimer cannot substitute for the required output.
+- Confirm brand provenance from original user assets before adopting colors, fonts or previous generated templates.
+- Evaluate pacing with a short representative preview early; technical loudness and ASR cannot establish engagement.
+- Separate authentication, workspace name, paid entitlement and successful tool execution. Never infer one from another.
+- Reopen acceptance on user-reported defects; retain old technical evidence without presenting it as proof the rejected outcome was correct.
