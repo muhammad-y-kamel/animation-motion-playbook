@@ -72,3 +72,11 @@ Evidence: [Prophets audit follow-up](entries/PROPHETS-20261024-AUDIT.md#follow-u
 - [ ] For Hakawi, check natural spoken Cairo syntax, meaningful choices and strongly earned emotion without a default word quota. Do not replace emotion with cold restraint or dramatic intensity with automatic catastrophe.
 - [ ] Keep rejected writing/voice feedback OPEN until actual replacement scripts and authorized audio are reviewed; prompt lint and repository publication do not prove emotion or pronunciation.
 Evidence: [HAKAWI-WRITING-20261024](entries/HAKAWI-WRITING-20261024.md).
+
+
+## Hakawi audition and articulated-image proof gates
+- [ ] Reconcile current approved role-to-voice cast; one-voice historical instructions cannot override a later accepted multi-voice sample. Preserve text and authorized pronunciation differences.
+- [ ] Profile labels, ASR and successful decode do not prove emotional fit; audition acceptance applies to its exact excerpt, not all future audio.
+- [ ] Check generated scene state, sleeve/prop semantics and visible joint seams against source. Preserve failed edits.
+- [ ] Test actual target-resolution render under sustained resource load; a low-resolution pass or partial MP4 is insufficient. Record real FPS/sample count and separate bounded proof from full delivery.
+Evidence: [Hakawi production trials](entries/HAKAWI-PRODUCTION-20261024.md).
