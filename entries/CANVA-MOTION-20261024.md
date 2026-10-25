@@ -1,6 +1,6 @@
 # CANVA-MOTION-20261024 — Desktop demonstration in native portrait
 - Project: Learn EG five-tools Canva advertisement; observed2026-10-24.
-- Status: REOPENED after user rejection; see authoritative current-status section below. Prior technical evidence retained; no full-listening or continuous-playback claim.
+- Status: Full animated repair delivered with bounded QA. User approved the14-second style proof; whole-video user acceptance is not yet observed. Rejected attempts and their technical evidence are retained. No full-listening or continuous-playback claim.
 - Discovery: reviewer for geometry, cursor, visual causality, readability and CTA overlap; agent for ASR/tooling failures. These were autonomous findings, not user-reported defects.
 - Toolchain: @napi-rs/canvas deterministic1080×1920, FFmpeg H.26430fps/AAC; frozenv2.
 - Exact identities: [artifact receipt](../evidence/canva-five-tools-20261024/artifact-hashes.json).
@@ -122,3 +122,30 @@ The user then explicitly authorized a motion-graphics reconstruction of the same
 
 New14-second proof includes five purposeful interactions, moving pointer, press/release scaling/ripples,10 procedural click sound ticks, full context, same-world animated detail and a3-step action map. Library libfile_d734f06653fc8191be5afcf0193da152 v0; SHA256abf0dc385ee862535c652d5530b2f1a2948af3b8c9551e52dc45370995310d87. Existing approved Haytham audio reused; no new paid generation.
 Proof review found and fixed: unsupported symbol glyphs (vector paths/observed icon sprites), inaccurate repeated size labels (actual format dimensions), late step highlight (switch before copy action), and a screenshot thumbnail sprite containing a baked second cursor/truncated text (use clean artwork-only sprite bounds). Source event transforms and SFX nonzero-energy timestamps recorded;14 one-second visual samples reviewed, targeted encoded frames and full decode checked. This does not constitute continuous audiovisual audition or final full-video approval.
+
+### Full animated repair delivered — 2026-10-25 01:27 UTC (current status)
+User explicitly approved the14-second motion proof and requested the complete video (Sentinel_6d663173c9388191b7ec2ee6236c9dca). Final126-second1080×1920/30fps version is now saved in Library. This approves the demonstrated style; it is not evidence that the user has reviewed the entire final file.
+
+#### Additional defects found autonomously before full encode
+- Bulk search pointer atY100 hit the heading, not the search field; changed toY131 in both event and path keys, then tested against the actual drawn rectangle.
+- Data populated without a visible focus action; added an explicit first-data-cell press before the row text appears.
+- Subject enlargement and text-behind result happened automatically. Added a held corner drag with uniform16% scale, text insertion initially in front, explicit Position and To Back actions, and delayed the layer result until button release. Mouse drag start/end geometry matches the selected subject.
+- Portrait board340×553 and candidate77×126 were not9:16. Corrected to311.0625×553 and70.875×126. Preserve ratio numerically, not approximately.
+- First-three-tool editor chrome exposed the later Resize label. Suppressed that unused label in the focused reconstruction until its own narration reveal; title and step-map gates also tested.
+- One delegated correction was queued rather than executing; explicitly resumed the task and verified the changed module before freezing. Waiting for an unstarted edit is not progress.
+
+#### Final verification boundary
+- Frozen source hashes matched through encode; all32 event pointers matched their intended source coordinates and lay in target rectangles.
+-32 interactions have64 down/up sound cues; drag releases occur at drag ends. Final voice reuses the same approved master (SHA2568ca45091b56bca5846e3e761df37cf9c29be616a2fe1d61dcde2b9662a863967) at pitch-preserving1.16×; no new paid TTS.
+-96 before/down/after frames extracted from the encoded MP4. Independent reviewer inspected all32 action contact frames and four full-resolution risk samples: corner resize, layer-back result, Bulk search and enabled Generate. No visual blocker found in those inspected samples. Whole subject remains visible in the main context; magnifier intentionally shows a second, closer view with the same transform.
+- Ten encoded before/after name-reveal boundary frames inspected: each tool name is absent before its narrated reveal and appears afterward. Informational cover remains version2 without names/pricing.
+- Full decode completed with zero errors. Video and audio streams both126seconds. Numerical decoded AAC vs final PCM checks: minimum5-second waveform correlation0.999900, no clipped samples. Scheduled click waveform timestamps are documented. These checks are NOT a continuous playback review, human listening, phonetic accuracy certification or emotion guarantee.
+- Source ZIP integrity passed; included text scanned for credential patterns. No public publication, account purchase, new credential transmission or access-control workaround.
+
+#### Exact native artifacts (old versions retained)
+- Video: libfile_10cb5f6976148191b7bac1de95518352 version1; file_000000003444823084b5b731a5f0f254.15,453,332bytes. SHA256 a7394b08679fc3c63ac4cba1824342491ddf3ec48a61f023999742fe79362ec1.
+- Editable source: libfile_4809e70baac48191a692e2510cc92b85 version1; file_000000001ba88230bd91fcd02530ad22.20,895,691bytes. SHA256 afaccdc10f975d460a94cfc0bf9540e0bbc33a24f35acb380c2bc089f5acd8e1.
+- Cover: libfile_6429eb0f396c8191bf7bcd89ec3f5dce version2 unchanged.
+- Local evidence: canva-repair-20261024/full-motion/{source-freeze.json,target-verification.json,events.json,transformed-clicks.json,sfx-timing.json,final-probe.json,decode-errors.txt,encoded-audio-qa.json,encoded-qa/}. The source package includes the renderer, own assets, preserved approved text/voice, official-reference provenance and review evidence.
+
+Current closure: requested production and Library delivery completed; style proof approved. Whole-video user feedback remains unobserved, not silently assumed. If later feedback identifies a defect, reopen the affected acceptance criterion and retain this exact revision.
