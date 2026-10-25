@@ -493,14 +493,14 @@
     },
     {
       "id": "CANVA-MOTION-20261024",
-      "title": "Rejected Canva illustration: missing clicks, real-UI requirement, brand provenance and slow narration",
+      "title": "Canva animated repair: cursor actions, step-map, real UI references, brand and bounded QA",
       "category": "geometry/UI-motion/audio-QA",
       "project": "Learn EG",
       "episode": "Canva five-tools advertisement",
-      "status": "reopened_repair_in_progress",
-      "discovered_by": "user rejection; agent confirmed click=0 and entitlement blocker",
+      "status": "repaired_delivered_bounded_qa",
+      "discovered_by": "user rejection plus autonomous target, ratio, sprite and causal-action review",
       "file": "entries/CANVA-MOTION-20261024.md",
-      "acceptance": "OPEN"
+      "acceptance": "STYLE_PROOF_APPROVED_FULL_DELIVERED_FEEDBACK_UNOBSERVED"
     }
   ]
 }
