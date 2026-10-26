@@ -37,3 +37,7 @@ The original 13 entries above remain intact. [Historical audit and case index](H
 
 ## Expanded native audit
 [20 additional canonical leads](NATIVE-EXPANDED-AUDIT.md): 19 readable,473messages; one safe-read-limit block. New UGC/prompt failure histories and native-source upgrades; A13 discovery attribution corrected to user. Search and omitted-content limits remain explicit.
+
+
+## Historical audit recovery — 2026-10-26
+[New evidence, deduplication and current coverage blockers](HISTORY-RECOVERY-2026-10-26.md). Search recovery yielded 30 additional case/correction records and bounded screening of 42 new leads. The account-wide task remains partial: the GetMotion reader block, 33 unresolved old omissions and 16 empty cloud histories are explicitly rechecked, not closed. No production or publishing changes.

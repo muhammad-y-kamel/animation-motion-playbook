@@ -1,0 +1,396 @@
+[
+  {
+    "id": "O26-STORY-01",
+    "title": "Character-sheet likeness rejected, then large two-character identity drift",
+    "category": "identity_continuity",
+    "status": "user_reported_unresolved_artifact_verification",
+    "description": "Character sheets delivered; user said not him. Later reported both faces changed drastically. Same underlying identity requirement, separate occurrences preserved.",
+    "evidence": [
+      {
+        "message_id": "a9cda53c-625c-4e71-8dfb-c0f6a77c4c2e",
+        "url": "https://chatgpt.com/c/6a971913-e09c-83ea-8c4d-43d58efcac82?messageId=a9cda53c-625c-4e71-8dfb-c0f6a77c4c2e",
+        "date": "2026-09-01T18:51:15.881232Z",
+        "role": "assistant",
+        "quote": "[كاركتر شيت الشخصية الأصغر](sandbox:/mnt/data/young_character_sheet.png)\n\n[كاركتر شيت الشخصية الأكبر](sandbox:/mnt/data/older_character_sheet.png)",
+        "content_omitted": false
+      },
+      {
+        "message_id": "bbb21993-6031-438f-9358-4b0c9114a572",
+        "url": "https://chatgpt.com/c/6a971913-e09c-83ea-8c4d-43d58efcac82?messageId=bbb21993-6031-438f-9358-4b0c9114a572",
+        "date": "2026-09-01T18:53:25.137902Z",
+        "role": "user",
+        "quote": "بس دا مش انا",
+        "content_omitted": true
+      },
+      {
+        "message_id": "bbb2193b-0c18-4e1f-9ead-229fc1fbc0a3",
+        "url": "https://chatgpt.com/c/6a971913-e09c-83ea-8c4d-43d58efcac82?messageId=bbb2193b-0c18-4e1f-9ead-229fc1fbc0a3",
+        "date": "2026-09-02T09:08:31.941135Z",
+        "role": "user",
+        "quote": "عاوز الحفاظ عالوجه لان ملامح الوجه اختلفت في الاتنين بشكل ضخم",
+        "content_omitted": false
+      },
+      {
+        "message_id": "3d403b7b-ef39-4919-9e3c-13f3ddccc4a6",
+        "url": "https://chatgpt.com/c/6a971913-e09c-83ea-8c4d-43d58efcac82?messageId=3d403b7b-ef39-4919-9e3c-13f3ddccc4a6",
+        "date": "2026-09-02T09:10:30.554384Z",
+        "role": "assistant",
+        "quote": "سبب اختلاف الوجه عندك غالبًا ليس البرومبت فقط**.  \nالمشكلة الكبيرة عندك أن **صورة الشخصية الصغيرة فيها شخص آخر ظاهر**، وهذا يربك الموديل جدًا.\n\n## الأفضل قبل التوليد:\n- تعمل **crop نظيف** لصورة الشخص الصغير وحده فقط.\n- الوجه يكون واضح.\n- بدون الشخص الثاني.\n- بدون حرق إضاءة شديد.\n- ويفضل صورة أقرب للأمام أو 3/4.\n\nهذا سيحسن ثبات الهوية بشكل واضح.\n\n---\n\n# لو عاوز نسخة أقصر للمنصات التي تتعب مع البرومبت الطويل\nأعطيك هذه النسخة المختصرة:\n\n```text\n9-second cinematic video, 24fps, 2.39:1.\n\n3 connected shots inside a rainy café at night.\nNo on-screen text, no captions, no subtitles.\nThe scene must imply: “Congratulations, you move",
+        "content_omitted": false
+      },
+      {
+        "message_id": "b338f38a-5a8c-4651-88d6-25058c978b34",
+        "url": "https://chatgpt.com/c/6a971913-e09c-83ea-8c4d-43d58efcac82?messageId=b338f38a-5a8c-4651-88d6-25058c978b34",
+        "date": "2026-09-02T09:27:07.963039Z",
+        "role": "assistant",
+        "quote": "CRITICAL IDENTITY LOCK:\nFacial resemblance to the supplied reference images is the highest priority in the entire generation.\n\nNarratively, the two characters represent the same person at two stages of life.\nVisually, each character must remain strictly anchored to his own corresponding reference image.\n\nDo not average the two faces.\nDo not blend their identities.\nDo not transfer facial features from one reference to the other.\nDo not invent a new shared face.\nDo not generate two generic similar-looking men.\n\nThe Younger Self must match Reference Image 1 exactly.\nThe Older Self must match Reference Image 2 exactly.\n\nDo not create additional artificial aging for the Older Self.\nHe must look exactly as mature as he appears in Reference Image 2.\nDo not add wrinkles, gray hair, or altered facial proportions unless already visible in the reference.\n\nDo not beautify, idealize, masculinize, reshape, or reinterpret either face.\nDo not change ethnicity, skin tone, weight, facial width, eye size, nose size, jaw shape, or hairstyle.\n\nThe faces m",
+        "content_omitted": false
+      }
+    ],
+    "attempts": [
+      "Character sheets produced → user rejected likeness.",
+      "Assistant hypothesized extra person in younger reference confused model; suggested isolated single-person crop. Hypothesis, not established cause; references unavailable to this audit.",
+      "Earlier prompt anchored older face as age progression of younger; final prompt assigns exclusive per-image identities, no blending or invented aging.",
+      "No new accepted generated artifact or quantitative identity check shown."
+    ],
+    "best_known_solution": "Unvalidated proposal: isolate references and explicitly bind each character to its own source; verify likeness across camera/lighting changes before full generation. Do not call prompt wording a proven fix.",
+    "limits": "Attachments omitted in user source messages; empty assistant image reply; no generated images/video independently inspected.",
+    "discovered_by": "user"
+  },
+  {
+    "id": "O26-STORY-02",
+    "title": "Continuous-shot/no-cuts constraint contradicted requested three-shot sequence",
+    "category": "prompt_contract",
+    "status": "assistant_detected_textual_conflict_revised_unrendered",
+    "description": "A later three-angle request retained pasted one-shot/no-cuts wording. Assistant explicitly noticed contradiction and rewrote for three connected shots with two cuts.",
+    "evidence": [
+      {
+        "message_id": "3d403b7b-ef39-4919-9e3c-13f3ddccc4a6",
+        "url": "https://chatgpt.com/c/6a971913-e09c-83ea-8c4d-43d58efcac82?messageId=3d403b7b-ef39-4919-9e3c-13f3ddccc4a6",
+        "date": "2026-09-02T09:10:30.554384Z",
+        "role": "assistant",
+        "quote": "أنت هنا محتاج **إعادة صياغة احترافية** لأن البرومبت الحالي فيه **تعارضين مهمين**:\n\n1. **كاتب “One continuous cinematic shot. No cuts.”**  \n   بينما أنت فعليًا تريد **3 لقطات**.\n\n2. **وصف ملابس الشخصية الكبيرة** في البرومبت الأصلي مختلف عن طلبك السابق الخاص بالحفاظ على الشكل من المرفقات.  \n   لو هدفك ثبات الشبه، الأفضل نقول للموديل بوضوح:  \n   **حافظ على الوجه والملابس من الصور المرجعية**",
+        "content_omitted": false
+      },
+      {
+        "message_id": "b338f38a-5a8c-4651-88d6-25058c978b34",
+        "url": "https://chatgpt.com/c/6a971913-e09c-83ea-8c4d-43d58efcac82?messageId=b338f38a-5a8c-4651-88d6-25058c978b34",
+        "date": "2026-09-02T09:27:07.963039Z",
+        "role": "assistant",
+        "quote": "Create a coherent cinematic sequence consisting of exactly 3 connected shots inside the same location and moment.\n\nUse exactly two clean, motivated cinematic cuts.\nDo not create additional shots, montages, flashbacks, or transitions.\n\nNARRATIVE INTEN",
+        "content_omitted": false
+      }
+    ],
+    "attempts": [
+      "Remove obsolete no-cuts instruction; specify exactly three shots and two motivated cuts."
+    ],
+    "best_known_solution": "Textual constraint reconciliation observed. No render verification.",
+    "discovered_by": "agent"
+  },
+  {
+    "id": "O26-STORY-03",
+    "title": "Generic older-character wardrobe contradicted preserve-reference clothing",
+    "category": "prompt_contract",
+    "status": "assistant_detected_conflict_revised_unrendered",
+    "description": "Assistant described older self in black coat while user required original clothes; assistant caught and replaced generic wardrobe instructions.",
+    "evidence": [
+      {
+        "message_id": "bbb219a3-28d6-4e91-a91e-c8c0db0a6445",
+        "url": "https://chatgpt.com/c/6a971913-e09c-83ea-8c4d-43d58efcac82?messageId=bbb219a3-28d6-4e91-a91e-c8c0db0a6445",
+        "date": "2026-09-01T18:40:33.401102Z",
+        "role": "user",
+        "quote": "اعملي كاركتر شيت للشخصيتين دول \nهات كل كاراكتر شيت في صورة لوحدها\n\nمع نفس الملابس ",
+        "content_omitted": true
+      },
+      {
+        "message_id": "4cc69d78-a567-4768-983d-6c61f6fa2276",
+        "url": "https://chatgpt.com/c/6a971913-e09c-83ea-8c4d-43d58efcac82?messageId=4cc69d78-a567-4768-983d-6c61f6fa2276",
+        "date": "2026-09-01T18:29:52.419897Z",
+        "role": "assistant",
+        "quote": "The Older Self is a naturally aged and more composed version of the same person. He wears a clean, structured black coat or dark tailored clothing. He sits slightly reclined in his chair, completely comfortable, with one arm resting casually and his posture conveying control, experience, and quiet s",
+        "content_omitted": false
+      },
+      {
+        "message_id": "3d403b7b-ef39-4919-9e3c-13f3ddccc4a6",
+        "url": "https://chatgpt.com/c/6a971913-e09c-83ea-8c4d-43d58efcac82?messageId=3d403b7b-ef39-4919-9e3c-13f3ddccc4a6",
+        "date": "2026-09-02T09:10:30.554384Z",
+        "role": "assistant",
+        "quote": "2. **وصف ملابس الشخصية الكبيرة** في البرومبت الأصلي مختلف عن طلبك السابق الخاص بالحفاظ على الشكل من المرفقات.  \n   لو هدفك ثبات الشبه، الأفضل نقول للموديل بوضوح:  \n   **حافظ على الوجه والملابس من الصور المرجعية**.\n\nوأهم نقطة:  \nلو منصة الفيديو عندها مشكلة في ثبات الهوية، فصياغة الهوية لازم تكون **صا",
+        "content_omitted": false
+      },
+      {
+        "message_id": "b338f38a-5a8c-4651-88d6-25058c978b34",
+        "url": "https://chatgpt.com/c/6a971913-e09c-83ea-8c4d-43d58efcac82?messageId=b338f38a-5a8c-4651-88d6-25058c978b34",
+        "date": "2026-09-02T09:27:07.963039Z",
+        "role": "assistant",
+        "quote": "Keep the Older Self wearing the same complete purple, gold, white, red, and dark-colored outfit shown in Reference Image 2, including the same coat, shirt, accessories, glasses, trousers, and boots.\n\nDo not replace his outfit with a black suit, generic coat, café clothing, or modern formal clothing.\nDo not remove the glasses.\nAvoid strong glare on the glasses that hides his eyes.\n\nCRITICAL IDENTITY LOCK:\nFacial resem",
+        "content_omitted": false
+      }
+    ],
+    "attempts": [
+      "Replace black-suit/coat defaults with exact source wardrobe and glasses preservation."
+    ],
+    "limits": "Specific reference clothes only historical assistant description; attachments not inspected.",
+    "discovered_by": "agent"
+  },
+  {
+    "id": "O26-STORY-04",
+    "title": "Verbal timing cue permitted voiceover despite intended silent scene",
+    "category": "audio_contract",
+    "status": "user_correction_prompt_revised_no_generated_audio_proof",
+    "description": "Intermediate prompt allowed external voiceover and synced reveal to YOU; user then required no spoken words. Do not infer an actual unwanted spoken render.",
+    "evidence": [
+      {
+        "message_id": "3d403b7b-ef39-4919-9e3c-13f3ddccc4a6",
+        "url": "https://chatgpt.com/c/6a971913-e09c-83ea-8c4d-43d58efcac82?messageId=3d403b7b-ef39-4919-9e3c-13f3ddccc4a6",
+        "date": "2026-09-02T09:10:30.554384Z",
+        "role": "assistant",
+        "quote": "AUDIO / TIMING INTENT:\nNo dialogue spoken by the characters.\nNo lip movement.\nNo on-screen text.\nThe emotional timing may align with an external voiceover or soundtrack line:\n“Congratulations, you moved to the next level. Your next opponent is YOU.”\nThe visual reveal of the Older Self must land precisely on the beat of “YOU”.\n```\n\n---\n\n# Negative Prompt\n\n```text\nNo on-screen text, no cap",
+        "content_omitted": false
+      },
+      {
+        "message_id": "bbb218d4-aef7-4c1a-89df-d926180c202f",
+        "url": "https://chatgpt.com/c/6a971913-e09c-83ea-8c4d-43d58efcac82?messageId=bbb218d4-aef7-4c1a-89df-d926180c202f",
+        "date": "2026-09-02T09:13:14.455126Z",
+        "role": "user",
+        "quote": "شيل الكلام يسطا ماتخلهوش يتنطق في الفيديو",
+        "content_omitted": false
+      },
+      {
+        "message_id": "aa553be1-402b-4616-adb7-fd685420581e",
+        "url": "https://chatgpt.com/c/6a971913-e09c-83ea-8c4d-43d58efcac82?messageId=aa553be1-402b-4616-adb7-fd685420581e",
+        "date": "2026-09-02T09:15:05.775572Z",
+        "role": "assistant",
+        "quote": "تمام. **مفيش أي كلام يتنطق أو يتكتب نهائيًا**. تشغيل إضاءة الشخصية الكبيرة هيكون عند اللحظة الدرامية المحددة زمنيًا، وليس مع كلمة **YOU**.\n\nاستبدل الأجزاء المتعلقة بالكلا",
+        "content_omitted": false
+      },
+      {
+        "message_id": "aa553be1-402b-4616-adb7-fd685420581e",
+        "url": "https://chatgpt.com/c/6a971913-e09c-83ea-8c4d-43d58efcac82?messageId=aa553be1-402b-4616-adb7-fd685420581e",
+        "date": "2026-09-02T09:15:05.775572Z",
+        "role": "assistant",
+        "quote": "At exactly 6.2 seconds, after the Younger Self fully raises his gaze and makes eye contact with the dark figure, the Older Self’s dedicated light beam switches on in one clean cinematic beat.\n\nThe light activation is triggered by the silent eye-contact moment only.\nIt is not synchronized with dialogue, narration, a voiceover, or any spoken word.\n\nImmediately reveal the Older Self’s face in a tighter frontal or three-quarter close-up.\n\nHis face must accurately preserve the ide",
+        "content_omitted": false
+      }
+    ],
+    "attempts": [
+      "Remove external voiceover and word synchronization; use silent eye-contact event at6.2s; environmental ambience only; ban lip-sync/text."
+    ],
+    "best_known_solution": "Textual correction verified in final prompt, output not tested.",
+    "discovered_by": "user"
+  },
+  {
+    "id": "O26-STORY-05",
+    "title": "Video request blocked by provider real-person image filter",
+    "category": "generation_access_constraint",
+    "status": "historical_assistant_report_unresolved",
+    "description": "Assistant reported Seedance refusal inputImageSensitiveContentDetected.PrivacyInformation / content[2] may contain real person. The original screenshot/message image is omitted, so error is attributed to historical assistant, not directly observed tool response.",
+    "evidence": [
+      {
+        "message_id": "3c84223e-2f96-4ebe-a625-2136b8ca8c53",
+        "url": "https://chatgpt.com/c/6a971913-e09c-83ea-8c4d-43d58efcac82?messageId=3c84223e-2f96-4ebe-a625-2136b8ca8c53",
+        "date": "2026-09-01T23:10:42.302715Z",
+        "role": "assistant",
+        "quote": "المشكلة **مش في البرومبت نهائيًا**؛ Seedance رفض الصور نفسها.\n\n## معنى الخطأ\n\nالكود الظاهر:\n\n```text\ninputImageSensitiveContentDetected.PrivacyInformation\n```\n\nوالرسالة:\n\n```text\ncontent[2] may contain real person\n```\n\nمعناه أن نظام الحماية عند ByteDance اكتشف أن إحدى الصور تحتوي على **شخص حقيقي قابل للتعرّف**، فرفض الطلب قبل توليد الفيديو. هذا هو التفسير الرسمي لنفس كود الخطأ. citeturn536961search26\n\nأما `content[2]` فلا تعني أن هناك صورة ثال",
+        "content_omitted": false
+      },
+      {
+        "message_id": "3c84223e-2f96-4ebe-a625-2136b8ca8c53",
+        "url": "https://chatgpt.com/c/6a971913-e09c-83ea-8c4d-43d58efcac82?messageId=3c84223e-2f96-4ebe-a625-2136b8ca8c53",
+        "date": "2026-09-01T23:10:42.302715Z",
+        "role": "assistant",
+        "quote": "كذلك لا أنصح بمحاولات تشويش الوجه أو تغيير الألوان أو إزالة بيانات الصورة بغرض تجاوز الفلتر؛ المشكلة في اكتشاف الشخص داخل المحتوى، وليست مجرد EXIF أو اسم الملف.\n\n## لماذا الكاركتر شيت الواقعي قد لا يحل المشكلة؟\n\nحتى لو صنعنا كاركتر شيت مطابقًا لك، لو كان فوتور",
+        "content_omitted": false
+      },
+      {
+        "message_id": "3c84223e-2f96-4ebe-a625-2136b8ca8c53",
+        "url": "https://chatgpt.com/c/6a971913-e09c-83ea-8c4d-43d58efcac82?messageId=3c84223e-2f96-4ebe-a625-2136b8ca8c53",
+        "date": "2026-09-01T23:10:42.302715Z",
+        "role": "assistant",
+        "quote": "**لا تكمل دفع محاولات على Seedance عبر OpenRouter بهذه الصور. انتقل الآن إلى Kling Elements لهذا المشهد، أو استخدم Seedance فقط بعد الحصول على صلاحية مكتبة الأشخاص الحقيقيين في BytePlus.**\n\nالدليل الذي سيغيّر التوصية: نجاح اختبار صورة واحدة حقيقية على Seedance دون ظهور `PrivacyInformation`. وحتى يحدث ذلك، تعديل البرومبت أو إعادة المحاولة بالصورتين غالبًا سيعطي الخطأ نفسه.",
+        "content_omitted": false
+      }
+    ],
+    "attempts": [
+      "Historical reply proposed provider-authorized asset route or alternate supported tool; no successful generation shown.",
+      "A historical one-image probe was suggested but execution/result absent; not endorsed as a bypass or current instruction."
+    ],
+    "best_known_solution": "Stop blocked route and use a provider-supported authorized workflow only; do not evade filter by obfuscating identity or metadata. Current provider capabilities not re-researched here.",
+    "limits": "No original attachment or current service policy validation.",
+    "discovered_by": "unknown"
+  },
+  {
+    "id": "O26-STORY-06",
+    "title": "Unrequested runtime changed from exactly8s to exactly9s",
+    "category": "prompt_regression",
+    "status": "new_audit_text_comparison_unresolved",
+    "description": "Source request still included exactly8s; rewritten/final prompt says exactly9s. Three-shot request authorized changing shot structure, but no explicit runtime-change request found in visible history.",
+    "evidence": [
+      {
+        "message_id": "bbb2140a-f05f-4451-9dfa-102a95638373",
+        "url": "https://chatgpt.com/c/6a971913-e09c-83ea-8c4d-43d58efcac82?messageId=bbb2140a-f05f-4451-9dfa-102a95638373",
+        "date": "2026-09-02T09:10:24.931086Z",
+        "role": "user",
+        "quote": "Duration: exactly 8 seconds, 24fps, cinematic 2.39:1 anamorphic aspect ratio.\n\nOne continuous cinematic shot. No cuts.\n\nSCENE AND COMPOSITIO",
+        "content_omitted": false
+      },
+      {
+        "message_id": "b338f38a-5a8c-4651-88d6-25058c978b34",
+        "url": "https://chatgpt.com/c/6a971913-e09c-83ea-8c4d-43d58efcac82?messageId=b338f38a-5a8c-4651-88d6-25058c978b34",
+        "date": "2026-09-02T09:27:07.963039Z",
+        "role": "assistant",
+        "quote": "Duration: exactly 9 seconds.\nFrame rate: 24fps.\nAspect ratio: cinematic 2.39:1 anamorphic widescreen.\nPremium cinematic photorealism.\n\nCreate a cohere",
+        "content_omitted": false
+      }
+    ],
+    "attempts": [
+      "No repair recorded. New audit discovery from comparing supplied constraints to delivered prompt."
+    ],
+    "best_known_solution": "Before production reconcile runtime with owner contract, then recompute all shot boundaries together; not performed in this audit.",
+    "limits": "This is a delivered-prompt deviation, not proven video duration error.",
+    "discovered_by": "reviewer",
+    "discovery_detail": "Current audit reviewer compared explicit8-second input to9-second delivered prompt; no render inspected."
+  },
+  {
+    "id": "O26-STORY-07",
+    "title": "Style-modeling source prompt reportedly contradicted itself by requesting source wording",
+    "category": "video_pipeline_prompt",
+    "status": "historical_assistant_report_prompt_revised",
+    "description": "YouTube production prompt review reported missing validation/quality stages and a contradiction about copying wording; assistant supplied universal original-content production flow. No produced-video failure shown.",
+    "evidence": [
+      {
+        "message_id": "dd5bb314-febc-4be8-a4e8-0946839fcb1b",
+        "url": "https://chatgpt.com/c/6a1df051-ac50-832e-8734-fb477deac437?messageId=dd5bb314-febc-4be8-a4e8-0946839fcb1b",
+        "date": "2026-06-01T20:49:31.558000Z",
+        "role": "user",
+        "quote": "دا برومبت لكلاود لتقليد قنوات اليوتيوب بس هو ناقص اوي ومش مكتمل بشكل واضح\n\nومش كامل تقريبا عاوز منك تفصيله وتحسينه و جعله 100% كفؤ\n\n\nوميكونش موجه لكلاود بذاتىه فقط",
+        "content_omitted": false
+      },
+      {
+        "message_id": "3ba985a8-202c-4d21-b904-48193c363a55",
+        "url": "https://chatgpt.com/c/6a1df051-ac50-832e-8734-fb477deac437?messageId=3ba985a8-202c-4d21-b904-48193c363a55",
+        "date": "2026-06-01T20:56:27.728500Z",
+        "role": "assistant",
+        "quote": "المسودة الأصلية مبنية على فكرة الحالات المتتابعة، طلب إدخال واحد في كل مرة، وتحليل الـStyle DNA، لكنها كانت ناقصة في الجودة والتحقق، وبها تناقض خطير في آخرها حول نسخ wording من القناة المصدر. fileciteturn1file0\n\nاستخدم هذه النسخة بدل القديمة:\n\n---\n\n# Universal YouTube Style Modeling & Production Engine — M",
+        "content_omitted": false
+      },
+      {
+        "message_id": "c203cbf8-9a30-4324-ba5f-79e2f09a04d7",
+        "url": "https://chatgpt.com/c/6a1df051-ac50-832e-8734-fb477deac437?messageId=c203cbf8-9a30-4324-ba5f-79e2f09a04d7",
+        "date": "2026-06-01T20:49:32.646932Z",
+        "role": "assistant",
+        "quote": "You must NOT copy the source channel’s wording, scripts, titles, names, thumbnails, logos, characters, slogans, or distinctive branding assets.\n\nYou are allowed to model:\n- Structure\n- Pacing\n- Tone\n- Retention logic\n- Hook mechanics\n- Visual language\n- Thumbn",
+        "content_omitted": false
+      }
+    ],
+    "attempts": [
+      "Replace source copying with original-content style modeling; add input verification, review and production gates."
+    ],
+    "limits": "Source attachment not independently inspected; defect attributed to assistant report, not verified source file. Broad quality aspirations not counted as additional errors.",
+    "discovered_by": "unknown",
+    "component_origins": {
+      "general_incompleteness": "user",
+      "source_copying_contradiction": "historical_agent_report"
+    }
+  },
+  {
+    "id": "O26-STORY-08",
+    "title": "Revised narration prompt produced colder, verbose stories",
+    "category": "video_script_quality",
+    "status": "user_reported_prompt_revised_unvalidated",
+    "description": "Conversation explicitly evolves into long-form YouTube narration, so this is video script pipeline evidence, not rendered animation. User said revised prompt made stories boring/cold and wordy versus earlier emotional result.",
+    "evidence": [
+      {
+        "message_id": "732ceb16-63f4-44e3-a512-3faff546e495",
+        "url": "https://chatgpt.com/c/6a1ee0fb-27e0-832a-9e28-15f7943753e0?messageId=732ceb16-63f4-44e3-a512-3faff546e495",
+        "date": "2026-06-02T18:11:22.447000Z",
+        "role": "user",
+        "quote": "انا حسنت البرومبت بس بقى ممل شوية القصص مش حلوة اوي القصة اللي طلعت من اللي قبله خلتني كنت هعيط , دي باردة شوية وفيها كلام كتير \n\nخد البرومبت واعمل عليه التحسين الاخير\n\n",
+        "content_omitted": false
+      },
+      {
+        "message_id": "0e38d2a8-25e4-4c52-9060-9f39f524e61d",
+        "url": "https://chatgpt.com/c/6a1ee0fb-27e0-832a-9e28-15f7943753e0?messageId=0e38d2a8-25e4-4c52-9060-9f39f524e61d",
+        "date": "2026-06-02T18:11:24.117888Z",
+        "role": "assistant",
+        "quote": "عدّلت البرومبت اللي رفعته بحيث يبقى أقل “بارد” وأقرب للنسخة اللي وجعتك: اعتراف سريع، مشاهد قصيرة، شر داخلي واضح، تصاعد بلا حشو، ونهاية قاسية لكن مش مقززة. اعتمدت على مسودة البرومبت المرفوعة عندك كأساس للتعديل. fileciteturn0file0\n\n:::writing{variant=\"standard\" id=\"72843\"}\nYou are a professional Eg",
+        "content_omitted": false
+      },
+      {
+        "message_id": "767715ea-3924-41d9-9993-1f8e97788b3b",
+        "url": "https://chatgpt.com/c/6a1ee0fb-27e0-832a-9e28-15f7943753e0?messageId=767715ea-3924-41d9-9993-1f8e97788b3b",
+        "date": "2026-06-02T18:16:21.315000Z",
+        "role": "user",
+        "quote": "هاته كامل , وخليه يتعامل مع اللامثلة كامثلة مش قواعد\n\nالفيديو يكون طويل مش شورتس",
+        "content_omitted": false
+      },
+      {
+        "message_id": "e084e51f-85d3-49b0-9ec0-b26dbd5e87a2",
+        "url": "https://chatgpt.com/c/6a1ee0fb-27e0-832a-9e28-15f7943753e0?messageId=e084e51f-85d3-49b0-9ec0-b26dbd5e87a2",
+        "date": "2026-06-02T18:13:16.189184Z",
+        "role": "assistant",
+        "quote": "تمام. دي النسخة النهائية الأفضل: **أقل تقييدًا، أكثر حرية، وأقرب لإنتاج قصة موجعة فعلًا**. خليت الأمثلة مجرد **إشارات سوداوية** مش أفكار مفروضة، وشيلت الإحساس الميكانيكي اللي كان مبرّد القصة. اعتمدت على البرومبت السابق المرفوع كأساس، وعدّلت منطقه من “اختار من قائمة” إلى “اخلق مأساة أصلية بعلامات عامة”. fileciteturn0file0\n\n:::writing{variant=\"standard\" id=\"59318\"}\nYou are a p",
+        "content_omitted": false
+      }
+    ],
+    "attempts": [
+      "First revision emphasized short scenes, escalation without padding.",
+      "User rejected restricting ideas to fixed examples; assistant changed list-selection to original story generation with illustrative cues.",
+      "Final prompt targeted long video rather than shorts."
+    ],
+    "limits": "No regenerated story acceptance or produced video validation shown; hypotheses about mechanistic constraints remain inferred from discussion.",
+    "discovered_by": "user"
+  },
+  {
+    "id": "O26-STORY-09",
+    "title": "User rejected geographic phrasing in narration",
+    "category": "video_script_localization",
+    "status": "user_reported_wording_issue_not_geography_factcheck",
+    "description": "User objected to 'عند بحر اليوسفي' and asked concrete villages/provinces and broader regional variety; preserve as localization feedback, not proof the waterway does not exist.",
+    "evidence": [
+      {
+        "message_id": "5c9b45d9-0a28-4b59-9849-a68893c8799d",
+        "url": "https://chatgpt.com/c/6a1ee0fb-27e0-832a-9e28-15f7943753e0?messageId=5c9b45d9-0a28-4b59-9849-a68893c8799d",
+        "date": "2026-06-02T13:57:58.622415Z",
+        "role": "assistant",
+        "quote": "أنا فايزة بنت عبدالمقصود، من بلد صغيرة جنب البحر اليوسفي.  \nوالله ما كنت وحشة من يومي… بس الغيرة لما تركب قلب الست، تخليها تشوف النعمة في إيد غيرها نا",
+        "content_omitted": false
+      },
+      {
+        "message_id": "bbb21158-7f04-4673-a1d1-6566008953be",
+        "url": "https://chatgpt.com/c/6a1ee0fb-27e0-832a-9e28-15f7943753e0?messageId=bbb21158-7f04-4673-a1d1-6566008953be",
+        "date": "2026-06-02T14:07:36.293891Z",
+        "role": "user",
+        "quote": "القصة حلوة اوي بس فيها مشكلة\n\nاولا مفيش حاجه اسمها عند بحر اليوسفي\n\nاحنا قرى ونجوع ومحافظات ، اكتب اسماء المحافظات ، مرة قاهرة مرة شرقية مرة وكدا مش شرط فلاحين بس\n\n\nزود السوداوية والحزن وشدة النهاية\n\nخلي نهاية الشخص الوحش فظيعة ، ",
+        "content_omitted": false
+      }
+    ],
+    "attempts": [
+      "Subsequent prompts adopted regional/geographic constraints; no factual verification performed in audit."
+    ],
+    "limits": "Source began as generic fiction but later explicitly becomes YouTube narration. No map or geography claim independently verified.",
+    "discovered_by": "user"
+  },
+  {
+    "id": "O26-STORY-10",
+    "title": "Prompt rewrite dropped useful narration/diacritics sections",
+    "category": "video_pipeline_prompt_regression",
+    "status": "historical_assistant_report_unresolved",
+    "description": "Comparison of Hawaky script-engine versions reported newer version omitted diacritics lock and detailed story sections; recommended restoring selected sections. This is reported prompt regression, not observed TTS failure.",
+    "evidence": [
+      {
+        "message_id": "b76740f4-b27a-4f06-bdb7-952a164724fd",
+        "url": "https://chatgpt.com/c/6a2447fb-8618-8325-8354-e13bbf091aa5?messageId=b76740f4-b27a-4f06-bdb7-952a164724fd",
+        "date": "2026-06-06T16:23:46.040885Z",
+        "role": "assistant",
+        "quote": "## عيب الملف الأول\n\nرغم إنه أقوى، هو حذف أجزاء مفيدة من النسخة الثانية، منها:\n\n- قسم `TASHKEEL / DIACRITICS LOCK FOR SCRIPT`\n- تفاصيل `ORDINARY EGYPTIAN LIFE BEFORE DISASTER`\n- تفاصيل `THE EVIL PLAN`\n- أمثلة كثيرة للعقاب النفسي والجسدي بدون gore\n- أمثلة النهاية المفتوحة وبصيص الأمل\n- بعض تفاصيل منع الوصف الطويل\n\nيعني الملف الأول **أقوى في الضغط والتنفيذ**، لكن الثاني **أغنى كـ vault تفصيلي**.\n\n## القرار\n\nاستخدم **الملف الأول** كنسخة تشغيل أساسية.\n\nلكن أفضل نسخة نهائية ستكون:\n\n> الملف الأول + ترجيع الأقسام التفصيلية المحذوفة من الملف الثاني، خصوصًا:  \n> `THE EVIL PLAN`  \n> `DESCRIBING PAIN WITHOUT GORE`  \n> `ENDING` examples  \n> `ORDINARY EGYPTIAN LIFE BEFORE DISASTER`\n\n## الخلاصة ا",
+        "content_omitted": false
+      }
+    ],
+    "attempts": [
+      "Proposed merge of stronger new length/event controls with older detailed sections; execution absent."
+    ],
+    "limits": "Uploaded source files omitted; comparison attributed to historical assistant. Warnings about ordering TTS before script and JSON schema migration elsewhere in thread are hypothetical and not counted as occurred errors.",
+    "discovered_by": "agent"
+  }
+]

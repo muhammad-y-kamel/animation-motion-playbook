@@ -1,0 +1,86 @@
+[
+  {
+    "conversation_id": "6a9812e5-8398-83e9-ba5e-c0e316b6e3ea",
+    "url": "https://chatgpt.com/c/6a9812e5-8398-83e9-ba5e-c0e316b6e3ea",
+    "status": "bounded_relevance_screen_excluded",
+    "pages_screened": 1,
+    "distinct_messages_screened": 5,
+    "previous_cursor_remaining": true,
+    "next_cursor_remaining": false,
+    "omitted_content_messages": [],
+    "earliest_screened": "2026-09-02T12:23:58.237242Z",
+    "latest_screened": "2026-09-02T12:34:41.469174Z",
+    "reason": "Advertising copy critique for a design; user asks shorter yet specific bullets/title. No animation/video artifact, motion failure or video pipeline linkage in screened context.",
+    "new_case_count": 0
+  },
+  {
+    "conversation_id": "6a87dc4b-7c2c-83ea-bcf0-364ad4f3829f",
+    "url": "https://chatgpt.com/c/6a87dc4b-7c2c-83ea-bcf0-364ad4f3829f",
+    "status": "bounded_relevance_screen_excluded",
+    "pages_screened": 1,
+    "distinct_messages_screened": 6,
+    "previous_cursor_remaining": false,
+    "next_cursor_remaining": false,
+    "omitted_content_messages": [
+      {
+        "id": "bbb21ab6-15cb-4eca-9fc8-7b7cf6b833eb",
+        "url": "https://chatgpt.com/c/6a87dc4b-7c2c-83ea-bcf0-364ad4f3829f?messageId=bbb21ab6-15cb-4eca-9fc8-7b7cf6b833eb"
+      },
+      {
+        "id": "bbb21680-7218-4427-84b6-7ac8108f4256",
+        "url": "https://chatgpt.com/c/6a87dc4b-7c2c-83ea-bcf0-364ad4f3829f?messageId=bbb21680-7218-4427-84b6-7ac8108f4256"
+      }
+    ],
+    "earliest_screened": "2026-08-21T05:04:12.647259Z",
+    "latest_screened": "2026-08-21T05:12:40.531101Z",
+    "reason": "Cartoon-styled static ad-image redesign and matching promotional copy. Cartoon drawing style is not evidence of animation; attachment contents omitted; no rendered motion failure reported.",
+    "new_case_count": 0
+  },
+  {
+    "conversation_id": "69f3b164-83bc-83ea-b2d4-3d881a4bd74f",
+    "url": "https://chatgpt.com/c/69f3b164-83bc-83ea-b2d4-3d881a4bd74f",
+    "status": "bounded_relevance_screen_excluded",
+    "pages_screened": 1,
+    "distinct_messages_screened": 4,
+    "previous_cursor_remaining": true,
+    "next_cursor_remaining": false,
+    "omitted_content_messages": [
+      {
+        "id": "04e7c514-0285-46cf-82f8-047546cfd472",
+        "url": "https://chatgpt.com/c/69f3b164-83bc-83ea-b2d4-3d881a4bd74f?messageId=04e7c514-0285-46cf-82f8-047546cfd472"
+      }
+    ],
+    "earliest_screened": "2026-06-06T09:25:10.513000Z",
+    "latest_screened": "2026-06-13T16:41:39.406529Z",
+    "reason": "Recent context explicitly square static contest posters and follow-up static ad design. Crowding/typography complaints concern posters; not imported as motion errors. Older ad-plan history not reviewed after clear adjacent-scope screen.",
+    "new_case_count": 0
+  },
+  {
+    "conversation_id": "69e80bb4-6b80-83ea-9ad5-40d727ef2269",
+    "url": "https://chatgpt.com/c/69e80bb4-6b80-83ea-9ad5-40d727ef2269",
+    "status": "bounded_relevance_screen_excluded",
+    "pages_screened": 1,
+    "distinct_messages_screened": 3,
+    "previous_cursor_remaining": false,
+    "next_cursor_remaining": false,
+    "omitted_content_messages": [],
+    "earliest_screened": "2026-04-21T23:44:53.922000Z",
+    "latest_screened": "2026-04-21T23:48:02.948820Z",
+    "reason": "AI media-buyer SaaS strategy. 'Motion' occurs as a creative-analytics product/company, not an observed animation failure. No media-production execution/repair evidence.",
+    "new_case_count": 0
+  },
+  {
+    "conversation_id": "6ac5bd5d-9168-83ea-a827-269c2f04dbb0",
+    "url": "https://chatgpt.com/c/6ac5bd5d-9168-83ea-a827-269c2f04dbb0",
+    "status": "bounded_relevance_screen_excluded",
+    "pages_screened": 1,
+    "distinct_messages_screened": 8,
+    "previous_cursor_remaining": false,
+    "next_cursor_remaining": false,
+    "omitted_content_messages": [],
+    "earliest_screened": "2026-10-07T03:32:45.991698Z",
+    "latest_screened": "2026-10-07T14:37:10.676258Z",
+    "reason": "AnswerAct promotional copy translation/refinement. Marketing claims and wording revisions, no motion/audio/rendering failure; distinct from actual AnswerAct motion production threads.",
+    "new_case_count": 0
+  }
+]

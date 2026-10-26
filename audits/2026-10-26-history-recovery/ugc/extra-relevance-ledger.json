@@ -1,0 +1,82 @@
+[
+  {
+    "conversation_id": "69bb6902-d724-832f-8be1-d7e14a0be587",
+    "url": "https://chatgpt.com/c/69bb6902-d724-832f-8be1-d7e14a0be587",
+    "pages_screened": 2,
+    "distinct_messages_screened": 9,
+    "previous_cursor_exhausted": false,
+    "next_cursor_exhausted": true,
+    "status": "relevance_screen_only_out_of_scope",
+    "reason": "Static SaaS brand/logomark/font/background design. Screened recent two pages; stopped adjacent branding scope, older pages unreviewed.",
+    "new_case_count": 0,
+    "dates": {
+      "earliest_screened": "2026-03-19T03:14:48.736485Z",
+      "latest_screened": "2026-03-19T03:42:08.040888Z"
+    },
+    "omitted_content_count": 0
+  },
+  {
+    "conversation_id": "69fbf877-0028-832b-ba20-f70c5398e947",
+    "url": "https://chatgpt.com/c/69fbf877-0028-832b-ba20-f70c5398e947",
+    "pages_screened": 2,
+    "distinct_messages_screened": 9,
+    "previous_cursor_exhausted": false,
+    "next_cursor_exhausted": true,
+    "status": "relevance_screen_only_out_of_scope",
+    "reason": "Static clothing lifestyle photo prompts. User reports repetitive gaze/pose and failed prompt changes, but no animated/video output or linkage established. Stopped static-photography scope; do not import these as animation failures.",
+    "new_case_count": 0,
+    "dates": {
+      "earliest_screened": "2026-05-07T03:11:59.532360Z",
+      "latest_screened": "2026-05-07T03:46:44.773820Z"
+    },
+    "omitted_content_count": 0
+  },
+  {
+    "conversation_id": "6a95d223-1680-83ea-a0f3-ccbfe1463c2a",
+    "url": "https://chatgpt.com/c/6a95d223-1680-83ea-a0f3-ccbfe1463c2a",
+    "pages_screened": 1,
+    "distinct_messages_screened": 2,
+    "previous_cursor_exhausted": true,
+    "next_cursor_exhausted": true,
+    "status": "all_returned_text_retrieved_no_observed_motion_failure",
+    "reason": "Faceless video creator plugin build described with passing smoke test and explicit integration limitations. No observed failed render/repair reported. Two-message thread exhausted.",
+    "new_case_count": 0,
+    "dates": {
+      "earliest_screened": "2026-08-31T19:12:34.411000Z",
+      "latest_screened": "2026-08-31T20:14:55.513499Z"
+    },
+    "omitted_content_count": 0
+  },
+  {
+    "conversation_id": "69dcdf5a-d960-8333-99df-ffcee84f4a03",
+    "url": "https://chatgpt.com/c/69dcdf5a-d960-8333-99df-ffcee84f4a03",
+    "pages_screened": 3,
+    "distinct_messages_screened": 4,
+    "previous_cursor_exhausted": true,
+    "next_cursor_exhausted": true,
+    "status": "all_returned_text_retrieved_no_observed_motion_failure",
+    "reason": "Narration CTA policy edits to WhatIf and prophetic-story prompt. Requested wording revision rather than observed animation/AV defect; all text chunks retrieved. No executed pipeline result.",
+    "new_case_count": 0,
+    "dates": {
+      "earliest_screened": "2026-04-13T12:21:26.348019Z",
+      "latest_screened": "2026-04-13T12:23:48.833837Z"
+    },
+    "omitted_content_count": 0
+  },
+  {
+    "conversation_id": "6ab745e5-b114-83ea-9ca3-ccd4bed0f534",
+    "url": "https://chatgpt.com/c/6ab745e5-b114-83ea-9ca3-ccd4bed0f534",
+    "pages_screened": 1,
+    "distinct_messages_screened": 4,
+    "previous_cursor_exhausted": false,
+    "next_cursor_exhausted": true,
+    "status": "relevance_screen_only_out_of_scope",
+    "reason": "Sales chatbot prompt/runtime issue handling, payment workflow and tool descriptions. Unrelated to motion/video production. Stopped after relevance screen; no transaction/customer details retained.",
+    "new_case_count": 0,
+    "dates": {
+      "earliest_screened": "2026-09-27T16:53:41.809330Z",
+      "latest_screened": "2026-10-05T14:51:29.136223Z"
+    },
+    "omitted_content_count": 0
+  }
+]

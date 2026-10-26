@@ -1,0 +1,156 @@
+{
+  "checked_at": "2026-10-26T19:56Z",
+  "queries": [
+    {
+      "query": "animation",
+      "pages": 5,
+      "returned_hits": 46,
+      "exhausted_returned_cursor": true,
+      "partial_page_count": 2,
+      "errors": [
+        "partial",
+        "partial"
+      ]
+    },
+    {
+      "query": "موشن",
+      "pages": 2,
+      "returned_hits": 25,
+      "exhausted_returned_cursor": true,
+      "partial_page_count": 1,
+      "errors": [
+        "partial"
+      ]
+    },
+    {
+      "query": "انيميشن",
+      "pages": 1,
+      "returned_hits": 1,
+      "exhausted_returned_cursor": true,
+      "partial_page_count": 1,
+      "errors": [
+        "partial"
+      ]
+    },
+    {
+      "query": "أنيميشن",
+      "pages": 1,
+      "returned_hits": 3,
+      "exhausted_returned_cursor": true,
+      "partial_page_count": 1,
+      "errors": [
+        "partial"
+      ]
+    },
+    {
+      "query": "motion",
+      "pages": 11,
+      "returned_hits": 121,
+      "exhausted_returned_cursor": true,
+      "partial_page_count": 6,
+      "errors": [
+        "partial",
+        "partial",
+        "partial",
+        "partial",
+        "partial",
+        "partial"
+      ]
+    },
+    {
+      "query": "Veo",
+      "pages": 11,
+      "returned_hits": 87,
+      "exhausted_returned_cursor": true,
+      "partial_page_count": 0,
+      "errors": []
+    },
+    {
+      "query": "موكي",
+      "pages": 1,
+      "returned_hits": 4,
+      "exhausted_returned_cursor": true,
+      "partial_page_count": 0,
+      "errors": []
+    },
+    {
+      "query": "بيب",
+      "pages": 20,
+      "returned_hits": 164,
+      "exhausted_returned_cursor": true,
+      "partial_page_count": 3,
+      "errors": [
+        "partial",
+        "partial",
+        "partial"
+      ]
+    },
+    {
+      "query": "تحريك",
+      "pages": 4,
+      "returned_hits": 40,
+      "exhausted_returned_cursor": true,
+      "partial_page_count": 1,
+      "errors": [
+        "partial"
+      ]
+    },
+    {
+      "query": "رسوم متحركة",
+      "pages": 1,
+      "returned_hits": 0,
+      "exhausted_returned_cursor": true,
+      "partial_page_count": 0,
+      "errors": []
+    },
+    {
+      "query": "GetMotion",
+      "pages": 3,
+      "returned_hits": 49,
+      "exhausted_returned_cursor": true,
+      "partial_page_count": 0,
+      "errors": []
+    },
+    {
+      "query": "MOKI",
+      "pages": 1,
+      "returned_hits": 4,
+      "exhausted_returned_cursor": true,
+      "partial_page_count": 0,
+      "errors": []
+    },
+    {
+      "query": "PEB",
+      "pages": 1,
+      "returned_hits": 2,
+      "exhausted_returned_cursor": true,
+      "partial_page_count": 0,
+      "errors": []
+    },
+    {
+      "query": "حكاوي الحارة",
+      "pages": 3,
+      "returned_hits": 15,
+      "exhausted_returned_cursor": true,
+      "partial_page_count": 3,
+      "errors": [
+        "partial",
+        "partial",
+        "partial"
+      ]
+    }
+  ],
+  "privacy": "Do not archive unrelated personal-topic search hits. Only screened relevant/borderline IDs are kept in coverage ledgers.",
+  "scope": "Saved ChatGPT conversation search only, not exhaustive cloud task enumeration; partial results prevent all-account completion.",
+  "additional_source_probe": {
+    "query": "animation",
+    "sources": [
+      "project",
+      "library"
+    ],
+    "partial_results": false,
+    "unavailable_sources": [],
+    "next_cursor": null,
+    "results": 0
+  }
+}

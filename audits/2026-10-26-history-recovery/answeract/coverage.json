@@ -1,0 +1,1853 @@
+{
+  "audit_date": "2026-10-26",
+  "method": "Direct native reader; original conversation IDs; before/after10; traverse previous and next cursors; merge chunks by offsets. No browser, source artifacts or external execution inspected.",
+  "completeness": "All returned pages exhausted for five assigned leads only; content_omitted and missing image attachments remain unavailable. Not all account history.",
+  "dedup": "Previous local workspace replaced; compared against retained earlier audit summaries. No same-source overlap with AnswerAct/Coursera/WIP prompt-extraction audited IDs. Parent must cross-check remote playbook before final additive merge.",
+  "conversations": [
+    {
+      "conversation_id": "6a715f5d-bcb0-83ea-b86e-fcb323b57b77",
+      "title": "إعلان تطبيق يوديمي",
+      "pages": 11,
+      "message_count": 31,
+      "content_omitted_count": 0,
+      "empty_text_count": 1,
+      "chunk_gaps": [],
+      "cursor_exhaustion": "both directions traversed to null",
+      "scope": "Relevant generative-video/media-production pipeline",
+      "message_inventory": [
+        {
+          "message_id": "bbb21acf-c7ef-4fe1-8536-e8a357eee9e6",
+          "role": "user",
+          "created_at": "2026-08-04T03:48:17.303863Z",
+          "url": "https://chatgpt.com/c/6a715f5d-bcb0-83ea-b86e-fcb323b57b77?messageId=bbb21acf-c7ef-4fe1-8536-e8a357eee9e6",
+          "content_omitted": false,
+          "retrieved_characters": 1237
+        },
+        {
+          "message_id": "c0d7a945-76d9-4227-aa82-b36b3e960a02",
+          "role": "assistant",
+          "created_at": "2026-08-04T03:48:17.522221Z",
+          "url": "https://chatgpt.com/c/6a715f5d-bcb0-83ea-b86e-fcb323b57b77?messageId=c0d7a945-76d9-4227-aa82-b36b3e960a02",
+          "content_omitted": false,
+          "retrieved_characters": 24049
+        },
+        {
+          "message_id": "bbb21276-6e76-40a5-ae74-fd437097422a",
+          "role": "user",
+          "created_at": "2026-08-07T23:32:11.706934Z",
+          "url": "https://chatgpt.com/c/6a715f5d-bcb0-83ea-b86e-fcb323b57b77?messageId=bbb21276-6e76-40a5-ae74-fd437097422a",
+          "content_omitted": false,
+          "retrieved_characters": 61
+        },
+        {
+          "message_id": "abc175f8-a0e5-4850-b0f3-d1ed96c935af",
+          "role": "assistant",
+          "created_at": "2026-08-07T23:35:24.244348Z",
+          "url": "https://chatgpt.com/c/6a715f5d-bcb0-83ea-b86e-fcb323b57b77?messageId=abc175f8-a0e5-4850-b0f3-d1ed96c935af",
+          "content_omitted": false,
+          "retrieved_characters": 0
+        },
+        {
+          "message_id": "bbb21fad-19d9-4729-afd3-b21a7aa95016",
+          "role": "user",
+          "created_at": "2026-08-07T23:36:53.382252Z",
+          "url": "https://chatgpt.com/c/6a715f5d-bcb0-83ea-b86e-fcb323b57b77?messageId=bbb21fad-19d9-4729-afd3-b21a7aa95016",
+          "content_omitted": false,
+          "retrieved_characters": 84
+        },
+        {
+          "message_id": "a8e74a5e-fabd-47eb-bc7b-aec252ec2f05",
+          "role": "assistant",
+          "created_at": "2026-08-07T23:36:58.038146Z",
+          "url": "https://chatgpt.com/c/6a715f5d-bcb0-83ea-b86e-fcb323b57b77?messageId=a8e74a5e-fabd-47eb-bc7b-aec252ec2f05",
+          "content_omitted": false,
+          "retrieved_characters": 338
+        },
+        {
+          "message_id": "bbb21bc2-7fc3-4d7f-a573-f8047011f9b4",
+          "role": "user",
+          "created_at": "2026-08-07T23:40:22.953628Z",
+          "url": "https://chatgpt.com/c/6a715f5d-bcb0-83ea-b86e-fcb323b57b77?messageId=bbb21bc2-7fc3-4d7f-a573-f8047011f9b4",
+          "content_omitted": false,
+          "retrieved_characters": 37
+        },
+        {
+          "message_id": "bbb212c8-bf71-4796-86b1-e95dcf3aeeb9",
+          "role": "user",
+          "created_at": "2026-08-07T23:49:01.878065Z",
+          "url": "https://chatgpt.com/c/6a715f5d-bcb0-83ea-b86e-fcb323b57b77?messageId=bbb212c8-bf71-4796-86b1-e95dcf3aeeb9",
+          "content_omitted": false,
+          "retrieved_characters": 64
+        },
+        {
+          "message_id": "bbb213d7-c8ed-439a-88b3-85ccb10a6035",
+          "role": "user",
+          "created_at": "2026-08-07T23:53:28.852610Z",
+          "url": "https://chatgpt.com/c/6a715f5d-bcb0-83ea-b86e-fcb323b57b77?messageId=bbb213d7-c8ed-439a-88b3-85ccb10a6035",
+          "content_omitted": false,
+          "retrieved_characters": 17
+        },
+        {
+          "message_id": "3370c46f-5505-4930-ba1d-658feadfc6ac",
+          "role": "assistant",
+          "created_at": "2026-08-07T23:54:20.192201Z",
+          "url": "https://chatgpt.com/c/6a715f5d-bcb0-83ea-b86e-fcb323b57b77?messageId=3370c46f-5505-4930-ba1d-658feadfc6ac",
+          "content_omitted": false,
+          "retrieved_characters": 470
+        },
+        {
+          "message_id": "bbb219c8-6051-43af-858b-e273786eef29",
+          "role": "user",
+          "created_at": "2026-08-07T23:54:40.820404Z",
+          "url": "https://chatgpt.com/c/6a715f5d-bcb0-83ea-b86e-fcb323b57b77?messageId=bbb219c8-6051-43af-858b-e273786eef29",
+          "content_omitted": false,
+          "retrieved_characters": 17
+        },
+        {
+          "message_id": "bbb214df-4c2e-410f-8cb0-48ee6677b0a6",
+          "role": "user",
+          "created_at": "2026-08-07T23:59:22.201002Z",
+          "url": "https://chatgpt.com/c/6a715f5d-bcb0-83ea-b86e-fcb323b57b77?messageId=bbb214df-4c2e-410f-8cb0-48ee6677b0a6",
+          "content_omitted": false,
+          "retrieved_characters": 19
+        },
+        {
+          "message_id": "bbb21587-1be8-4656-a04e-edb0a5ebf004",
+          "role": "user",
+          "created_at": "2026-08-08T00:15:17.813352Z",
+          "url": "https://chatgpt.com/c/6a715f5d-bcb0-83ea-b86e-fcb323b57b77?messageId=bbb21587-1be8-4656-a04e-edb0a5ebf004",
+          "content_omitted": false,
+          "retrieved_characters": 484
+        },
+        {
+          "message_id": "6c3b6088-ed3f-4e70-af44-24887c6de2dd",
+          "role": "assistant",
+          "created_at": "2026-08-08T00:17:22.963498Z",
+          "url": "https://chatgpt.com/c/6a715f5d-bcb0-83ea-b86e-fcb323b57b77?messageId=6c3b6088-ed3f-4e70-af44-24887c6de2dd",
+          "content_omitted": false,
+          "retrieved_characters": 5090
+        },
+        {
+          "message_id": "bbb21b17-7602-4533-8061-f3f70d5543de",
+          "role": "user",
+          "created_at": "2026-08-08T00:26:33.457884Z",
+          "url": "https://chatgpt.com/c/6a715f5d-bcb0-83ea-b86e-fcb323b57b77?messageId=bbb21b17-7602-4533-8061-f3f70d5543de",
+          "content_omitted": false,
+          "retrieved_characters": 135
+        },
+        {
+          "message_id": "bbb21aea-bcb7-4dd4-be5d-f8fbf09419a7",
+          "role": "user",
+          "created_at": "2026-08-08T00:27:00.569622Z",
+          "url": "https://chatgpt.com/c/6a715f5d-bcb0-83ea-b86e-fcb323b57b77?messageId=bbb21aea-bcb7-4dd4-be5d-f8fbf09419a7",
+          "content_omitted": false,
+          "retrieved_characters": 99
+        },
+        {
+          "message_id": "d3d58c98-56ee-4271-af65-7a00bb36e771",
+          "role": "assistant",
+          "created_at": "2026-08-08T00:31:32.806071Z",
+          "url": "https://chatgpt.com/c/6a715f5d-bcb0-83ea-b86e-fcb323b57b77?messageId=d3d58c98-56ee-4271-af65-7a00bb36e771",
+          "content_omitted": false,
+          "retrieved_characters": 9544
+        },
+        {
+          "message_id": "bbb21d74-05cf-4009-8f69-ef892a061a45",
+          "role": "user",
+          "created_at": "2026-08-08T00:35:13.158005Z",
+          "url": "https://chatgpt.com/c/6a715f5d-bcb0-83ea-b86e-fcb323b57b77?messageId=bbb21d74-05cf-4009-8f69-ef892a061a45",
+          "content_omitted": false,
+          "retrieved_characters": 97
+        },
+        {
+          "message_id": "a0277c75-fb0c-4699-8533-ea403eae3435",
+          "role": "assistant",
+          "created_at": "2026-08-08T00:40:17.666735Z",
+          "url": "https://chatgpt.com/c/6a715f5d-bcb0-83ea-b86e-fcb323b57b77?messageId=a0277c75-fb0c-4699-8533-ea403eae3435",
+          "content_omitted": false,
+          "retrieved_characters": 14206
+        },
+        {
+          "message_id": "bbb21f95-9519-4f90-bf69-f8da46338540",
+          "role": "user",
+          "created_at": "2026-08-08T00:46:14.863017Z",
+          "url": "https://chatgpt.com/c/6a715f5d-bcb0-83ea-b86e-fcb323b57b77?messageId=bbb21f95-9519-4f90-bf69-f8da46338540",
+          "content_omitted": false,
+          "retrieved_characters": 213
+        },
+        {
+          "message_id": "d53cefad-eace-4fd9-b8d7-1338f7620e00",
+          "role": "assistant",
+          "created_at": "2026-08-08T00:49:13.390287Z",
+          "url": "https://chatgpt.com/c/6a715f5d-bcb0-83ea-b86e-fcb323b57b77?messageId=d53cefad-eace-4fd9-b8d7-1338f7620e00",
+          "content_omitted": false,
+          "retrieved_characters": 10308
+        },
+        {
+          "message_id": "bbb21843-3273-4b38-a542-9749ae0c60b3",
+          "role": "user",
+          "created_at": "2026-08-08T00:56:11.835320Z",
+          "url": "https://chatgpt.com/c/6a715f5d-bcb0-83ea-b86e-fcb323b57b77?messageId=bbb21843-3273-4b38-a542-9749ae0c60b3",
+          "content_omitted": false,
+          "retrieved_characters": 96
+        },
+        {
+          "message_id": "777486b6-e3a9-42db-b782-5eec4be84161",
+          "role": "assistant",
+          "created_at": "2026-08-08T00:58:39.399370Z",
+          "url": "https://chatgpt.com/c/6a715f5d-bcb0-83ea-b86e-fcb323b57b77?messageId=777486b6-e3a9-42db-b782-5eec4be84161",
+          "content_omitted": false,
+          "retrieved_characters": 11466
+        },
+        {
+          "message_id": "bbb214c3-bd90-4030-b800-0af0c307b186",
+          "role": "user",
+          "created_at": "2026-08-08T01:10:47.095787Z",
+          "url": "https://chatgpt.com/c/6a715f5d-bcb0-83ea-b86e-fcb323b57b77?messageId=bbb214c3-bd90-4030-b800-0af0c307b186",
+          "content_omitted": false,
+          "retrieved_characters": 173
+        },
+        {
+          "message_id": "97ebe06e-99ef-4731-b8d5-671d37395b0f",
+          "role": "assistant",
+          "created_at": "2026-08-08T01:14:01.558798Z",
+          "url": "https://chatgpt.com/c/6a715f5d-bcb0-83ea-b86e-fcb323b57b77?messageId=97ebe06e-99ef-4731-b8d5-671d37395b0f",
+          "content_omitted": false,
+          "retrieved_characters": 13416
+        },
+        {
+          "message_id": "bbb21d72-ab41-4137-9416-8a20a499bf50",
+          "role": "user",
+          "created_at": "2026-08-08T01:21:44.658008Z",
+          "url": "https://chatgpt.com/c/6a715f5d-bcb0-83ea-b86e-fcb323b57b77?messageId=bbb21d72-ab41-4137-9416-8a20a499bf50",
+          "content_omitted": false,
+          "retrieved_characters": 234
+        },
+        {
+          "message_id": "8731820e-9d0d-4849-a1f4-d6298b86fb1c",
+          "role": "assistant",
+          "created_at": "2026-08-08T01:24:50.706337Z",
+          "url": "https://chatgpt.com/c/6a715f5d-bcb0-83ea-b86e-fcb323b57b77?messageId=8731820e-9d0d-4849-a1f4-d6298b86fb1c",
+          "content_omitted": false,
+          "retrieved_characters": 16818
+        },
+        {
+          "message_id": "bbb216e0-3a52-45ea-881a-45d25d3e6517",
+          "role": "user",
+          "created_at": "2026-08-08T01:27:28.321437Z",
+          "url": "https://chatgpt.com/c/6a715f5d-bcb0-83ea-b86e-fcb323b57b77?messageId=bbb216e0-3a52-45ea-881a-45d25d3e6517",
+          "content_omitted": false,
+          "retrieved_characters": 236
+        },
+        {
+          "message_id": "b5122d0a-20cd-491c-8d2b-e394aa134cc9",
+          "role": "assistant",
+          "created_at": "2026-08-08T01:31:00.851688Z",
+          "url": "https://chatgpt.com/c/6a715f5d-bcb0-83ea-b86e-fcb323b57b77?messageId=b5122d0a-20cd-491c-8d2b-e394aa134cc9",
+          "content_omitted": false,
+          "retrieved_characters": 19718
+        },
+        {
+          "message_id": "bbb21643-3ca3-46b2-a8cb-f51c11d171b5",
+          "role": "user",
+          "created_at": "2026-08-08T01:33:23.077738Z",
+          "url": "https://chatgpt.com/c/6a715f5d-bcb0-83ea-b86e-fcb323b57b77?messageId=bbb21643-3ca3-46b2-a8cb-f51c11d171b5",
+          "content_omitted": false,
+          "retrieved_characters": 369
+        },
+        {
+          "message_id": "2bceaaed-953d-4b8c-89b3-02df8c4233e7",
+          "role": "assistant",
+          "created_at": "2026-08-08T01:38:06.412878Z",
+          "url": "https://chatgpt.com/c/6a715f5d-bcb0-83ea-b86e-fcb323b57b77?messageId=2bceaaed-953d-4b8c-89b3-02df8c4233e7",
+          "content_omitted": false,
+          "retrieved_characters": 25013
+        }
+      ],
+      "date_range": [
+        "2026-08-04T03:48:17.303863Z",
+        "2026-08-08T01:38:06.412878Z"
+      ]
+    },
+    {
+      "conversation_id": "69f534d9-bcac-83ea-9066-060d83667f4c",
+      "title": "برومبت فيديو غريب",
+      "pages": 1,
+      "message_count": 2,
+      "content_omitted_count": 0,
+      "empty_text_count": 0,
+      "chunk_gaps": [],
+      "cursor_exhaustion": "both directions traversed to null",
+      "scope": "Video prompt requirements only; no observed failure",
+      "message_inventory": [
+        {
+          "message_id": "cb574421-f3ce-421d-a5c9-cb8ffe0448ee",
+          "role": "user",
+          "created_at": "2026-05-01T23:20:43.102000Z",
+          "url": "https://chatgpt.com/c/69f534d9-bcac-83ea-9066-060d83667f4c?messageId=cb574421-f3ce-421d-a5c9-cb8ffe0448ee",
+          "content_omitted": false,
+          "retrieved_characters": 303
+        },
+        {
+          "message_id": "91e41dc3-383e-493a-8fa5-76a70aaaca37",
+          "role": "assistant",
+          "created_at": "2026-05-01T23:20:46.901026Z",
+          "url": "https://chatgpt.com/c/69f534d9-bcac-83ea-9066-060d83667f4c?messageId=91e41dc3-383e-493a-8fa5-76a70aaaca37",
+          "content_omitted": false,
+          "retrieved_characters": 3274
+        }
+      ],
+      "date_range": [
+        "2026-05-01T23:20:43.102000Z",
+        "2026-05-01T23:20:46.901026Z"
+      ]
+    },
+    {
+      "conversation_id": "69bb8818-e0cc-8330-9e4c-8c84e63557b1",
+      "title": "Automated YouTube Channel",
+      "pages": 29,
+      "message_count": 173,
+      "content_omitted_count": 14,
+      "empty_text_count": 5,
+      "chunk_gaps": [],
+      "cursor_exhaustion": "both directions traversed to null",
+      "scope": "Relevant generative-video/media-production pipeline",
+      "message_inventory": [
+        {
+          "message_id": "45b8f240-9948-439f-87ed-f7e45b43c357",
+          "role": "user",
+          "created_at": "2026-03-19T05:23:17.970000Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=45b8f240-9948-439f-87ed-f7e45b43c357",
+          "content_omitted": false,
+          "retrieved_characters": 1717
+        },
+        {
+          "message_id": "ad2bae13-e2d7-47cb-b8d0-a16003a503da",
+          "role": "assistant",
+          "created_at": "2026-03-19T05:25:20.122465Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=ad2bae13-e2d7-47cb-b8d0-a16003a503da",
+          "content_omitted": false,
+          "retrieved_characters": 16880
+        },
+        {
+          "message_id": "b1aa634b-5603-44d3-89e8-bbf8db56bbbf",
+          "role": "user",
+          "created_at": "2026-03-19T10:57:16.117000Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=b1aa634b-5603-44d3-89e8-bbf8db56bbbf",
+          "content_omitted": false,
+          "retrieved_characters": 92
+        },
+        {
+          "message_id": "d2f894a7-31cd-445b-81b8-32c5578dd5db",
+          "role": "assistant",
+          "created_at": "2026-03-19T10:57:39.914732Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=d2f894a7-31cd-445b-81b8-32c5578dd5db",
+          "content_omitted": false,
+          "retrieved_characters": 1944
+        },
+        {
+          "message_id": "c03da0ab-2610-4144-a0f4-1fc4fdda0be2",
+          "role": "user",
+          "created_at": "2026-03-19T10:59:19.841000Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=c03da0ab-2610-4144-a0f4-1fc4fdda0be2",
+          "content_omitted": false,
+          "retrieved_characters": 80
+        },
+        {
+          "message_id": "24a1770e-492d-44d0-8ce5-3071922f2081",
+          "role": "assistant",
+          "created_at": "2026-03-19T11:00:01.689412Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=24a1770e-492d-44d0-8ce5-3071922f2081",
+          "content_omitted": false,
+          "retrieved_characters": 4810
+        },
+        {
+          "message_id": "763573ff-d168-4f14-bdf7-f913d8028341",
+          "role": "user",
+          "created_at": "2026-03-19T11:01:15.765000Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=763573ff-d168-4f14-bdf7-f913d8028341",
+          "content_omitted": false,
+          "retrieved_characters": 49
+        },
+        {
+          "message_id": "72ec19ba-6067-494d-974d-ae80ded46d82",
+          "role": "assistant",
+          "created_at": "2026-03-19T11:01:31.008936Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=72ec19ba-6067-494d-974d-ae80ded46d82",
+          "content_omitted": false,
+          "retrieved_characters": 7292
+        },
+        {
+          "message_id": "f6427e1a-098c-4ab0-8b1e-2f2fd2cacdc5",
+          "role": "user",
+          "created_at": "2026-03-19T11:04:39.592000Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=f6427e1a-098c-4ab0-8b1e-2f2fd2cacdc5",
+          "content_omitted": false,
+          "retrieved_characters": 155
+        },
+        {
+          "message_id": "dd00312e-b9ac-40cd-b3c8-1c484455cd56",
+          "role": "assistant",
+          "created_at": "2026-03-19T11:08:17.313746Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=dd00312e-b9ac-40cd-b3c8-1c484455cd56",
+          "content_omitted": false,
+          "retrieved_characters": 6888
+        },
+        {
+          "message_id": "8a5ce0e2-6ac7-4409-91d7-508e238ef954",
+          "role": "user",
+          "created_at": "2026-03-19T11:25:46.983000Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=8a5ce0e2-6ac7-4409-91d7-508e238ef954",
+          "content_omitted": false,
+          "retrieved_characters": 34
+        },
+        {
+          "message_id": "e62800d4-8348-44c2-8137-3d9c5a070373",
+          "role": "assistant",
+          "created_at": "2026-03-19T11:25:48.532853Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=e62800d4-8348-44c2-8137-3d9c5a070373",
+          "content_omitted": false,
+          "retrieved_characters": 2068
+        },
+        {
+          "message_id": "8c134a06-26f3-4372-87f3-44cc550e9dc3",
+          "role": "user",
+          "created_at": "2026-03-19T11:26:55.310000Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=8c134a06-26f3-4372-87f3-44cc550e9dc3",
+          "content_omitted": false,
+          "retrieved_characters": 77
+        },
+        {
+          "message_id": "c5ab4243-a0e2-494d-b3f0-89193dfdf4bd",
+          "role": "assistant",
+          "created_at": "2026-03-19T11:30:10.995070Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=c5ab4243-a0e2-494d-b3f0-89193dfdf4bd",
+          "content_omitted": false,
+          "retrieved_characters": 1577
+        },
+        {
+          "message_id": "3f81f7f2-12ea-412d-9824-e0813d397947",
+          "role": "user",
+          "created_at": "2026-03-19T11:30:37.176000Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=3f81f7f2-12ea-412d-9824-e0813d397947",
+          "content_omitted": false,
+          "retrieved_characters": 100
+        },
+        {
+          "message_id": "ff0e7f21-0fe0-48fe-ae14-3923ae04e502",
+          "role": "assistant",
+          "created_at": "2026-03-19T11:35:14.001657Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=ff0e7f21-0fe0-48fe-ae14-3923ae04e502",
+          "content_omitted": false,
+          "retrieved_characters": 1603
+        },
+        {
+          "message_id": "2d2bc136-a18a-4eaf-965e-c78dde8a590f",
+          "role": "user",
+          "created_at": "2026-03-19T11:41:30.435000Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=2d2bc136-a18a-4eaf-965e-c78dde8a590f",
+          "content_omitted": false,
+          "retrieved_characters": 191
+        },
+        {
+          "message_id": "d436de89-c77d-4308-935c-466685ca6270",
+          "role": "assistant",
+          "created_at": "2026-03-19T11:45:08.317838Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=d436de89-c77d-4308-935c-466685ca6270",
+          "content_omitted": false,
+          "retrieved_characters": 1361
+        },
+        {
+          "message_id": "8c325151-2310-4618-9004-a77f67f8b35f",
+          "role": "user",
+          "created_at": "2026-03-19T11:48:33.050000Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=8c325151-2310-4618-9004-a77f67f8b35f",
+          "content_omitted": false,
+          "retrieved_characters": 25
+        },
+        {
+          "message_id": "3fd2b92d-8892-47f4-9209-407923a90096",
+          "role": "assistant",
+          "created_at": "2026-03-19T11:48:34.316461Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=3fd2b92d-8892-47f4-9209-407923a90096",
+          "content_omitted": false,
+          "retrieved_characters": 2216
+        },
+        {
+          "message_id": "bedc6ebd-53bc-4387-9db4-2b945e1c810b",
+          "role": "user",
+          "created_at": "2026-03-19T11:49:56.744000Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=bedc6ebd-53bc-4387-9db4-2b945e1c810b",
+          "content_omitted": false,
+          "retrieved_characters": 28
+        },
+        {
+          "message_id": "4f8c656a-f78a-4e7a-926c-ab423e41e24d",
+          "role": "assistant",
+          "created_at": "2026-03-19T11:50:13.019730Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=4f8c656a-f78a-4e7a-926c-ab423e41e24d",
+          "content_omitted": false,
+          "retrieved_characters": 5377
+        },
+        {
+          "message_id": "2e06ac4f-1cdb-4bbd-9da7-255aeee2c579",
+          "role": "user",
+          "created_at": "2026-03-19T11:51:18.176000Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=2e06ac4f-1cdb-4bbd-9da7-255aeee2c579",
+          "content_omitted": false,
+          "retrieved_characters": 57
+        },
+        {
+          "message_id": "0851aafa-5eb9-44d5-b8a7-9ff1d527da4f",
+          "role": "assistant",
+          "created_at": "2026-03-19T11:51:21.369033Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=0851aafa-5eb9-44d5-b8a7-9ff1d527da4f",
+          "content_omitted": false,
+          "retrieved_characters": 12563
+        },
+        {
+          "message_id": "a14d6abb-cc4f-4ffb-afdd-dde790acccd3",
+          "role": "user",
+          "created_at": "2026-03-19T11:53:55.891000Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=a14d6abb-cc4f-4ffb-afdd-dde790acccd3",
+          "content_omitted": false,
+          "retrieved_characters": 82
+        },
+        {
+          "message_id": "db1b44fd-68e4-4a72-a6fa-3d9001b4e8dc",
+          "role": "assistant",
+          "created_at": "2026-03-19T11:54:16.383528Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=db1b44fd-68e4-4a72-a6fa-3d9001b4e8dc",
+          "content_omitted": false,
+          "retrieved_characters": 6368
+        },
+        {
+          "message_id": "299ce79b-6be3-47c8-a413-c9e19706f62a",
+          "role": "user",
+          "created_at": "2026-03-19T11:56:56.170000Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=299ce79b-6be3-47c8-a413-c9e19706f62a",
+          "content_omitted": false,
+          "retrieved_characters": 591
+        },
+        {
+          "message_id": "e8180111-4cd9-4be3-8150-0ea1d6753c98",
+          "role": "assistant",
+          "created_at": "2026-03-19T11:57:20.598351Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=e8180111-4cd9-4be3-8150-0ea1d6753c98",
+          "content_omitted": false,
+          "retrieved_characters": 1703
+        },
+        {
+          "message_id": "5333a777-a4f7-42b7-965e-164f87fb2e81",
+          "role": "user",
+          "created_at": "2026-03-19T12:05:23.950000Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=5333a777-a4f7-42b7-965e-164f87fb2e81",
+          "content_omitted": false,
+          "retrieved_characters": 56
+        },
+        {
+          "message_id": "8bf416e9-2f96-4620-bf54-9cc322a2cd14",
+          "role": "assistant",
+          "created_at": "2026-03-19T12:05:39.041780Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=8bf416e9-2f96-4620-bf54-9cc322a2cd14",
+          "content_omitted": false,
+          "retrieved_characters": 1731
+        },
+        {
+          "message_id": "7285acbf-1fe8-416f-aa5f-e56c72af0820",
+          "role": "user",
+          "created_at": "2026-03-19T12:08:36.185000Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=7285acbf-1fe8-416f-aa5f-e56c72af0820",
+          "content_omitted": false,
+          "retrieved_characters": 86
+        },
+        {
+          "message_id": "8e9e93bb-22b5-446c-ab4e-8cd649444c9f",
+          "role": "assistant",
+          "created_at": "2026-03-19T12:08:37.273168Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=8e9e93bb-22b5-446c-ab4e-8cd649444c9f",
+          "content_omitted": false,
+          "retrieved_characters": 1472
+        },
+        {
+          "message_id": "22ec130c-cbb9-475d-af4d-b4b254b702f1",
+          "role": "user",
+          "created_at": "2026-03-19T12:11:07.657000Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=22ec130c-cbb9-475d-af4d-b4b254b702f1",
+          "content_omitted": false,
+          "retrieved_characters": 201
+        },
+        {
+          "message_id": "d2b2fac8-226a-4410-ab98-7cee682cffc4",
+          "role": "assistant",
+          "created_at": "2026-03-19T12:11:08.926061Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=d2b2fac8-226a-4410-ab98-7cee682cffc4",
+          "content_omitted": false,
+          "retrieved_characters": 7988
+        },
+        {
+          "message_id": "41dcbad1-e78d-44c0-89aa-87321c071e21",
+          "role": "user",
+          "created_at": "2026-03-19T12:13:06.665000Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=41dcbad1-e78d-44c0-89aa-87321c071e21",
+          "content_omitted": false,
+          "retrieved_characters": 27
+        },
+        {
+          "message_id": "f9a8cc88-3a58-48ed-840e-8432928a3d4c",
+          "role": "assistant",
+          "created_at": "2026-03-19T12:13:08.723306Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=f9a8cc88-3a58-48ed-840e-8432928a3d4c",
+          "content_omitted": false,
+          "retrieved_characters": 1353
+        },
+        {
+          "message_id": "9ff71c75-19fe-422e-a839-935c8ed5bcf8",
+          "role": "user",
+          "created_at": "2026-03-19T12:14:22.882000Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=9ff71c75-19fe-422e-a839-935c8ed5bcf8",
+          "content_omitted": false,
+          "retrieved_characters": 106
+        },
+        {
+          "message_id": "37d1dd53-6dc3-438b-a00c-3bac90d1c2e0",
+          "role": "assistant",
+          "created_at": "2026-03-19T12:14:29.283303Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=37d1dd53-6dc3-438b-a00c-3bac90d1c2e0",
+          "content_omitted": false,
+          "retrieved_characters": 2174
+        },
+        {
+          "message_id": "b791d5d9-421e-4109-8bf9-56d1601f2ac3",
+          "role": "user",
+          "created_at": "2026-03-19T12:15:55.959000Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=b791d5d9-421e-4109-8bf9-56d1601f2ac3",
+          "content_omitted": false,
+          "retrieved_characters": 148
+        },
+        {
+          "message_id": "cb887c11-fc76-4eff-af71-745a40b13e0e",
+          "role": "assistant",
+          "created_at": "2026-03-19T12:16:32.195233Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=cb887c11-fc76-4eff-af71-745a40b13e0e",
+          "content_omitted": false,
+          "retrieved_characters": 3630
+        },
+        {
+          "message_id": "66e1d12d-16f1-4616-8912-776bccf7b6cd",
+          "role": "user",
+          "created_at": "2026-03-19T12:26:03.857000Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=66e1d12d-16f1-4616-8912-776bccf7b6cd",
+          "content_omitted": false,
+          "retrieved_characters": 105
+        },
+        {
+          "message_id": "f03319f6-b397-4ed1-978b-21f6c2104a88",
+          "role": "assistant",
+          "created_at": "2026-03-19T12:28:38.836063Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=f03319f6-b397-4ed1-978b-21f6c2104a88",
+          "content_omitted": false,
+          "retrieved_characters": 2001
+        },
+        {
+          "message_id": "3902e111-273f-463a-9df8-caaae85c4f5c",
+          "role": "user",
+          "created_at": "2026-03-19T12:31:33.441000Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=3902e111-273f-463a-9df8-caaae85c4f5c",
+          "content_omitted": false,
+          "retrieved_characters": 48
+        },
+        {
+          "message_id": "5e1955f0-e90a-499b-90e9-8051fe337af1",
+          "role": "assistant",
+          "created_at": "2026-03-19T12:31:51.984798Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=5e1955f0-e90a-499b-90e9-8051fe337af1",
+          "content_omitted": false,
+          "retrieved_characters": 1308
+        },
+        {
+          "message_id": "c20120c2-9c4e-402e-99a6-fe156771d69d",
+          "role": "user",
+          "created_at": "2026-03-19T12:35:56.837000Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=c20120c2-9c4e-402e-99a6-fe156771d69d",
+          "content_omitted": false,
+          "retrieved_characters": 24
+        },
+        {
+          "message_id": "e90c0a4f-4736-471d-b897-05239914c5a9",
+          "role": "assistant",
+          "created_at": "2026-03-19T12:46:21.134007Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=e90c0a4f-4736-471d-b897-05239914c5a9",
+          "content_omitted": false,
+          "retrieved_characters": 2461
+        },
+        {
+          "message_id": "dc5566a7-9dfb-4dbd-8afd-a0123eafcd32",
+          "role": "user",
+          "created_at": "2026-03-19T12:50:35.066000Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=dc5566a7-9dfb-4dbd-8afd-a0123eafcd32",
+          "content_omitted": false,
+          "retrieved_characters": 145
+        },
+        {
+          "message_id": "040ed37e-31cc-47fa-81b5-d546f06ed8e7",
+          "role": "assistant",
+          "created_at": "2026-03-19T12:51:07.323495Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=040ed37e-31cc-47fa-81b5-d546f06ed8e7",
+          "content_omitted": false,
+          "retrieved_characters": 5241
+        },
+        {
+          "message_id": "b80d056a-95ca-4d5a-befd-5e45ebbd2f59",
+          "role": "user",
+          "created_at": "2026-03-19T12:53:12.817000Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=b80d056a-95ca-4d5a-befd-5e45ebbd2f59",
+          "content_omitted": false,
+          "retrieved_characters": 139
+        },
+        {
+          "message_id": "867f7294-712e-462a-92de-0228ebf65ff5",
+          "role": "assistant",
+          "created_at": "2026-03-19T12:53:27.720403Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=867f7294-712e-462a-92de-0228ebf65ff5",
+          "content_omitted": false,
+          "retrieved_characters": 5046
+        },
+        {
+          "message_id": "f382204b-4cbe-4c80-a269-4a664ce43145",
+          "role": "user",
+          "created_at": "2026-03-19T12:55:20.685000Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=f382204b-4cbe-4c80-a269-4a664ce43145",
+          "content_omitted": false,
+          "retrieved_characters": 32
+        },
+        {
+          "message_id": "32fdc2fa-3890-441d-89d7-b88f692e95bc",
+          "role": "user",
+          "created_at": "2026-03-19T12:58:18.189000Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=32fdc2fa-3890-441d-89d7-b88f692e95bc",
+          "content_omitted": false,
+          "retrieved_characters": 62
+        },
+        {
+          "message_id": "e9152cb6-cc89-462d-af25-f354c5081350",
+          "role": "assistant",
+          "created_at": "2026-03-19T13:01:52.844614Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=e9152cb6-cc89-462d-af25-f354c5081350",
+          "content_omitted": false,
+          "retrieved_characters": 11999
+        },
+        {
+          "message_id": "2d580456-23b3-4fc7-8817-119dda0d56ec",
+          "role": "user",
+          "created_at": "2026-03-19T13:05:45.795000Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=2d580456-23b3-4fc7-8817-119dda0d56ec",
+          "content_omitted": false,
+          "retrieved_characters": 42
+        },
+        {
+          "message_id": "5c7964b9-acdb-410d-a8d6-ccb93ef25510",
+          "role": "assistant",
+          "created_at": "2026-03-19T13:12:48.821528Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=5c7964b9-acdb-410d-a8d6-ccb93ef25510",
+          "content_omitted": false,
+          "retrieved_characters": 1492
+        },
+        {
+          "message_id": "29640a33-23c6-4839-a714-784372b41f3f",
+          "role": "user",
+          "created_at": "2026-03-19T13:26:15.039000Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=29640a33-23c6-4839-a714-784372b41f3f",
+          "content_omitted": false,
+          "retrieved_characters": 7251
+        },
+        {
+          "message_id": "b1f68fd1-bdec-4d3c-8347-a94957917481",
+          "role": "assistant",
+          "created_at": "2026-03-19T13:26:16.574248Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=b1f68fd1-bdec-4d3c-8347-a94957917481",
+          "content_omitted": false,
+          "retrieved_characters": 5831
+        },
+        {
+          "message_id": "d88a60fe-37fe-4103-9c5c-e114b51ccb00",
+          "role": "user",
+          "created_at": "2026-03-19T13:28:59.444000Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=d88a60fe-37fe-4103-9c5c-e114b51ccb00",
+          "content_omitted": false,
+          "retrieved_characters": 79
+        },
+        {
+          "message_id": "d0d06ef7-e981-4e67-82c7-ad4fb76ba590",
+          "role": "assistant",
+          "created_at": "2026-03-19T13:29:03.000507Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=d0d06ef7-e981-4e67-82c7-ad4fb76ba590",
+          "content_omitted": false,
+          "retrieved_characters": 6156
+        },
+        {
+          "message_id": "5235750a-b2ed-4ad6-b85c-56627bb919f5",
+          "role": "user",
+          "created_at": "2026-03-19T16:13:51.502000Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=5235750a-b2ed-4ad6-b85c-56627bb919f5",
+          "content_omitted": false,
+          "retrieved_characters": 166
+        },
+        {
+          "message_id": "35e656d6-166b-43b8-9ece-4cd99094b5d3",
+          "role": "assistant",
+          "created_at": "2026-03-19T16:14:19.982338Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=35e656d6-166b-43b8-9ece-4cd99094b5d3",
+          "content_omitted": false,
+          "retrieved_characters": 13057
+        },
+        {
+          "message_id": "f342dc39-e919-455e-9977-0821f436015e",
+          "role": "user",
+          "created_at": "2026-03-19T16:21:38.349000Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=f342dc39-e919-455e-9977-0821f436015e",
+          "content_omitted": false,
+          "retrieved_characters": 25
+        },
+        {
+          "message_id": "ca83209b-b375-47de-a4d8-8cb3a155fc3b",
+          "role": "assistant",
+          "created_at": "2026-03-19T16:27:14.505646Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=ca83209b-b375-47de-a4d8-8cb3a155fc3b",
+          "content_omitted": false,
+          "retrieved_characters": 1294
+        },
+        {
+          "message_id": "feb1fe9e-dfaf-4218-8c66-c1284a140a21",
+          "role": "user",
+          "created_at": "2026-03-19T16:33:27.800000Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=feb1fe9e-dfaf-4218-8c66-c1284a140a21",
+          "content_omitted": false,
+          "retrieved_characters": 3595
+        },
+        {
+          "message_id": "cd896217-1f6a-450e-acc4-0c5bd3077b16",
+          "role": "assistant",
+          "created_at": "2026-03-19T16:33:29.071305Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=cd896217-1f6a-450e-acc4-0c5bd3077b16",
+          "content_omitted": false,
+          "retrieved_characters": 6206
+        },
+        {
+          "message_id": "e7596fb5-9379-41d0-9873-2b840f8617c8",
+          "role": "user",
+          "created_at": "2026-03-19T16:37:15.834000Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=e7596fb5-9379-41d0-9873-2b840f8617c8",
+          "content_omitted": false,
+          "retrieved_characters": 47
+        },
+        {
+          "message_id": "ce71f16d-dc3a-480a-9f2b-0639737b7677",
+          "role": "assistant",
+          "created_at": "2026-03-19T16:37:17.409494Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=ce71f16d-dc3a-480a-9f2b-0639737b7677",
+          "content_omitted": false,
+          "retrieved_characters": 1232
+        },
+        {
+          "message_id": "ebccdb95-a6e7-4af1-8131-09f0ecfaf8d7",
+          "role": "user",
+          "created_at": "2026-03-19T16:41:58.881000Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=ebccdb95-a6e7-4af1-8131-09f0ecfaf8d7",
+          "content_omitted": false,
+          "retrieved_characters": 58
+        },
+        {
+          "message_id": "12302413-4a4c-490c-b7bd-34ba135d8718",
+          "role": "assistant",
+          "created_at": "2026-03-19T16:42:43.405131Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=12302413-4a4c-490c-b7bd-34ba135d8718",
+          "content_omitted": false,
+          "retrieved_characters": 1932
+        },
+        {
+          "message_id": "1483fcde-80c5-4739-b5e9-d6882cd25457",
+          "role": "user",
+          "created_at": "2026-03-19T16:46:46.885000Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=1483fcde-80c5-4739-b5e9-d6882cd25457",
+          "content_omitted": false,
+          "retrieved_characters": 57
+        },
+        {
+          "message_id": "aa2b3217-26f8-4893-b3bc-6eac765335a6",
+          "role": "assistant",
+          "created_at": "2026-03-19T16:47:24.484632Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=aa2b3217-26f8-4893-b3bc-6eac765335a6",
+          "content_omitted": false,
+          "retrieved_characters": 3401
+        },
+        {
+          "message_id": "330f9620-b285-4479-8cf4-be3a81ed2f3a",
+          "role": "user",
+          "created_at": "2026-03-19T16:50:22.836000Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=330f9620-b285-4479-8cf4-be3a81ed2f3a",
+          "content_omitted": false,
+          "retrieved_characters": 78
+        },
+        {
+          "message_id": "c2767dae-a8b1-49dc-a07a-db16d2779973",
+          "role": "assistant",
+          "created_at": "2026-03-19T16:51:03.755167Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=c2767dae-a8b1-49dc-a07a-db16d2779973",
+          "content_omitted": false,
+          "retrieved_characters": 2934
+        },
+        {
+          "message_id": "5aefe56b-4ee5-470c-9889-0bd6566b8f73",
+          "role": "user",
+          "created_at": "2026-03-19T17:04:26.403000Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=5aefe56b-4ee5-470c-9889-0bd6566b8f73",
+          "content_omitted": false,
+          "retrieved_characters": 133
+        },
+        {
+          "message_id": "db8f9b7c-b6ed-47ab-8439-6dd8842bfe91",
+          "role": "assistant",
+          "created_at": "2026-03-19T17:04:27.826235Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=db8f9b7c-b6ed-47ab-8439-6dd8842bfe91",
+          "content_omitted": false,
+          "retrieved_characters": 5461
+        },
+        {
+          "message_id": "a931beea-3f4e-4ca7-9e2b-7fa82696d32c",
+          "role": "user",
+          "created_at": "2026-03-19T17:06:36.550000Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=a931beea-3f4e-4ca7-9e2b-7fa82696d32c",
+          "content_omitted": false,
+          "retrieved_characters": 136
+        },
+        {
+          "message_id": "267dc767-16de-40b4-9310-d64e00134584",
+          "role": "assistant",
+          "created_at": "2026-03-19T17:06:57.870101Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=267dc767-16de-40b4-9310-d64e00134584",
+          "content_omitted": false,
+          "retrieved_characters": 4079
+        },
+        {
+          "message_id": "85e6dd58-13c3-4f6b-aa9f-e983157791fe",
+          "role": "user",
+          "created_at": "2026-03-19T17:09:10.511000Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=85e6dd58-13c3-4f6b-aa9f-e983157791fe",
+          "content_omitted": false,
+          "retrieved_characters": 44
+        },
+        {
+          "message_id": "b07aea6b-0b27-4a4b-987b-fdfea11fa1e3",
+          "role": "assistant",
+          "created_at": "2026-03-19T17:09:11.794151Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=b07aea6b-0b27-4a4b-987b-fdfea11fa1e3",
+          "content_omitted": false,
+          "retrieved_characters": 7779
+        },
+        {
+          "message_id": "1a9d6600-63cb-4a5e-8b86-a5db3d43314f",
+          "role": "user",
+          "created_at": "2026-03-19T17:13:43.012000Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=1a9d6600-63cb-4a5e-8b86-a5db3d43314f",
+          "content_omitted": false,
+          "retrieved_characters": 106
+        },
+        {
+          "message_id": "7ccb2129-062b-42c3-86f2-0d4c2f0284c9",
+          "role": "assistant",
+          "created_at": "2026-03-19T17:14:49.100674Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=7ccb2129-062b-42c3-86f2-0d4c2f0284c9",
+          "content_omitted": false,
+          "retrieved_characters": 4032
+        },
+        {
+          "message_id": "e179bfbc-d06b-4473-9f10-54d7bfb8fca9",
+          "role": "user",
+          "created_at": "2026-03-19T17:17:59.348000Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=e179bfbc-d06b-4473-9f10-54d7bfb8fca9",
+          "content_omitted": false,
+          "retrieved_characters": 59
+        },
+        {
+          "message_id": "173a5271-6251-4a17-a9eb-d7d83c91749b",
+          "role": "assistant",
+          "created_at": "2026-03-19T17:18:29.499765Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=173a5271-6251-4a17-a9eb-d7d83c91749b",
+          "content_omitted": false,
+          "retrieved_characters": 2951
+        },
+        {
+          "message_id": "2341e2fa-e45a-43a8-900f-5608a56603ae",
+          "role": "user",
+          "created_at": "2026-03-20T05:52:44.152000Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=2341e2fa-e45a-43a8-900f-5608a56603ae",
+          "content_omitted": false,
+          "retrieved_characters": 23
+        },
+        {
+          "message_id": "1b8d9c86-b93d-4841-b370-1995da233414",
+          "role": "user",
+          "created_at": "2026-03-20T05:55:07.211000Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=1b8d9c86-b93d-4841-b370-1995da233414",
+          "content_omitted": false,
+          "retrieved_characters": 381
+        },
+        {
+          "message_id": "8ce1bb87-90d7-46bc-8a82-61918d5f930c",
+          "role": "assistant",
+          "created_at": "2026-03-20T05:55:28.098282Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=8ce1bb87-90d7-46bc-8a82-61918d5f930c",
+          "content_omitted": false,
+          "retrieved_characters": 8940
+        },
+        {
+          "message_id": "6e2fb6db-02a6-497c-b731-f1a9d6a0055b",
+          "role": "user",
+          "created_at": "2026-03-20T06:06:11.244000Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=6e2fb6db-02a6-497c-b731-f1a9d6a0055b",
+          "content_omitted": false,
+          "retrieved_characters": 190
+        },
+        {
+          "message_id": "d4c8554b-64c6-42e3-b507-05c28a18ac7d",
+          "role": "assistant",
+          "created_at": "2026-03-20T06:13:25.408134Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=d4c8554b-64c6-42e3-b507-05c28a18ac7d",
+          "content_omitted": false,
+          "retrieved_characters": 4527
+        },
+        {
+          "message_id": "495f3d6f-d509-4d66-a3ae-935f679eb5db",
+          "role": "user",
+          "created_at": "2026-03-20T06:44:00.240000Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=495f3d6f-d509-4d66-a3ae-935f679eb5db",
+          "content_omitted": false,
+          "retrieved_characters": 42
+        },
+        {
+          "message_id": "fc06300d-7e3c-4ffd-b762-1076cdab9078",
+          "role": "assistant",
+          "created_at": "2026-03-20T06:45:07.174513Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=fc06300d-7e3c-4ffd-b762-1076cdab9078",
+          "content_omitted": false,
+          "retrieved_characters": 4085
+        },
+        {
+          "message_id": "04a0a5c3-8d9c-450a-ae59-317cd6183d4b",
+          "role": "user",
+          "created_at": "2026-03-20T06:47:21.570000Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=04a0a5c3-8d9c-450a-ae59-317cd6183d4b",
+          "content_omitted": false,
+          "retrieved_characters": 14
+        },
+        {
+          "message_id": "fff81a0c-9231-4708-9d7d-b8b1841a665e",
+          "role": "assistant",
+          "created_at": "2026-03-20T06:49:11.182959Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=fff81a0c-9231-4708-9d7d-b8b1841a665e",
+          "content_omitted": false,
+          "retrieved_characters": 1023
+        },
+        {
+          "message_id": "142b6be8-5072-415e-b180-a15c68210a72",
+          "role": "user",
+          "created_at": "2026-03-20T07:12:18.731000Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=142b6be8-5072-415e-b180-a15c68210a72",
+          "content_omitted": false,
+          "retrieved_characters": 2255
+        },
+        {
+          "message_id": "dc7842a1-4137-4b74-9361-a1265006e364",
+          "role": "assistant",
+          "created_at": "2026-03-20T07:12:51.788815Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=dc7842a1-4137-4b74-9361-a1265006e364",
+          "content_omitted": false,
+          "retrieved_characters": 5159
+        },
+        {
+          "message_id": "5974f42a-ded0-45e3-b36c-8820508d48af",
+          "role": "user",
+          "created_at": "2026-03-20T07:20:07.861000Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=5974f42a-ded0-45e3-b36c-8820508d48af",
+          "content_omitted": false,
+          "retrieved_characters": 81
+        },
+        {
+          "message_id": "d617a48b-3038-436d-94cb-86238210908a",
+          "role": "assistant",
+          "created_at": "2026-03-20T07:24:38.887929Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=d617a48b-3038-436d-94cb-86238210908a",
+          "content_omitted": false,
+          "retrieved_characters": 2150
+        },
+        {
+          "message_id": "7fb6365f-0aec-41ba-8875-416ffdc6c0e1",
+          "role": "user",
+          "created_at": "2026-03-20T07:32:43.168000Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=7fb6365f-0aec-41ba-8875-416ffdc6c0e1",
+          "content_omitted": false,
+          "retrieved_characters": 100
+        },
+        {
+          "message_id": "a38861dc-3917-42bb-9798-f169e58f5608",
+          "role": "assistant",
+          "created_at": "2026-03-20T07:34:55.277149Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=a38861dc-3917-42bb-9798-f169e58f5608",
+          "content_omitted": false,
+          "retrieved_characters": 3156
+        },
+        {
+          "message_id": "8cb2bf49-099d-4e61-a44b-53014426ff3b",
+          "role": "user",
+          "created_at": "2026-03-20T07:39:39.731000Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=8cb2bf49-099d-4e61-a44b-53014426ff3b",
+          "content_omitted": false,
+          "retrieved_characters": 209
+        },
+        {
+          "message_id": "ddcb6cf3-8997-42bd-beda-1103dd0991c8",
+          "role": "assistant",
+          "created_at": "2026-03-20T07:39:45.363213Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=ddcb6cf3-8997-42bd-beda-1103dd0991c8",
+          "content_omitted": false,
+          "retrieved_characters": 3146
+        },
+        {
+          "message_id": "5134312a-f9a4-4ee2-b521-51ff34e2c168",
+          "role": "user",
+          "created_at": "2026-03-20T07:54:38.759000Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=5134312a-f9a4-4ee2-b521-51ff34e2c168",
+          "content_omitted": false,
+          "retrieved_characters": 41
+        },
+        {
+          "message_id": "d85184d9-d691-4ec2-86b2-bb9454e6fcac",
+          "role": "assistant",
+          "created_at": "2026-03-20T07:54:40.595540Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=d85184d9-d691-4ec2-86b2-bb9454e6fcac",
+          "content_omitted": false,
+          "retrieved_characters": 6121
+        },
+        {
+          "message_id": "93561a42-1c4d-4e85-afc1-d54cbd09ea92",
+          "role": "user",
+          "created_at": "2026-03-20T07:56:37.669000Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=93561a42-1c4d-4e85-afc1-d54cbd09ea92",
+          "content_omitted": false,
+          "retrieved_characters": 62
+        },
+        {
+          "message_id": "4cd31117-e78d-41b1-a2b7-4fb77d681a1e",
+          "role": "assistant",
+          "created_at": "2026-03-20T07:56:42.506726Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=4cd31117-e78d-41b1-a2b7-4fb77d681a1e",
+          "content_omitted": false,
+          "retrieved_characters": 6121
+        },
+        {
+          "message_id": "8384f862-55ac-442a-83d8-a516a6a9dfa7",
+          "role": "user",
+          "created_at": "2026-03-20T08:08:11.307000Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=8384f862-55ac-442a-83d8-a516a6a9dfa7",
+          "content_omitted": false,
+          "retrieved_characters": 69
+        },
+        {
+          "message_id": "31d7b899-49f4-442b-acca-58805bca3e7f",
+          "role": "assistant",
+          "created_at": "2026-03-20T08:08:25.027041Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=31d7b899-49f4-442b-acca-58805bca3e7f",
+          "content_omitted": false,
+          "retrieved_characters": 1775
+        },
+        {
+          "message_id": "696cc987-c1d8-4b5f-b19d-c8c141ae6450",
+          "role": "user",
+          "created_at": "2026-03-20T08:12:09.576000Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=696cc987-c1d8-4b5f-b19d-c8c141ae6450",
+          "content_omitted": false,
+          "retrieved_characters": 60
+        },
+        {
+          "message_id": "8ba305ee-b5af-40eb-8298-f38da50315d8",
+          "role": "assistant",
+          "created_at": "2026-03-20T08:13:42.597621Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=8ba305ee-b5af-40eb-8298-f38da50315d8",
+          "content_omitted": false,
+          "retrieved_characters": 1888
+        },
+        {
+          "message_id": "8f80fc14-84d0-43a7-ae1e-876c31cae8a7",
+          "role": "user",
+          "created_at": "2026-03-20T08:16:21.240000Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=8f80fc14-84d0-43a7-ae1e-876c31cae8a7",
+          "content_omitted": false,
+          "retrieved_characters": 101
+        },
+        {
+          "message_id": "cb41a07c-2663-4c3d-9323-5bd34b3eccd3",
+          "role": "assistant",
+          "created_at": "2026-03-20T08:17:20.038138Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=cb41a07c-2663-4c3d-9323-5bd34b3eccd3",
+          "content_omitted": false,
+          "retrieved_characters": 13885
+        },
+        {
+          "message_id": "bbb21324-f2be-406e-b97a-53cc349f8537",
+          "role": "user",
+          "created_at": "2026-03-20T08:43:43.553195Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=bbb21324-f2be-406e-b97a-53cc349f8537",
+          "content_omitted": true,
+          "retrieved_characters": 24
+        },
+        {
+          "message_id": "bbb21c83-1700-4902-8610-0f8f809ce604",
+          "role": "user",
+          "created_at": "2026-03-20T08:44:08.034467Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=bbb21c83-1700-4902-8610-0f8f809ce604",
+          "content_omitted": false,
+          "retrieved_characters": 25
+        },
+        {
+          "message_id": "e6592227-5352-4974-983a-1ab587ab6116",
+          "role": "assistant",
+          "created_at": "2026-03-20T08:45:46.596415Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=e6592227-5352-4974-983a-1ab587ab6116",
+          "content_omitted": false,
+          "retrieved_characters": 3748
+        },
+        {
+          "message_id": "bbb2156e-9ef7-41cc-a5b0-34145e7ff99d",
+          "role": "user",
+          "created_at": "2026-03-20T08:48:15.679907Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=bbb2156e-9ef7-41cc-a5b0-34145e7ff99d",
+          "content_omitted": true,
+          "retrieved_characters": 38
+        },
+        {
+          "message_id": "1b7bff6e-90be-40f9-a7e0-f392832bac1a",
+          "role": "assistant",
+          "created_at": "2026-03-20T08:48:16.510832Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=1b7bff6e-90be-40f9-a7e0-f392832bac1a",
+          "content_omitted": false,
+          "retrieved_characters": 4155
+        },
+        {
+          "message_id": "bbb21e24-43c7-465c-8777-4b0c8859352f",
+          "role": "user",
+          "created_at": "2026-03-20T08:49:15.293535Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=bbb21e24-43c7-465c-8777-4b0c8859352f",
+          "content_omitted": true,
+          "retrieved_characters": 0
+        },
+        {
+          "message_id": "3ecbf04a-885e-4462-8213-80ca4161cfa9",
+          "role": "assistant",
+          "created_at": "2026-03-20T08:49:15.843027Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=3ecbf04a-885e-4462-8213-80ca4161cfa9",
+          "content_omitted": false,
+          "retrieved_characters": 5554
+        },
+        {
+          "message_id": "bbb21c1d-4e30-4166-b4b5-f7a5b35c5d85",
+          "role": "user",
+          "created_at": "2026-03-20T09:01:53.636371Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=bbb21c1d-4e30-4166-b4b5-f7a5b35c5d85",
+          "content_omitted": true,
+          "retrieved_characters": 6
+        },
+        {
+          "message_id": "626d7c92-85f2-4014-b53d-99b5bc335836",
+          "role": "assistant",
+          "created_at": "2026-03-20T09:01:54.910511Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=626d7c92-85f2-4014-b53d-99b5bc335836",
+          "content_omitted": false,
+          "retrieved_characters": 4607
+        },
+        {
+          "message_id": "bbb21aa1-3ef8-4a5a-be0e-e46d47091220",
+          "role": "user",
+          "created_at": "2026-03-20T09:07:42.976668Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=bbb21aa1-3ef8-4a5a-be0e-e46d47091220",
+          "content_omitted": false,
+          "retrieved_characters": 77
+        },
+        {
+          "message_id": "cb4378c6-4391-41ea-933a-072ee6b5171c",
+          "role": "assistant",
+          "created_at": "2026-03-20T09:07:56.156666Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=cb4378c6-4391-41ea-933a-072ee6b5171c",
+          "content_omitted": false,
+          "retrieved_characters": 3692
+        },
+        {
+          "message_id": "bbb2153e-0b96-45ca-b476-14058d5a68f4",
+          "role": "user",
+          "created_at": "2026-03-20T09:10:20.377105Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=bbb2153e-0b96-45ca-b476-14058d5a68f4",
+          "content_omitted": false,
+          "retrieved_characters": 17
+        },
+        {
+          "message_id": "bbb21f4e-1250-41b6-af12-f01eda5b3867",
+          "role": "user",
+          "created_at": "2026-03-20T09:10:30.147538Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=bbb21f4e-1250-41b6-af12-f01eda5b3867",
+          "content_omitted": false,
+          "retrieved_characters": 160
+        },
+        {
+          "message_id": "c46725fc-9ed8-4068-8008-ac58600a3f9b",
+          "role": "assistant",
+          "created_at": "2026-03-20T09:10:59.267672Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=c46725fc-9ed8-4068-8008-ac58600a3f9b",
+          "content_omitted": false,
+          "retrieved_characters": 6607
+        },
+        {
+          "message_id": "ab8efa6b-d3c6-4dd7-85a6-a9abd0555066",
+          "role": "user",
+          "created_at": "2026-03-20T10:32:31.278000Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=ab8efa6b-d3c6-4dd7-85a6-a9abd0555066",
+          "content_omitted": false,
+          "retrieved_characters": 64
+        },
+        {
+          "message_id": "15c9b49e-22d8-45cf-86e3-784b2b8cdeb2",
+          "role": "assistant",
+          "created_at": "2026-03-20T10:32:46.602943Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=15c9b49e-22d8-45cf-86e3-784b2b8cdeb2",
+          "content_omitted": false,
+          "retrieved_characters": 6263
+        },
+        {
+          "message_id": "bbb21417-dae0-458d-9114-2a80a1ea4296",
+          "role": "user",
+          "created_at": "2026-03-20T11:07:04.673577Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=bbb21417-dae0-458d-9114-2a80a1ea4296",
+          "content_omitted": false,
+          "retrieved_characters": 130
+        },
+        {
+          "message_id": "e9c27f08-2715-497f-9cc0-0372b1e6f9e3",
+          "role": "assistant",
+          "created_at": "2026-03-20T11:07:33.770814Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=e9c27f08-2715-497f-9cc0-0372b1e6f9e3",
+          "content_omitted": false,
+          "retrieved_characters": 1932
+        },
+        {
+          "message_id": "bbb2131f-3fe3-473d-8f10-a9154d574a41",
+          "role": "user",
+          "created_at": "2026-03-20T11:09:11.391940Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=bbb2131f-3fe3-473d-8f10-a9154d574a41",
+          "content_omitted": false,
+          "retrieved_characters": 8
+        },
+        {
+          "message_id": "158dfd8e-3a6e-43b2-af14-d8479d54a480",
+          "role": "assistant",
+          "created_at": "2026-03-20T11:09:12.262187Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=158dfd8e-3a6e-43b2-af14-d8479d54a480",
+          "content_omitted": false,
+          "retrieved_characters": 1724
+        },
+        {
+          "message_id": "bbb21082-f61e-4820-b817-20bedfee1222",
+          "role": "user",
+          "created_at": "2026-03-20T11:11:24.176031Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=bbb21082-f61e-4820-b817-20bedfee1222",
+          "content_omitted": false,
+          "retrieved_characters": 22
+        },
+        {
+          "message_id": "6f277ee0-0c2e-4a87-961c-d670c890a1f4",
+          "role": "assistant",
+          "created_at": "2026-03-20T11:15:29.776631Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=6f277ee0-0c2e-4a87-961c-d670c890a1f4",
+          "content_omitted": false,
+          "retrieved_characters": 967
+        },
+        {
+          "message_id": "bbb2133c-bed9-47c0-9496-a5814b2f2195",
+          "role": "user",
+          "created_at": "2026-03-20T11:26:00.626236Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=bbb2133c-bed9-47c0-9496-a5814b2f2195",
+          "content_omitted": false,
+          "retrieved_characters": 68
+        },
+        {
+          "message_id": "0d8239ca-e873-425a-a07e-0c60393dbcab",
+          "role": "assistant",
+          "created_at": "2026-03-20T11:27:24.769093Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=0d8239ca-e873-425a-a07e-0c60393dbcab",
+          "content_omitted": false,
+          "retrieved_characters": 1693
+        },
+        {
+          "message_id": "bbb210e5-64a7-484b-ab92-0114b267f95f",
+          "role": "user",
+          "created_at": "2026-03-20T12:18:14.668043Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=bbb210e5-64a7-484b-ab92-0114b267f95f",
+          "content_omitted": true,
+          "retrieved_characters": 14
+        },
+        {
+          "message_id": "f386db22-e8b7-4c66-b549-56f7c0621352",
+          "role": "assistant",
+          "created_at": "2026-03-20T12:18:15.731633Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=f386db22-e8b7-4c66-b549-56f7c0621352",
+          "content_omitted": false,
+          "retrieved_characters": 1289
+        },
+        {
+          "message_id": "bbb21bd6-12ce-44c0-b640-7aaddcf64401",
+          "role": "user",
+          "created_at": "2026-03-20T12:22:24.345278Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=bbb21bd6-12ce-44c0-b640-7aaddcf64401",
+          "content_omitted": true,
+          "retrieved_characters": 6
+        },
+        {
+          "message_id": "b9a70cec-c38b-4310-8634-c9668a7c7fff",
+          "role": "assistant",
+          "created_at": "2026-03-20T12:22:25.221910Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=b9a70cec-c38b-4310-8634-c9668a7c7fff",
+          "content_omitted": false,
+          "retrieved_characters": 2265
+        },
+        {
+          "message_id": "bbb21438-9308-440b-9558-3d97925352e2",
+          "role": "user",
+          "created_at": "2026-03-20T12:23:31.128350Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=bbb21438-9308-440b-9558-3d97925352e2",
+          "content_omitted": false,
+          "retrieved_characters": 35
+        },
+        {
+          "message_id": "ab422224-9579-45a7-80c7-859c8534a31d",
+          "role": "assistant",
+          "created_at": "2026-03-20T12:23:32.653004Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=ab422224-9579-45a7-80c7-859c8534a31d",
+          "content_omitted": false,
+          "retrieved_characters": 4088
+        },
+        {
+          "message_id": "bbb21081-6cc8-4e13-8bf2-87463886172c",
+          "role": "user",
+          "created_at": "2026-03-20T12:25:44.932595Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=bbb21081-6cc8-4e13-8bf2-87463886172c",
+          "content_omitted": false,
+          "retrieved_characters": 35
+        },
+        {
+          "message_id": "ec569403-9696-49b3-b768-2d439e7f0aa8",
+          "role": "assistant",
+          "created_at": "2026-03-20T12:25:45.700240Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=ec569403-9696-49b3-b768-2d439e7f0aa8",
+          "content_omitted": true,
+          "retrieved_characters": 90
+        },
+        {
+          "message_id": "bbb218d7-54d7-4fa1-9127-5bbc849eb476",
+          "role": "user",
+          "created_at": "2026-03-20T12:25:51.625569Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=bbb218d7-54d7-4fa1-9127-5bbc849eb476",
+          "content_omitted": false,
+          "retrieved_characters": 35
+        },
+        {
+          "message_id": "bbb21ae6-ca9b-427c-813b-87e4fd464ac0",
+          "role": "user",
+          "created_at": "2026-03-20T12:26:16.123965Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=bbb21ae6-ca9b-427c-813b-87e4fd464ac0",
+          "content_omitted": false,
+          "retrieved_characters": 13
+        },
+        {
+          "message_id": "3c7b13bf-1dbf-48d6-88a1-4172d6c21978",
+          "role": "assistant",
+          "created_at": "2026-03-20T12:34:52.125846Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=3c7b13bf-1dbf-48d6-88a1-4172d6c21978",
+          "content_omitted": false,
+          "retrieved_characters": 505
+        },
+        {
+          "message_id": "bbb2161e-1d04-4cd5-9354-0250c7c54bd2",
+          "role": "user",
+          "created_at": "2026-03-20T12:39:39.507085Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=bbb2161e-1d04-4cd5-9354-0250c7c54bd2",
+          "content_omitted": false,
+          "retrieved_characters": 68
+        },
+        {
+          "message_id": "c754415e-dbb8-478a-af38-b816d832bb02",
+          "role": "assistant",
+          "created_at": "2026-03-20T12:43:41.218957Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=c754415e-dbb8-478a-af38-b816d832bb02",
+          "content_omitted": false,
+          "retrieved_characters": 1439
+        },
+        {
+          "message_id": "bbb21764-bf69-4ff5-90f5-b8b73d9f8a3c",
+          "role": "user",
+          "created_at": "2026-03-20T12:47:32.412664Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=bbb21764-bf69-4ff5-90f5-b8b73d9f8a3c",
+          "content_omitted": true,
+          "retrieved_characters": 1
+        },
+        {
+          "message_id": "270f527d-ef79-4a4b-a42d-66f2234fbb80",
+          "role": "assistant",
+          "created_at": "2026-03-20T12:47:33.845653Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=270f527d-ef79-4a4b-a42d-66f2234fbb80",
+          "content_omitted": false,
+          "retrieved_characters": 1805
+        },
+        {
+          "message_id": "bbb21f28-def5-49da-a46c-2a9606890a24",
+          "role": "user",
+          "created_at": "2026-03-20T12:50:12.102330Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=bbb21f28-def5-49da-a46c-2a9606890a24",
+          "content_omitted": true,
+          "retrieved_characters": 0
+        },
+        {
+          "message_id": "9729cc4d-2bee-46ff-8e73-dc2aa4447ebb",
+          "role": "assistant",
+          "created_at": "2026-03-20T12:50:13.283349Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=9729cc4d-2bee-46ff-8e73-dc2aa4447ebb",
+          "content_omitted": false,
+          "retrieved_characters": 1109
+        },
+        {
+          "message_id": "bbb215b6-fff4-4957-8a41-48f3df006473",
+          "role": "user",
+          "created_at": "2026-03-20T12:52:07.605957Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=bbb215b6-fff4-4957-8a41-48f3df006473",
+          "content_omitted": false,
+          "retrieved_characters": 71
+        },
+        {
+          "message_id": "afa3b74d-4d70-49c3-8708-2496813fc611",
+          "role": "assistant",
+          "created_at": "2026-03-20T12:52:29.315054Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=afa3b74d-4d70-49c3-8708-2496813fc611",
+          "content_omitted": false,
+          "retrieved_characters": 1769
+        },
+        {
+          "message_id": "bbb21831-5518-4dd1-bd66-ec7c812e53f4",
+          "role": "user",
+          "created_at": "2026-03-20T12:53:57.167405Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=bbb21831-5518-4dd1-bd66-ec7c812e53f4",
+          "content_omitted": false,
+          "retrieved_characters": 50
+        },
+        {
+          "message_id": "48307e24-72cc-44e1-91e6-1c1d4e72d2fd",
+          "role": "assistant",
+          "created_at": "2026-03-20T12:53:58.487043Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=48307e24-72cc-44e1-91e6-1c1d4e72d2fd",
+          "content_omitted": false,
+          "retrieved_characters": 2554
+        },
+        {
+          "message_id": "bbb21a7b-774b-4a7c-9305-ff385ab9c6eb",
+          "role": "user",
+          "created_at": "2026-03-20T13:02:28.373447Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=bbb21a7b-774b-4a7c-9305-ff385ab9c6eb",
+          "content_omitted": true,
+          "retrieved_characters": 4
+        },
+        {
+          "message_id": "ffe1fde7-881b-4515-a8b0-4a6d67966f06",
+          "role": "assistant",
+          "created_at": "2026-03-20T13:02:29.725082Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=ffe1fde7-881b-4515-a8b0-4a6d67966f06",
+          "content_omitted": false,
+          "retrieved_characters": 2247
+        },
+        {
+          "message_id": "bbb21b23-ee0a-4957-8f4a-3ba6d6f5a304",
+          "role": "user",
+          "created_at": "2026-03-20T13:04:33.167413Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=bbb21b23-ee0a-4957-8f4a-3ba6d6f5a304",
+          "content_omitted": false,
+          "retrieved_characters": 150
+        },
+        {
+          "message_id": "5cdb682a-b471-48d9-bb75-5244c8d5f6be",
+          "role": "assistant",
+          "created_at": "2026-03-20T13:04:34.220269Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=5cdb682a-b471-48d9-bb75-5244c8d5f6be",
+          "content_omitted": false,
+          "retrieved_characters": 7316
+        },
+        {
+          "message_id": "bbb21289-5b32-40a7-ad2f-55fb722e56ee",
+          "role": "user",
+          "created_at": "2026-03-20T13:08:13.414854Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=bbb21289-5b32-40a7-ad2f-55fb722e56ee",
+          "content_omitted": false,
+          "retrieved_characters": 90
+        },
+        {
+          "message_id": "02ac2029-b4d0-4f00-b685-cf6574fdd7ee",
+          "role": "assistant",
+          "created_at": "2026-03-20T13:12:11.362840Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=02ac2029-b4d0-4f00-b685-cf6574fdd7ee",
+          "content_omitted": false,
+          "retrieved_characters": 1089
+        },
+        {
+          "message_id": "bbb213aa-3cfb-42a2-bf95-3354825a4489",
+          "role": "user",
+          "created_at": "2026-03-20T13:25:47.157935Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=bbb213aa-3cfb-42a2-bf95-3354825a4489",
+          "content_omitted": true,
+          "retrieved_characters": 0
+        },
+        {
+          "message_id": "d5c7bcff-e51b-481a-9c4f-039f2ccb2d27",
+          "role": "assistant",
+          "created_at": "2026-03-20T13:27:32.113416Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=d5c7bcff-e51b-481a-9c4f-039f2ccb2d27",
+          "content_omitted": false,
+          "retrieved_characters": 3796
+        },
+        {
+          "message_id": "bbb21091-0c20-4e73-a637-75864fbc91c6",
+          "role": "user",
+          "created_at": "2026-03-20T13:29:47.381479Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=bbb21091-0c20-4e73-a637-75864fbc91c6",
+          "content_omitted": true,
+          "retrieved_characters": 0
+        },
+        {
+          "message_id": "e1502ee1-9657-492c-8d6f-ea9ca110e240",
+          "role": "assistant",
+          "created_at": "2026-03-20T13:29:48.566656Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=e1502ee1-9657-492c-8d6f-ea9ca110e240",
+          "content_omitted": false,
+          "retrieved_characters": 3240
+        },
+        {
+          "message_id": "bbb2165a-69ac-4cbb-b013-f2308caca816",
+          "role": "user",
+          "created_at": "2026-03-20T13:33:06.442035Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=bbb2165a-69ac-4cbb-b013-f2308caca816",
+          "content_omitted": true,
+          "retrieved_characters": 0
+        },
+        {
+          "message_id": "534e3e9d-9801-4863-86b7-d5a2dcce4e80",
+          "role": "assistant",
+          "created_at": "2026-03-20T13:33:08.025393Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=534e3e9d-9801-4863-86b7-d5a2dcce4e80",
+          "content_omitted": false,
+          "retrieved_characters": 1761
+        },
+        {
+          "message_id": "bbb21fea-b7ee-478c-91ba-5cdd42cf6f40",
+          "role": "user",
+          "created_at": "2026-03-20T13:34:57.729578Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=bbb21fea-b7ee-478c-91ba-5cdd42cf6f40",
+          "content_omitted": true,
+          "retrieved_characters": 21
+        },
+        {
+          "message_id": "b91acf06-eadf-4b85-8f4d-a0f366d38d7c",
+          "role": "assistant",
+          "created_at": "2026-03-20T13:34:58.822230Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=b91acf06-eadf-4b85-8f4d-a0f366d38d7c",
+          "content_omitted": false,
+          "retrieved_characters": 1910
+        },
+        {
+          "message_id": "1aaed66c-dc1f-407e-9c2a-533e6daf3845",
+          "role": "user",
+          "created_at": "2026-03-20T13:39:46.964000Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=1aaed66c-dc1f-407e-9c2a-533e6daf3845",
+          "content_omitted": false,
+          "retrieved_characters": 35
+        },
+        {
+          "message_id": "80e56393-efb0-47a2-be06-098a954c715e",
+          "role": "assistant",
+          "created_at": "2026-03-20T13:39:49.593623Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=80e56393-efb0-47a2-be06-098a954c715e",
+          "content_omitted": false,
+          "retrieved_characters": 2936
+        },
+        {
+          "message_id": "83f63714-c383-4505-b723-50a18679e447",
+          "role": "user",
+          "created_at": "2026-03-20T15:30:40.542000Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=83f63714-c383-4505-b723-50a18679e447",
+          "content_omitted": false,
+          "retrieved_characters": 24
+        },
+        {
+          "message_id": "9275190f-0460-4f78-95da-0eff4eff510d",
+          "role": "assistant",
+          "created_at": "2026-03-20T15:31:10.744657Z",
+          "url": "https://chatgpt.com/c/69bb8818-e0cc-8330-9e4c-8c84e63557b1?messageId=9275190f-0460-4f78-95da-0eff4eff510d",
+          "content_omitted": false,
+          "retrieved_characters": 2401
+        }
+      ],
+      "date_range": [
+        "2026-03-19T05:23:17.970000Z",
+        "2026-03-20T15:31:10.744657Z"
+      ]
+    },
+    {
+      "conversation_id": "69c37e14-d5f8-832d-a7c7-a6aa6c9150ec",
+      "title": "استعمال BlazeAI في n8n",
+      "pages": 2,
+      "message_count": 10,
+      "content_omitted_count": 1,
+      "empty_text_count": 1,
+      "chunk_gaps": [],
+      "cursor_exhaustion": "both directions traversed to null",
+      "scope": "General n8n API diagnostics; no explicit video/animation project link in visible text. Not promoted to animation errors pending cross-project linkage.",
+      "message_inventory": [
+        {
+          "message_id": "bbb21e70-3fdd-482c-98c5-e1753549a073",
+          "role": "user",
+          "created_at": "2026-03-25T06:18:07.180743Z",
+          "url": "https://chatgpt.com/c/69c37e14-d5f8-832d-a7c7-a6aa6c9150ec?messageId=bbb21e70-3fdd-482c-98c5-e1753549a073",
+          "content_omitted": false,
+          "retrieved_characters": 43
+        },
+        {
+          "message_id": "65fcffba-9a8f-491e-9fd2-4850aaf34c49",
+          "role": "assistant",
+          "created_at": "2026-03-25T06:18:35.219689Z",
+          "url": "https://chatgpt.com/c/69c37e14-d5f8-832d-a7c7-a6aa6c9150ec?messageId=65fcffba-9a8f-491e-9fd2-4850aaf34c49",
+          "content_omitted": false,
+          "retrieved_characters": 3960
+        },
+        {
+          "message_id": "bbb21a0c-2986-4c4a-83f7-21196d133bf2",
+          "role": "user",
+          "created_at": "2026-03-25T06:19:31.655765Z",
+          "url": "https://chatgpt.com/c/69c37e14-d5f8-832d-a7c7-a6aa6c9150ec?messageId=bbb21a0c-2986-4c4a-83f7-21196d133bf2",
+          "content_omitted": false,
+          "retrieved_characters": 31
+        },
+        {
+          "message_id": "8b2630f7-dedb-4e55-8ccd-b2fed111a71d",
+          "role": "assistant",
+          "created_at": "2026-03-25T06:19:49.219379Z",
+          "url": "https://chatgpt.com/c/69c37e14-d5f8-832d-a7c7-a6aa6c9150ec?messageId=8b2630f7-dedb-4e55-8ccd-b2fed111a71d",
+          "content_omitted": false,
+          "retrieved_characters": 2172
+        },
+        {
+          "message_id": "bbb211f3-6a2e-4140-b898-d810e275438b",
+          "role": "user",
+          "created_at": "2026-03-25T06:22:24.437224Z",
+          "url": "https://chatgpt.com/c/69c37e14-d5f8-832d-a7c7-a6aa6c9150ec?messageId=bbb211f3-6a2e-4140-b898-d810e275438b",
+          "content_omitted": true,
+          "retrieved_characters": 0
+        },
+        {
+          "message_id": "42e2d545-4ba5-42bb-abd1-25ce90822d9f",
+          "role": "assistant",
+          "created_at": "2026-03-25T06:22:24.661036Z",
+          "url": "https://chatgpt.com/c/69c37e14-d5f8-832d-a7c7-a6aa6c9150ec?messageId=42e2d545-4ba5-42bb-abd1-25ce90822d9f",
+          "content_omitted": false,
+          "retrieved_characters": 1449
+        },
+        {
+          "message_id": "bbb216a9-cce8-4ec5-a2f3-0918244a7e5d",
+          "role": "user",
+          "created_at": "2026-03-25T06:23:51.652129Z",
+          "url": "https://chatgpt.com/c/69c37e14-d5f8-832d-a7c7-a6aa6c9150ec?messageId=bbb216a9-cce8-4ec5-a2f3-0918244a7e5d",
+          "content_omitted": false,
+          "retrieved_characters": 345
+        },
+        {
+          "message_id": "29c1ec39-09b3-4cbb-9e5d-1fa819445117",
+          "role": "assistant",
+          "created_at": "2026-03-25T06:23:53.145558Z",
+          "url": "https://chatgpt.com/c/69c37e14-d5f8-832d-a7c7-a6aa6c9150ec?messageId=29c1ec39-09b3-4cbb-9e5d-1fa819445117",
+          "content_omitted": false,
+          "retrieved_characters": 3254
+        },
+        {
+          "message_id": "bbb21a7a-12de-40b5-b44f-4cb44cc0a624",
+          "role": "user",
+          "created_at": "2026-03-25T06:28:39.071923Z",
+          "url": "https://chatgpt.com/c/69c37e14-d5f8-832d-a7c7-a6aa6c9150ec?messageId=bbb21a7a-12de-40b5-b44f-4cb44cc0a624",
+          "content_omitted": false,
+          "retrieved_characters": 9303
+        },
+        {
+          "message_id": "7a97d68d-3d96-4550-9ac0-38ec173b82e8",
+          "role": "assistant",
+          "created_at": "2026-03-25T06:28:39.691577Z",
+          "url": "https://chatgpt.com/c/69c37e14-d5f8-832d-a7c7-a6aa6c9150ec?messageId=7a97d68d-3d96-4550-9ac0-38ec173b82e8",
+          "content_omitted": false,
+          "retrieved_characters": 2240
+        }
+      ],
+      "date_range": [
+        "2026-03-25T06:18:07.180743Z",
+        "2026-03-25T06:28:39.691577Z"
+      ]
+    },
+    {
+      "conversation_id": "69c6ca88-63c4-8332-b6b0-3964c7504d7d",
+      "title": "BlazeAPI404",
+      "pages": 2,
+      "message_count": 4,
+      "content_omitted_count": 1,
+      "empty_text_count": 0,
+      "chunk_gaps": [],
+      "cursor_exhaustion": "both directions traversed to null",
+      "scope": "General n8n API diagnostics; no explicit video/animation project link in visible text. Not promoted to animation errors pending cross-project linkage.",
+      "message_inventory": [
+        {
+          "message_id": "bbb2187a-0f85-4484-beb9-94b8140b6dee",
+          "role": "user",
+          "created_at": "2026-03-27T18:21:00.015261Z",
+          "url": "https://chatgpt.com/c/69c6ca88-63c4-8332-b6b0-3964c7504d7d?messageId=bbb2187a-0f85-4484-beb9-94b8140b6dee",
+          "content_omitted": false,
+          "retrieved_characters": 8917
+        },
+        {
+          "message_id": "676afd18-c842-4186-836d-5937ceaf20fa",
+          "role": "assistant",
+          "created_at": "2026-03-27T18:21:30.401454Z",
+          "url": "https://chatgpt.com/c/69c6ca88-63c4-8332-b6b0-3964c7504d7d?messageId=676afd18-c842-4186-836d-5937ceaf20fa",
+          "content_omitted": false,
+          "retrieved_characters": 3501
+        },
+        {
+          "message_id": "bbb210e5-3d77-419d-9cad-a4c0042c1c6e",
+          "role": "user",
+          "created_at": "2026-03-27T18:22:27.824705Z",
+          "url": "https://chatgpt.com/c/69c6ca88-63c4-8332-b6b0-3964c7504d7d?messageId=bbb210e5-3d77-419d-9cad-a4c0042c1c6e",
+          "content_omitted": true,
+          "retrieved_characters": 71
+        },
+        {
+          "message_id": "020929e1-2b13-4ec7-abd3-39a65314a4f0",
+          "role": "assistant",
+          "created_at": "2026-03-27T18:22:28.241746Z",
+          "url": "https://chatgpt.com/c/69c6ca88-63c4-8332-b6b0-3964c7504d7d?messageId=020929e1-2b13-4ec7-abd3-39a65314a4f0",
+          "content_omitted": false,
+          "retrieved_characters": 1472
+        }
+      ],
+      "date_range": [
+        "2026-03-27T18:21:00.015261Z",
+        "2026-03-27T18:22:28.241746Z"
+      ]
+    }
+  ]
+}

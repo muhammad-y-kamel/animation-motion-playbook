@@ -1,0 +1,23 @@
+{
+  "checked_at": "2026-10-26",
+  "getmotion_native": {
+    "conversation_id": "6ad8c338-55c4-83ea-8f0f-b2165a26c23c",
+    "url": "https://chatgpt.com/c/6ad8c338-55c4-83ea-8f0f-b2165a26c23c",
+    "error": "Conversation context exceeds its safe read limit.",
+    "status": "still_blocked_no_bypass_attempt"
+  },
+  "new_partial_sources": [
+    {
+      "conversation_id": "6adac6f4-6430-83e9-8f55-630ab4754263",
+      "title": "تحديث فهرس السكريبتات",
+      "retrieved_ranges": "single long user message42536–70252; two other messages; earlier chunks unavailable",
+      "error": "This conversation or exact message is unavailable to this Dot."
+    },
+    {
+      "conversation_id": "69216ddd-cee8-8331-86e5-eef8da178d00",
+      "scope": "course-catalog/static-infographic adjacent source, no established video error",
+      "retrieved_range": "long user message32811–51275 and final assistant",
+      "error": "This conversation or exact message is unavailable to this Dot."
+    }
+  ]
+}

@@ -1,0 +1,577 @@
+[
+  {
+    "conversation_id": "69659bfd-901c-8325-b49f-7be778e95d47",
+    "title": "UGC2 Jan13",
+    "url": "https://chatgpt.com/c/69659bfd-901c-8325-b49f-7be778e95d47",
+    "pages": 2,
+    "unique_messages": 22,
+    "read_status": "all_returned_text_chunks_retrieved",
+    "earliest_date": "2026-01-13T01:12:31.270000Z",
+    "latest_date": "2026-01-13T01:17:55.538325Z",
+    "previous_cursor_exhausted": true,
+    "next_cursor_exhausted": true,
+    "omitted_content_messages": [],
+    "chunks": [
+      {
+        "message_id": "498db2c9-6301-47e4-be4d-b167beafca32",
+        "ranges": [
+          [
+            0,
+            493
+          ],
+          [
+            493,
+            713
+          ]
+        ]
+      },
+      {
+        "message_id": "bf934bdf-ba54-4146-b447-caf86a328223",
+        "ranges": [
+          [
+            0,
+            36
+          ]
+        ]
+      },
+      {
+        "message_id": "fe4563ff-36b8-4175-bf7a-3fe7a70fbbce",
+        "ranges": [
+          [
+            0,
+            748
+          ]
+        ]
+      },
+      {
+        "message_id": "3453a433-71c6-4ad7-900d-8baf41bf4f5d",
+        "ranges": [
+          [
+            0,
+            1
+          ]
+        ]
+      },
+      {
+        "message_id": "d36968c8-8ed7-495e-887f-fe87bedcd186",
+        "ranges": [
+          [
+            0,
+            891
+          ]
+        ]
+      },
+      {
+        "message_id": "52cedd4c-5d23-4675-9963-24fbe92f0a95",
+        "ranges": [
+          [
+            0,
+            23
+          ]
+        ]
+      },
+      {
+        "message_id": "86c07245-cd14-4042-a4b9-c395b7f38f41",
+        "ranges": [
+          [
+            0,
+            513
+          ]
+        ]
+      },
+      {
+        "message_id": "52b5e59d-c97c-435c-bb45-c0ec13dccc8b",
+        "ranges": [
+          [
+            0,
+            16
+          ]
+        ]
+      },
+      {
+        "message_id": "67c263ca-e8f9-4a46-9ff5-57476a392d58",
+        "ranges": [
+          [
+            0,
+            572
+          ]
+        ]
+      },
+      {
+        "message_id": "18c806f0-f50d-4e7d-a8f7-bf68349ff14c",
+        "ranges": [
+          [
+            0,
+            31
+          ]
+        ]
+      },
+      {
+        "message_id": "88841a86-41ab-445d-864a-f8c3d709fdc5",
+        "ranges": [
+          [
+            0,
+            1067
+          ]
+        ]
+      },
+      {
+        "message_id": "1dbc63dd-3dbf-47b2-8899-bc2c86ce2e0e",
+        "ranges": [
+          [
+            0,
+            36
+          ]
+        ]
+      },
+      {
+        "message_id": "ab9f1580-1c01-4bb3-b715-673c8e32737e",
+        "ranges": [
+          [
+            0,
+            923
+          ]
+        ]
+      },
+      {
+        "message_id": "ca08d100-a1d2-440c-a34c-d5698b6e7b05",
+        "ranges": [
+          [
+            0,
+            9
+          ]
+        ]
+      },
+      {
+        "message_id": "15f107b7-8981-4102-800b-90d4a26a2c35",
+        "ranges": [
+          [
+            0,
+            149
+          ]
+        ]
+      },
+      {
+        "message_id": "23e467a9-e7ec-4f54-a244-e9252726d366",
+        "ranges": [
+          [
+            0,
+            32
+          ]
+        ]
+      },
+      {
+        "message_id": "8335b832-4349-420f-8573-21b6dc8bcdbb",
+        "ranges": [
+          [
+            0,
+            291
+          ]
+        ]
+      },
+      {
+        "message_id": "8320befe-8667-47f1-a857-dcdcbd26a96e",
+        "ranges": [
+          [
+            0,
+            93
+          ]
+        ]
+      },
+      {
+        "message_id": "49031b0a-80cb-41bc-815f-e1d9cb470457",
+        "ranges": [
+          [
+            0,
+            622
+          ]
+        ]
+      },
+      {
+        "message_id": "57fd17ae-0b3d-4ac4-840d-aaa085d07620",
+        "ranges": [
+          [
+            0,
+            13
+          ]
+        ]
+      },
+      {
+        "message_id": "f9bbaa22-e1ee-415c-b0e7-3f6979f5331c",
+        "ranges": [
+          [
+            0,
+            975
+          ]
+        ]
+      },
+      {
+        "message_id": "9041da2d-5092-45b1-a888-574e05206fbe",
+        "ranges": [
+          [
+            0,
+            73
+          ]
+        ]
+      }
+    ],
+    "classification": "video_planning_no_observed_production_failure",
+    "case_count": 0
+  },
+  {
+    "conversation_id": "6931176b-0e50-832a-9f7e-fc40a80da5b3",
+    "title": "UGC2 Dec4",
+    "url": "https://chatgpt.com/c/6931176b-0e50-832a-9f7e-fc40a80da5b3",
+    "pages": 1,
+    "unique_messages": 4,
+    "read_status": "all_returned_text_chunks_retrieved",
+    "earliest_date": "2025-12-04T05:08:58.131000Z",
+    "latest_date": "2025-12-04T05:12:24.685027Z",
+    "previous_cursor_exhausted": true,
+    "next_cursor_exhausted": true,
+    "omitted_content_messages": [],
+    "chunks": [
+      {
+        "message_id": "a2cc149f-7e72-443a-96b5-da6f26d1f16f",
+        "ranges": [
+          [
+            0,
+            4
+          ]
+        ]
+      },
+      {
+        "message_id": "ea2a4958-42c7-4f3f-9f7e-feb2ed23b7c3",
+        "ranges": [
+          [
+            0,
+            1145
+          ]
+        ]
+      },
+      {
+        "message_id": "a443917a-5b72-48f8-a184-5968e4e05b15",
+        "ranges": [
+          [
+            0,
+            322
+          ]
+        ]
+      },
+      {
+        "message_id": "ddbf9cfa-eccc-476d-a650-aae593803724",
+        "ranges": [
+          [
+            0,
+            2327
+          ]
+        ]
+      }
+    ],
+    "classification": "video_planning_no_observed_production_failure",
+    "case_count": 0
+  },
+  {
+    "conversation_id": "6970065e-4fc0-8330-94a3-cdf2790949ed",
+    "title": "أوتوميشن فيديوهات خضار",
+    "url": "https://chatgpt.com/c/6970065e-4fc0-8330-94a3-cdf2790949ed",
+    "pages": 2,
+    "unique_messages": 12,
+    "read_status": "all_returned_text_chunks_retrieved",
+    "earliest_date": "2026-01-20T22:49:02.871353Z",
+    "latest_date": "2026-01-20T23:06:07.382241Z",
+    "previous_cursor_exhausted": true,
+    "next_cursor_exhausted": true,
+    "omitted_content_messages": [],
+    "chunks": [
+      {
+        "message_id": "3bdc79eb-804c-48ac-b786-c23211865d85",
+        "ranges": [
+          [
+            0,
+            177
+          ],
+          [
+            177,
+            1020
+          ]
+        ]
+      },
+      {
+        "message_id": "bbb214f2-b1b2-46e8-9312-620825e21014",
+        "ranges": [
+          [
+            0,
+            13
+          ]
+        ]
+      },
+      {
+        "message_id": "48301f3c-f5f9-41cb-aee2-19184b1d57f8",
+        "ranges": [
+          [
+            0,
+            2641
+          ]
+        ]
+      },
+      {
+        "message_id": "bbb2181d-40f5-464c-9193-edd2b97578b1",
+        "ranges": [
+          [
+            0,
+            58
+          ]
+        ]
+      },
+      {
+        "message_id": "b8099b4c-59d1-4ef3-a39f-983035b02496",
+        "ranges": [
+          [
+            0,
+            2361
+          ]
+        ]
+      },
+      {
+        "message_id": "bbb2161f-1a0f-473e-952c-76c2bfaccb9a",
+        "ranges": [
+          [
+            0,
+            116
+          ]
+        ]
+      },
+      {
+        "message_id": "0fa58fd7-c267-47d9-9e73-473bf0da09dd",
+        "ranges": [
+          [
+            0,
+            2295
+          ]
+        ]
+      },
+      {
+        "message_id": "bbb217c0-dbb9-45d3-83a8-031c249b8338",
+        "ranges": [
+          [
+            0,
+            32
+          ]
+        ]
+      },
+      {
+        "message_id": "17d5d899-5c6b-402a-9076-66c70345eb1d",
+        "ranges": [
+          [
+            0,
+            2269
+          ]
+        ]
+      },
+      {
+        "message_id": "bbb21b56-fe25-4897-a027-163953c0c4b5",
+        "ranges": [
+          [
+            0,
+            119
+          ]
+        ]
+      },
+      {
+        "message_id": "98560c84-524a-44a5-a3c4-f3aa512ccbce",
+        "ranges": [
+          [
+            0,
+            3621
+          ]
+        ]
+      },
+      {
+        "message_id": "bbb21b97-12f5-45ed-a529-ec2f3b846081",
+        "ranges": [
+          [
+            0,
+            61
+          ]
+        ]
+      }
+    ],
+    "classification": "video_planning_no_observed_production_failure",
+    "case_count": 0
+  },
+  {
+    "conversation_id": "69698d20-bf18-8325-bfbd-c07bf161f327",
+    "title": "قصة دقن وشعر",
+    "url": "https://chatgpt.com/c/69698d20-bf18-8325-bfbd-c07bf161f327",
+    "pages": 1,
+    "unique_messages": 8,
+    "read_status": "all_returned_text_chunks_retrieved",
+    "earliest_date": "2026-01-16T00:58:26.644084Z",
+    "latest_date": "2026-01-16T01:04:32.731126Z",
+    "previous_cursor_exhausted": true,
+    "next_cursor_exhausted": true,
+    "omitted_content_messages": [
+      {
+        "id": "bbb2148b-4eaa-40b2-9933-58d856e0959e",
+        "url": "https://chatgpt.com/c/69698d20-bf18-8325-bfbd-c07bf161f327?messageId=bbb2148b-4eaa-40b2-9933-58d856e0959e"
+      }
+    ],
+    "chunks": [
+      {
+        "message_id": "bbb2148b-4eaa-40b2-9933-58d856e0959e",
+        "ranges": [
+          [
+            0,
+            32
+          ]
+        ]
+      },
+      {
+        "message_id": "d3254524-e63c-4603-94f5-c754d02f0c63",
+        "ranges": [
+          [
+            0,
+            1209
+          ]
+        ]
+      },
+      {
+        "message_id": "bbb213f3-12fe-4439-ae05-4fca9c67d559",
+        "ranges": [
+          [
+            0,
+            51
+          ]
+        ]
+      },
+      {
+        "message_id": "207070ff-de14-45cf-b8f9-f40e86a474cb",
+        "ranges": [
+          [
+            0,
+            1546
+          ]
+        ]
+      },
+      {
+        "message_id": "bbb21c05-14e9-4e81-90f6-75dcb813f2f3",
+        "ranges": [
+          [
+            0,
+            23
+          ]
+        ]
+      },
+      {
+        "message_id": "5cf87555-0442-490c-8f8b-9fba5d0b50e3",
+        "ranges": [
+          [
+            0,
+            70
+          ]
+        ]
+      },
+      {
+        "message_id": "bbb21050-09a3-42ba-9223-ccdd308d0a31",
+        "ranges": [
+          [
+            0,
+            22
+          ]
+        ]
+      },
+      {
+        "message_id": "12af0aa6-ce56-43cd-bddd-a043229f263e",
+        "ranges": [
+          [
+            0,
+            1348
+          ]
+        ]
+      }
+    ],
+    "classification": "static_image_project_outside_assigned_animation_video_scope",
+    "case_count": 0
+  },
+  {
+    "conversation_id": "692e3620-9ce4-832f-a9a3-3e6dbddd3a44",
+    "title": "اقتراحات تحسين التصميم",
+    "url": "https://chatgpt.com/c/692e3620-9ce4-832f-a9a3-3e6dbddd3a44",
+    "pages": 1,
+    "unique_messages": 6,
+    "read_status": "all_returned_text_chunks_retrieved",
+    "earliest_date": "2025-12-02T00:43:44.721592Z",
+    "latest_date": "2025-12-02T01:21:30.050037Z",
+    "previous_cursor_exhausted": true,
+    "next_cursor_exhausted": true,
+    "omitted_content_messages": [
+      {
+        "id": "bbb21da4-9caa-439f-97c6-6a96ed62e3f1",
+        "url": "https://chatgpt.com/c/692e3620-9ce4-832f-a9a3-3e6dbddd3a44?messageId=bbb21da4-9caa-439f-97c6-6a96ed62e3f1"
+      },
+      {
+        "id": "bbb21cfb-1421-48dd-9b77-f01c3a469ee8",
+        "url": "https://chatgpt.com/c/692e3620-9ce4-832f-a9a3-3e6dbddd3a44?messageId=bbb21cfb-1421-48dd-9b77-f01c3a469ee8"
+      }
+    ],
+    "chunks": [
+      {
+        "message_id": "bbb21da4-9caa-439f-97c6-6a96ed62e3f1",
+        "ranges": [
+          [
+            0,
+            13
+          ]
+        ]
+      },
+      {
+        "message_id": "746796db-0bac-4c90-9918-0c8d32abaf3e",
+        "ranges": [
+          [
+            0,
+            2661
+          ]
+        ]
+      },
+      {
+        "message_id": "bbb2153a-2ac3-4da3-9059-98e8f7d6c06d",
+        "ranges": [
+          [
+            0,
+            21
+          ]
+        ]
+      },
+      {
+        "message_id": "c3ccca3b-c19c-417e-ad33-1d795a9b736c",
+        "ranges": [
+          [
+            0,
+            1840
+          ]
+        ]
+      },
+      {
+        "message_id": "bbb21cfb-1421-48dd-9b77-f01c3a469ee8",
+        "ranges": [
+          [
+            0,
+            8
+          ]
+        ]
+      },
+      {
+        "message_id": "29f129e2-2fa7-418c-b3a7-61236d6f7106",
+        "ranges": [
+          [
+            0,
+            2564
+          ]
+        ]
+      }
+    ],
+    "classification": "static_image_project_outside_assigned_animation_video_scope",
+    "case_count": 0
+  }
+]

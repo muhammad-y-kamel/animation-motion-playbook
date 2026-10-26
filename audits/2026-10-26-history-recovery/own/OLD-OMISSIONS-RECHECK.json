@@ -1,0 +1,268 @@
+[
+  {
+    "conversation_id": "6a4c060c-8f30-83ea-a1e1-8de605143eeb",
+    "message_id": "bbb21daa-7229-4b4e-b5f8-9f2d216b695f",
+    "still_omitted": true,
+    "visible_chars": 303,
+    "has_previous": false,
+    "has_next": true
+  },
+  {
+    "conversation_id": "6a4c060c-8f30-83ea-a1e1-8de605143eeb",
+    "message_id": "bbb21901-4209-4386-8d9b-37a02d47f6aa",
+    "still_omitted": true,
+    "visible_chars": 206,
+    "has_previous": true,
+    "has_next": true
+  },
+  {
+    "conversation_id": "6a4c060c-8f30-83ea-a1e1-8de605143eeb",
+    "message_id": "bbb2179e-9f4a-43ac-a94f-873946ea6da1",
+    "still_omitted": true,
+    "visible_chars": 663,
+    "has_previous": true,
+    "has_next": true
+  },
+  {
+    "conversation_id": "6a4c060c-8f30-83ea-a1e1-8de605143eeb",
+    "message_id": "bbb21aec-eb12-4ed9-a147-e09c8486bef8",
+    "still_omitted": true,
+    "visible_chars": 140,
+    "has_previous": true,
+    "has_next": true
+  },
+  {
+    "conversation_id": "6a4c060c-8f30-83ea-a1e1-8de605143eeb",
+    "message_id": "bbb21ec6-fa29-4539-b1aa-830a5996cca5",
+    "still_omitted": true,
+    "visible_chars": 24,
+    "has_previous": true,
+    "has_next": true
+  },
+  {
+    "conversation_id": "6968d7df-37ac-8327-b969-c213398c3b64",
+    "message_id": "bbb21439-1f87-4646-afd7-361974c9149c",
+    "still_omitted": true,
+    "visible_chars": 134,
+    "has_previous": false,
+    "has_next": true
+  },
+  {
+    "conversation_id": "6968d7df-37ac-8327-b969-c213398c3b64",
+    "message_id": "bbb2137c-212c-48fd-b00e-4894b704dfc7",
+    "still_omitted": true,
+    "visible_chars": 126,
+    "has_previous": true,
+    "has_next": true
+  },
+  {
+    "conversation_id": "6968d7df-37ac-8327-b969-c213398c3b64",
+    "message_id": "bbb213e6-d7a0-4493-8946-2fcb74f4af81",
+    "still_omitted": true,
+    "visible_chars": 40,
+    "has_previous": true,
+    "has_next": true
+  },
+  {
+    "conversation_id": "6ad352d7-d63c-83ea-8596-a11ed8e009f9",
+    "message_id": "3e66301c-5628-4819-b4f2-dec961ca597d",
+    "still_omitted": true,
+    "visible_chars": 0,
+    "has_previous": false,
+    "has_next": true
+  },
+  {
+    "conversation_id": "6ad84960-b5b0-83ea-ad28-9e0c7edd6043",
+    "message_id": "bbb215ad-f537-4ed6-af39-79381a4f0244",
+    "still_omitted": true,
+    "visible_chars": 5217,
+    "has_previous": false,
+    "has_next": true
+  },
+  {
+    "conversation_id": "6ad81709-e6c8-83ea-9f1f-f392d7ab9bf0",
+    "message_id": "bbb2150c-3bde-47cb-9fc9-94bcd7ebcd52",
+    "error": {
+      "message": "This conversation or exact message is unavailable to this Dot."
+    },
+    "has_previous": false,
+    "has_next": false
+  },
+  {
+    "conversation_id": "6ad6e28e-94f0-83e9-8cac-9fb64b2404f0",
+    "message_id": "bbb211dd-d55d-4570-972f-891608f3f14e",
+    "still_omitted": true,
+    "visible_chars": 41,
+    "has_previous": true,
+    "has_next": true
+  },
+  {
+    "conversation_id": "6931183e-92b0-8330-a001-816e6c693bb5",
+    "message_id": "adb1406d-24f2-40ad-847c-f20a09336713",
+    "still_omitted": true,
+    "visible_chars": 323,
+    "has_previous": true,
+    "has_next": true
+  },
+  {
+    "conversation_id": "6931183e-92b0-8330-a001-816e6c693bb5",
+    "message_id": "40aa62ab-9738-41d8-9cf2-ab1e48f964f3",
+    "still_omitted": true,
+    "visible_chars": 33,
+    "has_previous": true,
+    "has_next": true
+  },
+  {
+    "conversation_id": "6ad35a80-4c24-83ea-9f51-54b5e1647ded",
+    "message_id": "bbb21c5d-1598-4096-ab7d-532c0630f5f2",
+    "still_omitted": true,
+    "visible_chars": 120,
+    "has_previous": true,
+    "has_next": true
+  },
+  {
+    "conversation_id": "6ad38b35-5db4-83e9-96f8-b16d7af8834b",
+    "message_id": "bbb21ec0-fcd5-4c38-9294-3302cda8286f",
+    "still_omitted": true,
+    "visible_chars": 18151,
+    "has_previous": false,
+    "has_next": true
+  },
+  {
+    "conversation_id": "6ad2dd99-c7c4-83ea-b918-60f40c241090",
+    "message_id": "bbb2168c-b255-49ba-b1b4-98304617f730",
+    "error": {
+      "message": "Conversation context is temporarily unavailable."
+    },
+    "has_previous": false,
+    "has_next": false
+  },
+  {
+    "conversation_id": "6ad2dd99-c7c4-83ea-b918-60f40c241090",
+    "message_id": "bbb21139-52dc-459d-b5a1-97d39f437520",
+    "still_omitted": true,
+    "visible_chars": 565,
+    "has_previous": true,
+    "has_next": true
+  },
+  {
+    "conversation_id": "6ad2dd99-c7c4-83ea-b918-60f40c241090",
+    "message_id": "b4479178-355a-4383-a108-dcde7c466bbe",
+    "still_omitted": true,
+    "visible_chars": 0,
+    "has_previous": true,
+    "has_next": true
+  },
+  {
+    "conversation_id": "6ad2dd99-c7c4-83ea-b918-60f40c241090",
+    "message_id": "bbb2155a-bdb6-4f80-89b7-c285d2654251",
+    "still_omitted": true,
+    "visible_chars": 52,
+    "has_previous": true,
+    "has_next": true
+  },
+  {
+    "conversation_id": "6ad2dd99-c7c4-83ea-b918-60f40c241090",
+    "message_id": "3618125f-dbb7-4eff-acfc-4e9a3b1a4a02",
+    "still_omitted": true,
+    "visible_chars": 0,
+    "has_previous": true,
+    "has_next": true
+  },
+  {
+    "conversation_id": "6ad2dd99-c7c4-83ea-b918-60f40c241090",
+    "message_id": "bbb21692-e581-46dd-ba10-911e5339840f",
+    "still_omitted": true,
+    "visible_chars": 133,
+    "has_previous": true,
+    "has_next": true
+  },
+  {
+    "conversation_id": "6ad2dd99-c7c4-83ea-b918-60f40c241090",
+    "message_id": "1484fca6-bbf3-4254-93c9-c779da23dc53",
+    "still_omitted": true,
+    "visible_chars": 0,
+    "has_previous": true,
+    "has_next": true
+  },
+  {
+    "conversation_id": "6ad2dd99-c7c4-83ea-b918-60f40c241090",
+    "message_id": "ef38bac7-e366-499a-8c63-9d89a0244426",
+    "still_omitted": true,
+    "visible_chars": 0,
+    "has_previous": true,
+    "has_next": true
+  },
+  {
+    "conversation_id": "6ad2dd99-c7c4-83ea-b918-60f40c241090",
+    "message_id": "2ea824c5-1d54-47d3-b664-dd676e800f8b",
+    "still_omitted": true,
+    "visible_chars": 0,
+    "has_previous": true,
+    "has_next": true
+  },
+  {
+    "conversation_id": "6ad2dd99-c7c4-83ea-b918-60f40c241090",
+    "message_id": "a6e8048a-956a-4917-a5de-234a9d273b9d",
+    "still_omitted": true,
+    "visible_chars": 0,
+    "has_previous": true,
+    "has_next": true
+  },
+  {
+    "conversation_id": "6ad2dd99-c7c4-83ea-b918-60f40c241090",
+    "message_id": "bde407dd-aaaf-4d00-9bf9-d4d6b92d3c79",
+    "still_omitted": true,
+    "visible_chars": 0,
+    "has_previous": true,
+    "has_next": true
+  },
+  {
+    "conversation_id": "6ad2dd99-c7c4-83ea-b918-60f40c241090",
+    "message_id": "bbb21197-d9e3-473c-9578-cee7c2e75b72",
+    "still_omitted": true,
+    "visible_chars": 169,
+    "has_previous": true,
+    "has_next": true
+  },
+  {
+    "conversation_id": "6ad2dd99-c7c4-83ea-b918-60f40c241090",
+    "message_id": "ff112d90-0ef9-41f9-9004-f4b542b36856",
+    "still_omitted": true,
+    "visible_chars": 0,
+    "has_previous": true,
+    "has_next": true
+  },
+  {
+    "conversation_id": "6ad2dd99-c7c4-83ea-b918-60f40c241090",
+    "message_id": "d7c79ad2-f052-4fe4-a035-38d281046a14",
+    "still_omitted": true,
+    "visible_chars": 0,
+    "has_previous": true,
+    "has_next": true
+  },
+  {
+    "conversation_id": "6ad2dd99-c7c4-83ea-b918-60f40c241090",
+    "message_id": "b990bd7c-da18-462b-ba67-07bda60f8059",
+    "still_omitted": true,
+    "visible_chars": 0,
+    "has_previous": true,
+    "has_next": true
+  },
+  {
+    "conversation_id": "6ad2dd99-c7c4-83ea-b918-60f40c241090",
+    "message_id": "09de194b-e7b9-4259-88a8-ee9ae7c37bf8",
+    "still_omitted": true,
+    "visible_chars": 0,
+    "has_previous": true,
+    "has_next": true
+  },
+  {
+    "conversation_id": "6ad2dd99-c7c4-83ea-b918-60f40c241090",
+    "message_id": "3b6db9fe-ac8e-4280-9c73-6f0ef1682885",
+    "still_omitted": true,
+    "visible_chars": 0,
+    "has_previous": true,
+    "has_next": true
+  }
+]

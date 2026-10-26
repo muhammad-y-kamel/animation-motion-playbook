@@ -1,0 +1,118 @@
+{
+  "scope": "Latest page only recheck, not renewed full pagination; older historical gap unchanged",
+  "checked": "2026-10-26",
+  "rows": [
+    {
+      "thread_id": "01a16902-1d60-7701-93c0-f64be4b9307d",
+      "returned_items": 1,
+      "nonempty_items": 0,
+      "next_cursor_present": true,
+      "error": null
+    },
+    {
+      "thread_id": "01a164f6-9226-7406-a008-be42e77680d9",
+      "returned_items": 2,
+      "nonempty_items": 0,
+      "next_cursor_present": true,
+      "error": null
+    },
+    {
+      "thread_id": "01a15fd0-3a2b-7261-93f8-63baf1f2e039",
+      "returned_items": 1,
+      "nonempty_items": 0,
+      "next_cursor_present": true,
+      "error": null
+    },
+    {
+      "thread_id": "01a16263-762a-768f-b2da-adc0644b60ef",
+      "returned_items": 2,
+      "nonempty_items": 0,
+      "next_cursor_present": true,
+      "error": null
+    },
+    {
+      "thread_id": "01a15d3d-0f6a-7022-89de-39f20cb01034",
+      "returned_items": 2,
+      "nonempty_items": 0,
+      "next_cursor_present": true,
+      "error": null
+    },
+    {
+      "thread_id": "01a15aa9-e430-720d-9697-76351e5970de",
+      "returned_items": 1,
+      "nonempty_items": 0,
+      "next_cursor_present": true,
+      "error": null
+    },
+    {
+      "thread_id": "01a15816-b08c-75d5-884a-79bac4a4400a",
+      "returned_items": 2,
+      "nonempty_items": 0,
+      "next_cursor_present": true,
+      "error": null
+    },
+    {
+      "thread_id": "01a15583-894a-76f9-ac7f-c5f04f36a021",
+      "returned_items": 2,
+      "nonempty_items": 0,
+      "next_cursor_present": true,
+      "error": null
+    },
+    {
+      "thread_id": "01a14f13-b222-708f-a3ea-bf8e1accd0be",
+      "returned_items": 2,
+      "nonempty_items": 0,
+      "next_cursor_present": true,
+      "error": null
+    },
+    {
+      "thread_id": "01a151a6-b502-7141-9538-df803fc0c0c2",
+      "returned_items": 2,
+      "nonempty_items": 0,
+      "next_cursor_present": true,
+      "error": null
+    },
+    {
+      "thread_id": "01a152f0-625c-7061-ad16-053e55ad30d2",
+      "returned_items": 2,
+      "nonempty_items": 0,
+      "next_cursor_present": true,
+      "error": null
+    },
+    {
+      "thread_id": "01a14c80-5848-745f-b034-b7d2cdd5b0f8",
+      "returned_items": 2,
+      "nonempty_items": 0,
+      "next_cursor_present": true,
+      "error": null
+    },
+    {
+      "thread_id": "01a149ed-3ca7-7377-92b9-c49d20ce7023",
+      "returned_items": 1,
+      "nonempty_items": 0,
+      "next_cursor_present": true,
+      "error": null
+    },
+    {
+      "thread_id": "01a1437d-4035-72d0-bcec-61b85a474031",
+      "returned_items": 2,
+      "nonempty_items": 0,
+      "next_cursor_present": true,
+      "error": null
+    },
+    {
+      "thread_id": "01a1475a-0c05-76f7-92c1-148653c0100a",
+      "returned_items": 2,
+      "nonempty_items": 0,
+      "next_cursor_present": true,
+      "error": null
+    },
+    {
+      "thread_id": "01a144c6-f28e-71ae-be63-fc0e77cac019",
+      "returned_items": 1,
+      "nonempty_items": 0,
+      "next_cursor_present": true,
+      "error": null
+    }
+  ]
+}
