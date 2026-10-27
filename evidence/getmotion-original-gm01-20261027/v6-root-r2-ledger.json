@@ -1,0 +1,35 @@
+{
+  "reviewer": "root",
+  "candidate": "V6 R2",
+  "direct_visual_ranges": [
+    [
+      417,
+      434
+    ],
+    [
+      543,
+      584
+    ],
+    [
+      711,
+      734
+    ],
+    [
+      795,
+      818
+    ],
+    [
+      837,
+      860
+    ]
+  ],
+  "direct_frames": 132,
+  "prior_direct_visual_range": [
+    417,
+    861
+  ],
+  "unchanged_source_states": 362,
+  "carry_method": "Exact complete generated SVG equality for unaffected source states, not exact decoded pixels. Prior candidate every frame visually reviewed. Encoder differences disclosed in DECODED_FRAME_COMPARISON.json.",
+  "result": "Warning cleared before insertion; three transfers clear question text. No new finding.",
+  "false_alarm": "419-to-420 jump disproven with native pair; no change"
+}

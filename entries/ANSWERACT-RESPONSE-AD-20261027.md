@@ -103,3 +103,19 @@ Final native V5 SHA256 `1ee951cb317ad001041a8fbb6b9d2cd80e6865d36b389fb29d22793b
 Independent final review:33 actual encoded samples plus native7.5/11.5/19s. No remaining HIGH within requested fixes/sample scope. Root viewed sheet. **Not full playback/listening, every-frame or creative approval.**
 
 Video `libfile_560f545f3d1c8191b7f7f45119d74ccf`; source `libfile_0aa3ca3609ec81918b599697f7685efa`, source ZIP SHA256 `29779a5d502b7d2cbe20d11fc04a7095a35a6c0b54c37e529b2300e73efc5c8a`. Root confirms delivery10:41; user acceptance pending. [Final review](../evidence/answeract-response-ad-20261027/v5-final-review.md), [QA](../evidence/answeract-response-ad-20261027/v5-final-qa.json), [chronological errors](../evidence/answeract-response-ad-20261027/error-log-v5.md).
+
+## V6 hierarchy correction and exhaustive initial frame review — delivered12:18 UTC
+
+User clarified V5 should retain the original V4 upper card/customer groups and only add small icons beside the lower clock. V5 incorrectly replaced upper alternatives with oversized icons. Collision-free QA did not establish fidelity to the user's requested hierarchy. V6 restores those upper groups and adds clock-sized lower storefront/clock/Wi-Fi at340/540/740, roughly120px each, while retaining lower7s clock, red-X messages and no footer.
+
+**All2059 initial decoded frames actually viewed**, on consecutive six-frame sheets with suspicious details enlarged:0–503,504–1007,1008–1511,1512–2058. Initial hash `37798af997de1a22d1061d9686b00b7e3772d9c6c38d3336435c17b80f55c5db`. This found four brief overlaps missed by sparse review:
+- Opening arrow crosses shrinking card/button and first inquiry touches its edge: derive arrow from moving card bottom, gate for gap and delay first bubble to3s.
+- “أو” crosses alternate card near17.2: delay label until17.35.
+- Account outline crosses rising orb near25: delay fields until25.15.
+- Orb crosses assignment title near53: retire title before52.85.
+
+All487 final affected/boundary frames were directly re-inspected:60–420,495–540,735–780,1572–1605. Four collisions resolved in those ledgers. This does not mean every final frame was freshly re-viewed. Brief fades and a cosmetic check-dot remain; no whole-film perfection, actual listening or continuous playback claim.
+
+Final video SHA256 `917d64b8eee9f8659141ed4c872759c800cc887c6da01ec31231b25abb7df2a5`; AAC unchanged. Video `libfile_1810240f055481919528364c733ba0a4`; source `libfile_d0c8c1cc517c81918c3f9c4e73f2266d`, source ZIP SHA256 `9afc54c069db0ff9bc94051749aff9d623de12d23f809347d2e7f07d8b0603ee`. Delivered12:18 per coordinator; **user creative acceptance pending**.
+
+[All-frame coverage/retest record](../evidence/answeract-response-ad-20261027/v6-all-frame-review.json), [final technical verification](../evidence/answeract-response-ad-20261027/v6-final-qa.json), [receipts](../evidence/answeract-response-ad-20261027/v6-receipts.json), [chronological error log](../evidence/answeract-response-ad-20261027/error-log-v6.md). Preserve earlier narrow reviews rather than rewriting them as exhaustive.

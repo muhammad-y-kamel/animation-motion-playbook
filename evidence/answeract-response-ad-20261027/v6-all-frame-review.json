@@ -1,0 +1,74 @@
+{
+  "initial_video_sha256": "37798af997de1a22d1061d9686b00b7e3772d9c6c38d3336435c17b80f55c5db",
+  "initial_actual_visual_coverage": [
+    [
+      0,
+      503
+    ],
+    [
+      504,
+      1007
+    ],
+    [
+      1008,
+      1511
+    ],
+    [
+      1512,
+      2058
+    ]
+  ],
+  "total_unique_frames": 2059,
+  "method": "Every consecutive decoded frame visually viewed on 6-frame sheets, with suspicious details magnified natively. Not sampled and not source-only.",
+  "initial_defects": 4,
+  "final_retest_ranges_inclusive": [
+    [
+      60,
+      420
+    ],
+    [
+      495,
+      540
+    ],
+    [
+      735,
+      780
+    ],
+    [
+      1572,
+      1605
+    ]
+  ],
+  "final_retest_status": "All487 affected/boundary frames actually visually inspected; four reported collisions resolved.",
+  "audio_listening_claim": false,
+  "owner_creative_acceptance": "pending",
+  "final_video_sha256": "917d64b8eee9f8659141ed4c872759c800cc887c6da01ec31231b25abb7df2a5",
+  "final_retest_actual_coverage": [
+    [
+      60,
+      299
+    ],
+    [
+      300,
+      420
+    ],
+    [
+      495,
+      540
+    ],
+    [
+      735,
+      780
+    ],
+    [
+      1572,
+      1605
+    ]
+  ],
+  "final_retest_frames": 487,
+  "limitations": [
+    "Still-frame visual inspection, not continuous playback/audio listening.",
+    "Brief scene fades and cosmetic initial check-dot remain; no blocking defect found in reviewed ranges.",
+    "Owner creative acceptance pending."
+  ]
+}

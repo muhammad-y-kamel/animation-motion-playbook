@@ -1,0 +1,17 @@
+{
+  "video_sha256": "fc25d23e2d45f9d51369a2e35095e36cedcb2b0d41f63b4d27bf9a6a4a397b75",
+  "frame_count": 1284,
+  "fps": 24,
+  "native_dimensions": [
+    1080,
+    1920
+  ],
+  "first_pass": "All1284 actual decoded frames visually viewed, findings preserved.",
+  "retest": {
+    "opening": "All417 actual R2 frames directly viewed",
+    "middle": "132 direct R2 frames plus prior visual coverage for362 exact-SVG unchanged states; codec pixels can differ",
+    "ending": "150 R2 frames directly viewed plus284 exact decoded-pixel matching previously viewed frames; overlap12"
+  },
+  "targeted_findings": "Resolved in inspected frames; not guarantee of perfection or user approval",
+  "audio": "Approved source unchanged; no new TTS; no full listening certification"
+}

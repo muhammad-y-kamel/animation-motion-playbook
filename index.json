@@ -520,10 +520,10 @@
       "project": "GetMotion original",
       "episode": "GM01",
       "category": "semantics/continuity/composition/action",
-      "status": "paperwork_v5_delivered_bounded_qa",
+      "status": "v6_r2_delivered_documented_visual_coverage",
       "discovered_by": "user, reviewer, agent; attributed per component",
       "file": "entries/GETMOTION-ORIGINAL-GM01-20261027.md",
-      "acceptance": "LIBRARY_V6_USER_ACCEPTANCE_PENDING",
+      "acceptance": "CURRENT_VIDEO_USER_ACCEPTANCE_PENDING",
       "latest_user_feedback": "Sentinel_75a7a05032888191b6ce0da0e48fcc55"
     },
     {
@@ -532,10 +532,10 @@
       "project": "AnswerAct",
       "episode": "response advertisement",
       "category": "UI-motion/semantics/composition/audio-processing",
-      "status": "v5_delivered_bounded_encoded_qa",
+      "status": "v6_delivered_initial_all_frame_and_repair_review",
       "discovered_by": "agent and reviewer; component attribution in entry",
       "file": "entries/ANSWERACT-RESPONSE-AD-20261027.md",
-      "acceptance": "STYLE_APPROVED_V5_VIDEO_FEEDBACK_PENDING"
+      "acceptance": "STYLE_APPROVED_V6_VIDEO_FEEDBACK_PENDING"
     }
   ]
 }

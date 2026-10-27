@@ -158,3 +158,21 @@ User found additional faults in the delivered 2D film; previous narrow clearance
 Final SHA256 `859992b6b2123f1d26e2be9692b32f01cdfdf45da9352bc4c17a91bad6db483f`; native1080×1920 export and full decode passed. Original audio hash remains unchanged. Review covers39 encoded anchors/transitions and8 native critical frames. Opening audit230states; ending24fps audit6329checks plus30fps7913checks; native Arabic ink widths measured against fields. These are **not all-glyph, all-frame semantic or continuous AV certifications**.
 
 Root confirms video/source Library version6 delivered10:48 using existing IDs `libfile_0b0f1c6780408191b05c92fdfc2cf286` / `libfile_c54fe5880cc48191a7efdf3b0940bb71`. User creative acceptance pending. [Revision/failure log](../evidence/getmotion-original-gm01-20261027/v5-revision.md), [final QA](../evidence/getmotion-original-gm01-20261027/v5-final-qa.json).
+
+## V6 R2 — exhaustive initial visual inspection and explicit repair carry scope (2026-10-27 12:23)
+
+User required every-frame visual review. Containment checks had been insufficient: a tick inside a bubble could still occupy the wrong visual zone. V6 groups the coins into a stack, optically aligns stack/play/alarm, centers check geometry and places document/contact/status marks in owned inset/footer slots.
+
+**All1284 initial decoded frames were actually visually inspected**, contiguous0–416,417–861,862–1283. Allocation manifests alone are not claimed as viewing proof. Review found coin paths crossing checklist text/borders, premature right-card entry, readable-content crossfade ghosts at10.64/13.2/15.26, cursor over CTA words, budget coins over title, warning over incoming attachment, three video transfers covering customer question and cursor over validation tick. Repairs alter routes, reveal ordering, ownership and gutters rather than merely reporting containment.
+
+The apparent419→420 jump was checked against an actual native pair and disproved: contact-sheet row wrapping misled the reviewer. This false alarm was withdrawn without a code change.
+
+### Final R2 review scope — distinguish evidence types
+- Opening: all417 actual R2 frames directly visually viewed.
+- Middle:132 affected/boundary R2 frames directly viewed;362 states carried prior visual coverage based on **exact complete generated SVG equality**, not raw decoded-pixel equality. Only51 decoded frames matched exactly in the broader comparison; do not inflate SVG-state equivalence into pixel identity.
+- Ending:150 R2 frames directly viewed plus284 exact decoded-pixel matches to previously viewed frames, with12-frame overlap.
+This is not a claim that every final encoded frame was freshly viewed. All targeted findings were resolved in documented review; no guarantee of perfection or full AV listening.
+
+Final MP4 SHA256 `fc25d23e2d45f9d51369a2e35095e36cedcb2b0d41f63b4d27bf9a6a4a397b75`,1284frames,24fps,1080×1920; approved source audio unchanged. Root confirms delivery12:23: video existing Library item v6, editable source existing item v7 (exact receipts retained below). These receipt versions supersede earlier reported checkpoint versions where applicable; no user creative acceptance inferred.
+
+[Revision findings](../evidence/getmotion-original-gm01-20261027/v6-revision.md), [final QA](../evidence/getmotion-original-gm01-20261027/v6-final-qa.json), [root R2 ledger](../evidence/getmotion-original-gm01-20261027/v6-root-r2-ledger.json), [receipts](../evidence/getmotion-original-gm01-20261027/v6-receipts.json). Previous candidates and all rejection history remain preserved.

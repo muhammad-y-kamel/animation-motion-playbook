@@ -148,3 +148,5 @@ IDs never change or get reused. New occurrence of same mechanism links the origi
 - Latest27Oct10:26: GM01 3D R4 semantics rejected; user-selected 2D paperwork replacement delivered10:22, acceptance pending. AnswerAct V3 layout and V4 opening/group-exit/Arabic-ink fixes delivered09:49/10:26 with bounded encoded review, acceptance pending. Prior no-HIGH samples are not global approval; see each canonical case.
 
 - V5 follow-up27Oct10:48: GetMotion paperwork local-owner/layout repairs delivered as video/source v6; AnswerAct requested retained-red-X message state and opening composition delivered10:41. Encoded transition regressions/build failure preserved alongside scoped retests. Both current creative acceptances pending; no full AV certification.
+
+- V6 delivered27Oct12:18/12:23: AnswerAct restores requested hierarchy; all2059 initial frames viewed and487 final repair frames rechecked. GetMotion all1284 initial frames viewed; R2 direct and exact-SVG/decoded-pixel carry scopes recorded separately, false jump diagnosis withdrawn. Both current user acceptances pending; no continuous AV claim.
