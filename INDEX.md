@@ -134,3 +134,7 @@ IDs never change or get reused. New occurrence of same mechanism links the origi
 
 ## AnswerAct response ad — 2026-10-27
 [ANSWERACT-RESPONSE-AD-20261027](entries/ANSWERACT-RESPONSE-AD-20261027.md): six observed layout/action/audio-processing failures with preserved rejected evidence; source-sampled repairs cleared for encoding. Final encoded QA pending; numerical audio is not listening and user-provided 80% copy remains unverified.
+
+
+## CURRENT original GetMotion GM01 status — 2026-10-27 03:23 UTC
+**Delivered continuous v1 USER REJECTED / OPEN.** Persistent central tile still reads as slides, covers content and retains irrelevant headings; misalignment/motion placement and unclear coin drawings reported. Prior narrow source/contact QA did not establish functional/perceptual success. Fresh causal scene transformation and internal root visual review are required, not yet passed. See [GM01 case](entries/GETMOTION-ORIGINAL-GM01-20261027.md).

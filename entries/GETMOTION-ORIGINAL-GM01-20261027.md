@@ -57,3 +57,20 @@ Producer reports full local encode complete: `GetMotion_Continuous_AR_Final.mp4`
 
 ### Library delivery confirmation — 2026-10-27 03:11 UTC
 Producer confirmed replacements: video `libfile_0b0f1c6780408191b05c92fdfc2cf286` version 1; editable source `libfile_c54fe5880cc48191a7efdf3b0940bb71` version 1; proof `libfile_41d1c23ded908191ac817f154579b903` version 2. Coordinator attached the deliverables at 03:11 UTC. Frozen hashes above remain unchanged. This closes the earlier save-pending checkpoint only; it does not establish user approval or continuous AV review.
+
+## REOPENED — delivered continuous v1 rejected by user (2026-10-27, 03:23 UTC)
+
+**CURRENT STATUS: USER REJECTED / OPEN.** The delivered continuous revision is not accepted, and its source/frame clearance must not be presented as successful fulfillment of the user's visual or semantic requirements.
+
+- Discovery: **user**, message `Sentinel_75a7a05032888191b6ce0da0e48fcc55` (identifier supplied by coordinator).
+- Affected delivered source: `continuous.cjs`, SHA256 `4e6694e8a42ce327db2b983292a4297331bb4c74d5b45879d1fe4eb5b220e744`.
+- Affected MP4: `8c275aea8c90afde4bae71ccbf9652f8ce0a263904d8f01622767b8255da23da`, Library video `libfile_0b0f1c6780408191b05c92fdfc2cf286` version 1.
+- Coordinator-attributed feedback summary, not a verbatim transcript: fixed “فيديو موشن / مشروع موشن” headings are irrelevant; a single central moving video object obscures other content; retaining that object over successive scenes still reads as slides rather than genuine continuity; text/element alignment and motion placement are wrong; coin drawings are unclear and poor.
+
+### QA failure
+The prior bounded fixes addressed specific hidden clocks, source-sheet placement and action states. They did not establish that the whole composition was readable, relevant or experienced as continuous scene transformation. A persistent project tile and a moving camera are insufficient evidence of narrative continuity. Contact-sheet clearance failed to catch these functional/perceptual requirements. Preserve its limited findings, but reopen the delivered result rather than calling it fixed.
+
+### Required next gate — proposed, not implemented or passed
+Build a fresh causal **scene transformation**, not the same central tile masking different slide contents. For each spoken interval, identify the meaningful subject/action/result, use the whole composition purposefully, and trace how the actual outgoing scene creates the next. Remove irrelevant permanent headings and test real text/object alignment, occlusion and coin readability at mobile size and native details.
+
+Coordinator requires internal root visual review of new evidence before another full delivery. This is an internal quality gate, not a claim that a new revision is complete or approved. No upcoming repair, final encode or user acceptance is established here. Rejected renders and all prior attempts remain preserved.
