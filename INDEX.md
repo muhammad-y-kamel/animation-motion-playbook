@@ -146,3 +146,5 @@ IDs never change or get reused. New occurrence of same mechanism links the origi
 - AnswerAct V2 delivered07:35UTC: native2059frames/30fps, clean full decode and bounded final encoded review. New transition/layer/semantic/reading-time/cursor failures and repairs retained. Approved composite audio preserved; no V2 paid TTS/publication. VIDEO acceptance and continuous AV review remain unestablished.
 
 - Latest27Oct10:26: GM01 3D R4 semantics rejected; user-selected 2D paperwork replacement delivered10:22, acceptance pending. AnswerAct V3 layout and V4 opening/group-exit/Arabic-ink fixes delivered09:49/10:26 with bounded encoded review, acceptance pending. Prior no-HIGH samples are not global approval; see each canonical case.
+
+- V5 follow-up27Oct10:48: GetMotion paperwork local-owner/layout repairs delivered as video/source v6; AnswerAct requested retained-red-X message state and opening composition delivered10:41. Encoded transition regressions/build failure preserved alongside scoped retests. Both current creative acceptances pending; no full AV certification.

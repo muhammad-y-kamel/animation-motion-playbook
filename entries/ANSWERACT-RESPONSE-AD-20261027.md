@@ -89,3 +89,17 @@ The repair introduced a63.85s notification/button overlap. Encoded review caught
 V4 final SHA256 `5465cc695b7da86464d162c92edb8366a7929c58c23383cc2ef9f94003a679d1`; full decode passed, approved AAC payload unchanged from V3, no new TTS or publication. Independent review viewed28 actual encoded samples plus native6.5/10.2/26/27.3/50.5/51.6/65s. No remaining HIGH within requested-fix/sample scope; earlier V3 layout repairs remained visible. **Not continuous playback/listening, every-frame certification or blanket creative approval.** An unfinished user fragment was not interpreted.
 
 V4 saved video `libfile_4871c517ab3c8191802b344d9652ea86`; source `libfile_34b4b178d3b481919a3ce81b0f63f922`. User video acceptance pending. [Expanded error log](../evidence/answeract-response-ad-20261027/error-log-v4.md), [V3 final review](../evidence/answeract-response-ad-20261027/v3-final-review.md), [V4 final review](../evidence/answeract-response-ad-20261027/v4-final-review.md), [V4 receipts](../evidence/answeract-response-ad-20261027/v4-receipts.json).
+
+## V5 explicit composition change — delivered10:41 UTC, 2026-10-27
+
+The user's new instruction **supersedes V4's fading-message design**: retain unanswered messages at11–12s with red X marks and subtle decaying8px shake. Do not relabel the prior grouped-fade ownership repair as a failure merely because the requested design changed. Footer removed throughout; first clock moves below queue; at19s storefront is left, clock center and disconnected Wi-Fi right.
+
+Two actual failed trials are retained:
+- Naive v4→v5 substring replacement corrupted `yuv420p` to invalid `yuv520p`. FFmpeg refused before rendering. Explicit pixel-format correction fixed the build; future version edits must target intended filename/version tokens, not arbitrary substrings.
+- Old competitor card and new storefront overlapped around17s under simultaneous fades. Retire outgoing card/arrow by16.94, begin incoming then. Independent0.1s-spaced encoded retest16.5–18.4 cleared the sampled stack.
+
+Final native V5 SHA256 `1ee951cb317ad001041a8fbb6b9d2cd80e6865d36b389fb29d22793bebe7d9cf`; source `fc843e9488712aa70f61cca292dada23b5ececbb2d26d6b118882538f43c0429`. Full decode clean;2059 generated frames scanned with zero footer occurrences. V4/V5 ADTS audio payload byte-identical, SHA256 `265dd200dddb28a4d0ee40323e181cfc9dec48ff7ab4a8066c8c33af223c0137`; no new TTS.
+
+Independent final review:33 actual encoded samples plus native7.5/11.5/19s. No remaining HIGH within requested fixes/sample scope. Root viewed sheet. **Not full playback/listening, every-frame or creative approval.**
+
+Video `libfile_560f545f3d1c8191b7f7f45119d74ccf`; source `libfile_0aa3ca3609ec81918b599697f7685efa`, source ZIP SHA256 `29779a5d502b7d2cbe20d11fc04a7095a35a6c0b54c37e529b2300e73efc5c8a`. Root confirms delivery10:41; user acceptance pending. [Final review](../evidence/answeract-response-ad-20261027/v5-final-review.md), [QA](../evidence/answeract-response-ad-20261027/v5-final-qa.json), [chronological errors](../evidence/answeract-response-ad-20261027/error-log-v5.md).

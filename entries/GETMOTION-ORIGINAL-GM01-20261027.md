@@ -143,3 +143,18 @@ Paperwork2D-R3 MP4 SHA256 `7ca27ba30e8ba412bebeb8591556ad0cac46ecff1133897bca3d3
 Root reports delivery10:22: video `libfile_0b0f1c6780408191b05c92fdfc2cf286` v4 and source `libfile_c54fe5880cc48191a7efdf3b0940bb71` v5. **Creative acceptance pending.** Review is27 encoded anchor/transition samples plus extracted native critical frames; actual provider character anchors are not independently listened phoneme timing. No continuous AV or flawless-motion certification.
 
 [Revision log](../evidence/getmotion-original-gm01-20261027/paperwork-revision-log.md) and [final QA/source hashes](../evidence/getmotion-original-gm01-20261027/paperwork-final-qa.json). The QA JSON retains an older pending technical_gate field; its later status/probe records completed native export. Preserve this temporal distinction instead of treating the earlier field as a second result.
+
+## Paperwork V5 explicit corrections — delivered10:48 UTC, 2026-10-27
+
+User found additional faults in the delivered 2D film; previous narrow clearance did not guarantee their absence. Old versions preserved. Narration and paperwork-service content unchanged.
+
+- Unmotivated standing figure removed; functional paperwork customer retained.
+- Coins crossed calendar lane at6s; calendar now clears first, coins follow a separate corridor and settle outside UI. Compact alarm and retained coins now share an exit instead of mismatched lifetimes.
+- Steps/result wordmarks replaced by requested1–2–3/two checks. Edge-crossing diagonal connector at14.2s removed.
+- Global-coordinate chat controls and sent marks drifted outside owning bubbles at41.7/42.2/51.4. Refactor to local page/chat/composer/message components, interior status-footer slots, padded send control and35px provider-chat separation.
+- Old delivery clipped below header while duplicate CTA started at50.7. Clear old payload before one new payload types/sends.
+- Refactor introduced36.3s ownership wipe slicing old video/header. Actual encoded proof caught it; sequential horizontal page exit and old-thread clearance precede incoming header/questions.
+
+Final SHA256 `859992b6b2123f1d26e2be9692b32f01cdfdf45da9352bc4c17a91bad6db483f`; native1080×1920 export and full decode passed. Original audio hash remains unchanged. Review covers39 encoded anchors/transitions and8 native critical frames. Opening audit230states; ending24fps audit6329checks plus30fps7913checks; native Arabic ink widths measured against fields. These are **not all-glyph, all-frame semantic or continuous AV certifications**.
+
+Root confirms video/source Library version6 delivered10:48 using existing IDs `libfile_0b0f1c6780408191b05c92fdfc2cf286` / `libfile_c54fe5880cc48191a7efdf3b0940bb71`. User creative acceptance pending. [Revision/failure log](../evidence/getmotion-original-gm01-20261027/v5-revision.md), [final QA](../evidence/getmotion-original-gm01-20261027/v5-final-qa.json).
