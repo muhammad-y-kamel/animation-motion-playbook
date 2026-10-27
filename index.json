@@ -508,10 +508,10 @@
       "category": "semantic-continuity/rendering/review",
       "project": "GetMotion",
       "episode": "GMX03_AR",
-      "status": "review_candidate_with_limits",
+      "status": "corrected_delivered_bounded_qa",
       "discovered_by": "user, reviewer, agent; component attribution in entry",
       "file": "entries/GETMOTION-REALITYUNZIP-20261027.md",
-      "acceptance": "V7_TECHNICAL_PASS_BOUNDED_VISUAL_REVIEW_NO_GLOBAL_SEMANTIC_OR_AV_PASS"
+      "acceptance": "V8_SAMPLED_MECHANICAL_AND_ENCODED_CLEARANCE_AV_UNPERFORMED"
     }
   ]
 }

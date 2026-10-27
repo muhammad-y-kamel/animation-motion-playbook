@@ -1,0 +1,62 @@
+{
+  "source_sha256": "0bd135cfbbd8786c7513337deaad18db5f3cfac638462b6783dc28ff9321d33a",
+  "driver_sha256": "8d6981116619191fd928275405c0367c7fe88afc694251df317f34566a37a9d6",
+  "native_frame_equivalence": [
+    {
+      "frame": 0,
+      "sample_hashes_identical": true,
+      "overlay_hash_identical": true,
+      "final_rgb_hash_identical": true,
+      "png_bytes_identical": true,
+      "rgb_sha256": "f2b95cd1eaccaee8faef4b49e085491a2fa761587e7903bfab2fe117924a1bbe"
+    },
+    {
+      "frame": 15,
+      "sample_hashes_identical": true,
+      "overlay_hash_identical": true,
+      "final_rgb_hash_identical": true,
+      "png_bytes_identical": true,
+      "rgb_sha256": "317fa4ceda85de839a31b5eba6a16af7f9838f27db60237a673aa927360e01cb"
+    },
+    {
+      "frame": 372,
+      "sample_hashes_identical": true,
+      "overlay_hash_identical": true,
+      "final_rgb_hash_identical": true,
+      "png_bytes_identical": true,
+      "rgb_sha256": "869b609bdfcd851beb7a4ae3b7ba1e36b42274ae96c7cdb8a4659b6c865d37ce"
+    },
+    {
+      "frame": 1335,
+      "sample_hashes_identical": true,
+      "overlay_hash_identical": true,
+      "final_rgb_hash_identical": true,
+      "png_bytes_identical": true,
+      "rgb_sha256": "df29261b6a4bca4fdc4b2ca56b68a1d877d148aea34379b226cfb5a0b37ff42a"
+    },
+    {
+      "frame": 2670,
+      "sample_hashes_identical": true,
+      "overlay_hash_identical": true,
+      "final_rgb_hash_identical": true,
+      "png_bytes_identical": true,
+      "rgb_sha256": "287d00e735a9344c0dda637f8315780522f4eec1aab504b1a02879cd7c9db7bf"
+    },
+    {
+      "frame": 3090,
+      "sample_hashes_identical": true,
+      "overlay_hash_identical": true,
+      "final_rgb_hash_identical": true,
+      "png_bytes_identical": true,
+      "rgb_sha256": "c999d047fd4aed58c6a0e1ed567a92d4adec82e1ccfb3180c49fce68a66f8717"
+    }
+  ],
+  "native12_encode_decode": "passed",
+  "resolution": [
+    1080,
+    1920
+  ],
+  "fps": 60,
+  "four_distinct_times_all12": true,
+  "scope": "Six full output frame pixel/overlay/sample equality tests plus20 earlier raw samples. Not full3212-frame pixel proof; operations preserve single-shape opacity semantics and capture ordering. No production input edited."
+}
