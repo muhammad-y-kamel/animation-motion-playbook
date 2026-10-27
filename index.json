@@ -513,6 +513,17 @@
       "file": "entries/GETMOTION-REALITYUNZIP-20261027.md",
       "acceptance": "AR_V8_REJECTED_NARRATION_VISUAL_MISMATCH",
       "latest_user_feedback": "Sentinel_d8e0d37e3ae88191851acadae8ac9e14"
+    },
+    {
+      "id": "GETMOTION-ORIGINAL-GM01-20261027",
+      "title": "Wrong service analogy and disconnected scenes; continuous project-lineage repair",
+      "project": "GetMotion original",
+      "episode": "GM01",
+      "category": "semantics/continuity/composition/action",
+      "status": "open_bounded_repairs_final_pending",
+      "discovered_by": "user, reviewer, agent; attributed per component",
+      "file": "entries/GETMOTION-ORIGINAL-GM01-20261027.md",
+      "acceptance": "ORIGINAL_REJECTED_CONTINUOUS_REVISION_UNAPPROVED"
     }
   ]
 }

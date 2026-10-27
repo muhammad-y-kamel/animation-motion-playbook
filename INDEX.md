@@ -126,3 +126,7 @@ IDs never change or get reused. New occurrence of same mechanism links the origi
 
 ## CURRENT GetMotion status — user rejection, 2026-10-27 02:16 UTC
 **AR v8 is REJECTED / OPEN**, superseding its prior corrected-delivery checkpoint. User reports arbitrary zipper motion and scene events unrelated to narration. Mechanical coverage did not establish causal meaning. English render stop instructed; repair requires exact spoken-clause → visible actor/action/result mapping and semantic synchronization. See [canonical case](entries/GETMOTION-REALITYUNZIP-20261027.md).
+
+
+## Original GetMotion GM01 — separate from paused RealityUnzip
+[GETMOTION-ORIGINAL-GM01-20261027](entries/GETMOTION-ORIGINAL-GM01-20261027.md): rejected unrelated service analogy / disconnected scenes; continuous project-lineage repair addresses sampled visibility, checklist/action timing, missing late contact and CTA issues. **OPEN; final encoded validation and acceptance not established.**
