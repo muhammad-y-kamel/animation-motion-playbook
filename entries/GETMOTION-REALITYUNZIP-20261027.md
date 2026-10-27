@@ -122,3 +122,21 @@ The driver removes fully transparent single-face groups, unwraps opacity-one gro
 Best validated repair is now the shared rendered-geometry/ownership approach **within these tested scopes**. Reapply tests per language and source revision rather than inheriting an unconditional pass. English is next; the remaining queue is not complete.
 
 Supporting reports: [failed checkpoint](../evidence/getmotion-rebuild-20261027/v8-checkpoint-fail.md), [bar gate](../evidence/getmotion-rebuild-20261027/v8-bar-gate.md), [targeted semantic clearance](../evidence/getmotion-rebuild-20261027/v8-targeted-clearance.md), [exact-join clearance](../evidence/getmotion-rebuild-20261027/v8-preexport-clearance.md), [encoded review](../evidence/getmotion-rebuild-20261027/v8-encoded-review.md), [technical QA](../evidence/getmotion-rebuild-20261027/v8-technical-qa.json), [optimization proof](../evidence/getmotion-rebuild-20261027/v8-optimization-proof.json).
+
+## REOPENED — user rejects AR v8 narration-to-visual meaning (2026-10-27, 02:16 UTC)
+
+**CURRENT STATUS: USER REJECTED / OPEN SEMANTIC FAILURE.** This supersedes any implication of acceptance from the preceding corrected-delivery checkpoint. Technical checks and narrowly cleared mechanical defects remain factual historical evidence; they did not establish meaningful correspondence to the narration.
+
+- Discovery origin: **user**, exact message `Sentinel_d8e0d37e3ae88191851acadae8ac9e14`.
+- Exact feedback: «حركات السوستة عشوائية مالهاش علاقة باللي بيتقال واللي بيحصل جوا الفيديو كمان مالوش اي علاقة ياللي بيتقال».
+- Meaning: the zipper motion appears arbitrary relative to the spoken words, and the events inside the video also do not relate to what is being said.
+- Affected delivered AR v8 MP4: SHA256 `e1bae40170d58f4e0b48e3714c8f3361535b12f3da2ff2f35a8b2434044d728c`.
+- Coordinator instructed the producer to stop the English render. This entry records that instruction, not an independently verified process termination.
+
+### QA failure and cause classification
+Mechanical continuity, zero join error, stable tooth IDs, useful-object reveal, technical decode and beat timing cannot certify narration-semantic relevance. The prior sampled clearance did not prevent this substantive user rejection. A scene can contain a coherent physical action yet demonstrate the wrong meaning. The exact implementation causes must be investigated clause by clause; no hypothetical repair is recorded as successful.
+
+### Required repair and regression gate
+For every exact spoken clause, record: actual audio start/end, current visible action, the mismatch, the concrete actor/object, the intended action and result, and why that result demonstrates the clause. The zipper must cause or expose that relevant event, not operate as an unrelated beat-driven wipe. Verify the meaning and synchronization together against the frozen recording, including the complete interval and neighboring transitions. A ledger naming the topic or a mechanically valid reveal alone is insufficient. Preserve immutable rejected evidence and record each new trial separately.
+
+No new source, render, semantic acceptance or user approval is established by this documentation update. AR v8 is not an accepted deliverable; subsequent English/batch work must not inherit its earlier clearance.

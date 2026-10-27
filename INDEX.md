@@ -122,3 +122,7 @@ IDs never change or get reused. New occurrence of same mechanism links the origi
 - GetMotion follow-up: first GMX03_AR v7 local MP4 passes technical decode and receives a 16-native-frame review; remains **review_candidate_with_limits**, with cue-boundary text blending, discrete shutter ghosting, weak price-sheet composition and unperformed AV playback/listening. See [case follow-up](entries/GETMOTION-REALITYUNZIP-20261027.md#follow-up--v5v6-trials-and-first-v7-encoded-review-candidate-2026-10-27-0112-utc).
 
 - GetMotion AR v8 (02:12 UTC): corrected first output delivered; shared hook/98-tooth identity, exact slider join and meaningful per-bar reveal cleared within documented diagnostics and sampled encoded review. Runtime optimization preserves six tested native frames exactly. Continuous AV review remains unperformed; no all-output completion claim. See canonical GetMotion case.
+
+
+## CURRENT GetMotion status — user rejection, 2026-10-27 02:16 UTC
+**AR v8 is REJECTED / OPEN**, superseding its prior corrected-delivery checkpoint. User reports arbitrary zipper motion and scene events unrelated to narration. Mechanical coverage did not establish causal meaning. English render stop instructed; repair requires exact spoken-clause → visible actor/action/result mapping and semantic synchronization. See [canonical case](entries/GETMOTION-REALITYUNZIP-20261027.md).
