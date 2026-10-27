@@ -1,0 +1,20 @@
+{
+  "status": "succeeded",
+  "video": {
+    "library_file_id": "libfile_4871c517ab3c8191802b344d9652ea86",
+    "file_id": "file_0000000086b081f5844db6c939a45db6",
+    "name": "AnswerAct_Response_V4.mp4",
+    "sha256": "5465cc695b7da86464d162c92edb8366a7929c58c23383cc2ef9f94003a679d1",
+    "bytes": 7061244
+  },
+  "source": {
+    "library_file_id": "libfile_34b4b178d3b481919a3ce81b0f63f922",
+    "file_id": "file_000000008dc881f591418e59756b4fe0",
+    "name": "AnswerAct_Editable_Source_V4.zip",
+    "sha256": "72969eeff1bb3e6aeeab70c2e86c02d01e879fb866971a21ce4e0a722e4db15b",
+    "bytes": 6651011
+  },
+  "local_metadata_applied": true,
+  "time_utc": "2026-10-27T10:25:41Z",
+  "user_acceptance": "pending"
+}

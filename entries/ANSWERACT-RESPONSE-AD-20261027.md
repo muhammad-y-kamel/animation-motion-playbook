@@ -71,3 +71,21 @@ The approved composite narration for V2 is SHA256 `02812291d1b7c349fbf92e2515bf5
 Library saves succeeded: video `libfile_dbcc993dd6f88191b719f3280ca346a0`; editable ZIP `libfile_36d5a317bf488191a208948701ea9459`, ZIP SHA256 `3cd9f43bf0b8c037eeb373d985a63e8d5ede0d90b2c531102be26dc455a4d7dc`. Coordinator attached both at07:35UTC. **No publication performed; audio approval is not video approval.**
 
 [Final technical evidence](../evidence/answeract-response-ad-20261027/v2-final-verification.json), [independent encoded review](../evidence/answeract-response-ad-20261027/v2-final-native-review.md), [reading-time failure and retest](../evidence/answeract-response-ad-20261027/v2-encoded-proof-review.md), [expanded chronological error log](../evidence/answeract-response-ad-20261027/error-log-v2.md), [delivery receipts](../evidence/answeract-response-ad-20261027/v2-delivery-receipts.json). Earlier snapshots remain intact.
+
+## V3 user layout repairs and V4 opening repairs — delivered 2026-10-27
+
+User approval of the visual STYLE did not approve the defects. V2's sampled no-HIGH review missed subsequently reported temporal/layout issues; preserve this limitation.
+
+### V3 failures and tested corrections (delivered09:49)
+Capabilities had upper whitespace/bottom crowding and reply overdraw. A shared connector bus was drawn repeatedly, while endpoints followed the moving orb and overlapped dialogue. Step-four composition was too low; the handoff tip terminated inside the target; the next scene left an empty corridor. Repair redistributes content, draws the bus once, retires connectors before movement, centers assignment, ends arrow before target, and uses the existing CTA heading in the corridor.
+
+The repair introduced a63.85s notification/button overlap. Encoded review caught it; delayed button entry64.24s clears the moving notice. A35.70s orb/faint-heading collision was then found: advance heading retirement, replace native frames1055–1073, and retain the complete base AAC rather than audio from the patch. Independent adjacent boundary review1054–1056/1073–1075 found no sampled jump or heading reappearance. V3 output SHA256 `cd7bf93e7af019ca93747e346fb93873789703b1a964768159a5c6ea88908035`; video `libfile_272b951959948191963ffdbb76511460`, source `libfile_d95200974a1c81919d6adec9433cdc9b`.
+
+### V4 failures, unsuccessful attempt and repair (delivered10:26)
+- User replaces niche sneaker with generic storefront, removes needless tagline and tiny waiting label, separates five-minute caption from arrow. An initial time-label position nearly touched incoming bubble and was adjusted before final rendering.
+- V3 exit condition i<2 omitted the bottom message; separately drawn avatar0 remained orphaned. Grouping all message/avatar/dot elements fixed ownership but **did not fully fix the rendered exit**:600px offscreen travel clipped bubble text before avatars. Actual encoded10.2s revealed this. Final100px translation plus shared fade while groups remain onscreen cleared sampled9.8/10.2s orphaning.
+- Arabic labels were not centered by a universal baseline. Actual Sharp/Noto alpha-ink measurements showed account10px low, activation6.5px low, CTA6px low, platform3–6px low. Apply phrase-specific offsets and inspect ink against current boxes; do not extrapolate to every possible label.
+
+V4 final SHA256 `5465cc695b7da86464d162c92edb8366a7929c58c23383cc2ef9f94003a679d1`; full decode passed, approved AAC payload unchanged from V3, no new TTS or publication. Independent review viewed28 actual encoded samples plus native6.5/10.2/26/27.3/50.5/51.6/65s. No remaining HIGH within requested-fix/sample scope; earlier V3 layout repairs remained visible. **Not continuous playback/listening, every-frame certification or blanket creative approval.** An unfinished user fragment was not interpreted.
+
+V4 saved video `libfile_4871c517ab3c8191802b344d9652ea86`; source `libfile_34b4b178d3b481919a3ce81b0f63f922`. User video acceptance pending. [Expanded error log](../evidence/answeract-response-ad-20261027/error-log-v4.md), [V3 final review](../evidence/answeract-response-ad-20261027/v3-final-review.md), [V4 final review](../evidence/answeract-response-ad-20261027/v4-final-review.md), [V4 receipts](../evidence/answeract-response-ad-20261027/v4-receipts.json).

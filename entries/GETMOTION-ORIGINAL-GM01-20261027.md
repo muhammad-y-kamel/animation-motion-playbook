@@ -122,3 +122,24 @@ Independent diagnostic review was followed by **actual native patch** review at2
 Producer confirms both Library items now version3: video `libfile_0b0f1c6780408191b05c92fdfc2cf286`; source `libfile_c54fe5880cc48191a7efdf3b0940bb71`. Saved replacement does not mean user accepted it.
 
 [Patch final QA](../evidence/getmotion-original-gm01-20261027/r4-final-qa.json), [independent diagnostic and actual-native evidence](../evidence/getmotion-original-gm01-20261027/r4-independent-qa.json). Producer retains repair manifest, merged-frame hash manifest and final encoded contact sheet under `release_20261027_0508/repair_r4/`. No production edits by the documentation compiler.
+
+## 3D semantics rejected; new 2D paperwork replacement delivered — 2026-10-27 10:22 UTC
+
+The user rejected the R4 3D film's relationship to narration despite its mechanical/native QA. **Those passes remain narrow historical evidence, not semantic acceptance.** The user requested AnswerAct's clean 2D visual STYLE, not its business content. An 11-second maintenance proof was then superseded by an explicit choice of commercial paperwork processing and removal of “مثال” captions. Neither preview establishes whole-film acceptance.
+
+Current example: missing attachment → insert into matching slot → review → same completed folder handed to customer → neutral receipt → outside viewer contacts provider. No government seal or guaranteed official approval is implied.
+
+### Actual revision failures and repairs
+- Receipt appeared over a moving folder: delay until folder clears.
+- Outgoing page moved diagonally across the brand; wipe left photo remnants and old conversation ghosted under new questions at36.4s: horizontal page exit and full old-thread removal before incoming questions.
+- Opaque chat fill squared off the rounded shell: match inner26px radius.
+- Fixed-position composer clipped during chat resize: derive its position from current shell bounds.
+- Native26.4s handover badge overlapped document heading: R3 relocates it above recipient.
+These were observed through source/encoded samples, not a blanket all-frame review. Final native26.4/36.4/52.3 witnesses show the targeted fixes.
+
+### Current artifact
+Paperwork2D-R3 MP4 SHA256 `7ca27ba30e8ba412bebeb8591556ad0cac46ecff1133897bca3d3527e6bd5882`;1080×1920,24fps,1284frames,53.50s video/53.52s audio. The20ms audio tail is less than one frame; no audio trimming or listening-certified sync claim. Full decode passed. Original narration SHA256 remains `cb5a1248105cc34f5687dc099fd570b798c746072214ca13aa033b18e3ea114c`.
+
+Root reports delivery10:22: video `libfile_0b0f1c6780408191b05c92fdfc2cf286` v4 and source `libfile_c54fe5880cc48191a7efdf3b0940bb71` v5. **Creative acceptance pending.** Review is27 encoded anchor/transition samples plus extracted native critical frames; actual provider character anchors are not independently listened phoneme timing. No continuous AV or flawless-motion certification.
+
+[Revision log](../evidence/getmotion-original-gm01-20261027/paperwork-revision-log.md) and [final QA/source hashes](../evidence/getmotion-original-gm01-20261027/paperwork-final-qa.json). The QA JSON retains an older pending technical_gate field; its later status/probe records completed native export. Preserve this temporal distinction instead of treating the earlier field as a second result.

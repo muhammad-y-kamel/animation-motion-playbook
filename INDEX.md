@@ -144,3 +144,5 @@ IDs never change or get reused. New occurrence of same mechanism links the origi
 - GM01 R4 cleanup (08:22 UTC): specified checklist/coin-child/background-state/annotation defects repaired in361frames,924nativePNGbytes retained. Full decode and sampled actual-native nonregression pass; Library video/source v3 saved. Tiny grey strip switches remain; user acceptance and full AV review unestablished.
 
 - AnswerAct V2 delivered07:35UTC: native2059frames/30fps, clean full decode and bounded final encoded review. New transition/layer/semantic/reading-time/cursor failures and repairs retained. Approved composite audio preserved; no V2 paid TTS/publication. VIDEO acceptance and continuous AV review remain unestablished.
+
+- Latest27Oct10:26: GM01 3D R4 semantics rejected; user-selected 2D paperwork replacement delivered10:22, acceptance pending. AnswerAct V3 layout and V4 opening/group-exit/Arabic-ink fixes delivered09:49/10:26 with bounded encoded review, acceptance pending. Prior no-HIGH samples are not global approval; see each canonical case.
