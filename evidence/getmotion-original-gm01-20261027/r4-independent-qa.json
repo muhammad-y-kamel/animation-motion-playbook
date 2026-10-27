@@ -1,0 +1,97 @@
+{
+  "scope": "Bounded diagnostic still-image nonregression review. diagnostics2.log confirmed Blender quit before216/242 inspection. No source edits; no full playback/audio claims.",
+  "verdict": "PASS for proceeding with bounded patch batch. Selected diagnostic images fix named issues without a new critical crop/occlusion. Not all-frame or full-film certification.",
+  "source_manifest": "getmotion-directorial-proof/release_20261027_0508/repair_r4/REPAIR_MANIFEST.json",
+  "images": [
+    {
+      "frame": 216,
+      "path": "getmotion-directorial-proof/release_20261027_0508/repair_r4/diagnostics/0216.png",
+      "sha256": "443ed128bc285ae6ac33064ee519a97a9b6604b101209a335c640ea2cdd8021b",
+      "observation": "Checklist/blueprint now spatially separate; no rail-text overlap. Pencil/check visible. No critical crop."
+    },
+    {
+      "frame": 242,
+      "path": "getmotion-directorial-proof/release_20261027_0508/repair_r4/diagnostics/0242.png",
+      "sha256": "ead846814c4c59d0d7ced72ffbfd5a8ffa986f2d0e2f292264930d057e6e785f",
+      "observation": "Assembling room fully inside canvas, approximate right margin50px. Lamp lean and cushion above seat are visible assembly states. Exiting paper behind room does not obstruct room. No new critical collision/crop."
+    },
+    {
+      "frame": 384,
+      "path": "getmotion-directorial-proof/release_20261027_0508/repair_r4/diagnostics/0384.png",
+      "sha256": "6d287382663a07e1a2862e85b9c047ca3864725a90542064c4d09476ae557f92",
+      "observation": "Previously noted dark upper-right marks removed. Room/coin/budget arrangement preserved, no new critical occlusion."
+    },
+    {
+      "frame": 501,
+      "path": "getmotion-directorial-proof/release_20261027_0508/repair_r4/diagnostics/0501.png",
+      "sha256": "b57b15f7a8f8a6992c2b3f8d92beb0594ef4f6984d10100cc7e5eba46ba64609",
+      "observation": "Floorplan annotation nearly fully retracted before boundary; room intact. Actual ease across all intermediate frames not reviewed."
+    },
+    {
+      "frame": 552,
+      "path": "getmotion-directorial-proof/release_20261027_0508/repair_r4/diagnostics/0552.png",
+      "sha256": "e6fa214187afa287bdc84a153974508965972a247611b89d581b229296696ad1",
+      "observation": "Measurement line reduced to short endpoint before boundary; room intact. Actual ease across all intermediate frames not reviewed."
+    }
+  ],
+  "actual_native_review": {
+    "verdict": "PASS bounded requested-fix/nonregression review. Actual selected native files confirm checklist separation, removal of coin sliver/stray dark marks and intermediate green annotation retraction. No new critical crop or occlusion in selected frames. Minor grey construction-strip state switches remain; not a claim of entirely continuous motion.",
+    "scope": "Actual repair_r4/native_frames images, not diagnostic copies. No full AV listening/playback or all-frame certification. Shipped v2/source preservation reported by production parent; reviewer edited no production files.",
+    "images": [
+      {
+        "frame": 216,
+        "path": "getmotion-directorial-proof/release_20261027_0508/repair_r4/native_frames/0216.png",
+        "sha256": "f9c1c77fc2ff606cf6bf617b8b6a82fa22a391a0435480eb7d854d32f49418fa",
+        "observation": "Actual native patch: coin sliver absent at left edge; checklist and blueprint separated; no rail-text overlap."
+      },
+      {
+        "frame": 242,
+        "path": "getmotion-directorial-proof/release_20261027_0508/repair_r4/native_frames/0242.png",
+        "sha256": "5409a83b98249093df3f4c843428d199ae777663ebd373b6eea581c1a40d994b",
+        "observation": "Actual native patch: whole assembling room remains within canvas; no new critical overlap/crop."
+      },
+      {
+        "frame": 384,
+        "path": "getmotion-directorial-proof/release_20261027_0508/repair_r4/native_frames/0384.png",
+        "sha256": "511442a6b8edd8124a1b6666795690ef59c2b67fc52710ef54438edab39f0e73",
+        "observation": "Actual native patch: dark stray upper-right shapes absent; room/coin meaning unchanged."
+      },
+      {
+        "frame": 498,
+        "path": "getmotion-directorial-proof/release_20261027_0508/repair_r4/native_frames/0498.png",
+        "sha256": "3b381152f374ac58b6227726ff536b1c0b1daf2590435c3a00787b9e511acb7f",
+        "observation": "Actual native patch: floorplan green lines partly retracted, not fully present until switch."
+      },
+      {
+        "frame": 501,
+        "path": "getmotion-directorial-proof/release_20261027_0508/repair_r4/native_frames/0501.png",
+        "sha256": "7c34a75b68af0742a46e62d6c1521ea75cfea6553cbdac33f7e86bb01d470cbf",
+        "observation": "Actual native patch: green floorplan nearly fully retracted. Thin grey construction strip remains."
+      },
+      {
+        "frame": 502,
+        "path": "getmotion-directorial-proof/release_20261027_0508/repair_r4/native_frames/0502.png",
+        "sha256": "c708e137382d7eef9808a7b4577a8ca61373881446b6efab383dc3e22446b25b",
+        "observation": "Actual native patch: floorplan fully absent after retraction; room unchanged. Thin grey strip switches off; small construction-state change remains."
+      },
+      {
+        "frame": 549,
+        "path": "getmotion-directorial-proof/release_20261027_0508/repair_r4/native_frames/0549.png",
+        "sha256": "c560588f783fc791cf8951457abfaf74fd471d09e6867f17caa87a497a65f95c",
+        "observation": "Actual native patch: measurement rail partially retracted."
+      },
+      {
+        "frame": 552,
+        "path": "getmotion-directorial-proof/release_20261027_0508/repair_r4/native_frames/0552.png",
+        "sha256": "71dc565b2c6fb1bef712ccba220bf94cc76a05a6e8be581c895403a7a553cd80",
+        "observation": "Actual native patch: measurement rail reduced to short endpoint; room intact."
+      },
+      {
+        "frame": 553,
+        "path": "getmotion-directorial-proof/release_20261027_0508/repair_r4/native_frames/0553.png",
+        "sha256": "15d0139e1b81a58f683422d112917d3ca4937aa9580e2f8fbde4335653e941e2",
+        "observation": "Actual native patch: measurement rail fully absent after retraction; thin next-stage construction strip appears. No major scene reset."
+      }
+    ]
+  }
+}

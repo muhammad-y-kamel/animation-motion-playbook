@@ -101,3 +101,24 @@ Independent review examined native frames 216,264,320,384,624,672,1066,1256 and 
 - Working speech cues are not listening-certified. No full native every-frame visual certification, continuous normal/half-speed AV viewing, or actual listening is claimed.
 
 [Final technical report](../evidence/getmotion-original-gm01-20261027/native-final-qa.json), [independent native review](../evidence/getmotion-original-gm01-20261027/native-independent-review.md), [r2](../evidence/getmotion-original-gm01-20261027/native-revision-r2.json), [r3](../evidence/getmotion-original-gm01-20261027/native-revision-r3.json), [resource recovery](../evidence/getmotion-original-gm01-20261027/native-resource-recovery.json). This additive milestone closes rendering/technical validation, not the user's acceptance loop.
+
+## R4 bounded cleanup and saved Library v3 — 2026-10-27 08:22 UTC
+
+This repairs specified residual native issues; it is **not user acceptance or full-film perceptual certification**. Previous Library v2 and all rejection histories remain preserved.
+
+### Causes, trials and observed results
+- Checklist/blueprint rails shared the same visual space around 8.15–10.64s. Repositioning separated them; actual patched native frame 216 confirms no rail/text overlap.
+- Hiding a coin's parent Empty did not hide its mesh children: a sliver remained at the widened-camera edge. Recursively hide descendants instead; actual patched frame 216 shows the sliver absent. Prevention: evaluate descendant render visibility, not only parent state.
+- Collapsed geometry strips and retired “Empty capture corner / Script written” elements leaked into the background. The base-state function re-enabled retired elements during 13.387–25.95s, so hiding before it was ineffective. Reassert the retired-element hide after base-state application. Patched native frame 384 removes the stray dark shapes; do not confuse source intent with final state order.
+- Floorplan/measurement annotations previously switched off at 20.88/23.04. Retraction now begins before those boundaries. Native 498/501/502 and 549/552/553 show intermediate shortening and disappearance with room preserved. **Tiny grey construction-strip state switches still remain**, not a claim of fully continuous motion.
+
+### Repair coverage and exact artifact
+361 frames were re-rendered (196–255 and 322–622 inclusive). The remaining 924 native PNGs are symlinks to preserved original native frames, with hashes in MERGED_FRAME_MANIFEST.json. This proves those source PNG bytes were retained, not that lossy MP4 decoding is pixel-identical between encodes.
+
+Output `GetMotion_Original_Interior_AR_1080x1920_R4.mp4`, SHA256 `4a5ebde5b2fe5b4bc57f1e1ab2b4c03d8f4022b3863e8848c443f2f049e5779d`, 12,449,426 bytes; 1080×1920,24fps,1285frames,53.541667s. Full decode passed. Original voice hash remains `cb5a1248105cc34f5687dc099fd570b798c746072214ca13aa033b18e3ea114c`, AAC duration53.52s.
+
+Independent diagnostic review was followed by **actual native patch** review at216,242,384,498,501,502,549,552,553. No new critical crop/occlusion was found in those samples. This is not all-frame visual inspection, continuous playback or listening.
+
+Producer confirms both Library items now version3: video `libfile_0b0f1c6780408191b05c92fdfc2cf286`; source `libfile_c54fe5880cc48191a7efdf3b0940bb71`. Saved replacement does not mean user accepted it.
+
+[Patch final QA](../evidence/getmotion-original-gm01-20261027/r4-final-qa.json), [independent diagnostic and actual-native evidence](../evidence/getmotion-original-gm01-20261027/r4-independent-qa.json). Producer retains repair manifest, merged-frame hash manifest and final encoded contact sheet under `release_20261027_0508/repair_r4/`. No production edits by the documentation compiler.
