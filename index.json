@@ -536,6 +536,15 @@
       "discovered_by": "agent and reviewer; component attribution in entry",
       "file": "entries/ANSWERACT-RESPONSE-AD-20261027.md",
       "acceptance": "STYLE_APPROVED_V6_VIDEO_FEEDBACK_PENDING"
+    },
+    {
+      "id": "ANSWERACT-REFERENCE-PROTOTYPE-20261027",
+      "title": "Reference evidence boundaries and causal prototype repair",
+      "project": "AnswerAct Facebook-reference adaptation",
+      "category": "reference-evidence/typography/causal-UI/transition",
+      "status": "pre_audio_prototypes_bounded_retests_script_pending",
+      "file": "entries/ANSWERACT-REFERENCE-PROTOTYPE-20261027.md",
+      "discovered_by": "agent, root, independent reviewers; per-component attribution"
     }
   ]
 }

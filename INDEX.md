@@ -150,3 +150,6 @@ IDs never change or get reused. New occurrence of same mechanism links the origi
 - V5 follow-up27Oct10:48: GetMotion paperwork local-owner/layout repairs delivered as video/source v6; AnswerAct requested retained-red-X message state and opening composition delivered10:41. Encoded transition regressions/build failure preserved alongside scoped retests. Both current creative acceptances pending; no full AV certification.
 
 - V6 delivered27Oct12:18/12:23: AnswerAct restores requested hierarchy; all2059 initial frames viewed and487 final repair frames rechecked. GetMotion all1284 initial frames viewed; R2 direct and exact-SVG/decoded-pixel carry scopes recorded separately, false jump diagnosis withdrawn. Both current user acceptances pending; no continuous AV claim.
+
+## AnswerAct reference adaptation — pre-audio checkpoint27Oct13:37
+[ANSWERACT-REFERENCE-PROTOTYPE-20261027](entries/ANSWERACT-REFERENCE-PROTOTYPE-20261027.md): reference ASR/OCR/proxy-review limits, corrected unsupported channel assumptions, five prototype failures and encoded retests. Draft02 review pending, no new TTS/final film. Endpoint still approval did not catch transition collisions.
