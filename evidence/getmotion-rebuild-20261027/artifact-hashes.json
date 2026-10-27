@@ -1,0 +1,56 @@
+{
+  "captured_utc": "2026-10-27T00:26:00Z",
+  "scope": "Provenance of frozen failed source and attributed reports; not fresh visual approval",
+  "artifacts": [
+    {
+      "path": "getmotion-recovery/FRESH-PRODUCTION-HANDOFF.md",
+      "sha256": "25bbc960906277581bf4a5936b35e7d61010734db4fe93c0f08022b9f017aab3",
+      "bytes": 3527
+    },
+    {
+      "path": "getmotion-recovery/rejected-24-manifest.json",
+      "sha256": "a6bf5bd2f0e44604707393fdfe5e827f5d72b011bb6a40ddb9559a9d06dcd3ca",
+      "bytes": 5398
+    },
+    {
+      "path": "getmotion-recovery/trash-outcomes.json",
+      "sha256": "79660ee9e5f693e7af51fb092f6131d749bb9d4f1d2f3ae769a8cf0c7a73ca2d",
+      "bytes": 15723
+    },
+    {
+      "path": "getmotion-fresh/GMX03_AR/review/scene-v1-rejected.cjs",
+      "sha256": "ea94e409684f27882b97325ee9dc820a03eb922d5984b31794cd196eebe70e7b",
+      "bytes": 13197
+    },
+    {
+      "path": "getmotion-fresh/GMX03_AR/review/scene-v2-rejected.cjs",
+      "sha256": "dac3dd51505215541c13f91d541195772eaf9d82ccb0bc7f59cf3d12ee4b0d6c",
+      "bytes": 16930
+    },
+    {
+      "path": "getmotion-fresh/GMX03_AR/review/scene-v3-rejected.cjs",
+      "sha256": "c9ea2a7e02e77715570d10b79cb000ac45afc9841e679f4767dd6ac42ae2641b",
+      "bytes": 17828
+    },
+    {
+      "path": "getmotion-fresh/GMX03_AR/review/INDEPENDENT-SEMANTIC-REVIEW-v1.md",
+      "sha256": "d1604d22ab828cca027a89d55f0b81e7caa53b582dea405959a2800eaa511708",
+      "bytes": 4272
+    },
+    {
+      "path": "getmotion-fresh/GMX03_AR/review/INDEPENDENT-SEMANTIC-REVIEW-v3.md",
+      "sha256": "f1f2156a0c6bacc0600844ccb404af0eb779f38b9181e1d4ec43da766b0d7cad",
+      "bytes": 3421
+    },
+    {
+      "path": "getmotion-fresh/GMX03_AR/README-render.md",
+      "sha256": "98d983938a67ced076c9a07eb28328935d3e22ad4930d51a5b7f9eac015aea06",
+      "bytes": 7116
+    },
+    {
+      "path": "getmotion-fresh/GMX03_AR/audio/VO_APPROVED_UNCHANGED.mp3",
+      "sha256": "cb5a1248105cc34f5687dc099fd570b798c746072214ca13aa033b18e3ea114c",
+      "bytes": 857277
+    }
+  ]
+}

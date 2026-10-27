@@ -114,3 +114,7 @@ IDs never change or get reused. New occurrence of same mechanism links the origi
 
 ## Canva native-portrait motion advertisement — 2026-10-24
 | [CANVA-MOTION-20261024](entries/CANVA-MOTION-20261024.md) | UI fidelity / click QA / brand / pacing | Learn EG five-tools | User approved animated-UI proof; full126s repair delivered with32 interactions, step map, preserved voice and bounded encoded QA; earlier rejected revisions retained | repaired_delivered_bounded_qa; full feedback unobserved |
+
+
+## GetMotion fresh rebuild — 2026-10-27
+| [GETMOTION-REALITYUNZIP-20261027](entries/GETMOTION-REALITYUNZIP-20261027.md) | semantics / geometry / rendering / review | GMX03_AR | Old 24 outputs rejected; v1–v3 fail source-specific spatial choreography; bounded native SVG fixtures and unavailable AV review recorded | OPEN; v4 tests pending |

@@ -501,6 +501,17 @@
       "discovered_by": "user rejection plus autonomous target, ratio, sprite and causal-action review",
       "file": "entries/CANVA-MOTION-20261024.md",
       "acceptance": "STYLE_PROOF_APPROVED_FULL_DELIVERED_FEEDBACK_UNOBSERVED"
+    },
+    {
+      "id": "GETMOTION-REALITYUNZIP-20261027",
+      "title": "User rejection and failed RealityUnzip rebuilds; technical checks are not semantic approval",
+      "category": "semantic-continuity/rendering/review",
+      "project": "GetMotion",
+      "episode": "GMX03_AR",
+      "status": "open_rebuild_failed_review",
+      "discovered_by": "user, reviewer, agent; component attribution in entry",
+      "file": "entries/GETMOTION-REALITYUNZIP-20261027.md",
+      "acceptance": "NOT_PASSED_V3_V4_PENDING"
     }
   ]
 }
