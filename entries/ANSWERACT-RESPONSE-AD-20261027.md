@@ -44,3 +44,30 @@ The interface is illustrative. Source/frame QA does not certify actual deployed 
 ## Update history
 
 - 2026-10-27 03:19 UTC: documented six observed mechanisms and bounded source fixes. Full encode is underway; encoded review and Library delivery pending. No global PASS or user acceptance.
+
+## V2 delivered with bounded encoded QA — 2026-10-27 07:35 UTC
+
+**Production/delivery milestone complete; final VIDEO user acceptance pending.** The first candidate was held after root's sampled visual review found a static phone panel, weak motion and long tiny-form sections. Its technical/source clearance was not creative acceptance. V2 is a new revision, not retroactive approval.
+
+### Additional observed failures and repairs
+1. Same-space fades again stacked readable text at 39.95/48.65/53.5/57.63/60.52. Sequential outgoing-text fade before incoming text repairs the sampled overlaps.
+2. Knowledge cards crossed the heading during feed. Shrinking into small beads and retiring the heading before transit avoids readable text wiping over readable text.
+3. Assigned assistant orb was hidden by an opaque page drawn later, despite correct coordinates. Redrawing above page background and moving its check beside the face restores visibility.
+4. Generic results omitted public comment, explicit order intent and timely complaint. The revision shows linked question/reply, message, details request, complaint and distinct owner exception/order alerts; identity/product details remain consistent.
+5. Enlarged scenes narrowed safe margins. Endpoint geometry and anchors moved inward; routes avoid headings; disclaimer enlarged.
+6. **Encoded timing defect:** clean stills concealed replies visible for only 0.2–0.3s. Completed exchanges now accumulate in four lanes. Encoded-excerpt retest found approximate reply holds of 3.47/2.79/2.08/1.39s for price/delivery/order/complaint. This is an excerpt-specific readability result, not a universal duration rule.
+7. Separate cursor windows could overlap or jump between controls. One pointer now travels before each click. A 50ms timeline scan found at most one pointer path; sampled final images separately confirm targets. Numeric object count alone cannot certify interaction readability.
+
+### Audio scope
+The approved composite narration for V2 is SHA256 `02812291d1b7c349fbf92e2515bf5014219d0ea0eb92bb57c7ebb510658bcdf3`. It supersedes the earlier original narration for this revised production, following separate user audio feedback/approval; do not claim it is the same original take. No paid TTS occurred during V2. Production reports PCM preservation outside added cue windows; this is numerical integrity, not listening. Earlier pronunciation trials and user-feedback histories remain separate local evidence; this update does not assert all pronunciation was independently audited.
+
+### Exact final artifact and evidence
+- Video `AnswerAct_Response_V2.mp4`, SHA256 `0387f20d315c795e48a085d022d635de5a145fd047006efdc9797bcebf8e87d0`,7,406,946bytes.
+- 1080×1920,30fps,2059frames,68.633333s; AAC68.623991s. Full FFmpeg decode returned no errors. Encoded peak−1.9dBFS; this is not a perceptual audio-quality certificate.
+- Frozen film source `8699715296c525f66a69c3572159eb5f4fa2bf733216e5f6aadfafd8d6e1963b`; mix `74f462c00d1470dd2ca673befee9f509f76d5c617ce230aeba6b6ebbe681d1cb`.
+- Independent review inspected the actual 26-frame encoded contact sheet and native frames37.8,50.6,55.8,60.52,65s. No outstanding HIGH visual issue in that focused scope: cursor target, routing, assistant layer, four result lanes and separated CTA remained readable. Root also reviewed the final sheet.
+- No continuous playback/listening, full native every-frame inspection, naturalness or perceptual-sync certification. Earlier user-provided 80% assertion remains unverified; visual QA does not substantiate it.
+
+Library saves succeeded: video `libfile_dbcc993dd6f88191b719f3280ca346a0`; editable ZIP `libfile_36d5a317bf488191a208948701ea9459`, ZIP SHA256 `3cd9f43bf0b8c037eeb373d985a63e8d5ede0d90b2c531102be26dc455a4d7dc`. Coordinator attached both at07:35UTC. **No publication performed; audio approval is not video approval.**
+
+[Final technical evidence](../evidence/answeract-response-ad-20261027/v2-final-verification.json), [independent encoded review](../evidence/answeract-response-ad-20261027/v2-final-native-review.md), [reading-time failure and retest](../evidence/answeract-response-ad-20261027/v2-encoded-proof-review.md), [expanded chronological error log](../evidence/answeract-response-ad-20261027/error-log-v2.md), [delivery receipts](../evidence/answeract-response-ad-20261027/v2-delivery-receipts.json). Earlier snapshots remain intact.

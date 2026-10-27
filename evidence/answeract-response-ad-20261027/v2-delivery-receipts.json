@@ -1,0 +1,25 @@
+{
+  "deliverables": [
+    {
+      "filename": "AnswerAct_Response_V2.mp4",
+      "library_file_id": "libfile_dbcc993dd6f88191b719f3280ca346a0",
+      "file_id": "file_00000000bb6c820caa586e692d047594",
+      "bytes": 7406946,
+      "sha256": "0387f20d315c795e48a085d022d635de5a145fd047006efdc9797bcebf8e87d0",
+      "status": "succeeded",
+      "local_metadata_applied": true
+    },
+    {
+      "filename": "AnswerAct_Editable_Source_V2.zip",
+      "library_file_id": "libfile_36d5a317bf488191a208948701ea9459",
+      "file_id": "file_00000000385881f6ac236246afc3a63f",
+      "bytes": 6647489,
+      "sha256": "3cd9f43bf0b8c037eeb373d985a63e8d5ede0d90b2c531102be26dc455a4d7dc",
+      "status": "succeeded",
+      "local_metadata_applied": true
+    }
+  ],
+  "publication": "not attempted",
+  "paid_tts_during_v2": false,
+  "acceptance": "approved audio only; final video user feedback pending"
+}

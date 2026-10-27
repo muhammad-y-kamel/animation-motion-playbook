@@ -532,9 +532,10 @@
       "project": "AnswerAct",
       "episode": "response advertisement",
       "category": "UI-motion/semantics/composition/audio-processing",
-      "status": "source_sampled_clearance_encoded_qa_pending",
+      "status": "v2_delivered_bounded_encoded_qa",
       "discovered_by": "agent and reviewer; component attribution in entry",
-      "file": "entries/ANSWERACT-RESPONSE-AD-20261027.md"
+      "file": "entries/ANSWERACT-RESPONSE-AD-20261027.md",
+      "acceptance": "AUDIO_APPROVED_VIDEO_USER_FEEDBACK_PENDING"
     }
   ]
 }
