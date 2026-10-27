@@ -130,3 +130,7 @@ IDs never change or get reused. New occurrence of same mechanism links the origi
 
 ## Original GetMotion GM01 — separate from paused RealityUnzip
 [GETMOTION-ORIGINAL-GM01-20261027](entries/GETMOTION-ORIGINAL-GM01-20261027.md): rejected unrelated service analogy / disconnected scenes; continuous project-lineage repair addresses sampled visibility, checklist/action timing, missing late contact and CTA issues. **OPEN; final encoded validation and acceptance not established.**
+
+
+## AnswerAct response ad — 2026-10-27
+[ANSWERACT-RESPONSE-AD-20261027](entries/ANSWERACT-RESPONSE-AD-20261027.md): six observed layout/action/audio-processing failures with preserved rejected evidence; source-sampled repairs cleared for encoding. Final encoded QA pending; numerical audio is not listening and user-provided 80% copy remains unverified.

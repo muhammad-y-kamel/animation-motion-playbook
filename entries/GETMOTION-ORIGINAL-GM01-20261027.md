@@ -54,3 +54,6 @@ These are attributed report snapshots, not a fresh independent frame inspection 
 
 ### Producer completion checkpoint — 03:10 UTC
 Producer reports full local encode complete: `GetMotion_Continuous_AR_Final.mp4`, SHA256 `8c275aea8c90afde4bae71ccbf9652f8ce0a263904d8f01622767b8255da23da`; 1080×1920, 30fps, 1606 frames, 53.533333s; audio 53.52s from unchanged approved source; full decode passed. Renderer SHA256 `7d861613713cfb057201e39d8b4baf59e9d3cb9a28a55f5ec946446945634dc6`. This updates the preceding production-pending checkpoint, not creative acceptance. Library replacement remains pending and no continuous AV listening occurred. Producer also reports smooth clock and growing checklist-row changes; these are not independently closed here. Rejected source `film_clean_explainer.cjs` and abandoned local `cinematic.cjs` remain separate from current `continuous.cjs`.
+
+### Library delivery confirmation — 2026-10-27 03:11 UTC
+Producer confirmed replacements: video `libfile_0b0f1c6780408191b05c92fdfc2cf286` version 1; editable source `libfile_c54fe5880cc48191a7efdf3b0940bb71` version 1; proof `libfile_41d1c23ded908191ac817f154579b903` version 2. Coordinator attached the deliverables at 03:11 UTC. Frozen hashes above remain unchanged. This closes the earlier save-pending checkpoint only; it does not establish user approval or continuous AV review.
