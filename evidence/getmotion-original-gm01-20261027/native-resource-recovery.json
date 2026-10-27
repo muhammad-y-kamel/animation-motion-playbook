@@ -1,0 +1,14 @@
+{
+  "reason": "Repeated simultaneous exit137 with two render processes; exact cause unproven, no kernel OOM events available in environment",
+  "action": "One Blender process,8 threads; retain40-frame batch recycle",
+  "preserved_frames": 477,
+  "requeued_incomplete": [
+    411,
+    412,
+    425,
+    426,
+    481,
+    482
+  ],
+  "visual_source": "unchanged r3"
+}

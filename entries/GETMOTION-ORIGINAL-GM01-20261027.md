@@ -74,3 +74,30 @@ The prior bounded fixes addressed specific hidden clocks, source-sheet placement
 Build a fresh causal **scene transformation**, not the same central tile masking different slide contents. For each spoken interval, identify the meaningful subject/action/result, use the whole composition purposefully, and trace how the actual outgoing scene creates the next. Remove irrelevant permanent headings and test real text/object alignment, occlusion and coin readability at mobile size and native details.
 
 Coordinator requires internal root visual review of new evidence before another full delivery. This is an internal quality gate, not a claim that a new revision is complete or approved. No upcoming repair, final encode or user acceptance is established here. Rejected renders and all prior attempts remain preserved.
+
+## Native interior-example release milestone — 2026-10-27 07:27 UTC
+
+**Latest state: native export completed and technically validated with bounded selected-frame review; user acceptance unestablished.** Previous delivered GM01 v1 remains rejected. This checkpoint is a new replacement, not retroactive approval of the persistent-tile or rocket-world attempts.
+
+### Preserved new failed trials
+The initial Blender proof improved coin material but still panned from a coin sheet to a different checklist sheet. Marks were below the arched paper and the alarm was weakly visible. A same-sheet release/flip was attempted next; this did not by itself approve a complete film. A later rocket-world middle/end was rejected internally: huge blank paper and tiny rocket did not explain the service benefit, 18–28s repeated an empty board, later UI cards repeated the rejected pattern, contrast was pale and the rocket left bounds. The producer preserved that attempt under `getmotion-directorial-proof/rejected-rocket-world/`; main source hash `940725e359c83b4fcccb0ff86558be7733d689cc0817db66327ce161b131912d`. These are producer/coordinator-attributed findings, not new independent viewing by this compiler.
+
+### Current repair and native QA
+The replacement uses an interior-design service example rather than a persistent generic tile. Native source freeze is recorded in `release_20261027_0508/SOURCE_MANIFEST.json`, initial manifest SHA256 `4517b83d00929c414906d85b317c6a137f379bc7527ba94390dccddeb7bf4cca`. Subsequent revisions are explicitly tracked:
+- **r2 continuity:** preserve furnished blue proposal beside bare photo, retain blue at budget, preserve shell through measurement/rebuild, ease camera before boundary. One early frame (192, 8s) had exact old/new RGB equality; this is not all-frame equivalence.
+- **r3 overlay entry/exit:** native boundary review found the full-size photo popping at 316→317. Graduated entry/exit and budget/example overlay changes followed. Current native 317/320/322 show gradual entry with room preserved.
+- Mixed revision counts are documented, not hidden: 210 original-freeze frames, 155 r2 frames and 920 r3 frames. Source manifests/completion records distinguish preserved unaffected frames from re-rendered affected frames.
+- Two concurrent Blender processes repeatedly exited 137. **OOM is not proven**; no kernel OOM evidence was available. One eight-thread process with 40-frame recycling completed without changing r3 visual quality. Incomplete frames were requeued; successful frames retained.
+
+Independent review examined native frames 216,264,320,384,624,672,1066,1256 and boundary samples 316/317,322,366/367,501/502,552/553. No critical crop, occlusion or missing price/CTA was found **within that scope**. Review used completed native PNGs and source-revision records, not continuous AV playback.
+
+**Known remaining issues, not claimed fixed:** around 9s blueprint rails partly cross checklist text; dark secondary background lines remain around 15–16s; small annotations exit abruptly at 20.88/23.04. These are distinct from the repaired full-scene resets and full-size photo pop.
+
+### Completed artifact and delivery milestone
+- MP4: `GetMotion_Original_Interior_AR_1080x1920.mp4`, SHA256 `9b2a3e87e0f43f048dabb557d4c37cff12e749c1e4a93daa4b676dcba9a7184f`, 12,543,344 bytes.
+- 1285 validated native 1080×1920 frames, **24 fps**, 53.541667 seconds. This is the independent original-showreel track, not the paused RealityUnzip 60fps prompt queue.
+- Original 53.52s narration SHA256 `cb5a1248105cc34f5687dc099fd570b798c746072214ca13aa033b18e3ea114c` unchanged; final AAC duration 53.520000s. Full FFmpeg video/audio decode passed.
+- Producer reports saved Library replacement: video `libfile_0b0f1c6780408191b05c92fdfc2cf286` v2; source `libfile_c54fe5880cc48191a7efdf3b0940bb71` v2. Save milestone does not establish user acceptance.
+- Working speech cues are not listening-certified. No full native every-frame visual certification, continuous normal/half-speed AV viewing, or actual listening is claimed.
+
+[Final technical report](../evidence/getmotion-original-gm01-20261027/native-final-qa.json), [independent native review](../evidence/getmotion-original-gm01-20261027/native-independent-review.md), [r2](../evidence/getmotion-original-gm01-20261027/native-revision-r2.json), [r3](../evidence/getmotion-original-gm01-20261027/native-revision-r3.json), [resource recovery](../evidence/getmotion-original-gm01-20261027/native-resource-recovery.json). This additive milestone closes rendering/technical validation, not the user's acceptance loop.

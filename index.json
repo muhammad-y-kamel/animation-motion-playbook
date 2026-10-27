@@ -520,10 +520,10 @@
       "project": "GetMotion original",
       "episode": "GM01",
       "category": "semantics/continuity/composition/action",
-      "status": "user_rejected_open_perceptual_semantic_failure",
+      "status": "native_replacement_completed_bounded_qa_acceptance_pending",
       "discovered_by": "user, reviewer, agent; attributed per component",
       "file": "entries/GETMOTION-ORIGINAL-GM01-20261027.md",
-      "acceptance": "CONTINUOUS_V1_REJECTED_PERSISTENT_TILE_NOT_SCENE_CONTINUITY",
+      "acceptance": "PRIOR_V1_REJECTED_NATIVE_V2_USER_ACCEPTANCE_UNESTABLISHED",
       "latest_user_feedback": "Sentinel_75a7a05032888191b6ce0da0e48fcc55"
     },
     {

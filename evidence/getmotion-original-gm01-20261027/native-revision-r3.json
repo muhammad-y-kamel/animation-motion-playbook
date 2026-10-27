@@ -1,0 +1,28 @@
+{
+  "revision": "r3-overlay-entry-exit",
+  "reason": "Independent native boundary review found full-size photo entry pop. Audit also corrects photo exit, budget envelope entry and example-label entry/exit.",
+  "base_mid_sha256": "d46c24840d92dbbca4e8fcc2591ba502943de6e44c3f505081b7f5d522b15efd",
+  "r3_mid_sha256": "24faafe36bdd098d584ddeb5caedf400643186685f1c4ec49fd3f1833264c509",
+  "affected_frame_ranges_inclusive": [
+    [
+      317,
+      322
+    ],
+    [
+      360,
+      372
+    ],
+    [
+      417,
+      422
+    ],
+    [
+      495,
+      501
+    ]
+  ],
+  "method": "Both workers exited137 during16s region. Preserved valid unaffected frames; archived affected completed r2 frames; restarted bounded40-frame processes with r3 source. Future records explicitly r3.",
+  "status": "repair and full export running",
+  "new_worker_batch_limit": 40,
+  "new_worker_sha256": "962c4b57f475aff088acc08950095f8b90fc23a450a9793bae7157738cb3dd5f"
+}

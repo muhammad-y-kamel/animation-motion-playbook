@@ -138,3 +138,5 @@ IDs never change or get reused. New occurrence of same mechanism links the origi
 
 ## CURRENT original GetMotion GM01 status — 2026-10-27 03:23 UTC
 **Delivered continuous v1 USER REJECTED / OPEN.** Persistent central tile still reads as slides, covers content and retains irrelevant headings; misalignment/motion placement and unclear coin drawings reported. Prior narrow source/contact QA did not establish functional/perceptual success. Fresh causal scene transformation and internal root visual review are required, not yet passed. See [GM01 case](entries/GETMOTION-ORIGINAL-GM01-20261027.md).
+
+- GM01 native interior replacement (07:27 UTC): 1285 native frames/24fps completed and full video/audio decode passed; selected-native review found no critical blocker in its scope. Saved video/source v2. Earlier v1 stays rejected; current user acceptance and continuous AV review unestablished, minor overlaps/annotation exits remain documented.
