@@ -64,3 +64,35 @@ See [ANIM-0013](ANIM-0013-margin-review-invalidation.md) for invalidating earlie
 - 2026-10-27: Added user rejection, fresh v1/v2 failure history, independent v3 NOT PASSED findings, bounded native-renderer tests and unresolved AV gates. No production source edited and no new paid generation performed by this documentation update.
 
 - Producer follow-up at 00:26 UTC: v1 XML duplicate font-family was repaired in a separate snapshot; v2 had outgoing-scene ghosting through transparent incoming content. v4 source now attempts real plane crossing, aligned marker endpoints, opaque incoming clearing, exact logo-contour reveal and persistent artifact boundary. **All v4 semantic tests are pending; no full video exists yet.** These are attempted changes, not validated fixes.
+
+## Follow-up — v5/v6 trials and first v7 encoded review candidate (2026-10-27, 01:12 UTC)
+
+This follow-up supersedes the old “no full video yet” checkpoint only for **GMX03_AR v7**. It does not close the original creative rejection or approve the batch. Upload/delivery is not established by these local reports.
+
+### Preserved intermediate failures
+- v5 review found incoming hero scale applied to outgoing geometry: a 1.3→1.0 change shrinks the departing film before its wipe. The center-to-outline fan mask left remnants that disappeared at completion. The producer stopped the full render around frame 1141; it was not a completed export.
+- v6 attempted separate outgoing scale and paired radial inner/outer masks, nonnegative inner radius and full coverage before removal. Native beat inspection remained bounded; repeated icon/wipe construction and holds remained creatively weak. v1–v6 are not approved deliverables.
+- v7 was a same-video architectural rebuild using persistent projected world stations, paired split sheets, near-plane clipping, a join-driven slider and supplied logo contour. These descriptions do not themselves establish full semantic compliance.
+
+### Actual v7 artifact and technical evidence
+- File: `GMX03_AR_RealityUnzip_REVIEW.mp4`; SHA256 `3cbc75544a217061f9e21eb2c021c147b2dbe4b0a44c23961b41db470d006af1`; 26,440,622 bytes.
+- Frozen scene SHA256: `2b6919322e9bd5e38b96837b50b9bccb8ad80393fe523038ffcc9ae9ce48ec0a`.
+- 1080×1920, H.264, 60 fps, 3212 frames, 53.533333 seconds. Full decode passed. Render report records four distinct subframe times for every output frame.
+- Original source narration identity/hash and decoded source PCM were preserved; source PCM SHA256 `c1b953e5b46c52c285cd54a28984c439453485ab980ced9cfa31e009f60eb4d2`. This is source/timeline integrity, not bit-identical AAC or proof of pronunciation/listening quality.
+- Producer reports editable package SHA256 `aaf6ef1ae335cdefc4ad9ba08088ec59297d0b1211e6302bc79dd554ab9eb176`; this entry does not independently certify archive reproduction or upload.
+
+### Independent encoded review: 16 native frames, not 3212
+The reviewer inspected frames 0, 15, 30, 60, 176, 475, 2610, 2700, 2847, 3012, 3013, 3014, 3024, 3048, 3072 and 3211. The specific final-world reset and heading/seam overlap repairs survived these encoded samples. The opening slider, split edges, perspective reveal, settled price/delivery copy, logo/CTA and lower-left code were recognizable. Earlier mechanical rechecks addressed floor overdraw and join/sheet ownership within their stated sample scope.
+
+**Remaining findings, discovered by reviewer:**
+1. Frames 176 and 475 blend old/new headings and scene states, visibly doubling Arabic text. The producer attributes this to shutter accumulation across discontinuous cue changes; causality is an attributed hypothesis until a dedicated test. Repair should use continuous geometry/typography ownership across all four subframe times, then retest native encoded boundary frames.
+2. Fast shapes show discrete four-sample ghosting (opening frame 15 and finale slider). Required sample count does not guarantee attractive blur. Assess the shutter trajectory and actual playback; do not silently reduce mandated samples.
+3. Around 43.5–45 seconds the large blank price sheet hides smaller objects. This is weak composition, not a decode error. Improve semantic content/ownership and reserved layout, then retest the whole affected interval.
+4. Literal teeth-to-useful-object identity and complete source-specific causal choreography remain unproven.
+
+**Decision: review candidate with bounded technical/visual evidence. Not global semantic PASS, not fully approved final.** No normal-speed or half-speed AV playback, actual listening or every-frame native visual certification occurred. Do not claim all 40 outputs complete. The remaining 39 were not started in this checkpoint.
+
+Supporting snapshots: [technical QA](../evidence/getmotion-rebuild-20261027/v7-technical-qa.json), [independent encoded review](../evidence/getmotion-rebuild-20261027/v7-independent-encoded-review.md), [pre-export scope](../evidence/getmotion-rebuild-20261027/v7-pre-export-review.md), [v5](../evidence/getmotion-rebuild-20261027/independent-v5.md), [v6](../evidence/getmotion-rebuild-20261027/independent-v6.md). Source reports are copied as attributed evidence, not re-performed AV review by the documentation compiler.
+
+### Delivery status update — 01:12 UTC, reported by coordinator
+The first **review candidate**, not a globally approved final, was delivered as Library MP4 `libfile_51e01b6d0ba08191a3cae45c7ba7f98f` and editable-source item `libfile_5b8cf30d45f081919da5af0d81e1c347`. This updates the earlier local-only delivery checkpoint, not artistic acceptance. Producer contact-sheet coverage included 62 extracted samples; independent native inspection remains the 16 frames listed above. The coordinator plans to address known cue-boundary text blending in the next English version; that is planned work, not a verified repair.
