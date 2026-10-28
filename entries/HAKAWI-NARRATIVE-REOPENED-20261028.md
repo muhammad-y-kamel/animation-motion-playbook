@@ -222,3 +222,14 @@ All-frame **proxy coverage** and selected native samples were previously recorde
 Inspect native full-character/head context and contact close-ups at neutral, carry, reach, endpoint, recovery and facing changes. Verify natural hand proportions, cuff continuity, thumb chirality, visible opposing grip, envelope weight/support and no contact drift. Inspect complete walk cycles with body weight transfer and planted feet, then every affected encoded frame and scene seam. Reassess P05 carry/exit, family, dream and other shared-rig uses. Distinguish proxy review, native samples, all-native review, normal-speed playback and direct listening; do not claim a gate not performed.
 
 Evidence: `hakawi_repair/prototype/p05-hand-redesign/PROPOSAL.md`, `LANDMARKS_AND_INVARIANTS.json`, and `hakawi_repair/prototype/ANATOMY_GAIT_ACCEPTANCE_FREEZE.json`. The freeze's early “screenshot pending” note is historical; the screenshot has now been inspected. Wrist-based hand and whole-body proofs are underway, with no validated solution asserted here. Preserve rejected sources and engineering artifacts; scripts/audio remain unchanged.
+
+
+### User clarification: the other/free arm is rigid, not merely an incorrect envelope grip
+
+User message `Sentinel_5a85f41c63a48191a348dde137bf4339`: “يبني الايد التانية معمولة كأنها مربوطة ويابسة وثابتة انت مش عارف تشوف؟”
+
+The user explicitly identifies the **other/free arm** as appearing tied, stiff and motionless. The preceding diagnosis over-focused on the envelope-holding hand. Preserve this distinction: fixing grip/contact does not resolve free-arm acting, and replacing a claw with a static “relaxed” hand would not answer the complaint.
+
+**Mandatory regression — still pending:** inspect the complete free shoulder→elbow→wrist→hand chain through action release, natural recovery/settle, idle weight adjustment and motivated gait counter-motion. The shoulder and upper arm must participate coherently; a wrist-only wobble, permanently fixed elbow, rigid arm attached to a moving torso or repeated decorative swing is not an acceptable substitute. Motion should follow the character's intention, balance and current prop duties rather than run continuously without cause. Preserve limb chirality, stable proportions and correct torso occlusion throughout.
+
+Review both arms together in full-body native context and encoded temporal sequences, including the transition from cash interaction to walking. Record grip, free-arm acting and whole-body gait as separate acceptance items. No new proof or fix is established by this clarification; affected rig acceptance remains frozen.
