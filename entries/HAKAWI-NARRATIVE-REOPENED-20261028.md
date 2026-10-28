@@ -194,3 +194,31 @@ The producer replaced character-only giant-head inserts with one world-camera tr
 
 ### Required semantic gate
 For each clause, identify an observable change in intention, relationship, object state or consequence. Then verify it in the edited image. More cuts, a moving arm, caption changes and clean anatomy do not by themselves satisfy rich storytelling. Quiet acting can be appropriate, but must communicate the specified emotional action rather than an unchanged tableau. Record separate geometry, semantic, timing and performance dispositions. Current scripts/audio stay frozen; no replacement has been published by this documentation work.
+
+
+## 2026-10-28 — User rejects P05 hand anatomy and gait; prior clearance superseded
+
+**Current status: USER REJECTED / ACCEPTANCE FROZEN for affected shared rigs.** This supersedes any earlier interpretation of P05 V4 or bounded gait reviews as anatomy acceptance. It does not erase their coverage receipts. No replacement solution is proved or release approved.
+
+User evidence: message `Sentinel_cd5365129fb08191a8029a9a7dae17f9`: “انت ازاي مش شايف الاعاقة الاي في ايديها وفي طرؤقة مشيهم”. Screenshot `user-feedback/128821.jpg` was visually inspected; production identifies it with delivered P05 V4 frame 2053 (video SHA `54f63f82c838dc3a8e2559bbc1fe8cd87eb2ab08b17b43846fd46d766d090360`). It visibly shows an oversized spread/claw-like hand above an unsupported envelope, not an opposing-finger grip. This is a blocking anatomy/contact error, not a minor seam.
+
+### Observed defects and producer source diagnosis
+- Envelope ownership was asserted without visible support: `p05-scene.cjs` positions it at `h + [15,75]`, width 144, rather than a registered grip. An ownership label or constant offset is not a contact test.
+- The old near arm uses shoulder `[953,200]`, elbow `[1009,337]`, configured wrist `[1145,320]`, and fingertip target `[1278,300]`. Elbow-to-tip is approximately 271.53 px versus elbow-to-wrist 137.06 px. Treating elbow→tip as the distal bone includes the hand and drives its scale/orientation from reach. These are exact configured coordinates, **not newly validated anatomical landmarks**.
+- The source atlas contains relaxed/reaching hands, not an authored envelope pinch. Keeping the atlas's malformed proportions rigid would still not make the hand correct.
+- Native follow-up shows a truncated far sleeve emerging in front of the chest. Producer identifies a full chain drawn behind the body and source crop `[880,560,190,320]` redrawn in front; the crop begins within the upper arm. Arbitrary image rows are not anatomical occlusion boundaries.
+- Gait remains rejected: rigid torso with shearing/compressed leg artwork, and screen-depth displacement used as foot lift, can look like a crouch/shuffle rather than a supported walk. The earlier bounded candidate's improved foot alternation does not clear full-body mechanics or all affected actors/scenes. Whole-body redesign is pending.
+
+### Failed acceptance process
+All-frame **proxy coverage** and selected native samples were previously recorded, but the review missed obvious hand proportions, unsupported contact and gait quality. Coverage is not correctness. Numeric bounds, limb lengths, no-blank checks and prop ownership metadata cannot substitute for seeing believable anatomy, grip and weight transfer. Do not demote a user-identified visible blocker merely because a previous ledger said no blocker.
+
+### Proposed attempts — pending, not proven fixes
+1. Target shoulder→elbow→**wrist** with fixed measured anatomical lengths; keep a separately authored rigid hand with wrist origin, palm axis, chirality and limited natural rotation. Reject or clamp unreachable targets instead of stretching anatomy.
+2. Author a coherent full-arm envelope pinch reference. Register thumb/front fingers, envelope and opposing rear fingers to one contact transform; preserve the accessible envelope mouth and separate cash-extraction hand. No isolated donor hand or individual-hand mirror.
+3. Replace foreground rectangular arm crops with anatomy-registered topology/occlusion. Inspect the entire shoulder-to-wrist chain and torso at every depth crossing; no extra sleeve tube from the chest.
+4. Test a whole-body skeleton with pelvis/torso response, stance support and genuine foot clearance separately from screen-depth projection. Wrist proof does not clear gait; gait proof does not clear grip.
+
+### Required retest before accepting any affected rig
+Inspect native full-character/head context and contact close-ups at neutral, carry, reach, endpoint, recovery and facing changes. Verify natural hand proportions, cuff continuity, thumb chirality, visible opposing grip, envelope weight/support and no contact drift. Inspect complete walk cycles with body weight transfer and planted feet, then every affected encoded frame and scene seam. Reassess P05 carry/exit, family, dream and other shared-rig uses. Distinguish proxy review, native samples, all-native review, normal-speed playback and direct listening; do not claim a gate not performed.
+
+Evidence: `hakawi_repair/prototype/p05-hand-redesign/PROPOSAL.md`, `LANDMARKS_AND_INVARIANTS.json`, and `hakawi_repair/prototype/ANATOMY_GAIT_ACCEPTANCE_FREEZE.json`. The freeze's early “screenshot pending” note is historical; the screenshot has now been inspected. Wrist-based hand and whole-body proofs are underway, with no validated solution asserted here. Preserve rejected sources and engineering artifacts; scripts/audio remain unchanged.
