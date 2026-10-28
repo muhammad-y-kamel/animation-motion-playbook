@@ -145,3 +145,24 @@ An abrupt body-facing change in a wide shot was corrected by a motivated closeup
 Hope v3 SHA-256: `9353ce7f012f332724cf08acad2bb4fdbb99162b7e8324d837b7078c57d5374b`. Consolidated receipts cover all 912 actual decoded frames in disjoint ranges 0–455, 456–647 and 648–911 at 384×216 proxy resolution plus selected native witnesses. Root freshly reviewed v3 frames 456–647 instead of blindly carrying v1 clearance. No blocking issue was observed in the documented scopes. Held facial expressions and three-sample hand motion blur remain stated limitations, not phoneme synchronization.
 
 Evidence: `hakawi_repair/prototype/opening/hope-connected-proof-v3/CONSOLIDATED_REVIEW.json` and `ROOT_456_647.json`; the rejected v1 `ROOT_456_647.json` preserves its explicitly excluded lower-body tail. These are engineering-sequence reviews, **not full-master, native 9:16, every-frame-native, normal-speed playback or direct-listening approval**. Opening caption polish remains pending in the integrated master. No production files were changed by this documentation update.
+
+
+## BLOCKING reopening: native gait mechanics — 28 October 2026 11:12 UTC
+
+**Family v1 is REJECTED for final-master integration**, despite completed proxy-frame review. Artifact SHA-256 `b6a099701a6da782409801f5f934e3bf92a642299fbf51b5e20df1297fb7dd88` was verified locally. Source interval 32.4–46.96 s contains 874 actual frames; all were reviewed as 384×216 proxies, not all at native detail.
+
+Root's native witnesses 191 and 260 show an unmotivated deep crouch/shuffle, compressed thighs and strong knee bend while the torso remains nearly rigid; frame 359 shows normal standing. This is a blocking mechanical defect, **not accepted stylization**. Earlier receipts describing “crouched/stylized passing knees” do not override the native evidence. Consolidated status was reopened in `hakawi_repair/prototype/opening/family-connected-proof-v1/CONSOLIDATED_REVIEW.json`; preserve its earlier receipts as history.
+
+### Diagnosis and pending attempt
+Producer reports swing hip-to-foot distance around 327/334 versus authored leg length 386, with stance around 381. The receding-floor swing target shortens the effective chain by approximately 52–59 pixels; strip deformation compresses trouser volume instead of producing a credible leg articulation and body-weight shift. This is the producer's geometry diagnosis, not an independently established explanation for every gait in the project.
+
+An isolated geometry/hip/sole-mapping candidate is being tested. It is **not yet a proven repair**. Shared P05 carry/exit and dream gait must be reassessed; previous P05 scoped clearance does not certify those shared mechanics after this discovery. Do not claim that all proof defects are resolved.
+
+### Required verification before integration
+- Review native full-body stance, toe-off, mid-swing, passing knees, contact and recovery, including the failure witnesses and all transition neighbors.
+- Preserve limb lengths and believable trouser volume; use articulated knees and coherent pelvis/torso weight shift rather than shortening the swing chain or collapsing texture strips.
+- Compare actual deformed soles and visible floor contact, not only prescribed anchors or numeric zero-drift.
+- Retest every affected gait use, including carried props and doorway depth travel, then review all changed encoded frames and normal-speed motion separately.
+- Record proxy detail and native coverage honestly. Every-frame thumbnails can miss a persistent body-mechanics defect; coverage count alone is not acceptance.
+
+No final-master, native portrait, direct-listening or completed-fix claim is made. Documentation only; production originals and rejected proof remain preserved.
