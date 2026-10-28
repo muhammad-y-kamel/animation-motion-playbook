@@ -1,0 +1,57 @@
+[
+  {
+    "episode": "L01",
+    "archive_sha256": "e25d0f6a39fb23e6aa9c989786a4cfcf0cc77206ab51c391af1e5693795baeeb",
+    "four_rgba_samples_match": true,
+    "original_audio_job_sha_validated": true,
+    "metadata_entrypoint_30frame_encode_mux_decode": "pass",
+    "original_mp4_required_for_rebuild": false,
+    "secret_scan_text_entries": 88,
+    "secret_matches": [],
+    "scope": "Bounded rebuild, not full reencode"
+  },
+  {
+    "episode": "L02",
+    "archive_sha256": "e7ad75ecc649b93b1f365b63fb28b4e9cf65ee23e5c97660f717950bcdd144f6",
+    "four_rgba_samples_match": true,
+    "original_audio_job_sha_validated": true,
+    "metadata_entrypoint_30frame_encode_mux_decode": "pass",
+    "original_mp4_required_for_rebuild": false,
+    "secret_scan_text_entries": 88,
+    "secret_matches": [],
+    "scope": "Bounded rebuild, not full reencode"
+  },
+  {
+    "episode": "L03",
+    "archive_sha256": "2a3a30b11bd11a9a08574c24f4c8d870f2e756301636be53d433c5584d958f0b",
+    "four_rgba_samples_match": true,
+    "original_audio_job_sha_validated": true,
+    "metadata_entrypoint_30frame_encode_mux_decode": "pass",
+    "original_mp4_required_for_rebuild": false,
+    "secret_scan_text_entries": 83,
+    "secret_matches": [],
+    "scope": "Bounded rebuild, not full reencode"
+  },
+  {
+    "episode": "L04",
+    "archive_sha256": "2baac56802e4d20aaed876fa90d6f6d2e12a3dd6894389a0d5af917fe0dfe76d",
+    "four_rgba_samples_match": true,
+    "original_audio_job_sha_validated": true,
+    "metadata_entrypoint_30frame_encode_mux_decode": "pass",
+    "original_mp4_required_for_rebuild": false,
+    "secret_scan_text_entries": 85,
+    "secret_matches": [],
+    "scope": "Bounded rebuild, not full reencode"
+  },
+  {
+    "episode": "L05",
+    "archive_sha256": "bdf351dcaa4341125fd12bcd54bdafe5c2d72a8a083a63d795d103379ecd6ae3",
+    "four_rgba_samples_match": true,
+    "original_audio_job_sha_validated": true,
+    "metadata_entrypoint_30frame_encode_mux_decode": "pass",
+    "original_mp4_required_for_rebuild": false,
+    "secret_scan_text_entries": 92,
+    "secret_matches": [],
+    "scope": "Bounded rebuild, not full reencode"
+  }
+]

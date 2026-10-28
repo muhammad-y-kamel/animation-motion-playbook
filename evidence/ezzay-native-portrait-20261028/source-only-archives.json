@@ -1,0 +1,42 @@
+[
+  {
+    "episode": "L01",
+    "path": "ezzay-portrait/delivery/Ezzay_L01_Source_Only_Editable_QA.zip",
+    "bytes": 13534359,
+    "sha256": "e25d0f6a39fb23e6aa9c989786a4cfcf0cc77206ab51c391af1e5693795baeeb",
+    "entries": 102,
+    "all_entry_hashes_verified": true
+  },
+  {
+    "episode": "L02",
+    "path": "ezzay-portrait/delivery/Ezzay_L02_Source_Only_Editable_QA.zip",
+    "bytes": 11998323,
+    "sha256": "e7ad75ecc649b93b1f365b63fb28b4e9cf65ee23e5c97660f717950bcdd144f6",
+    "entries": 102,
+    "all_entry_hashes_verified": true
+  },
+  {
+    "episode": "L03",
+    "path": "ezzay-portrait/delivery/Ezzay_L03_Source_Only_Editable_QA.zip",
+    "bytes": 13875487,
+    "sha256": "2a3a30b11bd11a9a08574c24f4c8d870f2e756301636be53d433c5584d958f0b",
+    "entries": 97,
+    "all_entry_hashes_verified": true
+  },
+  {
+    "episode": "L04",
+    "path": "ezzay-portrait/delivery/Ezzay_L04_Source_Only_Editable_QA.zip",
+    "bytes": 13248948,
+    "sha256": "2baac56802e4d20aaed876fa90d6f6d2e12a3dd6894389a0d5af917fe0dfe76d",
+    "entries": 99,
+    "all_entry_hashes_verified": true
+  },
+  {
+    "episode": "L05",
+    "path": "ezzay-portrait/delivery/Ezzay_L05_Source_Only_Editable_QA.zip",
+    "bytes": 13594255,
+    "sha256": "bdf351dcaa4341125fd12bcd54bdafe5c2d72a8a083a63d795d103379ecd6ae3",
+    "entries": 106,
+    "all_entry_hashes_verified": true
+  }
+]
