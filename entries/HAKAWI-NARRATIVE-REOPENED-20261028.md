@@ -113,3 +113,22 @@ The ending retains the envelope during the doorway walk. A clean daylight cut at
 - Full E01, native 9:16 outputs, normal-speed audiovisual review and listening remain separate pending gates. The separate 4.96-second opening proof is under review, not covered by P05 clearance.
 
 Evidence read for this update: `hakawi_repair/proof_build_v4/CONSOLIDATED_REVIEW.json`; `reviews/quarter1-frames0-767.json`; `hakawi_repair/prototype/rig/encoded-audit-v4/review.json`; `hakawi_repair/storyboard/v4-review-1536-2303/coverage.json`; `proof_build_v4/root-review/ROOT_2304_3066.json`. These are review receipts, not a claim that the documentation writer personally replayed the movie.
+
+
+## Renderer memory/performance investigation — 28 October 2026 10:14 UTC
+
+**Measured engineering optimization, not creative release clearance.** Deferred source-Canvas work replayed during transformed triangle drawing and produced a very large first-draw allocation. The adopted fix materializes prepared arm textures with `canvas.toBuffer('image/png')` at the end of preparation, after root/edge/clip masks and before the first triangle draw/cache return, while retaining the original Canvas. Do not replace it with an Image or change mesh, dimensions, timing or temporal sample count.
+
+### Attempts and evidence
+1. Immutable Image conversion was rejected under the exact-output gate. Five of six native poses matched; source time 7.75 s differed reproducibly by one blue-channel unit at pixel (1158,482). The texture round trip itself was exact; transformed drawing differed. A 10.82× warm-stage test speedup did not authorize relaxing equality.
+2. An initial alternating sweep contaminated its own baseline by snapshot materialization and was superseded. A two-stage experiment exited 137 without results; it is not successful test evidence.
+3. The retained-Canvas late PNG snapshot matched all 60 native 1920×1080 sweep poses from 4.96–12.4 s and the special 7.75 s pose exactly. Aggregate draw plus native readback improved 9.08× in that test, excluding encoding. Six native witnesses were inspected; this is not an end-to-end frame-rate promise.
+4. Moving the snapshot earlier, to the end of preparation, matched the late-snapshot output exactly at 7, 7.75, 8, 9, 10.8 and 12.4 s: zero changed RGBA channels. First-draw RSS fell from 5,372.8 MB to 150.7 MB; first native draw plus full RGBA readback from 1,845 ms to 136 ms. End observed maximum RSS was 5,408.2 MB late versus 229.6 MB early, including comparison buffers. Subsequent draws were approximately 44–57 ms in both cases.
+5. Active adoption was confirmed by local `prototype/rig/connected-arm.cjs` SHA-256 `10063cb8ed8a200f62f32d3ed9b370f71382784080d74ec3d56c1f08328c5ac3`. The experiment README correctly says it did not edit active files at experiment time; adoption occurred afterward.
+
+Evidence: `hakawi_repair/prototype/review/immutable-arm-cache/README.md`, `WIDE-REVIEW.md`, and `early-materialize/README.md`, with their per-pose RGBA hashes/results. Retain the rejected Image helper and original baseline files.
+
+### Recovery and limits
+An earlier kitchen proof terminated with SIGKILL / exit 137 at frame 318. Its cause is unknown; do not claim proven out-of-memory merely from that exit code. Root reports the retry completed 734 frames with SHA-256 `ee8214a7c24cb06fa4b525b2a27528b850ffcf010ba57e7977cf2486117aea63` and is under QA. Completion is not visual acceptance.
+
+The active design keeps 1080 output, 60 fps and three distinct cut-aware temporal samples. The six-pose early test is one kitchen configuration, not whole-master memory certification. Measure RSS across every new scene/configuration; prepare immutable textures only after masking is complete. If sequential process chunks are needed, retain exact global timestamps, audio continuity and source hashes. No downscaling, dropped samples, direct listening or final release pass is implied.
