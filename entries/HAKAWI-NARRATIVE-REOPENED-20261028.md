@@ -233,3 +233,31 @@ The user explicitly identifies the **other/free arm** as appearing tied, stiff a
 **Mandatory regression — still pending:** inspect the complete free shoulder→elbow→wrist→hand chain through action release, natural recovery/settle, idle weight adjustment and motivated gait counter-motion. The shoulder and upper arm must participate coherently; a wrist-only wobble, permanently fixed elbow, rigid arm attached to a moving torso or repeated decorative swing is not an acceptable substitute. Motion should follow the character's intention, balance and current prop duties rather than run continuously without cause. Preserve limb chirality, stable proportions and correct torso occlusion throughout.
 
 Review both arms together in full-body native context and encoded temporal sequences, including the transition from cash interaction to walking. Record grip, free-arm acting and whole-body gait as separate acceptance items. No new proof or fix is established by this clarification; affected rig acceptance remains frozen.
+
+
+## 2026-10-28 16:11 UTC — Bounded repair experiment stopped; original-style integration unresolved
+
+**PRODUCTION BLOCKED. No acceptable original-style continuous contact/free-arm settle or full walking proof was demonstrated.** The latest experiment is closed as failed, not as a repaired video. Existing scripts, approved audio, source history and failed attempts remain preserved.
+
+### Final quarter-source bind: native failure
+One authorized quarter-turned source redraw and one measured bind were tried. The redraw retained broad identity/outfit but turned less than requested; a plausible isolated illustration did not establish animation feasibility. Actual native `quarter-base-one-shot/room-0.55.png` shows:
+- Original free hand left behind the hip after segmentation, duplicating the new articulated hand.
+- Pale flat sleeve with repeating cloth texture and an abrupt shoulder cap, inconsistent with the original garment/anatomy.
+- Sabah's shoe overlapping Yaser's shoe; coherent foot support and staging were not established.
+
+The inspected image SHA256 is `70457bff3f352fffcd1c6afd296290277e23371a75a34c9f349ea5c0fd15e182`; source redraw SHA256 `81ebba0b1c2a67004ca8d6f666794b68fb66432ec4f1d63a547017050163ee56`; bound build SHA256 `1088fb2c4224b08d22e5fe1fbdcc030ffdc85c004b59ffa6c47055693983d987`. Read `hakawi_repair/prototype/p05-hand-redesign/quarter-base-one-shot/REJECTED_BIND_RECEIPT.json`. No continuous encode was approved from this bind. Earlier source-angle contact also had a dark tube-like sleeve crossing the chest.
+
+### Stopped head routes
+`head-surface/FEASIBILITY_REVIEW.md` records four actual bounded source-view trials: wrong camera projection stretched features; opposite projection produced mirrored/cropped profile; sign correction still clipped the generic profile and sampled garment/background into neck/hair; further range/volume correction left faceting, clipped profile, black lower edge, artificial ponytail and crown seam. Generic ellipsoid projection was rejected, not integrated.
+
+A materially different single landmark-relief trial also failed. `head-relief-test/REVIEW.md` records three native 1080×1080 views: jagged/cut-in facial silhouette, incoherent neck/hair, slab/wedge closure, posterior background contamination and distorted profile on turn. No motion file or production integration. Stop near-identical retries; fitted topology/texture correspondence remains unsolved.
+
+### What narrower mechanics do not prove
+The sealed status retains reusable joint/foot APIs, wrist-target components and a 243-state released-hand/trouser mesh test (no inside vertices; minimum 9.96 mm on its frozen unshifted trajectory). Those narrow numeric observations do **not** establish illustrated anatomy, coherent garment surfaces, original body registration, full motion quality or acceptance. A separately working hand, body or image projection does not prove their joined character. Authored joint-specific 2D artwork or a properly fitted full 3D character are possible future directions, not demonstrated solutions.
+
+### Publication boundary changed without agent mutation
+P05 `ScOY2J3ZpVM` became **Public under its original schedule**, confirmed by root's fresh native Studio UI at 16:01:27 UTC. It is now excluded from replacement, unpublishing and deletion. No platform mutation occurred, and early-private approval was not received. The earlier 15:19 Scheduled receipt is historical, not current state. Sources may be retained for unfinished E01/future unpublished derivatives without modifying this published original.
+
+Authoritative evidence: `hakawi_repair/prototype/blocked-original-style-20261028/STATUS.json`, `EVIDENCE_MANIFEST.json` (23 exact source/evidence bindings, including the final architecture-state receipt), `hakawi_repair/prototype/P05_PUBLIC_EXCLUSION_20261028.json`, and `crosschannel-audit/P05_readonly_recheck_20261028T1601Z.json`.
+
+No acceptable new preview, final master, native portrait, audio-listening clearance or published replacement is claimed. No more generation/render is part of this closure; archive evidence and await a genuinely viable representation decision.
