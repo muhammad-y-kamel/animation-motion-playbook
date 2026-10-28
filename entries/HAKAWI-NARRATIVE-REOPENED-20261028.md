@@ -166,3 +166,14 @@ An isolated geometry/hip/sole-mapping candidate is being tested. It is **not yet
 - Record proxy detail and native coverage honestly. Every-frame thumbnails can miss a persistent body-mechanics defect; coverage count alone is not acceptance.
 
 No final-master, native portrait, direct-listening or completed-fix claim is made. Documentation only; production originals and rejected proof remain preserved.
+
+
+## Bounded gait candidate retest and office source findings — 28 October 2026 11:23 UTC
+
+Candidate `d9e8f31342eaf3b489a8469b10b5e53fc04d2cf7eb949c2bd680070ccc827e92` contains 317 actual encoded 1920×1080/60 fps frames over source 34.24–39.52 s with three distinct temporal samples. Root reviewed frames 0–167 as indexed proxies plus native 48/80/124; the second reviewer viewed all frames 168–316 as proxies plus native 181/198/215/260/298/316.
+
+The exaggerated forced crouch is substantially reduced; alternating foot advance, planted support and finite settling are visible. No blocking defect was found in this bounded interval. Upper-body performance remains restrained, grounding shadows subtle, and no photoreal heel-toe or full biomechanics claim is made. Numeric zero-drift is supporting evidence only.
+
+Read receipts: `hakawi_repair/prototype/review/gait-repair/root-review/ROOT_0_167.json` and `REVIEW-168-316.json`. No normal-speed playback, listening or every-frame native inspection. **Full Family must be regenerated and reviewed; P05 carry/exit, dream and other actors remain regression gates.** The rejected Family v1 is not retroactively approved, and this candidate does not mean gait is solved project-wide.
+
+Root also reports selected **office source-still** defects: character-only enlarged-head closeups against an unchanged wide background; inflated reaching arm and weak handshake grip; arbitrary head crop. A grounded deed group was corrected in v4 stills, but writing gaze and support of the paper on its shelf remain pending. These are source/still observations and proposals, not encoded-final clearance. Require matching camera projection, readable grip/contact, whole intended anatomy and explicit document support in the subsequent encoded sequence. Do not generalize a repaired still to a complete scene.
