@@ -51,3 +51,41 @@ Each uses the project's own style: source-supported prophetic events without hum
 The earlier Moki pause applies to new episodes. Latest explicit instructions authorize sequential repairs of existing scheduled videos after WhatIf, with published videos untouched and no new stories. These documentation commits did not perform that production or alter publication state.
 
 No script, approved audio or historical source baseline changed. No new media generated. These are verified prompt writes, **not verified repairs of any video**. Current user-reported Hakawi defect remains OPEN until actual rebuilt outputs pass the stated tests.
+
+
+## E01 P05 rebuild trials — verified evidence, 28 October 2026 08:37 UTC
+
+**Status remains OPEN / changes requested, not a final release.** The frozen v3 proof SHA-256 is `eb422bb0ae845773646317771d294f8ba03afbb0d959ed3226fa7d3d938c8d69`. No direct listening or normal-speed audiovisual acceptance was performed. A 60 fps container and successful full decode are not a complete release gate.
+
+### Actual defects and attempts
+- Initial cash extraction created disconnected money beside a fixed envelope. The corrected sample introduces a reachable envelope mouth, occluded notes and continuous extraction. V3 frames 86–239 show notes emerge through the opening; this is bounded evidence, not all-episode ownership clearance.
+- Cash intersected the cup; receiver fingers targeted the cup region. Separate the cup from the complete hand/notes swept path and preserve one world-space stack across handoff. Cash mirroring at owner change was treated as a transform-ownership defect; prototype repairs do not certify every final transfer.
+- The departure branch omitted the envelope although metadata still assigned it to Sabah. Require one actual draw/state owner through turn and gait. Root's v3 frames 2304–3066 show the envelope carried to the doorway without observed disappearance.
+- The two old basil pots were placed on an interior floor, contrary to the downstairs balcony clause. The revised root-reviewed ending shows two pots supported on the balcony while Sabah retains the third. Do not silently move the third upstairs or duplicate it.
+- Seated Yaser, bilateral arm attachment/chirality and far elbow layering required actual full-body corrections. Local-axis/contact tests and inspected prototype witnesses are scoped evidence only; an all-frame final anatomy pass has not been established.
+- Enlarging a face over the unchanged wide room produced a false camera closeup. Matching character and room projection repaired inspected snapshots, and v3 opening review found coherent tight framing. Camera transforms must apply consistently to all spatially related elements.
+- The six-second v2 used a 1672×941 internal raster enlarged to 1920×1080. Native backing was implemented for the next candidate; never infer native detail from output dimensions alone.
+- V2 temporal samples straddled the 193.04 hard cut, creating a double composition at frame 86. Restrict distinct temporal samples to the midpoint's shot/caption interval. V3 opening review found the cut clean. Do not blend two shots merely to satisfy a sampling count.
+- Expression dissolves doubled facial features around 195.6. Removing portrait cross-dissolve produced clean state changes in the reviewed v3 opening. Natural clause captions were used to avoid arbitrary word-fragment timing; text and image must still be checked together after every edit.
+
+### Still open in frozen v3
+1. Frames 240–407 contain a static portrait that hides the actual forward cash offer at 197.04–197.75, during «خلي دول معاك». A correct action hidden by camera choice is a semantic failure. Proposed repair: end the intro closeup at 197.04 and expose the offer in a coherent two-shot; not yet verified here.
+2. Frames 672–685 form an accidental 14-frame (0.233 s) wide-shot flash between closeups. Repair the shot scheduling gap and review both boundaries; do not call this a purposeful insert.
+3. Roughly frames 2660–3066 end in about 6.8 seconds of near-identical wide framing with tiny breathing. Planned two-pot detail and hopeful upward eyeline were not visibly enacted. A motivated gaze match, balcony detail and legible return are proposed, not passed repairs.
+4. Envelope artwork remains plainer than neighboring engraved props; do not hide remaining stylistic weakness behind technical QA.
+5. Root's suspected camera jump was checked at native frames 2415/2416/2424 and 2519/2520 and **not confirmed**. Preserve this withdrawn diagnosis; it is not a defect to “fix.”
+
+### Evidence and exact coverage
+- `hakawi_repair/storyboard/prototype-audit-20261028T0729Z/AUDIT.md`: six stills at 1672×941 plus source inspection. Source-to-PNG binding unavailable. No encoded coverage or listening.
+- `hakawi_repair/proof_build_v2/DECODED_REVIEW.md`: rejected proof SHA `274224ea58a62c1519b5567c39f759f216dc568b7b7e6ca7b2f34f0a851e23aa`; all 360 actual frames viewed as 384×216 tiles, frame 304 native. Frozen 65 inputs matched. AAC waveform comparison was statistical, not listening.
+- `hakawi_repair/proof_build_v3/reviews/quarter1-frames0-767.md`: all 768 actual decoded frames viewed as 384×216 tiles; native frame 65 inspected.
+- `hakawi_repair/proof_build_v3/root-review/ROOT_2304_3066.json`: root viewed all 763 actual frames in that range as 384×216 tiles plus the five specified native frames. No claim about unreviewed middle quarters or every frame at native resolution.
+
+### Additional generation and review rules
+Camera selection must preserve the visibility of the action required by the current clause. Audit the final edited image, not just the existence of an action in source. Check accidental short shot gaps and long inert holds against intended semantic changes. All shot/caption boundaries are temporal-sampling discontinuities. Use the same transform/ownership state for props, metadata and rendered callbacks. Re-encode and re-review changed frames and neighbors before claiming repair.
+
+
+### Subsequent builder review update — still OPEN
+Root reports that the four quarter reviews together cover all 3,067 actual v3 frames as proxies with selected native witnesses; the additional quarter ledgers were not independently read in this documentation pass. This does not upgrade the proof to a final pass or direct audiovisual listening.
+
+Additional observed changes requested by the builder/root: hand-detail framing crops the narrated fingers; a bottom caption crosses Yaser's jaw in a reaction; withdrawal brings the money near his lips and can read as an unintended kiss/sniff; the drink tilt is unclear. These join the hidden offer, accidental wide flashes and under-rich final basil hold above. All remain OPEN pending the planned batch repair and changed-range/seam retest. Bounds or source ownership alone cannot establish that the viewer sees the intended action rather than a different one.
