@@ -1,0 +1,15 @@
+{
+  "scope": "same frozen native master warm branch; single time render not yet temporal chunk",
+  "checks": [
+    {
+      "t": 18.8,
+      "rgbDifferenceBBox": null,
+      "exactRGBMatch": true
+    },
+    {
+      "t": 20.96,
+      "rgbDifferenceBBox": null,
+      "exactRGBMatch": true
+    }
+  ]
+}

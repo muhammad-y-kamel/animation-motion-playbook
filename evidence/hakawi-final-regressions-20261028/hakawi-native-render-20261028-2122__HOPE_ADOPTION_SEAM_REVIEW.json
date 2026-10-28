@@ -1,0 +1,28 @@
+{
+  "status": "ADOPTED_HOPE_COMPONENT_AND_ADJACENT_JOINS_SCOPED_PASS_NOT_FULL_MASTER",
+  "reviewer": "/root/review_full_hakawi_story_draft",
+  "reviewedWindows": [
+    [
+      948,
+      972
+    ],
+    [
+      1308,
+      1332
+    ]
+  ],
+  "joins": [
+    [
+      959,
+      960
+    ],
+    [
+      1319,
+      1320
+    ]
+  ],
+  "seamVideoSHA256": "ced9e791a2920867ece967d485acca463f6fc064bd014792a9d6470beaf65972",
+  "decoded600FrameIdentity": "HOPE_SEAM_DECODE_IDENTITY.json",
+  "sourcePlanSHA256": "6e48589e43263f83f133538dc4fc7d7a8423ab70b29ca509b8cf55e543055c9a",
+  "originalRejectedChunksRemainExcluded": true
+}

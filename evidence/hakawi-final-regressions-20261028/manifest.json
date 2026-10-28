@@ -1,0 +1,84 @@
+{
+  "snapshotUTC": "2026-10-28T23:51:00Z",
+  "scope": "TWO_REPLACEMENTS_NOT_FULL_RELEASE",
+  "files": [
+    {
+      "source": "hakawi_repair/prototype/hope-ascent-patch-2137/REPAIR.md",
+      "sourceSHA256": "aa8e50063aef28fab28ce396dbc565685b51ddf367a6653d3cab94d3c7e5cf38",
+      "sourceBytes": 1681,
+      "snapshot": "hope-ascent-patch-2137__REPAIR.md",
+      "snapshotSHA256": "aa8e50063aef28fab28ce396dbc565685b51ddf367a6653d3cab94d3c7e5cf38",
+      "extracted": false
+    },
+    {
+      "source": "hakawi_repair/prototype/hope-ascent-patch-2137/SCOPED_REVIEW.json",
+      "sourceSHA256": "0e5b8381bcf465dddb49c3382ab31a35a63e4a0ba80cb9f15822d4edab0aaea9",
+      "sourceBytes": 1636,
+      "snapshot": "hope-ascent-patch-2137__SCOPED_REVIEW.json",
+      "snapshotSHA256": "0e5b8381bcf465dddb49c3382ab31a35a63e4a0ba80cb9f15822d4edab0aaea9",
+      "extracted": false
+    },
+    {
+      "source": "hakawi_repair/prototype/hope-ascent-patch-2137/warm-boundary-identity.json",
+      "sourceSHA256": "5826d47a227a8a6f88242d88f77d33fab9c059e1e449a7e76a4264167734941f",
+      "sourceBytes": 298,
+      "snapshot": "hope-ascent-patch-2137__warm-boundary-identity.json",
+      "snapshotSHA256": "5826d47a227a8a6f88242d88f77d33fab9c059e1e449a7e76a4264167734941f",
+      "extracted": false
+    },
+    {
+      "source": "hakawi_repair/prototype/denial-patch-2326/README.md",
+      "sourceSHA256": "e6df75f1ff2cfaa9856cc7da4affe7511ef7b513c5187a9fc86e73737afbc528",
+      "sourceBytes": 1594,
+      "snapshot": "denial-patch-2326__README.md",
+      "snapshotSHA256": "e6df75f1ff2cfaa9856cc7da4affe7511ef7b513c5187a9fc86e73737afbc528",
+      "extracted": false
+    },
+    {
+      "source": "hakawi_repair/prototype/denial-patch-2326/PATCH-CONTRACT.json",
+      "sourceSHA256": "053afccfb6e1a56ba36072ee177b1d095de4c495640510a94ce0309e3b6b825a",
+      "sourceBytes": 5320,
+      "snapshot": "denial-patch-2326__PATCH-CONTRACT.json",
+      "snapshotSHA256": "053afccfb6e1a56ba36072ee177b1d095de4c495640510a94ce0309e3b6b825a",
+      "extracted": false
+    },
+    {
+      "source": "hakawi-native-render-20261028-2122/REPAIR_ADOPTION.json",
+      "sourceSHA256": "5d30f99b954dc71da339309a64043c1d0e76e35c3e1d1e5603f99b4fb69630b2",
+      "sourceBytes": 501,
+      "snapshot": "hakawi-native-render-20261028-2122__REPAIR_ADOPTION.json",
+      "snapshotSHA256": "5d30f99b954dc71da339309a64043c1d0e76e35c3e1d1e5603f99b4fb69630b2",
+      "extracted": false
+    },
+    {
+      "source": "hakawi-native-render-20261028-2122/HOPE_ADOPTION_SEAM_REVIEW.json",
+      "sourceSHA256": "f5308edc7a57d46a1367bf5ea87f6b6369836b4ea6248471ed16a0dcbdae3da8",
+      "sourceBytes": 615,
+      "snapshot": "hakawi-native-render-20261028-2122__HOPE_ADOPTION_SEAM_REVIEW.json",
+      "snapshotSHA256": "f5308edc7a57d46a1367bf5ea87f6b6369836b4ea6248471ed16a0dcbdae3da8",
+      "extracted": false
+    },
+    {
+      "source": "hakawi-native-render-20261028-2122/DENIAL_REPAIR_ADOPTION.json",
+      "sourceSHA256": "4fda8b3b29e530c2548790276b627951cfb573163818ae3727caf7eda532198e",
+      "sourceBytes": 109657,
+      "snapshot": "DENIAL_REPAIR_ADOPTION_EXTRACT.json",
+      "snapshotSHA256": "2c7e2387591e0f284efc5b4cf4c4653178d2946bbe9e66e04b4f5c7f240fbfaf",
+      "extracted": true
+    },
+    {
+      "source": "hakawi_repair/final-master-second-half-review/REVIEW.md",
+      "sourceSHA256": "5fd1d524b87903559a0da26dfadc41d596ef66c7a429cf2ca8efb940d1b505b4",
+      "sourceBytes": 5240,
+      "snapshot": "final-master-second-half-review__REVIEW.md",
+      "snapshotSHA256": "5fd1d524b87903559a0da26dfadc41d596ef66c7a429cf2ca8efb940d1b505b4",
+      "extracted": false
+    },
+    {
+      "source": "hakawi_repair/final-master-review-2122-first-half/REVIEW.md",
+      "sourceSHA256": "ab6d1a4767ccf8a7981d95c9f1aa35e5b7e8b2d68985f1e42ccee20852219e84",
+      "snapshot": "HOPE_INDEPENDENT_REVIEW_EXTRACT.md",
+      "extracted": true
+    }
+  ]
+}

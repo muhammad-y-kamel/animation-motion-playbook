@@ -1,0 +1,153 @@
+{
+  "status": "REVIEWED_DENIAL_REPLACEMENT_INDEXED_ORIGINALS_RETAINED_REJECTED",
+  "compositionPlanSHA256": "e8798d6bd3dd527624947dcf318955966f5ca797b562e0291516ac37d3ce92b0",
+  "timestampUTC": "2026-10-28T23:45:07.962834+00:00",
+  "range": [
+    19080,
+    20880
+  ],
+  "patchManifestSHA256": "0f1a349fcdbf05a2a583b708c7b163262597217e855265edff4f06868917ccd5",
+  "ledgerSHA256": "eb00fc9129d71bfa4a6da98e08d6ee44b2a40dcc485ba81354bb2baf4d040790",
+  "shutterIdentitySHA256": "317aba07a74019177e67605c32698a71cb86681172b4a1995445dcf4d6886983",
+  "independentReviewer": "/root/verify_integrated_scene_contacts",
+  "verdict": "All1800 encoded frames passed plus native reciprocalgaze/solidhand/boundary witnesses; no reencoding",
+  "sourceOwnerReview": "/root/audit_remaining_hakawi_scenes",
+  "originalSlotsRemainRejected": true,
+  "replacements": [
+    {
+      "firstFrame": 19080,
+      "endFrame": 19200,
+      "frames": 120,
+      "videoSHA256": "a04d7eca36625c9bd02a491190b39abdf1160e72d4926ee90cc0c2b098a410ad",
+      "ledgerSHA256": "7e0c5c6ac72d62eb8017c6774e18e04bba1f05072a85c1f6b456e46b43c4ad72",
+      "reviewStatus": "FINAL_ENCODED_REVIEW_COMPLETE",
+      "reviewScope": "Independent all1800 encoded frames, nativegaze/ghost/cut/outerseam witnesses; sourceowner checks separately."
+    },
+    {
+      "firstFrame": 19200,
+      "endFrame": 19320,
+      "frames": 120,
+      "videoSHA256": "7005e8eb21fd3f48d43fd7ea37d17754fa2a675e0cd4447b38c5437e9446440a",
+      "ledgerSHA256": "faaf03778826f508518550ca9df3401c8b1f5139533864384b7a84f43327a115",
+      "reviewStatus": "FINAL_ENCODED_REVIEW_COMPLETE",
+      "reviewScope": "Independent all1800 encoded frames, nativegaze/ghost/cut/outerseam witnesses; sourceowner checks separately."
+    },
+    {
+      "firstFrame": 19320,
+      "endFrame": 19440,
+      "frames": 120,
+      "videoSHA256": "074b3964e2e38cb6e946d537d4077f6365f69a58720d2bfe40d7b2b201409c91",
+      "ledgerSHA256": "f2e622c825f6eaa3755fc147e473201d3ca021fd356943e4214f4c3f72912443",
+      "reviewStatus": "FINAL_ENCODED_REVIEW_COMPLETE",
+      "reviewScope": "Independent all1800 encoded frames, nativegaze/ghost/cut/outerseam witnesses; sourceowner checks separately."
+    },
+    {
+      "firstFrame": 19440,
+      "endFrame": 19560,
+      "frames": 120,
+      "videoSHA256": "abca170411310f9e44bde406d5b0bba9fbf250282ab034dc7618d367f0aa684d",
+      "ledgerSHA256": "cbdde290f343706363afad59e51861ff9b74c94c0930e307cbd71b8680e6a450",
+      "reviewStatus": "FINAL_ENCODED_REVIEW_COMPLETE",
+      "reviewScope": "Independent all1800 encoded frames, nativegaze/ghost/cut/outerseam witnesses; sourceowner checks separately."
+    },
+    {
+      "firstFrame": 19560,
+      "endFrame": 19680,
+      "frames": 120,
+      "videoSHA256": "9c76aed525e9e30cc6ada2e2c3c2376335a62bbdb9eecc1450b9be8f30ae7215",
+      "ledgerSHA256": "58d1b793e12c08c6e2091e5569649b69afb5e6e109cd23ab43387a542a7386c6",
+      "reviewStatus": "FINAL_ENCODED_REVIEW_COMPLETE",
+      "reviewScope": "Independent all1800 encoded frames, nativegaze/ghost/cut/outerseam witnesses; sourceowner checks separately."
+    },
+    {
+      "firstFrame": 19680,
+      "endFrame": 19800,
+      "frames": 120,
+      "videoSHA256": "397ed4bdda831bbd17b59b5fe0c6ec03894a2e096bf185b208998aadb95b640a",
+      "ledgerSHA256": "b071a116650fe33d300abae7243e0a82587276069e3335c6096e7b122ecf071d",
+      "reviewStatus": "FINAL_ENCODED_REVIEW_COMPLETE",
+      "reviewScope": "Independent all1800 encoded frames, nativegaze/ghost/cut/outerseam witnesses; sourceowner checks separately."
+    },
+    {
+      "firstFrame": 19800,
+      "endFrame": 19920,
+      "frames": 120,
+      "videoSHA256": "c9ff93b05d133bc1136ca4d4347655d26cd451c474d6ea2a5dfaf697ca44f29a",
+      "ledgerSHA256": "63a2385850d94cf2e1e972c5ba88f6fa2760a803d36ab25a2ee2a2a89cc9d10e",
+      "reviewStatus": "FINAL_ENCODED_REVIEW_COMPLETE",
+      "reviewScope": "Independent all1800 encoded frames, nativegaze/ghost/cut/outerseam witnesses; sourceowner checks separately."
+    },
+    {
+      "firstFrame": 19920,
+      "endFrame": 20040,
+      "frames": 120,
+      "videoSHA256": "25649cb1f620fe8c33a0db1b7b574ee63c36d7b101774054b9f8e2882e0902b6",
+      "ledgerSHA256": "4afdab250064059e672d3fb5492794e071cb43abcc7c99f9c2894cd20eb00ea6",
+      "reviewStatus": "FINAL_ENCODED_REVIEW_COMPLETE",
+      "reviewScope": "Independent all1800 encoded frames, nativegaze/ghost/cut/outerseam witnesses; sourceowner checks separately."
+    },
+    {
+      "firstFrame": 20040,
+      "endFrame": 20160,
+      "frames": 120,
+      "videoSHA256": "9c4c6d531e40b65461db34eefb1dc771976afd9366ea0bb535138db5ac8dc7d8",
+      "ledgerSHA256": "519819348f576464cbe82d02abbbe9dc15c930bb8fdc9893a05868bf7525079c",
+      "reviewStatus": "FINAL_ENCODED_REVIEW_COMPLETE",
+      "reviewScope": "Independent all1800 encoded frames, nativegaze/ghost/cut/outerseam witnesses; sourceowner checks separately."
+    },
+    {
+      "firstFrame": 20160,
+      "endFrame": 20280,
+      "frames": 120,
+      "videoSHA256": "38c24fac5fd42e14c497e1273696d01d02458abbcf7eaa1197d182d85fcb9a56",
+      "ledgerSHA256": "cbc7667b427767eefaf952c2431fddb29620b3309502d63765a4a8447d5742fb",
+      "reviewStatus": "FINAL_ENCODED_REVIEW_COMPLETE",
+      "reviewScope": "Independent all1800 encoded frames, nativegaze/ghost/cut/outerseam witnesses; sourceowner checks separately."
+    },
+    {
+      "firstFrame": 20280,
+      "endFrame": 20400,
+      "frames": 120,
+      "videoSHA256": "4fa26b4aff416091357ad1f54d0d57abf646a5142381dc33913bfb95574b2ccb",
+      "ledgerSHA256": "968c3fb85cefa6ae691b4aa229a369b4041938cf11a51eb5f71728cc40ac4e8e",
+      "reviewStatus": "FINAL_ENCODED_REVIEW_COMPLETE",
+      "reviewScope": "Independent all1800 encoded frames, nativegaze/ghost/cut/outerseam witnesses; sourceowner checks separately."
+    },
+    {
+      "firstFrame": 20400,
+      "endFrame": 20520,
+      "frames": 120,
+      "videoSHA256": "7cff0051f52eba973a1c9ae9bc836958b6e862a11b8b82411629920eeea717ec",
+      "ledgerSHA256": "4e0229b4159f0ea5c516c87d4fbb9c8d64df94c0df01c8852e55095ab524b70a",
+      "reviewStatus": "FINAL_ENCODED_REVIEW_COMPLETE",
+      "reviewScope": "Independent all1800 encoded frames, nativegaze/ghost/cut/outerseam witnesses; sourceowner checks separately."
+    },
+    {
+      "firstFrame": 20520,
+      "endFrame": 20640,
+      "frames": 120,
+      "videoSHA256": "b563954fdc911cfcf719f9736c90bf51e6099dbb1fbc70617ecaaf923bbec6d4",
+      "ledgerSHA256": "01abc7ede2161404b0f50ea472e96024aea22923afb1c7561fc2c60c6ca0ac8b",
+      "reviewStatus": "FINAL_ENCODED_REVIEW_COMPLETE",
+      "reviewScope": "Independent all1800 encoded frames, nativegaze/ghost/cut/outerseam witnesses; sourceowner checks separately."
+    },
+    {
+      "firstFrame": 20640,
+      "endFrame": 20760,
+      "frames": 120,
+      "videoSHA256": "8972093006af81357bdb0f365b6ce8c926a4f9d08be4fefa9153b56acadab341",
+      "ledgerSHA256": "107f89ec706cb86bf3a41d1a39b17c9570c4b21f70ac96abdfd71207714c1337",
+      "reviewStatus": "FINAL_ENCODED_REVIEW_COMPLETE",
+      "reviewScope": "Independent all1800 encoded frames, nativegaze/ghost/cut/outerseam witnesses; sourceowner checks separately."
+    },
+    {
+      "firstFrame": 20760,
+      "endFrame": 20880,
+      "frames": 120,
+      "videoSHA256": "f54be1025755805ee716d503665046f9d04de5e555d5b4c4000a44d4c85f2543",
+      "ledgerSHA256": "a621752c5b47818d6f8e4c8585834fa9a50591efe7dc1f33f2d98c0c17416384",
+      "reviewStatus": "FINAL_ENCODED_REVIEW_COMPLETE",
+      "reviewScope": "Independent all1800 encoded frames, nativegaze/ghost/cut/outerseam witnesses; sourceowner checks separately."
+    }
+  ]
+}

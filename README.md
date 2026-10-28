@@ -47,3 +47,6 @@ The original 13 entries above remain intact. [Historical audit and case index](H
 
 ## Hakawi component closure / immutable candidate — 2026-10-28 21:22
 [Verified trials, scoped closures and pipeline lessons](entries/HAKAWI-SCOPED-CLOSURE-20261028-2122.md). Real face ghosts, semantic contacts, dependency identity, prop ownership and checkpoint recovery are distinguished from full-master acceptance, which remains pending. [Frozen evidence](evidence/hakawi-closure-20261028/manifest.json).
+
+## Final-output regression replacements — 2026-10-28
+[Hope anatomical ascent and denial sentinel/gaze repairs](entries/HAKAWI-FINAL-REGRESSIONS-20261028.md): verified scoped replacements and actual adoption receipts, preserving original rejected chunks. No full-film release claim.

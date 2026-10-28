@@ -1,0 +1,63 @@
+{
+  "status": "AUTHOR_SCOPED_VISUAL_REVIEW_COMPLETE_PENDING_INDEPENDENT_QA",
+  "actualActionFrames": [
+    1032,
+    1128
+  ],
+  "proofFrames": [
+    960,
+    1320
+  ],
+  "videoSHA256": "ed34c7c54b87f252d303f4f197c64754d20d2c1483720bcab6ba600e7285a583",
+  "clampFrames": 0,
+  "allActionFramesInspected": 96,
+  "sheets": [
+    {
+      "file": "review/all-01.png",
+      "globalFirst": 1032,
+      "globalEndExclusive": 1048
+    },
+    {
+      "file": "review/all-02.png",
+      "globalFirst": 1048,
+      "globalEndExclusive": 1064
+    },
+    {
+      "file": "review/all-03.png",
+      "globalFirst": 1064,
+      "globalEndExclusive": 1080
+    },
+    {
+      "file": "review/all-04.png",
+      "globalFirst": 1080,
+      "globalEndExclusive": 1096
+    },
+    {
+      "file": "review/all-05.png",
+      "globalFirst": 1096,
+      "globalEndExclusive": 1112
+    },
+    {
+      "file": "review/all-06.png",
+      "globalFirst": 1112,
+      "globalEndExclusive": 1128
+    }
+  ],
+  "nativeMap": {
+    "review/native-01.png": 1031,
+    "review/native-02.png": 1032,
+    "review/native-03.png": 1065,
+    "review/native-04.png": 1104,
+    "review/native-05.png": 1127,
+    "review/native-06.png": 1128,
+    "review/native-07.png": 1257,
+    "review/native-08.png": 1258
+  },
+  "unchangedWarmRawRGBTests": "warm-boundary-identity.json",
+  "frozenBaseModified": false,
+  "scope": "Only dawn stair branch17.2<=t<18.8; no fullmaster/audio acceptance",
+  "sourceHashes": {
+    "scene.cjs": "a01b2b2bf73099ff069865f57683e94a34e94e682efb5ccdca3bb94aaa3abd08",
+    "preload.cjs": "945b6efaecd66c72a2200998bc7ab0ad1eeb8ccd91f4674808d5bbd64ffdebce"
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "patch": "denial-patch-2326",
+  "status": "SCOPED_ENCODED_DEFECT_AND_BOUNDARY_CHECKS_PASS",
+  "baseSource": "hakawi-native-freeze-20261028-2122/hakawi_repair/prototype/resume-tail/denial-aftermath-scene.cjs",
+  "baseSHA256": "36d98a9b4ec97ebc770bcba8bcaeae393449167d1a07e4de9d84852a6d6d8ee2",
+  "patchSource": "hakawi_repair/prototype/denial-patch-2326/scene.cjs",
+  "patchSHA256": "574db681913498d20f8ad5b8172c0cf2e174ce272000dd4c39f7920c31b06cc2",
+  "preloadSHA256": "5f66f14e78276f6cfdcee8fe8dbc19758b7c3ff98f00b10aef790ddffa4a3029",
+  "changes": [
+    {
+      "interval": [
+        318.16,
+        346.88
+      ],
+      "kind": "Standing Sabah face+1 toward Yaser between existing cuts; roots,worldFootContactPoints,pot,captions,audio unchanged",
+      "limits": "Editorial reorientation across existing reverse-shot return and departure-wide cut; not continuous body turn."
+    },
+    {
+      "interval": [
+        325.44,
+        334
+      ],
+      "kind": "Yaser gesture interpolates from dynamic measured naturalRest(near,t), replacing legacy neutral sentinel target; no rig modification or false cut."
+    }
+  ],
+  "actualChangedFrameEnvelope": {
+    "first": 19090,
+    "endExclusive": 20813,
+    "fps": 60,
+    "policy": "By central frame side of existing cuts; composition owner verifies exact shutter ranges."
+  },
+  "endpointAudit": [
+    {
+      "times": [
+        325.4399,
+        325.4401
+      ],
+      "palms": [
+        [
+          442.5352230527413,
+          565.4083422785193
+        ],
+        [
+          442.5319007646647,
+          565.4093823681603
+        ]
+      ],
+      "palmDeltaSource": 0.003481290640703591,
+      "elbows": [
+        [
+          354.9331136832027,
+          424.7206834863681
+        ],
+        [
+          354.9314548167931,
+          424.720684765554
+        ]
+      ],
+      "angles": [
+        -0.3724388940629335,
+        -0.3724269878125448
+      ],
+      "clamps": [
+        false,
+        false
+      ]
+    },
+    {
+      "times": [
+        332.0999,
+        332.1001
+      ],
+      "palms": [
+        [
+          433.43640927153564,
+          569.4241470881403
+        ],
+        [
+          433.4418580665131,
+          569.4223435636125
+        ]
+      ],
+      "palmDeltaSource": 0.005739518048478507,
+      "elbows": [
+        [
+          352.566491042846,
+          424.72669104044166
+        ],
+        [
+          352.56869152076,
+          424.7267135015451
+        ]
+      ],
+      "angles": [
+        -0.3242754569808153,
+        -0.32429820820321376
+      ],
+      "clamps": [
+        false,
+        false
+      ]
+    },
+    {
+      "times": [
+        333.9999,
+        334.0001
+      ],
+      "palms": [
+        [
+          424.87381790914236,
+          570.962964864878
+        ],
+        [
+          424.8681917562644,
+          570.9646610529578
+        ]
+      ],
+      "palmDeltaSource": 0.005876278601967984,
+      "elbows": [
+        [
+          347.12998646327196,
+          424.57004410089456
+        ],
+        [
+          347.1277054329605,
+          424.56995342573896
+        ]
+      ],
+      "angles": [
+        -0.30302557112288775,
+        -0.3030024215471958
+      ],
+      "clamps": [
+        false,
+        false
+      ]
+    }
+  ],
+  "stillWitnesses": [
+    "hakawi_repair/prototype/denial-patch-2326/sample-318.159.png",
+    "hakawi_repair/prototype/denial-patch-2326/sample-318.16.png",
+    "hakawi_repair/prototype/denial-patch-2326/sample-326.5.png",
+    "hakawi_repair/prototype/denial-patch-2326/sample-332.0833.png",
+    "hakawi_repair/prototype/denial-patch-2326/sample-346.879.png",
+    "hakawi_repair/prototype/denial-patch-2326/sample-346.881.png"
+  ],
+  "notChanged": [
+    "canonical narration/audio",
+    "captions",
+    "timeline",
+    "lowering contact donor",
+    "deed/pot ownership",
+    "descent path",
+    "frozen2122 sources"
+  ],
+  "continuousProof": "Actual closed replacement chunk proof inspected: encoded boundary pairs19089/19090 and20812/20813; gaze19590; every native hand crop19920\u201319935. Not a claim of independent all1800frame review or wholemaster release.",
+  "encodedReview": {
+    "entryCut": "actual encoded f19089\u219219090 reviewed; reverse-shot return clean, supported feet and pot, no blend",
+    "gaze": "actual encoded f19590 reviewed; canonical eye-contact line now looks toward Yaser",
+    "handReturn": "all actual encoded native crops f19920\u201319935 inspected sequentially, no separated hand ghost at19925",
+    "frame19925NearError": 1.7763568394002505e-10,
+    "frame19925Clamped": false,
+    "exitCut": "Actual encoded f20812\u219220813 inspected: existing close-to-wide departure cut restores left-facing treadstate, grounded feet/pot, no mixed face or in-shot flip.",
+    "paths": [
+      "hakawi_repair/prototype/denial-patch-2326/encoded-review/cut318-01.png",
+      "hakawi_repair/prototype/denial-patch-2326/encoded-review/cut318-02.png",
+      "hakawi_repair/prototype/denial-patch-2326/encoded-review/gaze326.5.png",
+      "hakawi_repair/prototype/denial-patch-2326/encoded-review/hand19920-19935.png",
+      "hakawi_repair/prototype/denial-patch-2326/encoded-review/native19925.png",
+      "hakawi_repair/prototype/denial-patch-2326/encoded-review/cut346-01.png",
+      "hakawi_repair/prototype/denial-patch-2326/encoded-review/cut346-02.png"
+    ]
+  }
+}

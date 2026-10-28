@@ -1,0 +1,13 @@
+{
+  "status": "REPAIR_REPLACEMENT_ACTUALLY_INDEXED_PENDING_ASSEMBLED_SEAM_QA",
+  "globalRange": [
+    960,
+    1320
+  ],
+  "videoSHA256": "ed34c7c54b87f252d303f4f197c64754d20d2c1483720bcab6ba600e7285a583",
+  "videoPath": "/workspace/scratch/bb6b47af6d33/hakawi-native-render-20261028-2122/adopted-00960-01320/video.mp4",
+  "sourcePlanSHA256": "6e48589e43263f83f133538dc4fc7d7a8423ab70b29ca509b8cf55e543055c9a",
+  "originalRejectedChunksPreserved": true,
+  "noReencode": true,
+  "finalRelease": false
+}

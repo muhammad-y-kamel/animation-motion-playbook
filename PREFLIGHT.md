@@ -181,3 +181,10 @@ Evidence: [resumed repairs and status distinctions](entries/HAKAWI-RESUME-202610
 - [ ] Freeze sources before chunk render. Validate each closed chunk identity/count; reconcile original sessions/logs before retrying uncertain work. Namespaced ps absence is not termination evidence.
 - [ ] Preserve rejected attempts/partial files; never patch immutable snapshot. Archive restoration and component pass do not clear whole-master visual/audio/native portrait gates.
 Evidence: [scoped closure ledger](entries/HAKAWI-SCOPED-CLOSURE-20261028-2122.md).
+
+## Final-output branch and sentinel regressions
+- [ ] Exercise exact short dispatch branches, not only shared helper or neighboring-scene proofs; native planted support must also preserve anatomical hip/knee/shin/ankle chain.
+- [ ] Audit natural-rest/mode sentinels across actual shutter sub-samples. Interpolate from measured time-dependent rest; a threshold-induced separated ghost is not ordinary motion blur.
+- [ ] Check reciprocal gaze against explicit narration and existing editorial cuts; retain all world-foot/prop support and distinguish edited reorientation from continuous turn.
+- [ ] Adopt only hash-bound reviewed replacements and inspect adjacent seams. Preserve old rejected slots and reviewer corrections without changing frozen base.
+Evidence: [two final-output repair records](entries/HAKAWI-FINAL-REGRESSIONS-20261028.md).
