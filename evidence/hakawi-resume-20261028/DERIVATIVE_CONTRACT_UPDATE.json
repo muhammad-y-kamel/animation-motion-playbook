@@ -1,0 +1,12 @@
+{
+  "source": "User message Sentinel_47e3e17971208191ade23c157ef04e29 at 2026-10-28T18:57:40Z, relayed by parent",
+  "fixedTenParts": false,
+  "targetSeconds": [110,120],
+  "allowSlightlyShorter": true,
+  "cutPolicy": "Semantic breaks only; never mid-sentence; balance remainder to avoid tiny extra part",
+  "masterDurationUnchanged": 506.96,
+  "productionOrder": "Native vertical long-first; future rebuilt derived shorts follow new rule",
+  "scheduleMutations": false,
+  "exactCutPlanOwner": "parent",
+  "legacyDerivativePlan": "Do not generate fixed-ten plan"
+}

@@ -1,0 +1,20 @@
+# Original-art gait retry, October 28, 2026
+
+V1/V2 are rejected diagnostic attempts. Original source ankle x positions were different by 165 pixels and stride was only 135 pixels, so feet never correctly passed one another. Constant pelvis lowering also left stance knees crouched. Root independently identified permanent flexion. Initial shoe blend pinched the toes, source soles differed by16px, and coat-colored top-leg pixels made hems flare. A color-key attempt removed actual trouser pixels and was rejected immediately.
+
+V5 original-art engineering proof uses identical original body/head and separated original leg artwork, continuous near-rigid rotations, a rigid upper-thigh transition to avoid hem mismatch, flat rigid shoes, normalized far source leg length (407/391) to align unequal source soles, support-derived pelvis height, equal centered alternating foot tracks, and opposite arm/leg swing. Feet are world-stationary through stance; swing uses a world-Hermite path with zero endpoint velocity and squared-sine lift. Initial prescribed-coordinate drift is floating-point epsilon, not independently measured pixels.
+
+The full source is gait-v5-source.cjs. Encoded gait-v5-marked.mp4 is279frames at60fps,1920×1080,4.65s, no audio. Fixed floor rulers and actual per-frame solved knee metrics are included. Stance flexion is7.25–27.89degrees; the larger angles occur during double support. Pelvis spans−0.93 to23.46sourcepixels. These numbers do not establish visually natural animation.
+
+Known limitations: flat-foot swing lacks toe/heel roll; persistent source garment folds may read as bent limb even when joint is extended; no deep turn or depth/path adaptation is proved. Both diagnostic arms reuse one straight source, so handedness and final grip/free-hand anatomy are explicitly NOT accepted. Consumers must use drawArm callback or noArms flag and correctly authored arms. No parent/main scene was modified. No final episode, audio sync or release claim.
+
+Reviewed: first12static poses and selected native frames, V2 sheets1,4,7,10,13,16,19,22 (96decodedframes) before its later gait changes. V5 normal-speed playback and complete decoded-frame review remain pending; root was given the encoded path for independent review.
+
+A version-name string substitution accidentally changed yuv420p to yuv520p in the first V5 encoder invocation. FFmpeg rejected before encoding; corrected the specific token and reran successfully. Do not use unscoped global replacement for version names.
+
+## V6 source registration correction
+Root reviewedV5 and still found S-shaped shin. Native source grid showed inherited ankle anchors [475,914]/[640,908] inside shoes, not true ankle/cuff regions. New source landmarks near hip[525,460] (hidden/inferred), knee[490,655] (inferred under cloth), ankle[465,870] (visible cuff); far hip[615,460] (inferred), knee[610,650] (inferred), ankle[610,850] (visible cuff). Source-leg-grid.png and landmark-old-new.png preserve pixel evidence. Hip and knee estimates are NOT claimed precise underlying anatomy. Far sole normalization now scales below460 by477/461, not the older407/391.
+
+V6 includes producer's new near/far arm modules, preserving a rigid hand rather than reusing one hand for both sides. Native frame030 reviewed: calf materially straighter, no former long-shin S-bend in that pose. Other extrema and every-frame review remain pending. V6 output's fixed torso crop still included a black trouser strip below the coat. Working source narrows that crop and extrudes a small hidden thigh texture cap from original trousers to remove exposed rig-cutout gaps; this is synthetic occluded continuation, not unmodified original pixels. It is not yet inV6 encoded output.
+
+worldFeet API verified against internal state at five times for both face directions (10tests), identical RGBA in every case. This establishes the coordinate adapter only, not correctness of caller trajectories, turns, perspective, or final motion. Output test-worldfeet.cjs and worldfeet-equivalence.json. No common scene or source file modified.

@@ -164,3 +164,11 @@ For every semantic cue, compare absolute narration time, scene-local time and ac
 - [ ] Keep CTA/question outside captions and time their entrances to actual narration. Source-correct captions do not alone prove final layout.
 - [ ] Label illustrative UI as simulation, not current live capture. Weak ASR number/spelling differences are not confirmed speech errors; stronger bounded recognition may resolve them without new paid TTS, but never certifies vowels/listening.
 Evidence: [CANVA-MOTION-20261024](entries/CANVA-MOTION-20261024.md), with exact final hashes and sampled review scope.
+
+## Resumed anatomical/contact and derivative gates — 2026-10-28
+- [ ] Register wrist rather than fingertip and anatomical cuff rather than inside-shoe ankle. Separate true lift, floor projection, sole support and neutral terminal stance; test real callers, both arms and custom helpers.
+- [ ] Freeze sender return origin at release; explicit actor/shared/table ownership. Sweep actual alpha envelopes through every contact frame, not sparse checkpoints. Any cup restage must propagate to earlier/later use.
+- [ ] Keep table props independent of actor transforms; page/nib/ink share tabletop map. Physical action timing follows actual source narration anchors and finite action phases.
+- [ ] Verify suspected contact-sheet defects against exact native pixels before renderer changes. Numeric/dispatch passes never replace native anatomy/motion inspection.
+- [ ] For Hakawi derived Shorts, replace fixed ten parts with around120seconds/slightly shorter semantic segments; balance remainder without pointless tiny parts. Preserve long-first/shared-master audio/native portrait. Reconcile scheduling count before mutations; published originals unchanged.
+Evidence: [resumed repairs and status distinctions](entries/HAKAWI-RESUME-20261028.md). Full master/portrait/contact completion remains open at this snapshot.

@@ -41,3 +41,6 @@ The original 13 entries above remain intact. [Historical audit and case index](H
 
 ## Historical audit recovery — 2026-10-26
 [New evidence, deduplication and current coverage blockers](HISTORY-RECOVERY-2026-10-26.md). Search recovery yielded 30 additional case/correction records and bounded screening of 42 new leads. The account-wide task remains partial: the GetMotion reader block, 33 unresolved old omissions and 16 empty cloud histories are explicitly rechecked, not closed. No production or publishing changes.
+
+## Hakawi resumed repair evidence — 2026-10-28
+[Physical-action trials and open gates](entries/HAKAWI-RESUME-20261028.md), [archive size-limit workaround](entries/HAKAWI-ARCHIVE-20261028.md), and [frozen evidence identities](evidence/hakawi-resume-20261028/manifest.json). Selected terminal-pose improvements are not full-master acceptance. Includes latest derived Shorts contract: around120seconds/slightly less, not fixed ten parts.

@@ -1,0 +1,227 @@
+{
+  "status": "STATIC_IMPORT_INVENTORY_NOT_RENDER_COVERAGE",
+  "warning": "Dynamic requires and embedded custom arms may need manual inspection. Passing zero-clamp samples does not prove new rig used.",
+  "modules": [
+    {
+      "scene": "opening",
+      "range": [
+        0,
+        4.96
+      ],
+      "rigDependencies": [
+        "rig/clean-yaser.cjs",
+        "rig/connected-arm.cjs",
+        "rig/standing-leg-skin.cjs",
+        "rig/standing-head.cjs"
+      ]
+    },
+    {
+      "scene": "memory",
+      "range": [
+        4.96,
+        17.2
+      ],
+      "rigDependencies": [
+        "rig/connected-arm.cjs",
+        "rig/clean-sabah.cjs",
+        "rig/actors.cjs",
+        "rig/path-gait.cjs"
+      ]
+    },
+    {
+      "scene": "hope",
+      "range": [
+        17.2,
+        32.4
+      ],
+      "rigDependencies": [
+        "rig/connected-arm.cjs",
+        "rig/clean-yaser.cjs",
+        "rig/standing-leg-skin.cjs",
+        "rig/standing-head.cjs"
+      ]
+    },
+    {
+      "scene": "family",
+      "range": [
+        32.4,
+        46.96
+      ],
+      "rigDependencies": [
+        "rig/projected-level-sabah-expression.cjs",
+        "rig/projected-level-leg.cjs",
+        "rig/connected-arm.cjs",
+        "rig/actors.cjs",
+        "rig/projected-level-path.cjs",
+        "rig/projected-level-sabah.cjs",
+        "rig/clean-yaser.cjs",
+        "rig/standing-leg-skin.cjs",
+        "rig/standing-head.cjs"
+      ]
+    },
+    {
+      "scene": "dream",
+      "range": [
+        46.96,
+        54.64
+      ],
+      "rigDependencies": [
+        "rig/projected-level-sabah.cjs",
+        "rig/projected-level-leg.cjs",
+        "rig/connected-arm.cjs",
+        "rig/actors.cjs",
+        "rig/clean-yaser.cjs",
+        "rig/standing-leg-skin.cjs",
+        "rig/standing-head.cjs",
+        "rig/projected-level-path.cjs",
+        "rig/projected-level-sabah-expression.cjs"
+      ]
+    },
+    {
+      "scene": "deed",
+      "range": [
+        54.64,
+        76.84
+      ],
+      "rigDependencies": [
+        "rig/father-seated.cjs",
+        "rig/connected-arm.cjs",
+        "rig/projected-level-sabah-expression.cjs",
+        "rig/projected-level-leg.cjs",
+        "rig/actors.cjs",
+        "rig/clean-yaser.cjs",
+        "rig/standing-leg-skin.cjs",
+        "rig/standing-head.cjs"
+      ]
+    },
+    {
+      "scene": "office",
+      "range": [
+        76.84,
+        109.72
+      ],
+      "rigDependencies": [
+        "rig/connected-arm.cjs",
+        "rig/standing-leg-skin.cjs",
+        "rig/standing-head.cjs"
+      ]
+    },
+    {
+      "scene": "key-visit",
+      "range": [
+        109.72,
+        148.16
+      ],
+      "rigDependencies": [
+        "rig/clean-sabah.cjs",
+        "rig/connected-arm.cjs",
+        "rig/actors.cjs",
+        "rig/clean-yaser.cjs",
+        "rig/standing-leg-skin.cjs",
+        "rig/standing-head.cjs",
+        "rig/projected-level-yaser.cjs",
+        "rig/projected-level-leg.cjs",
+        "rig/projected-level-yaser-path.cjs"
+      ]
+    },
+    {
+      "scene": "visitors",
+      "range": [
+        148.16,
+        178.16
+      ],
+      "rigDependencies": [
+        "rig/connected-arm.cjs",
+        "rig/projected-level-leg.cjs",
+        "rig/measured-level-path-factory.cjs",
+        "rig/clean-yaser.cjs",
+        "rig/standing-leg-skin.cjs",
+        "rig/standing-head.cjs",
+        "rig/face-closeup.cjs"
+      ]
+    },
+    {
+      "scene": "bridge",
+      "range": [
+        178.16,
+        191.6
+      ],
+      "rigDependencies": [
+        "rig/clean-sabah.cjs",
+        "rig/connected-arm.cjs",
+        "rig/actors.cjs",
+        "rig/seated-yaser.cjs",
+        "rig/carry.cjs",
+        "rig/carry-head.cjs",
+        "rig/path-gait.cjs",
+        "rig/face-closeup.cjs",
+        "rig/projected-level-sabah.cjs",
+        "rig/projected-level-leg.cjs",
+        "rig/projected-level-path.cjs"
+      ]
+    },
+    {
+      "scene": "p05",
+      "range": [
+        191.6,
+        242.72
+      ],
+      "rigDependencies": [
+        "rig/clean-sabah.cjs",
+        "rig/connected-arm.cjs",
+        "rig/actors.cjs",
+        "rig/seated-yaser.cjs",
+        "rig/carry.cjs",
+        "rig/carry-head.cjs",
+        "rig/path-gait.cjs",
+        "rig/face-closeup.cjs"
+      ]
+    },
+    {
+      "scene": "painter",
+      "range": [
+        242.72,
+        268.64
+      ],
+      "rigDependencies": [
+        "painter/actors.cjs",
+        "rig/carry-head.cjs",
+        "rig/clean-yaser.cjs",
+        "rig/connected-arm.cjs",
+        "rig/standing-leg-skin.cjs",
+        "rig/standing-head.cjs",
+        "rig/projected-level-yaser-path.cjs",
+        "rig/projected-level-yaser.cjs",
+        "rig/projected-level-leg.cjs"
+      ]
+    },
+    {
+      "scene": "confrontation",
+      "range": [
+        268.64,
+        314.88
+      ],
+      "rigDependencies": [
+        "resume-arm-20261028/carry-hinge.cjs",
+        "rig/carry-head.cjs",
+        "rig/clean-yaser.cjs",
+        "rig/connected-arm.cjs",
+        "rig/standing-leg-skin.cjs",
+        "rig/standing-head.cjs",
+        "painter/actors.cjs",
+        "rig/face-closeup.cjs",
+        "rig/projected-level-yaser-path.cjs",
+        "rig/projected-level-yaser.cjs",
+        "rig/projected-level-leg.cjs"
+      ]
+    },
+    {
+      "scene": "tail",
+      "range": [
+        314.88,
+        506.96
+      ],
+      "rigDependencies": []
+    }
+  ]
+}
