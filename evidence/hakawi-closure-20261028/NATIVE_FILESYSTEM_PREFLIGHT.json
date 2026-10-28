@@ -1,0 +1,927 @@
+{
+  "status": "PASS_ALL_CAPTURED_ASSETS_READ_BY_ACTUAL_NATIVE_RENDERER",
+  "scenes": [
+    {
+      "id": "bridge",
+      "frame": 11092,
+      "filesRead": 152
+    },
+    {
+      "id": "confrontation",
+      "frame": 17505,
+      "filesRead": 147
+    },
+    {
+      "id": "deed",
+      "frame": 3944,
+      "filesRead": 150
+    },
+    {
+      "id": "dream",
+      "frame": 3048,
+      "filesRead": 148
+    },
+    {
+      "id": "family",
+      "frame": 2380,
+      "filesRead": 148
+    },
+    {
+      "id": "hope",
+      "frame": 1487,
+      "filesRead": 146
+    },
+    {
+      "id": "key-visit",
+      "frame": 7736,
+      "filesRead": 158
+    },
+    {
+      "id": "memory",
+      "frame": 664,
+      "filesRead": 144
+    },
+    {
+      "id": "office",
+      "frame": 5596,
+      "filesRead": 145
+    },
+    {
+      "id": "opening",
+      "frame": 148,
+      "filesRead": 141
+    },
+    {
+      "id": "p05",
+      "frame": 13029,
+      "filesRead": 156
+    },
+    {
+      "id": "painter",
+      "frame": 15340,
+      "filesRead": 149
+    },
+    {
+      "id": "tail",
+      "frame": 24655,
+      "filesRead": 174
+    },
+    {
+      "id": "visitors",
+      "frame": 9789,
+      "filesRead": 145
+    }
+  ],
+  "actualReadFiles": {
+    "prototype/resume-integration/render-frozen-native-chunk.cjs": {
+      "bytes": 3910,
+      "sha256": "a5b49d982df7a3223dec3c7451ebcb1a55438fb944eac6a357c1b0d8497c3751"
+    },
+    "prototype/resume-integration/master-repaired-candidate.cjs": {
+      "bytes": 3140,
+      "sha256": "093482c2a34dee193d3c1a3d0764c3cf3d6b299b6a778c5a7a346803dd2243ae"
+    },
+    "prototype/resume-arm-20261028/adapter.cjs": {
+      "bytes": 4418,
+      "sha256": "16012851f4fc88d824a5a5ecf8ff29153152785e238b8ef10d363ca2c4392e7f"
+    },
+    "prototype/resume-arm-20261028/arm.cjs": {
+      "bytes": 6743,
+      "sha256": "624a961099a161e434e972563a53505727b03c67a0ef3915c70b8be2597e7817"
+    },
+    "prototype/resume-arm-20261028/far-arm-v2.cjs": {
+      "bytes": 6457,
+      "sha256": "c2be06bb46c65ffbee9dea09e9997d7f48552c8527e8d74d0ec4f316630135e9"
+    },
+    "prototype/resume-gait-20261028/gait.cjs": {
+      "bytes": 7697,
+      "sha256": "358cbfe48710ca5406d911209756f0dc802e595552aaf7024bdf5c791abb6653"
+    },
+    "recovered_e01/hakawi-production-20261024/e01-engine/core.cjs": {
+      "bytes": 7580,
+      "sha256": "9cf101af28f333bccf021a9a2c528da86934a07fc56b1de904f6367765948b02"
+    },
+    "prototype/resume-arm-20261028/yaser-standing.cjs": {
+      "bytes": 5530,
+      "sha256": "da49b75e3bbc30dd4f7a58895763f93889130c321c7672287e5a8e0473f895b8"
+    },
+    "prototype/rig/connected-arm.cjs": {
+      "bytes": 5190,
+      "sha256": "10063cb8ed8a200f62f32d3ed9b370f71382784080d74ec3d56c1f08328c5ac3"
+    },
+    "prototype/rig/standing-leg-skin.cjs": {
+      "bytes": 2064,
+      "sha256": "8789febf1c94c10ff68c5eecf50d824d2a0dcf2ba2e19da7f38e16b785887ff9"
+    },
+    "prototype/resume-arm-20261028/limb-factory.cjs": {
+      "bytes": 7506,
+      "sha256": "af04c0b09f942263fee998e3f48a2990fa0684536cb6321c42c0507e18114d78"
+    },
+    "prototype/resume-gait-20261028/yaser-level-repaired.cjs": {
+      "bytes": 3581,
+      "sha256": "46e738a4282e4a1f8e514cf95b9784a4b0dc36d0178d5711edebd171e6ab8e69"
+    },
+    "prototype/rig/projected-level-leg.cjs": {
+      "bytes": 2276,
+      "sha256": "e131c44edda6a084def4da9c9385f29f73bb53643fb332cc5c82c23ed031687a"
+    },
+    "prototype/resume-arm-20261028/writers.cjs": {
+      "bytes": 2536,
+      "sha256": "33bc0d188d011107d0559ebbb7f4a49bb1ccb5e58a50d74b48002052d17e8a0e"
+    },
+    "prototype/rig/clean-sabah.cjs": {
+      "bytes": 4975,
+      "sha256": "b857af43a1c005aa2169a57d744c28e96c63153195f1a7821d8f6d7d932df8da"
+    },
+    "prototype/rig/actors.cjs": {
+      "bytes": 5765,
+      "sha256": "5b16d7f051aea420090aeafdcfc07c9b569ee8801f200b6a8231b158780dd468"
+    },
+    "recovered_e01/hakawi-production-20261024/e01-engine/actors.cjs": {
+      "bytes": 4790,
+      "sha256": "a9cb1bd3fc90fb76f8e2e5e194d543a9696208d5d900b1a94c04daadf209c4fd"
+    },
+    "recovered_e01/hakawi-production-20261024/e01-engine/connected-arm.cjs": {
+      "bytes": 4546,
+      "sha256": "fec485b725dfe94061712237de97c5e7e7ac0d2be76a2234057f4a9e854f0845"
+    },
+    "prototype/rig/projected-level-sabah.cjs": {
+      "bytes": 5232,
+      "sha256": "de60413f626a9665128115a58ff496952607fbc478098bde32a6085bd258080a"
+    },
+    "prototype/rig/projected-level-sabah-expression.cjs": {
+      "bytes": 5327,
+      "sha256": "686da0e08798d962e5210b416ddb75eaf1d51d2e78fadae64373b6d56aa300c9"
+    },
+    "prototype/rig/projected-level-path.cjs": {
+      "bytes": 1912,
+      "sha256": "8571bf3928ec1c6b0effaa3255adb8fb6490a387de0d5339a6aa3fba59202f4a"
+    },
+    "prototype/rig/path-gait.cjs": {
+      "bytes": 1866,
+      "sha256": "3671a7a5b7392e44bbebcb2fe07df82a5e24d144779548b217c820d5d2714910"
+    },
+    "prototype/resume-arm-20261028/kitchen.cjs": {
+      "bytes": 2744,
+      "sha256": "a5ee867be163e3561547bfdcc0993bdae98c44770d908a59073bd01fdc87fc6a"
+    },
+    "prototype/opening/kitchen.cjs": {
+      "bytes": 2150,
+      "sha256": "ffb633c47c9276e3066f30fd77c6bd73d8a659e08570f614903962603344f173"
+    },
+    "prototype/resume-arm-20261028/warm-kitchen.cjs": {
+      "bytes": 2159,
+      "sha256": "b9e8d678983e70d06cf15098ae94648b086f35dd1016b3f35ab1eb2668f4954f"
+    },
+    "prototype/opening/warm-kitchen.cjs": {
+      "bytes": 2310,
+      "sha256": "185665c1cb86c5a0ed92288c30f9b6d11666ff0948fe7613d9053c32ee89efe7"
+    },
+    "prototype/rig/clean-yaser.cjs": {
+      "bytes": 3847,
+      "sha256": "6095aa57d41707b40aae1ecc8fa39ff227cebe5e31cd0fa6212ab5c0ac7723a6"
+    },
+    "prototype/resume-gait-20261028/yaser-path-repaired.cjs": {
+      "bytes": 1479,
+      "sha256": "279f8dcc76215cce3cc489eabd845cc5365173a286f3b445af26af09030801b3"
+    },
+    "prototype/rig/projected-level-yaser-path.cjs": {
+      "bytes": 1976,
+      "sha256": "04a6f936c1cdc718e5f41a78b14820302ccf3ff3b96a1084616db1c6b67aac59"
+    },
+    "prototype/rig/projected-level-yaser.cjs": {
+      "bytes": 4070,
+      "sha256": "a8b02d4404575b06f72a85839cb05095a72a9d036a8ab41d0ad0fedbb31cd542"
+    },
+    "prototype/rig/father-seated.cjs": {
+      "bytes": 799,
+      "sha256": "eff99535156b4c851f5d4882d74e693c8fe1565b7bb322030fae427fb6d362df"
+    },
+    "prototype/resume-gait-20261028/carry-level.cjs": {
+      "bytes": 1308,
+      "sha256": "4c6d42f39f05601cf292fcdd25c7d0cbe93ddcf3535ed184aa6abf6e974130b8"
+    },
+    "prototype/resume-gait-20261028/carry-body.cjs": {
+      "bytes": 4226,
+      "sha256": "01d509e5a9a10f9956e53d5ff9dc9f6a87269f5bc46cc28fa7fe57e1dc74f256"
+    },
+    "prototype/key-visit/stair-skin.cjs": {
+      "bytes": 2521,
+      "sha256": "ba55d77ad813b1061f53734e94c557c2057e99961eb5e3bcda49dcfd4ac33e41"
+    },
+    "prototype/rig/carry-head.cjs": {
+      "bytes": 1599,
+      "sha256": "a4013146f78ef3972fbdf46985566ee75f0cf79db8401491aaac1f531b71bf84"
+    },
+    "prototype/painter/actors.cjs": {
+      "bytes": 4226,
+      "sha256": "5685bd42065780d4d6aa9e9d401763b08d5ee50f350758500e0cb679885e903b"
+    },
+    "prototype/resume-contact-v5/seated-yaser-adapter.cjs": {
+      "bytes": 2270,
+      "sha256": "305491df46a19eccd11c8b0a2071db4b9c94e9a9afc4c8bdd2dfa9b9f73239e5"
+    },
+    "prototype/resume-contact-v5/seated-general-arm.cjs": {
+      "bytes": 6514,
+      "sha256": "7dbd0a24e56f5496fa94b1f3a2a9d11e7a415c9b1b71a4714c308e893addb75b"
+    },
+    "prototype/rig/seated-yaser.cjs": {
+      "bytes": 1557,
+      "sha256": "423fab70e8e61247cee59aa30b59f1e76aa030f9a7d31112f628c934ec26c166"
+    },
+    "prototype/resume-gait-20261028/group-ascent.cjs": {
+      "bytes": 2140,
+      "sha256": "9adb0bf12da6020e316a36191b1f4c70c9763f0eb0941df9ecb7547f8edea066"
+    },
+    "prototype/opening/landing.cjs": {
+      "bytes": 2474,
+      "sha256": "78057b0d056d91b33b7985a23b653400584d383d6b3f70207efe8d65cdf60f5c"
+    },
+    "prototype/resume-gait-20261028/group-stair-actors.cjs": {
+      "bytes": 4018,
+      "sha256": "c909780c857b3c736b2106d1d2af91fe1650af0f66a1a66f5f652a5395148205"
+    },
+    "prototype/resume-gait-20261028/yaser-stair-skin.cjs": {
+      "bytes": 2244,
+      "sha256": "96727adb364c122ab821ac96fb23796fe6cbb196be61f3b8244643a5ac8a2405"
+    },
+    "prototype/key-visit/ascent-adapter.cjs": {
+      "bytes": 2134,
+      "sha256": "3f6c04663588f1f341055a01f098a418fadac9b6e043ed51a4420dd0f045dc7d"
+    },
+    "prototype/key-visit/stair-actors.cjs": {
+      "bytes": 3907,
+      "sha256": "cd9b552e491542161917752f7298f2e14d5287ff6171e95951ef7478acb01eb6"
+    },
+    "prototype/resume-arm-20261028/office-farouk.cjs": {
+      "bytes": 650,
+      "sha256": "6ce9a23cd454c81840547b97a342d97e381390aa2652c2b86c84a60d190aad04"
+    },
+    "prototype/resume-arm-20261028/farouk.cjs": {
+      "bytes": 2152,
+      "sha256": "e96e7ae7e07af25bcd40148cb14fcb9880836630addcb02e0d9c886a3f990043"
+    },
+    "prototype/office/farouk.cjs": {
+      "bytes": 1031,
+      "sha256": "0c645c2543df66517434d94e28bdde241caa4a2edf6f9f23768227e0998319e1"
+    },
+    "prototype/office/farouk-v2.cjs": {
+      "bytes": 1126,
+      "sha256": "d83d7103da4945f90052af99dc787da332a488addcda5a3c3a432ce5782f3e77"
+    },
+    "prototype/resume-arm-20261028/office-yaser.cjs": {
+      "bytes": 522,
+      "sha256": "3a73afa34ba8dd228a27a766cf045cfe490bb6031ae9e566de9ce467dd37e8ab"
+    },
+    "prototype/office/yaser.cjs": {
+      "bytes": 3923,
+      "sha256": "2b84aaa30e6ed493cfa52bcac572a5ec942463a1d6bc0e99fcaac72684559366"
+    },
+    "prototype/resume-integration/authored-neutral/office-scene.cjs": {
+      "bytes": 4826,
+      "sha256": "aea8532d1bf8a9b453fcab92a73744761e207fc2be3f6241b5146e22f36b39b2"
+    },
+    "prototype/office/scene.cjs": {
+      "bytes": 4424,
+      "sha256": "84cc3b48a2f7c15cbae32768328bb60ee663e0a1d94565f09ae425300b815a4e"
+    },
+    "prototype/resume-integration/authored-neutral/painter-scene.cjs": {
+      "bytes": 6316,
+      "sha256": "d3cb2532a082f1e87fea208c981e414c262cc1ee95b0c1ee0b55a1536f907c11"
+    },
+    "prototype/later-assets/hinged-door.cjs": {
+      "bytes": 2188,
+      "sha256": "39bd9cc140c7cd1c07239f960a5a084cec26b76cfec6a1e557f1ede184632721"
+    },
+    "storyboard/full-captions/captions-e01.cjs": {
+      "bytes": 4075,
+      "sha256": "51b69cc0641c937f1977243f8496272a7795122b90e2a6c4e55f5e2546f95a83"
+    },
+    "storyboard/full-captions/captions-e01.json": {
+      "bytes": 446151,
+      "sha256": "6bf77c5af25c11fea25ebf327366b6f7fb9bc32e28e504ebb35b79c3cbc91d99"
+    },
+    "prototype/painter-scene.cjs": {
+      "bytes": 5855,
+      "sha256": "b7a5db1a32c0721b88da03b48dd44b8cf6b0b7bec5f1243888bb456dd6271a87"
+    },
+    "prototype/resume-integration/authored-neutral/confrontation-scene.cjs": {
+      "bytes": 4620,
+      "sha256": "504b26e44118d6a49688ba6bdbeb5d10b1f5d6d3715723ea501d4aec885396b8"
+    },
+    "prototype/rig/face-closeup.cjs": {
+      "bytes": 963,
+      "sha256": "68bf51c1ac0308a6267a03aa48b79f2dde72363165be55004109ff53de629b8a"
+    },
+    "prototype/confrontation-scene.cjs": {
+      "bytes": 4321,
+      "sha256": "3a317b12bc7ebe9930b52b7078e85a1ea6c98ed06e2da638a248a7bee33997d5"
+    },
+    "prototype/resume-integration/authored-neutral/visitors-scene.cjs": {
+      "bytes": 4037,
+      "sha256": "fa1abb66d4de5ef66175b067109fcabf23090309f77c0735466a7c24c429634a"
+    },
+    "prototype/visitors/rania-level.cjs": {
+      "bytes": 2346,
+      "sha256": "078f4045c094b1b349b4c62ba156d12a01de2bd0e11479f474c1699b4bc93491"
+    },
+    "prototype/visitors/rania.cjs": {
+      "bytes": 1041,
+      "sha256": "7e92fc9fc5ca4bd381c76cfafdd1a485e9a8b37f432f688dd569b2a19834f390"
+    },
+    "prototype/visitors/entry-state.cjs": {
+      "bytes": 441,
+      "sha256": "e50dc3d1c76b5360b30672650f57865a5a594a4ee7e7c46d8678247c697b22d0"
+    },
+    "prototype/rig/measured-level-path-factory.cjs": {
+      "bytes": 1721,
+      "sha256": "f77c3c0384993e9fb712274efdfbd282ea61d03104b8d94b7c1bd3a3f5c1402a"
+    },
+    "prototype/visitors/farouk-pat.cjs": {
+      "bytes": 1033,
+      "sha256": "b9909e18889d8634e6fde5ac1407ea30ef9038971412fe54b67de987a11028fa"
+    },
+    "prototype/visitors-scene.cjs": {
+      "bytes": 3794,
+      "sha256": "c574e41143989e6e5b247bf32f283721ea55b6a7f78c513c2d726debd9469247"
+    },
+    "prototype/resume-integration/authored-neutral/key-visit-scene.cjs": {
+      "bytes": 10693,
+      "sha256": "19d9821038a3b806c0c4fd19a15f305a835d4d27f842e21d246db4a085b13c75"
+    },
+    "prototype/key-visit-scene.cjs": {
+      "bytes": 10300,
+      "sha256": "8726a6b066f963a53fcd71e52259410b833cd09049312a7af043a6453d67c968"
+    },
+    "prototype/resume-integration/master.cjs": {
+      "bytes": 2559,
+      "sha256": "374fc8ea8dc5e067f194844f281a6443598d28adb3e1558578dd462027a41b3c"
+    },
+    "prototype/master-frame-plan.cjs": {
+      "bytes": 1621,
+      "sha256": "b2de616f137bbf4c49e265242febfb2069926c4de5483ee788c52aaab3127af8"
+    },
+    "prototype/temporal-sampling.cjs": {
+      "bytes": 1076,
+      "sha256": "3d003bb616ed7bde8edb0e74c9c8aef5c0f1d3b18b5bd27b62b50e14ad8d3a91"
+    },
+    "prototype/native-stage.cjs": {
+      "bytes": 774,
+      "sha256": "13c1ba4d53928816eb071e7cdbd32afc8f1a5d95d4f3031951d2a9e5314e8b4a"
+    },
+    "prototype/snapshot-arm-caches.cjs": {
+      "bytes": 932,
+      "sha256": "5b9e9436c1730617e1d4846159293916148774302997cdf02ba570f29a306ac2"
+    },
+    "prototype/resume-integration/runtime-dependency-ledger.cjs": {
+      "bytes": 1417,
+      "sha256": "f6e9cc7282abf91fcd8a7ae773e63e9c5b261f48afbd45ed38b2a0fab3fb1e2f"
+    },
+    "prototype/resume-gait-20261028/opening-stairs.cjs": {
+      "bytes": 1446,
+      "sha256": "00a06c34aae844627cf65c5ac41aef87d4135a3f157aa6b6876610d2c4e9dec3"
+    },
+    "prototype/resume-gait-20261028/yaser-stair-repaired.cjs": {
+      "bytes": 4247,
+      "sha256": "df867b5b7a4fa8e8778dcda09a2a37c49c228d6a199d8342d07691005f6553ae"
+    },
+    "prototype/memory-scene.cjs": {
+      "bytes": 560,
+      "sha256": "118482c6d47671f89ce6be89993fd9218c5912496899daf5a94365821c5a2544"
+    },
+    "prototype/opening/clinic.cjs": {
+      "bytes": 1565,
+      "sha256": "998503bf3045d0bd817d793dd3fc6e33b7cb359c93dd249d07efad1e0fc9ab13"
+    },
+    "prototype/hope-scene.cjs": {
+      "bytes": 534,
+      "sha256": "a0e5e34d1189986c18477a2bf7827db4d4f69088131ba77ded659d47acd8554c"
+    },
+    "prototype/opening/dawn-landing.cjs": {
+      "bytes": 2059,
+      "sha256": "cca2011457c75da4675d044b8453790c7bd7d09e16d57bc581dda708a1ae08e1"
+    },
+    "prototype/opening/dawn-sabah.cjs": {
+      "bytes": 2749,
+      "sha256": "0198d1bdd892280a27acdeffe82e01b0fda6deb28b326d364b9d7b8a6daca575"
+    },
+    "prototype/opening/dawn-leg-skin.cjs": {
+      "bytes": 2064,
+      "sha256": "29ccaa840bcb3fdf619979529e474e276a9c2e0bb376f9864584c88658e1772d"
+    },
+    "prototype/resume-integration/family-connected.cjs": {
+      "bytes": 490,
+      "sha256": "f21bdea007366e637bf3512e1608269be63a425d541018d49945d9e44e55a895"
+    },
+    "prototype/resume-integration/family-table-fixed.cjs": {
+      "bytes": 3459,
+      "sha256": "dd3cf4a7e70c026a0875b9b4415a4224a12b72d148ad8f1a24be5383ad37aa7f"
+    },
+    "prototype/resume-family-contact/family-seam-v4.cjs": {
+      "bytes": 3971,
+      "sha256": "77bbddd83be0d3045189878ba18ea21116abc5278be3926dc9587035eb7d6855"
+    },
+    "prototype/resume-family-contact/sabah-seam-adapter-v3.cjs": {
+      "bytes": 4603,
+      "sha256": "2f24254c6670101ee2974153ccc5d45f448c7c7db1ead741389c31423fefb024"
+    },
+    "prototype/resume-contact-v5/cash-transform.cjs": {
+      "bytes": 1847,
+      "sha256": "da866a6a33a7ca4d4ba3b359d91626049c2674e4e9fa950385df5b6e10bff275"
+    },
+    "prototype/resume-family-contact/rigid-grips.cjs": {
+      "bytes": 1192,
+      "sha256": "bc3a745d4c92fe625789f1431d0a2a484a98c401d93eda0506e4e15564e928f1"
+    },
+    "prototype/resume-contact-v5/grips.cjs": {
+      "bytes": 3031,
+      "sha256": "c4a6676c9d63ecb52ee5600b4c75fb0264ff5ee3375ba19b25a28388712d756d"
+    },
+    "prototype/resume-integration/dream-table-fixed.cjs": {
+      "bytes": 2438,
+      "sha256": "0aeb49c705a65419459e526035b2c9972da6ac620a6de2b44e8438e0b056ec38"
+    },
+    "prototype/opening/family.cjs": {
+      "bytes": 3071,
+      "sha256": "00d8100dfc1f4edc10b641c705d94b2d912599b3ab9f0ec88eec7ef31d806ce7"
+    },
+    "prototype/resume-integration/deed-table-fixed.cjs": {
+      "bytes": 6350,
+      "sha256": "5f2d7357ff859c8a66327c93e18672e6e89fe25b125b910e7db0fbe75ae75118"
+    },
+    "prototype/office-scene.cjs": {
+      "bytes": 321,
+      "sha256": "af943e0bdc46204cce0885ac76991da63d3586ecc5151a69d1064034dbd3f100"
+    },
+    "prototype/resume-integration/key-visit-corrected.cjs": {
+      "bytes": 3827,
+      "sha256": "8ec011e19db9fb3bcbbdd268403b43b6fe726fb52b36127ab544c6c5d206d782"
+    },
+    "prototype/resume-key-contact/payment.cjs": {
+      "bytes": 4693,
+      "sha256": "64b1ed17bbdc73fa46534a7d84e6207326f77f0a8ed17345f56d3531b7d39b3e"
+    },
+    "prototype/resume-contact-v5/near-arm-frozen.cjs": {
+      "bytes": 6314,
+      "sha256": "77f562dc98888a68b965984c788b8d5fa68a8a138109a39949cfbd1afc43591d"
+    },
+    "prototype/key-visit/complete-scene.cjs": {
+      "bytes": 467,
+      "sha256": "2f7cc458b35ecc5fdaee9065a996789614d8b203705db8c8dbab406c172dfe35"
+    },
+    "prototype/bridge-scene.cjs": {
+      "bytes": 4178,
+      "sha256": "c180bdb2ee3d43d1a561153e66121656c324e38a76d1b3c83c75d00b50b8ff6f"
+    },
+    "prototype/p05-scene.cjs": {
+      "bytes": 11739,
+      "sha256": "12e9776cffbce7d5f3002457f0c0221c6347db0b216e27ce1a4fdf7d40f4321d"
+    },
+    "recovered_e01/hakawi-production-20261024/e01-engine/captions.cjs": {
+      "bytes": 1555,
+      "sha256": "9b1a603e25671c24bad76959ec8aae66aa47f640d136e79ef736570275b2cbd9"
+    },
+    "prototype/rig/carry.cjs": {
+      "bytes": 1665,
+      "sha256": "3f0296c60bb77521563d18487a4abaa39c67f0b7317c2a04e54a5ce59c4e0e38"
+    },
+    "recovered_e01/hakawi-voice-sample/corrected-pass-20261024/E01/E01-alignment.json": {
+      "bytes": 772749,
+      "sha256": "58fac4cd5aece5c639adafeb9bf1919e068d6bfb3fed22652ef919d9273c0653"
+    },
+    "prototype/bridge/envelope.cjs": {
+      "bytes": 767,
+      "sha256": "819de3390f6dabc8c6bf7311a72bc60fadff4290d9b7bbd935db56a2185578c9"
+    },
+    "prototype/resume-integration/p05-repaired-blocks.cjs": {
+      "bytes": 1783,
+      "sha256": "4314509d438e56b5ada1d8e7299a9c6c332b20d8391741df2349b915eb4220cf"
+    },
+    "prototype/resume-integration/p05-cup-v5c-target-candidate.cjs": {
+      "bytes": 11905,
+      "sha256": "ee3a72913a39fe19a0d8830a1ba9b70e4cbda11a19722bb9554d3ddd75694841"
+    },
+    "prototype/resume-contact-v5/room-drink-proof.cjs": {
+      "bytes": 5354,
+      "sha256": "fced4d8e1f6c2718771dab27a592d631f58f42189bfd79b6f041431547c5e987"
+    },
+    "prototype/resume-contact-v5/cup-grip.cjs": {
+      "bytes": 1546,
+      "sha256": "fb500139ced1a71437d8deee841ab9fafe6891f5cd7336a3dbc6c10f6447dc5b"
+    },
+    "prototype/resume-contact-v5/far-arm-frozen.cjs": {
+      "bytes": 6028,
+      "sha256": "957a3afc15d69961c2ada640ee8f3ffec1445da1639e9b2f3399bb02b9366b34"
+    },
+    "prototype/resume-contact-v5/early-setdown-proof.cjs": {
+      "bytes": 3765,
+      "sha256": "29048885046c793adc5bad3ddd626e0df55f29a3ff3bc74ab1a9b297879b2db8"
+    },
+    "prototype/resume-contact-v5/room-configurable.cjs": {
+      "bytes": 5200,
+      "sha256": "d211971eed9d50ccf44ed40a7d1be8619d2806fc256560d09340e247ea2f85bb"
+    },
+    "prototype/resume-contact-v5/female-cup-grip.cjs": {
+      "bytes": 1559,
+      "sha256": "e9c39660e9547ed40e3ad734cd37f01fefeedfe2d8310600112c43ae095fcac1"
+    },
+    "prototype/captions-p05.cjs": {
+      "bytes": 3682,
+      "sha256": "0807482580b6a5f5162f671c8a47e09d808cdd16dda9442c5b796e02bd3bab10"
+    },
+    "prototype/captions-p05.json": {
+      "bytes": 20457,
+      "sha256": "b76d9df8ef91b59ed1db8fbb1712b64520eab091ae35b41ff30d7221fa1312c7"
+    },
+    "prototype/resume-integration/confrontation-threshold.cjs": {
+      "bytes": 3825,
+      "sha256": "977abd7f4ac3bcd360c81355c34c209ff20d15203171d2c51b57b9e88a8a5180"
+    },
+    "prototype/resume-arm-20261028/carry-hinge.cjs": {
+      "bytes": 1263,
+      "sha256": "ae29f89275dbb6f1dea43d18e4e5fc2a9a042cac3fd5b237196f680485e1aed0"
+    },
+    "prototype/resume-integration/tail-timeline-wrapper.cjs": {
+      "bytes": 459,
+      "sha256": "5c80a7326c3173b055aac8015558afa0ae41fecf3f7adccdf4a5e20479c04fb0"
+    },
+    "prototype/resume-tail/tail-scene.cjs": {
+      "bytes": 1034,
+      "sha256": "439e9df7de7f6a824af4501b9f290f92dcdf6877a03ca1bdba4334ac086c3865"
+    },
+    "prototype/resume-tail/denial-aftermath-scene.cjs": {
+      "bytes": 3699,
+      "sha256": "36d98a9b4ec97ebc770bcba8bcaeae393449167d1a07e4de9d84852a6d6d8ee2"
+    },
+    "prototype/resume-tail/shared.cjs": {
+      "bytes": 3258,
+      "sha256": "ad0e422de6822760f727ffe9439350b5cac3be7cff8629d13fc8c6550a3a9d7e"
+    },
+    "prototype/resume-arm-20261028/rania.cjs": {
+      "bytes": 1887,
+      "sha256": "d5f02c889f92fec39e76d0ebe4a7b3242ef0e2957fbfcf2dc837b8e9a0ab7740"
+    },
+    "prototype/resume-tail/lowering-donor.cjs": {
+      "bytes": 1912,
+      "sha256": "e85616d718fb36f5792895b5889f5fd13d4928027010a33084bb4ed495f7faa5"
+    },
+    "prototype/resume-gait-20261028/denial-stair-state.cjs": {
+      "bytes": 1393,
+      "sha256": "42c0c2bf915b1062f95f29945d65758767323d32bbbcf9e494cce495e5fce667"
+    },
+    "prototype/resume-tail/furniture-arrival-scene.cjs": {
+      "bytes": 5364,
+      "sha256": "918c9215717cf50489ea8cdfe78668d90b3a04ee435b14445eb028cc0e68d71a"
+    },
+    "prototype/resume-tail/brother.cjs": {
+      "bytes": 580,
+      "sha256": "c807ae6a5db7b821f9266c51b5a2515920e17b21711097b8cee6ef127bc40287"
+    },
+    "prototype/resume-tail/evidence-reveal-scene.cjs": {
+      "bytes": 3892,
+      "sha256": "a25c4e93d328a8919f4f7843671d5f5af5470c33aaaf77cad5f508f359aedf6b"
+    },
+    "prototype/resume-tail/ring-insert.cjs": {
+      "bytes": 2329,
+      "sha256": "7d0a6e19acd63aab7336fc8d210bf72822b17b9d4f01b227cfe9b6fb591874cd"
+    },
+    "prototype/resume-gait-20261028/abaya-stair-state.cjs": {
+      "bytes": 1208,
+      "sha256": "f93fd38cd4189ea59eccc5143365093f7502e4c184cee59a5643b61d8c7f4765"
+    },
+    "prototype/resume-arm-20261028/abaya.cjs": {
+      "bytes": 5549,
+      "sha256": "ec77f5002d33305922b7a7f4ae3c2408e4961c6bb8234670908849732bbb785f"
+    },
+    "prototype/resume-tail/farouk-yaw.cjs": {
+      "bytes": 690,
+      "sha256": "0465a7dffa984d731be469e6cbc77c420fa86eae6ab007dae4fe9084ae345d58"
+    },
+    "prototype/resume-tail/departure-scene.cjs": {
+      "bytes": 4290,
+      "sha256": "fca570db36c20a3b0b33e363ec458f85d5276c899f2348c5b175aa0cac87dd40"
+    },
+    "prototype/resume-tail/sabah-yaw.cjs": {
+      "bytes": 635,
+      "sha256": "50ad4b29d723ec64430e904cb68add5e090042cdc6e09d0407e55a971f386257"
+    },
+    "prototype/resume-tail/sleeve-hand.cjs": {
+      "bytes": 664,
+      "sha256": "9ed839ef687a899e56a2c0f42825ad654358449ed3fe1dc9965a14c8f8a8a11c"
+    },
+    "prototype/resume-gait-20261028/departure-foot-state.cjs": {
+      "bytes": 1638,
+      "sha256": "50a90f2d15b493806e5e9866c0c6b441b1eedbc9ca37699f0c5048a9755038a7"
+    },
+    "prototype/resume-tail/consequences-scene.cjs": {
+      "bytes": 8878,
+      "sha256": "e9d5e141d82495742d23b3c9431ac5493ba9a102724be199484ca234621687db"
+    },
+    "prototype/resume-tail/box-contact.cjs": {
+      "bytes": 2154,
+      "sha256": "f40db91eb448234b132f6d7be61c048898d7d494be88d8c4efd09c26a3c36417"
+    },
+    "prototype/resume-arm-20261028/knock-hand.cjs": {
+      "bytes": 631,
+      "sha256": "6ef251d1e7141b9b38d81beaa6305c3a4dc6c987dba7dbdc662f9db0012ec0f2"
+    },
+    "prototype/assets/p05-balcony-morning-v1.png": {
+      "bytes": 3392222,
+      "sha256": "215fb9bfcd58481b8301fe00cc5909ac51c3fac467bc33f81b3ec810593cc067"
+    },
+    "prototype/assets/sabah-facial-states-v1.png": {
+      "bytes": 2477742,
+      "sha256": "3338f076f094e03315fb6f0c726fe0357325952252ed894aa99d135c1b131c42"
+    },
+    "prototype/assets/yaser-facial-states-v1.png": {
+      "bytes": 2468175,
+      "sha256": "0f50423f2d6c392f155f3f9f1bb18828fad0a3436c6fcf56be8f2dcbed0072fe"
+    },
+    "prototype/assets/p05-room-night-v1.png": {
+      "bytes": 3398718,
+      "sha256": "96defb664e77383d2136336f7b388e262453f484403c8107049f08e04494ddd2"
+    },
+    "prototype/assets/p05-table-v1.png": {
+      "bytes": 1241980,
+      "sha256": "818673cd0d5438dbaafcd60b580efa6ddbc87317d566a79a94c8b51b82f07bea"
+    },
+    "prototype/assets/yaser-seated-rig-v2.png": {
+      "bytes": 1809845,
+      "sha256": "323826daaa46413dc99f84469957d6e2d393dec6b12e843e611452da70593ea8"
+    },
+    "prototype/assets/sabah-clean-rig-v1.png": {
+      "bytes": 711478,
+      "sha256": "3db64649a5fd4388204badd353dd23fa4c8f26c850d686e8cdd8763be7b61127"
+    },
+    "prototype/assets/sabah-basil-carry-v1.png": {
+      "bytes": 1873392,
+      "sha256": "e2116430c7caf9a917bc715341dcd127549e177294ad80d32828d05cfcff3031"
+    },
+    "recovered_e01/hakawi-production-20261024/shared-assets/e01-story-props.png": {
+      "bytes": 2323996,
+      "sha256": "cfeb99f787934af14b1a53a4a32a7ea13e64b53745644c431a1a2d2ef0e34c38"
+    },
+    "recovered_e01/hakawi-production-20261024/shared-assets/e01-exact-action-props.png": {
+      "bytes": 1949483,
+      "sha256": "e69719e2fa28d2a5c515e8376569ecf3b4b5658f0a8d9d43c1d53955598871da"
+    },
+    "recovered_e01/hakawi-production-20261024/shared-assets/old-family-room.png": {
+      "bytes": 3670678,
+      "sha256": "f68155ca08d843b143ef4f068aabea9cc000d0f62acd9d3b5ba73b6a96cb4865"
+    },
+    "prototype/resume-arm-20261028/sabah-neutral-seamless-v1.png": {
+      "bytes": 532511,
+      "sha256": "08c29e1f5067eb6bdf76e731a599f7a5ef21ad26aa25152e68b24861e4a9e26e"
+    },
+    "prototype/resume-contact-v5/yaser-neutral-complete-v1.png": {
+      "bytes": 1634649,
+      "sha256": "1e579fb5037cb3f54d2dfb61e130940954097f24cbb4da3babcc2c65e3ef1eaf"
+    },
+    "prototype/resume-gait-20261028/path-state.cjs": {
+      "bytes": 2214,
+      "sha256": "d54945ec1254a41df5a3f257124566fdf2ff6eba1e62e70cf81b69b4f00d3ce2"
+    },
+    "recovered_e01/hakawi-production-20261024/shared-assets/new-living-room-closed.png": {
+      "bytes": 3427499,
+      "sha256": "d1339c87830b9632d88fb7106014cfc2fb63c5ddf97a3cfa8fd55169b83ad36b"
+    },
+    "recovered_e01/hakawi-production-20261024/kitchen-v2.png": {
+      "bytes": 3500799,
+      "sha256": "031ea6b0dd52a4d5bc11225dd14f6dbd574c1a8574585325cc8d81f9607f2d39"
+    },
+    "prototype/assets/sabah-basil-hurt-v1.png": {
+      "bytes": 2007897,
+      "sha256": "771485a4adf1d4488f3624177db43254aec9a3ce1a4198a280178c55b0316025"
+    },
+    "prototype/assets/yaser-standing-clean-rig-v1.png": {
+      "bytes": 1660684,
+      "sha256": "fe9ff0e0ee6833e8e2599110623201f0c978c1f773f0e3b6ce750f0b50c00bb7"
+    },
+    "prototype/later-assets/living-doorless-plate-v1.png": {
+      "bytes": 3397958,
+      "sha256": "073c05747bed8490956da97e20656f1aa3ad23524c5616fd7964d9e2621722cf"
+    },
+    "prototype/assets/painter-standing-v1.png": {
+      "bytes": 1993977,
+      "sha256": "8ba53efdb2d0a41e923372a976e7dacb74e9c5ba9c2ca589ca2944800033e0bb"
+    },
+    "prototype/assets/old-room-wardrobe-open-v1.png": {
+      "bytes": 3414562,
+      "sha256": "03dded7abbc1a4feb4999ee0e7f3db4ea5e21d3a8b85e446aa464b5983e116c6"
+    },
+    "prototype/assets/father-seated-writing-down-v1.png": {
+      "bytes": 1877269,
+      "sha256": "5e655169888db614d7739293faa9e8274667d1aaae426b5d190325134d0ee907"
+    },
+    "prototype/assets/yaser-seated-writing-down-v1.png": {
+      "bytes": 1760426,
+      "sha256": "6cd98036680f7bbb25c9ab1e7ca3430bc88e394cedbc844b09cd0e209e6ce734"
+    },
+    "prototype/assets/sabah-down-glance-atlas-v1.png": {
+      "bytes": 654784,
+      "sha256": "a44cd866dc9d7f65746f3e250a2540dd51b6ecfd1c4931479f7630a11703c1e5"
+    },
+    "prototype/assets/sabah-clean-rig-socketless-v2.png": {
+      "bytes": 666109,
+      "sha256": "af090e133575a27cdc1f375677e918eea96d2839f04d792d283d28f1ff85bd04"
+    },
+    "prototype/resume-arm-20261028/father-arm-seamless-v1.png": {
+      "bytes": 1850433,
+      "sha256": "2cbd3b0c9104ab508018f027aa700f792a80cfbdbbf83b75fc659db0cef10b87"
+    },
+    "prototype/resume-arm-20261028/yaser-writer-atlas-seamless-v1.png": {
+      "bytes": 1757276,
+      "sha256": "ed04f0eb6e674c5c372016b9b897a95b7925cbe6e4b2129a683c9d501a3b9917"
+    },
+    "prototype/rig/standing-head.cjs": {
+      "bytes": 1297,
+      "sha256": "5beac2038f54360731c3f33ac4b30c2d10dfb913fc4482b921c483f866558f52"
+    },
+    "prototype/assets/e01-rooftop-unfinished-v1.png": {
+      "bytes": 3489133,
+      "sha256": "39608f6d5ae6cf0581a4f731424a272f488d1b4814f0def1766cb06bca5f6140"
+    },
+    "prototype/resume-contact-v5/grip-atlas-v1.png": {
+      "bytes": 1870469,
+      "sha256": "4858cd09758c7b527f3380d8357f5b9160f9546504bfb85c2f00513b37e3022e"
+    },
+    "prototype/assets/e01-landing-dawn-open-v1.png": {
+      "bytes": 3662155,
+      "sha256": "c725787eaf6b55e28c14bea6d8b769a190a76ad98a18a0e4667c78a623ac5558"
+    },
+    "prototype/assets/sabah-warm-standing-v1.png": {
+      "bytes": 653137,
+      "sha256": "2df0640e6076e6efc85858096f464e49723297b0310b622e17bdb36ab1f7a928"
+    },
+    "recovered_e01/hakawi-production-20261024/shared-assets/hardware-office.png": {
+      "bytes": 3542616,
+      "sha256": "338fa44d918b72114431eae3412d65f8abf8c140db8c4115a96a70e156ccd4e0"
+    },
+    "prototype/office/assets/farouk-clean-v1.png": {
+      "bytes": 820749,
+      "sha256": "43abc1ec5ac67cd1ff36808b5c7e9c13971fd779b36c81a6c5682b95a3eb4c3e"
+    },
+    "prototype/office/assets/farouk-faces-v1.png": {
+      "bytes": 3088719,
+      "sha256": "f9dafe8a7547fb5b9c82c4f876dd5e1b0f2dce89db167bfc4df21901f03d4139"
+    },
+    "recovered_e01/hakawi-production-20261024/shared-assets/yaser-key-grip.png": {
+      "bytes": 1832372,
+      "sha256": "9e1089765163cc11b9754c28756d8695d81e450e352e1adba3bd45a222bbfd1c"
+    },
+    "prototype/key-visit/sabah-bedroom-drawer-open-v1.png": {
+      "bytes": 3075525,
+      "sha256": "be8238499ad3986d57d5d4c5b8bdccb488531ec9370f044e98fa9f4d7b2a4c4f"
+    },
+    "prototype/key-visit/sabah-bedroom-v1.png": {
+      "bytes": 3573954,
+      "sha256": "07db6af9d226d76469ded9209372d1e60bf5533afe3d3039f405a131248fca39"
+    },
+    "prototype/key-visit/materials-depot-v1.png": {
+      "bytes": 3712244,
+      "sha256": "7289ef5e16b5ab73c9035e02744416bcacf430b70d34850cc8a4836820c46933"
+    },
+    "prototype/assets/rania-clean-standing-v1.png": {
+      "bytes": 1742520,
+      "sha256": "d529435896b98aeb8a2579638952c79417fdd48e92abe6a0bb1ed8e29c71d99d"
+    },
+    "prototype/assets/sabah-sleeve-wipe-chain-v3.png": {
+      "bytes": 813293,
+      "sha256": "e53986ad05ba2260d8e36954ea41e9a8ef57fcbb2c092e68990f7bb5ceaf7595"
+    },
+    "recovered_e01/hakawi-production-20261024/shared-assets/clinic-corridor-clock.png": {
+      "bytes": 3834919,
+      "sha256": "55edf4034a83f020425f55b65477398fe548007211d2db332e90275db6ed0d71"
+    },
+    "prototype/office/farouk-head-v2.cjs": {
+      "bytes": 1430,
+      "sha256": "5a6443da9e52a84b01e884bcb4774939f96759ff3d07a4f3b9198bd5446b5941"
+    },
+    "prototype/assets/e01-landing-connected-v1.png": {
+      "bytes": 4038132,
+      "sha256": "3144c1d7d6c3a30c6477bdcd099850893dc722ae0a298aa0172327ab5b8779ed"
+    },
+    "prototype/resume-contact-v5/cup-grip-v1.png": {
+      "bytes": 1195613,
+      "sha256": "5f45f3036f81bcbb459dafa6db86dc8366a3487e9ebca571f38b030d85c89534"
+    },
+    "prototype/resume-contact-v5/empty-hand-v1.png": {
+      "bytes": 875572,
+      "sha256": "137a7b5436f2b805197fb1a63ccd0f31a8359327effe1f78c89cadac3419458f"
+    },
+    "prototype/resume-contact-v5/envelope-grip-v1.png": {
+      "bytes": 820318,
+      "sha256": "9bb981e4f8f46571a0d49703dc8fcc979b055f646a0eb478b1f1533d2a208198"
+    },
+    "prototype/resume-contact-v5/female-cup-grip-v1.png": {
+      "bytes": 1124397,
+      "sha256": "955ad1fb578c8eb134a193ccba5a914113e037f751d09eb0144f737ccdddef37"
+    },
+    "recovered_e01/hakawi-production-20261024/shared-assets/tabletop-closeup.png": {
+      "bytes": 3056749,
+      "sha256": "ad4a8fb438161a8cdb03ff65c284e9568485b46189a2ec90b45ef7f2c4665d96"
+    },
+    "recovered_e01/hakawi-production-20261024/shared-assets/new-living-room.png": {
+      "bytes": 3761633,
+      "sha256": "17b01c06f673de518e4732f4c1d21837b361a834192a2a2eaac7cf0ab61f102f"
+    },
+    "recovered_e01/hakawi-production-20261024/shared-assets/moving-chair-boxes-v3.png": {
+      "bytes": 1862993,
+      "sha256": "58be0630466186251cf45d1a1d0dabc6ead55d673fe9c1db152308970384f39b"
+    },
+    "prototype/resume-tail/sabah-lowering-donor-v2.png": {
+      "bytes": 997574,
+      "sha256": "442c6c04497471f2793bad7e08ac197fc33c0af4beb3a717f501183f881839f9"
+    },
+    "prototype/resume-tail/rania-brother-v2.png": {
+      "bytes": 1729050,
+      "sha256": "dde1fa02f09f688a42c6e966cabf13c4319372db2bc8d3fa8dbfa22aaf275dd0"
+    },
+    "prototype/resume-tail/street-engraved-v1.png": {
+      "bytes": 3649028,
+      "sha256": "6c66c37cdfadc09d2954f1adc42d8da143834d2d81fed88e6fec2b210bebb334"
+    },
+    "prototype/resume-tail/truck-engraved-v1.png": {
+      "bytes": 3013915,
+      "sha256": "8af9487fffcc9cdde820b9fd9d59102f7f8908d3cf76ff7775fac69501e5295a"
+    },
+    "prototype/later-assets/delivery-worker-carry-v2.png": {
+      "bytes": 1389831,
+      "sha256": "7ed81371e4d5b2502d991584a1596253fef49eaeeed74e77af2287be1b5dd0a4"
+    },
+    "prototype/later-assets/carton-body-flaps-v1.png": {
+      "bytes": 1964719,
+      "sha256": "6b393ba42b77f8f8218798896fa2b0c7997a3b9ffb7dcac4133c733d136f3106"
+    },
+    "recovered_e01/hakawi-production-20261024/shared-assets/sabah-abaya-rig.png": {
+      "bytes": 863095,
+      "sha256": "a77752c19cdf501868b1ffb8c27daf82acb12619828b7b0280fe6d125a6128ad"
+    },
+    "prototype/departure/assets/sabah-abaya-support-chain-v2.png": {
+      "bytes": 920478,
+      "sha256": "a26c0717b2dfb5ef7a5427d652874d257db8aa920a0795b74d9993e02222b1be"
+    },
+    "prototype/resume-tail/rania-ring-empty-hands-v2.png": {
+      "bytes": 1428959,
+      "sha256": "1e7b367a557dbc1668fac5c4e3a49a2f698c61b79fde0bb1208629bb136dcbb0"
+    },
+    "prototype/resume-tail/farouk-yaw-heads-v1.png": {
+      "bytes": 1871029,
+      "sha256": "ec12ba1f3b26f5f45d31496db6e86b12c9c2edc4ece6a6b3da78978ba1a793ee"
+    },
+    "recovered_e01/hakawi-production-20261024/shared-assets/sleeve-grasp-closeup.png": {
+      "bytes": 1730187,
+      "sha256": "7aff9d9b8aeee086d459d107953b0210fc937274acb65e2af3042bd246a5d9d3"
+    },
+    "prototype/resume-tail/sabah-yaw-heads-v1.png": {
+      "bytes": 1730580,
+      "sha256": "6207737691490237eff78dde54f7f8c282f21ed2b3eea102d56447616c045a39"
+    },
+    "recovered_e01/hakawi-production-20261024/shared-assets/sleeve-release-closeup.png": {
+      "bytes": 1106826,
+      "sha256": "8a0c77388389b3affb16210fe58de56ba0da951f356e5d92e32b952b89c0a1b4"
+    },
+    "prototype/resume-tail/warehouse-workbench-v1.png": {
+      "bytes": 1707745,
+      "sha256": "f71b62b7ecb1253c57cd9aa8bba7dd7e3ed2994b51bec9f1a7a3d734c9e85264"
+    },
+    "prototype/resume-tail/closed-corridor-engraved-v1.png": {
+      "bytes": 3111336,
+      "sha256": "bb78868b2409df92cc243663a6184adfe3b19ccf50580ea1dd91cafda76d8880"
+    },
+    "prototype/resume-tail/warehouse-engraved-v1.png": {
+      "bytes": 3506934,
+      "sha256": "18a566716071dd110649681eb506adf1887f732566d1a577fa8c4c98ca61713f"
+    },
+    "prototype/resume-tail/consequences/yaser-chairless-seated-v1.png": {
+      "bytes": 2133965,
+      "sha256": "c8aab5a2665ce84335af845d06b02942b045ac67375c8d9da56d54b0830ffa7a"
+    },
+    "recovered_e01/hakawi-production-20261024/shared-assets/sabah-rented-room.png": {
+      "bytes": 2578497,
+      "sha256": "8e1e8d14ea0893194967f72176d7d7e99096bb1a43d8a241c587ba321b565e31"
+    },
+    "prototype/resume-tail/warehouse-box-hands-v1.png": {
+      "bytes": 2752233,
+      "sha256": "4e81235bf2593640ce316d100ebf2b5cc773205a6ac858586c12b78825703c15"
+    },
+    "prototype/resume-tail/warehouse-box-empty-v1.png": {
+      "bytes": 2116019,
+      "sha256": "7389584265107d289849fac4af0b7bc0218fdcf1e6247cf658fcbf6fa2dd26f4"
+    },
+    "prototype/resume-arm-20261028/yaser-knock-hand-v1.png": {
+      "bytes": 743384,
+      "sha256": "6075a727f098c15a2c20e0e6bfbfb7aaca7c755727a646bea1e97b98be565a76"
+    },
+    "prototype/assets/farouk-pat-v1.png": {
+      "bytes": 780968,
+      "sha256": "d62adaf7abf83774fd6ea299a11e464f8a7265e969121f24f55f2bda0fb6567f"
+    },
+    "prototype/assets/yaser-standing-smile-v1.png": {
+      "bytes": 1623319,
+      "sha256": "58a74908ee116d2d83c2d1b62c94a5857209fe9f3a5da610f342ee718e4466d5"
+    }
+  },
+  "missingExpectedAssets": [],
+  "drift": []
+}

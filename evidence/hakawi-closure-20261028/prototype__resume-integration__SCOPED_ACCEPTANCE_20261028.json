@@ -1,0 +1,109 @@
+{
+  "status": "COMPONENT_SCOPES_ONLY_NOT_MASTER_RELEASE",
+  "authority": "Root reports independent decoded visual review; no global AV/audio claim",
+  "gates": [
+    {
+      "scope": "P05 connected191.6\u2013231.84",
+      "frames": 2415,
+      "status": "SCOPED_PASS"
+    },
+    {
+      "scope": "Key cash/depot/writing109.72\u2013123.72",
+      "frames": 840,
+      "status": "SCOPED_PASS"
+    },
+    {
+      "scope": "Farouk yaw v6",
+      "frames": 132,
+      "status": "SCOPED_PASS"
+    },
+    {
+      "scope": "Warehouse v8",
+      "frames": 250,
+      "status": "SCOPED_PASS"
+    },
+    {
+      "scope": "Threshold/lowering v2 latest",
+      "frames": 264,
+      "status": "SCOPED_PASS_EDITORIAL_ACTION_NOT_CONTINUOUS_SQUAT"
+    },
+    {
+      "scope": "Painter escort/door263.6\u2013268.64 v4",
+      "frames": 303,
+      "status": "SCOPED_PASS"
+    },
+    {
+      "scope": "Key entry142.64\u2013145.0067 v3",
+      "frames": 142,
+      "status": "SCOPED_PASS_FLOOR_AND_HOOK"
+    },
+    {
+      "scope": "Opening stairs v3",
+      "frames": 298,
+      "status": "SCOPED_PASS"
+    },
+    {
+      "scope": "Group ascent146.24\u2013148.16 v2",
+      "frames": 115,
+      "status": "SCOPED_PASS"
+    },
+    {
+      "scope": "Writer key v5",
+      "frames": 380,
+      "status": "SCOPED_PASS"
+    },
+    {
+      "scope": "Writer witness v5",
+      "frames": 134,
+      "status": "SCOPED_PASS"
+    },
+    {
+      "scope": "Writer father v2",
+      "frames": 159,
+      "status": "SCOPED_PASS"
+    },
+    {
+      "scope": "Early cup v2",
+      "frames": 246,
+      "status": "SCOPED_PASS"
+    },
+    {
+      "scope": "Family registered-note and dream seam v4, 45.04\u201347.5 seconds",
+      "frames": 148,
+      "status": "SCOPED_PASS",
+      "sha256": "c6a267dbedc923d88ff67d18a7b523a13f6cbdfbdeb06806291a022880989af5"
+    },
+    {
+      "scope": "Tail final door reachable v4",
+      "frames": 261,
+      "status": "SCOPED_PASS"
+    },
+    {
+      "scope": "Warehouse final release/rest v10 486.5\u2013487.35",
+      "frames": 51,
+      "status": "SCOPED_PASS_AFFECTED_DELTA_REPLACES_V9_END"
+    },
+    {
+      "scope": "Office v3 76.84\u2013109.72",
+      "frames": 1973,
+      "status": "SCOPED_PASS",
+      "sha256": "94fe7a04141df99d53d5d9179bb5344652f6d95ff760a92bca9f01c64ee9afc7"
+    },
+    {
+      "scope": "P05 current solver exit 227.8\u2013231.84",
+      "frames": 243,
+      "status": "SCOPED_PASS",
+      "sha256": "e5c208edc8b5ed3689a59f6da51aba606ee0a5906c3c3151ebf8caedfbe68439"
+    }
+  ],
+  "outstandingBeforeNextFreeze": [],
+  "finalGatesStillRequired": [
+    "Immutable integrated source/assets/audio snapshot",
+    "Global continuity validation on that snapshot",
+    "Native landscape chunks and frame-ledger QA",
+    "Actual audiovisual listening/caption sync",
+    "Native portrait adaptation",
+    "Semantic shorts and verified scheduling owned by root"
+  ],
+  "lastUpdateUTC": "2026-10-28T21:20:26Z"
+}

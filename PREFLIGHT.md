@@ -172,3 +172,12 @@ Evidence: [CANVA-MOTION-20261024](entries/CANVA-MOTION-20261024.md), with exact 
 - [ ] Verify suspected contact-sheet defects against exact native pixels before renderer changes. Numeric/dispatch passes never replace native anatomy/motion inspection.
 - [ ] For Hakawi derived Shorts, replace fixed ten parts with around120seconds/slightly shorter semantic segments; balance remainder without pointless tiny parts. Preserve long-first/shared-master audio/native portrait. Reconcile scheduling count before mutations; published originals unchanged.
 Evidence: [resumed repairs and status distinctions](entries/HAKAWI-RESUME-20261028.md). Full master/portrait/contact completion remains open at this snapshot.
+
+## Component-to-master closure gate — 2026-10-28 21:22
+- [ ] Inspect actual encoded facial transitions: removing source alpha is insufficient if shutter sub-samples blend discrete poses. Lock authored pose index to central frame where needed; export all child cuts.
+- [ ] Compare visible fingertip/palm/support geometry to intended contact, retaining raw reach residuals; neither zero clamps nor a mislabeled palm target is visual truth.
+- [ ] Persist world furniture/props until motivated removal. Verify layer occlusion and same-camera module boundaries in fresh stages.
+- [ ] Capture fresh-process runtime export/alias identities, filesystem-read JSON/assets/fonts and hashes. Classify changed eager imports versus executed paths, rerender affected ranges, and carry acceptance only by exact identity or explicitly bounded delta.
+- [ ] Freeze sources before chunk render. Validate each closed chunk identity/count; reconcile original sessions/logs before retrying uncertain work. Namespaced ps absence is not termination evidence.
+- [ ] Preserve rejected attempts/partial files; never patch immutable snapshot. Archive restoration and component pass do not clear whole-master visual/audio/native portrait gates.
+Evidence: [scoped closure ledger](entries/HAKAWI-SCOPED-CLOSURE-20261028-2122.md).

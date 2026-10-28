@@ -1,0 +1,24 @@
+{
+  "sourceVersion": "family-seam-v4",
+  "outsideCaptionChangedChannels": 164,
+  "outsideCaptionMaxDifference": 2,
+  "outsideCaptionRMS": 0.004959325297599201,
+  "status": "ACTUAL_ISOLATED_MASTER_STAGE_BOUNDARY_COMPARISON_NOT_GLOBAL_CLEARANCE",
+  "rows": [
+    {
+      "id": "family",
+      "t": 46.959999,
+      "file": "/workspace/scratch/bb6b47af6d33/hakawi_repair/prototype/resume-integration/family-dream-master-family.png",
+      "clamps": []
+    },
+    {
+      "id": "dream",
+      "t": 46.96,
+      "file": "/workspace/scratch/bb6b47af6d33/hakawi_repair/prototype/resume-integration/family-dream-master-dream.png",
+      "clamps": []
+    }
+  ],
+  "changedChannels": 108355,
+  "maxChannelDifference": 251,
+  "rms": 10.515635863228846
+}

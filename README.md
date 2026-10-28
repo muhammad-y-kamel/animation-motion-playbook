@@ -44,3 +44,6 @@ The original 13 entries above remain intact. [Historical audit and case index](H
 
 ## Hakawi resumed repair evidence — 2026-10-28
 [Physical-action trials and open gates](entries/HAKAWI-RESUME-20261028.md), [archive size-limit workaround](entries/HAKAWI-ARCHIVE-20261028.md), and [frozen evidence identities](evidence/hakawi-resume-20261028/manifest.json). Selected terminal-pose improvements are not full-master acceptance. Includes latest derived Shorts contract: around120seconds/slightly less, not fixed ten parts.
+
+## Hakawi component closure / immutable candidate — 2026-10-28 21:22
+[Verified trials, scoped closures and pipeline lessons](entries/HAKAWI-SCOPED-CLOSURE-20261028-2122.md). Real face ghosts, semantic contacts, dependency identity, prop ownership and checkpoint recovery are distinguished from full-master acceptance, which remains pending. [Frozen evidence](evidence/hakawi-closure-20261028/manifest.json).

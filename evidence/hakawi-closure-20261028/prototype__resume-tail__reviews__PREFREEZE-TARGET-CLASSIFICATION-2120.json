@@ -1,0 +1,38 @@
+{
+  "createdUTC": "2026-10-28T21:20:21.563Z",
+  "decision": "NO SOURCE EDIT; narrow three actual-master witness classification, not global clamp suppression",
+  "samples": [
+    {
+      "t": 372.44,
+      "actor": "Yaser",
+      "residualSourcePixels": 21.612691180314204,
+      "contact": "Actual flap upper-right corner contacts underside/base of extended index finger around native503,642. Palm target is not the visible finger contact point.",
+      "witness": "resume-integration/current-tail-372.44.png",
+      "inspection": "resume-tail/reviews/unboxing372.44-contact-inspection.png",
+      "scope": "This actual native witness supports intended flap handling. No claim that every raw palm target equals surface contact."
+    },
+    {
+      "t": [
+        383.96,
+        386.56
+      ],
+      "actor": "Farouk",
+      "contact": "Empty lowered hand before offer; stable natural bounded pose. No prop ownership/contact relies on stale requested rest anchor.",
+      "witness": [
+        "resume-integration/current-tail-383.96.png",
+        "resume-integration/current-tail-386.56.png"
+      ],
+      "scope": "Reach-limited empty rest retained intentionally; duplicate metrics from arm foreground redraw, not two arms."
+    }
+  ],
+  "sources": [
+    {
+      "file": "resume-tail/furniture-arrival-scene.cjs",
+      "sha256": "918c9215717cf50489ea8cdfe78668d90b3a04ee435b14445eb028cc0e68d71a"
+    },
+    {
+      "file": "resume-tail/evidence-reveal-scene.cjs",
+      "sha256": "a25c4e93d328a8919f4f7843671d5f5af5470c33aaaf77cad5f508f359aedf6b"
+    }
+  ]
+}

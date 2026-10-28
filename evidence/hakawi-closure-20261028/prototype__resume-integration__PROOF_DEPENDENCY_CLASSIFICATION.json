@@ -1,0 +1,52 @@
+{
+  "status": "BOUNDED_DEPENDENCY_CLASSIFICATION_NOT_GLOBAL_CLEARANCE",
+  "proofs": [
+    {
+      "proof": "key-payment-connected-v1",
+      "classification": "SCOPED_VISUAL_PASS_CARRIES_FORWARD",
+      "evidence": "All 80 recorded dependency hashes checked. Only office-scene and master entry differ. Archived master diff contains solely family route addition and status metadata; office module is eagerly loaded but not called by key scene. Key scene, payment/writer/rig runtime files unchanged."
+    },
+    {
+      "proof": "p05-connected-v1",
+      "classification": "SCOPED_PASS_CONTACT_UNCHANGED_CURRENT_EXIT_RETEST_PASSED",
+      "unaffected": "191.6\u2013227.8 uses unchanged room-configurable frozen near/far rigs; early source pathGait references unchanged path-state/gait. Other changed authored scene copies are eager imports unused here.",
+      "affected": "227.8\u2013231.84 exit uses changed shared adapter and near/far inverse solvers. Current-master 243-frame p05-exit-dependency-v2 completed with zero clamps; independent review pending."
+    },
+    {
+      "proof": "painter-door-v4",
+      "classification": "SCOPED_PASS_EXACT_CURRENT_OUTPUT_REPRODUCTION",
+      "evidence": "Current painter-door-dependency-v5 reproduces all 303 encoded frames byte-identically to accepted v4: SHA 10674ccc3b165e2847b10dd1a5b06c6ce24b0207d265dd744b103cac2df1d782. New runtime export identity and dependency hashes recorded; no duplicate visual review required."
+    },
+    {
+      "proof": "office-connected-v3",
+      "classification": "SCOPED_PASS_EXACT_RUNTIME_RESTART_EQUALITY",
+      "evidence": "75 recorded dependency hashes identical across original/restarted render, 1,973 frames complete; no source changes since except proof instrumentation."
+    },
+    {
+      "proof": "family-dream-connected-native-60fps-v4",
+      "classification": "SCOPED_PASS_WITH_MASTER_BOUNDARY_TEST",
+      "evidence": "Same v4 helper explicitly routed in both master modules; actual fresh-stage boundary and current held-note witness inspected."
+    },
+    {
+      "proof": "tail current",
+      "classification": "SCOPED_PASS_WITH_EXPLICIT_DEPENDENCY_AND_DELTA_PROOFS",
+      "evidence": "Reviewer closes current tail finite set, including warehouse v9 repaired-master gait plus v10 final 51-frame release/rest delta, and reachable door v4 all 261 frames. Exact hashes recorded in independent-story-draft-review-20261028/TAIL_CURRENT_PROOF_SHA256.txt; runtime dependency ledger TAIL-DEPENDENCIES-2110.json. No global AV claim."
+    }
+  ],
+  "boundedResiduals": [
+    {
+      "t": 372.44,
+      "actor": "Yaser near hand",
+      "residual": 21.612691180314204,
+      "classification": "Root and tail owner actual-pixel classification: extended index fingertip contacts flap edge; logged requested palm metric does not represent contact point. No source edit; raw metrics retained."
+    },
+    {
+      "times": [
+        383.96,
+        386.56
+      ],
+      "actor": "Farouk near empty hand",
+      "classification": "Root and tail owner classify stable natural lowered empty rest; no prop or contact depends on unreachable authored anchor. No source edit or metric suppression."
+    }
+  ]
+}

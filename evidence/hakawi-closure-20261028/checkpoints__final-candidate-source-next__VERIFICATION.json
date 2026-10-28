@@ -1,0 +1,10 @@
+{
+  "bytes": 11053887,
+  "sha256": "408f1d287610f594ac53b84cb70d6e0fb15349e2b1cf147652591588a4372274",
+  "captured_files": 1890,
+  "new_unique_files": 127,
+  "all_manifest_sources_verified": 1862,
+  "crc_ok": true,
+  "every_reconstruction_hash_verified": true,
+  "font_and_closure_hashes_verified": true
+}

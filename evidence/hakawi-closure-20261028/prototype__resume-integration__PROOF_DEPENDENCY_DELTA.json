@@ -1,0 +1,150 @@
+{
+  "status": "HASH_AUDIT_NOT_VISUAL_CLEARANCE",
+  "note": "These proofs were rendered through actual opt-in master. Cache includes eagerly loaded but potentially unused scene dependencies. A changed byte is a review trigger, not proof that pixels changed. Runtime route identity must also be captured in next frozen ledger.",
+  "proofs": [
+    {
+      "proof": "p05-connected-v1",
+      "recordedDependencyCount": 78,
+      "equalCount": 69,
+      "changed": [
+        {
+          "path": "prototype/resume-integration/render-current-proof.cjs",
+          "proofSHA256": "2cef449012a6fc6112b8fbc607478aec1b1642261742f7916e07233d8ebc7ab7",
+          "currentSHA256": "8dc71fb657a1acdcb2218bb1621af4e080c3ebbff56c6b814af9df6f08292d1a"
+        },
+        {
+          "path": "prototype/resume-integration/master-repaired-candidate.cjs",
+          "proofSHA256": "5cb47834bbe590d946e2cca5e948e36249dcead05fc57602462623a013be9c8c",
+          "currentSHA256": "093482c2a34dee193d3c1a3d0764c3cf3d6b299b6a778c5a7a346803dd2243ae"
+        },
+        {
+          "path": "prototype/resume-arm-20261028/adapter.cjs",
+          "proofSHA256": "945545bf1310447b8addba8b3b09ee925a7c5f177c1d451af6e02ed61f56351c",
+          "currentSHA256": "16012851f4fc88d824a5a5ecf8ff29153152785e238b8ef10d363ca2c4392e7f"
+        },
+        {
+          "path": "prototype/resume-arm-20261028/arm.cjs",
+          "proofSHA256": "55022f4c6eed547bbd50e7e4feac996a793233ea67f01f1c8c94cd0631ad98d2",
+          "currentSHA256": "624a961099a161e434e972563a53505727b03c67a0ef3915c70b8be2597e7817"
+        },
+        {
+          "path": "prototype/resume-arm-20261028/far-arm-v2.cjs",
+          "proofSHA256": "6beeab29aa85da1b51fbb081124b2c4608850f4a4e7ae703df650180d3a08531",
+          "currentSHA256": "c2be06bb46c65ffbee9dea09e9997d7f48552c8527e8d74d0ec4f316630135e9"
+        },
+        {
+          "path": "prototype/resume-integration/authored-neutral/painter-scene.cjs",
+          "proofSHA256": "d9a47dfd7c2004b7317dea85aaac8cca93e75661aca04245f17186698c136cda",
+          "currentSHA256": "d3cb2532a082f1e87fea208c981e414c262cc1ee95b0c1ee0b55a1536f907c11"
+        },
+        {
+          "path": "prototype/resume-integration/authored-neutral/confrontation-scene.cjs",
+          "proofSHA256": "7b9bd5e5fe58795cbd81323d89133d5ecf1945b183c765387e597c86d99d647b",
+          "currentSHA256": "504b26e44118d6a49688ba6bdbeb5d10b1f5d6d3715723ea501d4aec885396b8"
+        },
+        {
+          "path": "prototype/resume-integration/authored-neutral/visitors-scene.cjs",
+          "proofSHA256": "0c90d44d7fadc031bf8ffb0c47f7e755f818f734f39d06ec23fda07c7d46e288",
+          "currentSHA256": "fa1abb66d4de5ef66175b067109fcabf23090309f77c0735466a7c24c429634a"
+        },
+        {
+          "path": "prototype/resume-integration/authored-neutral/key-visit-scene.cjs",
+          "proofSHA256": "e7583cb18ec86c7faf3b302f8270dbbeeb1ffa703962e7fc3d81e29c52fba3c9",
+          "currentSHA256": "19d9821038a3b806c0c4fd19a15f305a835d4d27f842e21d246db4a085b13c75"
+        }
+      ],
+      "missing": [],
+      "classification": "REQUIRES_SEMANTIC_DEPENDENCY_CLASSIFICATION_NOT_AUTOMATIC_PASS"
+    },
+    {
+      "proof": "key-payment-connected-v1",
+      "recordedDependencyCount": 80,
+      "equalCount": 78,
+      "changed": [
+        {
+          "path": "prototype/resume-integration/master-repaired-candidate.cjs",
+          "proofSHA256": "c7efb2dd4eac0d3d270f5fa261b1fb275f077adc29b5ead97a230f626248750c",
+          "currentSHA256": "093482c2a34dee193d3c1a3d0764c3cf3d6b299b6a778c5a7a346803dd2243ae"
+        },
+        {
+          "path": "prototype/resume-integration/authored-neutral/office-scene.cjs",
+          "proofSHA256": "e7236a3b6e0a959ddb331ca0f1dfdc28a863ba4107f71e99ed7020269eb007e5",
+          "currentSHA256": "aea8532d1bf8a9b453fcab92a73744761e207fc2be3f6241b5146e22f36b39b2"
+        }
+      ],
+      "missing": [],
+      "classification": "REQUIRES_SEMANTIC_DEPENDENCY_CLASSIFICATION_NOT_AUTOMATIC_PASS"
+    },
+    {
+      "proof": "painter-door-v4",
+      "recordedDependencyCount": 69,
+      "equalCount": 62,
+      "changed": [
+        {
+          "path": "prototype/resume-integration/render-current-proof.cjs",
+          "proofSHA256": "2cef449012a6fc6112b8fbc607478aec1b1642261742f7916e07233d8ebc7ab7",
+          "currentSHA256": "8dc71fb657a1acdcb2218bb1621af4e080c3ebbff56c6b814af9df6f08292d1a"
+        },
+        {
+          "path": "prototype/resume-integration/master-repaired-candidate.cjs",
+          "proofSHA256": "7fb50165df869fa61cb6d0d13c9ac7c7de3f345298d863a7d059d7b5ff9ffdd3",
+          "currentSHA256": "093482c2a34dee193d3c1a3d0764c3cf3d6b299b6a778c5a7a346803dd2243ae"
+        },
+        {
+          "path": "prototype/resume-arm-20261028/adapter.cjs",
+          "proofSHA256": "945545bf1310447b8addba8b3b09ee925a7c5f177c1d451af6e02ed61f56351c",
+          "currentSHA256": "16012851f4fc88d824a5a5ecf8ff29153152785e238b8ef10d363ca2c4392e7f"
+        },
+        {
+          "path": "prototype/resume-integration/authored-neutral/painter-scene.cjs",
+          "proofSHA256": "873831e774414af525774fb5756686296f90be8ba2b3a283389c6ee3543dfbe9",
+          "currentSHA256": "d3cb2532a082f1e87fea208c981e414c262cc1ee95b0c1ee0b55a1536f907c11"
+        },
+        {
+          "path": "prototype/resume-integration/authored-neutral/confrontation-scene.cjs",
+          "proofSHA256": "7b9bd5e5fe58795cbd81323d89133d5ecf1945b183c765387e597c86d99d647b",
+          "currentSHA256": "504b26e44118d6a49688ba6bdbeb5d10b1f5d6d3715723ea501d4aec885396b8"
+        },
+        {
+          "path": "prototype/resume-integration/authored-neutral/visitors-scene.cjs",
+          "proofSHA256": "0c90d44d7fadc031bf8ffb0c47f7e755f818f734f39d06ec23fda07c7d46e288",
+          "currentSHA256": "fa1abb66d4de5ef66175b067109fcabf23090309f77c0735466a7c24c429634a"
+        },
+        {
+          "path": "prototype/resume-integration/authored-neutral/key-visit-scene.cjs",
+          "proofSHA256": "e7583cb18ec86c7faf3b302f8270dbbeeb1ffa703962e7fc3d81e29c52fba3c9",
+          "currentSHA256": "19d9821038a3b806c0c4fd19a15f305a835d4d27f842e21d246db4a085b13c75"
+        }
+      ],
+      "missing": [],
+      "classification": "REQUIRES_SEMANTIC_DEPENDENCY_CLASSIFICATION_NOT_AUTOMATIC_PASS"
+    },
+    {
+      "proof": "office-connected-v2",
+      "recordedDependencyCount": 75,
+      "equalCount": 73,
+      "changed": [
+        {
+          "path": "prototype/resume-integration/master-repaired-candidate.cjs",
+          "proofSHA256": "033125bd78f264be2b02ceaa5fc0698784413a59e5da388bb3e7b6231655af16",
+          "currentSHA256": "093482c2a34dee193d3c1a3d0764c3cf3d6b299b6a778c5a7a346803dd2243ae"
+        },
+        {
+          "path": "prototype/resume-integration/authored-neutral/office-scene.cjs",
+          "proofSHA256": "97daf21f4572e64526ed432471405a7069dbe8be4bf651291ae2187088146937",
+          "currentSHA256": "aea8532d1bf8a9b453fcab92a73744761e207fc2be3f6241b5146e22f36b39b2"
+        }
+      ],
+      "missing": [],
+      "classification": "REQUIRES_SEMANTIC_DEPENDENCY_CLASSIFICATION_NOT_AUTOMATIC_PASS"
+    },
+    {
+      "proof": "office-connected-v3",
+      "recordedDependencyCount": 75,
+      "equalCount": 75,
+      "changed": [],
+      "missing": [],
+      "classification": "EXACT_RECORDED_BYTES"
+    }
+  ]
+}
