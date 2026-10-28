@@ -177,3 +177,20 @@ The exaggerated forced crouch is substantially reduced; alternating foot advance
 Read receipts: `hakawi_repair/prototype/review/gait-repair/root-review/ROOT_0_167.json` and `REVIEW-168-316.json`. No normal-speed playback, listening or every-frame native inspection. **Full Family must be regenerated and reviewed; P05 carry/exit, dream and other actors remain regression gates.** The rejected Family v1 is not retroactively approved, and this candidate does not mean gait is solved project-wide.
 
 Root also reports selected **office source-still** defects: character-only enlarged-head closeups against an unchanged wide background; inflated reaching arm and weak handshake grip; arbitrary head crop. A grounded deed group was corrected in v4 stills, but writing gaze and support of the paper on its shelf remain pending. These are source/still observations and proposals, not encoded-final clearance. Require matching camera projection, readable grip/contact, whole intended anatomy and explicit document support in the subsequent encoded sequence. Do not generalize a repaired still to a complete scene.
+
+
+## Anatomy clearance is not narrative clearance — 28 October 2026 12:03 UTC
+
+New actual encoded reviews reopen semantic density even where no geometry defect was observed:
+
+- **Family v2**, SHA `a3394ecde62703a97817d8c45ef54596d632065d0f98f7c2ddd8dba71ebdb189`: root inspected all 240 proxy frames 456–695. Approximately four seconds hold a wide standing pose while only captions communicate pride and never asking for money. Status: narrative hold OPEN. Proposed source v3 uses a motivated closer view, own-pocket downward glance and Yaser's reaction; encoded retest is pending. Do not invent an asking gesture that contradicts the script.
+- **Office v1**, SHA `d47be1b2d18290ef971cc2b2434427a5489490b73d3328f9ac1be9b7f91e127e`: root inspected all 672 proxy frames 672–1343. At 88.2–94 s a near-six-second wide shot contains one generic arm raise/lower; at 94–98 s a portrait/expression swap leaves the recalled betrayal mostly in captions. No obvious limb rupture, overlap or ghost was seen, but narrative acceptance is withheld. Show hesitation, deliberate assertion and a listener response; any cutaway must clearly refer to the already established apartment/deed, not invent a new handoff.
+- **Deed**: root reports bounded writing/rights review of frames 0–431 (432 proxies plus native 150/206/239) passed its assigned scope. Later 61.12–66.72 and 71.84–76.84 s holds remain OPEN. A passed prefix does not clear the rest.
+
+Read root receipts: `family-connected-proof-v2/root-review/ROOT_456_695.json` and `office/office-proof-v1/root-review/ROOT_672_1343.json` beneath `hakawi_repair/prototype` (actual local paths retained by production). Review scope is proxies, not all-native, normal-speed playback or listening.
+
+### Office source attempts awaiting final encoded acceptance
+The producer replaced character-only giant-head inserts with one world-camera transform applied to the original room and all actors; the generated facial sheet is no longer pasted onto the body. A direct fingertip-to-fingertip document handoff was rejected in favor of desk support: slide → manager release → recipient reach/take with explicit owner/state. The promotion words start at 106.24 s, not the broader causal clause's 105.04 s; source transfer now begins at 106.24. These source corrections are not a final encoded scene pass.
+
+### Required semantic gate
+For each clause, identify an observable change in intention, relationship, object state or consequence. Then verify it in the edited image. More cuts, a moving arm, caption changes and clean anatomy do not by themselves satisfy rich storytelling. Quiet acting can be appropriate, but must communicate the specified emotional action rather than an unchanged tableau. Record separate geometry, semantic, timing and performance dispositions. Current scripts/audio stay frozen; no replacement has been published by this documentation work.
