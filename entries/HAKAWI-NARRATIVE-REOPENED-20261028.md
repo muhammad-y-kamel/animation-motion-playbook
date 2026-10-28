@@ -34,3 +34,20 @@ Required failure tests: unchanged tableau while narrated place/action changes; a
 Prompt repo: muhammad-y-kamel/hakawy-elhara, inspected main987e499dcc69d1ce4b4736048d3f2b0865186da6. Historical production paths: hakawi-production-20261024/STAGE-LOG.md; independent-qa/RELEASE-ESCAPE-LESSONS-20261024.md; E02-master/E02-FINAL-RELEASE-INDEX.json; E03-master/qa/native-semantic-parity-matrix.json and native-semantic-event-ledger.json; E04-master/E04-READY-RELEASES.json. No local production directory was found during this documentation pass. Historical Library recovery pointers: E02 libfile_4b843b2722ec819192c44792aafed9cc version13; E04 libfile_44e86c58ebc081918db5b828430d530e version7. These are not freshly materialized assets or current platform-state checks.
 
 User later extends the same principles to all channels, in order beginning with Hakawi (Sentinel_7308bc00e9548191a469a4a70b0d97d8). Apply by genre; this entry does not claim other-channel edits or repaired media.
+
+
+## Sequential cross-channel prompt maintenance completed — 28 October 2026
+Latest user messages protect current scripts and require every-frame review with sound/captions (Sentinel_b4a0cbea86508191a560c29cf2bab43d, Sentinel_ff408561f3248191ab2ed23e3e7fba88). Sentinel_4608fef853348191b8d231f6114e8e70 emphasizes rich, connected scenes: meaningful actor/environment/prop interaction, causal consequences and spatial/ownership continuity, not decorative clutter or a gesture quota.
+
+Active visual-generation and QA contracts were updated sequentially, with exact remote content readback after each commit:
+- Hakawi: ecd4ad760fb4c96f3514dcbda6a1c53c4e18e363, followed by 1d490cc2c4ba8dbf65ff4f8ebb2e46f6d0151c3d.
+- Prophets: 2affac7fd6bc22a4236455fc6d3d8d1c74ddfc77, followed by 8854dcbd1503208b6a633474f27bdf3ef8a823fc.
+- WhatIf: 32294082c5a8f10123b04d93825607484f01cab7, followed by 487eab591a996eb5ba3e3486f05fccc29371d369.
+- Moki: 3efe5ba3568c6b04fc4d512572cf7abf1d74aff0, followed by cc086ef9b1d9a70187c531453c66f1f082b554eb.
+- Ezzay: 90e5ddb9674aaef240eb518b4e0a1dfe2271f3ca.
+
+Each uses the project's own style: source-supported prophetic events without human prophet representation (abstract non-human light only); historical agency for WhatIf; visual comedy/sound-led beats without invented narration for Moki; causal scientific mechanisms for Ezzay. Shared gates require exact spoken/event beats, full limb-chain axes/chirality, native portrait restaging, every actual encoded frame and aligned captions, plus separate normal-speed audiovisual review. If listening/playback is unavailable its gate remains unreviewed; frame images, ASR and decode do not substitute.
+
+The earlier Moki pause applies to new episodes. Latest explicit instructions authorize sequential repairs of existing scheduled videos after WhatIf, with published videos untouched and no new stories. These documentation commits did not perform that production or alter publication state.
+
+No script, approved audio or historical source baseline changed. No new media generated. These are verified prompt writes, **not verified repairs of any video**. Current user-reported Hakawi defect remains OPEN until actual rebuilt outputs pass the stated tests.
