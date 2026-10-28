@@ -89,3 +89,27 @@ Camera selection must preserve the visibility of the action required by the curr
 Root reports that the four quarter reviews together cover all 3,067 actual v3 frames as proxies with selected native witnesses; the additional quarter ledgers were not independently read in this documentation pass. This does not upgrade the proof to a final pass or direct audiovisual listening.
 
 Additional observed changes requested by the builder/root: hand-detail framing crops the narrated fingers; a bottom caption crosses Yaser's jaw in a reaction; withdrawal brings the money near his lips and can read as an unintended kiss/sniff; the drink tilt is unclear. These join the hidden offer, accidental wide flashes and under-rich final basil hold above. All remain OPEN pending the planned batch repair and changed-range/seam retest. Bounds or source ownership alone cannot establish that the viewer sees the intended action rather than a different one.
+
+
+## P05 v4 engineering preview — scoped repairs retested, 28 October 2026
+
+This supersedes the v3 OPEN findings only for the representative P05 preview and reviewed behaviors. It does not erase rejected trials or establish a full E01/portrait release.
+
+- Artifact SHA-256: `54f63f82c838dc3a8e2559bbc1fe8cd87eb2ab08b17b43846fd46d766d090360`.
+- Actual encoded frame coverage: all 3,067 frames, disjoint inclusive ranges 0–767, 768–1535, 1536–2303 and 2304–3066, viewed as ordered 384×216 proxy tiles plus specific 1920×1080 native witnesses. Not every frame at native resolution.
+- No blocking issue observed in those reviewed scopes. Canonical script/audio unchanged; direct listening and normal-speed playback were not performed.
+- Preview Library ID `libfile_4c0e037174d081919ff60bc2667f938d`; root reports attachment delivery accepted at 09:31, message `Sentinel_ace7e249dbb8819197aa32cb8717335b`. Transport acceptance is not user creative approval. No YouTube replacement or old-video visibility change occurred.
+
+### Retested outcomes
+The opening portrait ends at frame 326 so the continuing cash presentation is visible. Envelope extraction remains continuous and the hard cuts do not blend double faces. Unintended intermediate wide flashes were removed in reviewed ranges. The hand detail now contains the complete cash-holding fingers, connected wrist and elbow; reaction captions sit above the hair rather than crossing the jaw. The money-withdrawal/drink staging was revised and no blocking version of the earlier unintended gesture was reported in the scoped quarter review; retain the projection ambiguity below.
+
+The ending retains the envelope during the doorway walk. A clean daylight cut at frame 2414 introduces the later scene. The matched balcony detail at frame 2762 shows exactly two old pots; return at 2923 retains the same third held pot. A modest upward head lift makes the final clause visibly less inert. No plant relocation upstairs is implied.
+
+### Residual limitations — not fixed or certified away
+- Brief initial reaching hand projects in front of the stationary glass: native frame 1948 and frames 1944–1967 retain grip ambiguity, though the glass does not move and no ownership failure was observed.
+- Small angular cloth-layer patch remains behind the raised wrist; no detached limb observed.
+- Envelope artwork is flatter than the engraved scene, and part of the far grip is obscured. Hidden grip is not independently certified.
+- Facial acting uses discrete authored expressions, not continuous facial performance or phoneme synchronization.
+- Full E01, native 9:16 outputs, normal-speed audiovisual review and listening remain separate pending gates. The separate 4.96-second opening proof is under review, not covered by P05 clearance.
+
+Evidence read for this update: `hakawi_repair/proof_build_v4/CONSOLIDATED_REVIEW.json`; `reviews/quarter1-frames0-767.json`; `hakawi_repair/prototype/rig/encoded-audit-v4/review.json`; `hakawi_repair/storyboard/v4-review-1536-2303/coverage.json`; `proof_build_v4/root-review/ROOT_2304_3066.json`. These are review receipts, not a claim that the documentation writer personally replayed the movie.
