@@ -542,9 +542,18 @@
       "title": "Reference evidence boundaries and causal prototype repair",
       "project": "AnswerAct Facebook-reference adaptation",
       "category": "reference-evidence/typography/causal-UI/transition",
-      "status": "pre_audio_prototypes_bounded_retests_script_pending",
+      "status": "final04_delivered_visual_review_with_exact_pixel_carry",
       "file": "entries/ANSWERACT-REFERENCE-PROTOTYPE-20261027.md",
-      "discovered_by": "agent, root, independent reviewers; per-component attribution"
+      "discovered_by": "agent, root, independent reviewers; per-component attribution",
+      "acceptance": "RAW_VOICE_APPROVED_FINAL_CREATIVE_ACCEPTANCE_UNESTABLISHED"
+    },
+    {
+      "id": "EZZAY-NATIVE-PORTRAIT-20261028",
+      "title": "Native portrait layout, transition and marker ownership repairs",
+      "project": "إزاي",
+      "category": "portrait-layout/typography/continuity/QA",
+      "status": "L01_L04_visual_coverage_complete_L05_pending",
+      "file": "entries/EZZAY-NATIVE-PORTRAIT-20261028.md"
     }
   ]
 }

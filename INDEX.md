@@ -153,3 +153,6 @@ IDs never change or get reused. New occurrence of same mechanism links the origi
 
 ## AnswerAct reference adaptation — pre-audio checkpoint27Oct13:37
 [ANSWERACT-REFERENCE-PROTOTYPE-20261027](entries/ANSWERACT-REFERENCE-PROTOTYPE-20261027.md): reference ASR/OCR/proxy-review limits, corrected unsupported channel assumptions, five prototype failures and encoded retests. Draft02 review pending, no new TTS/final film. Endpoint still approval did not catch transition collisions.
+
+## 2026-10-28 checkpoint
+AnswerAct reference final04 delivered with1852initial-frame review,704changed+16boundary retests and1148exact nativeYUV carry. Prior draft/style rejection preserved. [Ezzay native portrait](entries/EZZAY-NATIVE-PORTRAIT-20261028.md): confirmed layout/transition/marker repairs; L01–L04 current frame coverage complete, L05 pending. No blanket creative/audio approval.

@@ -1,0 +1,175 @@
+{
+  "status": "Native sources frozen; bounded encoded previews reviewed; full films NOT visually cleared",
+  "reviewer": "l04_l05 native worker",
+  "playbook_read": [
+    "README.md",
+    "PREFLIGHT.md"
+  ],
+  "playbook_preflight_sha": "cbd302e634c87a4b573b5002e83e1db3ee00366e",
+  "files": {
+    "ezzay-portrait/native/diagrams/L04.cjs": {
+      "sha256": "adf7a275b91c69157d3754f1fcfb2973d2eef6c602f434477e561970c4346eff"
+    },
+    "ezzay-portrait/native/diagrams/L05.cjs": {
+      "sha256": "67ae53bec2b5920874adf73beb1389e5ee91d3edcd21fd17856313c5b8f8ccb0"
+    }
+  },
+  "visual_coverage": {
+    "source_midpoint_scene_tiles": 78,
+    "tile_dimensions": [
+      476,
+      520
+    ],
+    "full_source_body_views": [
+      "L05/40_capacity_loss_0.5.png",
+      "L05/17_branches_0.5.png",
+      "L04/10_broadcast_data_0.5.png"
+    ],
+    "full_portrait_views": [
+      "L04_first.png at160s (early pre-repair render, unaffected composition)",
+      "L05_first.png at160s (superseded ion location; not final approval)",
+      "L04_cover.png t0",
+      "L05_cover.png t0"
+    ],
+    "unviewed": "Other .02/.98 source images generated/text-tested but not all visually viewed. No all-frame final-video pass, no full listening or continuous playback. Source branch midpoint views prior to v3 superseded by encoded v3 targeted checks."
+  },
+  "numeric_checks": {
+    "source_text_bounds_and_text_overlap": "234 source states across78 scenes at progress .02,.5,.98; zero remaining text bounds/overlap reports",
+    "random_access": {
+      "L04": {
+        "samples": 159,
+        "failures": 0
+      },
+      "L05": {
+        "samples": 167,
+        "failures": 0,
+        "binding": "Current v3 source, rerun 2026-10-28 00:17 UTC"
+      }
+    },
+    "all_actual_body_frame_time_text_geometry": {
+      "L04": {
+        "frame_times": 12130,
+        "failures": 0
+      },
+      "L05": {
+        "frame_times": 13105,
+        "failures": 0
+      },
+      "limitation": "Source text bounding geometry only; not encoded visual review or creative clearance."
+    }
+  },
+  "errors": [
+    {
+      "id": "EZ-PORTRAIT-L04-01",
+      "symptom": "Broadcast metadata text overlaps signal arrow",
+      "fix": "Place metadata to right of vertical signal route",
+      "evidence": "L04_rejected_scene10_mid.png; L04/10_broadcast_data_0.5.png",
+      "test": "full source body view rechecked; sampled text bounds zero"
+    },
+    {
+      "id": "EZ-PORTRAIT-L045-02",
+      "symptom": "Multiline Arabic glyph bounds can touch/overlap at48-49px baseline step",
+      "fix": "58px line step",
+      "test": "234 states text rectangles zero overlaps; corrected midpoint source sheets visually inspected"
+    },
+    {
+      "id": "EZ-PORTRAIT-L05-03",
+      "symptom": "Static terminal symbols collide with moving electron marker; third branch label crossed lower wire",
+      "fix": "Remove redundant terminal signs while retaining Arabic electrode names. Initial branch labels inside boxes failed later encoded moving-marker check; superseded by EZ-PORTRAIT-L05-06.",
+      "test": "L05 rejected scene16/17 midpoint images recreated from preserved rejected source; new scene17 full body view clear"
+    },
+    {
+      "id": "EZ-PORTRAIT-L05-04",
+      "symptom": "Rotating cell arrangement to vertical while keeping graphite layers horizontal creates visually inappropriate through-layer entry",
+      "fix": "Redraw cell and SEI graphite channels vertically; central ion corridor lies between lines, wider centered separator pore; horizontal material zoom stays horizontal",
+      "test": "New source cell/SEI views inspected at midpoint; not final encoded clearance"
+    },
+    {
+      "id": "EZ-PORTRAIT-L05-05",
+      "symptom": "Material zoom entering ion on graphite layer rather than gap",
+      "fix": "Move entry y393 to436 between layers",
+      "evidence_gap": "Earliest failed source before snapshot was not separately persisted; report remains explicit",
+      "test": "Corrected material and capacity-loss source midpoint views show particle in gap"
+    },
+    {
+      "id": "EZ-PORTRAIT-L05-06",
+      "symptom": "Encoded v2 relative328 / source7108 electron overlaps processor label inside branch box; other device labels also at risk along circuit center.",
+      "rejected_evidence": "L05_rejected_v2.cjs; decoded/L05_branch_contact328.png; L05_preview226.mp4",
+      "attempts": [
+        "Labels below boxes crossed lower return wire",
+        "Labels inside boxes avoided wire but collided with passing electron",
+        "Final: branch labels above boxes; ordinary circuit route x870 with device text atx775 leaves distinct marker corridor"
+      ],
+      "fix": "Branch label y=component_center-44, size34; ordinary right circuit x870; device label x775,size32.",
+      "test": "Current v3 preview encoded; full-frame decoded relative328 and150 visually inspected clear; six cut-adjacent frames clear; all13,105 actual body-frame-time source text geometry zero failures;167 sequential/fresh source samples zero mismatch. Not all-frame encoded clearance."
+    }
+  ],
+  "preservation": "Only new native diagram files and review outputs changed; original scripts/audio/timing untouched by this worker.",
+  "encoded_preview_coverage": [
+    {
+      "file": "L04_preview112.mp4",
+      "sha256": "bf31f0a4ccafc05334acd2931582ae3d2159183b02114385a884d801470d5c74",
+      "source_start_frame": 3360,
+      "encoded_frames": 360,
+      "visually_viewed_relative_frames": [
+        0,
+        80,
+        159,
+        160,
+        161,
+        240,
+        359
+      ],
+      "view_dimensions": [
+        1080,
+        1920
+      ],
+      "findings": "Clean sampled signal/map layouts and boundary at relative160. No mixed scene titles or bisected mechanisms in sampled cut triplet."
+    },
+    {
+      "file": "L05_preview226.mp4",
+      "sha256": "d0ab06fab4787cf9961b13d748e8d96bfd6473e428908d103ec758a7beaeffa4",
+      "source_start_frame": 6780,
+      "encoded_frames": 360,
+      "visually_viewed_relative_frames": [
+        0,
+        45,
+        89,
+        90,
+        91,
+        180,
+        295,
+        296,
+        297,
+        328,
+        359
+      ],
+      "view_dimensions": [
+        1080,
+        1920
+      ],
+      "status": "REJECTED v2: electron obscures processor label at relative328."
+    },
+    {
+      "file": "L05_preview226_v3.mp4",
+      "sha256": "6fa7c0a67f4dc16e7197d22dc5da9f9fdfa32ae975f45fe189c5d3a4f67b82bf",
+      "source_start_frame": 6780,
+      "encoded_frames": 360,
+      "visually_viewed_relative_frames": [
+        89,
+        90,
+        91,
+        150,
+        295,
+        296,
+        297,
+        328
+      ],
+      "view_dimensions": [
+        1080,
+        1920
+      ],
+      "findings": "Both boundary triplets clean. Targeted marker contacts at150 (device) and328 (processor) leave Arabic labels readable; processor label now above component, device label left of route. Only these8 decoded frames inspected, not all360."
+    }
+  ]
+}

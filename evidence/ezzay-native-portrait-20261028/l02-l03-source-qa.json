@@ -1,0 +1,154 @@
+{
+  "status": "source-preview-ready; NOT full encoded release",
+  "modules": {
+    "L02": {
+      "path": "ezzay-portrait/native/diagrams/L02.cjs",
+      "sha256": "65f99c4d75cdf1e48b68e9495063d4e64bc036c89dae547ed3ab61f72e35b9e0"
+    },
+    "L03": {
+      "path": "ezzay-portrait/native/diagrams/L03.cjs",
+      "sha256": "fc4711b847a4f172261bbe01ee32cf5996ba3ebda854b9b061b42088807d2150"
+    }
+  },
+  "source_preview_review": {
+    "L02": {
+      "unique_stages": 34,
+      "times_and_paths": "ezzay-portrait/review-l02-l03/L02_preview-ledger.json",
+      "viewed_scope": "representative unique-stage source PNGs shown in mobile-scale sheets; targeted full-resolution PNGs for overlaps and ambiguity. Not all40 scene occurrences, not all encoded frames."
+    },
+    "L03": {
+      "unique_stages": 37,
+      "times_and_paths": "ezzay-portrait/review-l02-l03/L03_preview-ledger.json",
+      "viewed_scope": "representative unique-stage source PNGs shown in mobile-scale sheets; targeted full-resolution PNGs for overlaps and ambiguity. Not all40 scene occurrences, not all encoded frames."
+    }
+  },
+  "automated_state_test": {
+    "cases": 240,
+    "mismatches": 0,
+    "scope": "all 40 original scenes per episode at start, min(3s,half duration), last frame; sequential canvas vs fresh canvas raw pixel identity. Not all-frame visual review."
+  },
+  "repairs": [
+    {
+      "id": "L02-layout-001",
+      "finding": "Phone finger/pen top overlapped scene label for first-row touches",
+      "repair": "Repositioned mobile targets downward while retaining phone proportions and touch path phases",
+      "evidence": "L02_00_touch_intro.png, L02_01_plastic_intro.png and L02_39_screen_summary.png"
+    },
+    {
+      "id": "L02-layout-002",
+      "finding": "Transparent-layer light arrow crossed electrode label",
+      "repair": "Moved light route to left side, independent of centered labels",
+      "evidence": "L02_11_transparent.png"
+    },
+    {
+      "id": "L02-layout-003",
+      "finding": "Nail/stylus/conductive label approached upper tool contour",
+      "repair": "Raised labels to175 logical pixels",
+      "evidence": "L02_32_nail.png and L02_35_stylus.png"
+    },
+    {
+      "id": "L03-layout-001",
+      "finding": "Waveform approached scene-title descenders",
+      "repair": "Reflowed brain, waveform, nerve endpoint and labels vertically",
+      "evidence": "L03_20_brain_pain.png"
+    },
+    {
+      "id": "L03-layout-002",
+      "finding": "Mucus label descenders exceeded shrinking barrier at thin state",
+      "repair": "Moved label below cross-section with explicit leader to current barrier midpoint",
+      "evidence": "mucus-final.png and updated stomach stage previews"
+    }
+  ],
+  "withdrawn_diagnosis": {
+    "claim": "Sequential canvas clipping defect",
+    "correction": "Not established: isolated crops of original contact sheets show supposedly missing shapes were present. A visual interpretation error in crowded sheets, not a validated media defect. Capsule clip removed as equivalent geometric simplification, not claimed causal fix.",
+    "evidence": [
+      "old-paracetamol-sheet-crop.png",
+      "blood-sheet-crop.png"
+    ]
+  },
+  "pending": [
+    "final encoded motion and transition review",
+    "all actual final-frame readable-scale visual coverage",
+    "full audio packet/duration verification by parent integration",
+    "Library packaging"
+  ],
+  "encoded_previews": [
+    {
+      "id": "L02",
+      "path": "ezzay-portrait/review-l02-l03/L02_preview12s.mp4",
+      "sha256": "984751786552b1482e1bebab8d86fc70175759d2cbdae0a5670e86e566e463f1",
+      "absolute_start_frame": 390,
+      "frame_count": 360,
+      "fps": 30,
+      "decoded_frames_visually_reviewed": [
+        0,
+        30,
+        90,
+        108,
+        109,
+        110,
+        120,
+        180,
+        230,
+        231,
+        232,
+        359
+      ],
+      "actual_absolute_times": [
+        13.0,
+        14.0,
+        16.0,
+        16.6,
+        16.633333333333333,
+        16.666666666666668,
+        17.0,
+        19.0,
+        20.666666666666668,
+        20.7,
+        20.733333333333334,
+        24.966666666666665
+      ],
+      "coverage": "12 selected decoded frames out of360, including the actual cut-before/cut-after frames; mobile-scale sheets. Not all frames, not continuous playback or listening.",
+      "finding": "Whole mechanisms, Arabic labels and no mixed wipe at reviewed cuts. No known HIGH visual defect in reviewed sample."
+    },
+    {
+      "id": "L03",
+      "path": "ezzay-portrait/review-l02-l03/L03_preview12s.mp4",
+      "sha256": "89b9c271c89dcf01062eeb1fc7a1b7bba9f856b54ff10f561c9141f40f5d1b96",
+      "absolute_start_frame": 6420,
+      "frame_count": 360,
+      "fps": 30,
+      "decoded_frames_visually_reviewed": [
+        0,
+        60,
+        120,
+        150,
+        151,
+        152,
+        180,
+        240,
+        300,
+        335,
+        336,
+        359
+      ],
+      "actual_absolute_times": [
+        214.0,
+        216.0,
+        218.0,
+        219.0,
+        219.03333333333333,
+        219.06666666666666,
+        220.0,
+        222.0,
+        224.0,
+        225.16666666666666,
+        225.2,
+        225.96666666666667
+      ],
+      "coverage": "12 selected decoded frames out of360, including the actual cut-before/cut-after frames; mobile-scale sheets. Not all frames, not continuous playback or listening.",
+      "finding": "Whole mechanisms, Arabic labels and no mixed wipe at reviewed cuts. No known HIGH visual defect in reviewed sample."
+    }
+  ]
+}

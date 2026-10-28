@@ -34,3 +34,17 @@ Next: approved script → authorized voice → actual phrase anchors → coheren
 ## Evidence
 [Checkpoint](../evidence/answeract-reference-prototype-20261027/checkpoint.md), [error log](../evidence/answeract-reference-prototype-20261027/error-log.md), [opening review](../evidence/answeract-reference-prototype-20261027/opening-review.md), [first-half actions](../evidence/answeract-reference-prototype-20261027/actions-first.md), [last-half actions](../evidence/answeract-reference-prototype-20261027/actions-last.md), [corrected reference analysis](../evidence/answeract-reference-prototype-20261027/reference-analysis.md), [audio evidence](../evidence/answeract-reference-prototype-20261027/audio-evidence.md).
 Compiler read source/reports; did not independently view or listen. Prior production cases/history untouched.
+
+## Final04 replaces rejected draft02 direction — delivered2026-10-28 00:33 UTC
+
+Draft02 style was rejected; clean prototype QA did not establish script/style acceptance. User supplied final04 and approved raw Haytham Take01. Old company-file storyboard was discarded. Restored Library source assets after workspace replacement did not authorize modifying earlier originals.
+
+Full initial1852-frame encoded film was visually reviewed (root0–923,producer924–1851), six consecutive360×640 frames per sheet plus native scene details. Two failures were corrected:
+- Crossed-out negative role wording created double negation. Use positive role labels “صاحب الصفحة” then “مودريتور” and strike them; keep spoken track/main heading unchanged.
+- Progressive forms left unnecessarily empty panels. Show empty labeled outlines from the start while actual values retain speech anchors. This improves visual structure without revealing answers prematurely.
+
+Rejected source/video retained in versions/initial-final04. Revised704 changed native decoded frames plus16boundaryframes directly re-viewed (root294,producer426). Remaining1148 native decoded YUV frames byte-identical to previously viewed output; carry is exact pixel evidence, not source-only inference. No blocking geometry issue identified in this review; not subjective creative acceptance or full listening.
+
+Final SHA256 `64cce399c17d5305bd587d88a0d38974c6d04992dd66dab403eb91a6e7fa1b8a`;1080×1920,30fps,1852frames,61.733333s video; approved61.727s narration unchanged, no additional TTS/time stretch for repairs. Original conceptual UI and fictional consistent sample prices, not live capture. Reference soundtrack not reused; no publication. Root reports delivery00:33; final creative acceptance remains unestablished.
+
+[Final review](../evidence/answeract-reference-prototype-20261027/final04-review.md), [repair plan](../evidence/answeract-reference-prototype-20261027/final04-repair-plan.md). Compiler read these records; did not newly listen or independently watch.
