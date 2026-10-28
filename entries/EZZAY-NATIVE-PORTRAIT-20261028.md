@@ -27,3 +27,16 @@ L05 source numeric all-frame-time bounds/random-seek tests and targeted encoded 
 Design labels, moving markers and routes as separate owned lanes; validate actual moving contacts, not just midpoint text rectangles. Review complete transitions and invalidate earlier encoded coverage after changed wipes. Separate tooling errors and withdrawn image-interpretation suspicions from actual film defects. Preserve before/after evidence and exact reviewed hashes.
 
 [Historical L01 review](../evidence/ezzay-native-portrait-20261028/l01-review.md), [L02/L03 trials](../evidence/ezzay-native-portrait-20261028/l02-l03-source-qa.json), [L04/L05 trials](../evidence/ezzay-native-portrait-20261028/l04-l05-source-review.json). Current whole-frame ledgers remain under native/qa/L01–L04/FULL_FRAME_COVERAGE.json; source reports' earlier pending fields are historical, superseded only by stated current coverage.
+
+
+## Completion appendix — 28 October 2026, 03:24 UTC
+The earlier L05 pending checkpoint is superseded by [the complete coverage receipt](../evidence/ezzay-native-portrait-20261028/l05-full-frame-coverage.json). Reviewers directly inspected all **13,378 unique actual encoded frames**, with no missing or duplicate frames, in consecutive nine-tile sheets at 360×640 per frame. Output SHA-256: `a91d86734b3bc687cfa4a6d50aff2e02da5eab0c42c58036cc11ed8e5110e67c`. Across L01–L05 the documented coverage totals **63,084 frames**. This appendix compiles the reviewers' evidence; it does not claim a fresh independent media review by the documentation worker.
+
+No blocking layout defects were reported within that review. Retained limitations matter: the energy ball descends during a “waiting” subtitle at frames5049–5157; electron/ion alternation5432–5635 is not phrase-locked and the external path reveal lags6322–6419. Particle joining/population overlaps9576–9614,9783–9791,9903–9911,10023–10031 and10730–10785 do not obstruct labels. An external electron loop resets near12867; repeated headings remain. These are not a perfect synchronization claim, an independent scientific fact audit or full audio listening. User creative acceptance remains unestablished.
+
+Coordinator reports the L05 video delivered alone at03:24UTC, message `Sentinel_e55e515aa3b48191b41fec84694a270f03`; no repeat-video delivery is required.
+
+### Packaging failure — source handoff still open
+A 233,195,180-byte source ZIP was saved to Library as `libfile_29be210dec6c8191a72320e81fbdf085`, but sending failed with “A Library file exceeds the ChatGPT upload limit.” Library storage success is not successful chat delivery. Smaller per-episode archives below50MiB are being prepared; **their delivery and the packaging repair are not yet verified**.
+
+A separate preflight omission selected only top-level QA and missed nested ledgers. Selection was corrected **before the first ZIP and upload**; no bad archive was delivered on that basis. Prevention: inventory nested evidence recursively, inspect the archive manifest, check size against the intended delivery route, and verify the send receipt separately from upload/save. Preserve the oversized artifact as failed handoff evidence rather than calling it delivered.

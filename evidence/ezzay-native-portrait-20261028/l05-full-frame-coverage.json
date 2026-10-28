@@ -1,0 +1,217 @@
+{
+  "episode": "L05",
+  "sha256": "a91d86734b3bc687cfa4a6d50aff2e02da5eab0c42c58036cc11ed8e5110e67c",
+  "media": "ezzay-portrait/native/exports/L05_portrait_review.mp4",
+  "total_frames": 13378,
+  "directly_inspected_unique_frames": 13378,
+  "missing_frames": [],
+  "duplicate_frames": [],
+  "coverage_ledger_files": [
+    {
+      "ledger": "ezzay-portrait/native/qa/L05/aa_actual9_0_359/ledger.json",
+      "sha256": "8c2f2645052070ec280ad2fca87713bac943359b902bb8520ce56d306dc64416",
+      "count": 360
+    },
+    {
+      "ledger": "ezzay-portrait/native/qa/L05/aa_actual9_1080_1439/ledger.json",
+      "sha256": "f20725a9414ceeeb5ab237328cf1cf32f1666cb51d83e9142f677711a8b24840",
+      "count": 360
+    },
+    {
+      "ledger": "ezzay-portrait/native/qa/L05/aa_actual9_1440_1799/ledger.json",
+      "sha256": "b2d31734914541693380d882c1e0bba70b2e0d92a096d76de33ad510b52b62ff",
+      "count": 360
+    },
+    {
+      "ledger": "ezzay-portrait/native/qa/L05/aa_actual9_1800_2159/ledger.json",
+      "sha256": "8b052749fa66222c223a58efac557dc4291576cf5b3f0451678406c1df097d75",
+      "count": 360
+    },
+    {
+      "ledger": "ezzay-portrait/native/qa/L05/aa_actual9_2160_2519/ledger.json",
+      "sha256": "751e3f5834aff4287aabcc124fb9efc6217764741a07c3d7a279e3296395e53d",
+      "count": 360
+    },
+    {
+      "ledger": "ezzay-portrait/native/qa/L05/aa_actual9_2520_2879/ledger.json",
+      "sha256": "1e385901d718f5585a2910b412bbd4e76c3f9e69ecd70323cfe193c9b63b4505",
+      "count": 360
+    },
+    {
+      "ledger": "ezzay-portrait/native/qa/L05/aa_actual9_2880_3239/ledger.json",
+      "sha256": "2da52658b2d9bc97df77b82a2cf38b646a1f136ca6ecd16ea2bb0c982af4910b",
+      "count": 360
+    },
+    {
+      "ledger": "ezzay-portrait/native/qa/L05/aa_actual9_3240_3599/ledger.json",
+      "sha256": "b62afd2cb02c047a50cd664a78015f62e2c96b2d00e1d4e0ed4b250b9501c5cf",
+      "count": 360
+    },
+    {
+      "ledger": "ezzay-portrait/native/qa/L05/aa_actual9_3600_3959/ledger.json",
+      "sha256": "155b309bcf6ed01b680e5f25fef35df072928fc5b2df615dfd253bc67b72f8dc",
+      "count": 360
+    },
+    {
+      "ledger": "ezzay-portrait/native/qa/L05/aa_actual9_360_719/ledger.json",
+      "sha256": "4f75e4b242925a10e7d212e22f796c4838495cfd2c0da88a777e45a31052fc8c",
+      "count": 360
+    },
+    {
+      "ledger": "ezzay-portrait/native/qa/L05/aa_actual9_3960_4319/ledger.json",
+      "sha256": "f410c886ed30104d9ea4f59b91c1c2df54759161094f89849e8db7ca35b9f0d2",
+      "count": 360
+    },
+    {
+      "ledger": "ezzay-portrait/native/qa/L05/aa_actual9_4320_4679/ledger.json",
+      "sha256": "7c37030d359c967ea721b96ddf1166ddec6d1bc36c67a242d09f31d98bc5443d",
+      "count": 360
+    },
+    {
+      "ledger": "ezzay-portrait/native/qa/L05/aa_actual9_4680_5039/ledger.json",
+      "sha256": "7177c24e321aa0098c4f195602067df78c38e7c3ce41f3debd28d5dbcdceb94f",
+      "count": 360
+    },
+    {
+      "ledger": "ezzay-portrait/native/qa/L05/aa_actual9_5040_5399/ledger.json",
+      "sha256": "70c812d0f1142866f5ba43e59163c8f140f9840ec7c3c917e25627f260f190cc",
+      "count": 360
+    },
+    {
+      "ledger": "ezzay-portrait/native/qa/L05/aa_actual9_5400_5759/ledger.json",
+      "sha256": "8890f3106188c5da62f7d4ec2a4457497610aa7dcad40fd876dfe00ff5f0fb06",
+      "count": 360
+    },
+    {
+      "ledger": "ezzay-portrait/native/qa/L05/aa_actual9_5760_6119/ledger.json",
+      "sha256": "a30b9c080a57e4a02f8ba65f9768a3cea0195b87c07b6e4f7363f9969e9fe9b6",
+      "count": 360
+    },
+    {
+      "ledger": "ezzay-portrait/native/qa/L05/aa_actual9_6120_6479/ledger.json",
+      "sha256": "909df585823d39b82f5d7e929221efe3690fdb000b13c85d87b6e6852617d861",
+      "count": 360
+    },
+    {
+      "ledger": "ezzay-portrait/native/qa/L05/aa_actual9_6480_6839/ledger.json",
+      "sha256": "8dc693944337452f1418e324cdedc0ca31033949ca115611b64fbe0864edc0fe",
+      "count": 360
+    },
+    {
+      "ledger": "ezzay-portrait/native/qa/L05/aa_actual9_6840_7199/ledger.json",
+      "sha256": "cf34b80a3d4d06070ba2a33dfbfa0eccbef7110c4057507f51e6cd6a46b12945",
+      "count": 360
+    },
+    {
+      "ledger": "ezzay-portrait/native/qa/L05/aa_actual9_7200_7559/ledger.json",
+      "sha256": "4c81e1fd9e6ff1ded952091b25a7dc7ab21d21765e63b09a0a811c5a1211e960",
+      "count": 360
+    },
+    {
+      "ledger": "ezzay-portrait/native/qa/L05/aa_actual9_720_1079/ledger.json",
+      "sha256": "15e909ee3f4de865d8aea79831b499f93989c7ddd9880ab8c320fb10ba1a8285",
+      "count": 360
+    },
+    {
+      "ledger": "ezzay-portrait/native/qa/L05/aa_actual9_7560_7919/ledger.json",
+      "sha256": "75a3db885cae37f5580ad424650004a742b97aa7d49f9672cdfa98c9ccb407b3",
+      "count": 360
+    },
+    {
+      "ledger": "ezzay-portrait/native/qa/L05/aa_actual9_7920_8279/ledger.json",
+      "sha256": "184f29e10dd75f1f4a7eff6281a1ad5662ca62dd88c875029008382da6709445",
+      "count": 360
+    },
+    {
+      "ledger": "ezzay-portrait/native/qa/L05/aa_actual9_8280_8639/ledger.json",
+      "sha256": "36dce25c6f8c3efdd819bf547b0121614fce6861368a4370b9d7fd3a289962d0",
+      "count": 360
+    },
+    {
+      "ledger": "ezzay-portrait/native/qa/L05/aa_actual9_8640_8999/ledger.json",
+      "sha256": "f83cb38482f29fee169a08c2bd898c3881c8e0ed2e0016ccd2eebe62009f81de",
+      "count": 360
+    },
+    {
+      "ledger": "ezzay-portrait/native/qa/L05/aa_actual9_9000_9359/ledger.json",
+      "sha256": "86ce250f1c7e3db386b4555cc47b659b57d13cabd69a68e311bace3eb604c61f",
+      "count": 360
+    },
+    {
+      "ledger": "ezzay-portrait/native/qa/L05/actual9_10440_10799/ledger.json",
+      "sha256": "e78662e358b2cbda3e83428fb005a8433f77f463b2c93565fe9d11721a5984f8",
+      "count": 360
+    },
+    {
+      "ledger": "ezzay-portrait/native/qa/L05/root_actual9_10800_11159/ledger.json",
+      "sha256": "708e8eda9bd6a8c7ecc95ad52fa021492215ab2613af4200e626cad273f8d9c8",
+      "count": 360
+    },
+    {
+      "ledger": "ezzay-portrait/native/qa/L05/root_actual9_11160_11519/ledger.json",
+      "sha256": "0f5269613f0c62ef7b22c34fd4a24e4efe3a582ea965711810a7439dd43317d8",
+      "count": 360
+    },
+    {
+      "ledger": "ezzay-portrait/native/qa/L05/root_actual9_11520_11879/ledger.json",
+      "sha256": "3efd7a7322d07184d5d28d8b9d4ada2ff53211a6c201ed0d19d158f0eecbba30",
+      "count": 360
+    },
+    {
+      "ledger": "ezzay-portrait/native/qa/L05/root_actual9_11880_12239/ledger.json",
+      "sha256": "0f890a976e49937a170d805be41bcf0ba239b028402da5fc1f78bcdd4ba5cbed",
+      "count": 360
+    },
+    {
+      "ledger": "ezzay-portrait/native/qa/L05/root_actual9_12240_12599/ledger.json",
+      "sha256": "129d0ad1c9341429343c2e91625e5d8150430992853d234ea8d00c0b939a6613",
+      "count": 360
+    },
+    {
+      "ledger": "ezzay-portrait/native/qa/L05/root_actual9_12600_12959/ledger.json",
+      "sha256": "d0a3529516f64e345633dac43df031c5c9909076c57ca13dab059a8e53373610",
+      "count": 360
+    },
+    {
+      "ledger": "ezzay-portrait/native/qa/L05/root_actual9_12960_13319/ledger.json",
+      "sha256": "5d3a5f91a161d7e176c82e9f2510d92939a414162dbc6e29c0614a443d4e6e04",
+      "count": 360
+    },
+    {
+      "ledger": "ezzay-portrait/native/qa/L05/root_actual9_13320_13377/ledger.json",
+      "sha256": "07ed2058bded0f44814c9a083d4292c0cc2fd821e903b289a21ad84a75a19acb",
+      "count": 58
+    },
+    {
+      "ledger": "ezzay-portrait/review-l04-l05/L05_actual_009360_009719/ledger.json",
+      "sha256": "db6ea64d468d38e60f89ebe68897ca4ab929146c11ae8be5b4fcf447c4c75e28",
+      "count": 360
+    },
+    {
+      "ledger": "ezzay-portrait/review-l04-l05/L05_actual_009720_010079/ledger.json",
+      "sha256": "98dbf15d9f20cbdaaa5e3510c9a02b5be9a80fdec9274e75eec4b53922867b8a",
+      "count": 360
+    },
+    {
+      "ledger": "ezzay-portrait/review-l04-l05/L05_actual_010080_010439/ledger.json",
+      "sha256": "53b7f31d78ed058638207dc7526a67138cc6d8c066ada3a75ef7dbdff5bb6a7b",
+      "count": 360
+    }
+  ],
+  "method": "Every actual encoded frame directly visually inspected by assigned reviewers in9-tile sheets at360x640 each; not inferred from extraction/decode.",
+  "blocking_layout_defects": [],
+  "limitations": [
+    "No full audio listening or independent scientific fact audit.",
+    "Illustrative particle cycles are not phrase-locked."
+  ],
+  "minor_observations": [
+    "Energy-ball descends5049–5157 while subtitle says waiting.",
+    "Electron/ion overview alternation5432–5635 not phrase-locked; external path reveal lags6322–6419.",
+    "Particle joining/population overlap9576–9614,9783–9791,9903–9911,10023–10031 and10730–10785; no label obstruction.",
+    "External electron loop reset near12867; repeated headings retained."
+  ],
+  "additional_receipts": [
+    "ANSWERACT_HELPER_0_9359.json",
+    "ROOT_10800_13377.json"
+  ]
+}
