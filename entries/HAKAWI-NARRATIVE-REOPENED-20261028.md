@@ -132,3 +132,16 @@ Evidence: `hakawi_repair/prototype/review/immutable-arm-cache/README.md`, `WIDE-
 An earlier kitchen proof terminated with SIGKILL / exit 137 at frame 318. Its cause is unknown; do not claim proven out-of-memory merely from that exit code. Root reports the retry completed 734 frames with SHA-256 `ee8214a7c24cb06fa4b525b2a27528b850ffcf010ba57e7977cf2486117aea63` and is under QA. Completion is not visual acceptance.
 
 The active design keeps 1080 output, 60 fps and three distinct cut-aware temporal samples. The six-pose early test is one kitchen configuration, not whole-master memory certification. Measure RSS across every new scene/configuration; prepare immutable textures only after masking is complete. If sequential process chunks are needed, retain exact global timestamps, audio continuity and source hashes. No downscaling, dropped samples, direct listening or final release pass is implied.
+
+
+## Opening and hope sequence — scoped composition repairs, 28 October 2026
+
+Root reports that the opening caption obscured the head. Moving it to a context-appropriate safe bottom area repaired the overlap; a same-phrase caption-position jump at 1.1 s remains minor polish pending integrated-master review. A safe zone is shot-specific, not one fixed coordinate copied everywhere.
+
+The hope sequence (source 17.2–32.4 s) initially cropped to the lower body during the wish for a chair. That composition hid the face, indicating hand and meaningful empty space. The correction keeps those three together; it does **not** materialize a chair or cup merely because a character wishes for one. Distinguish narrated desire from an event that actually occurs.
+
+An abrupt body-facing change in a wide shot was corrected by a motivated closeup at the exact 20.96 s change. This is a coherent editorial choice, not permission to hide anatomical discontinuities generally; the surrounding poses, gesture and spatial context still require review.
+
+Hope v3 SHA-256: `9353ce7f012f332724cf08acad2bb4fdbb99162b7e8324d837b7078c57d5374b`. Consolidated receipts cover all 912 actual decoded frames in disjoint ranges 0–455, 456–647 and 648–911 at 384×216 proxy resolution plus selected native witnesses. Root freshly reviewed v3 frames 456–647 instead of blindly carrying v1 clearance. No blocking issue was observed in the documented scopes. Held facial expressions and three-sample hand motion blur remain stated limitations, not phoneme synchronization.
+
+Evidence: `hakawi_repair/prototype/opening/hope-connected-proof-v3/CONSOLIDATED_REVIEW.json` and `ROOT_456_647.json`; the rejected v1 `ROOT_456_647.json` preserves its explicitly excluded lower-body tail. These are engineering-sequence reviews, **not full-master, native 9:16, every-frame-native, normal-speed playback or direct-listening approval**. Opening caption polish remains pending in the integrated master. No production files were changed by this documentation update.
