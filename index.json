@@ -554,6 +554,15 @@
       "category": "portrait-layout/typography/continuity/QA",
       "status": "L01_L05_visual_coverage_complete_source_handoff_delivered_with_limits",
       "file": "entries/EZZAY-NATIVE-PORTRAIT-20261028.md"
+    },
+    {
+      "id": "HAKAWI-NARRATIVE-REOPENED-20261028",
+      "title": "Fixed tableau and unrelated gestures; reversed arms reported again",
+      "project": "حكاوي الحارة",
+      "category": "narrative-animation/anatomy/QA",
+      "status": "user_observed_open_prompt_repair_unverified",
+      "file": "entries/HAKAWI-NARRATIVE-REOPENED-20261028.md",
+      "discovered_by": "user"
     }
   ]
 }

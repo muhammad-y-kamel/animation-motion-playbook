@@ -160,3 +160,6 @@ AnswerAct reference final04 delivered with1852initial-frame review,704changed+16
 - 28Oct03:24: Ezzay L05 receipt completes all63,084 actual-frame reviews across L01–L05. Minor timing/particle limitations retained; no full listening or creative acceptance claim. Oversized source ZIP saved but chat send failed; smaller-archive handoff remains pending.
 
 - 28Oct03:36: Ezzay source handoff repaired: second28–32MB attempt also rejected; five compact11.998–13.875MB archives accepted for sending. Audio/raster and30-frame rebuild checks recorded; not full rerenders or proof of user opening. Earlier failures and visual limitations retained.
+
+## Hakawi reopened — 28 October 2026
+[Current narrative/anatomy rejection](entries/HAKAWI-NARRATIVE-REOPENED-20261028.md): user reports fixed tableaux, unrelated arm motion and still-reversed arms. OPEN, no rendered repair yet; mandatory per-clause storyboard and bilateral whole-chain/all-frame gates. Old scoped passes remain historical.
