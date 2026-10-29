@@ -1,0 +1,34 @@
+{
+  "status": "SCOPED_ACTUAL_PASS",
+  "scope": "Early B1 886 actual frames: [336,1190) and [1740,1772). No final-film or audio-listening claim.",
+  "supersedes_classification_only": {
+    "report": "ACTUAL_REVIEW.json",
+    "sha256": "701421454be870cfba46a401478a5114b6bda520d42022dda7db84705f707bdd",
+    "prior": "SCOPED_ACTUAL_HOLD, office sleeve ambiguity",
+    "retained_unchanged": true
+  },
+  "actual_office_proof_sha256": "644fd3c3232ee1653c0102617fc98a31e8eb794bcb2c57cff1970aa866fde809",
+  "resolution": "Independently viewed donor provenance and re-viewed actual native1742/native1771. Both curved fabric outlines match intrinsic folds in the single canonical passive-arm donor; not a duplicated sleeve or limb. Source read confirms donor sprite drawn once, original torso clipped away from disputed arc, active near-arm IK omitted for nativeRest. No redesign or rerender warranted for this ambiguity.",
+  "native_witnesses": {
+    "native-1742.jpg": "872b9e6b1689964f7fae08bb43864b644182dc921af27563df9ad0be83947a4e",
+    "native-1771.jpg": "8e8af76f6669a66858e662c0cee010dab664b03be131d83ad2f28926ee366780"
+  },
+  "provenance": {
+    "path": "REST_ARM_FOLD_PROVENANCE.jpg",
+    "sha256": "f8964c1dec208631a30204f4cacfa8d53ef0965cada9fb4f9b9c538872741b0f"
+  },
+  "source_checked": {
+    "path": "hakawi_repair/native-portrait-e02/blocks/early/standing-adel-contour-v9.cjs",
+    "sha256": "bfc559aed7616e412a278ca012514e4e0fd1bb08e8d5d3a85bf6035a409211ce",
+    "lines": [
+      23,
+      27
+    ]
+  },
+  "coverage_basis": "All 886 sequential frames and 13 critical natives already reviewed under retained ACTUAL_REVIEW and batch receipts; food854 PASS unchanged, office32 classification now PASS.",
+  "limitations": [
+    "Finite repair proof only",
+    "No publication or source mutation",
+    "No listening claim"
+  ]
+}

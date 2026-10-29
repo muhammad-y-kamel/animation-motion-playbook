@@ -1,0 +1,428 @@
+{
+  "status": "FINAL_P02_V34_ACTUAL_VISUAL_PASS",
+  "scope": [
+    7148,
+    14323
+  ],
+  "coveredFrames": 7175,
+  "newActualSequentialFrames": 3604,
+  "exactDecodedEqualAcceptedCarryFrames": 3571,
+  "overlap": 0,
+  "gaps": 0,
+  "videoSHA256": "569762dae722f01f5668f3c7f2507db38c7246112efb921ef206bb12bda24456",
+  "completeSHA256": "63d92321deeee2ad2a91f2009956e7b6129cebd81e38efaedbd9231477661ead",
+  "carryPlan": {
+    "status": "COVERAGE_PLAN_NOT_PASS",
+    "comparisonSHA256": "cb1174d501359b1446c7c7aaad0525f023e77ad7265898c583031a6116df72e1",
+    "rulesSHA256": "4a46650b78c3bf03a36be259192f9eca9f7e56c463d1d0b37f4c7f1adf7e04b7",
+    "priorReviewSHA256": "3ea36c0ebdd19e37ef9e2664237f269a27954ca21aa178114e3c2ca7db348573",
+    "newSHA256": "569762dae722f01f5668f3c7f2507db38c7246112efb921ef206bb12bda24456",
+    "carryRanges": [
+      [
+        7148,
+        8527
+      ],
+      [
+        9331,
+        9534
+      ],
+      [
+        9579,
+        9785
+      ],
+      [
+        9829,
+        11030
+      ],
+      [
+        12800,
+        13382
+      ]
+    ],
+    "carryCount": 3571,
+    "mustReview": [
+      [
+        8527,
+        9331
+      ],
+      [
+        9534,
+        9579
+      ],
+      [
+        9785,
+        9829
+      ],
+      [
+        11030,
+        12800
+      ],
+      [
+        13382,
+        14323
+      ]
+    ],
+    "mustReviewCount": 3604,
+    "batches": [
+      [
+        8527,
+        8977
+      ],
+      [
+        8977,
+        9331
+      ],
+      [
+        9534,
+        9579
+      ],
+      [
+        9785,
+        9829
+      ],
+      [
+        11030,
+        11480
+      ],
+      [
+        11480,
+        11930
+      ],
+      [
+        11930,
+        12380
+      ],
+      [
+        12380,
+        12800
+      ],
+      [
+        13382,
+        13832
+      ],
+      [
+        13832,
+        14282
+      ],
+      [
+        14282,
+        14323
+      ]
+    ],
+    "equalHeldCount": 0
+  },
+  "carryPlanSHA256": "89d589535104160e8d8875d1dbe0c47aa4ab61dd3dd0c8259bb72efa1259e837",
+  "actualBatchReceipts": [
+    {
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/A-v34/batch-08527-08977/REVIEW.json",
+      "sha256": "afa59d00a4026e1de68edbeaed3754f27437e7f55190434a3267779b6e1a8b23",
+      "globalRange": [
+        8527,
+        8977
+      ],
+      "count": 450
+    },
+    {
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/A-v34/batch-08977-09331/REVIEW.json",
+      "sha256": "05448e245662839ce7c69df6eb372e264429d26f6003a50b1577c7e1f69ba327",
+      "globalRange": [
+        8977,
+        9331
+      ],
+      "count": 354
+    },
+    {
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/A-v34/batch-09534-09579/REVIEW.json",
+      "sha256": "2555c530c5a66b553e8ebb0f474f4ecc7d96a278e9b198a383625cbad39df745",
+      "globalRange": [
+        9534,
+        9579
+      ],
+      "count": 45
+    },
+    {
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/A-v34/batch-09785-09829/REVIEW.json",
+      "sha256": "7ce44652d0dce73a42c8a90cb58a2668cb32edff3cd8cfc4a13326754eb1feed",
+      "globalRange": [
+        9785,
+        9829
+      ],
+      "count": 44
+    },
+    {
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/A-v34/batch-11030-11480/REVIEW.json",
+      "sha256": "8a3bec58739a6351bbe8290d475e411fd4d258d6f9e2b94ecdc4dda46b340dbd",
+      "globalRange": [
+        11030,
+        11480
+      ],
+      "count": 450
+    },
+    {
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/A-v34/batch-11480-11930/REVIEW.json",
+      "sha256": "975fac7e03bd3eb0a37a0b68923c50acfbe74778f4c98fa13da8259f886eb27b",
+      "globalRange": [
+        11480,
+        11930
+      ],
+      "count": 450
+    },
+    {
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/A-v34/batch-11930-12380/REVIEW.json",
+      "sha256": "d0bbc6a6ae10ddfeeb5c3d5673d89ce1f213e43983de3bcfa6685176484a5461",
+      "globalRange": [
+        11930,
+        12380
+      ],
+      "count": 450
+    },
+    {
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/A-v34/batch-12380-12800/REVIEW.json",
+      "sha256": "6b0acb1cb29346ffa259149f46f02ad60af58f0f856f98b1552efcbd5460cf44",
+      "globalRange": [
+        12380,
+        12800
+      ],
+      "count": 420
+    },
+    {
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/A-v34/batch-13382-13832/REVIEW.json",
+      "sha256": "912571ffb10408230a94ba29b10f2de226922969dcc85f44248d4f5a8e5db721",
+      "globalRange": [
+        13382,
+        13832
+      ],
+      "count": 450
+    },
+    {
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/A-v34/batch-13832-14282/REVIEW.json",
+      "sha256": "08a105c86d49197445a8878a193e6330fc94cd2aebb12d725da4886c498f651a",
+      "globalRange": [
+        13832,
+        14282
+      ],
+      "count": 450
+    },
+    {
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/A-v34/batch-14282-14323/REVIEW.json",
+      "sha256": "bb934471bbb37c18ef3f623f5abdda6ae8d72fe961b419be5249646e081bcba1",
+      "globalRange": [
+        14282,
+        14323
+      ],
+      "count": 41
+    }
+  ],
+  "nativeWitnessesAllActuallyViewed": [
+    {
+      "globalFrame": 7148,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/A-v34/native/g7148.jpg",
+      "sha256": "dae0cf4587ac6f54dc05b98e57eaaedc4c4eecc6728fb3a35b1139d8439f6df8"
+    },
+    {
+      "globalFrame": 7159,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/A-v34/native/g7159.jpg",
+      "sha256": "93fd17dfea2bedb8e62970f18f1a5c6cf8fa24c06326e39fc1d94f511172e3ec"
+    },
+    {
+      "globalFrame": 7300,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/A-v34/native/g7300.jpg",
+      "sha256": "5466b9e37d26e1e8c194b77bc56ffe0ab3090d1539ade2734a30f2cd75f21799"
+    },
+    {
+      "globalFrame": 7405,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/A-v34/native/g7405.jpg",
+      "sha256": "08d6dc5c1a8192d36b552a861f4cde3da1aedcb3152e8d5a9460dba7b640e8b8"
+    },
+    {
+      "globalFrame": 7406,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/A-v34/native/g7406.jpg",
+      "sha256": "4f5d408bceffcbc202064e96d5beb998c5aa5662350dea5244298ddf2501b951"
+    },
+    {
+      "globalFrame": 7540,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/A-v34/native/g7540.jpg",
+      "sha256": "39c7dcc65ad7d7af5939521d01618c25ddf33c6db1e83f2f4434e937d26cd0fe"
+    },
+    {
+      "globalFrame": 7632,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/A-v34/native/g7632.jpg",
+      "sha256": "82695c6af430945a6cf7477ebbec4c9a13d9f6a4537f04254a8db761942e7ff1"
+    },
+    {
+      "globalFrame": 7820,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/A-v34/native/g7820.jpg",
+      "sha256": "0965ec235167f92a8fd50350de4c8f53a3a4224671aae5414508d0816cd1bb18"
+    },
+    {
+      "globalFrame": 8534,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/A-v34/native/g8534.jpg",
+      "sha256": "348f0ef7b34c54a6b8863f60ffe86448f27890edcd2853fff3faa00383a3d07c"
+    },
+    {
+      "globalFrame": 8535,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/A-v34/native/g8535.jpg",
+      "sha256": "28a9f05c80e65d1276d7a0e4d93d78691abbe70cbf5bf98200231a941e29e0fd"
+    },
+    {
+      "globalFrame": 8816,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/A-v34/native/g8816.jpg",
+      "sha256": "d9187d04e4e6b47dec2a91942bb0a4868ac43aa1bf8ec4ae979f3acc883f73bd"
+    },
+    {
+      "globalFrame": 8817,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/A-v34/native/g8817.jpg",
+      "sha256": "9468add7cbe05f251eb8aa0266d45fa484dcd98c106a1f5251086594e3800eb3"
+    },
+    {
+      "globalFrame": 8890,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/A-v34/native/g8890.jpg",
+      "sha256": "d438c69806f54a568ba9fefa4b44db39fd0513b013420d4d3c6102094610252f"
+    },
+    {
+      "globalFrame": 9340,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/A-v34/native/g9340.jpg",
+      "sha256": "fa578bfbef7c816d2ec508db5de4ab7781055a59f76c865f066eb8d385489e6a"
+    },
+    {
+      "globalFrame": 9970,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/A-v34/native/g9970.jpg",
+      "sha256": "681e320cc879adbd92923d1f5f5f3ac20894c57d8fa07ea1c69448b7f75fb51d"
+    },
+    {
+      "globalFrame": 10050,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/A-v34/native/g10050.jpg",
+      "sha256": "d9ee8087c840e1a16cd18291a744cb64b9b8469f6230551303508fc6adc711b0"
+    },
+    {
+      "globalFrame": 10118,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/A-v34/native/g10118.jpg",
+      "sha256": "5be013560234b633e3f88be130556ffe7e31099badff44eb6c0e00630677dbd1"
+    },
+    {
+      "globalFrame": 10430,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/A-v34/native/g10430.jpg",
+      "sha256": "6baa29d937bd5619cbf9728f6b63155577c5a96ef6d0521e9b2d604961637c0a"
+    },
+    {
+      "globalFrame": 10460,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/A-v34/native/g10460.jpg",
+      "sha256": "3c10500bd514c58e105bc92bc8f26f0036f39a935941cfda80c2bcd04240dceb"
+    },
+    {
+      "globalFrame": 11048,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/A-v34/native/g11048.jpg",
+      "sha256": "97420161d5eda896bd1fb713ec630acd4317353584a533d4e4b96af1ad37a2d1"
+    },
+    {
+      "globalFrame": 11248,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/A-v34/native/g11248.jpg",
+      "sha256": "2edbdc14b07274cc17af8d175417f1f87637c063e1c0e1cb8dac5bb0123e4a2a"
+    },
+    {
+      "globalFrame": 11415,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/A-v34/native/g11415.jpg",
+      "sha256": "c2630cf7e1b5878163b6d970f1d666efca338f22d0373ff7c4a7845d580a53a5"
+    },
+    {
+      "globalFrame": 11600,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/A-v34/native/g11600.jpg",
+      "sha256": "3b8797ee549a1d2c5acb9262b11761dce014eb560cc0dfd73b364236706aafb2"
+    },
+    {
+      "globalFrame": 12225,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/A-v34/native/g12225.jpg",
+      "sha256": "b04c63ff0d5073faaed053e72895d657b786b3d2e8543900874c12b26a029cb3"
+    },
+    {
+      "globalFrame": 12260,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/A-v34/native/g12260.jpg",
+      "sha256": "593d353bf5a983db98a5e39d0e8e219b1613212aa55a2b08d5ab3796f396decd"
+    },
+    {
+      "globalFrame": 12277,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/A-v34/native/g12277.jpg",
+      "sha256": "e68b5cf69818291f4975d732d5d052cb3b4b3a87d537f00cc15654bb79fbee94"
+    },
+    {
+      "globalFrame": 12278,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/A-v34/native/g12278.jpg",
+      "sha256": "a44effc8d66af21d3dac1a9d14fa6a9e9dc177f46e35f5f79d0b4d957179806f"
+    },
+    {
+      "globalFrame": 12330,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/A-v34/native/g12330.jpg",
+      "sha256": "e23f57c28674b9706559d50936c4ee6b7a1665fc46d95669341a87013870a0fc"
+    },
+    {
+      "globalFrame": 12620,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/A-v34/native/g12620.jpg",
+      "sha256": "da26931924f3679f9ce7720cff27ec1106814769903e5afb63bfb61bd2e4f7dd"
+    },
+    {
+      "globalFrame": 13381,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/A-v34/native/g13381.jpg",
+      "sha256": "ce893d08c7debb0a7647187df5e0219bec02487174d3cd763d9c7dd2505708a2"
+    },
+    {
+      "globalFrame": 13382,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/A-v34/native/g13382.jpg",
+      "sha256": "5486ad105d5a97c0139ec9ea3baf86145a98444c16c2f9f6eddbb510a74843d6"
+    },
+    {
+      "globalFrame": 13410,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/A-v34/native/g13410.jpg",
+      "sha256": "2b463e104118838d87f21b0f9837b36037ba3ad60be58820ab5025cfd5071c56"
+    },
+    {
+      "globalFrame": 13510,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/A-v34/native/g13510.jpg",
+      "sha256": "00975851c462c87dfc549245425065ec2dd161b490116c2d7f3c6a5dcbf2e48f"
+    },
+    {
+      "globalFrame": 14255,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/A-v34/native/g14255.jpg",
+      "sha256": "3e47937bd3232ee5fea42f2c930c5684e67298707c9cc2c86fad30efe5d31ad5"
+    },
+    {
+      "globalFrame": 14256,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/A-v34/native/g14256.jpg",
+      "sha256": "aaee68c5fb4204aafb064ad4bd84f0a1f197a5a5cd84b850254e66103698b38c"
+    },
+    {
+      "globalFrame": 14260,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/A-v34/native/g14260.jpg",
+      "sha256": "22c82b00ff58b97f9423885f9e4fba0ce579aa23965354195ff77aa709078717"
+    },
+    {
+      "globalFrame": 14322,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/A-v34/native/g14322.jpg",
+      "sha256": "e8922d9b6050e0cfcc7252513e4c148d3a29c9118143aff8dfc300708a8d9f83"
+    }
+  ],
+  "nativeRecipeManifestSHA256": "6355e055bb0e13565847fe904ff58795c73d894cbfbd0195c14d41aea519f33d",
+  "distinctLayoutCount": 19,
+  "layoutInventoryReference": "hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/A/P02_OLD_FULL_ACTUAL_REVIEW_AND_NATIVE_LAYOUTS.json",
+  "nativeAssessment": "All 19 layouts inspected on final native output. Stock cut is genuine close cargo with supported pallet; phone/inspection contacts continuous. Drawer, signed receipt, false time and transfer retain paper identity and correct ownership. Sherif full lower body and waistband continuous in yard/office/aftermath. Adel resting sleeve is previously adjudicated canonical fold, not duplicate; raised shoulders and lowering paper arm retain connected contours without historical notch/stub. All captions visible in safe upper band; canonical cut guards intact. Final desk paper supported.",
+  "adjacentSeamWitnesses": [
+    {
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/B/P01-v34/native/global7147.jpg",
+      "sha256": "015a0b0b2bb79b699b3efa74c74111098163afb5593e7cc29179a94cb3ac9db2",
+      "sourceMP4SHA256": "e974f06d0b9f5fcd12d83296e9027b8d840d440950acc4a72169c5ce076632db",
+      "globalFrame": 7147,
+      "actuallyViewed": true
+    },
+    {
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/E/native/g14323.jpg",
+      "sha256": "beed1cff102533746197c0c4db5ff1a5d453c6a6e4f9f9b12cb315ddfef4eee1",
+      "sourceMP4SHA256": "a97fe74b033912d3ea79247afa5242760c20b6d872bf372091201c8bef555af2",
+      "globalFrame": 14323,
+      "actuallyViewed": true
+    }
+  ],
+  "seamAssessment": "7147 to7148 preserves truck/gate composition, expected caption blank.14322 to14323 preserves bodies, lowering-hand/paper/table composition, expected caption blank.",
+  "audioListeningClaim": false,
+  "publicationClaim": false,
+  "finiteProofSubstitution": false,
+  "unresolvedVisualHolds": []
+}

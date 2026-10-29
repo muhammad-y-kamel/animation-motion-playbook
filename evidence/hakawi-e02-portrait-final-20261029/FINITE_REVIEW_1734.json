@@ -1,0 +1,158 @@
+{
+  "status": "FINITE_VISUAL_PASS_NOT_FINAL_PART",
+  "sourceSHA256": "2731b79b6f58cbb9448d435ff9f5939165dfd7a7461ee7c020088eaa570a6d09",
+  "completeSHA256": "cd78245ab907c3a572a474145156c4246287e1f81089558ab8b43359e5f65c80",
+  "actualViewedCoverage": [
+    17817,
+    18230
+  ],
+  "actualViewedCount": 413,
+  "zeroGap": true,
+  "sheets": {
+    "status": "NOT_YET_VISUALLY_REVIEWED",
+    "video": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/seated-neck-v35-413-1727/proof.mp4",
+    "sha256": "2731b79b6f58cbb9448d435ff9f5939165dfd7a7461ee7c020088eaa570a6d09",
+    "firstFrame": 17817,
+    "endFrame": 18230,
+    "completeSHA256": "cd78245ab907c3a572a474145156c4246287e1f81089558ab8b43359e5f65c80",
+    "recipeSHA256": "7c13ac069f2ce476bc7fff2247877563373c1ad7b9264441d9a11908eb148042",
+    "sheets": [
+      {
+        "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/E/17817-18230/sheet-00.jpg",
+        "firstFrame": 17817,
+        "endFrame": 17847,
+        "sha256": "bc164e9131f0318888e5fb695a9e3cf73ad087bead9ba797c60ba2915bc4b3a3"
+      },
+      {
+        "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/E/17817-18230/sheet-01.jpg",
+        "firstFrame": 17847,
+        "endFrame": 17877,
+        "sha256": "5b83253be079e1291c194ab0ccb92631d601f274588b6924c092e712b208156b"
+      },
+      {
+        "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/E/17817-18230/sheet-02.jpg",
+        "firstFrame": 17877,
+        "endFrame": 17907,
+        "sha256": "a8c65a2b1549740bd3f4b3c5a0fa56794e2bf185d03f7712ebc5ee344c64ec72"
+      },
+      {
+        "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/E/17817-18230/sheet-03.jpg",
+        "firstFrame": 17907,
+        "endFrame": 17937,
+        "sha256": "31c23458358c861df5362790ce87a763c9a9b86c89ac92ca7834ce3faf4e71a9"
+      },
+      {
+        "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/E/17817-18230/sheet-04.jpg",
+        "firstFrame": 17937,
+        "endFrame": 17967,
+        "sha256": "406dfe7c0b26db90a33f8eb31defdb7a2ff8a2640390753a44465d8787142162"
+      },
+      {
+        "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/E/17817-18230/sheet-05.jpg",
+        "firstFrame": 17967,
+        "endFrame": 17997,
+        "sha256": "b36b0e8a94a6797bfa250f3d026979c8f14c67494f369422b82d12f6f0a65b4a"
+      },
+      {
+        "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/E/17817-18230/sheet-06.jpg",
+        "firstFrame": 17997,
+        "endFrame": 18027,
+        "sha256": "638da5ccc6b3012d63de51e9857558c5854713ae1ca7425c397364a4625ba57b"
+      },
+      {
+        "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/E/17817-18230/sheet-07.jpg",
+        "firstFrame": 18027,
+        "endFrame": 18057,
+        "sha256": "ccdba8ea7bbd335aa6245b285a6c62174ea878897a96e4aa44d3a73b516a4865"
+      },
+      {
+        "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/E/17817-18230/sheet-08.jpg",
+        "firstFrame": 18057,
+        "endFrame": 18087,
+        "sha256": "368926cf7fae6d9151c5cb10807eeae54df8adde42cdd765f21b75f065815558"
+      },
+      {
+        "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/E/17817-18230/sheet-09.jpg",
+        "firstFrame": 18087,
+        "endFrame": 18117,
+        "sha256": "6039c2500b74b20cb9e81bb4c20235aaef2da0f02918552eef8ef3a01a27c572"
+      },
+      {
+        "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/E/17817-18230/sheet-10.jpg",
+        "firstFrame": 18117,
+        "endFrame": 18147,
+        "sha256": "523cdb2281482760dd38aa61c87460dfd1b4334572aa429b6dc6a9271e3b1046"
+      },
+      {
+        "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/E/17817-18230/sheet-11.jpg",
+        "firstFrame": 18147,
+        "endFrame": 18177,
+        "sha256": "f2b38276178654d3a74208a7c0550e02d77201460edc951d84c569d9821c8de9"
+      },
+      {
+        "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/E/17817-18230/sheet-12.jpg",
+        "firstFrame": 18177,
+        "endFrame": 18207,
+        "sha256": "674cd1e82b1232d5e1f94d7d739ee82433d45a706280871c0b6d82f8a998dc8c"
+      },
+      {
+        "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/E/17817-18230/sheet-13.jpg",
+        "firstFrame": 18207,
+        "endFrame": 18230,
+        "sha256": "45bcac4519b1418e9f9d24bd68b3ceefc5b2f2971fa1853866471611840beb7e"
+      }
+    ]
+  },
+  "nativeActualViewed": {
+    "source": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/seated-neck-v35-413-1727/proof.mp4",
+    "sha256": "2731b79b6f58cbb9448d435ff9f5939165dfd7a7461ee7c020088eaa570a6d09",
+    "recipe": [
+      "ffmpeg",
+      "-v",
+      "error",
+      "-i",
+      "hakawi_repair/native-portrait-e02/runtime-finite/proofs/seated-neck-v35-413-1727/proof.mp4",
+      "-vf",
+      "select=eq(n\\,1)+eq(n\\,2)+eq(n\\,33)+eq(n\\,183)+eq(n\\,410)+eq(n\\,411)",
+      "-vsync",
+      "0",
+      "-q:v",
+      "2",
+      "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/seated-neck-v35-413/native/n%02d.jpg"
+    ],
+    "frames": [
+      {
+        "path": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/seated-neck-v35-413/native/g17818.jpg",
+        "globalFrame": 17818,
+        "sha256": "5085b04eeac72fb26ba4d67f6bfc80d65c28c7b3cbeaf9ab7ebdd0aec73c9c0e"
+      },
+      {
+        "path": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/seated-neck-v35-413/native/g17819.jpg",
+        "globalFrame": 17819,
+        "sha256": "7e2b83eb05d8259732591f481803edbac05f3d1796d9e79780f9e6b5a03530f7"
+      },
+      {
+        "path": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/seated-neck-v35-413/native/g17850.jpg",
+        "globalFrame": 17850,
+        "sha256": "5b7001566cfb4b30884ded9d3bfbbb6618a6f14b825d9a37ff44bcbdf0a93cdc"
+      },
+      {
+        "path": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/seated-neck-v35-413/native/g18000.jpg",
+        "globalFrame": 18000,
+        "sha256": "5c69402db585436fd52b7646c59d71d3abaae449e8d8fcb9fdacda8606ecc328"
+      },
+      {
+        "path": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/seated-neck-v35-413/native/g18227.jpg",
+        "globalFrame": 18227,
+        "sha256": "1e89cd912078fb58d00de2daaec28a5ae56fbf4bb5ba8213ac1733df6f6dcc7d"
+      },
+      {
+        "path": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/seated-neck-v35-413/native/g18228.jpg",
+        "globalFrame": 18228,
+        "sha256": "f3608e145ba0a3c924f1cec27a73a6f23dcfaaa3d595d727cdccb001567688cd"
+      }
+    ]
+  },
+  "finding": "All413 actual decodedframes viewed sheets00-13. Expression switch17818\u219217819 follows intended clock; thereafter coherent head-motion, single neck/jaw without originalchin, cutoff or hole. Captions stable through changes; hands/arms/body/chair/feet remain coherent. End18227\u219218228 clean cut. Six delivered native checks confirm corrected neck/collar. No further visual hold in finiteproof.",
+  "limitations": "Visual only, no audio listening. Final P03 replacement still requires exact decoded comparison and zero-gap coverage closure."
+}

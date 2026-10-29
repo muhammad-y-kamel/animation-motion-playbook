@@ -1,0 +1,82 @@
+{
+  "status": "SCOPED_ACTUAL_VISUAL_PASS",
+  "video": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/pocket-v34-retake95-1625/proof.mp4",
+  "sha256": "0d1ad4b7ac6ed5a17655112f11e5bf212a220aa3b3909a77c88dce5fb124f495",
+  "firstFrame": 2637,
+  "endFrame": 2732,
+  "completeSHA256": "bfe68bcd3b2df110ea4484c296529a820c96048b1bf9030367cd5caa32ea95d9",
+  "recipeSHA256": "d008a762130f8750ff9d965b99195d8246e08baa63261b7b8a61dea6769c9dfa",
+  "sheets": [
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/pocket-v34-1627/02637-02732/sheet-00.jpg",
+      "firstFrame": 2637,
+      "endFrame": 2667,
+      "sha256": "e58c497e4f8120e5c3d1376e60e2fc731bf5f9df6a131a8fcf8f962d15e78b71"
+    },
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/pocket-v34-1627/02637-02732/sheet-01.jpg",
+      "firstFrame": 2667,
+      "endFrame": 2697,
+      "sha256": "bfe2f432c2aff6b630fdbb0c7a95b98f4f3acd51497e9f2c7369cdda6e00b92a"
+    },
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/pocket-v34-1627/02637-02732/sheet-02.jpg",
+      "firstFrame": 2697,
+      "endFrame": 2727,
+      "sha256": "501e41d7de1f7b96eaf8bdb29af11f5947be47b9feff3f41573776a6f096c811"
+    },
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/pocket-v34-1627/02637-02732/sheet-03.jpg",
+      "firstFrame": 2727,
+      "endFrame": 2732,
+      "sha256": "68a19e496b1a1fc8ecb6b760adaac4dfa1e3d8ba7fab7d84d53ec729a1c582a8"
+    }
+  ],
+  "all95FramesActuallyViewed": true,
+  "nativeWitnesses": [
+    {
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/pocket-v34-1627/native/global2638.jpg",
+      "sha256": "d1ecec3edd2ff8c114a73e99f137a1d5f0e6ee4cdb86166f7a90acd2500f4e9b"
+    },
+    {
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/pocket-v34-1627/native/global2639.jpg",
+      "sha256": "1d7999932a92459de78a2917cb214d2f824c8ebfb2df0233aad183a581961894"
+    },
+    {
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/pocket-v34-1627/native/global2660.jpg",
+      "sha256": "b7ff3a46c51db4f8250f65791e269c3bbb8cedc7ceb6675d100e557c549fc94e"
+    },
+    {
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/pocket-v34-1627/native/global2675.jpg",
+      "sha256": "a0461380f7ca9e5ded723b32079ae50d17481db8eccbf11836164cd7321028c3"
+    },
+    {
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/pocket-v34-1627/native/global2676.jpg",
+      "sha256": "aa6ce4d8d4ae91b701eae6fb34fc394c124d4bfa29ea031ce913297f453da629"
+    },
+    {
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/pocket-v34-1627/native/global2677.jpg",
+      "sha256": "5b6e580722e961f1e6fba5a486e807b8de8276d6560974a061b02ed8fa0ea5a2"
+    },
+    {
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/pocket-v34-1627/native/global2690.jpg",
+      "sha256": "0c0549847f1ecbcfa554c11b45024a4b0b009583ca9e57db0feef427a04b1597"
+    },
+    {
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/pocket-v34-1627/native/global2729.jpg",
+      "sha256": "14b7751082d9a6c05abbe24f00a063d3a6b37953ed9b3741196b05c94f166848"
+    },
+    {
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/pocket-v34-1627/native/global2730.jpg",
+      "sha256": "d6daf643f93c1b908631083f44f2de55ab8095f1fa54496945b712ef7955a831"
+    }
+  ],
+  "findings": [
+    "All 95 actual encoded frames reviewed sequentially. Former 2675\u20132677 elbow singularity/ghost is gone; stable continuous elbow/forearm projection with no rubber-like jump or clipped elbow.",
+    "Rigid hand and notebook remain coupled through extraction and settled hold; pocket occlusion releases coherently. Empty near arm stays attached. Complete body, foot support and captions unchanged.",
+    "Entry 2638/2639 and exit2729/2730 are distinct established macro/room cuts; no new transitional ghost."
+  ],
+  "supersedesHoldOnlyForThisReplacement": "contour-early-B2-1613/ACTUAL_REVIEW_1615.json pocket95, historical bytes remain HOLD",
+  "scopeLimits": "Only [2637,2732), not whole early route or final film.",
+  "audioListeningClaim": false
+}

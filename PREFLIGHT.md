@@ -226,3 +226,12 @@ Evidence: [E02 long closed lessons and receipts](entries/HAKAWI-E02-LONG-CLOSURE
 - [ ] Finite all-window acceptance is not complete final-media review. Preserve failed candidates and source-only holds, exact report/media hashes, and all required production/publishing gates.
 Evidence: [E02 native finite repairs](entries/HAKAWI-E02-PORTRAIT-FINITE-20261029.md).
 
+
+
+## E02 final-delivery recurrence and honest acceptance
+- [ ] Inspect a full-native witness for every distinct actor/open-floor layout, not only action proxies; verify body, shoulder, neck, seat, floor and active/passive limb continuity.
+- [ ] On a demonstrated atlas or compositor defect, inventory every use of the same donor/call across parts. Preserve genuine object pixels, grips, clocks and unrelated layouts; keep failed proofs and additive supersession records.
+- [ ] Adjudicate natural garment folds with single-donor/alpha provenance before redesign. Inspect IK across all shutter samples; stable wrists alone do not prove stable elbows or plausible limb proportions.
+- [ ] Reconcile exact final decoded differences, codec propagation, prior reviewed equal spans and every held interval. Source parity cannot substitute for delivered equality. New evidence can supersede an earlier PASS.
+- [ ] Bind mixed-version final files honestly, recheck reciprocal seams, exact canonical audio coverage and last real samples. AAC validation is not bit-identical PCM or subjective listening.
+Evidence: [E02 final production repairs and closure](entries/HAKAWI-E02-PORTRAIT-FINAL-20261029.md); [exact final manifest](evidence/hakawi-e02-portrait-final-20261029/FINAL_ACCEPTED_FOUR_PART_MANIFEST_1822.json).

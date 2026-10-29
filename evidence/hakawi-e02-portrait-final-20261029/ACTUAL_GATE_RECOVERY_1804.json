@@ -1,0 +1,80 @@
+{
+  "status": "SCOPED_ACTUAL_VISUAL_PASS",
+  "createdUTC": "2026-10-29T18:04:33.107665+00:00",
+  "reviewer": "/root/plan_e02_native_reels/review_key575_recovery",
+  "scope": [
+    [
+      4643,
+      5148
+    ],
+    [
+      26530,
+      26600
+    ]
+  ],
+  "totalFrames": 575,
+  "sequentialCoverageProvenance": "All 575 sequential actual frames were viewed by prior independent reviewer D. Recovery reviewer verified the three terminal PASS receipts, exact MP4/COMPLETE identities, contiguous sheet coverage, generated manifests and hash-bound rotation recipes. No claim of personally repeating the sequential review.",
+  "sequentialReceipts": [
+    {
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/key-v36-575/04643-05093/VISUAL_RECEIPT.json",
+      "sha256": "eb8395ba19228c0ab4024a05975bc98168dece77c2dc08769313849f2f544dd1",
+      "frames": 450,
+      "video": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/key-v36-early505-1746/proof.mp4",
+      "videoSHA256": "b97f84f05727bb68ec298246e42eb105fa37f278138ee2ea5adaa7521123cd1e",
+      "completeSHA256": "17d41264246489c1470fe113db118c83719b0f7f8c1f417aa0d2d81e4e59fca3",
+      "rotationSHA256": "4801a0d07d540d0524872b3548de062b77a58156e250853f42618ae1ca46ae15"
+    },
+    {
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/key-v36-575/05093-05148/VISUAL_RECEIPT.json",
+      "sha256": "176b5e6cd41d3e37db1ee3d14016c985bfa3de17db101ff12dcaf17e3dc2e6f4",
+      "frames": 55,
+      "video": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/key-v36-early505-1746/proof.mp4",
+      "videoSHA256": "b97f84f05727bb68ec298246e42eb105fa37f278138ee2ea5adaa7521123cd1e",
+      "completeSHA256": "17d41264246489c1470fe113db118c83719b0f7f8c1f417aa0d2d81e4e59fca3",
+      "rotationSHA256": "88dfecd560278b01c6205910762c7de4d060906bb0b344caaa85785ec46d9f8e"
+    },
+    {
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/key-v36-575/26530-26600/VISUAL_RECEIPT.json",
+      "sha256": "e9d6f0aee6a7952eecb0df1ac544b3e8051230cfdae0cdb371f3d4a1005672ff",
+      "frames": 70,
+      "video": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/key-v36-late70-1746/proof.mp4",
+      "videoSHA256": "81a8a152de2cf23f6521dd1704c9d2f1513b50556c62b4a47ce0366b044b6d5e",
+      "completeSHA256": "1df7b80949cf2ec4a43c545fb4281d54f7d0d5abdd4ee5975adbd24f9faf4275",
+      "rotationSHA256": "3d3c25c4f30d5d69e96360724a4093f3cb2e06efa2fce70f31c46871ccff5b8a"
+    }
+  ],
+  "nativeReviewProvenance": "Recovery reviewer personally inspected all 14 retained full-native images. All image and source-video hashes independently reverified.",
+  "nativeManifest": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/key-v36-575/native/MANIFEST.json",
+  "nativeManifestSHA256": "b83abd3d90fbdc23eb6d1057fc0c67e68181154d90257d7a8f3eb240dcaa75e0",
+  "nativeFramesActuallyViewed": [
+    4644,
+    4645,
+    4780,
+    4866,
+    4889,
+    4920,
+    4992,
+    5145,
+    5146,
+    26531,
+    26532,
+    26550,
+    26597,
+    26598
+  ],
+  "sourceGate": {
+    "path": "hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/D/ISOLATED_KEY_SOURCE_GATE.json",
+    "sha256": "3906bed33e7de6273a267cf59cdff1745fdee09afbfa2537dcec8e08ac948868"
+  },
+  "findings": [
+    "Early key ring, bow and blade remain complete; donor pinch to blue-cuff palm contact, release and outgoing ownership remain coherent. Detached carton-neighbor tip absent.",
+    "Late key and phone remain supported on tabletop; detached carton-neighbor triangle absent without loss of true key geometry.",
+    "Entry and exit cuts, captions and full-body guards remain coherent. Native 5146 curved sleeve outline is the previously adjudicated canonical donor fold, not a new duplicated-limb defect."
+  ],
+  "openHolds": [],
+  "limits": [
+    "Finite encoded proof acceptance only; final P01/P04 replacement bytes require decoded comparison, conservative reviewed/equal carry and actual changed-range/native review.",
+    "No audio-listening or whole-film/final-delivery acceptance claim.",
+    "Historical held final outputs and all native evidence remain retained."
+  ]
+}

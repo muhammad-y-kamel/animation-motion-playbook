@@ -1,0 +1,396 @@
+{
+  "status": "FINAL_P01_V36_VISUAL_PASS",
+  "createdUTC": "2026-10-29T18:15:26.156660+00:00",
+  "scope": [
+    0,
+    7148
+  ],
+  "video": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/outputs/part01-v36-key/final-aac.mp4",
+  "videoSHA256": "6ff198c4f1556f8e92d9d969dce522e4274de7e1928b1557bcddd6ed9b222da8",
+  "completeSHA256": "82408a0ad9bf13271db5bf3f95e820896a8151390374087107ddb6e956d3b398",
+  "comparison": {
+    "path": "hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/P01_V36_DECODED_COMPARISON_1811.json",
+    "sha256": "e637e9e342d7cb85f407f7ae0cb8ad63d09cf93a5dddd9e7bd2c9938c31da080"
+  },
+  "priorActualReview": {
+    "path": "hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/B/P01-v34/PART01_V34_FINAL_VISUAL_PASS_1720.json",
+    "sha256": "69fa4ce4db10aa84fa83c1666d3a4aab9b6139d35a62d066c03dc20b3826cfb1"
+  },
+  "coverage": {
+    "newActuallyViewedFrames": 501,
+    "newActualRanges": [
+      [
+        4645,
+        5146
+      ]
+    ],
+    "acceptedDecodedIdenticalCarryFrames": 6647,
+    "carryRanges": [
+      [
+        0,
+        4645
+      ],
+      [
+        5146,
+        7148
+      ]
+    ],
+    "equalHeldCarryFrames": 0,
+    "total": 7148,
+    "gaps": [],
+    "overlaps": []
+  },
+  "actualReceipts": [
+    {
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/K-v36/P01/04645-05095/VISUAL_RECEIPT.json",
+      "sha256": "348fccaa6a4f9510dce669881c9cd8e8ed6168ca6d355b486eedda2e576d0602",
+      "range": [
+        4645,
+        5095
+      ]
+    },
+    {
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/K-v36/P01/05095-05146/VISUAL_RECEIPT.json",
+      "sha256": "b895a8128b436764d4e92cec73194cb11990f46e6188a352c865e7b86f90c086",
+      "range": [
+        5095,
+        5146
+      ]
+    }
+  ],
+  "newNativeWitnesses": [
+    {
+      "globalFrame": 4644,
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/K-v36/P01/native/g4644.jpg",
+      "sha256": "41368f18fd9aff0634f18a451e6519a303f391fe3b199e9edf684c890f99464f",
+      "video": "hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/outputs/part01-v36-key/final-aac.mp4",
+      "videoSHA256": "6ff198c4f1556f8e92d9d969dce522e4274de7e1928b1557bcddd6ed9b222da8"
+    },
+    {
+      "globalFrame": 4645,
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/K-v36/P01/native/g4645.jpg",
+      "sha256": "26062aba116cb543e7898a8934c1c9791cbe5ca49b8469e03a511eb7d125246b",
+      "video": "hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/outputs/part01-v36-key/final-aac.mp4",
+      "videoSHA256": "6ff198c4f1556f8e92d9d969dce522e4274de7e1928b1557bcddd6ed9b222da8"
+    },
+    {
+      "globalFrame": 4780,
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/K-v36/P01/native/g4780.jpg",
+      "sha256": "3da8722d7f6d56bfc83e5a902ae1f4d240333c3e1d2e8ccbb98295fd805b2ab7",
+      "video": "hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/outputs/part01-v36-key/final-aac.mp4",
+      "videoSHA256": "6ff198c4f1556f8e92d9d969dce522e4274de7e1928b1557bcddd6ed9b222da8"
+    },
+    {
+      "globalFrame": 4866,
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/K-v36/P01/native/g4866.jpg",
+      "sha256": "89adfc4daae179dfc003d943f590f1be09d32cf9398f05d75454d3679f906c80",
+      "video": "hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/outputs/part01-v36-key/final-aac.mp4",
+      "videoSHA256": "6ff198c4f1556f8e92d9d969dce522e4274de7e1928b1557bcddd6ed9b222da8"
+    },
+    {
+      "globalFrame": 4889,
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/K-v36/P01/native/g4889.jpg",
+      "sha256": "ad7b98af9422ce6933943612a58167a83539714403f8c7b4a758e2156a08647d",
+      "video": "hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/outputs/part01-v36-key/final-aac.mp4",
+      "videoSHA256": "6ff198c4f1556f8e92d9d969dce522e4274de7e1928b1557bcddd6ed9b222da8"
+    },
+    {
+      "globalFrame": 4920,
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/K-v36/P01/native/g4920.jpg",
+      "sha256": "9e8fcd4f0fb72aa856a994ef910d6c801d5fd3efe71187e0ea684b02f5d4ff05",
+      "video": "hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/outputs/part01-v36-key/final-aac.mp4",
+      "videoSHA256": "6ff198c4f1556f8e92d9d969dce522e4274de7e1928b1557bcddd6ed9b222da8"
+    },
+    {
+      "globalFrame": 4992,
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/K-v36/P01/native/g4992.jpg",
+      "sha256": "51ce51ac59e482fb841cb8c956d706941b0e86871f057d6ec2ed16f49103763e",
+      "video": "hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/outputs/part01-v36-key/final-aac.mp4",
+      "videoSHA256": "6ff198c4f1556f8e92d9d969dce522e4274de7e1928b1557bcddd6ed9b222da8"
+    },
+    {
+      "globalFrame": 5145,
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/K-v36/P01/native/g5145.jpg",
+      "sha256": "b489f0c844b949b4106be76848416016f1038667b8ec91d5718cbc2f689ce84a",
+      "video": "hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/outputs/part01-v36-key/final-aac.mp4",
+      "videoSHA256": "6ff198c4f1556f8e92d9d969dce522e4274de7e1928b1557bcddd6ed9b222da8"
+    },
+    {
+      "globalFrame": 5146,
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/K-v36/P01/native/g5146.jpg",
+      "sha256": "f8c55e700905a4004fd485be0c076886e05fe05fb47e5239ec95e0dddbaad6d6",
+      "video": "hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/outputs/part01-v36-key/final-aac.mp4",
+      "videoSHA256": "6ff198c4f1556f8e92d9d969dce522e4274de7e1928b1557bcddd6ed9b222da8"
+    },
+    {
+      "globalFrame": 7147,
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/K-v36/P01/native/g7147.jpg",
+      "sha256": "dc382d1e8960dd8e846daf11227991b8053d3f0cfe43d0959e8cf639f3f52875",
+      "video": "hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/outputs/part01-v36-key/final-aac.mp4",
+      "videoSHA256": "6ff198c4f1556f8e92d9d969dce522e4274de7e1928b1557bcddd6ed9b222da8"
+    },
+    {
+      "globalFrame": 7148,
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/K-v36/P01/native/g7148.jpg",
+      "sha256": "d05593e50c5c610b683e7da3b172158148c0705a1679e631c3c233c17be2a5c9",
+      "video": "hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/outputs/part02-v34/final-aac.mp4",
+      "videoSHA256": "569762dae722f01f5668f3c7f2507db38c7246112efb921ef206bb12bda24456"
+    }
+  ],
+  "allNewNativeWitnessesActuallyViewed": true,
+  "acceptedPriorNativeWitnessesCarriedOnExactDecodedEquality": [
+    {
+      "globalFrame": 0,
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/B/P01-v34/native/global0.jpg",
+      "sha256": "5f878ef02d66b5e46295875eebc2298fdc8581ab233141058f049d0591563cfa",
+      "viewedAtNativeResolution": true
+    },
+    {
+      "globalFrame": 337,
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/B/P01-v34/native/global337.jpg",
+      "sha256": "6bb0ff55c3ae125228abd53d37056de8058b2b4b87b189982145a9cb851838c1",
+      "viewedAtNativeResolution": true
+    },
+    {
+      "globalFrame": 338,
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/B/P01-v34/native/global338.jpg",
+      "sha256": "6708ae1c0716faf3a6357399308948fdd7577d2181fc7174e818ff6e6eac1cec",
+      "viewedAtNativeResolution": true
+    },
+    {
+      "globalFrame": 438,
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/B/P01-v34/native/global438.jpg",
+      "sha256": "dc25b5f0c060a5ce1c03ea3e00e0b512cbd6df86ab93fe8f9ed5adc116ab33b2",
+      "viewedAtNativeResolution": true
+    },
+    {
+      "globalFrame": 660,
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/B/P01-v34/native/global660.jpg",
+      "sha256": "c3e230274ab08bccdd32386232dcb11ab29697fe2678ca18103732628cf2c251",
+      "viewedAtNativeResolution": true
+    },
+    {
+      "globalFrame": 1187,
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/B/P01-v34/native/global1187.jpg",
+      "sha256": "a90cca6e7230420f90c58a66e275dcd4e1c09965310f599e3534e81cc083ea3b",
+      "viewedAtNativeResolution": true
+    },
+    {
+      "globalFrame": 1188,
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/B/P01-v34/native/global1188.jpg",
+      "sha256": "9752c9a69752c6f78cee72432ac08457b5860a3726202cb97da424c4a5de9c5f",
+      "viewedAtNativeResolution": true
+    },
+    {
+      "globalFrame": 1337,
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/B/P01-v34/native/global1337.jpg",
+      "sha256": "1c563270e59a6c5580f5778e4d1683072744e0ccc20bff008a90fb799991f50c",
+      "viewedAtNativeResolution": true
+    },
+    {
+      "globalFrame": 1338,
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/B/P01-v34/native/global1338.jpg",
+      "sha256": "cd221389187905ba9653e5efffb3dfebc365d184df54bf9b28939953dcfdc0e8",
+      "viewedAtNativeResolution": true
+    },
+    {
+      "globalFrame": 1740,
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/B/P01-v34/native/global1740.jpg",
+      "sha256": "392bf4b9acd0dd2e38e0216c74e2004663f882b58ad32d2400a91045de959267",
+      "viewedAtNativeResolution": true
+    },
+    {
+      "globalFrame": 1741,
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/B/P01-v34/native/global1741.jpg",
+      "sha256": "1e206d4988dbda1d7c0f5493158450454778d481f5478d8df7eef1df3d04a5aa",
+      "viewedAtNativeResolution": true
+    },
+    {
+      "globalFrame": 1800,
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/B/P01-v34/native/global1800.jpg",
+      "sha256": "fc28d22b631f4eab8a13813d93fb6ea92e60bcea4db08914128efb94ceaac551",
+      "viewedAtNativeResolution": true
+    },
+    {
+      "globalFrame": 2193,
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/B/P01-v34/native/global2193.jpg",
+      "sha256": "a24d4953d341b847fb308878e8a397e05510e003efe116c1cc8da5aafd0eb695",
+      "viewedAtNativeResolution": true
+    },
+    {
+      "globalFrame": 2194,
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/B/P01-v34/native/global2194.jpg",
+      "sha256": "a8864f649df41a9429eddf3345c84da1ec56778c6ccd72f0273625f0506621d4",
+      "viewedAtNativeResolution": true
+    },
+    {
+      "globalFrame": 2638,
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/B/P01-v34/native/global2638.jpg",
+      "sha256": "6915014761f8c0b69514070f710e4e4a429e44cf58ca1faa16d9f7ed5116f81d",
+      "viewedAtNativeResolution": true
+    },
+    {
+      "globalFrame": 2639,
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/B/P01-v34/native/global2639.jpg",
+      "sha256": "5d9bafcd1d4732eaca69146f5b6958590711a4d1b707d443fa7a288625591fc6",
+      "viewedAtNativeResolution": true
+    },
+    {
+      "globalFrame": 2675,
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/B/P01-v34/native/global2675.jpg",
+      "sha256": "146726bb29703fe8bf90f5697ced90e908022822e2c170530183020670326268",
+      "viewedAtNativeResolution": true
+    },
+    {
+      "globalFrame": 2676,
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/B/P01-v34/native/global2676.jpg",
+      "sha256": "d143ff227bfbe0a5343355579905770ab0e754687c8789eca4d9ca4eeb65b9cf",
+      "viewedAtNativeResolution": true
+    },
+    {
+      "globalFrame": 2677,
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/B/P01-v34/native/global2677.jpg",
+      "sha256": "9c509aa7fe0d3f5dfbbdca8ce93fe60a3db289a7d63e903c1f72d9faa91a8524",
+      "viewedAtNativeResolution": true
+    },
+    {
+      "globalFrame": 2729,
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/B/P01-v34/native/global2729.jpg",
+      "sha256": "dec16aa9b812419f991017b589a98faafd3fdf6151f29d7fe35522fb1f60250d",
+      "viewedAtNativeResolution": true
+    },
+    {
+      "globalFrame": 2730,
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/B/P01-v34/native/global2730.jpg",
+      "sha256": "10d1984fd55e86c5c71b5ce29253d1724c4be69924b6f7384d8992004360f3cb",
+      "viewedAtNativeResolution": true
+    },
+    {
+      "globalFrame": 2880,
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/B/P01-v34/native/global2880.jpg",
+      "sha256": "7fa0c9b7eef9e2e5bd43a4fb5724d8beb573586d9c2cb147fec157176a430cd9",
+      "viewedAtNativeResolution": true
+    },
+    {
+      "globalFrame": 3087,
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/B/P01-v34/native/global3087.jpg",
+      "sha256": "f3ac6aee06504f6814988e067941f07f05584a9650d32e1abdb7764d2bbdfba6",
+      "viewedAtNativeResolution": true
+    },
+    {
+      "globalFrame": 3088,
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/B/P01-v34/native/global3088.jpg",
+      "sha256": "a5aefe186a899e10a8b3bc9732a6c81257e9820b57e3685ec2c02e1249f6df38",
+      "viewedAtNativeResolution": true
+    },
+    {
+      "globalFrame": 3120,
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/B/P01-v34/native/global3120.jpg",
+      "sha256": "b8b01f978df6dc1f2f6616851be65a1fc731d9081da5ae7093dc0e8c675ba785",
+      "viewedAtNativeResolution": true
+    },
+    {
+      "globalFrame": 3604,
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/B/P01-v34/native/global3604.jpg",
+      "sha256": "618af0f2e545a4dcce9c87219070f6b2d47ef8d72ac6b4636ea3861aade96950",
+      "viewedAtNativeResolution": true
+    },
+    {
+      "globalFrame": 3700,
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/B/P01-v34/native/global3700.jpg",
+      "sha256": "33bd41e238d3adef72ed4166763e07258127119e7070c4a72299f40c05ab4136",
+      "viewedAtNativeResolution": true
+    },
+    {
+      "globalFrame": 4128,
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/B/P01-v34/native/global4128.jpg",
+      "sha256": "17ed416cf674a66833f1a62be0205eb36dadbc686c8fc3ff8793254b66edc09d",
+      "viewedAtNativeResolution": true
+    },
+    {
+      "globalFrame": 4260,
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/B/P01-v34/native/global4260.jpg",
+      "sha256": "9117bfc3d8ca946281e3a52eab4593c7679c201218eaaa0a895a8602d842f16d",
+      "viewedAtNativeResolution": true
+    },
+    {
+      "globalFrame": 5146,
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/B/P01-v34/native/global5146.jpg",
+      "sha256": "86335d92811ff13162706ab8806c5550b639bb0ea5ad513f6a52e6b748c76d02",
+      "viewedAtNativeResolution": true
+    },
+    {
+      "globalFrame": 5230,
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/B/P01-v34/native/global5230.jpg",
+      "sha256": "6f6a5d97b269a20ad30e42a9dd7342a509a68164be1e335e2cdcaa580b5c6cfc",
+      "viewedAtNativeResolution": true
+    },
+    {
+      "globalFrame": 5520,
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/B/P01-v34/native/global5520.jpg",
+      "sha256": "b25cf7358e17499bf985e23aebf9e1fb94181d28fa6ba4599081d618de5abcb4",
+      "viewedAtNativeResolution": true
+    },
+    {
+      "globalFrame": 5840,
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/B/P01-v34/native/global5840.jpg",
+      "sha256": "a9b626c93bd77f553ec4d7d4e51556cb18a62cfeb61868e61efad9550f519cc2",
+      "viewedAtNativeResolution": true
+    },
+    {
+      "globalFrame": 6150,
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/B/P01-v34/native/global6150.jpg",
+      "sha256": "3a032bcfe0a9b7d8f580e139bf51bf465f57b977558307ebde9e30f0ac2b8580",
+      "viewedAtNativeResolution": true
+    },
+    {
+      "globalFrame": 6380,
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/B/P01-v34/native/global6380.jpg",
+      "sha256": "7f833d401af12f4b728070b70d38f177f5563a2a4f65e1e08a46b937064deb1e",
+      "viewedAtNativeResolution": true
+    },
+    {
+      "globalFrame": 6411,
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/B/P01-v34/native/global6411.jpg",
+      "sha256": "ba320182a295381a5061c4d090cf730c0a09fbc77647bfd1cd63a2a5d9606e22",
+      "viewedAtNativeResolution": true
+    },
+    {
+      "globalFrame": 6412,
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/B/P01-v34/native/global6412.jpg",
+      "sha256": "98a1eacad03fe7255e5404c41473b0e18b20140ad0b3fd1818e253e50fb27a28",
+      "viewedAtNativeResolution": true
+    },
+    {
+      "globalFrame": 7000,
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/B/P01-v34/native/global7000.jpg",
+      "sha256": "813d6d809aed44858707beefb55fada612a3d1662ec726e6bcfdd96541d74c58",
+      "viewedAtNativeResolution": true
+    },
+    {
+      "globalFrame": 7147,
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/production-direct-v1/independent-review/B/P01-v34/native/global7147.jpg",
+      "sha256": "015a0b0b2bb79b699b3efa74c74111098163afb5593e7cc29179a94cb3ac9db2",
+      "viewedAtNativeResolution": true
+    }
+  ],
+  "findings": [
+    "Detached carton-neighbor absent throughout key shot; complete ring/bow/blade preserved.",
+    "Giver pinch, shared contact, receiving palm retention and release remain continuous. No new defect in all501 differing frames.",
+    "Entry4644/4645 and exit5145/5146 are clean editorial cuts; all other native layouts carried only on hash-verified accepted evidence and exact decoded equality.",
+    "Final P01 7147 / accepted P02 7148 pair personally viewed: truck/driver/gate remain continuous; intentional caption blank at7148 retained."
+  ],
+  "seam": {
+    "frames": [
+      7147,
+      7148
+    ],
+    "adjacentVideoSHA256": "569762dae722f01f5668f3c7f2507db38c7246112efb921ef206bb12bda24456",
+    "actualPairViewed": true
+  },
+  "unresolvedVisualHolds": [],
+  "limits": [
+    "Visual acceptance of exact P01 final bytes only; no listening claim.",
+    "Historical v34 additive key HOLD retained; resolved only by this reviewed v36 replacement."
+  ]
+}

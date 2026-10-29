@@ -1,0 +1,123 @@
+{
+  "status": "ALL_FOUR_EXACT_FINAL_FILES_TECHNICAL_AND_INDEPENDENT_VISUAL_PASS_DURABLE_FINAL_SAVE_PENDING",
+  "createdUTC": "2026-10-29T18:22:01.541123+00:00",
+  "parts": [
+    {
+      "part": 1,
+      "video": "runtime-finite/production-direct-v1/outputs/part01-v36-key/final-aac.mp4",
+      "bytes": 12147567,
+      "sha256": "6ff198c4f1556f8e92d9d969dce522e4274de7e1928b1557bcddd6ed9b222da8",
+      "complete": "runtime-finite/production-direct-v1/outputs/part01-v36-key/COMPLETE.json",
+      "completeSHA256": "82408a0ad9bf13271db5bf3f95e820896a8151390374087107ddb6e956d3b398",
+      "visualReceipt": "runtime-finite/production-direct-v1/independent-review/K-v36/P01/FINAL_P01_V36_VISUAL_PASS_1815.json",
+      "visualReceiptSHA256": "78313976c88e892b3532bbb70e454951a909819d8d8ccfaadb525965cfcebfd3",
+      "frames": [
+        0,
+        7148
+      ],
+      "pcmSamples": [
+        0,
+        5253780
+      ],
+      "actualSourceVersion": "v36",
+      "stableLibraryID": "libfile_80d7401b4ae08191b8cd09470699156e",
+      "libraryAction": "replace same identity only; verify exact accepted bytes",
+      "visualStatus": "PASS_ZERO_GAP_ACCEPTED_ACTUAL_OR_VERIFIED_ACCEPTED_DECODED_EQUAL_COVERAGE"
+    },
+    {
+      "part": 2,
+      "video": "runtime-finite/production-direct-v1/outputs/part02-v34/final-aac.mp4",
+      "bytes": 14606351,
+      "sha256": "569762dae722f01f5668f3c7f2507db38c7246112efb921ef206bb12bda24456",
+      "complete": "runtime-finite/production-direct-v1/outputs/part02-v34/COMPLETE.json",
+      "completeSHA256": "63d92321deeee2ad2a91f2009956e7b6129cebd81e38efaedbd9231477661ead",
+      "visualReceipt": "runtime-finite/production-direct-v1/independent-review/A-v34/FINAL_P02_V34_REVIEW_1718.json",
+      "visualReceiptSHA256": "27f31eb134e557e144798606f2834df7adf8c6fd5a14ee208621d2a87b79689c",
+      "frames": [
+        7148,
+        14323
+      ],
+      "pcmSamples": [
+        5253780,
+        10527405
+      ],
+      "actualSourceVersion": "v34",
+      "stableLibraryID": "libfile_24c6f77609a08191822503b56cf53482",
+      "libraryAction": "replace same identity only; verify exact accepted bytes",
+      "visualStatus": "PASS_ZERO_GAP_ACCEPTED_ACTUAL_OR_VERIFIED_ACCEPTED_DECODED_EQUAL_COVERAGE"
+    },
+    {
+      "part": 3,
+      "video": "runtime-finite/production-direct-v1/outputs/part03-v35-neck/final-aac.mp4",
+      "bytes": 11295363,
+      "sha256": "45e2d41bd16e48bd8125fe2cf0b1276b2ffbb50b5f0d3de121a001e4afe1e456",
+      "complete": "runtime-finite/production-direct-v1/outputs/part03-v35-neck/COMPLETE.json",
+      "completeSHA256": "2582ff965d46c1d95dc327eddd83149faed72eef2e5bfac0b8ad58768979b5d7",
+      "visualReceipt": "runtime-finite/production-direct-v1/independent-review/E-v35/PART03_V35_FINAL_VISUAL_1753.json",
+      "visualReceiptSHA256": "e3ce0cec84e8895513e0a8c39e495b650814f2f7ff4e4e64a7de5fc88fb37c75",
+      "frames": [
+        14323,
+        21470
+      ],
+      "pcmSamples": [
+        10527405,
+        15780450
+      ],
+      "actualSourceVersion": "v35",
+      "stableLibraryID": "libfile_64836cbfc71081919be8e9213657f856",
+      "libraryAction": "replace same identity only; verify exact accepted bytes",
+      "visualStatus": "PASS_ZERO_GAP_ACCEPTED_ACTUAL_OR_VERIFIED_ACCEPTED_DECODED_EQUAL_COVERAGE"
+    },
+    {
+      "part": 4,
+      "video": "runtime-finite/production-direct-v1/outputs/part04-v36-key/final-aac.mp4",
+      "bytes": 9657042,
+      "sha256": "da1efadbf0bdab4a3956808c1a7645d553c12f275808b98226dfc4ec377f1301",
+      "complete": "runtime-finite/production-direct-v1/outputs/part04-v36-key/COMPLETE.json",
+      "completeSHA256": "47d8d7a863fafa1b04ce24556fd72068415cf5e26fec491662bc4d5cf9a7c030",
+      "visualReceipt": "runtime-finite/production-direct-v1/independent-review/K-v36/P04/FINAL_P04_V36_VISUAL_PASS_1821.json",
+      "visualReceiptSHA256": "3384ed4fd47d5ac4a9ef8f6c5bd3bff4d6a8e8d68b363a120654f4b7a039e8b1",
+      "frames": [
+        21470,
+        28412
+      ],
+      "pcmSamples": [
+        15780450,
+        20882232
+      ],
+      "actualSourceVersion": "v36",
+      "stableLibraryID": "libfile_2bf25e9dfec481918093c4825dae9413",
+      "libraryAction": "replace same identity only; verify exact accepted bytes",
+      "visualStatus": "PASS_ZERO_GAP_ACCEPTED_ACTUAL_OR_VERIFIED_ACCEPTED_DECODED_EQUAL_COVERAGE"
+    }
+  ],
+  "totalFrames": 28412,
+  "canonicalPCMSamples": 20882232,
+  "canonicalAudioSeconds": 473.52,
+  "lastRealTailSamples": 147,
+  "totalVideoBytes": 47706323,
+  "format": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 60,
+    "shutterSamples": 3,
+    "CRF": 18,
+    "AAC": "128kbps mono44100, presented sample counts validated; not lossy PCM identity"
+  },
+  "canonicalAudioSHA256": "8589fe98bac5a66fa92491d30453f52b2250dd63c9c90e89a525315dc87bf71b",
+  "sourceReconstruction": {
+    "master": "master-portrait-v36-key-candidate.cjs",
+    "masterSHA256": "f9fb67428ed8079f4bb4246717ea04035c4f88ecebfe83dd30bc814f47d0f670",
+    "observedClosureSHA256": "ccf4ba3ddbf8ef75e8285cbf53f366c5e62571a34a64c3e467b72b2d1ee0be80",
+    "dependencyCount": 64,
+    "actualPerPartProvenance": "P01/P04 v36; unchanged accepted P02 v34; accepted P03 v35. Latest composite does not relabel older encoded bytes."
+  },
+  "partSeams": "7147/7148,14322/14323,21469/21470 independently viewed/rebound in final receipts; canonical non-overlapping audio partitions exact.",
+  "remainingActions": [
+    "Parent save/verify accepted P01 and P04 to existing Library IDs, preserve final immutable source/proof/review delta",
+    "Parent upload/schedule all4 using existing agreed Nov4/7/10/13 19:00 UTC+03 slots, old replacements Private only after ready; longNov14 unchanged"
+  ],
+  "publicationOwner": "/root",
+  "noSubjectiveAudioListeningClaim": true,
+  "historicalEvidence": "All earlier HOLD/PASS/failed/partial outputs retained, superseded only by exact final accepted bytes above."
+}
