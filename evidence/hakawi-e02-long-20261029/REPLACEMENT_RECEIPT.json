@@ -1,0 +1,28 @@
+{
+  "verified_at_utc": "2026-10-29T10:42:24Z",
+  "new_id": "8cBXwyY7NAc",
+  "new_url": "https://youtu.be/8cBXwyY7NAc",
+  "new_status": "Scheduled",
+  "date": "2026-11-14",
+  "time_display": "7:00 PM",
+  "timezone_display": "GMT+0300",
+  "exact_old_slot_preserved": true,
+  "old_id": "_lO9wnNjjic",
+  "old_status": "Private",
+  "old_saved_disabled": true,
+  "title": "لبّست أستاذ عادل غلطة البضاعة اللي باظت بسببي عشان آخد مكانه في الشركة",
+  "description_reused": true,
+  "cover_path": "hakawi_repair/e02-cover-recovery/download/E02_long.jpg",
+  "cover_sha256": "66eb7e3c6e4664b8724941efc454b9484870ef6afda2ce35f9703734f1e0452c",
+  "media_path": "e02-native-final-20261029-0857/E02-native-1080p60-AAC.mp4",
+  "media_sha256": "59458201422d9b9c7e20817d660dedcc1797b453177dd0d10f3413ff20be70fa",
+  "checks": "No issues found",
+  "made_for_kids": false,
+  "deletion": false,
+  "immediate_publication": false,
+  "shorts_unmodified": true,
+  "screenshots": [
+    "new-scheduled.png",
+    "old-private.png"
+  ]
+}

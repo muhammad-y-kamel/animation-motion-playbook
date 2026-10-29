@@ -1,0 +1,14 @@
+{
+  "status": "EXACT_PCM_AND_PRESENTATION_TIMING_PASS",
+  "masterSHA256": "7a57d12d9234d4799d038fc14204f6ac5a5a390558cd154017626d06ad8d1335",
+  "videoFrames": 28412,
+  "videoDuration": 473.53333333333336,
+  "audioSamples": 20882232,
+  "audioSampleRate": 44100,
+  "audioDuration": 473.52,
+  "videoStartTime": 0,
+  "audioStartTime": 0,
+  "lastAudioFrameSamplesPreserved": 147,
+  "audioPaddingOrTruncation": false,
+  "canonicalPCM_SHA256": "d7ce918a6c9a24652f3f43cab3b40025d950a6d4ac589980765eb6e21e75af1e"
+}

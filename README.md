@@ -56,3 +56,6 @@ The original 13 entries above remain intact. [Historical audit and case index](H
 
 ## Native portrait final delivery closure — 2026-10-29
 [Final empty-hand repair, exact concat cadence and verified delivery](entries/HAKAWI-NATIVE-FINAL-CLOSURE-20261029.md). All15,855 selected encoded frames reviewed with narrow0313patch adopted; exact decoded identity/PTS/PCM and bounded AAC alignment documented separately from listening. Root receipt verifies three new Shorts Scheduled and superseded five Private, not already public. Earlier pending/rejected evidence preserved.
+
+## E02 long final closure — 2026-10-29
+[Physical paper identity, contact/cue repairs and actual final delivery](entries/HAKAWI-E02-LONG-CLOSURE-20261029.md): failed trials preserved, all28,412 selected encoded frames reviewed, final147 audio samples retained, block-stratified resource forecast and exact receipts. New long Scheduled/old Private independently reported by root; no claim already public or portrait/Shorts cleared.

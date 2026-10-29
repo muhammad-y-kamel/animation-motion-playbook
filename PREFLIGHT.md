@@ -205,3 +205,12 @@ Evidence: [native portrait trial/closure record](entries/HAKAWI-NATIVE-PORTRAIT-
 - [ ] Separate exact canonical PCM identity from lossy AAC alignment; bounded correlation is not listening. Hash-bound visual acceptance transfer is not repeated independent decode.
 - [ ] Record external Scheduled/Private states from actual verification, not render success. Preserve public originals and don't call scheduled items already published.
 Evidence: [final portrait closure and receipts](entries/HAKAWI-NATIVE-FINAL-CLOSURE-20261029.md).
+
+## Cross-block evidentiary paper and full-long closure gates
+- [ ] Use shared physical document identity/state across flash-forward, blank signing, forgery and comparison: same original handwritten signature, measured cell/layout and timing. Distinguish separate carbon/cheque documents.
+- [ ] Test same-camera nib/hand phase switches with actual alpha withdrawal, lifted continuous travel and new contact before paper motion; cut labels alone do not make editorial cuts.
+- [ ] Validate gate aperture/depth and entire carton base footprint against actual support plane; point coincidence and affine squashing are insufficient. Seated rig changes require genuine framing/support, not same-plate scale pop.
+- [ ] Align physical contact/settle to audited actual cue onset, not PCM identity alone; preserve listening versus waveform/source/encoded-visual evidence distinctions.
+- [ ] Stratify remaining storage forecasts by executed block; apply finite-to-production CRF margin once and include reused pilotbytes. Preserve safe stopped checkpoints; never disable guard or lower visual quality as an unapproved workaround.
+- [ ] Preserve explicit borrowed replay dependency identities when isolating Stages. Ceil final video grid and retain exact last audio samples without padding/truncation; verify entire decoded video/cadence and canonicalPCM separately from lossyAAC.
+Evidence: [E02 long closed lessons and receipts](entries/HAKAWI-E02-LONG-CLOSURE-20261029.md).

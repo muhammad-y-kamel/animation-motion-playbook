@@ -1,0 +1,28 @@
+{
+  "status": "ALL28412_ACTUAL_FRAMES_VISUAL_COVERAGE_UNION_PASS",
+  "ranges": [
+    [
+      0,
+      14206
+    ],
+    [
+      14206,
+      28412
+    ]
+  ],
+  "frames": 28412,
+  "gapOrOverlapFrames": 0,
+  "selectedChunkCount": 242,
+  "ledgerSHA256": "632599e7b4956e9fa63c4ea8e7ab5533a4f0019fc197c467b545bf46044ab8f1",
+  "firstHalfReceipt": {
+    "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e02-rebuild-20261029/independent-review/final-0857/FIRST_HALF_VISUAL_CLOSURE.json",
+    "sha256": "ecbffd7c4089e5c86ff0704312a758a7ccc301e78af3441ff08fa3ecc420f38b"
+  },
+  "secondHalfReceipt": {
+    "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e02-rebuild-20261029/independent-review/final-0857-second-half/SECOND_HALF_CLOSURE.json",
+    "sha256": "5ac3bfdb2a64c91b911d95021651ac04b90dc35bb97deb387ab7db08d1f339ca"
+  },
+  "masterSHA256": "7a57d12d9234d4799d038fc14204f6ac5a5a390558cd154017626d06ad8d1335",
+  "AACSHA256": "59458201422d9b9c7e20817d660dedcc1797b453177dd0d10f3413ff20be70fa",
+  "method": "Sequential decoded compressed-frame inspection with native critical witnesses; actual joined-file checks; exact decoded-pixel transfer. No subjective listening/continuousplayback claim."
+}

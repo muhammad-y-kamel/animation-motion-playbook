@@ -1,0 +1,93 @@
+{
+  "status": "SCOPED_VISUAL_AND_AUDITED_EVENT_ALIGNMENT_PASS",
+  "scope": "E02 initial drawer/pallet sync repair only; not whole-episode production or release acceptance",
+  "clips": [
+    {
+      "path": "hakawi_repair/e02-rebuild-20261029/runtime/proofs/office-v3-wood-sync/proof.mp4",
+      "sha256": "bff254cefc78c0c19f3e8f34b4e0257a9b5ce465da99cdddd7a92b99a2601da6",
+      "firstFrame": 1332,
+      "endFrame": 1536,
+      "allActualFramesReviewed": 204,
+      "technicalReceipt": "hakawi_repair/e02-rebuild-20261029/runtime/proofs/office-v3-wood-sync/COMPLETE.json",
+      "technicalReceiptSHA256": "7f8b366e6f766f9f62dc65b0ca636f3d31d68fc085e1beb205bcab17f53699bc",
+      "runtimeSHA256": "f4335527cc4458065f87cf795677eb82a34a630de36e18aefa3f0ed9a1dda81c",
+      "ledgerSHA256": "cdb04d2c88ec2432eedd31b658ce78295f2e08d15eb6b518c4dae9bcc105b8af"
+    },
+    {
+      "path": "hakawi_repair/e02-rebuild-20261029/runtime/proofs/arrival-v6-wood-sync/proof.mp4",
+      "sha256": "12065c792f7b6fab63e71d26155dd1381991b645f805fb39b5b75a59207677b3",
+      "firstFrame": 7405,
+      "endFrame": 7520,
+      "allActualFramesReviewed": 115,
+      "technicalReceipt": "hakawi_repair/e02-rebuild-20261029/runtime/proofs/arrival-v6-wood-sync/COMPLETE.json",
+      "technicalReceiptSHA256": "fa7e09ede8e6cfed094b049d235b1252ab8ddfa9eb10b458500d531f8ae68d54",
+      "runtimeSHA256": "6bcc09cbee021598f9427345dd0159067a84d6d6a8b2bf4e8c4113302248487a",
+      "ledgerSHA256": "f7295531077dc887462aa34e09e25b94af78432c8f3cf82ee16f1e73ea2f8535"
+    }
+  ],
+  "method": "All 319 actual encoded frames reviewed in sequential 320x180 JPEG sheets plus nine native 1920x1080 contact/release/settle witnesses. No continuous playback or listening claim. Source event and frame ledgers compared to separately audited immutable waveform onset.",
+  "findings": [
+    {
+      "scene": "drawer",
+      "status": "PASS",
+      "detail": "Continuous front push retains flat hand contact, receipt progressively occludes, closed front stays stable then empty hand withdraws. No new pop, double hand, floating paper or caption blend.",
+      "eventTime": 24.5508,
+      "auditedFoleyOnset": 24.55079365079365,
+      "nativeFrames": [
+        1472,
+        1473,
+        1474,
+        1482,
+        1522
+      ],
+      "frameEvidence": "1472 center24.5416667 front360.0546;1473 center24.5583333 all three shutter samples closed at front360. Cue lies between these centers, within frame1473 presentation. Withdrawal begins24.7008 after closure and exits smoothly."
+    },
+    {
+      "scene": "pallet",
+      "status": "PASS",
+      "detail": "Continuous eased lowering retains intact load and fork alignment, decelerates into stable supported footprint. No shortened-lower jerk, teleport, new masking rectangle or disappearance. Subsequent unchanged fork withdrawal/persistence remains covered by prior review and bounded carryforward, not newly claimed within this short clip.",
+      "eventTime": 124.54,
+      "auditedFoleyOnset": 124.54,
+      "nativeFrames": [
+        7471,
+        7472,
+        7473,
+        7519
+      ],
+      "frameEvidence": "7471 center124.525 clearance0.07652px;7472 center124.5416667 clearance0 at center/late sample (early sample0.00518px);7473 all samples grounded. Stable through7519."
+    }
+  ],
+  "carryforward": {
+    "receipt": "hakawi_repair/e02-rebuild-20261029/reviews/SYNC_DELTA_CARRY.json",
+    "sha256": "b98d45a00e79899bec3f306521066d7a84ff2c75d5a5af27837837e71a01bedf",
+    "limits": "18 selected raw samples per scene are exact outside identified changed phases; not exhaustive encoded equality. Existing finite passes retained only outside these phase deltas. Actual changed intervals covered by the two reviewed proofs."
+  },
+  "audioEvidence": {
+    "path": "hakawi_repair/e02-rebuild-20261029/reviews/ORIGINAL_FOLEY_EVENT_AUDIT.json",
+    "sha256": "7f2a718462dc5d038cf9bfed55c7c997a945d6db2e14e153a3b7093087cf19bc",
+    "limits": "Producer waveform/source reconstruction reviewed, not independently heard. Both COMPLETE receipts report exact canonical PCM slices and exact PTS/DTS. No audio changed or perceptual sound-recognition approval."
+  },
+  "evidenceFiles": {
+    "arrival-v6-wood-sync-01.jpg": "81eb81e9ddf668188e635ef5204c6b7e18fd066354611969c882ed0af18e69a8",
+    "arrival-v6-wood-sync-02.jpg": "1f41a400177a8ff7d475efc77506e1790909b3a8e98745194582f5c746374ed8",
+    "arrival-v6-wood-sync-03.jpg": "0358ea285786b4ab96bfea23085ce26c31448eb5adeaba0481e5cb7da5e496be",
+    "arrival-v6-wood-sync-04.jpg": "fe3c9e41d22489d7da237701d0bcc10a14450cf9287026acdfe616210560e7f0",
+    "native-1472.jpg": "f363b4e9a3dc775ed559eb648376bd38e101b7439bf739b6dd6572abd4a8985a",
+    "native-1473.jpg": "077fe72f9357f8bc46114aff3051fa3c730fad9332b607a0c5837417dfcafa77",
+    "native-1474.jpg": "d9347fb30959018a26ea97f4d6bf4d7d7538f7828459feb69d4f1cfbc115fd50",
+    "native-1482.jpg": "9a8632273e26ffcec2cb7dbd80e770fb44b8ecde77d506f60ff3b5acd86a71bc",
+    "native-1522.jpg": "704575a5362f725d58e8d1fdd785704cbacf5d8ec1c52a0c9ccd5519cd14460b",
+    "native-7471.jpg": "b14c2cab944ed7448da0334509b3fda40da3bde08f01f96a5d5e454dba76d791",
+    "native-7472.jpg": "50bcf549ce2fb3b4acd43a6eabb84229b619f4719cd32632ccd321e2a6292d6f",
+    "native-7473.jpg": "49399ac45bc250f40ed2fb50f6184578d84b56ae9ebcc38bc7a2d233dea7966c",
+    "native-7519.jpg": "1060547f434e1170e6fbce2417b4bc06321b1171392446a84bbdf64e7c08416b",
+    "office-v3-wood-sync-01.jpg": "b4e23a9cd1dc25e393affaeffc9df10d5a367ef3ed069001fea4a86fe9c2f425",
+    "office-v3-wood-sync-02.jpg": "9b2a456ffa37dbdcf72d9b6006c2c9854cbfb469b2df7cb679199e93ef7e14a4",
+    "office-v3-wood-sync-03.jpg": "44263b4066a87ddecf529d9870f10e11b73d612677daf89049a80fdff63c1a45",
+    "office-v3-wood-sync-04.jpg": "7a8dbbacf47e80d9a90b5a60fd15c6050d3bc1c93f3377a07ff8240cc5f6270c",
+    "office-v3-wood-sync-05.jpg": "52afa3a5e7d3321f77cc7e775de7ed491a8d268ade82fb4bc461c219d8026f59",
+    "office-v3-wood-sync-06.jpg": "52cc7b3c977dda450559fbb6a747c8da5b698091551563027a392152fca0edb0",
+    "office-v3-wood-sync-07.jpg": "7d7c18f60293709084dafc9de5a666cedc6e8955eab3acf1544e6abee586a719"
+  },
+  "remainingInitialSyncHold": false
+}

@@ -1,0 +1,14 @@
+# B carton support repair v6 — source candidate
+
+The encoded v5 witness showed the open carton pasted onto the stack's front/right vertical wall, not supported. Original donor base crop vertices approximately (43,324),(311,451),(451,306), hidden (183,179). Its steep projected depth is incompatible with the shallow stack top. A bounded original-donor trial at world(920,374), width160, vertical flatten0.2 is preserved as rejected-affine-native149.jpg and source text: it visibly squashes contents/walls and is rejected.
+
+One authorized built-in imagegen asset generated from original cheese crop plus source scene camera reference. Original output: generated_images/exec-e419e82f-9825-4540-a485-248509b8a5c5.png. Copied unchanged to carton-low-eye-v1.png, true RGBA1672×941, alpha0–255. Prompt requested only the same open cardboard carton/four cream cheese blocks, gritty ink-and-wash tan palette, low-eye view, shallow base, broad front/narrow right face, intact upright walls/flaps, no people/background/text/shadow. No external paid API.
+
+Single supportedCarton() called in both spoil [146.944,155.52) and Sherif inspection [183.84,186.3). Full asset is drawn uniformly at scale0.14, world origin(798.64,283.42), dimensions234.08×131.74. No skew/vertical compression. Approx base world vertices (818.24,397.94),(970,402),(1011.02,397.10),(859.26,393.04 hidden): entire footprint on actual top plane, not only the nearest vertex. Original actor hands are inspection/recoil gestures, not carton ownership/support. No action, camera, audio, cut, actor, phone, receipt changes.
+
+DELTA_TEST.json:16 nonaffected full native frames exactly equal to v5;5 affected witnesses have zero differences outside carton union rectangle x730–1140,y240–535 and identical action telemetry. Initial tighter test box missed6 antialias fringe pixels, so region corrected; no source change. BEFORE_AFTER_SHEET.jpg uses immutable loaded JPGs. Native149/150.9167/185 witnesses available.
+
+Source native gate pending. No encoder run, no encoded PASS claimed, no old sources/index/proofs touched.
+
+## Additional authorized summon closure
+Lead inspection exposed inherited intact half-body Sherif cutoff and outward gaze. At lead direction only summon[183.84,186.3) now uses genuine medium camera1.5×center(1150,438) and whole donor mirror about x1420. No anatomical alteration, masking, global actor/meeting change. Complete raised hand and passive arm/hand visible, lower fingertips meet lower frame; actual torso donor cutoff falls below viewport. Camera420 initially cropped more passive hand;438 retained. Native guard witnesses183.825,183.84167,186.29167,186.30833. Old pre-summon candidate text/report/check preserved. Updated DELTA_TEST explicitly exempts summon from carton-only pixel equality;16 unrelated frames still exactly unchanged, four spoil witnesses preserve action and pixels outside carton union. Scope remains same two intervals.

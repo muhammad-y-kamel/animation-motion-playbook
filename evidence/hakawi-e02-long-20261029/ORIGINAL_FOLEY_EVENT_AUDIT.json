@@ -1,0 +1,100 @@
+{
+  "canonical_final_sha256": "8589fe98bac5a66fa92491d30453f52b2250dd63c9c90e89a525315dc87bf71b",
+  "fx_sha256": "691ea75ab40038cd66ab5ba4c588fe4f4975e6806c9bbce6ca3e347f2ec19b8f",
+  "recipe": "8.5dB + alimiter ceiling0.74 attack5 release80 latencycompensation; bounded source reconstruction from stored dry+fx PCM",
+  "results": [
+    {
+      "intended_event": {
+        "time": 6.984,
+        "duration": 0.28,
+        "kind": "paper",
+        "gain": 0.004,
+        "provenance": "Original deterministic procedural synthesis; no external samples or music"
+      },
+      "actual_foley_first_nonzero_time": 6.988548752834467,
+      "actual_foley_last_nonzero_time": 7.258934240362811,
+      "fx_peak_dbfs": -36.089736319288846,
+      "dominant_hann_frequency_hz": 18657.142857142855,
+      "reconstructed_final_window_correlation": 0.9999999286068886,
+      "reconstructed_final_window_mae_pcm": 0.47011337868480724,
+      "scope": "waveform/spectral/source recipe check, not perceptual listening or sound-recognition approval"
+    },
+    {
+      "intended_event": {
+        "time": 24.5508,
+        "duration": 0.18,
+        "kind": "wood",
+        "gain": 0.009,
+        "provenance": "Original deterministic procedural synthesis; no external samples or music"
+      },
+      "actual_foley_first_nonzero_time": 24.55079365079365,
+      "actual_foley_last_nonzero_time": 24.73074829931973,
+      "fx_peak_dbfs": -38.828373344639985,
+      "dominant_hann_frequency_hz": 111.11111111111111,
+      "reconstructed_final_window_correlation": 0.9999999702307206,
+      "reconstructed_final_window_mae_pcm": 0.31597883597883597,
+      "scope": "waveform/spectral/source recipe check, not perceptual listening or sound-recognition approval"
+    },
+    {
+      "intended_event": {
+        "time": 120.11999999999999,
+        "duration": 0.55,
+        "kind": "pen",
+        "gain": 0.003,
+        "provenance": "Original deterministic procedural synthesis; no external samples or music"
+      },
+      "actual_foley_first_nonzero_time": 120.13707482993198,
+      "actual_foley_last_nonzero_time": 120.65358276643991,
+      "fx_peak_dbfs": -45.75126460692089,
+      "dominant_hann_frequency_hz": 2505.4545454545455,
+      "reconstructed_final_window_correlation": 0.9999999291612651,
+      "reconstructed_final_window_mae_pcm": 0.9687074829931973,
+      "scope": "waveform/spectral/source recipe check, not perceptual listening or sound-recognition approval"
+    },
+    {
+      "intended_event": {
+        "time": 120.82,
+        "duration": 0.32,
+        "kind": "pen",
+        "gain": 0.003,
+        "provenance": "Original deterministic procedural synthesis; no external samples or music"
+      },
+      "actual_foley_first_nonzero_time": 120.82977324263038,
+      "actual_foley_last_nonzero_time": 121.13115646258504,
+      "fx_peak_dbfs": -45.598429761043384,
+      "dominant_hann_frequency_hz": 16428.125,
+      "reconstructed_final_window_correlation": 0.9999999635487883,
+      "reconstructed_final_window_mae_pcm": 0.5945880574452003,
+      "scope": "waveform/spectral/source recipe check, not perceptual listening or sound-recognition approval"
+    },
+    {
+      "intended_event": {
+        "time": 124.54,
+        "duration": 0.18,
+        "kind": "wood",
+        "gain": 0.007,
+        "provenance": "Original deterministic procedural synthesis; no external samples or music"
+      },
+      "actual_foley_first_nonzero_time": 124.54,
+      "actual_foley_last_nonzero_time": 124.71458049886621,
+      "fx_peak_dbfs": -40.37040573773006,
+      "dominant_hann_frequency_hz": 111.11111111111111,
+      "reconstructed_final_window_correlation": 0.9999999698152665,
+      "reconstructed_final_window_mae_pcm": 0.31709750566893424,
+      "scope": "waveform/spectral/source recipe check, not perceptual listening or sound-recognition approval"
+    }
+  ],
+  "production_audio_edited": false,
+  "visual_alignment_holds": [
+    {
+      "event": "drawer conceal wood",
+      "cue": 24.5508,
+      "current_closed_time": 23.55
+    },
+    {
+      "event": "pallet lowering wood",
+      "cue": 124.54,
+      "current_grounded_time": 125.31
+    }
+  ]
+}

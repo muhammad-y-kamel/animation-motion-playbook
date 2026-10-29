@@ -1,0 +1,43 @@
+{
+  "status": "TECHNICAL_PASS_PENDING_VISUAL_TRANSFER",
+  "path": "/workspace/scratch/bb6b47af6d33/e02-native-final-20261029-0857/E02-native-1080p60-AAC.mp4",
+  "sha256": "59458201422d9b9c7e20817d660dedcc1797b453177dd0d10f3413ff20be70fa",
+  "bytes": 149657386,
+  "reviewMasterSHA256": "7a57d12d9234d4799d038fc14204f6ac5a5a390558cd154017626d06ad8d1335",
+  "decodedVideoIdentical": true,
+  "frames": 28412,
+  "size": [
+    1920,
+    1080
+  ],
+  "fps": 60,
+  "exactPresentationGrid": true,
+  "audioPresentedSamples": 20882232,
+  "audioDuration": 473.52,
+  "lastAudioFrameSamplesPreserved": 147,
+  "audioCodec": "AAC128k single generation from canonical WAV",
+  "boundedAudioAlignment": [
+    {
+      "start": 0,
+      "seconds": 5,
+      "rate": 8000,
+      "bestLagSamples": 0,
+      "correlation": 0.9994651162654717
+    },
+    {
+      "start": 234,
+      "seconds": 5,
+      "rate": 8000,
+      "bestLagSamples": 0,
+      "correlation": 0.9993127862828862
+    },
+    {
+      "start": 468.52,
+      "seconds": 5,
+      "rate": 8000,
+      "bestLagSamples": 0,
+      "correlation": 0.9991877710400595
+    }
+  ],
+  "listeningClaim": false
+}

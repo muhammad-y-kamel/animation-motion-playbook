@@ -1,0 +1,604 @@
+{
+  "status": "SOURCE_FROZEN_FINITE_GATES_CLOSED_NOT_PRODUCTION_GO",
+  "createdUTC": "2026-10-29T08:58:18.960841+00:00",
+  "sourceDirectory": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e02-rebuild-20261029",
+  "sourceRoot": "/workspace/scratch/bb6b47af6d33/channel-repair-inventory/hakawi-remaining/extracted/E02",
+  "reference": {
+    "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e02-rebuild-20261029/long-scenes-v3.cjs",
+    "sha256": "12b6f5ffcbcb5adf08228cbd16f34c8a61f67baa42c4305ff8006904149a9533",
+    "bytes": 3480
+  },
+  "routes": [
+    {
+      "id": "opening",
+      "start": 0,
+      "end": 29.04,
+      "firstFrame": 0,
+      "endFrame": 1742,
+      "entry": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e02-rebuild-20261029/office-identity-v4/scenes.cjs",
+      "sha256": "d2d86b73b972096c7d7ac4618909ce911d937644d6c3fbc775f33f5a0cffb829",
+      "init": "createScene",
+      "file": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e02-rebuild-20261029/office-identity-v4/scenes.cjs",
+      "factory": "createScene"
+    },
+    {
+      "id": "A",
+      "start": 29.04,
+      "end": 119.32,
+      "firstFrame": 1742,
+      "endFrame": 7159,
+      "entry": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e02-rebuild-20261029/blocks/a_history_instruction/candidate-receipt-v5.cjs",
+      "sha256": "827f6098b0ea471924d747d560125d6c08ac477b3bae355e935d7e361dfb19a7",
+      "init": "createBlock",
+      "file": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e02-rebuild-20261029/blocks/a_history_instruction/candidate-receipt-v5.cjs",
+      "factory": "createBlock"
+    },
+    {
+      "id": "arrival",
+      "start": 119.32,
+      "end": 127.2,
+      "firstFrame": 7159,
+      "endFrame": 7632,
+      "entry": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e02-rebuild-20261029/arrival-freeze-v6-sync/scenes.cjs",
+      "sha256": "e94a9647b6d9b55a0d95ed35a09b611ab5cfd08b28c8309b3c7114fb3a0e2774",
+      "init": "createScene",
+      "file": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e02-rebuild-20261029/arrival-freeze-v6-sync/scenes.cjs",
+      "factory": "createScene"
+    },
+    {
+      "id": "B",
+      "start": 127.2,
+      "end": 266.72,
+      "firstFrame": 7632,
+      "endFrame": 16003,
+      "entry": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e02-rebuild-20261029/blocks/b_negligence_accusation/candidate-support-v6.cjs",
+      "sha256": "2542b2ea714bd5d99dde789b78da32c731cb1416625ecfff68f4adf1d8a0a935",
+      "init": "createBlock",
+      "file": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e02-rebuild-20261029/blocks/b_negligence_accusation/candidate-support-v6.cjs",
+      "factory": "createBlock"
+    },
+    {
+      "id": "C",
+      "start": 266.72,
+      "end": 393.44,
+      "firstFrame": 16003,
+      "endFrame": 23606,
+      "entry": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e02-rebuild-20261029/blocks/c_family_discovery/candidate-welcome-v5.cjs",
+      "sha256": "72f0f747b725f8c8e6da675e3b32e20c373f66bf092d52b01c3a00427316f8cf",
+      "init": "createBlock",
+      "file": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e02-rebuild-20261029/blocks/c_family_discovery/candidate-welcome-v5.cjs",
+      "factory": "createBlock"
+    },
+    {
+      "id": "D",
+      "start": 393.44,
+      "end": 473.52,
+      "firstFrame": 23606,
+      "endFrame": 28412,
+      "entry": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e02-rebuild-20261029/blocks/d_evidence_consequence/candidate-receipt-v7.cjs",
+      "sha256": "e359ec9a24697814f7b5bf1922ef5759086fa94a1174729b16a926f915fe49ce",
+      "init": "createBlock",
+      "file": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e02-rebuild-20261029/blocks/d_evidence_consequence/candidate-receipt-v7.cjs",
+      "factory": "createBlock"
+    }
+  ],
+  "replayRoutes": {
+    "arrival": {
+      "file": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e02-rebuild-20261029/arrival-freeze-v6-sync/scenes.cjs",
+      "factory": "createScene",
+      "sha256": "e94a9647b6d9b55a0d95ed35a09b611ab5cfd08b28c8309b3c7114fb3a0e2774"
+    },
+    "B": {
+      "file": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e02-rebuild-20261029/blocks/b_negligence_accusation/candidate-receipt-v5.cjs",
+      "factory": "createBlock",
+      "sha256": "3f667891b38a75948e7651146004fa473208d8e6ab2f9a13044db61ef3f94505"
+    }
+  },
+  "Cmemory": {
+    "signingGlobalFrames": [
+      22140,
+      22320
+    ],
+    "phoneGlobalFrames": [
+      22320,
+      22613
+    ],
+    "signingEntry": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e02-rebuild-20261029/arrival-freeze-v6-sync/scenes.cjs",
+    "phoneEntry": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e02-rebuild-20261029/blocks/b_negligence_accusation/candidate-receipt-v5.cjs",
+    "phoneSHA256": "3f667891b38a75948e7651146004fa473208d8e6ab2f9a13044db61ef3f94505",
+    "mapping": "369→119.9;372→136; currentmasteraudio unchanged"
+  },
+  "nativeSize": [
+    1920,
+    1080
+  ],
+  "fps": 60,
+  "shutterOffsets": [
+    -0.005555555555555556,
+    0,
+    0.005555555555555556
+  ],
+  "videoFrames": 28412,
+  "audio": {
+    "path": "/workspace/scratch/bb6b47af6d33/channel-repair-inventory/hakawi-remaining/extracted/E02/hakawi-production-20261024/E02-master/E02-final-mix-corrected-v2.wav",
+    "sha256": "8589fe98bac5a66fa92491d30453f52b2250dd63c9c90e89a525315dc87bf71b",
+    "bytes": 41764542,
+    "samples": 20882232,
+    "sampleRate": 44100,
+    "duration": 473.52
+  },
+  "tailPolicy": "Clamp visualcentral/shutters to473.52−epsilon, preserveall20882232audio samples, noaudio padding.",
+  "sampleEndpointPolicy": "min(frameEndpoint*735,20882232); no canonical sample truncation or audio padding",
+  "actualInitializerDependencies": {
+    "/opt/codex/runtimes/codex-primary-runtime/dependencies/node/node_modules/@napi-rs/canvas/index.js": "bbdad32cab670261983ea56d4625fc7d07b1382f8bb7d6d31232bb2834861597",
+    "/opt/codex/runtimes/codex-primary-runtime/dependencies/node/node_modules/@napi-rs/canvas/js-binding.js": "be59c8d4888630cf88656f65b63dd150e60bdb1d5eab0ba5b47c0a6cb389533e",
+    "/usr/bin/ldd": "7bcd61a279946cb376d36fd91f4938ab4f4aba48e793c652a9797319d23f8dd3",
+    "/opt/codex/runtimes/codex-primary-runtime/dependencies/node/node_modules/@napi-rs/canvas-linux-x64-gnu/skia.linux-x64-gnu.node": "059a0873c1114a8a59195f6c4bc76eab9c4e928251003cd501b59bc8aaaf3fa0",
+    "/opt/codex/runtimes/codex-primary-runtime/dependencies/node/node_modules/@napi-rs/canvas/geometry.js": "2e0ae365059fdb0424ddd2da8401e240a250c52b7efca68680996a99e804c1a1",
+    "/opt/codex/runtimes/codex-primary-runtime/dependencies/node/node_modules/@napi-rs/canvas/load-image.js": "b4527335ec1d0505daf51be5ef919a8f951fc8296d88f4c5016e6ce772971570",
+    "/workspace/scratch/bb6b47af6d33/hakawi_repair/e02-rebuild-20261029/long-scenes-v3.cjs": "12b6f5ffcbcb5adf08228cbd16f34c8a61f67baa42c4305ff8006904149a9533",
+    "/workspace/scratch/bb6b47af6d33/hakawi_repair/e02-rebuild-20261029/shared.cjs": "5c00f1161e0902450950202b599c5341ec7b6a6f2fd35ef7fae59190f1313e77",
+    "/workspace/scratch/bb6b47af6d33/channel-repair-inventory/hakawi-remaining/extracted/E02/hakawi-production-20261024/E02-master/engine-v33-snapshot.cjs": "3627a922be04fe615a0acc4b3c4952195c66952bc1cf9080ab22b41027cd6799",
+    "/usr/share/fonts/truetype/noto/NotoSansArabic-Regular.ttf": "504d7407d86875acf7d04dfaa0fd7524d0b8797723bc4aa18022f29db25b0b6e",
+    "/workspace/scratch/bb6b47af6d33/channel-repair-inventory/hakawi-remaining/extracted/E02/hakawi-production-20261024/E02-master/actors-v40.cjs": "f7e7d74a1ce3fc56de10bff884b4d8bebd48239520aaa0d920c8a0f22b8a123e",
+    "/workspace/scratch/bb6b47af6d33/channel-repair-inventory/hakawi-remaining/extracted/E02/hakawi-voice-sample/corrected-pass-20261024/E02/E02-alignment.json": "18149a78341160571ddf96553916ab51f5ceb7bd6490932f10c648cfad9756d2",
+    "/workspace/scratch/bb6b47af6d33/hakawi_repair/e02-rebuild-20261029/ACTION_CONTRACT_68.json": "a1cd2b88f97a20031b8ac0984017f2d9fcee3e8bfe1757b7da1d170241d056d7",
+    "/workspace/scratch/bb6b47af6d33/hakawi_repair/e02-rebuild-20261029/office-identity-v4/scenes.cjs": "d2d86b73b972096c7d7ac4618909ce911d937644d6c3fbc775f33f5a0cffb829",
+    "/workspace/scratch/bb6b47af6d33/hakawi_repair/e02-rebuild-20261029/paper-identity-v1/receipt.cjs": "b8e781ae856122c15e89b398b883acd285dc055aa7b71b17d51c3ca5a68aef53",
+    "/workspace/scratch/bb6b47af6d33/channel-repair-inventory/hakawi-remaining/extracted/E02/hakawi-production-20261024/E02-master/assets/adel-rig.png": "978f9e73eb540c7564fa42c53d2931e3755a44ad3cd9d1adfd0c77811129a880",
+    "/workspace/scratch/bb6b47af6d33/channel-repair-inventory/hakawi-remaining/extracted/E02/hakawi-production-20261024/E02-master/assets/karim-rig.png": "ba00160d3700a271870e0e7fe09aa69f9f1fc4ea00cdb8eb39a6382ba41dad7c",
+    "/workspace/scratch/bb6b47af6d33/channel-repair-inventory/hakawi-remaining/extracted/E02/hakawi-production-20261024/E02-master/assets/karim-seated.png": "65351d6bb3e7e562960b5c48a7c56478b4395d92bfee68eb9a20768b2d49dfcf",
+    "/workspace/scratch/bb6b47af6d33/channel-repair-inventory/hakawi-remaining/extracted/E02/hakawi-production-20261024/E02-master/assets/adel-arms-v2.png": "7e9300b8dca2ced1a8d7e40160e2c9037dc25c5c5466c82b7edddb95754ab5c3",
+    "/workspace/scratch/bb6b47af6d33/channel-repair-inventory/hakawi-remaining/extracted/E02/hakawi-production-20261024/E02-master/assets/expressions.png": "d65a36baf21053d7034624557c4b6accdbe05e78b5e0fb8b8f8061d64c7b3681",
+    "/workspace/scratch/bb6b47af6d33/channel-repair-inventory/hakawi-remaining/extracted/E02/hakawi-production-20261024/E02-master/assets/props.png": "6b3893a5632bad3dbc002e767c75f42924a3289117e6ad64d5a4f6a729534ec3",
+    "/workspace/scratch/bb6b47af6d33/channel-repair-inventory/hakawi-remaining/extracted/E02/hakawi-production-20261024/E02-master/assets/warehouse-office.png": "35ec096bc9a60cdbeb1ff0d00e03dc657ba0b6eede1652d3d6dc79aaaf31e386",
+    "/workspace/scratch/bb6b47af6d33/hakawi_repair/e02-rebuild-20261029/office-freeze-v3-sync/shoulder-patch/patch.cjs": "c945b9ec50662a5754b519393c35d07389e0d58df0259be0d5fffd03b77a887e",
+    "/workspace/scratch/bb6b47af6d33/hakawi_repair/e02-rebuild-20261029/office-freeze-v3-sync/shoulder-patch/adel-upper-clean-v3.png": "f86d540b49e8817d99f64bc8166b68c3d25d28280ecaf96bf9dd4acae2f35e4a",
+    "/workspace/scratch/bb6b47af6d33/hakawi_repair/e02-rebuild-20261029/blocks/a_history_instruction/candidate-receipt-v5.cjs": "827f6098b0ea471924d747d560125d6c08ac477b3bae355e935d7e361dfb19a7",
+    "/workspace/scratch/bb6b47af6d33/channel-repair-inventory/hakawi-remaining/extracted/E02/hakawi-production-20261024/E02-master/assets/adel-home.png": "f9b5d30357b1823a1314f1d457aae79d3673be311ab5c0955eb4412b2bc4e11c",
+    "/workspace/scratch/bb6b47af6d33/channel-repair-inventory/hakawi-remaining/extracted/E02/hakawi-production-20261024/E02-master/assets/family-complete-v43.png": "33e7d82042987ee7c691f522a5437b13a106fd18588251bc1797722419105a48",
+    "/workspace/scratch/bb6b47af6d33/channel-repair-inventory/hakawi-remaining/extracted/E02/hakawi-production-20261024/E02-master/assets/yard-gate.png": "44bb3891b327956306ad09249242c6258929ac90e65ec1b2c6e9417f796e813d",
+    "/workspace/scratch/bb6b47af6d33/channel-repair-inventory/hakawi-remaining/extracted/E02/hakawi-production-20261024/E02-master/assets/writing-hand.png": "8e8772c5c69ddd590764f2978ab48dd002f03cada64dd803b3bb58b01f342ed4",
+    "/workspace/scratch/bb6b47af6d33/channel-repair-inventory/hakawi-remaining/extracted/E02/hakawi-production-20261024/E02-master/assets/driver-rig.png": "43bacbf0148091a8a9ff107d43555e3f9e43ca2ebd41cd7f23d782026a68bdf2",
+    "/workspace/scratch/bb6b47af6d33/hakawi_repair/e02-rebuild-20261029/shoulder-patch/patch.cjs": "c945b9ec50662a5754b519393c35d07389e0d58df0259be0d5fffd03b77a887e",
+    "/workspace/scratch/bb6b47af6d33/hakawi_repair/e02-rebuild-20261029/shoulder-patch/adel-upper-clean-v3.png": "f86d540b49e8817d99f64bc8166b68c3d25d28280ecaf96bf9dd4acae2f35e4a",
+    "/workspace/scratch/bb6b47af6d33/hakawi_repair/e02-rebuild-20261029/blocks/a_history_instruction/assets/truck-v1.png": "6e093116df42f5cbaaed4515a4399672aa592c2970598c7c36d0a9c95bd9d1b3",
+    "/workspace/scratch/bb6b47af6d33/hakawi_repair/e02-rebuild-20261029/blocks/a_history_instruction/assets/adel-pinch-v1.png": "9f8ece185b7e14313754e0372f9cefe26a16ecc5919865a49e1839dd7c0c224f",
+    "/workspace/scratch/bb6b47af6d33/hakawi_repair/e02-rebuild-20261029/blocks/a_history_instruction/assets/karim-receiving-palm-v1.png": "da70348e277fcf68b5056e13f90f2d1e5f6da11ab571f1a7f0942a7df9f02abd",
+    "/workspace/scratch/bb6b47af6d33/hakawi_repair/e02-rebuild-20261029/blocks/a_history_instruction/assets/empty-pocket-source-v1.png": "3f1d8915427589eb0d07aaee789ca4c9fe58cc625431f1bbb90b1e163121cddc",
+    "/workspace/scratch/bb6b47af6d33/hakawi_repair/e02-rebuild-20261029/arrival-freeze-v6-sync/scenes.cjs": "e94a9647b6d9b55a0d95ed35a09b611ab5cfd08b28c8309b3c7114fb3a0e2774",
+    "/workspace/scratch/bb6b47af6d33/hakawi_repair/e02-rebuild-20261029/arrival-freeze-v6-sync/arrival.cjs": "f2563d96e8d948ada7eb6f00de893453d24daa3af9081e608e1f83a9a4f83f98",
+    "/workspace/scratch/bb6b47af6d33/hakawi_repair/e02-rebuild-20261029/arrival-freeze-v6-sync/assets/arrival-forklift-operator-v2.png": "d90307c7bc18f78189d2638f8cb3a109f1a8ba7bf20c0e82aeda7b5adb2bf250",
+    "/workspace/scratch/bb6b47af6d33/hakawi_repair/e02-rebuild-20261029/arrival-freeze-v6-sync/assets/arrival-forklift-pallet-v1.png": "21e92d168d522397dd68c046300a82c2b8e93787c8cc426e4ee7322a86b3a032",
+    "/workspace/scratch/bb6b47af6d33/hakawi_repair/e02-rebuild-20261029/blocks/b_negligence_accusation/candidate-support-v6.cjs": "2542b2ea714bd5d99dde789b78da32c731cb1416625ecfff68f4adf1d8a0a935",
+    "/workspace/scratch/bb6b47af6d33/hakawi_repair/e02-rebuild-20261029/blocks/b_negligence_accusation/phone-grip-repair/phone-actor.cjs": "258e2e054847dfbe8155e9f998354cb9975ec2a0eb8fee93f05419a6a7615a2a",
+    "/workspace/scratch/bb6b47af6d33/channel-repair-inventory/hakawi-remaining/extracted/E02/hakawi-production-20261024/E02-master/assets/adel-seated.png": "5c8702f3301f3537fadd0895dc360a67436ea1f01d8ad15e915827b99ce431d7",
+    "/workspace/scratch/bb6b47af6d33/channel-repair-inventory/hakawi-remaining/extracted/E02/hakawi-production-20261024/E02-master/assets/sherif-rig.png": "1a86e559d41b160b9867c0fc1d589fdc1412d8a3fc074fd38967ad3fe95565e5",
+    "/workspace/scratch/bb6b47af6d33/channel-repair-inventory/hakawi-remaining/extracted/E02/hakawi-production-20261024/E02-master/assets/sherif-intact-pose-v2.png": "a0c5307da3e3df0c3f954edcb0a8f4749cd2f822a2652fcb5bdce5daa06e5ba2",
+    "/workspace/scratch/bb6b47af6d33/hakawi_repair/e02-rebuild-20261029/blocks/b_negligence_accusation/phone-grip-repair/assets/phone-forearm-v1.png": "392be683cf2c1b1abbd43f4273976be84fede94ff02f9b039012eb0e166a721c",
+    "/workspace/scratch/bb6b47af6d33/hakawi_repair/e02-rebuild-20261029/assets/arrival-forklift-pallet-v1.png": "21e92d168d522397dd68c046300a82c2b8e93787c8cc426e4ee7322a86b3a032",
+    "/workspace/scratch/bb6b47af6d33/hakawi_repair/e02-rebuild-20261029/blocks/b_negligence_accusation/support-repair/carton-low-eye-v1.png": "c59cf49706cc450175348e9804174f665b513af04067f9acdcdeaeb2e84fb924",
+    "/workspace/scratch/bb6b47af6d33/hakawi_repair/e02-rebuild-20261029/blocks/b_negligence_accusation/candidate-receipt-v5.cjs": "3f667891b38a75948e7651146004fa473208d8e6ab2f9a13044db61ef3f94505",
+    "/workspace/scratch/bb6b47af6d33/hakawi_repair/e02-rebuild-20261029/blocks/c_family_discovery/candidate-welcome-v5.cjs": "72f0f747b725f8c8e6da675e3b32e20c373f66bf092d52b01c3a00427316f8cf",
+    "/workspace/scratch/bb6b47af6d33/hakawi_repair/e02-rebuild-20261029/blocks/c_family_discovery/seated-patch/actors.cjs": "a9e0f9223a11531a32f9a3f1bef9ba3c16fa659ac2bbad0dfc4e841f16d104d6",
+    "/workspace/scratch/bb6b47af6d33/channel-repair-inventory/hakawi-remaining/extracted/E02/hakawi-production-20261024/E02-master/assets/props-v2.png": "ed2a695fc17cc1e89bd56db49de77d63c89750595aa373526b51e120b705dc10",
+    "/workspace/scratch/bb6b47af6d33/channel-repair-inventory/hakawi-remaining/extracted/E02/hakawi-production-20261024/E02-master/assets/wife-placement-arm-v42.png": "32a17cc8add8b02fc6285f698457c7547d954bf08ea52573d538782bce117498",
+    "/workspace/scratch/bb6b47af6d33/hakawi_repair/e02-rebuild-20261029/blocks/c_family_discovery/tea-grip/assets/tea-forearm-v1.png": "37475f5fee1454e3fadd2b231b7ce83a31c30e24230edd218126f07df21c395f",
+    "/workspace/scratch/bb6b47af6d33/hakawi_repair/e02-rebuild-20261029/blocks/d_evidence_consequence/candidate-receipt-v7.cjs": "e359ec9a24697814f7b5bf1922ef5759086fa94a1174729b16a926f915fe49ce",
+    "/workspace/scratch/bb6b47af6d33/channel-repair-inventory/hakawi-remaining/extracted/E02/hakawi-production-20261024/E02-master/assets/market.png": "e1d94f276cbfdc6485a3d2899976a367e27cea167be315a3b658e1e9a8178790",
+    "/workspace/scratch/bb6b47af6d33/hakawi_repair/e02-rebuild-20261029/blocks/a_history_instruction/IMPLEMENTATION_MAP.md": "4975e03ac425a77820c546bcc92655738baeae65eaf21c65d999ebd4e7173a3e",
+    "/workspace/scratch/bb6b47af6d33/hakawi_repair/e02-rebuild-20261029/blocks/b_negligence_accusation/ACTION_SUPPORT_MAP.json": "9d1c82d29a87b3361940107f5d34d6e0edbf08dad2ded145ebf8a6491b9d6e83",
+    "/workspace/scratch/bb6b47af6d33/hakawi_repair/e02-rebuild-20261029/blocks/c_family_discovery/tea-grip/actors.cjs": "18efb6531971c349c4009c4bb8a9fe162fa6a6da9beaa29b2cfb5b21b123186f",
+    "/workspace/scratch/bb6b47af6d33/hakawi_repair/e02-rebuild-20261029/blocks/d_evidence_consequence/ACTION_SUPPORT_MAP.json": "a440209555400bd60db0d3fc6af4a5af8617aea23d0fa53105bacb2389a66da7"
+  },
+  "sourceSmokeDependencies": {
+    "/workspace/scratch/bb6b47af6d33/hakawi_repair/e02-rebuild-20261029/long-scenes-v3.cjs": "12b6f5ffcbcb5adf08228cbd16f34c8a61f67baa42c4305ff8006904149a9533",
+    "/workspace/scratch/bb6b47af6d33/channel-repair-inventory/hakawi-remaining/extracted/E02/hakawi-voice-sample/corrected-pass-20261024/E02/E02-alignment.json": "18149a78341160571ddf96553916ab51f5ceb7bd6490932f10c648cfad9756d2",
+    "/workspace/scratch/bb6b47af6d33/hakawi_repair/e02-rebuild-20261029/ACTION_CONTRACT_68.json": "a1cd2b88f97a20031b8ac0984017f2d9fcee3e8bfe1757b7da1d170241d056d7",
+    "/workspace/scratch/bb6b47af6d33/hakawi_repair/e02-rebuild-20261029/office-identity-v4/scenes.cjs": "d2d86b73b972096c7d7ac4618909ce911d937644d6c3fbc775f33f5a0cffb829",
+    "/workspace/scratch/bb6b47af6d33/hakawi_repair/e02-rebuild-20261029/paper-identity-v1/receipt.cjs": "b8e781ae856122c15e89b398b883acd285dc055aa7b71b17d51c3ca5a68aef53",
+    "/workspace/scratch/bb6b47af6d33/channel-repair-inventory/hakawi-remaining/extracted/E02/hakawi-production-20261024/E02-master/assets/adel-rig.png": "978f9e73eb540c7564fa42c53d2931e3755a44ad3cd9d1adfd0c77811129a880",
+    "/workspace/scratch/bb6b47af6d33/channel-repair-inventory/hakawi-remaining/extracted/E02/hakawi-production-20261024/E02-master/assets/karim-rig.png": "ba00160d3700a271870e0e7fe09aa69f9f1fc4ea00cdb8eb39a6382ba41dad7c",
+    "/workspace/scratch/bb6b47af6d33/channel-repair-inventory/hakawi-remaining/extracted/E02/hakawi-production-20261024/E02-master/assets/karim-seated.png": "65351d6bb3e7e562960b5c48a7c56478b4395d92bfee68eb9a20768b2d49dfcf",
+    "/workspace/scratch/bb6b47af6d33/channel-repair-inventory/hakawi-remaining/extracted/E02/hakawi-production-20261024/E02-master/assets/adel-arms-v2.png": "7e9300b8dca2ced1a8d7e40160e2c9037dc25c5c5466c82b7edddb95754ab5c3",
+    "/workspace/scratch/bb6b47af6d33/channel-repair-inventory/hakawi-remaining/extracted/E02/hakawi-production-20261024/E02-master/assets/expressions.png": "d65a36baf21053d7034624557c4b6accdbe05e78b5e0fb8b8f8061d64c7b3681",
+    "/workspace/scratch/bb6b47af6d33/channel-repair-inventory/hakawi-remaining/extracted/E02/hakawi-production-20261024/E02-master/assets/props.png": "6b3893a5632bad3dbc002e767c75f42924a3289117e6ad64d5a4f6a729534ec3",
+    "/workspace/scratch/bb6b47af6d33/channel-repair-inventory/hakawi-remaining/extracted/E02/hakawi-production-20261024/E02-master/assets/warehouse-office.png": "35ec096bc9a60cdbeb1ff0d00e03dc657ba0b6eede1652d3d6dc79aaaf31e386",
+    "/workspace/scratch/bb6b47af6d33/hakawi_repair/e02-rebuild-20261029/office-freeze-v3-sync/shoulder-patch/adel-upper-clean-v3.png": "f86d540b49e8817d99f64bc8166b68c3d25d28280ecaf96bf9dd4acae2f35e4a",
+    "/workspace/scratch/bb6b47af6d33/hakawi_repair/e02-rebuild-20261029/blocks/a_history_instruction/candidate-receipt-v5.cjs": "827f6098b0ea471924d747d560125d6c08ac477b3bae355e935d7e361dfb19a7",
+    "/workspace/scratch/bb6b47af6d33/channel-repair-inventory/hakawi-remaining/extracted/E02/hakawi-production-20261024/E02-master/engine-v33-snapshot.cjs": "3627a922be04fe615a0acc4b3c4952195c66952bc1cf9080ab22b41027cd6799",
+    "/workspace/scratch/bb6b47af6d33/channel-repair-inventory/hakawi-remaining/extracted/E02/hakawi-production-20261024/E02-master/actors-v40.cjs": "f7e7d74a1ce3fc56de10bff884b4d8bebd48239520aaa0d920c8a0f22b8a123e",
+    "/usr/share/fonts/truetype/noto/NotoSansArabic-Regular.ttf": "504d7407d86875acf7d04dfaa0fd7524d0b8797723bc4aa18022f29db25b0b6e",
+    "/workspace/scratch/bb6b47af6d33/channel-repair-inventory/hakawi-remaining/extracted/E02/hakawi-production-20261024/E02-master/assets/adel-home.png": "f9b5d30357b1823a1314f1d457aae79d3673be311ab5c0955eb4412b2bc4e11c",
+    "/workspace/scratch/bb6b47af6d33/channel-repair-inventory/hakawi-remaining/extracted/E02/hakawi-production-20261024/E02-master/assets/family-complete-v43.png": "33e7d82042987ee7c691f522a5437b13a106fd18588251bc1797722419105a48",
+    "/workspace/scratch/bb6b47af6d33/channel-repair-inventory/hakawi-remaining/extracted/E02/hakawi-production-20261024/E02-master/assets/yard-gate.png": "44bb3891b327956306ad09249242c6258929ac90e65ec1b2c6e9417f796e813d",
+    "/workspace/scratch/bb6b47af6d33/channel-repair-inventory/hakawi-remaining/extracted/E02/hakawi-production-20261024/E02-master/assets/writing-hand.png": "8e8772c5c69ddd590764f2978ab48dd002f03cada64dd803b3bb58b01f342ed4",
+    "/workspace/scratch/bb6b47af6d33/channel-repair-inventory/hakawi-remaining/extracted/E02/hakawi-production-20261024/E02-master/assets/driver-rig.png": "43bacbf0148091a8a9ff107d43555e3f9e43ca2ebd41cd7f23d782026a68bdf2",
+    "/workspace/scratch/bb6b47af6d33/hakawi_repair/e02-rebuild-20261029/shoulder-patch/adel-upper-clean-v3.png": "f86d540b49e8817d99f64bc8166b68c3d25d28280ecaf96bf9dd4acae2f35e4a",
+    "/workspace/scratch/bb6b47af6d33/hakawi_repair/e02-rebuild-20261029/shoulder-patch/patch.cjs": "c945b9ec50662a5754b519393c35d07389e0d58df0259be0d5fffd03b77a887e",
+    "/workspace/scratch/bb6b47af6d33/hakawi_repair/e02-rebuild-20261029/blocks/a_history_instruction/assets/truck-v1.png": "6e093116df42f5cbaaed4515a4399672aa592c2970598c7c36d0a9c95bd9d1b3",
+    "/workspace/scratch/bb6b47af6d33/hakawi_repair/e02-rebuild-20261029/blocks/a_history_instruction/assets/adel-pinch-v1.png": "9f8ece185b7e14313754e0372f9cefe26a16ecc5919865a49e1839dd7c0c224f",
+    "/workspace/scratch/bb6b47af6d33/hakawi_repair/e02-rebuild-20261029/blocks/a_history_instruction/assets/karim-receiving-palm-v1.png": "da70348e277fcf68b5056e13f90f2d1e5f6da11ab571f1a7f0942a7df9f02abd",
+    "/workspace/scratch/bb6b47af6d33/hakawi_repair/e02-rebuild-20261029/blocks/a_history_instruction/assets/empty-pocket-source-v1.png": "3f1d8915427589eb0d07aaee789ca4c9fe58cc625431f1bbb90b1e163121cddc",
+    "/workspace/scratch/bb6b47af6d33/hakawi_repair/e02-rebuild-20261029/shared.cjs": "5c00f1161e0902450950202b599c5341ec7b6a6f2fd35ef7fae59190f1313e77",
+    "/workspace/scratch/bb6b47af6d33/hakawi_repair/e02-rebuild-20261029/blocks/a_history_instruction/IMPLEMENTATION_MAP.md": "4975e03ac425a77820c546bcc92655738baeae65eaf21c65d999ebd4e7173a3e",
+    "/workspace/scratch/bb6b47af6d33/hakawi_repair/e02-rebuild-20261029/arrival-freeze-v6-sync/scenes.cjs": "e94a9647b6d9b55a0d95ed35a09b611ab5cfd08b28c8309b3c7114fb3a0e2774",
+    "/workspace/scratch/bb6b47af6d33/hakawi_repair/e02-rebuild-20261029/arrival-freeze-v6-sync/assets/arrival-forklift-pallet-v1.png": "21e92d168d522397dd68c046300a82c2b8e93787c8cc426e4ee7322a86b3a032",
+    "/workspace/scratch/bb6b47af6d33/hakawi_repair/e02-rebuild-20261029/arrival-freeze-v6-sync/assets/arrival-forklift-operator-v2.png": "d90307c7bc18f78189d2638f8cb3a109f1a8ba7bf20c0e82aeda7b5adb2bf250",
+    "/workspace/scratch/bb6b47af6d33/hakawi_repair/e02-rebuild-20261029/blocks/b_negligence_accusation/candidate-support-v6.cjs": "2542b2ea714bd5d99dde789b78da32c731cb1416625ecfff68f4adf1d8a0a935",
+    "/workspace/scratch/bb6b47af6d33/channel-repair-inventory/hakawi-remaining/extracted/E02/hakawi-production-20261024/E02-master/assets/adel-seated.png": "5c8702f3301f3537fadd0895dc360a67436ea1f01d8ad15e915827b99ce431d7",
+    "/workspace/scratch/bb6b47af6d33/channel-repair-inventory/hakawi-remaining/extracted/E02/hakawi-production-20261024/E02-master/assets/sherif-rig.png": "1a86e559d41b160b9867c0fc1d589fdc1412d8a3fc074fd38967ad3fe95565e5",
+    "/workspace/scratch/bb6b47af6d33/channel-repair-inventory/hakawi-remaining/extracted/E02/hakawi-production-20261024/E02-master/assets/sherif-intact-pose-v2.png": "a0c5307da3e3df0c3f954edcb0a8f4749cd2f822a2652fcb5bdce5daa06e5ba2",
+    "/workspace/scratch/bb6b47af6d33/hakawi_repair/e02-rebuild-20261029/blocks/b_negligence_accusation/phone-grip-repair/assets/phone-forearm-v1.png": "392be683cf2c1b1abbd43f4273976be84fede94ff02f9b039012eb0e166a721c",
+    "/workspace/scratch/bb6b47af6d33/hakawi_repair/e02-rebuild-20261029/blocks/b_negligence_accusation/phone-grip-repair/phone-actor.cjs": "258e2e054847dfbe8155e9f998354cb9975ec2a0eb8fee93f05419a6a7615a2a",
+    "/workspace/scratch/bb6b47af6d33/hakawi_repair/e02-rebuild-20261029/assets/arrival-forklift-pallet-v1.png": "21e92d168d522397dd68c046300a82c2b8e93787c8cc426e4ee7322a86b3a032",
+    "/workspace/scratch/bb6b47af6d33/hakawi_repair/e02-rebuild-20261029/blocks/b_negligence_accusation/support-repair/carton-low-eye-v1.png": "c59cf49706cc450175348e9804174f665b513af04067f9acdcdeaeb2e84fb924",
+    "/workspace/scratch/bb6b47af6d33/hakawi_repair/e02-rebuild-20261029/blocks/b_negligence_accusation/ACTION_SUPPORT_MAP.json": "9d1c82d29a87b3361940107f5d34d6e0edbf08dad2ded145ebf8a6491b9d6e83",
+    "/workspace/scratch/bb6b47af6d33/hakawi_repair/e02-rebuild-20261029/blocks/c_family_discovery/candidate-welcome-v5.cjs": "72f0f747b725f8c8e6da675e3b32e20c373f66bf092d52b01c3a00427316f8cf",
+    "/workspace/scratch/bb6b47af6d33/hakawi_repair/e02-rebuild-20261029/blocks/c_family_discovery/tea-grip/actors.cjs": "18efb6531971c349c4009c4bb8a9fe162fa6a6da9beaa29b2cfb5b21b123186f",
+    "/workspace/scratch/bb6b47af6d33/hakawi_repair/e02-rebuild-20261029/blocks/c_family_discovery/seated-patch/actors.cjs": "a9e0f9223a11531a32f9a3f1bef9ba3c16fa659ac2bbad0dfc4e841f16d104d6",
+    "/workspace/scratch/bb6b47af6d33/channel-repair-inventory/hakawi-remaining/extracted/E02/hakawi-production-20261024/E02-master/assets/props-v2.png": "ed2a695fc17cc1e89bd56db49de77d63c89750595aa373526b51e120b705dc10",
+    "/workspace/scratch/bb6b47af6d33/channel-repair-inventory/hakawi-remaining/extracted/E02/hakawi-production-20261024/E02-master/assets/wife-placement-arm-v42.png": "32a17cc8add8b02fc6285f698457c7547d954bf08ea52573d538782bce117498",
+    "/workspace/scratch/bb6b47af6d33/hakawi_repair/e02-rebuild-20261029/blocks/c_family_discovery/tea-grip/assets/tea-forearm-v1.png": "37475f5fee1454e3fadd2b231b7ce83a31c30e24230edd218126f07df21c395f",
+    "/workspace/scratch/bb6b47af6d33/hakawi_repair/e02-rebuild-20261029/blocks/b_negligence_accusation/candidate-receipt-v5.cjs": "3f667891b38a75948e7651146004fa473208d8e6ab2f9a13044db61ef3f94505",
+    "/workspace/scratch/bb6b47af6d33/hakawi_repair/e02-rebuild-20261029/blocks/d_evidence_consequence/candidate-receipt-v7.cjs": "e359ec9a24697814f7b5bf1922ef5759086fa94a1174729b16a926f915fe49ce",
+    "/workspace/scratch/bb6b47af6d33/channel-repair-inventory/hakawi-remaining/extracted/E02/hakawi-production-20261024/E02-master/assets/market.png": "e1d94f276cbfdc6485a3d2899976a367e27cea167be315a3b658e1e9a8178790",
+    "/workspace/scratch/bb6b47af6d33/hakawi_repair/e02-rebuild-20261029/blocks/d_evidence_consequence/ACTION_SUPPORT_MAP.json": "a440209555400bd60db0d3fc6af4a5af8617aea23d0fa53105bacb2389a66da7"
+  },
+  "smoke": {
+    "checked": 205,
+    "scope": "205 source routing/opacity/seek samples, not whole-film visual review"
+  },
+  "cueGrid": [
+    {
+      "event": {
+        "time": 6.984,
+        "duration": 0.28,
+        "kind": "paper",
+        "gain": 0.004,
+        "provenance": "Original deterministic procedural synthesis; no external samples or music"
+      },
+      "auditedOnset": 6.988548752834467,
+      "containingFrame": 419,
+      "nearestCenterFrame": 419,
+      "scope": "Original waveform/source audit, not listening. Visual action classification is bound in immutable finite receipts."
+    },
+    {
+      "event": {
+        "time": 24.5508,
+        "duration": 0.18,
+        "kind": "wood",
+        "gain": 0.009,
+        "provenance": "Original deterministic procedural synthesis; no external samples or music"
+      },
+      "auditedOnset": 24.55079365079365,
+      "containingFrame": 1473,
+      "nearestCenterFrame": 1473,
+      "scope": "Original waveform/source audit, not listening. Visual action classification is bound in immutable finite receipts."
+    },
+    {
+      "event": {
+        "time": 45.63377142857143,
+        "duration": 0.38,
+        "kind": "paper",
+        "gain": 0.004,
+        "provenance": "Original deterministic procedural synthesis; no external samples or music"
+      },
+      "auditedOnset": 45.64061224489796,
+      "containingFrame": 2738,
+      "nearestCenterFrame": 2738,
+      "scope": "Original waveform/source audit, not listening. Visual action classification is bound in immutable finite receipts."
+    },
+    {
+      "event": {
+        "time": 95.53901250000001,
+        "duration": 0.28,
+        "kind": "paper",
+        "gain": 0.004,
+        "provenance": "Original deterministic procedural synthesis; no external samples or music"
+      },
+      "auditedOnset": 95.54310657596372,
+      "containingFrame": 5732,
+      "nearestCenterFrame": 5732,
+      "scope": "Original waveform/source audit, not listening. Visual action classification is bound in immutable finite receipts."
+    },
+    {
+      "event": {
+        "time": 120.11999999999999,
+        "duration": 0.55,
+        "kind": "pen",
+        "gain": 0.003,
+        "provenance": "Original deterministic procedural synthesis; no external samples or music"
+      },
+      "auditedOnset": 120.13707482993198,
+      "containingFrame": 7208,
+      "nearestCenterFrame": 7208,
+      "scope": "Original waveform/source audit, not listening. Visual action classification is bound in immutable finite receipts."
+    },
+    {
+      "event": {
+        "time": 120.82,
+        "duration": 0.32,
+        "kind": "pen",
+        "gain": 0.003,
+        "provenance": "Original deterministic procedural synthesis; no external samples or music"
+      },
+      "auditedOnset": 120.82977324263038,
+      "containingFrame": 7249,
+      "nearestCenterFrame": 7249,
+      "scope": "Original waveform/source audit, not listening. Visual action classification is bound in immutable finite receipts."
+    },
+    {
+      "event": {
+        "time": 124.54,
+        "duration": 0.18,
+        "kind": "wood",
+        "gain": 0.007,
+        "provenance": "Original deterministic procedural synthesis; no external samples or music"
+      },
+      "auditedOnset": 124.54,
+      "containingFrame": 7472,
+      "nearestCenterFrame": 7472,
+      "scope": "Original waveform/source audit, not listening. Visual action classification is bound in immutable finite receipts."
+    },
+    {
+      "event": {
+        "time": 166.70666666666668,
+        "duration": 0.55,
+        "kind": "pen",
+        "gain": 0.003,
+        "provenance": "Original deterministic procedural synthesis; no external samples or music"
+      },
+      "auditedOnset": 166.72238095238095,
+      "containingFrame": 10003,
+      "nearestCenterFrame": 10003,
+      "scope": "Original waveform/source audit, not listening. Visual action classification is bound in immutable finite receipts."
+    },
+    {
+      "event": {
+        "time": 167.40666666666667,
+        "duration": 0.32,
+        "kind": "pen",
+        "gain": 0.003,
+        "provenance": "Original deterministic procedural synthesis; no external samples or music"
+      },
+      "auditedOnset": 167.41551020408164,
+      "containingFrame": 10044,
+      "nearestCenterFrame": 10044,
+      "scope": "Original waveform/source audit, not listening. Visual action classification is bound in immutable finite receipts."
+    },
+    {
+      "event": {
+        "time": 172.32000000000002,
+        "duration": 0.55,
+        "kind": "pen",
+        "gain": 0.003,
+        "provenance": "Original deterministic procedural synthesis; no external samples or music"
+      },
+      "auditedOnset": 172.3369387755102,
+      "containingFrame": 10340,
+      "nearestCenterFrame": 10340,
+      "scope": "Original waveform/source audit, not listening. Visual action classification is bound in immutable finite receipts."
+    },
+    {
+      "event": {
+        "time": 173.02,
+        "duration": 0.32,
+        "kind": "pen",
+        "gain": 0.003,
+        "provenance": "Original deterministic procedural synthesis; no external samples or music"
+      },
+      "auditedOnset": 173.03036281179138,
+      "containingFrame": 10381,
+      "nearestCenterFrame": 10381,
+      "scope": "Original waveform/source audit, not listening. Visual action classification is bound in immutable finite receipts."
+    },
+    {
+      "event": {
+        "time": 190.73666666666668,
+        "duration": 0.28,
+        "kind": "paper",
+        "gain": 0.004,
+        "provenance": "Original deterministic procedural synthesis; no external samples or music"
+      },
+      "auditedOnset": 190.7422222222222,
+      "containingFrame": 11444,
+      "nearestCenterFrame": 11444,
+      "scope": "Original waveform/source audit, not listening. Visual action classification is bound in immutable finite receipts."
+    },
+    {
+      "event": {
+        "time": 203.67133333333334,
+        "duration": 0.28,
+        "kind": "paper",
+        "gain": 0.004,
+        "provenance": "Original deterministic procedural synthesis; no external samples or music"
+      },
+      "auditedOnset": 203.67639455782313,
+      "containingFrame": 12220,
+      "nearestCenterFrame": 12220,
+      "scope": "Original waveform/source audit, not listening. Visual action classification is bound in immutable finite receipts."
+    },
+    {
+      "event": {
+        "time": 279.9120952380953,
+        "duration": 0.38,
+        "kind": "glass",
+        "gain": 0.006,
+        "provenance": "Original deterministic procedural synthesis; no external samples or music"
+      },
+      "auditedOnset": 279.9121088435374,
+      "containingFrame": 16794,
+      "nearestCenterFrame": 16794,
+      "scope": "Original waveform/source audit, not listening. Visual action classification is bound in immutable finite receipts."
+    },
+    {
+      "event": {
+        "time": 325.4062666666666,
+        "duration": 0.38,
+        "kind": "paper",
+        "gain": 0.004,
+        "provenance": "Original deterministic procedural synthesis; no external samples or music"
+      },
+      "auditedOnset": 325.41285714285715,
+      "containingFrame": 19524,
+      "nearestCenterFrame": 19524,
+      "scope": "Original waveform/source audit, not listening. Visual action classification is bound in immutable finite receipts."
+    },
+    {
+      "event": {
+        "time": 378.238,
+        "duration": 0.28,
+        "kind": "paper",
+        "gain": 0.004,
+        "provenance": "Original deterministic procedural synthesis; no external samples or music"
+      },
+      "auditedOnset": 378.2432879818594,
+      "containingFrame": 22694,
+      "nearestCenterFrame": 22694,
+      "scope": "Original waveform/source audit, not listening. Visual action classification is bound in immutable finite receipts."
+    },
+    {
+      "event": {
+        "time": 384.92199999999997,
+        "duration": 0.38,
+        "kind": "paper",
+        "gain": 0.004,
+        "provenance": "Original deterministic procedural synthesis; no external samples or music"
+      },
+      "auditedOnset": 384.9287755102041,
+      "containingFrame": 23095,
+      "nearestCenterFrame": 23095,
+      "scope": "Original waveform/source audit, not listening. Visual action classification is bound in immutable finite receipts."
+    },
+    {
+      "event": {
+        "time": 406.6913333333333,
+        "duration": 0.28,
+        "kind": "paper",
+        "gain": 0.004,
+        "provenance": "Original deterministic procedural synthesis; no external samples or music"
+      },
+      "auditedOnset": 406.696485260771,
+      "containingFrame": 24401,
+      "nearestCenterFrame": 24401,
+      "scope": "Original waveform/source audit, not listening. Visual action classification is bound in immutable finite receipts."
+    },
+    {
+      "event": {
+        "time": 421.1578857142857,
+        "duration": 0.38,
+        "kind": "paper",
+        "gain": 0.004,
+        "provenance": "Original deterministic procedural synthesis; no external samples or music"
+      },
+      "auditedOnset": 421.164716553288,
+      "containingFrame": 25269,
+      "nearestCenterFrame": 25269,
+      "scope": "Original waveform/source audit, not listening. Visual action classification is bound in immutable finite receipts."
+    },
+    {
+      "event": {
+        "time": 440.62,
+        "duration": 0.55,
+        "kind": "pen",
+        "gain": 0.003,
+        "provenance": "Original deterministic procedural synthesis; no external samples or music"
+      },
+      "auditedOnset": 440.6340136054422,
+      "containingFrame": 26438,
+      "nearestCenterFrame": 26438,
+      "scope": "Original waveform/source audit, not listening. Visual action classification is bound in immutable finite receipts."
+    },
+    {
+      "event": {
+        "time": 441.32,
+        "duration": 0.32,
+        "kind": "pen",
+        "gain": 0.003,
+        "provenance": "Original deterministic procedural synthesis; no external samples or music"
+      },
+      "auditedOnset": 441.33036281179136,
+      "containingFrame": 26479,
+      "nearestCenterFrame": 26479,
+      "scope": "Original waveform/source audit, not listening. Visual action classification is bound in immutable finite receipts."
+    },
+    {
+      "event": {
+        "time": 455.67176,
+        "duration": 0.12,
+        "kind": "wood",
+        "gain": 0.003,
+        "provenance": "Original deterministic procedural synthesis; no external samples or music"
+      },
+      "auditedOnset": 455.671768707483,
+      "containingFrame": 27340,
+      "nearestCenterFrame": 27340,
+      "scope": "Original waveform/source audit, not listening. Visual action classification is bound in immutable finite receipts."
+    }
+  ],
+  "evidence": [
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e02-rebuild-20261029/ACTION_CONTRACT_68.json",
+      "sha256": "a1cd2b88f97a20031b8ac0984017f2d9fcee3e8bfe1757b7da1d170241d056d7",
+      "bytes": 83674
+    },
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e02-rebuild-20261029/IMPLEMENTATION_COVERAGE_68.json",
+      "sha256": "63bfdbfaa5aca63adceae6e2bed23ef92a0afa5c6bfe252768fdccb18ddd73e0",
+      "bytes": 41274
+    },
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e02-rebuild-20261029/paper-identity-v1/CAUSAL_DOCUMENT_STATES_68.json",
+      "sha256": "2e577ce60e7914a0beaf4a406ffc70f6900a054ee0ff48623dc181264aa39f54",
+      "bytes": 61218
+    },
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e02-rebuild-20261029/FULL_SOURCE_COVERAGE_V3_WIP.json",
+      "sha256": "47765e1df49d7ddf1ce20c6b079c448b1ed00599e2945d408d2bcc3da2cbd441",
+      "bytes": 32912
+    },
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e02-rebuild-20261029/SOURCE_INITIALIZER_CLOSURE_CANDIDATE.json",
+      "sha256": "ffae1abd6c61068ed54fbdbb16e3b1b6356f5226eca85a90fb18c48b8a6d7cc3",
+      "bytes": 11592
+    },
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e02-rebuild-20261029/reviews/ORIGINAL_FOLEY_ALL_EVENTS.json",
+      "sha256": "ad3f6382187dae7b1a8ae56ba37622f81818670d4b46024db18a2d9eb2f5189d",
+      "bytes": 16202
+    },
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e02-rebuild-20261029/independent-review/phase2/FINITE_REVIEW_CLOSURE_20261029_0848.json",
+      "sha256": "549cf0510632092b1379b92c43aa07f62b82959a6cb4b96ce66b11b3a45672f2",
+      "bytes": 17537
+    },
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e02-rebuild-20261029/independent-review/sync/SYNC_VISUAL_CLOSURE.json",
+      "sha256": "64ef3094d25d3638d08d16e207330262cd5a764f03163177f6ab9275673ae865",
+      "bytes": 6174
+    }
+  ],
+  "carryLimits": [
+    "Historical HOLD receipts remain immutable; closure references replacements, does not relabel rejected old outputs.",
+    "Not every frame of the473.52s episode has been reviewed. Finite windows and source stills do not authorize whole-film production/publication.",
+    "Source delta/function equality and sparse raw pixel carry are bounded evidence, never exhaustive newly encoded identity.",
+    "Final current-runtime assembled outputs, all unreviewed motion/cut ranges, captions and end-to-end continuity still need actual QA.",
+    "No continuous playback, perceptual audio/listening, native portrait/reels or delivery approval.",
+    "Opening and arrival initial technical/visual receipts live outside this phase2 index; not re-reviewed here."
+  ],
+  "knownUnresolvedConcreteDefectsInReviewedFiniteScopes": [],
+  "locationPolicy": "Held in-place immutable versioned paths. Eager shared ROOT/aliases require actual closure verification; do not relocate by sourceRoot argument alone. Donor not duplicated.",
+  "nextGates": [
+    "Production isolated dispatcher explicit B5 replay dependency and raw-RGBA equality versus frozen reference",
+    "Production runtime/actual closure pin and parent-authorized bounded pilot/resource check",
+    "Full native master render and actual whole-film visual/audio QA",
+    "Native portrait semantic reel redraw, QA and authorized scheduling"
+  ],
+  "notClaims": [
+    "No whole-film visual clearance",
+    "No perceptual listening clearance",
+    "No portrait clearance",
+    "No production render GO"
+  ]
+}

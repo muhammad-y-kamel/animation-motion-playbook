@@ -1,0 +1,425 @@
+{
+  "status": "FINITE_REVIEW_CLOSURE_NOT_FULL_FILM_RELEASE",
+  "reviewer": "/root/verify_integrated_scene_contacts",
+  "createdUTC": "2026-10-29T08:49:50.727914+00:00",
+  "receiptIndex": [
+    {
+      "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/A_EYE_RECEIPT_V3C_VISUAL_RECEIPT.json",
+      "sha256": "a140f050ad2cd205a007391018854af22e919cc30f1e37473aa4f4b38153952f",
+      "recordedVerdict": "HOLD for listed material defects; scoped physical positives retained",
+      "scope": {
+        "firstFrame": null,
+        "endFrameExclusive": null
+      }
+    },
+    {
+      "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/A_GIVER_PINCH_V3C_VISUAL_RECEIPT.json",
+      "sha256": "b6e8a4a2435af7a07d4baf34a387cdf957f64357d81ac4a92a80cd2a0cd1e459",
+      "recordedVerdict": "SCOPED_VISUAL_PASS",
+      "scope": {
+        "firstFrame": 4642,
+        "endFrameExclusive": 5149
+      }
+    },
+    {
+      "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/A_HANDOFF_V1_VISUAL_RECEIPT.json",
+      "sha256": "67d2476e9a9f5661e6fc30607de8ffda5be65a1e16374505fadef6e9062c891b",
+      "recordedVerdict": "HOLD_PEN_REPOSITION_DISCONTINUITY",
+      "scope": {
+        "firstFrame": 2730,
+        "endFrameExclusive": 3030,
+        "frames": 300
+      }
+    },
+    {
+      "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/A_HAND_CONTINUITY_V5_VISUAL_RECEIPT.json",
+      "sha256": "af58fd19f3e0b70aac23578db1741a2585e2a05850c7bcff80b86f7c6fe0d176",
+      "recordedVerdict": "SCOPED_VISUAL_PASS",
+      "scope": {
+        "firstFrame": 6021,
+        "endFrameExclusive": 6279
+      }
+    },
+    {
+      "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/A_INSTRUCTION_TRUCK_V3C_VISUAL_RECEIPT.json",
+      "sha256": "f89ca7933a104e482cb0f067b74ecfdd29bccf660195fc23dcf451d036be5521",
+      "recordedVerdict": "HOLD for listed material defects; scoped physical positives retained",
+      "scope": {
+        "firstFrame": null,
+        "endFrameExclusive": null
+      }
+    },
+    {
+      "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/A_KEY_TEACHING_V2_VISUAL_RECEIPT.json",
+      "sha256": "47fc4ab8d93d8814da08c45eb2fe4f06005b450c0b776b7c66069bc72fa68de7",
+      "recordedVerdict": "HOLD_GIVER_KEY_GRIP_OCCLUSION",
+      "scope": {
+        "firstFrame": 4110,
+        "endFrameExclusive": 5148,
+        "frames": 1038
+      }
+    },
+    {
+      "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/A_NOTEBOOK_PREFIX_JOIN_VISUAL_RECEIPT.json",
+      "sha256": "67e973bb30a54f96d1b363a1c19b6aabc54664cac6e4d750ae9ed9cd79b80a34",
+      "recordedVerdict": "SCOPED_ENCODED_VISUAL_PASS",
+      "scope": {
+        "firstFrame": null,
+        "endFrameExclusive": null
+      }
+    },
+    {
+      "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/A_RECEIPT_IDENTITY_V4_VISUAL_RECEIPT.json",
+      "sha256": "39fe902729878bb024c777c0e7dc45b1a5b6aa109148283a8e1bda022d4b6570",
+      "recordedVerdict": "HOLD only same-camera hand pop at6024/6222; signature repair PASS",
+      "scope": {
+        "firstFrame": null,
+        "endFrameExclusive": null
+      }
+    },
+    {
+      "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/A_REPOSITION_V2_VISUAL_RECEIPT.json",
+      "sha256": "952f68981b20e2d8129229b5a40ebfdfcc49f5c112bcb52612093e4b4b55a2b3",
+      "recordedVerdict": "SCOPED_REPAIR_ENCODED_VISUAL_PASS",
+      "scope": {
+        "firstFrame": 2865,
+        "endFrameExclusive": 2901,
+        "frames": 36
+      }
+    },
+    {
+      "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/A_TRUCK_APERTURE_V4_VISUAL_RECEIPT.json",
+      "sha256": "480e8931601b55833d3a03b3cde8e9ee73b9491c7a9585b9e5e9d4d51160a918",
+      "recordedVerdict": "PASS scoped223 actual frames",
+      "scope": {
+        "firstFrame": null,
+        "endFrameExclusive": null
+      }
+    },
+    {
+      "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/B_DEMOTION_V5_VISUAL_RECEIPT.json",
+      "sha256": "a03cde1e5d3d9728d75e6a3ab625f1a6396f72e3ce786f4f2795c9f53c1516ba",
+      "recordedVerdict": "SCOPED_VISUAL_PASS",
+      "scope": {
+        "firstFrame": 15564,
+        "endFrameExclusive": 16003
+      }
+    },
+    {
+      "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/B_LOWER_GLASSES_V5_VISUAL_RECEIPT.json",
+      "sha256": "90e3942ca9e093796185578d68dd552492e050a008bd44eaea2d9a98d401d7a3",
+      "recordedVerdict": "SCOPED_VISUAL_PASS",
+      "scope": {
+        "firstFrame": 14244,
+        "endFrameExclusive": 14592
+      }
+    },
+    {
+      "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/B_PHONE_V3_VISUAL_RECEIPT.json",
+      "sha256": "c768d469b5d0f24e890ee34ed56d5c379a45315d55a0450814c168628216903c",
+      "recordedVerdict": "FINITE_ENCODED_VISUAL_PASS",
+      "scope": {
+        "firstGlobalFrame": 7734,
+        "endExclusive": 7836,
+        "everyFrameSequentialSheetViewed": true
+      }
+    },
+    {
+      "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/B_RETRIEVE_FORGE_V3_VISUAL_RECEIPT.json",
+      "sha256": "be592210ef64c7fc62ce1f383ad5b7c854d7edc36b6f325d8cab3837dc88b622",
+      "recordedVerdict": "HOLD_DOCUMENT_IDENTITY_AND_PREP_GHOST_CLASSIFICATION",
+      "scope": {
+        "firstGlobalFrame": 9942,
+        "endExclusive": 10470,
+        "everyFrameSequentialSheetViewed": true
+      }
+    },
+    {
+      "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/B_REVERSE_CUT_V5_VISUAL_RECEIPT.json",
+      "sha256": "67213727680e376996b249b48ccf579c7a85375f2cec06274863df90473a1c0e",
+      "recordedVerdict": "SCOPED_VISUAL_PASS",
+      "scope": {
+        "firstFrame": 12582,
+        "endFrameExclusive": 12618
+      }
+    },
+    {
+      "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/B_SPOIL_RECOIL_V5_VISUAL_RECEIPT.json",
+      "sha256": "9da1b3d787664770f82e727f2d49a633007ef736028575a081ca1da359c8af93",
+      "recordedVerdict": "SCOPED_VISUAL_HOLD",
+      "scope": {
+        "firstFrame": 8802,
+        "endFrameExclusive": 9078
+      }
+    },
+    {
+      "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/B_SPOIL_SUPPORT_V6_VISUAL_RECEIPT.json",
+      "sha256": "86b7b3e60e20c03abc7ae0c8dcde73b7076ed87c6b457ea406e25d39bbd7c187",
+      "recordedVerdict": "SCOPED_VISUAL_PASS",
+      "scope": {
+        "firstFrame": 8802,
+        "endFrameExclusive": 9078
+      }
+    },
+    {
+      "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/B_SUBMIT_HANDOFF_V5_VISUAL_RECEIPT.json",
+      "sha256": "2a7c6c931ad3a4f46629e1cd391f86b08ddae2071800d9bb7b7c906713022b7d",
+      "recordedVerdict": "SCOPED_VISUAL_PASS",
+      "scope": {
+        "firstFrame": 11358,
+        "endFrameExclusive": 12318
+      }
+    },
+    {
+      "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/B_SUMMON_MEDIUM_V6_VISUAL_RECEIPT.json",
+      "sha256": "76e18a54cb07c0179d72532249ee1c1d07ea36bf74b1e57d37d7bcfbf11e22d4",
+      "recordedVerdict": "SCOPED_VISUAL_PASS",
+      "scope": {
+        "firstFrame": 11025,
+        "endFrameExclusive": 11181
+      }
+    },
+    {
+      "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/B_SUPPORT_V6_SOURCE_VISUAL_RECEIPT.json",
+      "sha256": "a495b6ec8c3e2019124ae66056e77f6bf1fae2a7786f5262da291aff4dcc953e",
+      "recordedVerdict": "SCOPED_SOURCE_VISUAL_PASS",
+      "scope": {
+        "firstFrame": null,
+        "endFrameExclusive": null
+      }
+    },
+    {
+      "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/B_WRITING_IDENTITY_V5_VISUAL_RECEIPT.json",
+      "sha256": "094d79afcc33084540edd9aae6c732b98187d52740bdaf1a91bb7e5f64d085a8",
+      "recordedVerdict": "PASS scoped513 actual frames",
+      "scope": {
+        "firstFrame": null,
+        "endFrameExclusive": null
+      }
+    },
+    {
+      "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/B_WRITING_V4_VISUAL_RECEIPT.json",
+      "sha256": "7eba0c8c3611914ad566a6bb130a7206556292100f9a30e4a9a8a477207a0dd3",
+      "recordedVerdict": "HOLD for listed material defects; scoped physical positives retained",
+      "scope": {
+        "firstFrame": null,
+        "endFrameExclusive": null
+      }
+    },
+    {
+      "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/C_CANCEL_BANGLE_V4_VISUAL_RECEIPT.json",
+      "sha256": "2b37628feff30ac908cdd38399998bac2f28627f1dd93aa28066f0b07f4e653b",
+      "recordedVerdict": "SCOPED_VISUAL_PASS",
+      "scope": {
+        "firstFrame": 16374,
+        "endFrameExclusive": 16854
+      }
+    },
+    {
+      "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/C_CARBON_DISCOVERY_V5_VISUAL_RECEIPT.json",
+      "sha256": "21b6f88a996b7615c85876af795d764af10297459a9c3194f6b08a3618942974",
+      "recordedVerdict": "SCOPED_VISUAL_PASS",
+      "scope": {
+        "firstFrame": 22620,
+        "endFrameExclusive": 23160
+      }
+    },
+    {
+      "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/C_MEMORY_LEDGER_V5_VISUAL_RECEIPT.json",
+      "sha256": "1b6bd6f8bf4770b3e589923c2d9e5929fc360c03df73c1564ca19c74e1047f1b",
+      "recordedVerdict": "SCOPED_VISUAL_PASS",
+      "scope": {
+        "firstFrame": 22128,
+        "endFrameExclusive": 22620
+      }
+    },
+    {
+      "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/C_RETURNING_TRUCK_V4_VISUAL_RECEIPT.json",
+      "sha256": "e6a7d14e0b65fa465f4281ce87de2df242cf0e7326ec2e13e6ebb52b8d77badd",
+      "recordedVerdict": "SCOPED_VISUAL_PASS",
+      "scope": {
+        "firstFrame": 20274,
+        "endFrameExclusive": 20640
+      }
+    },
+    {
+      "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/C_SIP_NOTEBOOK_V4_VISUAL_RECEIPT.json",
+      "sha256": "e4f1e6947f88a812ba158283b799176fd0adc150f3b886649835f00af4575d95",
+      "recordedVerdict": "SCOPED_VISUAL_PASS",
+      "scope": {
+        "firstFrame": 19344,
+        "endFrameExclusive": 19596
+      }
+    },
+    {
+      "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/C_WELCOME_KNEE_V4_VISUAL_RECEIPT.json",
+      "sha256": "c36006023abd00da8f16bb65cfc29bb0ce8c0ef4d318580d64348ecafe29d0aa",
+      "recordedVerdict": "SCOPED_VISUAL_HOLD",
+      "scope": {
+        "firstFrame": 17106,
+        "endFrameExclusive": 17370
+      }
+    },
+    {
+      "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/C_WELCOME_KNEE_V5_VISUAL_RECEIPT.json",
+      "sha256": "e46af2861296076993aea0a8afcda68ea81d88b11133384ae45f646c68d487ab",
+      "recordedVerdict": "SCOPED_VISUAL_PASS",
+      "scope": {
+        "firstFrame": 17106,
+        "endFrameExclusive": 17370
+      }
+    },
+    {
+      "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/C_WELCOME_V5_COMPOSITION_SOURCE_RECEIPT.json",
+      "sha256": "cc876fd9d2a9cf38f60babf09cd2bfba228821a40fdc64021da4894386ffc6e0",
+      "recordedVerdict": "BOUNDED_SOURCE_COMPOSITION_PASS",
+      "scope": {
+        "firstFrame": null,
+        "endFrameExclusive": null
+      }
+    },
+    {
+      "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/D_AFTERMATH_EXIT_OUTER_V7_VISUAL_RECEIPT.json",
+      "sha256": "89c7fa4ec32ccd6f1554254c80e236e61d226b24e25aecc6a4ba636deb8ad57f",
+      "recordedVerdict": "SCOPED_VISUAL_PASS",
+      "scope": {
+        "firstFrame": 26719,
+        "endFrameExclusive": 26725
+      }
+    },
+    {
+      "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/D_COMPARISON_DRIVER_V7_VISUAL_RECEIPT.json",
+      "sha256": "ef8f7a61b7a60a12d80a4c9a66937b9ec7b165da8085bbc30517d0ba16084ffa",
+      "recordedVerdict": "SCOPED_VISUAL_PASS",
+      "scope": {
+        "firstFrame": 25164,
+        "endFrameExclusive": 25614
+      }
+    },
+    {
+      "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/D_CRATE_COUNT_V7_VISUAL_RECEIPT.json",
+      "sha256": "a19d11f7e82bafbca67ee3e10fa08ec4490e948287bb0e3df4a23c94c35b38c3",
+      "recordedVerdict": "SCOPED_VISUAL_PASS",
+      "scope": {
+        "firstFrame": 27240,
+        "endFrameExclusive": 27678
+      }
+    },
+    {
+      "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/D_INVENTORY_CARBON_V7_VISUAL_RECEIPT.json",
+      "sha256": "c96dbe3f5e8224876341d4168fa7ed34b6247639641cad52b9db738f6a65a71b",
+      "recordedVerdict": "SCOPED_VISUAL_PASS",
+      "scope": {
+        "firstFrame": 23606,
+        "endFrameExclusive": 24480
+      }
+    },
+    {
+      "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/D_SIGNATURE_AFTERMATH_V7_VISUAL_RECEIPT.json",
+      "sha256": "f87966a5eb77049df600c35fc697562ad6213a4855722f6c8f4d11f588cb0a90",
+      "recordedVerdict": "SCOPED_VISUAL_PASS",
+      "scope": {
+        "firstFrame": 26529,
+        "endFrameExclusive": 26722
+      }
+    },
+    {
+      "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/D_SIGNATURE_PREFIX_V7_VISUAL_RECEIPT.json",
+      "sha256": "2e4d532dc59d1adf602b37a3de2cb14d7d52d51d27e09072c191e2d047bba620",
+      "recordedVerdict": "SCOPED_VISUAL_PASS",
+      "scope": {
+        "firstFrame": 26389,
+        "endFrameExclusive": 26427
+      }
+    },
+    {
+      "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/D_SIGNATURE_V1_VISUAL_RECEIPT.json",
+      "sha256": "e7e9266acb075cb00ee9be78a86d7ad292cac171310be5968703c676c3cbe0fb",
+      "recordedVerdict": "SCOPED_ENCODED_VISUAL_PASS",
+      "scope": {
+        "firstFrame": 26424,
+        "endFrameExclusive": 26532,
+        "frames": 108
+      }
+    },
+    {
+      "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/D_SIGN_ENTRY_OUTER_V7_VISUAL_RECEIPT.json",
+      "sha256": "0bbf949df7a42cf4a020839d4057494c97e85d00e4de3e5d090f52c6d605c299",
+      "recordedVerdict": "SCOPED_VISUAL_PASS",
+      "scope": {
+        "firstFrame": 26386,
+        "endFrameExclusive": 26392
+      }
+    },
+    {
+      "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/OPENING_RECEIPT_IDENTITY_V4_VISUAL_RECEIPT.json",
+      "sha256": "6a1f50a0cb73a0852db7861a4626ef8e793d422a13c436ab1d5b47d2e2721485",
+      "recordedVerdict": "SCOPED_VISUAL_PASS",
+      "scope": {
+        "firstFrame": 1184,
+        "endFrameExclusive": 1536
+      }
+    }
+  ],
+  "currentCandidateSources": [
+    {
+      "path": "hakawi_repair/e02-rebuild-20261029/blocks/a_history_instruction/candidate-receipt-v5.cjs",
+      "sha256": "827f6098b0ea471924d747d560125d6c08ac477b3bae355e935d7e361dfb19a7"
+    },
+    {
+      "path": "hakawi_repair/e02-rebuild-20261029/blocks/b_negligence_accusation/candidate-support-v6.cjs",
+      "sha256": "2542b2ea714bd5d99dde789b78da32c731cb1416625ecfff68f4adf1d8a0a935"
+    },
+    {
+      "path": "hakawi_repair/e02-rebuild-20261029/blocks/c_family_discovery/candidate-welcome-v5.cjs",
+      "sha256": "72f0f747b725f8c8e6da675e3b32e20c373f66bf092d52b01c3a00427316f8cf"
+    },
+    {
+      "path": "hakawi_repair/e02-rebuild-20261029/blocks/d_evidence_consequence/candidate-receipt-v7.cjs",
+      "sha256": "e359ec9a24697814f7b5bf1922ef5759086fa94a1174729b16a926f915fe49ce"
+    },
+    {
+      "path": "hakawi_repair/e02-rebuild-20261029/paper-identity-v1/receipt.cjs",
+      "sha256": "b8e781ae856122c15e89b398b883acd285dc055aa7b71b17d51c3ca5a68aef53"
+    }
+  ],
+  "resolvedHolds": [
+    {
+      "old": "A_HANDOFF_V1",
+      "resolution": "A_REPOSITION_V2 continuous pen reposition; original positives outside change carry only under bounded evidence."
+    },
+    {
+      "old": "A_KEY_TEACHING_V2",
+      "resolution": "A_GIVER_PINCH_V3C actual507 fixes giver grip."
+    },
+    {
+      "old": "A_EYE_RECEIPT_V3C / A_INSTRUCTION_TRUCK_V3C",
+      "resolution": "A_RECEIPT_IDENTITY_V4 fixes common signature box/state; A_HAND_CONTINUITY_V5 fixes subsequent same-camera hand pop; A_TRUCK_APERTURE_V4 fixes cab/post depth."
+    },
+    {
+      "old": "B_RETRIEVE_FORGE_V3 / B_WRITING_V4",
+      "resolution": "B_WRITING_IDENTITY_V5 actual513 retains continuous nib/ink plus common signed/forged paper identity."
+    },
+    {
+      "old": "B_SPOIL_RECOIL_V5 and summon floating source torso",
+      "resolution": "B_SPOIL_SUPPORT_V6 actual276 and B_SUMMON_MEDIUM_V6 actual156 repair support and intact medium composition."
+    },
+    {
+      "old": "C_WELCOME_KNEE_V4",
+      "resolution": "C_WELCOME_KNEE_V5 actual264 uses genuine seated composition cut."
+    },
+    {
+      "old": "C carbon detached hand concern23080",
+      "resolution": "Native initiation/release sequence23062/23067/23073 then settle23095 confirms intended released page, no repair required."
+    }
+  ],
+  "knownUnresolvedConcreteDefectsInReviewedCurrentFiniteScopes": [],
+  "limitations": [
+    "Historical HOLD receipts remain immutable; closure references replacements, does not relabel rejected old outputs.",
+    "Not every frame of the473.52s episode has been reviewed. Finite windows and source stills do not authorize whole-film production/publication.",
+    "Source delta/function equality and sparse raw pixel carry are bounded evidence, never exhaustive newly encoded identity.",
+    "Final current-runtime assembled outputs, all unreviewed motion/cut ranges, captions and end-to-end continuity still need actual QA.",
+    "No continuous playback, perceptual audio/listening, native portrait/reels or delivery approval.",
+    "Opening and arrival initial technical/visual receipts live outside this phase2 index; not re-reviewed here."
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "status": "ALL_NATIVE_TECHNICAL_AND_VISUAL_GATES_PASS_PARENT_PUBLICATION_ONLY",
+  "createdUTC": "2026-10-29T10:37:15.752232+00:00",
+  "episode": "E02",
+  "nativeSize": [
+    1920,
+    1080
+  ],
+  "fps": 60,
+  "temporalSamples": 3,
+  "frames": 28412,
+  "videoDuration": 473.53333333333336,
+  "canonicalAudioSamples": 20882232,
+  "canonicalAudioDuration": 473.52,
+  "lastAudioFrameSamplesPreserved": 147,
+  "audioPaddingOrTruncation": false,
+  "sourceManifest": {
+    "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e02-rebuild-20261029/FINAL_SOURCE_FREEZE_20261029_0857.json",
+    "sha256": "9ed3d56b2a674dc2e48124114f38b6065ec7e66d57386dd6b805ecec6eee44b2"
+  },
+  "runtimeLock": {
+    "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e02-production-runtime/PRODUCTION_RUNTIME_LOCK_RESOURCE_V3.json",
+    "sha256": "6545e8b1f6f7173a852bfc1d95bd5f502c752ae62715df60c8cf1a3c3b6b4b71",
+    "filesRevalidated": 78
+  },
+  "ledger": {
+    "path": "/workspace/scratch/bb6b47af6d33/e02-native-render-20261029-0857/FRAME_LEDGER.json",
+    "sha256": "632599e7b4956e9fa63c4ea8e7ab5533a4f0019fc197c467b545bf46044ab8f1"
+  },
+  "reviewMaster": {
+    "path": "/workspace/scratch/bb6b47af6d33/e02-native-final-20261029-0857/E02-native-review-master.mp4",
+    "sha256": "7a57d12d9234d4799d038fc14204f6ac5a5a390558cd154017626d06ad8d1335",
+    "bytes": 161148411,
+    "audio": "ALAC exactcanonicalPCM",
+    "canonicalPCM_SHA256": "d7ce918a6c9a24652f3f43cab3b40025d950a6d4ac589980765eb6e21e75af1e"
+  },
+  "AACDelivery": {
+    "path": "/workspace/scratch/bb6b47af6d33/e02-native-final-20261029-0857/E02-native-1080p60-AAC.mp4",
+    "sha256": "59458201422d9b9c7e20817d660dedcc1797b453177dd0d10f3413ff20be70fa",
+    "bytes": 149657386,
+    "audio": "AAC128k single generation from canonicalWAV",
+    "videoDecodedIdenticalToReview": true
+  },
+  "receipts": [
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/e02-native-final-20261029-0857/FINAL_SOURCE_REVALIDATION.json",
+      "sha256": "40d4ea1fb4e3aabf48eb1fe378bdab0ad8c6d81d6565dcd685d494fd741bceea"
+    },
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/e02-native-final-20261029-0857/FINAL_REVIEW_UNION.json",
+      "sha256": "1f6514d6d58831725ffb5e975d5c30f61ddd380202b13cfd4a0d4c89affa0bae"
+    },
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/e02-native-final-20261029-0857/ASSEMBLY_RECEIPT.json",
+      "sha256": "a0487096b76056e1d4297d9b63052fb2d98e8dc58cf444b05f8769e3092df213"
+    },
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/e02-native-final-20261029-0857/FULL_DECODED_PIXEL_IDENTITY.json",
+      "sha256": "0d21d580c74d24554262a6885e0f559521bcc61765b41d4aa9c17934f13979f1"
+    },
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/e02-native-final-20261029-0857/CANONICAL_AUDIO_TIMING.json",
+      "sha256": "b5e4b145f90f6d1b5adf38843bd9671de2fcee01c301c2d874641b44193d72a9"
+    },
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/e02-native-final-20261029-0857/AAC_DELIVERY_RECEIPT.json",
+      "sha256": "c30e5d998921685f9de2de29c401f918405e062e31499dd1ce18fa75d80312f5"
+    },
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/e02-native-final-20261029-0857/EXECUTION_TOOLCHAIN.json",
+      "sha256": "cfade27aa56dfc28c0cb329f7801f8b4c3420b20ea5a06e77d3a74325a8ecf23"
+    },
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e02-rebuild-20261029/independent-review/final-0857/FIRST_HALF_VISUAL_CLOSURE.json",
+      "sha256": "ecbffd7c4089e5c86ff0704312a758a7ccc301e78af3441ff08fa3ecc420f38b"
+    },
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e02-rebuild-20261029/independent-review/final-0857-second-half/SECOND_HALF_CLOSURE.json",
+      "sha256": "5ac3bfdb2a64c91b911d95021651ac04b90dc35bb97deb387ab7db08d1f339ca"
+    },
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e02-rebuild-20261029/independent-review/final-0857/JOINED_MASTER_FIRST_HALF_SEAMS.json",
+      "sha256": "ef9c65eb4153c839382871abdc918b759ce82d1c6c3b247b036c9c21755eb9c6"
+    },
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e02-rebuild-20261029/independent-review/final-0857/AAC_FIRST_HALF_VISUAL_TRANSFER.json",
+      "sha256": "e9a619d210724bfff5eb3dd4087141176cf44686b8b17e3f28efc3c3f46022af"
+    },
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e02-rebuild-20261029/independent-review/final-0857-second-half/JOINED_NATIVE_REVIEW.json",
+      "sha256": "775ae1c15e97104029d96f45e7498df60177fefa5f2d936570495cf24a640323"
+    }
+  ],
+  "limits": [
+    "Every encoded frame reviewed sequentially via compressed proxies; native critical contacts/cuts and joined endpoints inspected. Not all-native-per-frame visual inspection.",
+    "No subjective audio listening or continuous playback claim. Canonical PCM identity and bounded AAC alignment verified.",
+    "Historical pending wording in earlier scoped receipts is superseded by final joined/transfer/union receipts.",
+    "No publishing, schedule edits or chat attachments by production worker; root owns authorized scheduling."
+  ],
+  "noUnresolvedConcreteVisualHolds": true
+}

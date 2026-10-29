@@ -1,0 +1,608 @@
+{
+  "A_REPOSITION_V2_VISUAL_RECEIPT.json": {
+    "status": "SCOPED_REPAIR_ENCODED_VISUAL_PASS",
+    "video": "hakawi_repair/e02-rebuild-20261029/runtime-phase2/proofs/a-pen-reposition-v2/proof.mp4",
+    "videoSHA256": "ca7bbac399c3afaf8cbd67fed9a36a8347a6fb76b7ba466b1890743b0fb541cd",
+    "coverage": {
+      "firstFrame": 2865,
+      "endFrameExclusive": 2901,
+      "frames": 36
+    },
+    "method": "All36 actual decoded frames sequential sheet plus native2874,2880,2892.",
+    "findings": [
+      "Continuous lift, lateral reposition and lowering replaces discontinuous line-start jump.",
+      "First-line ink remains stable; no added ink during transit. Connected hand/pen retained and captions sharp.",
+      "Guard frames before2868 and after2897 visually join unchanged writing state."
+    ],
+    "technicalReceipt": {
+      "firstFrame": 2865,
+      "endFrame": 2901,
+      "frames": 36,
+      "size": [
+        1920,
+        1080
+      ],
+      "fps": 60,
+      "samples": 3,
+      "elapsedSeconds": 2.695,
+      "audioSamples": [
+        2105775,
+        2132235
+      ],
+      "maxRSSKB": 419824,
+      "status": "CLOSED_TECHNICAL_PASS_PENDING_VISUAL_REVIEW",
+      "decodedFrames": 36,
+      "ptsExact60fps": true,
+      "dtsCadenceExact": true,
+      "canonicalPCMExact": true,
+      "audioSampleCount": 26460,
+      "pcmSHA256": "6b6e2a1496fda63b0c5c0cbde22b47101d235da6ecca10c8c31a038ee93f0d68",
+      "videoSHA256": "ca7bbac399c3afaf8cbd67fed9a36a8347a6fb76b7ba466b1890743b0fb541cd",
+      "runtimeSHA256": "cc786edebeb68df1d8961d0cbd67b28d68b4eaa602c2e84f437634acabb4cebc",
+      "ledgerSHA256": "8608e13d73151b311925c33f147d382bde38cf361c7d51bb721ed4a7d6bc23b4",
+      "totalProofBytes": 2754458,
+      "configSHA256": "68419c9d0e2ed566a71386930c842dd7763d476ca9210c07503187f4c7dbc2c8"
+    },
+    "sourceCarry": {
+      "path": "hakawi_repair/e02-rebuild-20261029/blocks/a_history_instruction/repair-v2/REPAIR_RECEIPT.json",
+      "sha256": "7d0687d21be0e72de9c4be325fdba5d37ef4411604b7c7f4926eef602055beda",
+      "limits": "Only changed interval2868–2897;24 selected raw shutter comparisons outside. Not exhaustive encoded-pixel equality. Prior A300 findings outside changed phase retained under this bounded source evidence, not a new full render pass."
+    },
+    "evidence": [
+      {
+        "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/a-reposition-v2-all36.jpg",
+        "sha256": "f00a0b7f61d25376c5219d14c6de3bc76a3171787c40650fea95ad6644e038cc"
+      },
+      {
+        "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/reposition-2874.jpg",
+        "sha256": "6fbe79e3fc44c37abe9723222c840f8b5cbaec23b1cb62a586c46ca9eec98231"
+      },
+      {
+        "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/reposition-2880.jpg",
+        "sha256": "c9c5db46dcc1ebb4cdca62a489820f932d4aac3d48204597a478d5b370d8fdcc"
+      },
+      {
+        "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/reposition-2892.jpg",
+        "sha256": "2dd7f0b2bc2a791217bd7d590f5a635982eb0e99c52caf894094b2bd8f0b803e"
+      }
+    ],
+    "limitations": [
+      "No listening claim.",
+      "Original A v1 failed transition remains rejected and preserved.",
+      "No complete episode/release approval."
+    ]
+  },
+  "A_HAND_CONTINUITY_V5_VISUAL_RECEIPT.json": {
+    "verdict": "SCOPED_VISUAL_PASS",
+    "reviewer": "/root/verify_integrated_scene_contacts",
+    "createdUTC": "2026-10-29T07:46:15.115871+00:00",
+    "proof": "hakawi_repair/e02-rebuild-20261029/runtime-phase2/proofs/a-hand-continuity-v5/proof.mp4",
+    "videoSHA256": "53a402a259b548f8f86f8d354063fdee5813c1fdc13d445632418a09ff665d70",
+    "runtimeSHA256": "efdd831626c76ecaeeacd4005de186f39a0e607d0c29f676842093d0bf0b3487",
+    "completeSHA256": "e5acbdf63a72ca7b7840ad62f06c248b5db4ba14b58e10f141e171f4c7af426c",
+    "firstFrame": 6021,
+    "endFrameExclusive": 6279,
+    "framesReviewed": 258,
+    "method": "Every actual decoded frame reviewed in numbered 320x180 sequential proxies; selected native 1920x1080 witnesses. Not continuous playback or listening.",
+    "sheets": [
+      {
+        "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/a-hand-continuity-v5-01.jpg",
+        "sha256": "9c6193108db6ae3b9e6962bf931bace77c7bad2c4d7f46c44ea3aef32f3e714d"
+      },
+      {
+        "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/a-hand-continuity-v5-02.jpg",
+        "sha256": "b6389d3d9dd3e44d67a1d992fd8fb9542cf888348bc4a385e446d0b10eea2ff9"
+      },
+      {
+        "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/a-hand-continuity-v5-03.jpg",
+        "sha256": "4e92ed5d96dab7a34b4c550474ffb312a8bcde82326d1a50fcd15ac5c19f6f8f"
+      },
+      {
+        "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/a-hand-continuity-v5-04.jpg",
+        "sha256": "56781e5e1f190a7fedb302a4e4865e4363359e96756bfc8317f4ee8bc7e8f053"
+      },
+      {
+        "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/a-hand-continuity-v5-05.jpg",
+        "sha256": "20b4d2a90e447bd3f078991da43ae9a917cee79d6db8c0b5422a3ae3a03320f8"
+      },
+      {
+        "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/a-hand-continuity-v5-06.jpg",
+        "sha256": "61265d88e025f7a208180dc668f296199ba708a75c78cb82145c54b8dbc9e689"
+      },
+      {
+        "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/a-hand-continuity-v5-07.jpg",
+        "sha256": "c7e192ab818d92307ca74282ac62c1d63c70e223bd954e6f0286f44ba84e5c47"
+      },
+      {
+        "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/a-hand-continuity-v5-08.jpg",
+        "sha256": "54b61b0c9aa09fa7c8edb666329c2c621823e3b4b6ed6288bdc605b24593ed3b"
+      },
+      {
+        "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/a-hand-continuity-v5-09.jpg",
+        "sha256": "5e32cd284edc14ba36b32af7d95a9723b16f7112172d0f5bdefa481d1cca46fa"
+      }
+    ],
+    "nativeWitnesses": [
+      {
+        "frame": 6024,
+        "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/a-hand-continuity-v5-native6024.jpg",
+        "sha256": "daa14c047d00a19af9d7ae8f5992e68e675e8a2c6851dbc6d8311141298585a5"
+      },
+      {
+        "frame": 6108,
+        "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/a-hand-continuity-v5-native6108.jpg",
+        "sha256": "8bc1ec76011613b4927efa7dd3b751e8993d2096f2f1a7a22570775e4c5c36e6"
+      },
+      {
+        "frame": 6222,
+        "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/a-hand-continuity-v5-native6222.jpg",
+        "sha256": "e45732078a1f96f3a47ce080d4cbe8bd991b0413b7d6afac00d6375dcf641ba3"
+      },
+      {
+        "frame": 6240,
+        "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/a-hand-continuity-v5-native6240.jpg",
+        "sha256": "7e83b1656451fdbb7e5a49011174a487a83a6327370c27375529ac93275d113c"
+      },
+      {
+        "frame": 6278,
+        "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/a-hand-continuity-v5-native6278.jpg",
+        "sha256": "641796ff9e1cb9c60d637e361e0bf71d3a0607c7e47716ef3c3a1f90ead0abfc"
+      }
+    ],
+    "findings": [
+      "All 258 frames on 9 sheets inspected.",
+      "Former hard pen disappearance at 6024 replaced by continuous off-right exit. Left forearm enters continuously, overlaps supported receipt before slide and withdraws continuously past left edge.",
+      "Former hard hand disappearance at 6222 removed. Signed receipt remains stable at 6278; no extra ink or identity change.",
+      "Captions and limb/prop silhouettes coherent within this window."
+    ],
+    "cueAudit": {
+      "basis": "No additional audited paper cue in 100–105 seconds; canonical PCM exact per COMPLETE, no listening."
+    },
+    "technicalEvidence": {
+      "canonicalPCMExact": true,
+      "audioSampleCount": 189630,
+      "ptsExact60fps": true,
+      "dtsCadenceExact": true
+    },
+    "limits": "Only this finite encoded range. No whole episode, external joins, production/publication or perceptual audio clearance. Prior passes outside this range require their own carryforward evidence."
+  },
+  "A_TRUCK_APERTURE_V4_VISUAL_RECEIPT.json": {
+    "proof": "hakawi_repair/e02-rebuild-20261029/runtime-phase2/proofs/a-truck-aperture-v4/proof.mp4",
+    "sha256": "1e74854a703b6e681d6edcc40b9009bb80c2db519ceafdc7a4534cb70b99ec37",
+    "global_range_half_open": [
+      6936,
+      7159
+    ],
+    "frames": 223,
+    "method": "Every actual encoded frame in 8 sequential numbered proxy sheets plus listed native witnesses.",
+    "native_global_frames": [
+      7000,
+      7158
+    ],
+    "technical_receipt": {
+      "firstFrame": 6936,
+      "endFrame": 7159,
+      "frames": 223,
+      "size": [
+        1920,
+        1080
+      ],
+      "fps": 60,
+      "samples": 3,
+      "elapsedSeconds": 13.307,
+      "audioSamples": [
+        5097960,
+        5261865
+      ],
+      "maxRSSKB": 441264,
+      "status": "CLOSED_TECHNICAL_PASS_PENDING_VISUAL_REVIEW",
+      "decodedFrames": 223,
+      "ptsExact60fps": true,
+      "dtsCadenceExact": true,
+      "canonicalPCMExact": true,
+      "audioSampleCount": 163905,
+      "pcmSHA256": "46bb292d00dc3842d268634842875c34740b66a2dae9d64a8250b9e27960487c",
+      "videoSHA256": "1e74854a703b6e681d6edcc40b9009bb80c2db519ceafdc7a4534cb70b99ec37",
+      "runtimeSHA256": "c35d47614a5b1013089767e6e8e03743e77435ff78b93fbb0b90de5b82c5cd1d",
+      "ledgerSHA256": "fdde06ce644e7aa15db32e8dfdb1acedf59057afbd8f3759c7b6036fbdd14466",
+      "totalProofBytes": 37439915,
+      "configSHA256": "531f892c169ba0914fdacda6bcedcdeb7969a4c804ff299e0f3ac42cd7f084be"
+    },
+    "verdict": "PASS scoped223 actual frames",
+    "findings": [
+      "Foreground post and gate correctly occlude entering cab; no post collision illusion.",
+      "Driver revealed continuously, wheel/ground relationship stable and truck settles.",
+      "Initial6941 cut/captions and endpoint7158 intact; nextarrival7159 outside scope."
+    ],
+    "reviewer": "/root/verify_integrated_scene_contacts",
+    "date": "2026-10-29",
+    "limits": "Finite visual review only; no listening, continuous playback, full-block or release claim. Source witnesses are not encoded motion acceptance."
+  },
+  "C_WELCOME_KNEE_V4_VISUAL_RECEIPT.json": {
+    "verdict": "SCOPED_VISUAL_HOLD",
+    "reviewer": "/root/verify_integrated_scene_contacts",
+    "createdUTC": "2026-10-29T08:05:17.558179+00:00",
+    "proof": "hakawi_repair/e02-rebuild-20261029/runtime-phase2/proofs/c-welcome-knee-v4/proof.mp4",
+    "videoSHA256": "be2aca9b4c3a2ac6abf6ea4708a5e990cdff742252dd9fdfd0963fc603e4630c",
+    "runtimeSHA256": "fdea9a778b3a3a41bca481c38ef9276a7e9ee63f565cc4bffc442167dd6d4ef1",
+    "completeSHA256": "9edeb73c07dcce061a3c424cab40d4071bffb24fe667a26161e9c1830b59176d",
+    "firstFrame": 17106,
+    "endFrameExclusive": 17370,
+    "framesReviewed": 264,
+    "method": "Every actual decoded frame reviewed in numbered 320x180 sequential proxies; selected native 1920x1080 witnesses. Not continuous playback or listening.",
+    "sheets": [
+      {
+        "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/c-welcome-knee-v4-01.jpg",
+        "sha256": "db06712ed62113f260f43aa9e629f472e035ca73128493ddf4a2bce656fcf996"
+      },
+      {
+        "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/c-welcome-knee-v4-02.jpg",
+        "sha256": "49f2f75b8b78f3ca466e6a0b398e3ca367033a1ec9fa4bfc3c35c5dcd22c8d9b"
+      },
+      {
+        "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/c-welcome-knee-v4-03.jpg",
+        "sha256": "20258045cd672d601b4fd6fe5cddaa3e017a0e3222206376870776b909b58fc3"
+      },
+      {
+        "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/c-welcome-knee-v4-04.jpg",
+        "sha256": "5d552f789b624b1de6fdeb733b725732ad6e50c3d7f2a13df7d8f5b09b3e6832"
+      },
+      {
+        "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/c-welcome-knee-v4-05.jpg",
+        "sha256": "01ded7ad1074e1326e1a1ff90b4f14b5392e041b096e22c3ab0eb5c94ff6fe86"
+      },
+      {
+        "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/c-welcome-knee-v4-06.jpg",
+        "sha256": "9938c0b34ac24dd6449ab7b15002e6b92e026ad848348441208d02f6efccbcbf"
+      },
+      {
+        "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/c-welcome-knee-v4-07.jpg",
+        "sha256": "0a7d3dbf8f2b0480615702cc73e70eeba94eefa7843648377de68dca6a50dce3"
+      },
+      {
+        "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/c-welcome-knee-v4-08.jpg",
+        "sha256": "bd1c5f39c320df57af0866eb59ded29f9e0a577edd3ccc1d2b687491167fe597"
+      },
+      {
+        "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/c-welcome-knee-v4-09.jpg",
+        "sha256": "e6c0eb87cebb480d51cdcf9146bcce1d2b73dad379094c56932f0ce7ef58d8a9"
+      }
+    ],
+    "nativeWitnesses": [
+      {
+        "frame": 17195,
+        "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/c-welcome-knee-v4-native17195.jpg",
+        "sha256": "ff8e59fa4a8f86196f107900d12a6cc036772a4eaff74d2fc203408d2498760e"
+      },
+      {
+        "frame": 17196,
+        "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/c-welcome-knee-v4-native17196.jpg",
+        "sha256": "43f0ee5f56cc6bccdf1a8e7e5da39c37949c77895605849c85255fbd4d4e3168"
+      },
+      {
+        "frame": 17260,
+        "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/c-welcome-knee-v4-native17260.jpg",
+        "sha256": "1e2d9600ec7b88750fde6c22dd67a43bfd0768af56bf81aa896a7a74a38b755a"
+      },
+      {
+        "frame": 17310,
+        "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/c-welcome-knee-v4-native17310.jpg",
+        "sha256": "00d3af366585b0e333208fc3063b9b15986d5510e94947cd2e41ae5e05faedf6"
+      }
+    ],
+    "findings": [
+      "All 264 actual frames inspected on 9 sequential sheets.",
+      "HOLD:17195→17196 at286.6 changes standing Adel to differently scaled seated rig with chair on identical room framing. Source lead confirms cutAt label without actual camera change. Not a genuine sitting cut.",
+      "Subsequent knee approach/contact17260 and withdrawal17310 remain coherent, seated body/chair support and passive arm intact; no separate contact defect."
+    ],
+    "cueAudit": {
+      "basis": "No audited foley event in285–290s; visual contact only, no listening."
+    },
+    "technicalEvidence": {
+      "canonicalPCMExact": true,
+      "audioSampleCount": 194040,
+      "ptsExact60fps": true,
+      "dtsCadenceExact": true
+    },
+    "limits": "Only this finite encoded range. No whole episode, external joins, production/publication or perceptual audio clearance. Prior passes outside this range require their own carryforward evidence."
+  },
+  "C_WELCOME_KNEE_V5_VISUAL_RECEIPT.json": {
+    "verdict": "SCOPED_VISUAL_PASS",
+    "reviewer": "/root/verify_integrated_scene_contacts",
+    "createdUTC": "2026-10-29T08:19:15.088019+00:00",
+    "proof": "hakawi_repair/e02-rebuild-20261029/runtime-phase2/proofs/c-welcome-knee-v5/proof.mp4",
+    "videoSHA256": "748a1531c1fe1bdf58344eebd4db1e3e85293354c36321f85c0ac014e8402854",
+    "runtimeSHA256": "c68802acea3621860f6d023fb1ce379fceaf7e3810b7d043512e3399312d8fde",
+    "completeSHA256": "e9b21970e05efbcf3833cb3ba7a8da33a27c8f49a12bc98f2d6335582df1f84a",
+    "firstFrame": 17106,
+    "endFrameExclusive": 17370,
+    "framesReviewed": 264,
+    "method": "Every actual decoded frame reviewed in numbered 320x180 sequential proxies; selected native 1920x1080 witnesses. Not continuous playback or listening.",
+    "sheets": [
+      {
+        "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/c-welcome-knee-v5-01.jpg",
+        "sha256": "db06712ed62113f260f43aa9e629f472e035ca73128493ddf4a2bce656fcf996"
+      },
+      {
+        "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/c-welcome-knee-v5-02.jpg",
+        "sha256": "49f2f75b8b78f3ca466e6a0b398e3ca367033a1ec9fa4bfc3c35c5dcd22c8d9b"
+      },
+      {
+        "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/c-welcome-knee-v5-03.jpg",
+        "sha256": "ec0702069357981e6a72b315df0eeb972faf3a6c90c6f030373e5501e92a5c1a"
+      },
+      {
+        "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/c-welcome-knee-v5-04.jpg",
+        "sha256": "95c67befad29ebded3ff9109bd8571dbc5b16e3802834864e0e2abb609f7c924"
+      },
+      {
+        "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/c-welcome-knee-v5-05.jpg",
+        "sha256": "64a231c3a823003a57512a2cd39a42dfa9001b9d9e0470a17bb519771bf1a622"
+      },
+      {
+        "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/c-welcome-knee-v5-06.jpg",
+        "sha256": "acfe4bbaa817a80d380096d4fc58d73b1866351e83ec21932f6defb1a7272123"
+      },
+      {
+        "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/c-welcome-knee-v5-07.jpg",
+        "sha256": "881ba8f0c756c18869c2a1ca67e75fd7ef0eb3f93c421a9936e72a2d2ed85c17"
+      },
+      {
+        "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/c-welcome-knee-v5-08.jpg",
+        "sha256": "2ede2ed02831b4b9f858cae428f92d9c947ef53a157ab3577c9eb5c1c350a9ba"
+      },
+      {
+        "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/c-welcome-knee-v5-09.jpg",
+        "sha256": "dde9c20296a0bcb39265a32f6d67c95f9a494e5cbe05dfab68d986f80ee52b20"
+      }
+    ],
+    "nativeWitnesses": [
+      {
+        "frame": 17196,
+        "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/c-welcome-knee-v5-native17196.jpg",
+        "sha256": "021e13ef09f5568cb175a5f54fd9dea156e2128948312592d157c5db808c900f"
+      },
+      {
+        "frame": 17260,
+        "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/c-welcome-knee-v5-native17260.jpg",
+        "sha256": "c49855e25068aadc3afff7c9d42889371d44f5f8f5048c3742f4afdb91ab24c8"
+      },
+      {
+        "frame": 17360,
+        "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/c-welcome-knee-v5-native17360.jpg",
+        "sha256": "8b52a0a0462d6d4e97eb1cc1da590218f0eb8d91a853df18ffb8a7ead2f5c1ca"
+      }
+    ],
+    "findings": [
+      "All264 actual frames on9 sheets reviewed.",
+      "17196 genuine medium seated two-shot now resolves prior same-camera standing/seated pop; sitting itself is elided.",
+      "Knee approach, visible finger contact, hold and withdrawal coherent.17360 return wide retains seated rig/chair/support. Captions intact."
+    ],
+    "cueAudit": {
+      "basis": "No audited foley event285–290; visual-only contact, canonical PCM technical evidence."
+    },
+    "technicalEvidence": {
+      "canonicalPCMExact": true,
+      "audioSampleCount": 194040,
+      "ptsExact60fps": true,
+      "dtsCadenceExact": true
+    },
+    "limits": "Only this finite encoded range. No whole episode, external joins, production/publication or perceptual audio clearance. Prior passes outside this range require their own carryforward evidence."
+  },
+  "B_DEMOTION_V5_VISUAL_RECEIPT.json": {
+    "verdict": "SCOPED_VISUAL_PASS",
+    "reviewer": "/root/verify_integrated_scene_contacts",
+    "createdUTC": "2026-10-29T07:53:59.917060+00:00",
+    "proof": "hakawi_repair/e02-rebuild-20261029/runtime-phase2/proofs/b-demotion-v5/proof.mp4",
+    "videoSHA256": "265af2cd93b942b35c3a5dcfeee0d98a939d81898cfa2865b4ae28c1ea8fd0fe",
+    "runtimeSHA256": "80c8a88fc45ce4cc1abcdcc9cab1ca556745564a64c35e74305b8ac13636c955",
+    "completeSHA256": "53a53a548c716ba5864696ff19d624424e01284324c19cf31786fe45e346ebb9",
+    "firstFrame": 15564,
+    "endFrameExclusive": 16003,
+    "framesReviewed": 439,
+    "method": "Every actual decoded frame reviewed in numbered 320x180 sequential proxies; selected native 1920x1080 witnesses. Not continuous playback or listening.",
+    "sheets": [
+      {
+        "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/b-demotion-v5-01.jpg",
+        "sha256": "cc94c5be0d702a9b6f8bfcc454120381bc48d0cdb65ff2cd32255d6ce2076936"
+      },
+      {
+        "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/b-demotion-v5-02.jpg",
+        "sha256": "81636cf8b3164ab810c1e020fe56ffe4883d9eae8b843ff4d2caa9710c47f2a1"
+      },
+      {
+        "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/b-demotion-v5-03.jpg",
+        "sha256": "1543a93a06faf3d08dd038fdde5dffa40ca9cf672270235cc72b3697a2a8a655"
+      },
+      {
+        "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/b-demotion-v5-04.jpg",
+        "sha256": "ec41b08492ca7e8f59df1339b867cd34ba66d0f04ff91de457a40cdae6952613"
+      },
+      {
+        "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/b-demotion-v5-05.jpg",
+        "sha256": "352d3fabd70ee3e37dc8d36b94ce4a3b808a7d940809f68b2d03d1256462cb5d"
+      },
+      {
+        "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/b-demotion-v5-06.jpg",
+        "sha256": "065f008a742234a0bdeef3726ef07cf593035128aa42ac83b08190fb9a14973f"
+      },
+      {
+        "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/b-demotion-v5-07.jpg",
+        "sha256": "f2c892e4ea58c72c9a1af6867f5d6827be998ff8b8923e5ed2294296a6851cb8"
+      },
+      {
+        "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/b-demotion-v5-08.jpg",
+        "sha256": "7b9b1437a64b41ca32dfc56f22df1197c0615718e1a5524919f0f7f839f9b667"
+      },
+      {
+        "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/b-demotion-v5-09.jpg",
+        "sha256": "2a7425d299eda0f5aeb819b44956128d81434d7cae04d8aa6c5c509a85956762"
+      },
+      {
+        "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/b-demotion-v5-10.jpg",
+        "sha256": "c37c92a16bbef9ff9e95bfbbd2ccf7a20467a8390d4c383a88e4dcdcb5c73f41"
+      },
+      {
+        "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/b-demotion-v5-11.jpg",
+        "sha256": "6e8eb4e72119198f2d68f78ba7f27fcdc31c2d92e4cecdd322026f42b22b8a13"
+      },
+      {
+        "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/b-demotion-v5-12.jpg",
+        "sha256": "922886a6b2afc85dafa36960b3f1ac356c6eb3e2a4b6c5c98b38c2a6e6417d99"
+      },
+      {
+        "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/b-demotion-v5-13.jpg",
+        "sha256": "8c3b78b7fec960d8babf0550716d9f9141dc7ca5eec4e35afebe5de180874f9d"
+      },
+      {
+        "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/b-demotion-v5-14.jpg",
+        "sha256": "e9639a150779024bb613158f7282d2447b72be967d97d906f75c844de68847b9"
+      },
+      {
+        "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/b-demotion-v5-15.jpg",
+        "sha256": "ad8bcc77178a667f9019118a0906f01b05b4e00eb38fd2a062129cd4f58155f2"
+      }
+    ],
+    "nativeWitnesses": [
+      {
+        "frame": 15575,
+        "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/b-demotion-v5-native15575.jpg",
+        "sha256": "fb20aafde8cd3fc403baf335a8077cd7532d6c918c9fef8ec888925d7fe60abf"
+      },
+      {
+        "frame": 15797,
+        "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/b-demotion-v5-native15797.jpg",
+        "sha256": "a0a873e92173c3f667b4d08ccb8c65b765116fbc262ef90d0c357fa92b9a6846"
+      },
+      {
+        "frame": 15798,
+        "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/b-demotion-v5-native15798.jpg",
+        "sha256": "31e948d0d92977c992a8e4652b16434dc55741c9ffe6158eb8f8a865e3e7f5b9"
+      }
+    ],
+    "findings": [
+      "All 439 actual frames on 15 sequential sheets inspected.",
+      "Office-to-gate sitting at 15575 is a clear scene/time elision, not continuously animated walking or sitting. Chair back/seat and foreground desk coherently support/occlude seated Adel.",
+      "Empty near hand is a conversational/rest gesture, not table contact; far hand remains beside chair without unintended object ownership.",
+      "Gate-to-supervisor cut 15798 is clean. Karim seated behind desk with lower arms occluded; captions and expressions remain intact. No concrete temporal defect."
+    ],
+    "cueAudit": {
+      "supervisorCutSeconds": 263.3,
+      "supervisorCutFrame": 15798,
+      "noListening": true
+    },
+    "technicalEvidence": {
+      "canonicalPCMExact": true,
+      "audioSampleCount": 322665,
+      "ptsExact60fps": true,
+      "dtsCadenceExact": true
+    },
+    "limits": "Only this finite encoded range. No whole episode, external joins, production/publication or perceptual audio clearance. Prior passes outside this range require their own carryforward evidence."
+  },
+  "B_SPOIL_SUPPORT_V6_VISUAL_RECEIPT.json": {
+    "verdict": "SCOPED_VISUAL_PASS",
+    "reviewer": "/root/verify_integrated_scene_contacts",
+    "createdUTC": "2026-10-29T08:40:49.116241+00:00",
+    "proof": "hakawi_repair/e02-rebuild-20261029/runtime-phase2/proofs/b-spoil-support-v6/proof.mp4",
+    "videoSHA256": "8e3b2a5f2f3fc1e254f61009a4be830edd32afcf5b0632d6e10395219be0bacf",
+    "runtimeSHA256": "66863e2c31bb6d542dc94bd1e2974fd1a361ee6f26c5ba30cb34162cfa83ee2a",
+    "completeSHA256": "4f143f81d23290776ee6d31917cb46f0a2b544ae6c0352ccddeba2d4da35133f",
+    "firstFrame": 8802,
+    "endFrameExclusive": 9078,
+    "framesReviewed": 276,
+    "method": "Every actual decoded frame reviewed in numbered 320x180 sequential proxies; selected native 1920x1080 witnesses. Not continuous playback or listening.",
+    "sheets": [
+      {
+        "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/b-spoil-support-v6-01.jpg",
+        "sha256": "4c4cb222e3cd6355ec9a42d51ceb391d90144e34de58cd03e9a6eee7089646b8"
+      },
+      {
+        "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/b-spoil-support-v6-02.jpg",
+        "sha256": "23ff2b4b26d9759d984667dff63a1435c5049d29494f58746a4d43a20e0295a9"
+      },
+      {
+        "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/b-spoil-support-v6-03.jpg",
+        "sha256": "a0671225719100747d367094e78580a62acbe8ced1a7cfdd5e82b49518836ac0"
+      },
+      {
+        "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/b-spoil-support-v6-04.jpg",
+        "sha256": "8aff78802ef70fce00e26b9c86fc23e3df4056fa9d6929aed2cb98e4e6dbca46"
+      },
+      {
+        "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/b-spoil-support-v6-05.jpg",
+        "sha256": "4b3973119f9961004199d55eeef86ea9f2117b2c4464f0ed7256cf88a8e8c6ae"
+      },
+      {
+        "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/b-spoil-support-v6-06.jpg",
+        "sha256": "e74e88e3aec85bdd965fdd7ced4e99b35703e23ed16029c59ac3f52f409620eb"
+      },
+      {
+        "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/b-spoil-support-v6-07.jpg",
+        "sha256": "6cb1e0f07af3f16fbb99c0a262ac5b66cc92e1e2ef52382fa086dc0785fb0280"
+      },
+      {
+        "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/b-spoil-support-v6-08.jpg",
+        "sha256": "afc04e9497e93b582d8948bb03bf98c87cfe16bc60984ce34730c01b72b999b3"
+      },
+      {
+        "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/b-spoil-support-v6-09.jpg",
+        "sha256": "45415921f0ab340cd30c7340cbe2bddadf608004eb2e66854c8239bcb23a864f"
+      },
+      {
+        "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/b-spoil-support-v6-10.jpg",
+        "sha256": "b09a28f6285ded13f9eee6a6109407b9619f545ed28040661011db9eaa4ac0b5"
+      }
+    ],
+    "nativeWitnesses": [
+      {
+        "frame": 8817,
+        "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/b-spoil-support-v6-native8817.jpg",
+        "sha256": "651a8185fcef3a0b33e22c8be9a2318ad081524a5c066aa3d7a25434039b82fe"
+      },
+      {
+        "frame": 8892,
+        "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/b-spoil-support-v6-native8892.jpg",
+        "sha256": "9573d03948aabcd65ee29278ad62685e87a6a28e11f990ad180fdec0a8b981ce"
+      },
+      {
+        "frame": 9055,
+        "path": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/b-spoil-support-v6-native9055.jpg",
+        "sha256": "18f6ef269402ae24f0e74f9635e7b3258a36d60d7d2d39485ecc7e099d6f7854"
+      }
+    ],
+    "findings": [
+      "All 276 actual frames on 10 sequential sheets reviewed. Carton full base stays supported on horizontal stack top through recoil and return. Resolves previous v5 floating-front-face hold.",
+      "8817 is a distinct shot cut showing already opened carton, not continuous opening. Karim active empty hand approaches/recoils without falsely supporting or penetrating box; passive limb, feet and captions remain coherent."
+    ],
+    "cueAudit": {
+      "basis": "No audited foley event146–152; no listening claim."
+    },
+    "technicalEvidence": {
+      "canonicalPCMExact": true,
+      "audioSampleCount": 202860,
+      "ptsExact60fps": true,
+      "dtsCadenceExact": true
+    },
+    "limits": "Only this finite encoded range. No whole episode, external joins, production/publication or perceptual audio clearance. Prior passes outside this range require their own carryforward evidence."
+  },
+  "B_SUPPORT_V6_SOURCE_VISUAL_RECEIPT.json": {
+    "verdict": "SCOPED_SOURCE_VISUAL_PASS",
+    "source": "hakawi_repair/e02-rebuild-20261029/blocks/b_negligence_accusation/candidate-support-v6.cjs",
+    "sourceSHA256": "2542b2ea714bd5d99dde789b78da32c731cb1416625ecfff68f4adf1d8a0a935",
+    "witnesses": [
+      {
+        "path": "hakawi_repair/e02-rebuild-20261029/blocks/b_negligence_accusation/support-repair/native149.jpg",
+        "sha256": "3f6b9b88d0d1ce519c52a8f8d0155fc866498321bd79732fff6683bdeb228320"
+      },
+      {
+        "path": "hakawi_repair/e02-rebuild-20261029/blocks/b_negligence_accusation/support-repair/native185.jpg",
+        "sha256": "c3c8a5588dd850299f4a41e71a5b024410a0be5ceccdf0ccf9624615ae2e5394"
+      }
+    ],
+    "findings": [
+      "149: opened carton full base lies on stack top plane rather than floating against vertical stack face.",
+      "185: intact locally mirrored Sherif faces supported carton; torso extends past frame bottom, both arms/cuffs connect; empty palm does not accidentally touch box."
+    ],
+    "limits": "Two native source witnesses only; not all motion, cut guards or encoded approval. Requires finite actual retest. No listening/full episode clearance."
+  }
+}

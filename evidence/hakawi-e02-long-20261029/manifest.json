@@ -1,0 +1,117 @@
+{
+  "snapshotUTC": "2026-10-29T10:47:00Z",
+  "files": [
+    {
+      "source": "hakawi_repair/e02-rebuild-20261029/reviews/ORIGINAL_FOLEY_EVENT_AUDIT.json",
+      "snapshot": "ORIGINAL_FOLEY_EVENT_AUDIT.json",
+      "sha256": "7f2a718462dc5d038cf9bfed55c7c997a945d6db2e14e153a3b7093087cf19bc",
+      "bytes": 4143
+    },
+    {
+      "source": "hakawi_repair/e02-rebuild-20261029/independent-review/sync/SYNC_VISUAL_CLOSURE.json",
+      "snapshot": "SYNC_VISUAL_CLOSURE.json",
+      "sha256": "64ef3094d25d3638d08d16e207330262cd5a764f03163177f6ab9275673ae865",
+      "bytes": 6174
+    },
+    {
+      "source": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/FINITE_REVIEW_CLOSURE_20261029_0848.json",
+      "snapshot": "FINITE_REVIEW_CLOSURE_20261029_0848.json",
+      "sha256": "549cf0510632092b1379b92c43aa07f62b82959a6cb4b96ce66b11b3a45672f2",
+      "bytes": 17537
+    },
+    {
+      "source": "hakawi_repair/e02-rebuild-20261029/FINAL_SOURCE_FREEZE_20261029_0857.json",
+      "snapshot": "FINAL_SOURCE_FREEZE_20261029_0857.json",
+      "sha256": "9ed3d56b2a674dc2e48124114f38b6065ec7e66d57386dd6b805ecec6eee44b2",
+      "bytes": 42456
+    },
+    {
+      "source": "hakawi_repair/e02-rebuild-20261029/blocks/b_negligence_accusation/support-repair/README.md",
+      "snapshot": "SUPPORT_REPAIR_README.md",
+      "sha256": "c75698d2ae33acd36bd538f0a8cf583278913753ac53c57f3978d99c565078db",
+      "bytes": 2940
+    },
+    {
+      "source": "hakawi_repair/e02-publication-20261029/REPLACEMENT_RECEIPT.json",
+      "snapshot": "REPLACEMENT_RECEIPT.json",
+      "sha256": "84e5840e9452f3d3a460ea22560f9f300678159b67dd74337f7c8cbd9aa0e348",
+      "bytes": 1063
+    },
+    {
+      "source": "e02-native-final-20261029-0857/FINAL_DELIVERY_MANIFEST.json",
+      "snapshot": "FINAL_DELIVERY_MANIFEST.json",
+      "sha256": "f38ffdf1b170dfb9eef661a80b6440e6086ccfb98559c3b44a3084c8d5a95ef9",
+      "bytes": 5099
+    },
+    {
+      "source": "e02-native-final-20261029-0857/FINAL_REVIEW_UNION.json",
+      "snapshot": "FINAL_REVIEW_UNION.json",
+      "sha256": "1f6514d6d58831725ffb5e975d5c30f61ddd380202b13cfd4a0d4c89affa0bae",
+      "bytes": 1201
+    },
+    {
+      "source": "e02-native-final-20261029-0857/CANONICAL_AUDIO_TIMING.json",
+      "snapshot": "CANONICAL_AUDIO_TIMING.json",
+      "sha256": "b5e4b145f90f6d1b5adf38843bd9671de2fcee01c301c2d874641b44193d72a9",
+      "bytes": 505
+    },
+    {
+      "source": "e02-native-final-20261029-0857/FULL_DECODED_PIXEL_IDENTITY.json",
+      "snapshot": "FULL_DECODED_PIXEL_IDENTITY.json",
+      "sha256": "0d21d580c74d24554262a6885e0f559521bcc61765b41d4aa9c17934f13979f1",
+      "bytes": 17911
+    },
+    {
+      "source": "e02-native-final-20261029-0857/AAC_DELIVERY_RECEIPT.json",
+      "snapshot": "AAC_DELIVERY_RECEIPT.json",
+      "sha256": "c30e5d998921685f9de2de29c401f918405e062e31499dd1ce18fa75d80312f5",
+      "bytes": 1137
+    },
+    {
+      "source": "e02-native-final-20261029-0857/FINAL_SOURCE_REVALIDATION.json",
+      "snapshot": "FINAL_SOURCE_REVALIDATION.json",
+      "sha256": "40d4ea1fb4e3aabf48eb1fe378bdab0ad8c6d81d6565dcd685d494fd741bceea",
+      "bytes": 583
+    },
+    {
+      "source": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/A_REPOSITION_V2_VISUAL_RECEIPT.json",
+      "bundleKey": "A_REPOSITION_V2_VISUAL_RECEIPT.json",
+      "sha256": "952f68981b20e2d8129229b5a40ebfdfcc49f5c112bcb52612093e4b4b55a2b3"
+    },
+    {
+      "source": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/A_HAND_CONTINUITY_V5_VISUAL_RECEIPT.json",
+      "bundleKey": "A_HAND_CONTINUITY_V5_VISUAL_RECEIPT.json",
+      "sha256": "af58fd19f3e0b70aac23578db1741a2585e2a05850c7bcff80b86f7c6fe0d176"
+    },
+    {
+      "source": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/A_TRUCK_APERTURE_V4_VISUAL_RECEIPT.json",
+      "bundleKey": "A_TRUCK_APERTURE_V4_VISUAL_RECEIPT.json",
+      "sha256": "480e8931601b55833d3a03b3cde8e9ee73b9491c7a9585b9e5e9d4d51160a918"
+    },
+    {
+      "source": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/C_WELCOME_KNEE_V4_VISUAL_RECEIPT.json",
+      "bundleKey": "C_WELCOME_KNEE_V4_VISUAL_RECEIPT.json",
+      "sha256": "c36006023abd00da8f16bb65cfc29bb0ce8c0ef4d318580d64348ecafe29d0aa"
+    },
+    {
+      "source": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/C_WELCOME_KNEE_V5_VISUAL_RECEIPT.json",
+      "bundleKey": "C_WELCOME_KNEE_V5_VISUAL_RECEIPT.json",
+      "sha256": "e46af2861296076993aea0a8afcda68ea81d88b11133384ae45f646c68d487ab"
+    },
+    {
+      "source": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/B_DEMOTION_V5_VISUAL_RECEIPT.json",
+      "bundleKey": "B_DEMOTION_V5_VISUAL_RECEIPT.json",
+      "sha256": "a03cde1e5d3d9728d75e6a3ab625f1a6396f72e3ce786f4f2795c9f53c1516ba"
+    },
+    {
+      "source": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/B_SPOIL_SUPPORT_V6_VISUAL_RECEIPT.json",
+      "bundleKey": "B_SPOIL_SUPPORT_V6_VISUAL_RECEIPT.json",
+      "sha256": "86b7b3e60e20c03abc7ae0c8dcde73b7076ed87c6b457ea406e25d39bbd7c187"
+    },
+    {
+      "source": "hakawi_repair/e02-rebuild-20261029/independent-review/phase2/B_SUPPORT_V6_SOURCE_VISUAL_RECEIPT.json",
+      "bundleKey": "B_SUPPORT_V6_SOURCE_VISUAL_RECEIPT.json",
+      "sha256": "a495b6ec8c3e2019124ae66056e77f6bf1fae2a7786f5262da291aff4dcc953e"
+    }
+  ]
+}
