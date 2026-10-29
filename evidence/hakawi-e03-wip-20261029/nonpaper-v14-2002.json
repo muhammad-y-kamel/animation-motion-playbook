@@ -1,0 +1,775 @@
+{
+  "reviewer": "/root/review_episode_three_pillow",
+  "method": "Actual every-frame decoded thumbnail contact sheet review plus native layout/action phase stills; no source rendering or encoding.",
+  "limitations": [
+    "No audio listened; no full-film approval.",
+    "Old v5 approvals not reused.",
+    "Unviewed extracted native frames are not counted as native visual evidence."
+  ],
+  "windows": [
+    {
+      "tag": "ab07-folder-throw",
+      "range": [
+        10085,
+        10186
+      ],
+      "frames": 101,
+      "status": "COVERAGE_HOLD",
+      "finding": "Supported launch/release and continuous slide/opening observed; still opening at final frame, needs continuation past10186 to stationary settle.",
+      "video_sha256": "868753c2bde2c5d58aa7eee41936977c5e4e5158e46021b11b1960d5fbcd6922",
+      "complete_sha256": "60c620f0e2d6436707b5f71c1c028c0b44fda4e650e07672e39266277bc9e03d",
+      "video": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/runtime/full-v5/outputs/v14-ab07-folder-throw/final-aac.mp4",
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "width": 1920,
+            "height": 1080,
+            "r_frame_rate": "60/1",
+            "nb_read_frames": "101"
+          }
+        ]
+      },
+      "all_decoded_frames_contact_sheet_viewed": true,
+      "native_local_frames_actually_viewed": [
+        0,
+        25,
+        50,
+        75,
+        100
+      ],
+      "native_global_frames_actually_viewed": [
+        10085,
+        10110,
+        10135,
+        10160,
+        10185
+      ],
+      "proofs": [
+        {
+          "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/nonpaper-v14-2002/ab07-folder-throw/native-01.jpg",
+          "sha256": "a8915df93e586341cd408c3e25c1cfb6b5b9ab6ffff1dd920db0b31c510b54c6"
+        },
+        {
+          "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/nonpaper-v14-2002/ab07-folder-throw/native-02.jpg",
+          "sha256": "1fd9e5f8f449495f1b00b88f0643e19872067b059b2be90169ee58cf3725df4a"
+        },
+        {
+          "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/nonpaper-v14-2002/ab07-folder-throw/native-03.jpg",
+          "sha256": "c096239f5245dabd711977545d5e5cf530a0d9bc3c2ceb1f0ba6ec13d75b6eec"
+        },
+        {
+          "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/nonpaper-v14-2002/ab07-folder-throw/native-04.jpg",
+          "sha256": "7cb603191505170c1be2b12a83efd89620bf57a5680e3ed2656458c07d9e628a"
+        },
+        {
+          "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/nonpaper-v14-2002/ab07-folder-throw/native-05.jpg",
+          "sha256": "9e24c3d94f59da6ff4cbe066b77f00c3f8a2590c1cf6a7594c74968dc76bde26"
+        },
+        {
+          "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/nonpaper-v14-2002/ab07-folder-throw/sheet-01.jpg",
+          "sha256": "9bdea6725fb24fd041aaff5bd901e219be867394642a3d428e4e2e340d4b7898"
+        },
+        {
+          "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/nonpaper-v14-2002/ab07-folder-throw/sheet-02.jpg",
+          "sha256": "0f44bcd667b507c84e443d2f727dc5d05feadf4946659ed56dee7a34f0152747"
+        },
+        {
+          "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/nonpaper-v14-2002/ab07-folder-throw/sheet-03.jpg",
+          "sha256": "369613427634a6042b653b1959eeacaab410a630831c557a2d082bc9cfa2f406"
+        },
+        {
+          "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/nonpaper-v14-2002/ab07-folder-throw/sheet-04.jpg",
+          "sha256": "a05b216b62a7c27d5d306b6e4a525ee0157e8875a512b0cb903d265fed1cc70b"
+        },
+        {
+          "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/nonpaper-v14-2002/ab07-folder-throw/sheet-05.jpg",
+          "sha256": "6b83176ce7fc05b4156acdd014f8073b3bc12dbf1c249bef388d7dffeb5aefb5"
+        }
+      ]
+    },
+    {
+      "tag": "ab08-plate-drop",
+      "range": [
+        11261,
+        11359
+      ],
+      "frames": 98,
+      "status": "POTENTIAL_VISUAL_HOLD",
+      "finding": "Potential ownership HOLD: initial plate remains visually separated below fingertips for first24frames11261\u201311284; no support hand visible. Fall and floor settle then intentional cut observed.",
+      "video_sha256": "ff2ff0d0b3ed098f11472e8073234c78e973e7a16f298e1dcaad80f85cd892ce",
+      "complete_sha256": "bc7f5b659edb3e371135c740d975acf1bc7dfe9e27340e1d699cd73af3b4c26d",
+      "video": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/runtime/full-v5/outputs/v14-ab08-plate-drop/final-aac.mp4",
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "width": 1920,
+            "height": 1080,
+            "r_frame_rate": "60/1",
+            "nb_read_frames": "98"
+          }
+        ]
+      },
+      "all_decoded_frames_contact_sheet_viewed": true,
+      "native_local_frames_actually_viewed": [
+        0,
+        24,
+        49,
+        73,
+        97
+      ],
+      "native_global_frames_actually_viewed": [
+        11261,
+        11285,
+        11310,
+        11334,
+        11358
+      ],
+      "proofs": [
+        {
+          "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/nonpaper-v14-2002/ab08-plate-drop/native-01.jpg",
+          "sha256": "a964d331a75cc42cb700c810af55e4af8e698fcda0acb14e1d977e3ccf318df7"
+        },
+        {
+          "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/nonpaper-v14-2002/ab08-plate-drop/native-02.jpg",
+          "sha256": "b869e3435363bf062e8b42b5868af55e9b3e23a69a4337ea3529e6e287f50f8d"
+        },
+        {
+          "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/nonpaper-v14-2002/ab08-plate-drop/native-03.jpg",
+          "sha256": "27d8e1692da03df055ed4ff20eeae934d8b652c6989949d79ef95fb0d584334d"
+        },
+        {
+          "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/nonpaper-v14-2002/ab08-plate-drop/native-04.jpg",
+          "sha256": "708b9a5a3560003fd8feea3fef3d2795a65d79905699f509685cfebb8473826b"
+        },
+        {
+          "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/nonpaper-v14-2002/ab08-plate-drop/native-05.jpg",
+          "sha256": "2ed365ee1ab2627ee46192f0d4baa9f9a9d702960e3fd9cde93689b5a69614be"
+        },
+        {
+          "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/nonpaper-v14-2002/ab08-plate-drop/sheet-01.jpg",
+          "sha256": "0a6ba3a377dcebf7edf7b0e81659e2f1bb2ad174e6ec3fa2b48acd38f502cb61"
+        },
+        {
+          "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/nonpaper-v14-2002/ab08-plate-drop/sheet-02.jpg",
+          "sha256": "8a029f652d7147f903df18c582c9005a6cb467c0658739fb1fc88895de6eb0ea"
+        },
+        {
+          "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/nonpaper-v14-2002/ab08-plate-drop/sheet-03.jpg",
+          "sha256": "5b0ecbdf1a267468cbf545f9a9d206b8efaaa7813d0e080167f31b390573c25b"
+        },
+        {
+          "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/nonpaper-v14-2002/ab08-plate-drop/sheet-04.jpg",
+          "sha256": "767dac3461653f04be87c70da237d21ad7330a9f8652f00119dbd2b84dc04f00"
+        },
+        {
+          "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/nonpaper-v14-2002/ab08-plate-drop/sheet-05.jpg",
+          "sha256": "7d0a94cbc3ccc05c89820407f372159dc15df4745a9560838e0e8ae84e050436"
+        }
+      ]
+    },
+    {
+      "tag": "ab09-folder-lift",
+      "range": [
+        11499,
+        11615
+      ],
+      "frames": 116,
+      "status": "SCOPED_VISUAL_PASS",
+      "finding": "Intentional reposition cut; hand reaches folder, lifts continuously and ends supported against torso.",
+      "video_sha256": "04355d643bde622f42be08c476466b17b5a740648a4e0dcc0a01321ba41cc41b",
+      "complete_sha256": "232f4fb5645d302f1720c9d361c38cbf4be43dde7ec0ce0ca686f0838cf06c54",
+      "video": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/runtime/full-v5/outputs/v14-ab09-folder-lift/final-aac.mp4",
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "width": 1920,
+            "height": 1080,
+            "r_frame_rate": "60/1",
+            "nb_read_frames": "116"
+          }
+        ]
+      },
+      "all_decoded_frames_contact_sheet_viewed": true,
+      "native_local_frames_actually_viewed": [
+        0,
+        29,
+        58,
+        87,
+        115
+      ],
+      "native_global_frames_actually_viewed": [
+        11499,
+        11528,
+        11557,
+        11586,
+        11614
+      ],
+      "proofs": [
+        {
+          "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/nonpaper-v14-2002/ab09-folder-lift/native-01.jpg",
+          "sha256": "40f01e6d66a407bc12a62f8fff06411791b2427470de37f1b1700fd1154a3c4d"
+        },
+        {
+          "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/nonpaper-v14-2002/ab09-folder-lift/native-02.jpg",
+          "sha256": "efb0be8d3bf4136c239fe0d2edb708b2e64427c4e681829b29f00696c81b71bb"
+        },
+        {
+          "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/nonpaper-v14-2002/ab09-folder-lift/native-03.jpg",
+          "sha256": "006a6e8f6b98cb7cac9e326b5ea015d5ddc99d4f52a0f328fbf49b9fa45b2805"
+        },
+        {
+          "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/nonpaper-v14-2002/ab09-folder-lift/native-04.jpg",
+          "sha256": "abbe1708fee91cb9a4d00456ab2e2ada65f3eede24d6141515a2b20c74180501"
+        },
+        {
+          "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/nonpaper-v14-2002/ab09-folder-lift/native-05.jpg",
+          "sha256": "f0578cd87929695e4ec421ec5c392f73a1e7f22e038c88406416e99a2ada0acb"
+        },
+        {
+          "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/nonpaper-v14-2002/ab09-folder-lift/sheet-01.jpg",
+          "sha256": "73f7ecb9d5ce24beb2f869b79b6881cd3214a3af250e5905b2a4ea2868dac9f4"
+        },
+        {
+          "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/nonpaper-v14-2002/ab09-folder-lift/sheet-02.jpg",
+          "sha256": "bcd9d675e0b2f13a102230fb371bedb58054dc88a8dd37d22a5e176e560d1f43"
+        },
+        {
+          "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/nonpaper-v14-2002/ab09-folder-lift/sheet-03.jpg",
+          "sha256": "e66f94e29c23a4425e4454ece052b6c8b0fcc52da3fbd6610b13cc924fb5dc13"
+        },
+        {
+          "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/nonpaper-v14-2002/ab09-folder-lift/sheet-04.jpg",
+          "sha256": "f6ed13b660def51edc69a9cb088a508a69a3d482393ad69082ec8a1c7f029925"
+        },
+        {
+          "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/nonpaper-v14-2002/ab09-folder-lift/sheet-05.jpg",
+          "sha256": "89365b9e32c9600b94ecc1b374f5a5ae8d86f7171155a870978ef3b50ffbbcdf"
+        }
+      ]
+    },
+    {
+      "tag": "ab10-folder-hold-join",
+      "range": [
+        12387,
+        12413
+      ],
+      "frames": 26,
+      "status": "SCOPED_VISUAL_PASS",
+      "finding": "Folder remains supported against torso across expression/layout join.",
+      "video_sha256": "296363f797d28d698f06654fdf9d7ff25010aac21a91b1613ef3177a42e1168a",
+      "complete_sha256": "a35fb5577082dd4db318bf1f93ace9992a97b408a85e33444b0c9d85e56b20bb",
+      "video": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/runtime/full-v5/outputs/v14-ab10-folder-hold-join/final-aac.mp4",
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "width": 1920,
+            "height": 1080,
+            "r_frame_rate": "60/1",
+            "nb_read_frames": "26"
+          }
+        ]
+      },
+      "all_decoded_frames_contact_sheet_viewed": true,
+      "native_local_frames_actually_viewed": [
+        0,
+        13,
+        25
+      ],
+      "native_global_frames_actually_viewed": [
+        12387,
+        12400,
+        12412
+      ],
+      "proofs": [
+        {
+          "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/nonpaper-v14-2002/ab10-folder-hold-join/native-01.jpg",
+          "sha256": "1ecdf353accc3e0aa8cf01e852613acebace6df655b6f0e6a97c6862ed00ea67"
+        },
+        {
+          "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/nonpaper-v14-2002/ab10-folder-hold-join/native-02.jpg",
+          "sha256": "4ba9af544e1ed8a957f9d8d007735446bce3aabd038dcd71d17491cf38b0bc9f"
+        },
+        {
+          "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/nonpaper-v14-2002/ab10-folder-hold-join/native-03.jpg",
+          "sha256": "86af324dd6ff467e0471b49dc56179665a7e7c5fa70a9ece939a98d9d28d0315"
+        },
+        {
+          "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/nonpaper-v14-2002/ab10-folder-hold-join/native-04.jpg",
+          "sha256": "648c43647701ad42526403d4dfcbbc717a012fdea4e6a64e55b7d52d1ed45dbb"
+        },
+        {
+          "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/nonpaper-v14-2002/ab10-folder-hold-join/native-05.jpg",
+          "sha256": "d65b768bcc9adf7a156bab9aed469d411822b50dc895581b3fdc65e5ed1bcaec"
+        },
+        {
+          "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/nonpaper-v14-2002/ab10-folder-hold-join/sheet-01.jpg",
+          "sha256": "b2cee83172e845213240bbdc0dfa6b61e013f222cd1ba8b0d8ae682c7af660b5"
+        },
+        {
+          "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/nonpaper-v14-2002/ab10-folder-hold-join/sheet-02.jpg",
+          "sha256": "8a8c1259c6af899ec80f115431920a6ae3e0f25c5643610fee5aef9ed993243c"
+        }
+      ]
+    },
+    {
+      "tag": "ab11-bag-lower",
+      "range": [
+        12905,
+        13003
+      ],
+      "frames": 98,
+      "status": "SCOPED_VISUAL_PASS",
+      "finding": "Intentional standing-to-seated elision; bag remains attached to hand during lower to lap, seated support intact.",
+      "video_sha256": "2bdfe842b4c852efa17d10a37b5763d275f530459e282afe438e4340fb09d432",
+      "complete_sha256": "a070736e87fe1152ef056ffdbc88789ddb2892b7d92cb3644e716fa2cb27398f",
+      "video": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/runtime/full-v5/outputs/v14-ab11-bag-lower/final-aac.mp4",
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "width": 1920,
+            "height": 1080,
+            "r_frame_rate": "60/1",
+            "nb_read_frames": "98"
+          }
+        ]
+      },
+      "all_decoded_frames_contact_sheet_viewed": true,
+      "native_local_frames_actually_viewed": [
+        0,
+        24,
+        49,
+        73,
+        97
+      ],
+      "native_global_frames_actually_viewed": [
+        12905,
+        12929,
+        12954,
+        12978,
+        13002
+      ],
+      "proofs": [
+        {
+          "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/nonpaper-v14-2002/ab11-bag-lower/native-01.jpg",
+          "sha256": "0abbacc7ccd90f0d3031050caa791381971e08945ded5542c3ad7004dd7d2829"
+        },
+        {
+          "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/nonpaper-v14-2002/ab11-bag-lower/native-02.jpg",
+          "sha256": "2385d66f41ccbc7e9ad8ebd32d441856aaa707ef6d4d2ba08cab3e731e6de132"
+        },
+        {
+          "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/nonpaper-v14-2002/ab11-bag-lower/native-03.jpg",
+          "sha256": "14f1b3769c9bb820706859fd8e2edbf4f76dc714d17ad7d9be7dc1c81df92ad8"
+        },
+        {
+          "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/nonpaper-v14-2002/ab11-bag-lower/native-04.jpg",
+          "sha256": "a0b44a764c17eaa1b8da5e8849d76801d78ac5d3650388d53033562c28f8bbc0"
+        },
+        {
+          "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/nonpaper-v14-2002/ab11-bag-lower/native-05.jpg",
+          "sha256": "f7397fb2e8de62db7beee361c319458df88d98a26d0fc863f3fcf62ea462e297"
+        },
+        {
+          "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/nonpaper-v14-2002/ab11-bag-lower/sheet-01.jpg",
+          "sha256": "60c691c84e1e1a5658f3e247b8475f01f257414574af873a8db6915ac683c846"
+        },
+        {
+          "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/nonpaper-v14-2002/ab11-bag-lower/sheet-02.jpg",
+          "sha256": "5b3aa8db0e80b71b3d0d726745424dc2377a8ac9529b82a7bc1fa8299630cb81"
+        },
+        {
+          "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/nonpaper-v14-2002/ab11-bag-lower/sheet-03.jpg",
+          "sha256": "b0232ee1facc7e913d769e8b868cd01c1bf30dd77d9e07a05e628542905d8ea1"
+        },
+        {
+          "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/nonpaper-v14-2002/ab11-bag-lower/sheet-04.jpg",
+          "sha256": "1a43640b3b51a93c2e126ed674cb18abe4308a5024c12cc199eaaaa13e3ec23b"
+        },
+        {
+          "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/nonpaper-v14-2002/ab11-bag-lower/sheet-05.jpg",
+          "sha256": "cca4c0cbed195dca82d7f1730c1e72ad124b803e47b51ebe26ec81969fe4ef2c"
+        }
+      ]
+    },
+    {
+      "tag": "ab14-apology-nod",
+      "range": [
+        14561,
+        14659
+      ],
+      "frames": 98,
+      "status": "SCOPED_VISUAL_PASS",
+      "finding": "Subtle male head nod and return, head/neck and body remain connected.",
+      "video_sha256": "9671c83efd34484b002164fed663f5f88061471277efe43d4fa981ebf952bc64",
+      "complete_sha256": "3a5667e181b75c62a5b76f7b31bde06c14905e2fc8a6a8f7778e55b8070df256",
+      "video": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/runtime/full-v5/outputs/v14-ab14-apology-nod/final-aac.mp4",
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "width": 1920,
+            "height": 1080,
+            "r_frame_rate": "60/1",
+            "nb_read_frames": "98"
+          }
+        ]
+      },
+      "all_decoded_frames_contact_sheet_viewed": true,
+      "native_local_frames_actually_viewed": [
+        0,
+        24,
+        49,
+        73,
+        97
+      ],
+      "native_global_frames_actually_viewed": [
+        14561,
+        14585,
+        14610,
+        14634,
+        14658
+      ],
+      "proofs": [
+        {
+          "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/nonpaper-v14-2002/ab14-apology-nod/native-01.jpg",
+          "sha256": "6dcbd51bf699ee5387b24b358f2c317630c4c04840664d95bff9b3a51e0fe10a"
+        },
+        {
+          "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/nonpaper-v14-2002/ab14-apology-nod/native-02.jpg",
+          "sha256": "f085739aaf71e2f2e2edf0e9b88fda0faedfa8cba720a661d07748303c461b83"
+        },
+        {
+          "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/nonpaper-v14-2002/ab14-apology-nod/native-03.jpg",
+          "sha256": "7a79f406d686b27088c88214225c535142b3c73c9d5827e3766f3ae6a8327109"
+        },
+        {
+          "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/nonpaper-v14-2002/ab14-apology-nod/native-04.jpg",
+          "sha256": "bc7ec2b5cf3053b0a87cd0c408072a9cafa76563698e43dc0678195d9060fd85"
+        },
+        {
+          "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/nonpaper-v14-2002/ab14-apology-nod/native-05.jpg",
+          "sha256": "4770ee5b97c999b7ecdb74ad6aac2e3d9306d91bc88fa6e8fd9d10200fef4792"
+        },
+        {
+          "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/nonpaper-v14-2002/ab14-apology-nod/sheet-01.jpg",
+          "sha256": "d651de24ec2f2e8fcec5416ce0e93e44b8b5ea09da4e9437e2a73befe9150a1c"
+        },
+        {
+          "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/nonpaper-v14-2002/ab14-apology-nod/sheet-02.jpg",
+          "sha256": "15d29c0cf03d6d5232b9a18762aef72c26a8180496999607a605ae8ab5962bce"
+        },
+        {
+          "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/nonpaper-v14-2002/ab14-apology-nod/sheet-03.jpg",
+          "sha256": "df05350a24e0c2c1aca2b51fe98fc7591f2de5154bf934ebc7fa75e18a19fcb3"
+        },
+        {
+          "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/nonpaper-v14-2002/ab14-apology-nod/sheet-04.jpg",
+          "sha256": "85cefdb267827b6a90796999dd25f85a6abfca31872b4fce91d279cc24f23e27"
+        },
+        {
+          "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/nonpaper-v14-2002/ab14-apology-nod/sheet-05.jpg",
+          "sha256": "14b37eede5f027db400cdaa0f8e22e4549ec82b7499f8e0dd78ea07fccae66bd"
+        }
+      ]
+    },
+    {
+      "tag": "ab15-ring-removal",
+      "range": [
+        15454,
+        15565
+      ],
+      "frames": 111,
+      "status": "SCOPED_VISUAL_PASS",
+      "finding": "Intentional hand insert; ring extraction continuous with grasp maintained; ringless fingers remain after removal.",
+      "video_sha256": "82c6993211d1ec5fa878c623658780ef7554c2bb934a6ba3c9b921819e98fee8",
+      "complete_sha256": "19be3737c0450581a934ca7a656b5bbb2a2ac2a16c96ae7edacf70c90b9bff6a",
+      "video": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/runtime/full-v5/outputs/v14-ab15-ring-removal/final-aac.mp4",
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "width": 1920,
+            "height": 1080,
+            "r_frame_rate": "60/1",
+            "nb_read_frames": "111"
+          }
+        ]
+      },
+      "all_decoded_frames_contact_sheet_viewed": true,
+      "native_local_frames_actually_viewed": [
+        0,
+        27,
+        55,
+        83,
+        110
+      ],
+      "native_global_frames_actually_viewed": [
+        15454,
+        15481,
+        15509,
+        15537,
+        15564
+      ],
+      "proofs": [
+        {
+          "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/nonpaper-v14-2002/ab15-ring-removal/native-01.jpg",
+          "sha256": "40b9124addd3fc0a513633aecc76dead49c1bafe5fd7e89d4aef68824a28372f"
+        },
+        {
+          "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/nonpaper-v14-2002/ab15-ring-removal/native-02.jpg",
+          "sha256": "a96118686566775033fcf4f9eb528440bd8a8f6fa776d4c1c820e98b36ef2f03"
+        },
+        {
+          "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/nonpaper-v14-2002/ab15-ring-removal/native-03.jpg",
+          "sha256": "73f75d99d81efc111f4d6bc382a6c02acc42cbcdbaae2e5e7fc0327b085cae56"
+        },
+        {
+          "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/nonpaper-v14-2002/ab15-ring-removal/native-04.jpg",
+          "sha256": "8e8cbf4f15ffd0ff3a76ea99128b3e3f336eda8073b8832899ae649c2bc5c5c4"
+        },
+        {
+          "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/nonpaper-v14-2002/ab15-ring-removal/native-05.jpg",
+          "sha256": "cb494d48ccf36168683ba51add5aeba1d6c26ae1a2b2ddf24986198d76db63fd"
+        },
+        {
+          "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/nonpaper-v14-2002/ab15-ring-removal/sheet-01.jpg",
+          "sha256": "bcc5ee9c8ea6506c7836924e3d5770a6badf760bb7c983cc9456d1bfd1f0eb63"
+        },
+        {
+          "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/nonpaper-v14-2002/ab15-ring-removal/sheet-02.jpg",
+          "sha256": "56ea2ebfb1e5eebeeee7b4c2d598255a668b675f769435b35051afa1fbe038bf"
+        },
+        {
+          "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/nonpaper-v14-2002/ab15-ring-removal/sheet-03.jpg",
+          "sha256": "2b3c618ccdb72ee148c61c60de409c1c7717a48a107d31369807d3acd7d63ddf"
+        },
+        {
+          "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/nonpaper-v14-2002/ab15-ring-removal/sheet-04.jpg",
+          "sha256": "e3e98999444f5a23c8e5a5029681a3cdaba4bd11beff56c8ff20d650d865afeb"
+        },
+        {
+          "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/nonpaper-v14-2002/ab15-ring-removal/sheet-05.jpg",
+          "sha256": "8d250284a450440f4f598638d8457ecd6f6acdc13ac44fd6a48b201356ab103d"
+        }
+      ]
+    },
+    {
+      "tag": "ab16-ring-placement-join",
+      "range": [
+        15857,
+        15880
+      ],
+      "frames": 23,
+      "status": "SCOPED_VISUAL_PASS",
+      "finding": "Intentional cut/elision from held ring to ring resting on tray. Placement movement is not shown; approval is join-only.",
+      "video_sha256": "053e6e168ecebbe39c97f01c8bd4dd6d584e6a3361c9bf7a00d1aa7c397de0ef",
+      "complete_sha256": "f704fa241e818a42368ff5a1e41a0260b04adcb75ca1dbaa696a947107f16d1b",
+      "video": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/runtime/full-v5/outputs/v14-ab16-ring-placement-join/final-aac.mp4",
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "width": 1920,
+            "height": 1080,
+            "r_frame_rate": "60/1",
+            "nb_read_frames": "23"
+          }
+        ]
+      },
+      "all_decoded_frames_contact_sheet_viewed": true,
+      "native_local_frames_actually_viewed": [
+        0,
+        11,
+        22
+      ],
+      "native_global_frames_actually_viewed": [
+        15857,
+        15868,
+        15879
+      ],
+      "proofs": [
+        {
+          "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/nonpaper-v14-2002/ab16-ring-placement-join/native-01.jpg",
+          "sha256": "432ada6f58bc3f1eff5b48f3297a9b4a177f564ccf50673cd4f0bdc09109cec9"
+        },
+        {
+          "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/nonpaper-v14-2002/ab16-ring-placement-join/native-02.jpg",
+          "sha256": "bfde48ad8c65d4c09b69ac2ea0ec2b878bc169e4ccf0c85903ed7112c7d01eb2"
+        },
+        {
+          "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/nonpaper-v14-2002/ab16-ring-placement-join/native-03.jpg",
+          "sha256": "37b2a1832076aead31e61453f395553c8fd0b8b0a5b49dd8020fc0a15e4021af"
+        },
+        {
+          "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/nonpaper-v14-2002/ab16-ring-placement-join/native-04.jpg",
+          "sha256": "727d662e333f89a8dd49420aaac106640dc90bda847aee608496bd9afc26b919"
+        },
+        {
+          "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/nonpaper-v14-2002/ab16-ring-placement-join/native-05.jpg",
+          "sha256": "aeb09d99ea3f6fd5e3c12fa7e1f8d8830a8741cee753e9bc366529d4614e03f3"
+        },
+        {
+          "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/nonpaper-v14-2002/ab16-ring-placement-join/sheet-01.jpg",
+          "sha256": "9f13786bc3b60dbd5014fa0d67c143a38175185fb6ed21084260e65ac84d6bda"
+        }
+      ]
+    },
+    {
+      "tag": "ab17-ring-tray-layout-join",
+      "range": [
+        16879,
+        16902
+      ],
+      "frames": 23,
+      "status": "SCOPED_VISUAL_PASS",
+      "finding": "Intentional wide-to-tray insert; ring/cup relative placement persists.",
+      "video_sha256": "55a8981c913911a3c1e0ca668bdbaa8192c952549dae3db5fcc3ea206fb1142a",
+      "complete_sha256": "fa5328068132e52c60e8cf34e94337f98fb5beee01dbd4c87615b05504bcba33",
+      "video": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/runtime/full-v5/outputs/v14-ab17-ring-tray-layout-join/final-aac.mp4",
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "width": 1920,
+            "height": 1080,
+            "r_frame_rate": "60/1",
+            "nb_read_frames": "23"
+          }
+        ]
+      },
+      "all_decoded_frames_contact_sheet_viewed": true,
+      "native_local_frames_actually_viewed": [
+        0,
+        11,
+        22
+      ],
+      "native_global_frames_actually_viewed": [
+        16879,
+        16890,
+        16901
+      ],
+      "proofs": [
+        {
+          "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/nonpaper-v14-2002/ab17-ring-tray-layout-join/native-01.jpg",
+          "sha256": "20ca05f03f5f06849d31b7a32186034e783261626f45b3ccaede7a6124a20ba2"
+        },
+        {
+          "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/nonpaper-v14-2002/ab17-ring-tray-layout-join/native-02.jpg",
+          "sha256": "a3e86055c75d05d0c74beefb34452393ca5162b476d5ea367bf760a7edf6e58e"
+        },
+        {
+          "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/nonpaper-v14-2002/ab17-ring-tray-layout-join/native-03.jpg",
+          "sha256": "e29b830069a45471c134014e043b321c6529084c0d3091b2044bb2e45c92be47"
+        },
+        {
+          "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/nonpaper-v14-2002/ab17-ring-tray-layout-join/native-04.jpg",
+          "sha256": "d29333001489ab687ed6dec2b4b962c054b990722fff725186c84a58c33571ff"
+        },
+        {
+          "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/nonpaper-v14-2002/ab17-ring-tray-layout-join/native-05.jpg",
+          "sha256": "d29333001489ab687ed6dec2b4b962c054b990722fff725186c84a58c33571ff"
+        },
+        {
+          "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/nonpaper-v14-2002/ab17-ring-tray-layout-join/sheet-01.jpg",
+          "sha256": "2b4aaa8a249dbe27b7e6889eccda5024fe41c23ebd35961d9ad6f2d0c5b9d704"
+        }
+      ]
+    },
+    {
+      "tag": "ab18-ring-hesitation",
+      "range": [
+        17262,
+        17371
+      ],
+      "frames": 109,
+      "status": "SCOPED_VISUAL_PASS",
+      "finding": "Hand approaches tray/ring, pauses without pickup, retreats; ring stays on tray; intentional incoming cut.",
+      "video_sha256": "54a0d8975604db6d4a3af1427039dd20e68446f4dff894d7f9eb237f8e66d608",
+      "complete_sha256": "934f8ed6b6cf7646277a3ba7431c3810dadc17fdcc89d07e9734b9e3d1aed7bf",
+      "video": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/runtime/full-v5/outputs/v14-ab18-ring-hesitation/final-aac.mp4",
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "width": 1920,
+            "height": 1080,
+            "r_frame_rate": "60/1",
+            "nb_read_frames": "109"
+          }
+        ]
+      },
+      "all_decoded_frames_contact_sheet_viewed": true,
+      "native_local_frames_actually_viewed": [
+        0,
+        27,
+        54,
+        81,
+        108
+      ],
+      "native_global_frames_actually_viewed": [
+        17262,
+        17289,
+        17316,
+        17343,
+        17370
+      ],
+      "proofs": [
+        {
+          "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/nonpaper-v14-2002/ab18-ring-hesitation/native-01.jpg",
+          "sha256": "238be77f4288c09b24c5db9d5be23fccb30fc92df681c1417189f34f5100ee83"
+        },
+        {
+          "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/nonpaper-v14-2002/ab18-ring-hesitation/native-02.jpg",
+          "sha256": "54cdb6bd261705b5eb063d51b7f57fd93daf67fd943ef47ba12b816a4f2ea973"
+        },
+        {
+          "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/nonpaper-v14-2002/ab18-ring-hesitation/native-03.jpg",
+          "sha256": "374066e1955a1793be7a05cf1331523b820e8ee93c4ac241b4d5713c1ab01f7b"
+        },
+        {
+          "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/nonpaper-v14-2002/ab18-ring-hesitation/native-04.jpg",
+          "sha256": "121d6c369d15f17966d581049bc164ae0c70142a24acbf510cfbae1279cc1efe"
+        },
+        {
+          "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/nonpaper-v14-2002/ab18-ring-hesitation/native-05.jpg",
+          "sha256": "96025b17c28176ae58a81eac8a2cde3a13f37661d3e3c7fe931f87b5a88d7025"
+        },
+        {
+          "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/nonpaper-v14-2002/ab18-ring-hesitation/sheet-01.jpg",
+          "sha256": "892ee38d11271adced7256e130b8a5bc33a9474a1b4529d160af390f528edcbf"
+        },
+        {
+          "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/nonpaper-v14-2002/ab18-ring-hesitation/sheet-02.jpg",
+          "sha256": "adff9f833267280e16606020e42f80d5e2b644f5c2d0e10e400fa8694a0957a8"
+        },
+        {
+          "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/nonpaper-v14-2002/ab18-ring-hesitation/sheet-03.jpg",
+          "sha256": "3b8e9aeac157d6d628a221a5fe733cf1e73d2466872caf234599990f2c8cbf75"
+        },
+        {
+          "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/nonpaper-v14-2002/ab18-ring-hesitation/sheet-04.jpg",
+          "sha256": "67de153dcd22c015bc93b2342de3fd30c0b18821a9cee2e6c6909b4a2d6c77ee"
+        },
+        {
+          "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/nonpaper-v14-2002/ab18-ring-hesitation/sheet-05.jpg",
+          "sha256": "73cf2c016d426fc20c9add955bc938e73ea86cf430de9021acd3d88309f7b0f0"
+        }
+      ]
+    }
+  ]
+}

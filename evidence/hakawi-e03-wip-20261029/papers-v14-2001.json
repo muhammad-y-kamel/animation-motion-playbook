@@ -1,0 +1,957 @@
+{
+  "reviewer": "/root/review_episode_three_papers",
+  "scope": "Ten finite closed v14 encoded AB paper windows; not full-film approval",
+  "method": "Actually viewed every decoded frame in 320x180 6x4 contact sheets, and all listed native1920x1080 phase/layout/contact frames. No listening/audio QA or remote actions. Numbers alone not visual acceptance.",
+  "frame_total_with_overlap": 1170,
+  "windows": [
+    {
+      "tag": "ab01-booklet-open",
+      "first": 2945,
+      "end": 3022,
+      "group": "AB",
+      "directory": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/runtime/full-v5/outputs/v14-ab01-booklet-open",
+      "receipt": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/runtime/full-v5/outputs/v14-ab01-booklet-open/COMPLETE.json",
+      "encoded_sha256": "c449ed8db52b80ebf7e0590103a70266cb519b8f7fa4046232ca84de1df36ba4",
+      "complete_sha256": "88df8370534aae98ff95030307fba67a24c9e25b74974fda46fcfc852f947521",
+      "status": "HOLD",
+      "observation": "Booklet cover opens continuously with fingers over cover and paper stable on table. But upper-arm rounded cap fully inside frame, visibly detached; native local7/global2952 and24/global2969. Sleeve must bleed beyond left frame.",
+      "all_local_frames_viewed": [
+        0,
+        77
+      ],
+      "native_local_global": [
+        {
+          "local": 0,
+          "global": 2945
+        },
+        {
+          "local": 7,
+          "global": 2952
+        },
+        {
+          "local": 24,
+          "global": 2969
+        },
+        {
+          "local": 36,
+          "global": 2981
+        },
+        {
+          "local": 48,
+          "global": 2993
+        },
+        {
+          "local": 60,
+          "global": 3005
+        },
+        {
+          "local": 76,
+          "global": 3021
+        }
+      ],
+      "proofs": [
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab01-booklet-open/native-000.jpg",
+          "sha256": "0a85a14c1ed150026b2fee13f8ec597d1a98ea576b906b580739bafe1c27715a"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab01-booklet-open/native-007.jpg",
+          "sha256": "f8c60214186d819d937166d49123e12759fbb17adf9ac5bf2b709a1c44225e99"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab01-booklet-open/native-024.jpg",
+          "sha256": "898cb87906a845e19ddf5861442cb751408be134e18f9677c40b2ab706b85f72"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab01-booklet-open/native-036.jpg",
+          "sha256": "4e6ff93b8589449bc57265ec93744aa8506fb0d7b9eebcda37c3e99af443f22d"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab01-booklet-open/native-048.jpg",
+          "sha256": "40616d59656257e8100b37d4c1a2bd54a4b08898be7bf0ab81ca801b1d631b8f"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab01-booklet-open/native-060.jpg",
+          "sha256": "c60f93b114aab53e7eae237848aa67617504c7d8ca2425868d3863f54ec6aba1"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab01-booklet-open/native-076.jpg",
+          "sha256": "0fc1433eafc49032f53cc25f2dfa26a268d3d2ebe37155fe3947c6167ec05f9e"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab01-booklet-open/sheet-01.jpg",
+          "sha256": "9a8205e780ef9de5c6a8f4566c12ffa7cfe5aded4754ad97e6cdfb4382990c55"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab01-booklet-open/sheet-02.jpg",
+          "sha256": "d386cbf49e43927a8ce39f10c5ef041f4311eb94f5a5c5d1d0b62d9c2a2d4878"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab01-booklet-open/sheet-03.jpg",
+          "sha256": "05f7b85cab6e445dedec37d05ffaed970e84e9db8d1fe0833f19f74cdfe5ffb1"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab01-booklet-open/sheet-04.jpg",
+          "sha256": "f54634cf4528a0e028968b48336df907a35d93d50add7119e3df1e706ebaeff3"
+        }
+      ]
+    },
+    {
+      "tag": "ab02-signature-heba-1",
+      "first": 3353,
+      "end": 3496,
+      "group": "AB",
+      "directory": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/runtime/full-v5/outputs/v14-ab02-signature-heba-1",
+      "receipt": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/runtime/full-v5/outputs/v14-ab02-signature-heba-1/COMPLETE.json",
+      "encoded_sha256": "95fe654d254724ffca43e92e9e8d02947d6375d4949cb6f2aa1daaa973879054",
+      "complete_sha256": "e19b5183d845b5be170c3a5b81530f82fd8a5f2edc7d3a1e3718386f3e808ae9",
+      "status": "HOLD",
+      "observation": "Nib tracks growing ink, then lifts; seated support and editorial cut coherent. Late lift reveals hard vertical sleeve asset edge inside picture: local120/global3473 x23, local142/global3495 x83. Extend sleeve/crop beyond frame.",
+      "all_local_frames_viewed": [
+        0,
+        143
+      ],
+      "native_local_global": [
+        {
+          "local": 0,
+          "global": 3353
+        },
+        {
+          "local": 7,
+          "global": 3360
+        },
+        {
+          "local": 30,
+          "global": 3383
+        },
+        {
+          "local": 60,
+          "global": 3413
+        },
+        {
+          "local": 100,
+          "global": 3453
+        },
+        {
+          "local": 120,
+          "global": 3473
+        },
+        {
+          "local": 142,
+          "global": 3495
+        }
+      ],
+      "proofs": [
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab02-signature-heba-1/native-000.jpg",
+          "sha256": "0e307e02dfe18cfbe52ce67035592bc0c5ef8303441fbc2f401334dfc4086746"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab02-signature-heba-1/native-007.jpg",
+          "sha256": "39dd035c39a8894b208f0a813ad772285fbad4c2821f12a01928002c61a630c3"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab02-signature-heba-1/native-030.jpg",
+          "sha256": "9cd5f2d2e36c0a7cb833144782519916305a8f86093a7bb3a26e8b6ed950b926"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab02-signature-heba-1/native-060.jpg",
+          "sha256": "94c07a5b9d467bf42f71c4cfd7d1cc3571bbdf3db039d143bc70e43b281ed840"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab02-signature-heba-1/native-100.jpg",
+          "sha256": "7500d789741de72857a2b13f5429cd448e9914ed517c2d7eea71f8afd050a541"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab02-signature-heba-1/native-120.jpg",
+          "sha256": "3f24d5409fca61b2526557d06f076fad147f012989a896944b923b23ad37fc96"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab02-signature-heba-1/native-142.jpg",
+          "sha256": "09bf763efea66cbe442075c610e8d3658e3426eb698bd900b1b665b576035d00"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab02-signature-heba-1/sheet-01.jpg",
+          "sha256": "f64ce8810adc8aacb18f3fd1b8d7d361306c67cbbe8630ab2b3fa5f346cc52c5"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab02-signature-heba-1/sheet-02.jpg",
+          "sha256": "df5d2500ef862b0f5b2b72a08a7f4e28adc3e9d0f752e5fff8a698bfd65cb099"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab02-signature-heba-1/sheet-03.jpg",
+          "sha256": "f9576337dbe5d8e62bb2daa24a73aef36d5c4e450b712ef4ce34003c377e888f"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab02-signature-heba-1/sheet-04.jpg",
+          "sha256": "9d6cf3057af610ff32ba3c1392007ccad735343d857938a9b361cf4da7e870f9"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab02-signature-heba-1/sheet-05.jpg",
+          "sha256": "1c21afd85b18fa8bae46105e6228271695fe08c0a7d1c7aa72dc55a9af86d58b"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab02-signature-heba-1/sheet-06.jpg",
+          "sha256": "da0b6855618967c9abef9ba3807bfb556d85a623dd361c3c9f72d54c677e4907"
+        }
+      ]
+    },
+    {
+      "tag": "ab02-signature-heba-2",
+      "first": 3730,
+      "end": 3842,
+      "group": "AB",
+      "directory": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/runtime/full-v5/outputs/v14-ab02-signature-heba-2",
+      "receipt": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/runtime/full-v5/outputs/v14-ab02-signature-heba-2/COMPLETE.json",
+      "encoded_sha256": "5023cba2f225b588030267aa0ff0d40ac555ceb2a7854fcef2f2778deb90f5f1",
+      "complete_sha256": "9a61bf12e3decbcb1cdddf305558c850298f404087f2f7fda2c6941b74ce381f",
+      "status": "PASS_SCOPED",
+      "observation": "Seated wide to writing cut intentional; pen/nib tracks growing ink; stable paper support; subsequent feet closeup intentional cut. No donor crop in this finite window.",
+      "all_local_frames_viewed": [
+        0,
+        112
+      ],
+      "native_local_global": [
+        {
+          "local": 0,
+          "global": 3730
+        },
+        {
+          "local": 7,
+          "global": 3737
+        },
+        {
+          "local": 30,
+          "global": 3760
+        },
+        {
+          "local": 60,
+          "global": 3790
+        },
+        {
+          "local": 100,
+          "global": 3830
+        },
+        {
+          "local": 105,
+          "global": 3835
+        },
+        {
+          "local": 111,
+          "global": 3841
+        }
+      ],
+      "proofs": [
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab02-signature-heba-2/native-000.jpg",
+          "sha256": "10e783161904509f1de7fb93a823fd6930ea2e8f32e3c54e720a34c23ba90cc9"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab02-signature-heba-2/native-007.jpg",
+          "sha256": "7b51e9a4b63dd82a2aa5cdcfc494ceeced59143aad96770cf58e5f335d21a601"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab02-signature-heba-2/native-030.jpg",
+          "sha256": "56e09db7560d508477810bf77c01cdbeebea3998b57a444e2d5fcc59fb350b4c"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab02-signature-heba-2/native-060.jpg",
+          "sha256": "58df7c70003eb03e5a059abff02a616b64fcd2f4fbf5d3235d4bf90900cb7337"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab02-signature-heba-2/native-100.jpg",
+          "sha256": "00d5d91125514dd2799e59c593aca4a6bea0561345c26905759b1e8da768ae4b"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab02-signature-heba-2/native-105.jpg",
+          "sha256": "220731c0154490f7bea86f3829902dd095a3c79bf6da02e7ce11d5147f2a7f5c"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab02-signature-heba-2/native-111.jpg",
+          "sha256": "9f8f00a2202b406a60be2941630aa7e0936571492b8c3c9ea8f7bf7f9a5e91de"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab02-signature-heba-2/sheet-01.jpg",
+          "sha256": "510d2874f744403d6565117954a7e9f8074601a126fcb6e95e14a8fd09641e8c"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab02-signature-heba-2/sheet-02.jpg",
+          "sha256": "c01880631eebdad9e49e4e760b5fd41ac211a7604634a2ae28d89277215cdfc4"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab02-signature-heba-2/sheet-03.jpg",
+          "sha256": "62070a9e2133ff4b073356e83b9d7bf10d7317d1bb10c37ea4cb5bce4b03ad63"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab02-signature-heba-2/sheet-04.jpg",
+          "sha256": "906e98f3c1e7fe82750e79d998c61c9def360adea84ed8ba9217159adcbbaa55"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab02-signature-heba-2/sheet-05.jpg",
+          "sha256": "458897be470f6748c7e0b194966c3ad0aa1e969adb0de9d0039769a3a9a83e12"
+        }
+      ]
+    },
+    {
+      "tag": "ab03-authority",
+      "first": 4661,
+      "end": 4827,
+      "group": "AB",
+      "directory": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/runtime/full-v5/outputs/v14-ab03-authority",
+      "receipt": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/runtime/full-v5/outputs/v14-ab03-authority/COMPLETE.json",
+      "encoded_sha256": "992210c9dae87ca1184dc40fca389d5ab938896f0270df930268176d384604b0",
+      "complete_sha256": "09d5fd7d71c6eb53101be605a315e2f8a584e13ab7bed35914733004a425c2fd",
+      "status": "PASS_SCOPED",
+      "observation": "Continuous Heba approach, shared document contact, release and Sameh withdrawal/hold. No paper teleport. Shoulders/wrists connected and old squared armpit connector not visible. Ends intentional table cut at4819.",
+      "all_local_frames_viewed": [
+        0,
+        166
+      ],
+      "native_local_global": [
+        {
+          "local": 0,
+          "global": 4661
+        },
+        {
+          "local": 35,
+          "global": 4696
+        },
+        {
+          "local": 60,
+          "global": 4721
+        },
+        {
+          "local": 85,
+          "global": 4746
+        },
+        {
+          "local": 118,
+          "global": 4779
+        },
+        {
+          "local": 157,
+          "global": 4818
+        },
+        {
+          "local": 158,
+          "global": 4819
+        },
+        {
+          "local": 165,
+          "global": 4826
+        }
+      ],
+      "proofs": [
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab03-authority/native-000.jpg",
+          "sha256": "4e3bd3ad439ebdf0b58678121bf6db90db4f272493fbd96468e7de7d871399a7"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab03-authority/native-035.jpg",
+          "sha256": "8542c218ea9278dd193c9735232844c2e11bb1b1358578e7ae9ce9e5f4e40fbe"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab03-authority/native-060.jpg",
+          "sha256": "88139fcefd5c94aef17cb11ab4c834f0ef576a02ef538b065b5f9e8a42fa0f6b"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab03-authority/native-085.jpg",
+          "sha256": "35f641e6e473866714633bc147f3eac7105080bf9397a5e3c6b40e6a1268785d"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab03-authority/native-118.jpg",
+          "sha256": "1d6d8f5f5be85462040baff48204370f1a755f8226c227d70c1e820d5052d5fa"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab03-authority/native-157.jpg",
+          "sha256": "29b4a48c8733908ebe482a4be1aac4722d2a1e51e37f49891daa86074ae0e387"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab03-authority/native-158.jpg",
+          "sha256": "a7b86959f1c5131f904fc6a37796e0f6da6fe130d1402e28f2c2e9bd473ad7fa"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab03-authority/native-165.jpg",
+          "sha256": "b0db1575217addc4c8c275bcc901cc9bd5e5fc828b44faf18b401f90f0bc6e6c"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab03-authority/sheet-01.jpg",
+          "sha256": "00c7f4ec270d68b3044474abdc17c67cfa32de519577d48dc2c26df3ed0d0228"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab03-authority/sheet-02.jpg",
+          "sha256": "069be1ceff424a5a56e8f171b33d8529a896c925c10a5f20083eef599d08f2a1"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab03-authority/sheet-03.jpg",
+          "sha256": "2ec8e5a8bc0245acc89855032cd463e112458f770e601650695a9bb9ad251520"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab03-authority/sheet-04.jpg",
+          "sha256": "f5ce4f3a0f5dc3b0ac1005febba19e389f373da559955dddda02ca121bdbadf2"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab03-authority/sheet-05.jpg",
+          "sha256": "f46c26f9b16cf0ac756fcf1ee67aae54304a54d906095ab4ce57ed7d0d525434"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab03-authority/sheet-06.jpg",
+          "sha256": "a4811afb174172ecd6c1eee331e017272da4b0971243d9c70c05ae198f81ac19"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab03-authority/sheet-07.jpg",
+          "sha256": "a94e6a375d174e9b274f67de06f82a95e1ac6496aab4f91c0d22cffd1cd96aaa"
+        }
+      ]
+    },
+    {
+      "tag": "ab04-postal-1",
+      "first": 4812,
+      "end": 4922,
+      "group": "AB",
+      "directory": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/runtime/full-v5/outputs/v14-ab04-postal-1",
+      "receipt": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/runtime/full-v5/outputs/v14-ab04-postal-1/COMPLETE.json",
+      "encoded_sha256": "94dfe9722b88c8e578b05628cbf8e60447333faa1eb4e32fd5e4a2ab7f9c69c6",
+      "complete_sha256": "235868d69eff1861efa24f79f95dcfa747a01c49b9f7602ca8a8b5b2a6b4aac5",
+      "status": "HOLD",
+      "observation": "Continuous paper carry/placement/release and stable table support; native68/global4880 reveals entire rounded upper-arm cap inside right boundary with table margin: detached donor. Extend beyond frame.",
+      "all_local_frames_viewed": [
+        0,
+        110
+      ],
+      "native_local_global": [
+        {
+          "local": 0,
+          "global": 4812
+        },
+        {
+          "local": 7,
+          "global": 4819
+        },
+        {
+          "local": 40,
+          "global": 4852
+        },
+        {
+          "local": 68,
+          "global": 4880
+        },
+        {
+          "local": 78,
+          "global": 4890
+        },
+        {
+          "local": 109,
+          "global": 4921
+        }
+      ],
+      "proofs": [
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab04-postal-1/native-000.jpg",
+          "sha256": "de5da02165f0e046057e75297154ee7d239b2a93535b9d81436231518e37202e"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab04-postal-1/native-007.jpg",
+          "sha256": "5615409bdd3a2d81d3d3baf31690bc66c5d434ec423b9ae591be65393a2be1e5"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab04-postal-1/native-040.jpg",
+          "sha256": "6f3f475cd9a4a0e48f9d4be5f92193a96756e0687103b4dfbb99126eb15c3557"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab04-postal-1/native-068.jpg",
+          "sha256": "509d6b545b9235d495506855e14befa540a39644576805bb500b4e837d4769fb"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab04-postal-1/native-078.jpg",
+          "sha256": "fd2aa675e2a61f61054041be945e06d578820e49bb37753ecedd7bd8e7073043"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab04-postal-1/native-109.jpg",
+          "sha256": "a1ca2740babbf10a6159d9886b758529bdba1b759b0b88c2736c820124c3e0b7"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab04-postal-1/sheet-01.jpg",
+          "sha256": "a7812c801f94b39ffcea3d0ce765bd726dab74096e06ab8bdc527f85cd49a093"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab04-postal-1/sheet-02.jpg",
+          "sha256": "f99d8c2890ac8493ef20b81b0600a3424ac4685655fe2aaf1f8949e1aa6fd06f"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab04-postal-1/sheet-03.jpg",
+          "sha256": "f095d62d6eb885060c9ef2393a886109ed84da4a76f3d13503338880c0ca2fda"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab04-postal-1/sheet-04.jpg",
+          "sha256": "a1f3dfddcc2d946c308c6c27bc25c1a4f4c6fb6bb1fa0b69b83e585692af3fcf"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab04-postal-1/sheet-05.jpg",
+          "sha256": "58209ce3d650e538a32d935c8fe1f368dd1d2d1c7e9aa41638085e5e8c024322"
+        }
+      ]
+    },
+    {
+      "tag": "ab04-postal-2",
+      "first": 4999,
+      "end": 5109,
+      "group": "AB",
+      "directory": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/runtime/full-v5/outputs/v14-ab04-postal-2",
+      "receipt": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/runtime/full-v5/outputs/v14-ab04-postal-2/COMPLETE.json",
+      "encoded_sha256": "0abd559f8de8cc349000c3f7540036c4a56fab02a2f0dc8d514435c46b2caf74",
+      "complete_sha256": "dafdea7d9ab9804cd4d48f49795970b01c104b4becc3c32ead0bfc19a1bbad07",
+      "status": "HOLD",
+      "observation": "Same-layout hand teleport local6\u21927/global5005\u21925006. Existing receipt and table unchanged; no motivated cut. Carry/placement/release after reset coherent.",
+      "all_local_frames_viewed": [
+        0,
+        110
+      ],
+      "native_local_global": [
+        {
+          "local": 6,
+          "global": 5005
+        },
+        {
+          "local": 7,
+          "global": 5006
+        },
+        {
+          "local": 40,
+          "global": 5039
+        },
+        {
+          "local": 68,
+          "global": 5067
+        },
+        {
+          "local": 78,
+          "global": 5077
+        },
+        {
+          "local": 109,
+          "global": 5108
+        }
+      ],
+      "proofs": [
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab04-postal-2/native-006.jpg",
+          "sha256": "b4b8022d9cbe35e60a91c2dfa9c29b8e7af5ef5e34a8932ed9b0de440d1b0037"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab04-postal-2/native-007.jpg",
+          "sha256": "772ea81065b814aedc04017cefaf7ef614f1e0fed1c87c26b587347ae97d4ef0"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab04-postal-2/native-040.jpg",
+          "sha256": "6df96a0a3e980941ddf8cbc7c615067063436dde3614780e35b7c7beac6d094b"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab04-postal-2/native-068.jpg",
+          "sha256": "5ca983e412506b73e51cad8998bb5262ea4ca998dc4762d0197f2016980629e2"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab04-postal-2/native-078.jpg",
+          "sha256": "ce16a2084c2cc269a115a76c6abdce36c33a58fe433ef4194e5b64d635cffcaa"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab04-postal-2/native-109.jpg",
+          "sha256": "7ef68f9d74d87501bf8408b21ac78792a12ca0eb6330019b023a43140297b163"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab04-postal-2/sheet-01.jpg",
+          "sha256": "8d15522ab9f795f51b22fc65ead8670cccbcff2670a2ccaf3bc9bdf010356f27"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab04-postal-2/sheet-02.jpg",
+          "sha256": "5b993ee3aeda189d63c5f8e91b5db235bd67e5e36b1499b3acfe0be36823e305"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab04-postal-2/sheet-03.jpg",
+          "sha256": "fd685be5d8ea26145e502c26e70738752a33b8093dd6d8f2383e17f2c83071ed"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab04-postal-2/sheet-04.jpg",
+          "sha256": "6d939218ff77592d992fdb879a54a30c693c33ac9e5ef4d16efb8863a228868e"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab04-postal-2/sheet-05.jpg",
+          "sha256": "ccb1fec9877774bdf0ad89826c2d909b44e8d1dba00f9e4be06837e76ecc9bbe"
+        }
+      ]
+    },
+    {
+      "tag": "ab04-postal-3",
+      "first": 5201,
+      "end": 5311,
+      "group": "AB",
+      "directory": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/runtime/full-v5/outputs/v14-ab04-postal-3",
+      "receipt": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/runtime/full-v5/outputs/v14-ab04-postal-3/COMPLETE.json",
+      "encoded_sha256": "a1899cf26f99e067812dd4c5bfc5706227bdfa94ffb2e5405cba2c738bcd655f",
+      "complete_sha256": "c57cd1c16a4878b1e04ddf4c1e7b5f7dcaa0af8f47a4405e2f03896dd649603f",
+      "status": "HOLD",
+      "observation": "Same-layout hand teleport local6\u21927/global5207\u21925208. Existing receipts and table unchanged. Carry/placement/release after reset coherent.",
+      "all_local_frames_viewed": [
+        0,
+        110
+      ],
+      "native_local_global": [
+        {
+          "local": 6,
+          "global": 5207
+        },
+        {
+          "local": 7,
+          "global": 5208
+        },
+        {
+          "local": 40,
+          "global": 5241
+        },
+        {
+          "local": 68,
+          "global": 5269
+        },
+        {
+          "local": 78,
+          "global": 5279
+        },
+        {
+          "local": 109,
+          "global": 5310
+        }
+      ],
+      "proofs": [
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab04-postal-3/native-006.jpg",
+          "sha256": "94255f5509746c253478637d41ce2961542a9f7a7851de860400322d08769a14"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab04-postal-3/native-007.jpg",
+          "sha256": "1cbdc51c6c35a1cee94feab127b2381b277820f218e78a08776fac50fc00b393"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab04-postal-3/native-040.jpg",
+          "sha256": "9a71802d6d5157a743c4a289833b856d1b2f1d846a78153be747b040952e0603"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab04-postal-3/native-068.jpg",
+          "sha256": "209e20e4accd96e91e7ce47dfcd03cf537ddbee64db9e68941c31d2b82ab13fa"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab04-postal-3/native-078.jpg",
+          "sha256": "822adca5e053295aba9d70df51b6f8f7956ef7727368dbc3779e0b77795e28d9"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab04-postal-3/native-109.jpg",
+          "sha256": "517afdf58114f0123211e541725bc1f2d7a2df049f4e452bb8e1292b5c9cd6c9"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab04-postal-3/sheet-01.jpg",
+          "sha256": "e3fa7b0a862a88c77d54ec6d9f7a339896a715d7ef8bf87dee311d7d6948b71c"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab04-postal-3/sheet-02.jpg",
+          "sha256": "6c01df982d76cc5f97c60df641caef6a4519e68974d7ad52b2a046a92c69c2b3"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab04-postal-3/sheet-03.jpg",
+          "sha256": "82e4b89d6bb5a59de0b50c1703b4d85aa3ecc93ae7de205773f97cb1bbde7600"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab04-postal-3/sheet-04.jpg",
+          "sha256": "f116b7f674555d8e6a9d46f6c2889045f0070911b56ae5706c1c53afbe3f7139"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab04-postal-3/sheet-05.jpg",
+          "sha256": "fc09add0ee6dcfc0c8370413d932427d6bdb392ebe27d0857fdef4721cd64d74"
+        }
+      ]
+    },
+    {
+      "tag": "ab04-postal-4",
+      "first": 5412,
+      "end": 5522,
+      "group": "AB",
+      "directory": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/runtime/full-v5/outputs/v14-ab04-postal-4",
+      "receipt": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/runtime/full-v5/outputs/v14-ab04-postal-4/COMPLETE.json",
+      "encoded_sha256": "bcc8eaac1c149d09258345f534312469772e0d13cddab33120a581ec98fb2481",
+      "complete_sha256": "a6d108565d4d52e686e56ff1a3acb39ba71c5df7296f0b3ef478cdcebf84e65d",
+      "status": "HOLD",
+      "observation": "Same-layout hand teleport local6\u21927/global5418\u21925419. Existing receipts and table unchanged. Carry/placement/release after reset coherent.",
+      "all_local_frames_viewed": [
+        0,
+        110
+      ],
+      "native_local_global": [
+        {
+          "local": 6,
+          "global": 5418
+        },
+        {
+          "local": 7,
+          "global": 5419
+        },
+        {
+          "local": 40,
+          "global": 5452
+        },
+        {
+          "local": 68,
+          "global": 5480
+        },
+        {
+          "local": 78,
+          "global": 5490
+        },
+        {
+          "local": 109,
+          "global": 5521
+        }
+      ],
+      "proofs": [
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab04-postal-4/native-006.jpg",
+          "sha256": "a0820e08ff3605f4ee7fa204615acb37d9cce11ea91c223a6a8e0b2db9434260"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab04-postal-4/native-007.jpg",
+          "sha256": "59c6054e26238be4dcbc7b6c84f58039b8654d48e9fcbb8c1a5ebfe6ad736953"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab04-postal-4/native-040.jpg",
+          "sha256": "1bd6e4880032575adf1e0b917b72b8f256dc3e138cd62bf3e8fc6b84ae5f7474"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab04-postal-4/native-068.jpg",
+          "sha256": "fba8257bbd3fd14fd241c9aed5f975165e01e48b607bbb2f62416e717392c7d8"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab04-postal-4/native-078.jpg",
+          "sha256": "f8a039697e83748571e463f203ebc9720ab51d3f5f97c86d1c324291fea2bb8e"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab04-postal-4/native-109.jpg",
+          "sha256": "c15e143d07770affd8e3cca13e5d0f2ec238e54e9ca64e6bb7e305681dee3968"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab04-postal-4/sheet-01.jpg",
+          "sha256": "dc8ae7766ed6e326177a79edf7c79c136e2af70b1130d4012953714b2fc47942"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab04-postal-4/sheet-02.jpg",
+          "sha256": "6fb3e80636a97dfffeb6ed380e6498295ead6542f8c7bade8dad548882991655"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab04-postal-4/sheet-03.jpg",
+          "sha256": "f3e02f3c3abb4ee64cf556333a95dcefcaf91862b26720be9eba0649fb50bb83"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab04-postal-4/sheet-04.jpg",
+          "sha256": "7708a2bc4b340403e45eaad4e4df6de94b51ccb9b13dbc036206976c5d0bbc24"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab04-postal-4/sheet-05.jpg",
+          "sha256": "0b3d6fcdb81c990a0900f3a1d8c6e891d61d825a02a8f9ba4ba1c81ca432f7a7"
+        }
+      ]
+    },
+    {
+      "tag": "ab05-salary-pickup",
+      "first": 9225,
+      "end": 9311,
+      "group": "AB",
+      "directory": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/runtime/full-v5/outputs/v14-ab05-salary-pickup",
+      "receipt": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/runtime/full-v5/outputs/v14-ab05-salary-pickup/COMPLETE.json",
+      "encoded_sha256": "22a01dbfed23a85520c9aa38c11360c0c8054d956038f09dab6df215be4fba85",
+      "complete_sha256": "1a9ba7d99b64771595f8ff9070dce6fe80d4fa146fbac4d8f445b0d0aafc83e9",
+      "status": "HOLD",
+      "observation": "Wide hand lowers behind tabletop rather than visibly contacting certificate. Certificate remains flat/unmoved through9291;9292 cuts to already-held certificate, pickup not established. Native9260/9275/9285/9291. Closeup9292\u20139310 sleeve ends at x1786 with134px clear right margin, disconnected donor. Grip inside closeup good.",
+      "all_local_frames_viewed": [
+        0,
+        86
+      ],
+      "native_local_global": [
+        {
+          "local": 0,
+          "global": 9225
+        },
+        {
+          "local": 7,
+          "global": 9232
+        },
+        {
+          "local": 35,
+          "global": 9260
+        },
+        {
+          "local": 50,
+          "global": 9275
+        },
+        {
+          "local": 60,
+          "global": 9285
+        },
+        {
+          "local": 66,
+          "global": 9291
+        },
+        {
+          "local": 67,
+          "global": 9292
+        },
+        {
+          "local": 85,
+          "global": 9310
+        }
+      ],
+      "proofs": [
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab05-salary-pickup/native-000.jpg",
+          "sha256": "57bd67d31ff0eb34ab93597e559409d91a170a0684d35ec7330135eed090f11b"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab05-salary-pickup/native-007.jpg",
+          "sha256": "242891b821f5ff341a13ac60789093a9bf0b352809c7d1ea414d2f6d68e4f53b"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab05-salary-pickup/native-035.jpg",
+          "sha256": "4185e6dc90efc6073bde05848a79fb4bd944e391d314cfd9fd7c1718dd29a810"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab05-salary-pickup/native-050.jpg",
+          "sha256": "7791fe9a6cd05679a3b760711c55de8958d65f86f27dd7b6e262c6ade8edcf1c"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab05-salary-pickup/native-060.jpg",
+          "sha256": "8d4a4a62029d2ebf810bada4e7f6ec59e27e41143f0c3a2956a1145f049811fb"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab05-salary-pickup/native-066.jpg",
+          "sha256": "d8b88422c56fc77e5be5f7aa36bbd202c1df69a14cb9d579091809398eefa96e"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab05-salary-pickup/native-067.jpg",
+          "sha256": "932de38bdb24a62ab33795f05692f6d5b1bc7d90b2fd00344e7b0e0bc8041d69"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab05-salary-pickup/native-085.jpg",
+          "sha256": "966fcea4bc520c21d92bb959afdc9fd53edae73065dac293299a29423c7927f8"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab05-salary-pickup/sheet-01.jpg",
+          "sha256": "6cfe3edb006167dcf21ebb704bcc1a0bd5cb5594230dbad3e10de1f2909e75f8"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab05-salary-pickup/sheet-02.jpg",
+          "sha256": "8dcf10962c94c84ced9e83afb8a4e1c2161e043c43bc0519172d5bbc25ca3630"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab05-salary-pickup/sheet-03.jpg",
+          "sha256": "82d72d847b6ad3732e0739b2cf4a508167d0d68b13a539d1ba93dbe4b068875d"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab05-salary-pickup/sheet-04.jpg",
+          "sha256": "a0a27285b98ccf5538823f063aba99cdc00b1be41e4ecf27a97296bed4ae769c"
+        }
+      ]
+    },
+    {
+      "tag": "ab06-assignment-signature",
+      "first": 9587,
+      "end": 9733,
+      "group": "AB",
+      "directory": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/runtime/full-v5/outputs/v14-ab06-assignment-signature",
+      "receipt": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/runtime/full-v5/outputs/v14-ab06-assignment-signature/COMPLETE.json",
+      "encoded_sha256": "7db091b5c3cf9d40ec12e91ebb737cda24265505042d6dc2bea72bbbaa19ac62",
+      "complete_sha256": "df9865cb11b05ec7912b549c1171641b213ab367231d4cf56fdb9df66e97a659",
+      "status": "PASS_SCOPED",
+      "observation": "Pen contacts ink endpoint throughout signature development, stable supported paper, clear lift and withdrawal; connected sleeve beyond right boundary, no jumping prop.",
+      "all_local_frames_viewed": [
+        0,
+        146
+      ],
+      "native_local_global": [
+        {
+          "local": 0,
+          "global": 9587
+        },
+        {
+          "local": 30,
+          "global": 9617
+        },
+        {
+          "local": 60,
+          "global": 9647
+        },
+        {
+          "local": 100,
+          "global": 9687
+        },
+        {
+          "local": 120,
+          "global": 9707
+        },
+        {
+          "local": 145,
+          "global": 9732
+        }
+      ],
+      "proofs": [
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab06-assignment-signature/native-000.jpg",
+          "sha256": "2a6de56be0fccfc6d14644fca6d2b2ea3e9d07600820442c8fccfd9e1df7d998"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab06-assignment-signature/native-030.jpg",
+          "sha256": "652714f59752ab6b7a66b990d31caaaa4473dee2056e3fb5725b0d2514a51607"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab06-assignment-signature/native-060.jpg",
+          "sha256": "061c6aeeee5090859d5795a72b1ebccef9b7c0b2803c7d8e1ad20d9feba34dd8"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab06-assignment-signature/native-100.jpg",
+          "sha256": "ecc4175f23a8e8fcf808ff936617e68eee7fbb47959cd5ff16650ebccec711e4"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab06-assignment-signature/native-120.jpg",
+          "sha256": "dbd8b2d476b484af49c722e4599168fa022ea22227a58077932d2b817207c758"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab06-assignment-signature/native-145.jpg",
+          "sha256": "8cec4c4326ec38d5673941d49b4d388079d8b414e5b5d98453245c97adf5416c"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab06-assignment-signature/sheet-01.jpg",
+          "sha256": "0786b50d6ded4bf34869119f5bf1f0d4288dd2367160472a671fbf67d72580d3"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab06-assignment-signature/sheet-02.jpg",
+          "sha256": "96526a00df3ba047cc174e4b1a24b6484d71cc09863f38c448d34031a1ddba65"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab06-assignment-signature/sheet-03.jpg",
+          "sha256": "8a6a3b71c4555f541871ddcde459e11af63f4b3622ebc38c678008ff4c5bdd92"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab06-assignment-signature/sheet-04.jpg",
+          "sha256": "7f75508e82cf826dd686ac9804e1a3018f1a9c18d8229a95821fa12d54f97d66"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab06-assignment-signature/sheet-05.jpg",
+          "sha256": "60ab3d9d76e191104353b72edaa13371d30b1aff84e7ebabebc3dea3406c0b6e"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab06-assignment-signature/sheet-06.jpg",
+          "sha256": "41dd88b1fe66c4a693e5bab5b7d32000072401aad06742324323147e0a24b4f0"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/ab06-assignment-signature/sheet-07.jpg",
+          "sha256": "19d798f60ad427f739f47d46350b5e94ded3bca22ce400baff78c75b7a1b6cc4"
+        }
+      ]
+    }
+  ],
+  "disk_free_bytes": 1110482944
+}

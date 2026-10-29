@@ -1,0 +1,98 @@
+{
+  "status": "SCOPED_VISUAL_HOLD_AB_CAPTION",
+  "reviewedAll15NativeFrames": true,
+  "inputs": [
+    {
+      "tag": "v14-boundary-ab",
+      "first": 7984,
+      "videoSHA256": "b03526120f69bf2a4b351b341469d0e4e9147637ee187fab9ed457fd6d77d80a",
+      "images": [
+        "hakawi_repair/e03-rebuild-20261029/qa/independent-review/lifecycle-v14-2005/v14-boundary-ab/01.jpg",
+        "hakawi_repair/e03-rebuild-20261029/qa/independent-review/lifecycle-v14-2005/v14-boundary-ab/02.jpg",
+        "hakawi_repair/e03-rebuild-20261029/qa/independent-review/lifecycle-v14-2005/v14-boundary-ab/03.jpg",
+        "hakawi_repair/e03-rebuild-20261029/qa/independent-review/lifecycle-v14-2005/v14-boundary-ab/04.jpg",
+        "hakawi_repair/e03-rebuild-20261029/qa/independent-review/lifecycle-v14-2005/v14-boundary-ab/05.jpg",
+        "hakawi_repair/e03-rebuild-20261029/qa/independent-review/lifecycle-v14-2005/v14-boundary-ab/06.jpg"
+      ],
+      "imageSHA256": {
+        "hakawi_repair/e03-rebuild-20261029/qa/independent-review/lifecycle-v14-2005/v14-boundary-ab/01.jpg": "e79858d1a919ce2f3261c76a2484b903e4011c7d58bbf3d4cae1e960e2af49a7",
+        "hakawi_repair/e03-rebuild-20261029/qa/independent-review/lifecycle-v14-2005/v14-boundary-ab/02.jpg": "21556f4835d8e890021b461865658780fa20a22f882b4022d6ddb38a6c95495f",
+        "hakawi_repair/e03-rebuild-20261029/qa/independent-review/lifecycle-v14-2005/v14-boundary-ab/03.jpg": "80f897488cd5efc15ad5cf2a9d37c06f1eaef424dc96174e393f3fa8a0b6cd64",
+        "hakawi_repair/e03-rebuild-20261029/qa/independent-review/lifecycle-v14-2005/v14-boundary-ab/04.jpg": "91bceeb5885a4d4a456e258ffd42f157643d94072caf177735695a43d95f49e2",
+        "hakawi_repair/e03-rebuild-20261029/qa/independent-review/lifecycle-v14-2005/v14-boundary-ab/05.jpg": "71c60c130ba575b17b0b3466286be80c400b2fb6ebb4571ea99e0c28b355be4d",
+        "hakawi_repair/e03-rebuild-20261029/qa/independent-review/lifecycle-v14-2005/v14-boundary-ab/06.jpg": "273400cbcf8e45d29cec786228d630caa8b7dfc45986940b410356221fe2a6ce"
+      }
+    },
+    {
+      "tag": "v14-boundary-cd",
+      "first": 24879,
+      "videoSHA256": "141d37fd6f2e941a04dd64232479a84861e883a77da24fd8a0b993fd4504b0d6",
+      "images": [
+        "hakawi_repair/e03-rebuild-20261029/qa/independent-review/lifecycle-v14-2005/v14-boundary-cd/01.jpg",
+        "hakawi_repair/e03-rebuild-20261029/qa/independent-review/lifecycle-v14-2005/v14-boundary-cd/02.jpg",
+        "hakawi_repair/e03-rebuild-20261029/qa/independent-review/lifecycle-v14-2005/v14-boundary-cd/03.jpg",
+        "hakawi_repair/e03-rebuild-20261029/qa/independent-review/lifecycle-v14-2005/v14-boundary-cd/04.jpg",
+        "hakawi_repair/e03-rebuild-20261029/qa/independent-review/lifecycle-v14-2005/v14-boundary-cd/05.jpg",
+        "hakawi_repair/e03-rebuild-20261029/qa/independent-review/lifecycle-v14-2005/v14-boundary-cd/06.jpg"
+      ],
+      "imageSHA256": {
+        "hakawi_repair/e03-rebuild-20261029/qa/independent-review/lifecycle-v14-2005/v14-boundary-cd/01.jpg": "eb19609e8894b039d022d18b41e205a3fd6551fdd9d264283ef4bfda2d789888",
+        "hakawi_repair/e03-rebuild-20261029/qa/independent-review/lifecycle-v14-2005/v14-boundary-cd/02.jpg": "1936b159579cb284f1fda8727b558a749ae7e7c59783653a4c4dc2b085026e5d",
+        "hakawi_repair/e03-rebuild-20261029/qa/independent-review/lifecycle-v14-2005/v14-boundary-cd/03.jpg": "0ae625a03b9b9cc5475205e873ebb0dd14061ee0fbdc7a39d5928ac9dc5d6659",
+        "hakawi_repair/e03-rebuild-20261029/qa/independent-review/lifecycle-v14-2005/v14-boundary-cd/04.jpg": "b21a8a58a717e148fb9f6af0da2a81d3b8c03a9bfc6bb9e8cd01c3209f4e2369",
+        "hakawi_repair/e03-rebuild-20261029/qa/independent-review/lifecycle-v14-2005/v14-boundary-cd/05.jpg": "9084aa8d50ba78407ebaff611575b9621bdc9f3b7f626dd8e4e521d194be44ee",
+        "hakawi_repair/e03-rebuild-20261029/qa/independent-review/lifecycle-v14-2005/v14-boundary-cd/06.jpg": "43e87f08537b9b76b3a14a07aee94f9e5c508950abd6390a812a01ae9d87698b"
+      }
+    },
+    {
+      "tag": "v14-real-tail",
+      "first": 27919,
+      "videoSHA256": "8c45e2bd7aaa0f04f1390911afba6381bd8000f3040ad28cbc95d820341014d8",
+      "images": [
+        "hakawi_repair/e03-rebuild-20261029/qa/independent-review/lifecycle-v14-2005/v14-real-tail/01.jpg",
+        "hakawi_repair/e03-rebuild-20261029/qa/independent-review/lifecycle-v14-2005/v14-real-tail/02.jpg",
+        "hakawi_repair/e03-rebuild-20261029/qa/independent-review/lifecycle-v14-2005/v14-real-tail/03.jpg"
+      ],
+      "imageSHA256": {
+        "hakawi_repair/e03-rebuild-20261029/qa/independent-review/lifecycle-v14-2005/v14-real-tail/01.jpg": "e5658dbbbb15502b3b30c6095426a2d68c3fd414a31d2aee84de3509b55cd072",
+        "hakawi_repair/e03-rebuild-20261029/qa/independent-review/lifecycle-v14-2005/v14-real-tail/02.jpg": "2cbd3ac23aa4ab0deaf37152b8a8cf98e1934af09319729cb6840cc50bd5caaf",
+        "hakawi_repair/e03-rebuild-20261029/qa/independent-review/lifecycle-v14-2005/v14-real-tail/03.jpg": "1f6ebacc1f021fc92c6810034b20adf6319ad51a7d000634cc2905b40a0867e4"
+      }
+    }
+  ],
+  "findings": [
+    {
+      "frames": [
+        7984,
+        7987
+      ],
+      "status": "HOLD",
+      "reason": "Top subtitle banner masks Sameh hair and forehead in close composition; move caption to safe area without changing wording or timing."
+    },
+    {
+      "frames": [
+        7987,
+        7990
+      ],
+      "status": "SCOPED_PASS",
+      "reason": "Intentional cut to wider supported folder/table composition; no blank or malformed lifecycle frame observed."
+    },
+    {
+      "frames": [
+        24879,
+        24885
+      ],
+      "status": "SCOPED_PASS",
+      "reason": "Intentional cut from room dialogue to hand/item detail; no blank or malformed lifecycle frame observed."
+    },
+    {
+      "frames": [
+        27919,
+        27922
+      ],
+      "status": "SCOPED_PASS",
+      "reason": "All three actual final frames intact with final Arabic caption, no black/end truncation visible."
+    }
+  ],
+  "limitations": "15 exact decoded frames only. No full-film, complete action, or listened-audio claim."
+}

@@ -243,3 +243,11 @@ Evidence: [E02 final production repairs and closure](entries/HAKAWI-E02-PORTRAIT
 - [ ] A user-declined optional paid QA service must not be retried; preserve uncertainty about any earlier rejected invocation rather than inventing completion or billing facts.
 - [ ] Bind source/encoded visual scope, numeric audio checks, durable source version and verified external publication separately.
 Evidence: [Ezzay wound/scar production closure](entries/EZZAY-WOUND-20261029.md).
+
+
+## E03 WIP recurrence gates — 2026-10-29
+- [ ] Review every shared-rig/prop caller through contact, release and settle; protect connected donor endpoints through camera crops.
+- [ ] Match narrated actor roles, register head/neck/collar together, and test captions against faces across both sides of cuts.
+- [ ] Same-layout hand resets are not meaningful editorial cuts. Prove suspected extraction artifacts in native pixels before renderer changes.
+- [ ] Pin scripts/new helpers and preserve canonical 24-bit PCM/presented tail samples; source recovery, encoded scope, full-film acceptance and durability remain separate.
+Evidence: [E03 repair trials and open holds](entries/HAKAWI-E03-WIP-20261029.md). V14 is not fully accepted; v15 repairs and full-film/native/release gates remain pending.

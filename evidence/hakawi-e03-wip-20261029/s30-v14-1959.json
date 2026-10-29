@@ -1,0 +1,76 @@
+{
+  "status": "S30_ACTION_PASS_ADJACENT_S29_CAPTION_HOLD",
+  "scope": "All195 decodedframes [17600,17795) viewed in6sheets of35,last20. Native0,35,86,135,170,194 viewed individually. Noaudio/fullfilm acceptance.",
+  "video_sha256": "00e82da74ffdaec5d4848aaec72d6804a08b3a6669e95ede5541d822a58a7823",
+  "reviewed_global_range": [
+    17600,
+    17795
+  ],
+  "action_pass_range": [
+    17602,
+    17794
+  ],
+  "native_local_frames": [
+    0,
+    35,
+    86,
+    135,
+    170,
+    194
+  ],
+  "findings": [
+    "Ring rests ontray, handapproaches then genuinepinch, pickup and intentionalcut to pocket insert, ring hiddenbehindpocket andemptyhandwithdraws; no ownershipgap.",
+    "Finalframe intentionally cuts to rentaldocument signing layout.",
+    "HOLD adjacentS29 global17600/17601: topcaption overlays Sameh hair/forehead incloseframe. Move caption/reframe thisshot without changingtext/timing."
+  ],
+  "files": [
+    {
+      "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/s30-v14-1959/native-01.jpg",
+      "sha256": "a0243608b66ca98b35ac69e48b2fe9a5319294f61c9f727d09549068d9b2bbdb"
+    },
+    {
+      "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/s30-v14-1959/native-02.jpg",
+      "sha256": "fde787a2822e908785aff85b6c9a6b016034d43bfe2735ea64b196baa75a98cb"
+    },
+    {
+      "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/s30-v14-1959/native-03.jpg",
+      "sha256": "d929a585cc0cf541080598572bae9fe1f80facac201cf8b930c2150011cafcc2"
+    },
+    {
+      "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/s30-v14-1959/native-04.jpg",
+      "sha256": "344a264b4ecaf66ed621879225566f13e1d8ed10735998e51f68170b2b076deb"
+    },
+    {
+      "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/s30-v14-1959/native-05.jpg",
+      "sha256": "8dcde090f6f153b92a9dbbb44807b703bcb39034d2880161a1599ed7a4c20c50"
+    },
+    {
+      "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/s30-v14-1959/native-06.jpg",
+      "sha256": "bd75e8b1cfa75292a34e821e05093abde027ad21d45c5c8bfa6f84131602f521"
+    },
+    {
+      "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/s30-v14-1959/sheet-01.jpg",
+      "sha256": "57c2ec958f847d813fdd68cca1fcfc55cbdefc1a7544dec51a03dc622997821b"
+    },
+    {
+      "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/s30-v14-1959/sheet-02.jpg",
+      "sha256": "5a5b2f7807e3b4a07c9c82acbfd4dbe72e237b1300b99dd5a45265fbf6de6edb"
+    },
+    {
+      "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/s30-v14-1959/sheet-03.jpg",
+      "sha256": "5ad0dd9655ec42b63de85a36a3cc417eafc22c39e5b2b44b862becee213b0cb6"
+    },
+    {
+      "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/s30-v14-1959/sheet-04.jpg",
+      "sha256": "f3843cb22f953509910ca3b49992ac92c52b7b4f275f0d0d5d1cb0d9183e7984"
+    },
+    {
+      "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/s30-v14-1959/sheet-05.jpg",
+      "sha256": "8b4ced99e47db011899304cb67c94f635cfcf3eb2334a35c7f7ef8778ccdc767"
+    },
+    {
+      "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/s30-v14-1959/sheet-06.jpg",
+      "sha256": "ca16f748361ddaaa7bd07e2b97efb696262578c4edf380976487d6ba70a3674f"
+    }
+  ]
+}

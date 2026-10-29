@@ -1,0 +1,76 @@
+{
+  "status": "SCOPED_ENCODED_VISUAL_PASS",
+  "scope": "187frames [14081,14268) actually viewed in8contact sheets, last19frames; native0,7,74,130,186 individually viewed. Noaudio/wholefilmacceptance.",
+  "video_sha256": "3c2a7cd81b6b14effa626b95c6e71d1d6cb5a65e7afe76919e4ad185f3808569",
+  "global_frame_range_exclusive": [
+    14081,
+    14268
+  ],
+  "native_local_frames": [
+    0,
+    7,
+    74,
+    130,
+    186
+  ],
+  "observations": [
+    "Intentional hardcut from night pillowshot to morning mediumkiss atlocal6; intentionalcut towide after action.",
+    "Continuous approach, crown-to-Heba-lips contacthold, retreat, with no rearneck backgroundwedge or shoulder disconnect.",
+    "Caption remainslegible throughintentional camera/layoutcuts.",
+    "All187decodedframes accountedfor, no teleport/ghostbody observed."
+  ],
+  "files": [
+    {
+      "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/s25-v14-1957/native-01.jpg",
+      "sha256": "da3de4e274c6058a5a22714ec4c9ee466c25aeaf38d9548cf2d54baeda47d00d"
+    },
+    {
+      "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/s25-v14-1957/native-02.jpg",
+      "sha256": "a7981a366c5ca6a5249525554c01cf8ee0dbfa8463682acad2c91b02af498ff3"
+    },
+    {
+      "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/s25-v14-1957/native-03.jpg",
+      "sha256": "4ca5a2cfe4fb507d81b31e3eb5ba4efd409eb6bd58eab18246cef31bd710b3ac"
+    },
+    {
+      "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/s25-v14-1957/native-04.jpg",
+      "sha256": "d84b4866c74e59fee9efdaad53156917fee50993beaae789721ce7be2caa0e1a"
+    },
+    {
+      "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/s25-v14-1957/native-05.jpg",
+      "sha256": "d4f56afdc38ff99c23bb694fc94eb2dd48df8246a6f7e53ffa32c39e0404094e"
+    },
+    {
+      "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/s25-v14-1957/sheet-01.jpg",
+      "sha256": "7ccc2c691c31475c39c52795a7088bb5eb2882b19bbe6ecf3dd3f7abb1708d40"
+    },
+    {
+      "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/s25-v14-1957/sheet-02.jpg",
+      "sha256": "086dfa4d7d29923556d8c9f4ee23b270ef6b5324e8273a9a8fa9443200dbae60"
+    },
+    {
+      "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/s25-v14-1957/sheet-03.jpg",
+      "sha256": "829bffdbee91ce3dca575cd98f9b477d81bc3be982356f8222c76a8e593bf516"
+    },
+    {
+      "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/s25-v14-1957/sheet-04.jpg",
+      "sha256": "c7b8910abf80f429fef4fa339631fc8196f542da8ac8de74034d508afdc1d44a"
+    },
+    {
+      "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/s25-v14-1957/sheet-05.jpg",
+      "sha256": "37ca3ee4d17ca0d4a0e73e8b200d2b30c6790f06afa940d01b9c87b7a94037bd"
+    },
+    {
+      "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/s25-v14-1957/sheet-06.jpg",
+      "sha256": "1160acbfe8eb370911fc7e69af730cb808628d1726ad1c9f51ace761f70653af"
+    },
+    {
+      "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/s25-v14-1957/sheet-07.jpg",
+      "sha256": "3097a598ef5db3be78298a796b3fd376c874b6cf7831a6da8d68b07c84d07711"
+    },
+    {
+      "file": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/s25-v14-1957/sheet-08.jpg",
+      "sha256": "ab6c5f7dc6d5b84ed4fb5fab2130ce75e5d768ab6a102f1373a6b3b7742d687d"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "path": "evidence/hakawi-e03-wip-20261029/pillow-v14-1956.json",
+    "source_path": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/pillow-v14-1956/REVIEW.json",
+    "sha256": "211d1341ac9e89f16ea4a4bcc50da49d08a037a1a2f0be015e0e9de276518e47",
+    "in_source_checkpoint": true
+  },
+  {
+    "path": "evidence/hakawi-e03-wip-20261029/s25-v14-1957.json",
+    "source_path": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/s25-v14-1957/REVIEW.json",
+    "sha256": "bb9eea1887f2b8d2e9d3825a39c0f1f9c44dce2cf8d6a00ed2b4f592b9c07c05",
+    "in_source_checkpoint": true
+  },
+  {
+    "path": "evidence/hakawi-e03-wip-20261029/s30-v14-1959.json",
+    "source_path": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/s30-v14-1959/REVIEW.json",
+    "sha256": "c5a826a5a52860eecf46008d3289d094306bcefaccc45e995c07c40af5eb27e9",
+    "in_source_checkpoint": true
+  },
+  {
+    "path": "evidence/hakawi-e03-wip-20261029/lifecycle-v14-2005.json",
+    "source_path": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/lifecycle-v14-2005/REVIEW.json",
+    "sha256": "5b1f4d66a017b0857bc246aedf54d88463f49589ad05bbcc7e3ae3320ec77c2e",
+    "in_source_checkpoint": true
+  },
+  {
+    "path": "evidence/hakawi-e03-wip-20261029/papers-v14-2001.json",
+    "source_path": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/papers-v14-2001/REVIEW.json",
+    "sha256": "67539316efbc0dc958a0ee8b5d74333698e5285be88a770bb319683743a46c43",
+    "in_source_checkpoint": false
+  },
+  {
+    "path": "evidence/hakawi-e03-wip-20261029/nonpaper-v14-2002.json",
+    "source_path": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/nonpaper-v14-2002/REVIEW.json",
+    "sha256": "8836f2e7841ca95e1d0d57b4aaebfaf82afbe802c53887aa074504b8d1e527e6",
+    "in_source_checkpoint": false
+  }
+]

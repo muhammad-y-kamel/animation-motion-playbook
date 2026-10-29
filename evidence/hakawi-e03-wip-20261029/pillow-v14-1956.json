@@ -1,0 +1,155 @@
+{
+  "reviewer": "/root/review_episode_three_pillow",
+  "status": "SCOPED_VISUAL_PASS",
+  "scope": {
+    "global_first_inclusive": 13860,
+    "global_end_exclusive": 14095,
+    "frames": 235
+  },
+  "source_video": "hakawi_repair/e03-rebuild-20261029/runtime/full-v5/outputs/v14-ab12-pillow/final-aac.mp4",
+  "source_video_sha256": "995c8225c5bdb7161db8c1b62beecce844d8f55a8b9caf22ef89ec9e4ff4aec0",
+  "technical_receipt": "hakawi_repair/e03-rebuild-20261029/runtime/full-v5/outputs/v14-ab12-pillow/COMPLETE.json",
+  "technical_receipt_sha256": "8c06c02bba346aa1f59975b94545bdc376c502e5238796610b108edcc762e27a",
+  "decoded_probe": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "60/1",
+        "nb_read_frames": "235"
+      }
+    ]
+  },
+  "visual_evidence": {
+    "all_frames_actual_contact_sheets_viewed": true,
+    "sheets": 10,
+    "tile_layout": "6x4; first 9 contain 24 frames each, last contains 19 real frames plus 5 padding tiles",
+    "native_stills_actual_viewed_local_frames": [
+      0,
+      7,
+      45,
+      70,
+      130,
+      220,
+      227,
+      234
+    ],
+    "native_stills_global_frames": [
+      13860,
+      13867,
+      13905,
+      13930,
+      13990,
+      14080,
+      14087,
+      14094
+    ]
+  },
+  "findings": [
+    "Continuous supported pillow rise from lap to lower lip/chin; visible hand remains on pillow edge and wrist/arm ownership intact.",
+    "Pillow occludes torso/lower chin plausibly; no visible scarf-mask break or detached head/body.",
+    "Night seated body remains consistent on bed.",
+    "Intentional cuts from living room to night at 13867 and from night to next morning setup at 14087."
+  ],
+  "holds": [],
+  "limitations": [
+    "No audio listening performed or audio approval asserted.",
+    "Not a full-film approval; next kiss action reviewed separately by root.",
+    "Every-frame thumbnail review supplemented by listed native stills, not every-frame native inspection."
+  ],
+  "evidence_files": [
+    {
+      "path": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/pillow-v14-1956/native-01.jpg",
+      "sha256": "48fffcf3484aa0c5fb71b67e3d5339603070b424852d7b2f7de1ef6399cf5966",
+      "bytes": 639724
+    },
+    {
+      "path": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/pillow-v14-1956/native-02.jpg",
+      "sha256": "395425a7f27d897e2096bad09e8339cc150769795aedc482d2129a4ff01e5b00",
+      "bytes": 199271
+    },
+    {
+      "path": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/pillow-v14-1956/native-03.jpg",
+      "sha256": "49308fdb593c0b5d42d4568e435500809926d9c2ab8c241b9f1bf8bee1c27cde",
+      "bytes": 189473
+    },
+    {
+      "path": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/pillow-v14-1956/native-04.jpg",
+      "sha256": "bef39937cc8603ca812e77ad5131ad85b65cf9f4963848e20738d91ca7276812",
+      "bytes": 191343
+    },
+    {
+      "path": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/pillow-v14-1956/native-05.jpg",
+      "sha256": "d128c82c1da3552a6d5e4c6a6cd93cf829fe89c18a819f29dd6562f0990e0c8a",
+      "bytes": 194577
+    },
+    {
+      "path": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/pillow-v14-1956/native-06.jpg",
+      "sha256": "e004b07912c358c3e60b2799d01350eea3c0d06508302ab2ce0dd4ee2bd97670",
+      "bytes": 194570
+    },
+    {
+      "path": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/pillow-v14-1956/native-07.jpg",
+      "sha256": "0dfbe0aa2af6c9760ddd370fe38b2702d76f7eb78f1a4eef7ae2d33239d48784",
+      "bytes": 492050
+    },
+    {
+      "path": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/pillow-v14-1956/native-08.jpg",
+      "sha256": "e6ca94605939e31f844ff5be256412f17aeaddd6520b3aa5bb137cb479af0207",
+      "bytes": 492044
+    },
+    {
+      "path": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/pillow-v14-1956/sheet-01.jpg",
+      "sha256": "8abe02b82ad71156c22c58ee3c66e2ea41eb0500ed73371d46dd104b6e297097",
+      "bytes": 271896
+    },
+    {
+      "path": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/pillow-v14-1956/sheet-02.jpg",
+      "sha256": "ea4d4ec2de90ef54d9659efbd6f779819b4a4f0c967999a0c9ce2c79799fc93b",
+      "bytes": 205360
+    },
+    {
+      "path": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/pillow-v14-1956/sheet-03.jpg",
+      "sha256": "d90cd88d7538ac025b443a7805bfbd84073d032a4db0f930aed7b17a82654856",
+      "bytes": 201660
+    },
+    {
+      "path": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/pillow-v14-1956/sheet-04.jpg",
+      "sha256": "d7f051be03545cb3fc09b56780df0f7f9ccb0107026c1ed20cca7c891bb1fc49",
+      "bytes": 201454
+    },
+    {
+      "path": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/pillow-v14-1956/sheet-05.jpg",
+      "sha256": "638af12d6328f1b4ab7e9b9986f343ce9da7c12f54b0d9780cdddf807d8fc1b9",
+      "bytes": 203961
+    },
+    {
+      "path": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/pillow-v14-1956/sheet-06.jpg",
+      "sha256": "6f87e980405ae3311c9fccd91cd7459b181757e74e9a93f5456985e5c28f3edb",
+      "bytes": 205852
+    },
+    {
+      "path": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/pillow-v14-1956/sheet-07.jpg",
+      "sha256": "6f87e980405ae3311c9fccd91cd7459b181757e74e9a93f5456985e5c28f3edb",
+      "bytes": 205852
+    },
+    {
+      "path": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/pillow-v14-1956/sheet-08.jpg",
+      "sha256": "6f87e980405ae3311c9fccd91cd7459b181757e74e9a93f5456985e5c28f3edb",
+      "bytes": 205852
+    },
+    {
+      "path": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/pillow-v14-1956/sheet-09.jpg",
+      "sha256": "6f87e980405ae3311c9fccd91cd7459b181757e74e9a93f5456985e5c28f3edb",
+      "bytes": 205852
+    },
+    {
+      "path": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/pillow-v14-1956/sheet-10.jpg",
+      "sha256": "a4f2c97eba889f45b60cac3ccf71777aa4815ac7981861f883547f399d3cf1f6",
+      "bytes": 248060
+    }
+  ],
+  "free_bytes_at_receipt": 1496498176
+}
