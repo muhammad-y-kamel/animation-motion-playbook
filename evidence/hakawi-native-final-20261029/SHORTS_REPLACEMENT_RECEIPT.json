@@ -1,0 +1,53 @@
+{
+  "verified_at_utc": "2026-10-29T04:29:56Z",
+  "channel_id": "UCPN2jUxQe3u_wvdoX5ZaJhQ",
+  "new": [
+    {
+      "part": 6,
+      "id": "zsU-MgjGV6Q",
+      "date": "2026-10-29",
+      "time_display": "7:00 PM",
+      "timezone_display": "GMT+0300",
+      "status": "Scheduled",
+      "uploaded_thumbnail_verified": true,
+      "checks": "No issues found"
+    },
+    {
+      "part": 7,
+      "id": "JemnpEIJoc0",
+      "date": "2026-10-31",
+      "time_display": "7:00 PM",
+      "timezone_display": "GMT+0300",
+      "status": "Scheduled",
+      "uploaded_thumbnail_verified": true,
+      "checks": "No issues found"
+    },
+    {
+      "part": 8,
+      "id": "hTc6FTPTARo",
+      "date": "2026-11-02",
+      "time_display": "7:00 PM",
+      "timezone_display": "GMT+0300",
+      "status": "Scheduled",
+      "uploaded_thumbnail_verified": true,
+      "checks": "No issues found"
+    }
+  ],
+  "old_now_private": [
+    "eUwmxSxne20",
+    "Rai0YRyZ5uI",
+    "ZZ-KR8SikfU",
+    "ImxEsWScAZs",
+    "zROBcSytjXI"
+  ],
+  "public_original_parts_1_to_5": "untouched",
+  "long_new": "rH4lTOVaj3c",
+  "long_date": "2026-11-03",
+  "long_time_display": "7:00 PM",
+  "selected_existing_slots": "original6/8/10 retained exactly; redundant7/9 omitted after semantic recut",
+  "deletions": false,
+  "immediate_publication": false,
+  "files_sent_in_chat": false,
+  "media_manifest": "hakawi-native-portrait-final-v2-20261029/FINAL_DELIVERY_MANIFEST.json",
+  "ui_verification": "Each new edit page Scheduled+Uploaded thumbnail, visibility dialog exact date/time; each old Private+Save disabled after saving"
+}

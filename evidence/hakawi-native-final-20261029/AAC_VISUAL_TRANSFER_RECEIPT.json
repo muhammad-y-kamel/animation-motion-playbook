@@ -1,0 +1,96 @@
+{
+  "status": "SCOPED_AAC_VISUAL_TRANSFER_PASS",
+  "createdUTC": "2026-10-29T04:21:25.423702+00:00",
+  "firstFrame": 14563,
+  "endFrame": 30418,
+  "frames": 15855,
+  "parts": [
+    {
+      "status": "VISUAL_ACCEPTANCE_TRANSFERRED_FROM_HASH_BOUND_REVIEW",
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-final-v2-20261029/E01-native-portrait-AAC-part-01.mp4",
+      "sha256": "b3e8c961d78f7151828df09b18d5f3dc52b9ec498974e0e1c8b72bddaa7e67ea",
+      "bytes": 24338994,
+      "partOrdinal": 1,
+      "frames": 4963,
+      "sourceGlobalFrameRange": [
+        14563,
+        19526
+      ],
+      "canonicalAudioSamples": [
+        10703952,
+        14351904
+      ],
+      "audioPresentedSamples": 3647952,
+      "audioCodec": "AAC128k single generation from canonical PCM",
+      "reviewMasterSHA256": "2ca435cdb53cc55f2b1acd3c3706427bf415235624e227e369acb8914d3a2419",
+      "decodedVideoIdentical": true,
+      "subjectiveAudioListening": false
+    },
+    {
+      "status": "VISUAL_ACCEPTANCE_TRANSFERRED_FROM_HASH_BOUND_REVIEW",
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-final-v2-20261029/E01-native-portrait-AAC-part-02.mp4",
+      "sha256": "a1764e555a95adc464367edcc6a2298eceddd7c6352dcc5cd3ec2c2d6180ab32",
+      "bytes": 31454837,
+      "partOrdinal": 2,
+      "frames": 5986,
+      "sourceGlobalFrameRange": [
+        19526,
+        25512
+      ],
+      "canonicalAudioSamples": [
+        14351904,
+        18751320
+      ],
+      "audioPresentedSamples": 4399416,
+      "audioCodec": "AAC128k single generation from canonical PCM",
+      "reviewMasterSHA256": "11dcbbd93143a461196e29bb57641110bf684548c34533216838c43b937744be",
+      "decodedVideoIdentical": true,
+      "subjectiveAudioListening": false
+    },
+    {
+      "status": "VISUAL_ACCEPTANCE_TRANSFERRED_FROM_HASH_BOUND_REVIEW",
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-final-v2-20261029/E01-native-portrait-AAC-part-03.mp4",
+      "sha256": "b78eedc9b25d7b4a507a2f87811d386a4c9633722241aedbc7c34787cf3bf642",
+      "bytes": 20958247,
+      "partOrdinal": 3,
+      "frames": 4906,
+      "sourceGlobalFrameRange": [
+        25512,
+        30418
+      ],
+      "canonicalAudioSamples": [
+        18751320,
+        22356936
+      ],
+      "audioPresentedSamples": 3605616,
+      "audioCodec": "AAC128k single generation from canonical PCM",
+      "reviewMasterSHA256": "0e74986f9e6256f135e8ff954084a668921a502a53cc23b176b106d84f7870e1",
+      "decodedVideoIdentical": true,
+      "subjectiveAudioListening": false
+    }
+  ],
+  "evidence": [
+    {
+      "path": "hakawi-native-portrait-final-v2-20261029/AAC_DELIVERY_MANIFEST.json",
+      "sha256": "99f8bb0722ca605c5e6a68d5ebda33ce7e0a28837bea430ddab66242010f57b0"
+    },
+    {
+      "path": "hakawi-native-portrait-final-v2-20261029/AAC_PACKET_CADENCE.json",
+      "sha256": "eb691a49b65c9c6ad72b3adea666e36d8804a9dbb438e7f49e39163bc2239611"
+    },
+    {
+      "path": "hakawi-native-portrait-final-v2-20261029/AAC_AUDIO_ALIGNMENT.json",
+      "sha256": "b5a6ab52df475deb79b731cf62b4273e034674410320ca854f10bce2fab82ca5"
+    },
+    {
+      "path": "hakawi_repair/portrait-final-review-0240/JOINED_V2_VISUAL_RECEIPT.json",
+      "sha256": "e4f125a325d3d153fb53b4490ee9d58e3bc0da74348c36bd9b8ce145823b42fa"
+    },
+    {
+      "path": "hakawi_repair/portrait-final-review-0240/FINAL_COMPOSED_VISUAL_RECEIPT.json",
+      "sha256": "8c7054edaf0c935aff572a03c2a8d064568ebcabca7b574ff2ffea369aec85aa"
+    }
+  ],
+  "method": "Independently recomputed all three delivery file SHA256 values and cross-checked exact reviewed master hashes, frame ranges and cadence. Existing all-frame and joined visual acceptance transfers through producer-reported complete decoded-video identity; no video re-encode.",
+  "limits": "No repeated visual review or independent re-decode performed for AAC copies. Decoded identity is producer technical evidence; original visual review is independent. No audio listening, continuous playback or publication authority claimed. AAC audio is lossy, not PCM-identical; bounded technical start/end alignment has zero measured lag."
+}

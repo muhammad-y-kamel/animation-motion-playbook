@@ -1,0 +1,56 @@
+[
+  {
+    "status": "EXACT_PCM_REVIEW_ASSEMBLY_PENDING_ALLFRAME_AND_AV_QA",
+    "partOrdinal": 1,
+    "sourceGlobalFrameRange": [
+      14563,
+      19526
+    ],
+    "frames": 4963,
+    "audioSamples": [
+      10703952,
+      14351904
+    ],
+    "audioSampleCount": 3647952,
+    "audioPCM_SHA256": "02870325aa577ced00c35481d12cd3c0f36b180a23363e710353a1f0104c764a",
+    "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-final-v2-20261029/E01-native-portrait-review-part-01.mp4",
+    "sha256": "2ca435cdb53cc55f2b1acd3c3706427bf415235624e227e369acb8914d3a2419",
+    "bytes": 26000377
+  },
+  {
+    "status": "EXACT_PCM_REVIEW_ASSEMBLY_PENDING_ALLFRAME_AND_AV_QA",
+    "partOrdinal": 2,
+    "sourceGlobalFrameRange": [
+      19526,
+      25512
+    ],
+    "frames": 5986,
+    "audioSamples": [
+      14351904,
+      18751320
+    ],
+    "audioSampleCount": 4399416,
+    "audioPCM_SHA256": "4f403f3e73210a77b542e4f8c2c24c4c55b5c88730067fba2cca364e031cdf37",
+    "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-final-v2-20261029/E01-native-portrait-review-part-02.mp4",
+    "sha256": "11dcbbd93143a461196e29bb57641110bf684548c34533216838c43b937744be",
+    "bytes": 33235465
+  },
+  {
+    "status": "EXACT_PCM_REVIEW_ASSEMBLY_PENDING_ALLFRAME_AND_AV_QA",
+    "partOrdinal": 3,
+    "sourceGlobalFrameRange": [
+      25512,
+      30418
+    ],
+    "frames": 4906,
+    "audioSamples": [
+      18751320,
+      22356936
+    ],
+    "audioSampleCount": 3605616,
+    "audioPCM_SHA256": "d4a7303ae05ac8430a80290ae8eec0a1a490630c229784cd7b81a14fa9a64b5e",
+    "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-final-v2-20261029/E01-native-portrait-review-part-03.mp4",
+    "sha256": "0e74986f9e6256f135e8ff954084a668921a502a53cc23b176b106d84f7870e1",
+    "bytes": 22477045
+  }
+]

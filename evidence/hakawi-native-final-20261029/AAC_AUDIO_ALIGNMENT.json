@@ -1,0 +1,70 @@
+{
+  "status": "BOUNDED_START_END_ALIGNMENT_PASS",
+  "parts": [
+    {
+      "partOrdinal": 1,
+      "reviewSHA256": "2ca435cdb53cc55f2b1acd3c3706427bf415235624e227e369acb8914d3a2419",
+      "deliverySHA256": "b3e8c961d78f7151828df09b18d5f3dc52b9ec498974e0e1c8b72bddaa7e67ea",
+      "windows": [
+        {
+          "startSeconds": 0,
+          "windowSeconds": 5,
+          "sampleRate": 8000,
+          "bestLagSamples": 0,
+          "correlation": 0.9997014118115045
+        },
+        {
+          "startSeconds": 77.72,
+          "windowSeconds": 5,
+          "sampleRate": 8000,
+          "bestLagSamples": 0,
+          "correlation": 0.9997862841423791
+        }
+      ]
+    },
+    {
+      "partOrdinal": 2,
+      "reviewSHA256": "11dcbbd93143a461196e29bb57641110bf684548c34533216838c43b937744be",
+      "deliverySHA256": "a1764e555a95adc464367edcc6a2298eceddd7c6352dcc5cd3ec2c2d6180ab32",
+      "windows": [
+        {
+          "startSeconds": 0,
+          "windowSeconds": 5,
+          "sampleRate": 8000,
+          "bestLagSamples": 0,
+          "correlation": 0.9997979701916637
+        },
+        {
+          "startSeconds": 94.76,
+          "windowSeconds": 5,
+          "sampleRate": 8000,
+          "bestLagSamples": 0,
+          "correlation": 0.9994458651986113
+        }
+      ]
+    },
+    {
+      "partOrdinal": 3,
+      "reviewSHA256": "0e74986f9e6256f135e8ff954084a668921a502a53cc23b176b106d84f7870e1",
+      "deliverySHA256": "b78eedc9b25d7b4a507a2f87811d386a4c9633722241aedbc7c34787cf3bf642",
+      "windows": [
+        {
+          "startSeconds": 0,
+          "windowSeconds": 5,
+          "sampleRate": 8000,
+          "bestLagSamples": 0,
+          "correlation": 0.9990925818425458
+        },
+        {
+          "startSeconds": 76.76,
+          "windowSeconds": 5,
+          "sampleRate": 8000,
+          "bestLagSamples": 0,
+          "correlation": 0.9995476535614501
+        }
+      ]
+    }
+  ],
+  "subjectiveListening": false,
+  "canonicalPCMIdentity": "Lossless review assembly has exact complete sample identity; AAC derivative is lossy."
+}

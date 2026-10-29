@@ -1,0 +1,29 @@
+{
+  "status": "PASS",
+  "parts": [
+    {
+      "partOrdinal": 1,
+      "sha256": "b3e8c961d78f7151828df09b18d5f3dc52b9ec498974e0e1c8b72bddaa7e67ea",
+      "frames": 4963,
+      "presentationTicksExact": true,
+      "timeBase": "1/60000",
+      "DTSstrictlyIncreasing": true
+    },
+    {
+      "partOrdinal": 2,
+      "sha256": "a1764e555a95adc464367edcc6a2298eceddd7c6352dcc5cd3ec2c2d6180ab32",
+      "frames": 5986,
+      "presentationTicksExact": true,
+      "timeBase": "1/60000",
+      "DTSstrictlyIncreasing": true
+    },
+    {
+      "partOrdinal": 3,
+      "sha256": "b78eedc9b25d7b4a507a2f87811d386a4c9633722241aedbc7c34787cf3bf642",
+      "frames": 4906,
+      "presentationTicksExact": true,
+      "timeBase": "1/60000",
+      "DTSstrictlyIncreasing": true
+    }
+  ]
+}

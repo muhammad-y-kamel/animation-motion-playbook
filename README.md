@@ -53,3 +53,6 @@ The original 13 entries above remain intact. [Historical audit and case index](H
 
 ## Native portrait finite gates — 2026-10-29
 [Native composition/contact trials and18 scoped closures](entries/HAKAWI-NATIVE-PORTRAIT-20261029.md), with rejected attempts, exact receipts and93-file source freeze. Actual full portrait render underway, not accepted; finite/source passes do not clear full audio/video or publication.
+
+## Native portrait final delivery closure — 2026-10-29
+[Final empty-hand repair, exact concat cadence and verified delivery](entries/HAKAWI-NATIVE-FINAL-CLOSURE-20261029.md). All15,855 selected encoded frames reviewed with narrow0313patch adopted; exact decoded identity/PTS/PCM and bounded AAC alignment documented separately from listening. Root receipt verifies three new Shorts Scheduled and superseded five Private, not already public. Earlier pending/rejected evidence preserved.

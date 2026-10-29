@@ -197,3 +197,11 @@ Evidence: [two final-output repair records](entries/HAKAWI-FINAL-REGRESSIONS-202
 - [ ] Transform safe/action rectangles by actual camera matrix. Preserve raw residuals, metric semantics, failed attempts and bounded prefix-comparison scope; resource exit137 is not proof of media corruption.
 - [ ] Bind finite acceptance to exact source/encode identities. Frozen93-file integrity and18 finite passes do not clear full portrait render/audio/sync/release. Validate native pixels before changing accepted source over tiny-preview suspicions.
 Evidence: [native portrait trial/closure record](entries/HAKAWI-NATIVE-PORTRAIT-20261029.md).
+
+## Final composition cadence / proximity / recovery gates
+- [ ] Review beyond finite action excerpts: independent resting sways can create unintended empty-hand contact later. Use real alpha contours at canonical centers/subsamples, then exact encoded replacement and outer joins; disclose scan-band/partial-bound limits.
+- [ ] Stream-copy concatenation must retain exact rational cadence, not only identical pictures. Set ffconcat microsecond durations by differences of rounded cumulative frame timestamps; assert integer PTS ticks and strict DTS, preserve failed assembly.
+- [ ] Release outgoing Stage references and GC before next Stage initialization; checkpoint resource failures. Keep immutable base/patch identities and disjoint per-chunk reservations, inherited kernel lock FD through encoder, and reconcile uncertain live output before retry.
+- [ ] Separate exact canonical PCM identity from lossy AAC alignment; bounded correlation is not listening. Hash-bound visual acceptance transfer is not repeated independent decode.
+- [ ] Record external Scheduled/Private states from actual verification, not render success. Preserve public originals and don't call scheduled items already published.
+Evidence: [final portrait closure and receipts](entries/HAKAWI-NATIVE-FINAL-CLOSURE-20261029.md).

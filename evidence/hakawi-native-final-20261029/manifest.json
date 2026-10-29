@@ -1,0 +1,83 @@
+{
+  "snapshotUTC": "2026-10-29T04:39:00Z",
+  "files": [
+    {
+      "source": "hakawi_repair/native-portrait-runner/CONCAT_MICROSECOND_ROUNDING_REPAIR.json",
+      "snapshot": "CONCAT_MICROSECOND_ROUNDING_REPAIR.json",
+      "sha256": "d4e9e55e777cf752bee201463c36cf2eea04553164cb00cabb8de9ae8abdc9ef",
+      "bytes": 909
+    },
+    {
+      "source": "hakawi_repair/portrait-final-review-0240/denial-patch-0313/COVERAGE.json",
+      "snapshot": "DENIAL_PATCH_COVERAGE.json",
+      "sha256": "706311e5acf76b53e8951b8a50b6f3a87a85c2f1b70fc924f10996a584cf6eb7",
+      "bytes": 5229
+    },
+    {
+      "source": "hakawi_repair/portrait-final-review-0240/FINAL_COMPOSED_VISUAL_RECEIPT.json",
+      "snapshot": "FINAL_COMPOSED_VISUAL_RECEIPT.json",
+      "sha256": "8c7054edaf0c935aff572a03c2a8d064568ebcabca7b574ff2ffea369aec85aa",
+      "bytes": 39382
+    },
+    {
+      "source": "hakawi_repair/portrait-final-review-0240/JOINED_V2_VISUAL_RECEIPT.json",
+      "snapshot": "JOINED_V2_VISUAL_RECEIPT.json",
+      "sha256": "e4f125a325d3d153fb53b4490ee9d58e3bc0da74348c36bd9b8ce145823b42fa",
+      "bytes": 2144
+    },
+    {
+      "source": "hakawi_repair/portrait-final-review-0240/AAC_VISUAL_TRANSFER_RECEIPT.json",
+      "snapshot": "AAC_VISUAL_TRANSFER_RECEIPT.json",
+      "sha256": "08dc0755b747489000787b64f0908db184712c69e62518cd0e77591da13159f7",
+      "bytes": 4144
+    },
+    {
+      "source": "hakawi-native-portrait-final-v2-20261029/ALL_PARTS_PIXEL_TIMELINE_IDENTITY.json",
+      "snapshot": "ALL_PARTS_PIXEL_TIMELINE_IDENTITY.json",
+      "sha256": "409caf9b51f98eec7ced3fdd235c046b7eb219803feebc71e817398d33ff1239",
+      "bytes": 11708
+    },
+    {
+      "source": "hakawi-native-portrait-final-v2-20261029/AAC_AUDIO_ALIGNMENT.json",
+      "snapshot": "AAC_AUDIO_ALIGNMENT.json",
+      "sha256": "b5a6ab52df475deb79b731cf62b4273e034674410320ca854f10bce2fab82ca5",
+      "bytes": 2071
+    },
+    {
+      "source": "hakawi-native-portrait-final-v2-20261029/AAC_PACKET_CADENCE.json",
+      "snapshot": "AAC_PACKET_CADENCE.json",
+      "sha256": "eb691a49b65c9c6ad72b3adea666e36d8804a9dbb438e7f49e39163bc2239611",
+      "bytes": 777
+    },
+    {
+      "source": "hakawi-native-portrait-final-v2-20261029/FINAL_DELIVERY_MANIFEST.json",
+      "snapshot": "FINAL_DELIVERY_MANIFEST.json",
+      "sha256": "d85e67e2bac6fe081b5ff99c340e8024857956c13de15bf7bb2b1531aa813578",
+      "bytes": 8652
+    },
+    {
+      "source": "hakawi_repair/publication-20261029/SHORTS_REPLACEMENT_RECEIPT.json",
+      "snapshot": "SHORTS_REPLACEMENT_RECEIPT.json",
+      "sha256": "74ea13c02e5b11ad803d473328c923bc45967874c09106da814a82ee6f2417af",
+      "bytes": 1592
+    },
+    {
+      "source": "hakawi-native-portrait-final-v2-20261029/part-01.ASSEMBLY.json",
+      "bundle": "ASSEMBLY_HEADER_EXTRACTS.json",
+      "sha256": "ee33ff3e10e49d121ab8ca60cc14fa078446a5267818462373dc243819702512",
+      "extracted": true
+    },
+    {
+      "source": "hakawi-native-portrait-final-v2-20261029/part-02.ASSEMBLY.json",
+      "bundle": "ASSEMBLY_HEADER_EXTRACTS.json",
+      "sha256": "0bc9dd56cec4eb5c6d98791435efc756156c9aed9d3b28a7d4d05d6887d7211f",
+      "extracted": true
+    },
+    {
+      "source": "hakawi-native-portrait-final-v2-20261029/part-03.ASSEMBLY.json",
+      "bundle": "ASSEMBLY_HEADER_EXTRACTS.json",
+      "sha256": "87bef79c13c70bf6aa77a37c150df2e13bd96cee6fd8ed774259b04707dd7424",
+      "extracted": true
+    }
+  ]
+}

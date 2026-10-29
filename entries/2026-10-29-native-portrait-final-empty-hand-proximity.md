@@ -1,0 +1,15 @@
+# Native portrait final-output follow-up: accidental empty-hand contact
+
+Final encoded frame 19195 (319.9167 s) exposed apparent fingertip contact between Sabah and Yaser during a paper request, not an authored grasp. The earlier finite lowering proof ended at318.4; its cleared static did not establish separation for the later independent natural sway cycles.
+
+Root classified this as a bounded staging defect, not a rig/ownership change. Candidate changes only Yaser root x875→915 for the complete continuous shot [318.16,346.88). Both ends are existing distinct shot cuts; original actor position is retained in the subsequent closer descent shot. No per-frame teleport, new cut, prop ownership, audio, rig phase or finger geometry changes.
+
+Regression method: actual separately drawn actor alpha contours (threshold32), full native contact band x650–1069/y850–1089, every canonical60fps center and±1/180s samples. Conservative horizontal silhouette gap, not hand-center distance. Initial process exited137 after3,573 checkpointed samples; resumed from next frame with GC every10frames. Failure is preserved; no false complete scan claim. New patch freeze, exact affected chunk encoding and independent actual-frame review remain necessary before adoption. Base immutable source and original encoded chunks remain unchanged.
+
+## Source result, 03:13 UTC
+All 5,169 samples closed successfully after checkpointed retry. Minimum conservative horizontal contour gap is27px at345.008333s (global frame20700), with zero threshold failures. Reviewer independently approved319.9167 static for distinct empty hands, full feet and adequate right margin. Immutable patch manifest: `hakawi-native-portrait-denial-patch-20261029-0313/hakawi_repair/FROZEN_MANIFEST.json`, SHA256 `7562775c5701ea4a94d2f3d225fb37bd21887d92f8540f92b9960151bf2ec79a`. Only `scenes/denial.cjs` runtime bytes differ from base; source module SHA256 `2b91b62c535907365bf4ecfeb03560d7d8b2f44066437849016b30ae2fd4e8e1`.
+
+Integrator owns replacement of15original slots spanning[19053,20843), including unchanged outer context. Actual encoded all-frame review and both joins remain pending; no release clearance claimed. The alpha scan's `maxActorRightInBand` was measured in the resumed segment only, not an exhaustive all-body bound; full-body right margin is independently checked in native witnesses and must remain part of encoded review.
+
+## Independent encoded closure received 03:58 UTC
+Reviewer receipt `hakawi_repair/portrait-final-review-0240/denial-patch-0313/COVERAGE.json` is **SCOPED_VISUAL_PASS**, SHA256 `706311e5acf76b53e8951b8a50b6f3a87a85c2f1b70fc924f10996a584cf6eb7`. All1,790 actual encoded replacement frames[19053,20843) were inspected with exact15chunk hashes, native witnesses19195/19925/20700 and outer joins19052/19053,20842/20843. Empty hands remain clearly separate, authored318.16/346.88cuts and outer joins coherent; no new anatomy, stance or caption defect. Root authorized adoption into composition. This closes the local staging finding, not the complete three-part technical/audio/release gate. Review was visual, with no listening claim.

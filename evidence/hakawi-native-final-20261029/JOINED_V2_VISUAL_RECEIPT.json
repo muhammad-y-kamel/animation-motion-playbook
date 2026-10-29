@@ -1,0 +1,60 @@
+{
+  "status": "SCOPED_JOINED_VISUAL_PASS",
+  "parts": [
+    {
+      "partOrdinal": 1,
+      "sourceGlobalFrameRange": [
+        14563,
+        19526
+      ],
+      "frames": 4963,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-final-v2-20261029/E01-native-portrait-review-part-01.mp4",
+      "sha256": "2ca435cdb53cc55f2b1acd3c3706427bf415235624e227e369acb8914d3a2419",
+      "bytes": 26000377
+    },
+    {
+      "partOrdinal": 2,
+      "sourceGlobalFrameRange": [
+        19526,
+        25512
+      ],
+      "frames": 5986,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-final-v2-20261029/E01-native-portrait-review-part-02.mp4",
+      "sha256": "11dcbbd93143a461196e29bb57641110bf684548c34533216838c43b937744be",
+      "bytes": 33235465
+    },
+    {
+      "partOrdinal": 3,
+      "sourceGlobalFrameRange": [
+        25512,
+        30418
+      ],
+      "frames": 4906,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-final-v2-20261029/E01-native-portrait-review-part-03.mp4",
+      "sha256": "0e74986f9e6256f135e8ff954084a668921a502a53cc23b176b106d84f7870e1",
+      "bytes": 22477045
+    }
+  ],
+  "nativeFramesViewed": [
+    14563,
+    19052,
+    19053,
+    19525,
+    19526,
+    20842,
+    20843,
+    25511,
+    25512,
+    30417
+  ],
+  "method": "Native JPEG witnesses decoded directly from exact final-v2 MP4 containers. All selected chunk frames separately reviewed in FINAL_COMPOSED_VISUAL_RECEIPT.json.",
+  "findings": "Both part boundaries, both patch outer joins, first and last endpoints visually intact and coherent. No new caption, anatomy, contact or support artifact. Part2-to3 boundary is authored ring insert to group cut.",
+  "limits": "No audio listening or continuous playback claim; technical pixel/timeline identity separately verified by integrator and receipt cross-checked.",
+  "technicalIdentityReceipt": {
+    "path": "hakawi-native-portrait-final-v2-20261029/ALL_PARTS_PIXEL_TIMELINE_IDENTITY.json",
+    "sha256": "409caf9b51f98eec7ced3fdd235c046b7eb219803feebc71e817398d33ff1239",
+    "status": "PASS",
+    "frames": 15855,
+    "mismatches": 0
+  }
+}

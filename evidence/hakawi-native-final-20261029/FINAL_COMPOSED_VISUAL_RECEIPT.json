@@ -1,0 +1,954 @@
+{
+  "status": "SCOPED_VISUAL_PASS",
+  "firstFrame": 14563,
+  "endFrame": 30418,
+  "framesReviewed": 15855,
+  "composedLedger": "hakawi-native-portrait-render-20261029/COMPOSED_FRAME_LEDGER.json",
+  "composedLedgerSHA256": "46ce2a041d787dbce6d0ca833deca5d17776f4828e98a89b188fbc68b519d3ba",
+  "method": "Every selected encoded frame viewed sequentially as compressed contact sheets, with native critical contact/cut/support witnesses; not continuous playback or audio listening.",
+  "chunkCount": 133,
+  "chunks": [
+    {
+      "firstFrame": 14563,
+      "endFrame": 14681,
+      "frames": 118,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/14563-14681/video.mp4",
+      "videoSHA256": "173c52c9d759388951d6108734cbfca375eccd23def5356270c9ff756079118a"
+    },
+    {
+      "firstFrame": 14681,
+      "endFrame": 14799,
+      "frames": 118,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/14681-14799/video.mp4",
+      "videoSHA256": "3fbc863e9c00cc3b8f8ffd6c723b332596d4b12ae4151eef26b46c09239a89a6"
+    },
+    {
+      "firstFrame": 14799,
+      "endFrame": 14917,
+      "frames": 118,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/14799-14917/video.mp4",
+      "videoSHA256": "0949c2ffe6fca5f6c9a64bfb76ff2b8f2716072d1c082684b5afaa03710fb5a9"
+    },
+    {
+      "firstFrame": 14917,
+      "endFrame": 15036,
+      "frames": 119,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/14917-15036/video.mp4",
+      "videoSHA256": "6c8f77c141c978ce616373a3a344084f8878ecb8de8aa9b1923e391595d61476"
+    },
+    {
+      "firstFrame": 15036,
+      "endFrame": 15154,
+      "frames": 118,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/15036-15154/video.mp4",
+      "videoSHA256": "24963b0911523b659325df16496a4f20591ef52e22a47ae32e6ec143ec0d5efa"
+    },
+    {
+      "firstFrame": 15154,
+      "endFrame": 15272,
+      "frames": 118,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/15154-15272/video.mp4",
+      "videoSHA256": "e17b29eab2a0acb91d6932bd44f9b7b9398b216bc13af32178d60feee5bd8162"
+    },
+    {
+      "firstFrame": 15272,
+      "endFrame": 15390,
+      "frames": 118,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/15272-15390/video.mp4",
+      "videoSHA256": "de3fa7311d561881390e2b16ffe17d28e6e99911ed7ca4307ff7f40c1780f9c3"
+    },
+    {
+      "firstFrame": 15390,
+      "endFrame": 15508,
+      "frames": 118,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/15390-15508/video.mp4",
+      "videoSHA256": "dfb7d0f671de1aa6f3ac89a1139c34c2d39b859ae99bc79cb0c8c64761c9461e"
+    },
+    {
+      "firstFrame": 15508,
+      "endFrame": 15627,
+      "frames": 119,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/15508-15627/video.mp4",
+      "videoSHA256": "456dcc3751ed3c2d24f5d7aa9ba6add3d33d54bb243ccdac39a1e839330be50d"
+    },
+    {
+      "firstFrame": 15627,
+      "endFrame": 15745,
+      "frames": 118,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/15627-15745/video.mp4",
+      "videoSHA256": "7e384cea8182270952544f6043d9d5019b83f187c3b01df12edcbeff96fab6a4"
+    },
+    {
+      "firstFrame": 15745,
+      "endFrame": 15863,
+      "frames": 118,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/15745-15863/video.mp4",
+      "videoSHA256": "11e78516078f145a4856d5280e0e4eaa431f3050367379792e04a5faa6c2f8fb"
+    },
+    {
+      "firstFrame": 15863,
+      "endFrame": 15981,
+      "frames": 118,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/15863-15981/video.mp4",
+      "videoSHA256": "918ef85e4c690562d5074c40fd354430b760d15d955689af6665b2a9060f8c6b"
+    },
+    {
+      "firstFrame": 15981,
+      "endFrame": 16099,
+      "frames": 118,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/15981-16099/video.mp4",
+      "videoSHA256": "7c644fe81a1e6e54083f82b0e084a0f7bec37e17c998adf6c911448c62b6ce9d"
+    },
+    {
+      "firstFrame": 16099,
+      "endFrame": 16217,
+      "frames": 118,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/16099-16217/video.mp4",
+      "videoSHA256": "d031666c20933e564f332b91c1d82ce312b590f4186fdef23c898efb455bb6db"
+    },
+    {
+      "firstFrame": 16217,
+      "endFrame": 16335,
+      "frames": 118,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/16217-16335/video.mp4",
+      "videoSHA256": "b9d2f4f133350ca96eb17ef6fb19bcb55273e7836b19fd481118d54b63c1e355"
+    },
+    {
+      "firstFrame": 16335,
+      "endFrame": 16454,
+      "frames": 119,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/16335-16454/video.mp4",
+      "videoSHA256": "52d7ead3b756a5787f5d89cfd23059a3a6903678d2a4a6f2ee3496404ea87c48"
+    },
+    {
+      "firstFrame": 16454,
+      "endFrame": 16572,
+      "frames": 118,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/16454-16572/video.mp4",
+      "videoSHA256": "9e28a79f46ef40f41ed046c2dfae461e188b1a4880df0af0ace54ffb30093e23"
+    },
+    {
+      "firstFrame": 16572,
+      "endFrame": 16690,
+      "frames": 118,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/16572-16690/video.mp4",
+      "videoSHA256": "d6c388667a8131f1d031865545defc46c7aab9c4783f0d6f0c22149127ccbeb4"
+    },
+    {
+      "firstFrame": 16690,
+      "endFrame": 16808,
+      "frames": 118,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/16690-16808/video.mp4",
+      "videoSHA256": "1bfb48d8137a4c66ba86e18cc8a3deb0a1af9e03dab89e8c97574e26838127b0"
+    },
+    {
+      "firstFrame": 16808,
+      "endFrame": 16926,
+      "frames": 118,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/16808-16926/video.mp4",
+      "videoSHA256": "cef943800baaa0469e5e67c3d8eebb54307b84e191e9b2feee9c51a2a62be359"
+    },
+    {
+      "firstFrame": 16926,
+      "endFrame": 17045,
+      "frames": 119,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/16926-17045/video.mp4",
+      "videoSHA256": "ca06db16f0acfa95741c0fba14fb96fd322f9349c7d12bf9d20c8e4e63bb7626"
+    },
+    {
+      "firstFrame": 17045,
+      "endFrame": 17163,
+      "frames": 118,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/17045-17163/video.mp4",
+      "videoSHA256": "d06c15ce536015802f95f0e70f20a4d82e0d55a67614bdfefef4c5831a5be3dc"
+    },
+    {
+      "firstFrame": 17163,
+      "endFrame": 17281,
+      "frames": 118,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/17163-17281/video.mp4",
+      "videoSHA256": "4a840fd8378996930bbaea565a6dffef6e59c57a450148a8c8baf76cdd166687"
+    },
+    {
+      "firstFrame": 17281,
+      "endFrame": 17399,
+      "frames": 118,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/17281-17399/video.mp4",
+      "videoSHA256": "4819ee6d56edac9ca3f679109f8a7789e14897632a4430689db20cede632f5c8"
+    },
+    {
+      "firstFrame": 17399,
+      "endFrame": 17517,
+      "frames": 118,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/17399-17517/video.mp4",
+      "videoSHA256": "8b1c0190fdba870b0ece5539bd0d3d872fef6e410a81263beb003cb4ee34e9aa"
+    },
+    {
+      "firstFrame": 17517,
+      "endFrame": 17635,
+      "frames": 118,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/17517-17635/video.mp4",
+      "videoSHA256": "84bd35f6a625f6a96fe7fcee4e094f5c60f95db8b14cc84850f099e47f5dc49f"
+    },
+    {
+      "firstFrame": 17635,
+      "endFrame": 17753,
+      "frames": 118,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/17635-17753/video.mp4",
+      "videoSHA256": "5bb7bfd1c1ef7025a0b40890c49798ba77403b5bdc85ba5404d747294d132677"
+    },
+    {
+      "firstFrame": 17753,
+      "endFrame": 17872,
+      "frames": 119,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/17753-17872/video.mp4",
+      "videoSHA256": "8ec69b05f02c1c67241bc9fd795908a5854903f6d96e7084b5b51a54b67be9a9"
+    },
+    {
+      "firstFrame": 17872,
+      "endFrame": 17990,
+      "frames": 118,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/17872-17990/video.mp4",
+      "videoSHA256": "73f707a2ff5fbccb48b639e5898e53f8ee6f239a1ebbd3a75eab5e4dbd23e57a"
+    },
+    {
+      "firstFrame": 17990,
+      "endFrame": 18108,
+      "frames": 118,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/17990-18108/video.mp4",
+      "videoSHA256": "fcbce59a2f966076e71f3e85ccfc7327c8dbb2d28d6e43e9be414a2b0627900a"
+    },
+    {
+      "firstFrame": 18108,
+      "endFrame": 18226,
+      "frames": 118,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/18108-18226/video.mp4",
+      "videoSHA256": "e63d77f9d30f5a3e2a89a8bfdf601fb9fc9c516bc4995276bedb31c1aad5b5fb"
+    },
+    {
+      "firstFrame": 18226,
+      "endFrame": 18344,
+      "frames": 118,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/18226-18344/video.mp4",
+      "videoSHA256": "e34f10f7fe0910c4f6c3e8056107d1588344c2aafa2ffc095512c14b4768bbdc"
+    },
+    {
+      "firstFrame": 18344,
+      "endFrame": 18463,
+      "frames": 119,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/18344-18463/video.mp4",
+      "videoSHA256": "ff1724fd11df940b8f37a56b178eaa6befb9f3ca3a7536905a7fcb4de460027a"
+    },
+    {
+      "firstFrame": 18463,
+      "endFrame": 18581,
+      "frames": 118,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/18463-18581/video.mp4",
+      "videoSHA256": "d69fdbec8785dc89e307b201a4360672125db46e1094206367184310a2cfc0ff"
+    },
+    {
+      "firstFrame": 18581,
+      "endFrame": 18699,
+      "frames": 118,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/18581-18699/video.mp4",
+      "videoSHA256": "140da152ce237b5c0c79a55cfc0a42bb6b5e01fd2aac362c6635dbfd5a7d86e8"
+    },
+    {
+      "firstFrame": 18699,
+      "endFrame": 18817,
+      "frames": 118,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/18699-18817/video.mp4",
+      "videoSHA256": "e421f0dde6c9d74a35ba88c9ff4f03049d190a64351bf203b727e7c3225899c3"
+    },
+    {
+      "firstFrame": 18817,
+      "endFrame": 18935,
+      "frames": 118,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/18817-18935/video.mp4",
+      "videoSHA256": "38458fd0e6ab63971fce29f273fdf4ea755c4fcbab19dcf61c59df3b38742689"
+    },
+    {
+      "firstFrame": 18935,
+      "endFrame": 19053,
+      "frames": 118,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/18935-19053/video.mp4",
+      "videoSHA256": "30370d5923a9c9e599e055bdce5ab5970575415b446ba49fb1e76070319478b7"
+    },
+    {
+      "firstFrame": 19053,
+      "endFrame": 19171,
+      "frames": 118,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-denial-render-20261029-0313/19053-19171/video.mp4",
+      "videoSHA256": "fa21568561e9d890ec4b638192fba491f630e52208583bc3e6fc418081e7d265"
+    },
+    {
+      "firstFrame": 19171,
+      "endFrame": 19290,
+      "frames": 119,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-denial-render-20261029-0313/19171-19290/video.mp4",
+      "videoSHA256": "4d17d005ae9d20074ed0a0b1c619cd2ca55e4828540853117bbe52b2d4ade392"
+    },
+    {
+      "firstFrame": 19290,
+      "endFrame": 19408,
+      "frames": 118,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-denial-render-20261029-0313/19290-19408/video.mp4",
+      "videoSHA256": "ce643ac7afb3e9bc190f3cce575796649592f4e62c12dda76438be09edb8d68a"
+    },
+    {
+      "firstFrame": 19408,
+      "endFrame": 19526,
+      "frames": 118,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-denial-render-20261029-0313/19408-19526/video.mp4",
+      "videoSHA256": "36a9a34a292bb770fa14a0d5599babe2902347a8110ea04b37b42885ddbeeb1c"
+    },
+    {
+      "firstFrame": 19526,
+      "endFrame": 19646,
+      "frames": 120,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-denial-render-20261029-0313/19526-19646/video.mp4",
+      "videoSHA256": "4136c50101068412e934713102b763d035bb86f31100c89a472e63cb85ab62b5"
+    },
+    {
+      "firstFrame": 19646,
+      "endFrame": 19765,
+      "frames": 119,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-denial-render-20261029-0313/19646-19765/video.mp4",
+      "videoSHA256": "f34c2e058b482a52251710535e6f677bbadbfca6c417306a4384548ce374ea2d"
+    },
+    {
+      "firstFrame": 19765,
+      "endFrame": 19885,
+      "frames": 120,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-denial-render-20261029-0313/19765-19885/video.mp4",
+      "videoSHA256": "00b31629c12d066a6f725d5665bfa1bcb62a48152ad852eedd7575739ea11828"
+    },
+    {
+      "firstFrame": 19885,
+      "endFrame": 20005,
+      "frames": 120,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-denial-render-20261029-0313/19885-20005/video.mp4",
+      "videoSHA256": "c1de7794c20d9b127278fa2e39209e96b2b1d1d25a0326fa42509a354a751402"
+    },
+    {
+      "firstFrame": 20005,
+      "endFrame": 20125,
+      "frames": 120,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-denial-render-20261029-0313/20005-20125/video.mp4",
+      "videoSHA256": "377abe0cc9dfe5a74bdc5c2d81a5be7d379f68c46baab5afff88b553026e9389"
+    },
+    {
+      "firstFrame": 20125,
+      "endFrame": 20244,
+      "frames": 119,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-denial-render-20261029-0313/20125-20244/video.mp4",
+      "videoSHA256": "03db895ae7dc5665778690ad73261cb5a0167ec204879a540a1d8bfa2ee21306"
+    },
+    {
+      "firstFrame": 20244,
+      "endFrame": 20364,
+      "frames": 120,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-denial-render-20261029-0313/20244-20364/video.mp4",
+      "videoSHA256": "0de7699d23d94074b1704cf7a2e2410519779e0b2cc65ffc980cedba21335f50"
+    },
+    {
+      "firstFrame": 20364,
+      "endFrame": 20484,
+      "frames": 120,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-denial-render-20261029-0313/20364-20484/video.mp4",
+      "videoSHA256": "51369b79703b1d4ccde0754a9b903a84790822569da643c460130cdb7b333620"
+    },
+    {
+      "firstFrame": 20484,
+      "endFrame": 20603,
+      "frames": 119,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-denial-render-20261029-0313/20484-20603/video.mp4",
+      "videoSHA256": "4721953838f1488f94c43694ed2680f37f53da609a0bb90c6ac5a9d95c9e5802"
+    },
+    {
+      "firstFrame": 20603,
+      "endFrame": 20723,
+      "frames": 120,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-denial-render-20261029-0313/20603-20723/video.mp4",
+      "videoSHA256": "ca883b4ab332cfab9237af459d484f1ed4dfb4084d24af57eb90ab32dfcf1f60"
+    },
+    {
+      "firstFrame": 20723,
+      "endFrame": 20843,
+      "frames": 120,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-denial-render-20261029-0313/20723-20843/video.mp4",
+      "videoSHA256": "455db67ccf5fc666e80affdbe5142d79b8f27ed60ae7199c32e57b2d3e86a887"
+    },
+    {
+      "firstFrame": 20843,
+      "endFrame": 20963,
+      "frames": 120,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/20843-20963/video.mp4",
+      "videoSHA256": "7320c37662e3f083ff309c2799d83549dfaffe28a978630c5f6b00641daec3f9"
+    },
+    {
+      "firstFrame": 20963,
+      "endFrame": 21082,
+      "frames": 119,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/20963-21082/video.mp4",
+      "videoSHA256": "95776e20f89d6bb00f6ed6cac90213c4c3f8aa815084aedf1ffd5a3e031f1c15"
+    },
+    {
+      "firstFrame": 21082,
+      "endFrame": 21202,
+      "frames": 120,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/21082-21202/video.mp4",
+      "videoSHA256": "f8bce66f69b05f63f5be7d64bab657db95566e5cddb67a078d802e962d2469d2"
+    },
+    {
+      "firstFrame": 21202,
+      "endFrame": 21322,
+      "frames": 120,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/21202-21322/video.mp4",
+      "videoSHA256": "e46f39f0f2645d5ab58fd8e2853bbc9f0ef0364bb7f8a88dd28c5882d6bbd7e2"
+    },
+    {
+      "firstFrame": 21322,
+      "endFrame": 21442,
+      "frames": 120,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/21322-21442/video.mp4",
+      "videoSHA256": "a1351a1c20dcd47bf775dfe86fdde75bb5fd818fd8ee8b64af69e82046522800"
+    },
+    {
+      "firstFrame": 21442,
+      "endFrame": 21561,
+      "frames": 119,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/21442-21561/video.mp4",
+      "videoSHA256": "91f31f36e6a92eb713f1e55041057155f5b9f21a81d7d0d8b12500c8c45359b9"
+    },
+    {
+      "firstFrame": 21561,
+      "endFrame": 21681,
+      "frames": 120,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/21561-21681/video.mp4",
+      "videoSHA256": "21ab0d5e21066ef84595591d44b251f178a1772d8d70e3814897903e2d7ba760"
+    },
+    {
+      "firstFrame": 21681,
+      "endFrame": 21801,
+      "frames": 120,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/21681-21801/video.mp4",
+      "videoSHA256": "9edfb71dc3f3e84ab1eb253cb1197e885f37277e91e33a51dc6a7c3020dfb953"
+    },
+    {
+      "firstFrame": 21801,
+      "endFrame": 21920,
+      "frames": 119,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/21801-21920/video.mp4",
+      "videoSHA256": "a2924b5bf9c54ffa284cadf87442b4babe32fb6e8ae2fb058c26877d2f043ffe"
+    },
+    {
+      "firstFrame": 21920,
+      "endFrame": 22040,
+      "frames": 120,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/21920-22040/video.mp4",
+      "videoSHA256": "0ec009d60e3b9785be751135486eb4292d7cdc78844189eaa419cee4cd80ffa7"
+    },
+    {
+      "firstFrame": 22040,
+      "endFrame": 22160,
+      "frames": 120,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/22040-22160/video.mp4",
+      "videoSHA256": "672fde1bbd5de1ca939cfb982535069e63cea1f932407931d79355cdeb6094e0"
+    },
+    {
+      "firstFrame": 22160,
+      "endFrame": 22280,
+      "frames": 120,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/22160-22280/video.mp4",
+      "videoSHA256": "eb39aca849ba2e4ebafb3af7e014217ec82f8a17ab702476c2bccc13575ed17a"
+    },
+    {
+      "firstFrame": 22280,
+      "endFrame": 22399,
+      "frames": 119,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/22280-22399/video.mp4",
+      "videoSHA256": "6783eff53aefab8150897129813f23c28508d2234d41649c370c8c206ec54b10"
+    },
+    {
+      "firstFrame": 22399,
+      "endFrame": 22519,
+      "frames": 120,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/22399-22519/video.mp4",
+      "videoSHA256": "8fa8272de98fe81c347704fd824c61abc6b1396e8e89c49517439e73ca602ffc"
+    },
+    {
+      "firstFrame": 22519,
+      "endFrame": 22639,
+      "frames": 120,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/22519-22639/video.mp4",
+      "videoSHA256": "4e5801ec36778129157abd416160bc2be239ffd66db3e4124b9087927d7474c1"
+    },
+    {
+      "firstFrame": 22639,
+      "endFrame": 22758,
+      "frames": 119,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/22639-22758/video.mp4",
+      "videoSHA256": "0df3750566d1483e7e21899ca283ff501c3c313feb81f018c5291403508bea26"
+    },
+    {
+      "firstFrame": 22758,
+      "endFrame": 22878,
+      "frames": 120,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/22758-22878/video.mp4",
+      "videoSHA256": "b322bb62e15a0dba59ef433959d2a3788feda5141c41506961c4f7d40d8e0fde"
+    },
+    {
+      "firstFrame": 22878,
+      "endFrame": 22998,
+      "frames": 120,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/22878-22998/video.mp4",
+      "videoSHA256": "70e217196e4a0001f5b30cc9d55cbcf1f50d3e95407a44ffd24ab3124bd89cfc"
+    },
+    {
+      "firstFrame": 22998,
+      "endFrame": 23118,
+      "frames": 120,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/22998-23118/video.mp4",
+      "videoSHA256": "b411fa3ed1de9e973babd8e7b1316ab2e2ec7f6379db0c31d47759798732325a"
+    },
+    {
+      "firstFrame": 23118,
+      "endFrame": 23237,
+      "frames": 119,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/23118-23237/video.mp4",
+      "videoSHA256": "01c153ae576d268199290736c667678bfd26480918e252b153b0b5b94e1483b6"
+    },
+    {
+      "firstFrame": 23237,
+      "endFrame": 23357,
+      "frames": 120,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/23237-23357/video.mp4",
+      "videoSHA256": "62cb539b40e2ac9ac04822f5a01d12a72a2ea933301798b4efb3b6286aaa94aa"
+    },
+    {
+      "firstFrame": 23357,
+      "endFrame": 23477,
+      "frames": 120,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/23357-23477/video.mp4",
+      "videoSHA256": "374dcdf98a78a10c5ae66aee92af6344127c7dd329145ccf5823e63d9891f27b"
+    },
+    {
+      "firstFrame": 23477,
+      "endFrame": 23596,
+      "frames": 119,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/23477-23596/video.mp4",
+      "videoSHA256": "3bf59de64c44386ad83594e5452f83525e9c18379ee4f6275ac82bf182258da3"
+    },
+    {
+      "firstFrame": 23596,
+      "endFrame": 23716,
+      "frames": 120,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/23596-23716/video.mp4",
+      "videoSHA256": "a3018b902d11817eda87c709ac575d9abe2eb7641a948d9f2fad3e18d90d58b8"
+    },
+    {
+      "firstFrame": 23716,
+      "endFrame": 23836,
+      "frames": 120,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/23716-23836/video.mp4",
+      "videoSHA256": "e508229d8320bff8c03bbd2a31d9b57efa30ed70236b38fec16a0b16229a128b"
+    },
+    {
+      "firstFrame": 23836,
+      "endFrame": 23956,
+      "frames": 120,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/23836-23956/video.mp4",
+      "videoSHA256": "712ad924684882a9bbd8337b134788d5c2528664d61f1d130777708efa93d145"
+    },
+    {
+      "firstFrame": 23956,
+      "endFrame": 24075,
+      "frames": 119,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/23956-24075/video.mp4",
+      "videoSHA256": "628f566ae24658fbd15eb9c45b49155b929e3180db56a7d526a22a072909ed21"
+    },
+    {
+      "firstFrame": 24075,
+      "endFrame": 24195,
+      "frames": 120,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/24075-24195/video.mp4",
+      "videoSHA256": "51f18dc659bd1e54ee2c35663de159cacda1b896d9ddfb6d43d33d23f7be9162"
+    },
+    {
+      "firstFrame": 24195,
+      "endFrame": 24315,
+      "frames": 120,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/24195-24315/video.mp4",
+      "videoSHA256": "bfe1568ca92bc8663ca4491e0e47a70b8f32178a9b502e8760d7f4c9569939c7"
+    },
+    {
+      "firstFrame": 24315,
+      "endFrame": 24435,
+      "frames": 120,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/24315-24435/video.mp4",
+      "videoSHA256": "cf7af627ba990e554657deb707c5e319cf6c0d48bf0a3dc0b10fbe56504f8c88"
+    },
+    {
+      "firstFrame": 24435,
+      "endFrame": 24554,
+      "frames": 119,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/24435-24554/video.mp4",
+      "videoSHA256": "817450f4d76c75c68a9375767ed33a0a9152bf1d542d8721fc66cd46ec76494a"
+    },
+    {
+      "firstFrame": 24554,
+      "endFrame": 24674,
+      "frames": 120,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/24554-24674/video.mp4",
+      "videoSHA256": "03d456e47ae6cc3d51c57de230f65cef6dcaf7a4244f1ccc1aa889006d6d707c"
+    },
+    {
+      "firstFrame": 24674,
+      "endFrame": 24794,
+      "frames": 120,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/24674-24794/video.mp4",
+      "videoSHA256": "525869a1729c20df33f9360fbb04a52a0cb4031e1deff04ad591bb8722fdd3f7"
+    },
+    {
+      "firstFrame": 24794,
+      "endFrame": 24913,
+      "frames": 119,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/24794-24913/video.mp4",
+      "videoSHA256": "5f915e49d5e7562ba08ff87d11ff6d47c586c7cb7ba7140d02c46be46e282dd9"
+    },
+    {
+      "firstFrame": 24913,
+      "endFrame": 25033,
+      "frames": 120,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/24913-25033/video.mp4",
+      "videoSHA256": "70bf10f63cfe74fc8fb76f7cff9210a0d751aa8651fe8f4f2b3b648b09f626f2"
+    },
+    {
+      "firstFrame": 25033,
+      "endFrame": 25153,
+      "frames": 120,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/25033-25153/video.mp4",
+      "videoSHA256": "6551ccf2599d2baa1e7f4e48abe5fa087c130d1af9bb090f35941378b8c38dd2"
+    },
+    {
+      "firstFrame": 25153,
+      "endFrame": 25273,
+      "frames": 120,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/25153-25273/video.mp4",
+      "videoSHA256": "1737043a1f9472e287e2c93dedb28326b6e9f13851be88762aa9ee27887cff89"
+    },
+    {
+      "firstFrame": 25273,
+      "endFrame": 25392,
+      "frames": 119,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/25273-25392/video.mp4",
+      "videoSHA256": "0f5dc4d8580cb7c7ef1c200c4a7d2fe7830d46996d12661ed38f794a0a91ae7a"
+    },
+    {
+      "firstFrame": 25392,
+      "endFrame": 25512,
+      "frames": 120,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/25392-25512/video.mp4",
+      "videoSHA256": "e20b039dab4061a7e2b10c56fb369e1e280167a9b96dd22c87cb07e64fd642f4"
+    },
+    {
+      "firstFrame": 25512,
+      "endFrame": 25632,
+      "frames": 120,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/25512-25632/video.mp4",
+      "videoSHA256": "d805a0de490f1e3e56291732fa4c4a60a299c5f72fe6c355ed10e36c05d77276"
+    },
+    {
+      "firstFrame": 25632,
+      "endFrame": 25751,
+      "frames": 119,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/25632-25751/video.mp4",
+      "videoSHA256": "6282a2d9306c5ebbd364d883a378bf17e19cd3dd08e39c74d5ee685ee06b4e36"
+    },
+    {
+      "firstFrame": 25751,
+      "endFrame": 25871,
+      "frames": 120,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/25751-25871/video.mp4",
+      "videoSHA256": "3319777848782dd713e5241c59c32446c94cc4727914a2374e995d61ec9c476b"
+    },
+    {
+      "firstFrame": 25871,
+      "endFrame": 25991,
+      "frames": 120,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/25871-25991/video.mp4",
+      "videoSHA256": "8b26ba6af387b179449b0f777c3b1f7ba21e18398f33b57634e6814170ad0202"
+    },
+    {
+      "firstFrame": 25991,
+      "endFrame": 26110,
+      "frames": 119,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/25991-26110/video.mp4",
+      "videoSHA256": "8c44b03b52c8da219c39f45cc5688a10c112125a42008e9172c01db4439f82cd"
+    },
+    {
+      "firstFrame": 26110,
+      "endFrame": 26230,
+      "frames": 120,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/26110-26230/video.mp4",
+      "videoSHA256": "c07351fcdd138529f0a96fb8addcb6af043b77d3455d1e3b74a797a83e055fa4"
+    },
+    {
+      "firstFrame": 26230,
+      "endFrame": 26350,
+      "frames": 120,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/26230-26350/video.mp4",
+      "videoSHA256": "48c35b7884e639601ae2d6ed5b2021ad66aeb72cd66a43c5a36c8954b3b0bbb0"
+    },
+    {
+      "firstFrame": 26350,
+      "endFrame": 26469,
+      "frames": 119,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/26350-26469/video.mp4",
+      "videoSHA256": "69e27e4bec3e3bd3ada96b4ebaa6376daa3759db5f475a1f8cd2b773ab650e69"
+    },
+    {
+      "firstFrame": 26469,
+      "endFrame": 26589,
+      "frames": 120,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/26469-26589/video.mp4",
+      "videoSHA256": "a0371b06852e3a2e00f3f15ecebce2bff23131d4e410449b175a24a9877c6518"
+    },
+    {
+      "firstFrame": 26589,
+      "endFrame": 26709,
+      "frames": 120,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/26589-26709/video.mp4",
+      "videoSHA256": "34089b94a40ddbcf131b6d3bf95f42939d20e00b94de063f424aafbda4d6b8f9"
+    },
+    {
+      "firstFrame": 26709,
+      "endFrame": 26828,
+      "frames": 119,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/26709-26828/video.mp4",
+      "videoSHA256": "4c6b9f1843be91f0b1b3acfc495cf3fccaa4010dc281fa773a25c09d416e6b13"
+    },
+    {
+      "firstFrame": 26828,
+      "endFrame": 26948,
+      "frames": 120,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/26828-26948/video.mp4",
+      "videoSHA256": "92175c7c3fc1876dcc3bb70267b89597b8178f3b41068ab89826c2284841c718"
+    },
+    {
+      "firstFrame": 26948,
+      "endFrame": 27068,
+      "frames": 120,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/26948-27068/video.mp4",
+      "videoSHA256": "140ec6411d1704491d0f727f760601e0ccd3258d323fbf9d6746416fb6819019"
+    },
+    {
+      "firstFrame": 27068,
+      "endFrame": 27187,
+      "frames": 119,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/27068-27187/video.mp4",
+      "videoSHA256": "1a63f8a043ee96ce1183d1cfe3df2827bea16821e1d1b4489df8fe593a0f7b25"
+    },
+    {
+      "firstFrame": 27187,
+      "endFrame": 27307,
+      "frames": 120,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/27187-27307/video.mp4",
+      "videoSHA256": "d2c84752774ffd2f5ffeaae52319a53e722857e10b061e443453a2105289bd51"
+    },
+    {
+      "firstFrame": 27307,
+      "endFrame": 27427,
+      "frames": 120,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/27307-27427/video.mp4",
+      "videoSHA256": "8fa0e6c5ba65445385be6f615390b15dfaabebd6da0a53d3a7ba19a5f54f90d3"
+    },
+    {
+      "firstFrame": 27427,
+      "endFrame": 27546,
+      "frames": 119,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/27427-27546/video.mp4",
+      "videoSHA256": "7a03c04dd99107d228f64b29aabf16509c1c9150ed771587312a90a7537b4aab"
+    },
+    {
+      "firstFrame": 27546,
+      "endFrame": 27666,
+      "frames": 120,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/27546-27666/video.mp4",
+      "videoSHA256": "2f39be9aed3b7e826a8b71f475a84b71bf55d11f569b72184df4f94d49dc7c2d"
+    },
+    {
+      "firstFrame": 27666,
+      "endFrame": 27786,
+      "frames": 120,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/27666-27786/video.mp4",
+      "videoSHA256": "09e89507b7bb12c8186c3f7fe2fa954beb1cb08ee9513eba2be235b890d56278"
+    },
+    {
+      "firstFrame": 27786,
+      "endFrame": 27905,
+      "frames": 119,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/27786-27905/video.mp4",
+      "videoSHA256": "35a131c627fb8624d13b5c4ce13ff7c296a266bfc40b5eb9cb8ccf6e33b3faa1"
+    },
+    {
+      "firstFrame": 27905,
+      "endFrame": 28025,
+      "frames": 120,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/27905-28025/video.mp4",
+      "videoSHA256": "0ee90928cb41e4189d55204c4ef259e81b2c727b7a8bf14d5a290eb321cef40c"
+    },
+    {
+      "firstFrame": 28025,
+      "endFrame": 28144,
+      "frames": 119,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/28025-28144/video.mp4",
+      "videoSHA256": "6ee5400b45bc0c788ed94e1fde326ee8a4ee751d59691f17eb6b4af4a7aeb5cd"
+    },
+    {
+      "firstFrame": 28144,
+      "endFrame": 28264,
+      "frames": 120,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/28144-28264/video.mp4",
+      "videoSHA256": "67c5976d59297af709f94ae0ed42a9b11da948f7b494e79d625cd49da6363f20"
+    },
+    {
+      "firstFrame": 28264,
+      "endFrame": 28384,
+      "frames": 120,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/28264-28384/video.mp4",
+      "videoSHA256": "809039c07b748e87bb3f873c371ef80d9edd32e50c1549707705380564687add"
+    },
+    {
+      "firstFrame": 28384,
+      "endFrame": 28503,
+      "frames": 119,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/28384-28503/video.mp4",
+      "videoSHA256": "0507e774fd00ccb70f481a4fb5f50c39cfd4a51c9cc896d553340dc1e927dccb"
+    },
+    {
+      "firstFrame": 28503,
+      "endFrame": 28623,
+      "frames": 120,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/28503-28623/video.mp4",
+      "videoSHA256": "c6206dd1a00864c9737c2142703059c23af362b7a355cb971aeec995e1325e2e"
+    },
+    {
+      "firstFrame": 28623,
+      "endFrame": 28743,
+      "frames": 120,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/28623-28743/video.mp4",
+      "videoSHA256": "831215b77474d40ec9a85d3c403d5c477ffd4542eda520335788f56ca084c3e5"
+    },
+    {
+      "firstFrame": 28743,
+      "endFrame": 28862,
+      "frames": 119,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/28743-28862/video.mp4",
+      "videoSHA256": "0b6933c93cccb177c2466a51e95012608a0913c243c17dfd05b2e91673a27428"
+    },
+    {
+      "firstFrame": 28862,
+      "endFrame": 28982,
+      "frames": 120,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/28862-28982/video.mp4",
+      "videoSHA256": "37dd84c1ac25e67b0824f8f25d1b546f50c2adf3fd9201936aba65f1e3efa85c"
+    },
+    {
+      "firstFrame": 28982,
+      "endFrame": 29102,
+      "frames": 120,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/28982-29102/video.mp4",
+      "videoSHA256": "8ce7301ca421b76a9a7a945eebd47855bc7b1a399685c2cb3b023b9783db3e7e"
+    },
+    {
+      "firstFrame": 29102,
+      "endFrame": 29221,
+      "frames": 119,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/29102-29221/video.mp4",
+      "videoSHA256": "562088276962bc57205dd2893b0d6775eb50b6783f76b6a6617f2c9204ac1d43"
+    },
+    {
+      "firstFrame": 29221,
+      "endFrame": 29341,
+      "frames": 120,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/29221-29341/video.mp4",
+      "videoSHA256": "130178b8cd3c8da2e6a5b79dab39bbef04b61e4d12e1fb73f8ae99eecb8b0b0c"
+    },
+    {
+      "firstFrame": 29341,
+      "endFrame": 29461,
+      "frames": 120,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/29341-29461/video.mp4",
+      "videoSHA256": "34129d2fa8cf6cff0d0272e38a4ec1d7f10ef736f5e455c81e68924f5018e65a"
+    },
+    {
+      "firstFrame": 29461,
+      "endFrame": 29580,
+      "frames": 119,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/29461-29580/video.mp4",
+      "videoSHA256": "45890415a40b190caffd55d82050e8364e9cff1f5e8fb8443dae9012bde60146"
+    },
+    {
+      "firstFrame": 29580,
+      "endFrame": 29700,
+      "frames": 120,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/29580-29700/video.mp4",
+      "videoSHA256": "b47da9025a537f64242b1342375dc250a02309a152556c6fad66e76a4f1f49a7"
+    },
+    {
+      "firstFrame": 29700,
+      "endFrame": 29820,
+      "frames": 120,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/29700-29820/video.mp4",
+      "videoSHA256": "20084fcdc63f105bb3b4aa32372cdbafcb42fac10778fd62bbf7c9dcc48d5e36"
+    },
+    {
+      "firstFrame": 29820,
+      "endFrame": 29939,
+      "frames": 119,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/29820-29939/video.mp4",
+      "videoSHA256": "94fa07b6ca855afc49718b12048203189f65adb23b130270c7c6a8031aae6642"
+    },
+    {
+      "firstFrame": 29939,
+      "endFrame": 30059,
+      "frames": 120,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/29939-30059/video.mp4",
+      "videoSHA256": "9846a32beb09b9b8085240c4462e66ea49177703769557e2753b94234a577ad6"
+    },
+    {
+      "firstFrame": 30059,
+      "endFrame": 30179,
+      "frames": 120,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/30059-30179/video.mp4",
+      "videoSHA256": "40917940d2e2a50bdcc300e3cbd369f108a5b3a0ba1cab9a3ced1598d53ff08a"
+    },
+    {
+      "firstFrame": 30179,
+      "endFrame": 30298,
+      "frames": 119,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/30179-30298/video.mp4",
+      "videoSHA256": "12851c6076db5b0e8e2fbaa5bb8bd5b59fb63671cc778e00398f3b533b1240a3"
+    },
+    {
+      "firstFrame": 30298,
+      "endFrame": 30418,
+      "frames": 120,
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-render-20261029/30298-30418/video.mp4",
+      "videoSHA256": "c335ff522903ed47072ae67adf3ced75d69cc280b59ca84b1e378320bb8196fc"
+    }
+  ],
+  "replacementReceipt": "hakawi_repair/portrait-final-review-0240/denial-patch-0313/COVERAGE.json",
+  "findings": [
+    "No unresolved major visual defect in selected composition. Rejected original denial proximity rows excluded.",
+    "Farouk cover range24579-24630: hand occluded by supported book cover; stable opening, no visible support loss.",
+    "Yaser29225: empty hands returning below bench-supported released box; tiny residual not visible contact failure.",
+    "Furniture429.84 pickup/closing and431.8 chair removal are distinct authored edits, not continuous actions.",
+    "Sleeve453.05 release is distinct insert edit; no continuous finger-unclenching claim.",
+    "Ending489.35 dry-pot cutaway and490.35 seated return elide sitting; pelvis and soles supported."
+  ],
+  "assemblyVisualGate": "PASS",
+  "assemblyReceipt": "hakawi_repair/portrait-final-review-0240/JOINED_V2_VISUAL_RECEIPT.json"
+}

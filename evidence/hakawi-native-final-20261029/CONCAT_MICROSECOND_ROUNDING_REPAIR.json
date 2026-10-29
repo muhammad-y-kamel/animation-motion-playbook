@@ -1,0 +1,11 @@
+{
+  "status": "PROVEN_REPAIR_ALL15855_DECODED_FRAMES_AND_EXACT_CADENCE_PASS",
+  "cause": "Concat demuxer rounds each clip duration to microseconds; per-clip rounding accumulates enough to rescale one60kHz PTS tick. No decoded frame mismatch in checked firstpart.",
+  "rejectedDirectory": "hakawi-native-portrait-final-20261029",
+  "replacementDirectory": "hakawi-native-portrait-final-v2-20261029",
+  "fix": "Explicit ffconcat durations are differences of rounded cumulative global-frame timestamps, avoiding per-clip accumulation. Video stream copy and canonical PCM slices unchanged.",
+  "packetValidation": "All15855 presentation timestamps exactly i*1000 in time_base1/60000; DTS strictly increasing perpart.",
+  "sourceFramesRerendered": 0,
+  "videoReencoded": false,
+  "terminalReceipt": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-final-v2-20261029/ALL_PARTS_PIXEL_TIMELINE_IDENTITY.json"
+}

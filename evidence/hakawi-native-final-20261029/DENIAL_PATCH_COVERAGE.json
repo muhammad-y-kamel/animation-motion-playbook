@@ -1,0 +1,129 @@
+{
+  "status": "SCOPED_VISUAL_PASS",
+  "firstFrame": 19053,
+  "reviewedEndFrame": 20843,
+  "expectedEndFrame": 20843,
+  "method": "All encoded frames viewed as sequential proxies plus native critical witnesses. No listening.",
+  "chunks": [
+    {
+      "firstFrame": 19053,
+      "endFrame": 19171,
+      "frames": 118,
+      "videoSHA256": "fa21568561e9d890ec4b638192fba491f630e52208583bc3e6fc418081e7d265",
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-denial-render-20261029-0313/19053-19171/video.mp4"
+    },
+    {
+      "firstFrame": 19171,
+      "endFrame": 19290,
+      "frames": 119,
+      "videoSHA256": "4d17d005ae9d20074ed0a0b1c619cd2ca55e4828540853117bbe52b2d4ade392",
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-denial-render-20261029-0313/19171-19290/video.mp4"
+    },
+    {
+      "firstFrame": 19290,
+      "endFrame": 19408,
+      "frames": 118,
+      "videoSHA256": "ce643ac7afb3e9bc190f3cce575796649592f4e62c12dda76438be09edb8d68a",
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-denial-render-20261029-0313/19290-19408/video.mp4"
+    },
+    {
+      "firstFrame": 19408,
+      "endFrame": 19526,
+      "frames": 118,
+      "videoSHA256": "36a9a34a292bb770fa14a0d5599babe2902347a8110ea04b37b42885ddbeeb1c",
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-denial-render-20261029-0313/19408-19526/video.mp4"
+    },
+    {
+      "firstFrame": 19526,
+      "endFrame": 19646,
+      "frames": 120,
+      "videoSHA256": "4136c50101068412e934713102b763d035bb86f31100c89a472e63cb85ab62b5",
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-denial-render-20261029-0313/19526-19646/video.mp4"
+    },
+    {
+      "firstFrame": 19646,
+      "endFrame": 19765,
+      "frames": 119,
+      "videoSHA256": "f34c2e058b482a52251710535e6f677bbadbfca6c417306a4384548ce374ea2d",
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-denial-render-20261029-0313/19646-19765/video.mp4"
+    },
+    {
+      "firstFrame": 19765,
+      "endFrame": 19885,
+      "frames": 120,
+      "videoSHA256": "00b31629c12d066a6f725d5665bfa1bcb62a48152ad852eedd7575739ea11828",
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-denial-render-20261029-0313/19765-19885/video.mp4"
+    },
+    {
+      "firstFrame": 19885,
+      "endFrame": 20005,
+      "frames": 120,
+      "videoSHA256": "c1de7794c20d9b127278fa2e39209e96b2b1d1d25a0326fa42509a354a751402",
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-denial-render-20261029-0313/19885-20005/video.mp4"
+    },
+    {
+      "firstFrame": 20005,
+      "endFrame": 20125,
+      "frames": 120,
+      "videoSHA256": "377abe0cc9dfe5a74bdc5c2d81a5be7d379f68c46baab5afff88b553026e9389",
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-denial-render-20261029-0313/20005-20125/video.mp4"
+    },
+    {
+      "firstFrame": 20125,
+      "endFrame": 20244,
+      "frames": 119,
+      "videoSHA256": "03db895ae7dc5665778690ad73261cb5a0167ec204879a540a1d8bfa2ee21306",
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-denial-render-20261029-0313/20125-20244/video.mp4"
+    },
+    {
+      "firstFrame": 20244,
+      "endFrame": 20364,
+      "frames": 120,
+      "videoSHA256": "0de7699d23d94074b1704cf7a2e2410519779e0b2cc65ffc980cedba21335f50",
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-denial-render-20261029-0313/20244-20364/video.mp4"
+    },
+    {
+      "firstFrame": 20364,
+      "endFrame": 20484,
+      "frames": 120,
+      "videoSHA256": "51369b79703b1d4ccde0754a9b903a84790822569da643c460130cdb7b333620",
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-denial-render-20261029-0313/20364-20484/video.mp4"
+    },
+    {
+      "firstFrame": 20484,
+      "endFrame": 20603,
+      "frames": 119,
+      "videoSHA256": "4721953838f1488f94c43694ed2680f37f53da609a0bb90c6ac5a9d95c9e5802",
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-denial-render-20261029-0313/20484-20603/video.mp4"
+    },
+    {
+      "firstFrame": 20603,
+      "endFrame": 20723,
+      "frames": 120,
+      "videoSHA256": "ca883b4ab332cfab9237af459d484f1ed4dfb4084d24af57eb90ab32dfcf1f60",
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-denial-render-20261029-0313/20603-20723/video.mp4"
+    },
+    {
+      "firstFrame": 20723,
+      "endFrame": 20843,
+      "frames": 120,
+      "videoSHA256": "455db67ccf5fc666e80affdbe5142d79b8f27ed60ae7199c32e57b2d3e86a887",
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-denial-render-20261029-0313/20723-20843/video.mp4"
+    }
+  ],
+  "framesReviewed": 1790,
+  "nativeWitnesses": [
+    19052,
+    19053,
+    19195,
+    19925,
+    20700,
+    20842,
+    20843
+  ],
+  "findings": [
+    "All 1790 encoded frames sequentially inspected in compressed sheets, with native critical witnesses. Empty hands remain visibly separate; no new overlap, ghost, stance or caption defect found.",
+    "318.16 and 346.88 authored shot cuts remain coherent. Outer base/patch joins 19052/19053 and 20842/20843 are continuous.",
+    "Visual gate only; no audio listening or full-release claim."
+  ]
+}
