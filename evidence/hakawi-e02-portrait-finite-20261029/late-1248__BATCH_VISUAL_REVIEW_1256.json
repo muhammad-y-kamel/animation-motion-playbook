@@ -1,0 +1,61 @@
+{
+  "rows": [
+    {
+      "proof": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/NP30-late-closure-v4-1246/proof.mp4",
+      "sha256": "36400a2d8f550f959b42f89dadbd11f15c3e9d3538deab0ee8822086c4cc635d",
+      "range": [
+        22128,
+        22620
+      ],
+      "framesReviewed": 492,
+      "nativeLocalFrames": [
+        72,
+        180,
+        191,
+        192,
+        485
+      ],
+      "verdict": "PASS",
+      "findings": "Canonical yellow grid/header4:34/wave signature, progressive nib stroke and retained settled ink; withdrawal and distinct phone memory/return cuts coherent, current captions without old-caption leakage."
+    },
+    {
+      "proof": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/NP31-late-closure-v4-1247/proof.mp4",
+      "sha256": "2b9a62787ee55435b75bdee255f8cfda60837c3c596f2339d992881f1954f193",
+      "range": [
+        22620,
+        23160
+      ],
+      "framesReviewed": 540,
+      "nativeLocalFrames": [
+        74,
+        450,
+        460,
+        475,
+        539
+      ],
+      "verdict": "PASS",
+      "findings": "378.2433 is hand contact with already-supported ledger, not opening; palm rests on supported book. Carbon page pull, early release then completion, stable bilateral support and persistent yellow identity; no continued grip claim."
+    },
+    {
+      "proof": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/NP32-late-closure-v4-1248/proof.mp4",
+      "sha256": "6aea83d8c1f95015147149b108e12f5824cf23486c3ca7fc6c7f90869e11ed8c",
+      "range": [
+        23606,
+        24024
+      ],
+      "framesReviewed": 418,
+      "nativeLocalFrames": [
+        60,
+        282,
+        360,
+        412
+      ],
+      "verdict": "HOLD",
+      "findings": "Inventory macro/book/blue cuff, carried ledger and final group cut visually coherent. Concrete door causality HOLD: first entrance frame282 aperture is fully closed, then door opens behind stationary Adel over ~1.1s with book in active hand and other arm down. Source label part-open is contradicted by actual pixels; lead confirmed geometry. Use already-open established arrival at existing cut, retaining elision of push/travel, then retest."
+    }
+  ],
+  "totalActualFramesReviewed": 1450,
+  "method": "All sequential decoded proxy frames plus native critical witnesses.",
+  "limits": "Finite actual visual only. NP30/31 PASS, NP32 HOLD limited to entrance door. No listening/full-film/source-wide claim.",
+  "replay": "ffmpeg -i proof.mp4 -vf scale=150:266,drawtext=fontfile=/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf:text='%{n}':x=4:y=240:fontsize=15:fontcolor=white:box=1:boxcolor=black,tile=6x6 -q:v 8 NPxx-%02d.jpg"
+}

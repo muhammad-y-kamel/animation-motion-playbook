@@ -1,0 +1,299 @@
+{
+  "status": "PASS_FINITE_ACTUAL_NP23_GATE_SEATED_V6",
+  "sourceSHA256": "bd499b8bcc96a3b8883dd47f96ac69d7366fc07f0ce460004d8f1cc2d448c476",
+  "helperSHA256": "d6bef82bd609b40f87c0fdc8c73b8384bff44cf289c3b011539568679abc26a4",
+  "coverage": [
+    {
+      "name": "NP23-gate-seated-v6-1311",
+      "video": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/proofs/NP23-gate-seated-v6-1311/proof.mp4",
+      "sha256": "553f7778cd8d93714c29c7718463829e586809ce42bc3fdc4d29f2f6d41335ea",
+      "frames": 439,
+      "sourceStart": 259.4,
+      "recipe": [
+        "ffmpeg",
+        "-v",
+        "error",
+        "-i",
+        "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/proofs/NP23-gate-seated-v6-1311/proof.mp4",
+        "-vf",
+        "scale=180:320",
+        "-f",
+        "rawvideo",
+        "-pix_fmt",
+        "rgb24",
+        "-"
+      ],
+      "sheets": [
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/gate-seated-1306/NP23-gate-seated-v6-1311-000.jpg",
+          "frames": [
+            0,
+            30
+          ],
+          "sha256": "e6dff4b7a985a019117b18921f81970d819814ca8048650710d345562060a832"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/gate-seated-1306/NP23-gate-seated-v6-1311-030.jpg",
+          "frames": [
+            30,
+            60
+          ],
+          "sha256": "f39344688473eacc6b06bb71c93343ce1863077af8c3e3362c64f8db6d0492f2"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/gate-seated-1306/NP23-gate-seated-v6-1311-060.jpg",
+          "frames": [
+            60,
+            90
+          ],
+          "sha256": "330a56ba9a65bfc04848a76c1bb76cd06c23fbfda1ee32eaa3710d2582bf3103"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/gate-seated-1306/NP23-gate-seated-v6-1311-090.jpg",
+          "frames": [
+            90,
+            120
+          ],
+          "sha256": "03a19bafe363029a879c6d68feeef86dd38df2b65c5da47b99ea134c8afd00b8"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/gate-seated-1306/NP23-gate-seated-v6-1311-120.jpg",
+          "frames": [
+            120,
+            150
+          ],
+          "sha256": "6674f421835c71ccd5291806feb3139291c5e36fa9efc4b4f214438ba374960d"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/gate-seated-1306/NP23-gate-seated-v6-1311-150.jpg",
+          "frames": [
+            150,
+            180
+          ],
+          "sha256": "f077e139872625f20417fa9c8c1617799f351ae9f746e80c594e6dd14d4b49ef"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/gate-seated-1306/NP23-gate-seated-v6-1311-180.jpg",
+          "frames": [
+            180,
+            210
+          ],
+          "sha256": "0b40800d8511013b1ff0db950f13bda7b80cf290f4a524a1b6890712a37037a6"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/gate-seated-1306/NP23-gate-seated-v6-1311-210.jpg",
+          "frames": [
+            210,
+            240
+          ],
+          "sha256": "3944929852fc5badb91d572251e683af6083eca39f8417dbcd7b963c928f6765"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/gate-seated-1306/NP23-gate-seated-v6-1311-240.jpg",
+          "frames": [
+            240,
+            270
+          ],
+          "sha256": "678d3ba05429f6eed0675902e62fb296b46c2d4a9bf7f35f56c787bdbac8a5d3"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/gate-seated-1306/NP23-gate-seated-v6-1311-270.jpg",
+          "frames": [
+            270,
+            300
+          ],
+          "sha256": "ba8272c0a1b308aec61a19a5f8b104627a9d2af0f668e97b1ee640e21ff1d404"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/gate-seated-1306/NP23-gate-seated-v6-1311-300.jpg",
+          "frames": [
+            300,
+            330
+          ],
+          "sha256": "1e6b92169f34f6bf3f0f58665803b32dadac4e268cbe49b7cc726f4795a57dad"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/gate-seated-1306/NP23-gate-seated-v6-1311-330.jpg",
+          "frames": [
+            330,
+            360
+          ],
+          "sha256": "53457db56fd3f866f741892bcbc1630207bf198a1e00b75e82af86582917daaa"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/gate-seated-1306/NP23-gate-seated-v6-1311-360.jpg",
+          "frames": [
+            360,
+            390
+          ],
+          "sha256": "4c0b846e057a2c9f603650358a45aebc302caca21928f1edbbaa969b976c792d"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/gate-seated-1306/NP23-gate-seated-v6-1311-390.jpg",
+          "frames": [
+            390,
+            420
+          ],
+          "sha256": "4a9263fbeca0f0900637f03036795048f63b2d585fb5eba42a4e29c83fe3d022"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/gate-seated-1306/NP23-gate-seated-v6-1311-420.jpg",
+          "frames": [
+            420,
+            439
+          ],
+          "sha256": "b6efa9911027f62f49a00c99afda485964590a356a706d5df72b7a9d0aeacd06"
+        }
+      ]
+    }
+  ],
+  "globalRange": [
+    15564,
+    16003
+  ],
+  "allActualFramesViewed": 439,
+  "nativeCriticals": [
+    {
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/gate-seated-1306/v6-native-10.jpg",
+      "sha256": "711a4d3ef897017757dbcaad1da7c4c7f46ed0db25cc023f3a5c75667455daf7",
+      "local": 10,
+      "global": 15574,
+      "videoSHA256": "553f7778cd8d93714c29c7718463829e586809ce42bc3fdc4d29f2f6d41335ea",
+      "recipe": [
+        "ffmpeg",
+        "-v",
+        "error",
+        "-i",
+        "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/proofs/NP23-gate-seated-v6-1311/proof.mp4",
+        "-vf",
+        "select=eq(n\\,10)",
+        "-frames:v",
+        "1",
+        "-q:v",
+        "2",
+        "-y",
+        "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/gate-seated-1306/v6-native-10.jpg"
+      ]
+    },
+    {
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/gate-seated-1306/v6-native-11.jpg",
+      "sha256": "527a61a5b8b4b36e4abac9e1761fd6912c4e76a7a5b173fceef96130dd0bee33",
+      "local": 11,
+      "global": 15575,
+      "videoSHA256": "553f7778cd8d93714c29c7718463829e586809ce42bc3fdc4d29f2f6d41335ea",
+      "recipe": [
+        "ffmpeg",
+        "-v",
+        "error",
+        "-i",
+        "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/proofs/NP23-gate-seated-v6-1311/proof.mp4",
+        "-vf",
+        "select=eq(n\\,11)",
+        "-frames:v",
+        "1",
+        "-q:v",
+        "2",
+        "-y",
+        "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/gate-seated-1306/v6-native-11.jpg"
+      ]
+    },
+    {
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/gate-seated-1306/v6-native-136.jpg",
+      "sha256": "5c2c3b4bcfdac801c4d1559fb7c0909fef3ebc7e3fa912b09e823e69b545d9c1",
+      "local": 136,
+      "global": 15700,
+      "videoSHA256": "553f7778cd8d93714c29c7718463829e586809ce42bc3fdc4d29f2f6d41335ea",
+      "recipe": [
+        "ffmpeg",
+        "-v",
+        "error",
+        "-i",
+        "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/proofs/NP23-gate-seated-v6-1311/proof.mp4",
+        "-vf",
+        "select=eq(n\\,136)",
+        "-frames:v",
+        "1",
+        "-q:v",
+        "2",
+        "-y",
+        "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/gate-seated-1306/v6-native-136.jpg"
+      ]
+    },
+    {
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/gate-seated-1306/v6-native-233.jpg",
+      "sha256": "9b638ca7dd446bd3ff8695b3ccf99caa37b862fe53237803d539c13de1ea0ecf",
+      "local": 233,
+      "global": 15797,
+      "videoSHA256": "553f7778cd8d93714c29c7718463829e586809ce42bc3fdc4d29f2f6d41335ea",
+      "recipe": [
+        "ffmpeg",
+        "-v",
+        "error",
+        "-i",
+        "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/proofs/NP23-gate-seated-v6-1311/proof.mp4",
+        "-vf",
+        "select=eq(n\\,233)",
+        "-frames:v",
+        "1",
+        "-q:v",
+        "2",
+        "-y",
+        "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/gate-seated-1306/v6-native-233.jpg"
+      ]
+    },
+    {
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/gate-seated-1306/v6-native-234.jpg",
+      "sha256": "36d30fa807a356a6d3cd57b0d6d4837749c91d4465d60338cef38814fbff1084",
+      "local": 234,
+      "global": 15798,
+      "videoSHA256": "553f7778cd8d93714c29c7718463829e586809ce42bc3fdc4d29f2f6d41335ea",
+      "recipe": [
+        "ffmpeg",
+        "-v",
+        "error",
+        "-i",
+        "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/proofs/NP23-gate-seated-v6-1311/proof.mp4",
+        "-vf",
+        "select=eq(n\\,234)",
+        "-frames:v",
+        "1",
+        "-q:v",
+        "2",
+        "-y",
+        "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/gate-seated-1306/v6-native-234.jpg"
+      ]
+    },
+    {
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/gate-seated-1306/v6-native-438.jpg",
+      "sha256": "343b3264a3bf17db342616fccab2ae4be516a32a901216afbf938af77f37dff6",
+      "local": 438,
+      "global": 16002,
+      "videoSHA256": "553f7778cd8d93714c29c7718463829e586809ce42bc3fdc4d29f2f6d41335ea",
+      "recipe": [
+        "ffmpeg",
+        "-v",
+        "error",
+        "-i",
+        "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/proofs/NP23-gate-seated-v6-1311/proof.mp4",
+        "-vf",
+        "select=eq(n\\,438)",
+        "-frames:v",
+        "1",
+        "-q:v",
+        "2",
+        "-y",
+        "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/gate-seated-1306/v6-native-438.jpg"
+      ]
+    }
+  ],
+  "method": "All 439 encoded frames viewed sequentially in 15 numbered compact sheets; six native 1080x1920 critical frames independently viewed. Proof SHA independently checked before decode.",
+  "findings": [
+    "Original shoulder-mask hold and v5 neck shelf/passive upper-arm cap resolved in actual gate sequence. Native local11/136/233 show continuous shoulders, single neck/jaw, sleeve-contained passive upper arm.",
+    "Connected active open-hand arm, passive resting arm, seat support and both feet remain coherent throughout gate footage. No ownership or visible support discontinuity.",
+    "Entry local10->11/global15574->15575 is expected office-to-gate cut with uninterrupted caption. Last seated233->replacement234/global15797->15798 is expected gate-to-office cut.",
+    "Replacement Karim sequence through438 retains connected arms, seated support, feet and readable safe captions; no new regression observed in included unchanged context."
+  ],
+  "limits": "Finite NP23 only; no other-middle/late/full-film/assembly or audio-listening claim. Original NP23 actual HOLD and v5 source HOLD remain historical evidence.",
+  "evidenceSHA256": "5b1db26987ae426ebbeb784c5859778891843a50b55c696e3d3f78a247d8079b",
+  "nativeMetadataSHA256": "84eda1a91b18ad1d047b09597e61b58aa6effeeccb98935b84e8dc573c4eda89"
+}

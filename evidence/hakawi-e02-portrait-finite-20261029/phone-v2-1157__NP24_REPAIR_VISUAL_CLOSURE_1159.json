@@ -1,0 +1,40 @@
+{
+  "verdict": "SCOPED ACTUAL ENCODED PASS",
+  "video": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/NP24-phone-v2-1154/proof.mp4",
+  "sha256": "5b5e4b494b53cb340a56c7f0c67bf80a5501d1f56e522803f913cdb760f95b8c",
+  "firstFrame": 16380,
+  "endFrameExclusive": 16854,
+  "allActualFramesReviewed": 474,
+  "sourceCandidateSHA256": "e4e2d89cc2d376b214c8dc85bb3f433d1d31d40b4071c07692eac3e8f50e2df0",
+  "runtimeSHA256": "4f5cfe15c45807c7ca7a8455150f2f307e3b0521627903657d6b2d26da5e334d",
+  "ledgerSHA256": "692dab3fe02100de1493135acc08a9ffad6da41a2a41d0be6259940e49d9ddd5",
+  "technicalReceipt": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/NP24-phone-v2-1154/COMPLETE.json",
+  "method": "Every encoded frame inspected sequentially in 180x320 numbered 6x6 JPEG sheets, supplemented by full native witnesses. Not continuous playback or audio listening.",
+  "sheetReplay": "ffmpeg -v error -i PROOF -vf \"scale=180:320,drawtext=fontfile=/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf:text='%{n}':x=4:y=290:fontsize=18:fontcolor=white:box=1:boxcolor=black,tile=6x6\" -q:v 6 NPxx-%02d.jpg",
+  "nativeReplay": "ffmpeg -v error -i PROOF -vf 'select=eq(n\\,LOCAL)' -frames:v 1 -q:v 4 NPxx-native-LOCAL.jpg",
+  "nativeLocalFrames": [
+    24,
+    100,
+    111,
+    138,
+    302,
+    303,
+    415,
+    452
+  ],
+  "findings": [
+    "Local23/24 is now a genuine distinct single-Adel camera cut, no falsely continuous phone appearance.",
+    "Complete connected forearm and hand remain visible above tabletop throughout phone lowering; no detached wrist or torso leakage.",
+    "Phone settles on tabletop; hand eases away while phone persists through local302. No unsupported moving phone.",
+    "Distinct bangle insert at local303; coherent approach/contact/release and stationary bangle after withdrawal.",
+    "Integrated captions remain readable and safe."
+  ],
+  "cueAudit": "hakawi_repair/e02-rebuild-20261029/reviews/ORIGINAL_FOLEY_ALL_EVENTS.json",
+  "bangleCueSeconds": 279.9121088435374,
+  "cueNote": "Cue falls in local414/415 interval. No phone foley invented. No listening claim.",
+  "supersedes": "Only the two NP24 holds for the exact replacement range. Original NP24 bytes and historical HOLD remain preserved.",
+  "limits": [
+    "Finite 474-frame window only, not whole portrait/full-film release",
+    "No source changes, publication or audio playback performed"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "status": "PASS_FINITE_ACTUAL_NP11_RETAKE",
+  "video": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/proofs/NP11-receipt-wide-v3-1223/proof.mp4",
+  "videoSHA256": "4ed83533a0041405c2d08806ca6849f11fcc83e6eec37be4c1743c15d7593482",
+  "sourceSHA256": "8a13fb69fb76cf27f6357425b6ed178143d6efa83ebe857b9ea49b70d27ece14",
+  "viewedLocalRange": [
+    0,
+    150
+  ],
+  "viewedGlobalRange": [
+    6330,
+    6480
+  ],
+  "allSequentialSheetsViewed": true,
+  "nativeFramesViewed": [
+    10,
+    11,
+    30,
+    81,
+    82
+  ],
+  "evidence": [
+    {
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/early-NP10-12/NP11_V3_EVIDENCE.json",
+      "sha256": "54cc75deb9977cbc0158fbf2add66430cc522122614542b9156d708f5553d7ef"
+    },
+    {
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/early-NP10-12/NP11_V3_NATIVE.json",
+      "sha256": "39d5f7271da5ea2ab949aa52fd1310b2ef667cc28cf47fac7e2b16ac0b51e0fd"
+    }
+  ],
+  "finding": "Actual captioned native receipt retains blank3-column grid and bottom-left canonical zigzag across close-to-wide cut. Paper is supported fully on deeper desk, background ledger separated, actor feet retained. Entry10/11 and exit81/82 guards clean; no new visual regression observed.",
+  "resolvedHold": "NP11_PAPER_IDENTITY",
+  "historicalReceiptSHA256": "e9628b9dfe74624d63723312c69612731409d9da147f8f6e23b62ee886dba19b",
+  "limitations": [
+    "Finite150frames only, not fullfilm approval.",
+    "No audio listening."
+  ]
+}

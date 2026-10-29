@@ -1,0 +1,148 @@
+{
+  "clips": [
+    {
+      "name": "NP38-late-1320",
+      "sha256": "53c95288cd25d6411cca37f8bf6436b4f53b32ea1242b774e4543567b92b2945",
+      "firstFrame": 27240,
+      "endFrame": 27678,
+      "frames": 438,
+      "verdict": "SCOPED_VISUAL_PASS",
+      "findings": "All 438 frames sequentially inspected. Continuous connected blue-cuff arm approaches and withdraws from supported crate; native touches at local100/210/336, wide edit433 coherent. Only first wood cue455.6717687 is audited; later counting touches do not imply extra audio cues.",
+      "nativeLocalFramesViewed": [
+        100,
+        210,
+        336,
+        433
+      ]
+    },
+    {
+      "name": "NP39-late-tail-1320",
+      "sha256": "a38f3dbae916c147134f6cd2ce6c9dab692a20393494a7704ff1c6bb5c76aa29",
+      "firstFrame": 28080,
+      "endFrame": 28412,
+      "frames": 332,
+      "verdict": "SCOPED_VISUAL_PASS",
+      "findings": "All332 actual frames inspected. Protected Arabic quote complete and stable through last frame331; two lines readable, safe margins, no duplicated captions or end blank. Technical closure preserves final147 real PCM samples; no listening claim.",
+      "nativeLocalFramesViewed": [
+        331
+      ]
+    }
+  ],
+  "method": "Every encoded frame in sequential 150x266 proxies, 6x6 row-major sheets; selected full1080x1920 native decoded witnesses.",
+  "limits": "Finite visual scope only; no full-film release, continuous playback, or audio-listening claim.",
+  "replayRecipe": "ffmpeg -i PROOF -vf scale=150:266,drawtext(text=%{n},x=4,y=240,fontsize=15),tile=6x6 -q:v 8 NPxx-%02d.jpg",
+  "evidence": [
+    {
+      "file": "NP38-01.jpg",
+      "sha256": "1567ba973e09aac1ab20b22cae092058cf9ea8b9365290ae46e021c1c9233ed1"
+    },
+    {
+      "file": "NP38-02.jpg",
+      "sha256": "a6885c3f342758825dba90ebc447214962283ff98bf0c224264d9112f3d671b4"
+    },
+    {
+      "file": "NP38-03.jpg",
+      "sha256": "227ed007d8eba8771bcd02cfffb27f4596f678f6f20e7f480f30982f3a95a23f"
+    },
+    {
+      "file": "NP38-04.jpg",
+      "sha256": "b171f0697c621a9ae3e759b632bc6e1a4c7a4a110a894311a0d31f3294f98908"
+    },
+    {
+      "file": "NP38-05.jpg",
+      "sha256": "8647abed16cff11fe61e9fe5fa9d03baba9bae6855260ba70931feb9f63ac00f"
+    },
+    {
+      "file": "NP38-06.jpg",
+      "sha256": "1c535b4d20bc0e33fd20c57d43c5f08590ca2063b83022c6ac810bd7bb3eb219"
+    },
+    {
+      "file": "NP38-07.jpg",
+      "sha256": "a8eec8193c48c55459d5a2625aaea307ebddd236e06cc62f5821141a2bef6025"
+    },
+    {
+      "file": "NP38-08.jpg",
+      "sha256": "285557305221101871950744312829372cc4637c8c8de7edc2f0e8b3249d8230"
+    },
+    {
+      "file": "NP38-09.jpg",
+      "sha256": "5c2da479afe7e174d6916e60b139e48f272bcf072032c9fd9839a2475f316d8a"
+    },
+    {
+      "file": "NP38-10.jpg",
+      "sha256": "2cf01b59e6c55fbe3cf9bd4469ab9cf016d9db73bfd7479e8de72727d8632238"
+    },
+    {
+      "file": "NP38-11.jpg",
+      "sha256": "c37ff7a1eb5c383a7519b98a477746b3b456f385a1d941fb7783d97616e9ed88"
+    },
+    {
+      "file": "NP38-12.jpg",
+      "sha256": "eecce463f6286bd0b05462e1f0e40b1869be950b5ff47139eb5fbc14c601633d"
+    },
+    {
+      "file": "NP38-13.jpg",
+      "sha256": "db828fa64cb83e9ded2f37683607a6e89596c8415c7d4644084726b8fa527f24"
+    },
+    {
+      "file": "NP38-native-100.jpg",
+      "sha256": "adb96b9cdb1f384f54b8bb418b05084a83a8f6daf268abf467f4b4e5f6fc63e2"
+    },
+    {
+      "file": "NP38-native-210.jpg",
+      "sha256": "09842a0ed4ffe5347c13d69a1cf6dfc8c0739bd4d44be95dfc8a16437b1569ba"
+    },
+    {
+      "file": "NP38-native-336.jpg",
+      "sha256": "cf90daa92676f2dc6a541737515fd7fd3523218ad2f819e4a307ddde909acf67"
+    },
+    {
+      "file": "NP38-native-433.jpg",
+      "sha256": "75f028a6a2adee1aa4e9962dd0548f805562eaa4b76d18f58de8b9d5ea1f6c89"
+    },
+    {
+      "file": "NP39-01.jpg",
+      "sha256": "2795e7a7a8889bdd1695695fc07d1bee9d91e80b48d273fcc77af22a34e997ee"
+    },
+    {
+      "file": "NP39-02.jpg",
+      "sha256": "0390c24e61333fc97a8e363354f9164adf42e55430126ad95e8b00b89ea0fb79"
+    },
+    {
+      "file": "NP39-03.jpg",
+      "sha256": "9c02b3124d73a4bf5ea2250b34ddc6f549b81aa3f99ca6a92891db6d4c51955b"
+    },
+    {
+      "file": "NP39-04.jpg",
+      "sha256": "61c10ff917b1117a7f3ca17989c5742afebb6368e850702dfc89e8b2fdd2c35f"
+    },
+    {
+      "file": "NP39-05.jpg",
+      "sha256": "b0731c6209417f53b37c21a9afcefea0185ba4c1a6919ff6b2f4cc0a8c0aa273"
+    },
+    {
+      "file": "NP39-06.jpg",
+      "sha256": "fd090ff2e87ca059e72a2061569b2cd7f4ad4c3e827a037f9679e4902a25b39f"
+    },
+    {
+      "file": "NP39-07.jpg",
+      "sha256": "f34d9cd05e1462043c3cd4c4b04f08bcbaccfd22e4c68daa5834ca33021f9dab"
+    },
+    {
+      "file": "NP39-08.jpg",
+      "sha256": "b849405c5f2faffd2b66e5872ff2b248bbce864d7873e3f5fe88bd264895094f"
+    },
+    {
+      "file": "NP39-09.jpg",
+      "sha256": "6fe9e28aa9712f4d6f9ee15586b8f18f4632d96e888094be7a432ba4e98d55cd"
+    },
+    {
+      "file": "NP39-10.jpg",
+      "sha256": "e7defd90e63faccc57b4edd38d5a04fd3e536720245f0fd1112b6a5706e41ed6"
+    },
+    {
+      "file": "NP39-native-331.jpg",
+      "sha256": "078a748bab1a70530155a1d156d2ae0974de5b58d68befa4a0d9d320ce5d88d4"
+    }
+  ]
+}

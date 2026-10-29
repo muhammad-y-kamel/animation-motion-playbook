@@ -1,0 +1,57 @@
+{
+  "reviewer": "/root/review_e02_final_second_half",
+  "timeUTC": "2026-10-29T11:56:03.175112+00:00",
+  "status": "PASS_FINITE_ACTUAL_ONSET_RETAKES",
+  "sourceSHA256": "879c382540df3e1becd5e72d78c4483ba7d86c800ee31498be250e0c30dc935a",
+  "coverage": [
+    {
+      "name": "NP04",
+      "video": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/proofs/NP04-onsets-v2-1146/proof.mp4",
+      "sha256": "584d6fb0a1fdcc5abb2bf13c0c03d46ea2a3a55b5c44fadaad29e1c1dbafd765",
+      "viewedLocalRange": [
+        0,
+        720
+      ],
+      "sourceStart": 0,
+      "allSequentialSheetsViewed": true
+    },
+    {
+      "name": "NP06",
+      "video": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/proofs/NP06-onsets-v2-1146/proof.mp4",
+      "sha256": "1c21d632c4fe0ccd0f467433983b5efe5485b7a4a715d7770b2df64b6641393f",
+      "viewedLocalRange": [
+        0,
+        300
+      ],
+      "sourceStart": 43.5,
+      "allSequentialSheetsViewed": true
+    }
+  ],
+  "totalActualFramesViewed": 1020,
+  "evidence": {
+    "path": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/early-NP04-06/V2_EVIDENCE.json",
+    "sha256": "76e76ae96c6ac4452e1ad8c459a3831e47499c6b6ca10c22eb5eaaa9b3e75053"
+  },
+  "nativeWitnesses": {
+    "path": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/early-NP04-06/V2_NATIVE_WITNESSES.json",
+    "sha256": "a47becd877529b14587cf5a6728de36d001cf0849d20fac301918edd89bcb196",
+    "all10Viewed": true
+  },
+  "observations": [
+    "NP04 whole remembering introduction retained full seated body and stable desk/chair; actual frame337 to338 is a genuine close-to-wide camera cut establishing Adel with sandwiches, not same-shot pose reset.",
+    "NP04 sandwich support, placement, release and arm withdrawal continuous through7.3-8.05; stationary prop persists on desk; captions legible and unobstructed.",
+    "NP06 opening hand moves down and clears before writing hand; local173 and174 both empty over the open notebook; pen progressively enters from right local183 onward, reaches original writing contact by198 without sudden full-hand appearance.",
+    "NP06 notebook/pocket extraction, hinge cut, paper identity and support retained; original pen lift/travel/recontact47.8-48.3 does not extend ink while traveling. Native captions and complete hand grips are clear."
+  ],
+  "priorNP05": {
+    "status": "CARRY_SCOPED_PASS",
+    "videoSHA256": "edb711ebe638f66baa68d87b6c9dac5a85c3622f0f1bbf159e656ab5bf8da5ab",
+    "receipt": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/early-NP04-06/ACTUAL_REVIEW.json",
+    "receiptSHA256": "87afc152b4acf2855e2cb338f13d3a1796b250dcfaef1cf689d3ac99c9f8bd91"
+  },
+  "limitations": [
+    "Finite1020-frame retakes only, not full-film approval.",
+    "No audio listening performed; technical audio/PTS/ledger checks belong to runtime lead."
+  ],
+  "openConcreteHolds": []
+}

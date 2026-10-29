@@ -1,0 +1,75 @@
+{
+  "status": "HOLD_FINITE_SOURCE_NECK_AND_PASSIVE_ARM_SEAMS",
+  "candidate": "hakawi_repair/native-portrait-e02/blocks/middle/candidate-gate-seated-v5.cjs",
+  "candidateSHA256": "96dd2140f9fa907d4df238a01eacf6e6d7ecafa1db0e10f67a9235e2a0359ce7",
+  "method": "Viewed five captioned native 1080x1920 three-shutter source composites; compared historical NP23-native-11 actual witness; read bounded candidate diff and seated helper. No own rerender or encode.",
+  "witnesses": [
+    {
+      "global": 15574,
+      "path": "hakawi_repair/native-portrait-e02/blocks/middle/gate-seated-v5-review/native-15574.jpg",
+      "sha256": "9d09d262679eec81d283e544ce7ebee354fca0c520f597d5e1df91d451f219c1"
+    },
+    {
+      "global": 15575,
+      "path": "hakawi_repair/native-portrait-e02/blocks/middle/gate-seated-v5-review/native-15575.jpg",
+      "sha256": "e6f1a689d3c24690acaeca9ab8a3fe712db41d63643491985adfdc6801a3d609"
+    },
+    {
+      "global": 15700,
+      "path": "hakawi_repair/native-portrait-e02/blocks/middle/gate-seated-v5-review/native-15700.jpg",
+      "sha256": "02dd9d7123c467c0222ea428c93c442bb0fd7374e809ee06d16c11593087026b"
+    },
+    {
+      "global": 15797,
+      "path": "hakawi_repair/native-portrait-e02/blocks/middle/gate-seated-v5-review/native-15797.jpg",
+      "sha256": "bf6f7304712693258008b294b6eba4696bf50222394fe925aba34f68b1c9fae5"
+    },
+    {
+      "global": 15798,
+      "path": "hakawi_repair/native-portrait-e02/blocks/middle/gate-seated-v5-review/native-15798.jpg",
+      "sha256": "8abece7fd5b44be39b89519c20646de0d911d023676f4e3e2f8a29a74033c013"
+    }
+  ],
+  "findings": [
+    {
+      "status": "IMPROVED",
+      "detail": "Full torso shoulders restored relative to historical exposed vertical mask notches."
+    },
+    {
+      "status": "HOLD",
+      "frames": [
+        15575,
+        15700,
+        15797
+      ],
+      "regionNative": [
+        410,
+        807,
+        465,
+        829
+      ],
+      "detail": "Flat skin-colored horizontal shelf projects left from jaw/neck at collar. Visible in all three gate witnesses; also present historically, so not asserted new v5 regression. Still concrete unresolved neck compositing seam in assigned gate scope."
+    },
+    {
+      "status": "HOLD",
+      "frames": [
+        15575,
+        15700,
+        15797
+      ],
+      "regionNative": [
+        642,
+        924,
+        683,
+        951
+      ],
+      "detail": "Passive right upper-arm sprite has exposed flat horizontal top beyond sleeve, producing rectangular skin cap/sleeve discontinuity. Candidate far-arm redraw placement should be locally contained under sleeve."
+    },
+    {
+      "status": "SCOPED_OK",
+      "detail": "Gate seated body, chair support, feet, active open hand, desk occlusion and captions otherwise coherent. Pre-entry office15574 and replacementKarim15798 are distinct expected cuts; no broad style request."
+    }
+  ],
+  "limits": "Finite source only; no actual retake PASS, audio listening, other scenes or full-film claim. Repair only gate seated neck/passive upper-arm layering; preserve clocks/composition and old reports.",
+  "proofMetadataSHA256": "be42935c022cd86afea9fa3a71c1035b140942e1dbf879af1d18b262f57e21f6"
+}

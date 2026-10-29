@@ -1,0 +1,28 @@
+{
+  "verdict": "PASS",
+  "proof": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/NP27-truck-v3-1221/proof.mp4",
+  "sha256": "90eb0d0ee25c08053dd5f369e4d1876a7c216a997b676143792c6690f989cc10",
+  "globalRange": [
+    20310,
+    20640
+  ],
+  "allEncodedFramesReviewed": 330,
+  "nativeLocalFrames": [
+    16,
+    17,
+    150,
+    240,
+    317,
+    318
+  ],
+  "method": "All 330 sequential decoded proxy frames plus native critical frames; not listening or continuous playback.",
+  "findings": [
+    "Actual distinct road cutaway at local16/17 resolves same-plate actor removal.",
+    "Truck moves left with visible left-facing driver, stable wheel/road support and settling; no portal/post crossing claim.",
+    "Local317/318 distinct road-to-gate edit honestly elides exit/walk; no continuous exit claim.",
+    "Caption and body/support continuity are acceptable within this clip."
+  ],
+  "supersedes": "Only original NP27 truck visual HOLD for this exact replacement range; original proof remains retained.",
+  "replay": "ffmpeg -i proof.mp4 -vf scale=150:266,drawtext=fontfile=/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf:text='%{n}':x=4:y=240:fontsize=15:fontcolor=white:box=1:boxcolor=black,tile=6x6 -q:v 8 NPxx-%02d.jpg",
+  "limits": "No whole-film, source-wide, audio-listening or release claim."
+}

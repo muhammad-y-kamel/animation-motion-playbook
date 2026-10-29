@@ -1,0 +1,66 @@
+{
+  "status": "HOLD_NP04_NP06_ONSETS_NP05_PASS",
+  "sourceSHA256": "7283d29091c3eefcad9f01962446e72b35238ed82b042832c532c23d5b2f977e",
+  "allActualFramesSequentiallyViewed": true,
+  "frameCoverage": {
+    "NP04": [
+      0,
+      420
+    ],
+    "NP05": [
+      0,
+      270
+    ],
+    "NP06": [
+      0,
+      300
+    ]
+  },
+  "method": "Every encoded frame decoded180x320 in numbered sequential 6x5 sheets, native critical detail witnesses inspected. Sheet t labels are frame-start source seconds; exact shutter central time is +1/120s per frames.jsonl.gz.",
+  "evidence": {
+    "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/early-NP04-06/EVIDENCE.json",
+    "sha256": "d1339232d88d9a46650813acf8c34a4af092bdb25319be0965fb680983a268d5"
+  },
+  "nativeWitnessManifest": {
+    "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/early-NP04-06/NATIVE_WITNESSES.json",
+    "sha256": "b458e3d15e1a6f243a3d2404b09de7a9c9db2287e75eae777e57637903d27813"
+  },
+  "findings": [
+    {
+      "id": "NP04-onset",
+      "localFrames": [
+        37,
+        38
+      ],
+      "centralTimes": [
+        5.625,
+        5.641666666666667
+      ],
+      "status": "HOLD_CONFIRMED_BY_EARLY_OWNER",
+      "detail": "Identical camera changes empty/down arm to fully raised sandwich. Tint removal insufficient editorial motivation. Owner confirms original long had distinct camera transforms; native does not."
+    },
+    {
+      "id": "NP06-onset",
+      "localFrames": [
+        173,
+        174
+      ],
+      "centralTimes": [
+        46.391666666666666,
+        46.40833333333333
+      ],
+      "status": "HOLD_CONFIRMED_BY_EARLY_OWNER",
+      "detail": "Full writing hand appears directly over notebook in unchanged shot without approach. Need continuous edge entry before unchanged46.8 ink start."
+    }
+  ],
+  "passedObservations": [
+    "NP05 all270frames: receipt progressively occluded by closing drawer, full horizontal edge-entering arm remains, only withdraws after closure, caption unobstructed.",
+    "NP04 after onset: sandwich travels with hand, tabletop placement and release occur continuously, supported sandwich persists, full legs/feet retained.",
+    "NP06 pocket extraction and genuine switch to notebook insert coherent. Cover opening/hand retreat continuous. Pen47.8-48.3 lift/travel/recontact observed, ink does not grow during lift/travel.",
+    "Captions remain unobstructed in top native safe box across990frames."
+  ],
+  "audioListened": false,
+  "fullFilmPass": false,
+  "sourceEditsByReviewer": false,
+  "nextGate": "Isolated owner candidate fixes only two onsets, then hash-bound source and actual encoded retest; original proofs retained."
+}

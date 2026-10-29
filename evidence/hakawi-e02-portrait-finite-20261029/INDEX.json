@@ -1,0 +1,117 @@
+{
+  "scope": "Exact independently reviewed finite receipts, including historical holds; no full-film or audio listening claim",
+  "receipts": [
+    {
+      "repo_path": "evidence/hakawi-e02-portrait-finite-20261029/early-NP04-06__ACTUAL_REVIEW.json",
+      "workspace_source": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/early-NP04-06/ACTUAL_REVIEW.json",
+      "sha256": "87afc152b4acf2855e2cb338f13d3a1796b250dcfaef1cf689d3ac99c9f8bd91",
+      "bytes": 2787,
+      "git_blob_sha": "70a1d7dbeef9ad7d99644a8e8b5ba7738fa46dda"
+    },
+    {
+      "repo_path": "evidence/hakawi-e02-portrait-finite-20261029/early-NP04-06__V2_ACTUAL_REVIEW.json",
+      "workspace_source": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/early-NP04-06/V2_ACTUAL_REVIEW.json",
+      "sha256": "8aaf4808622734fc22a018e0b742b2be85f4ad46183acc4f2e8319be6c7f1016",
+      "bytes": 2975,
+      "git_blob_sha": "35af4696b02d51d3c93889cc9f906ea22f8c7551"
+    },
+    {
+      "repo_path": "evidence/hakawi-e02-portrait-finite-20261029/NP03-rest-v3__REPAIR_VISUAL_CLOSURE_1133.json",
+      "workspace_source": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/NP03-rest-v3/REPAIR_VISUAL_CLOSURE_1133.json",
+      "sha256": "222c955a02934245f17e9e57865543f6493d87ebc0a18b16c03a1f0a2d5b0121",
+      "bytes": 3660,
+      "git_blob_sha": "5eadefc0aac6154cc5fb559fe50327f2a5e41caf"
+    },
+    {
+      "repo_path": "evidence/hakawi-e02-portrait-finite-20261029/phone-v2-1157__NP24_REPAIR_VISUAL_CLOSURE_1159.json",
+      "workspace_source": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/phone-v2-1157/NP24_REPAIR_VISUAL_CLOSURE_1159.json",
+      "sha256": "c77db6eba5239f23c5cebc28d3d989c5ab76581502a9ed0d1889f7f4dcd716ca",
+      "bytes": 2393,
+      "git_blob_sha": "d3fdc2566f854d9bf64df5808411bbfd5ce2ab8b"
+    },
+    {
+      "repo_path": "evidence/hakawi-e02-portrait-finite-20261029/reaction-1259__ACTUAL_REVIEW.json",
+      "workspace_source": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/reaction-1259/ACTUAL_REVIEW.json",
+      "sha256": "3cbc98eb2cc60c692d1a901df5c298d5d9fa7050f7f512fa3c7d5439d2359324",
+      "bytes": 19055,
+      "git_blob_sha": "b1b11d87231567b6b4236f92e72133890614a25b"
+    },
+    {
+      "repo_path": "evidence/hakawi-e02-portrait-finite-20261029/early-NP10-12__ACTUAL_REVIEW.json",
+      "workspace_source": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/early-NP10-12/ACTUAL_REVIEW.json",
+      "sha256": "e9628b9dfe74624d63723312c69612731409d9da147f8f6e23b62ee886dba19b",
+      "bytes": 3563,
+      "git_blob_sha": "8e9e6e14498efba20a6bc03e3b6e3a96eee2e0cb"
+    },
+    {
+      "repo_path": "evidence/hakawi-e02-portrait-finite-20261029/early-NP10-12__NP11_V3_ACTUAL_REVIEW.json",
+      "workspace_source": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/early-NP10-12/NP11_V3_ACTUAL_REVIEW.json",
+      "sha256": "0861b0f4137abc684a52f87ef76cb3dd3f744ec559ba374a5d097c47bc078935",
+      "bytes": 1563,
+      "git_blob_sha": "e98ec26f9ac50468071b09fc6cfd3c47f402e76f"
+    },
+    {
+      "repo_path": "evidence/hakawi-e02-portrait-finite-20261029/early-NP13-14__ACTUAL_REVIEW.json",
+      "workspace_source": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/early-NP13-14/ACTUAL_REVIEW.json",
+      "sha256": "fe233df194f5e9f6f2c9ad8c988accecf3c28b3cc4375770ec90a95250a8f268",
+      "bytes": 8790,
+      "git_blob_sha": "a4aff734880edf00bcf2eef2b0f23d23c1606339"
+    },
+    {
+      "repo_path": "evidence/hakawi-e02-portrait-finite-20261029/truck-1229__REPAIR_VISUAL_CLOSURE_1231.json",
+      "workspace_source": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/truck-1229/REPAIR_VISUAL_CLOSURE_1231.json",
+      "sha256": "7110ae650959a33042f37b338c0ec4a139cc04f38a11dd61bde5176bc05171ae",
+      "bytes": 1314,
+      "git_blob_sha": "bc82be3a5feb2eda946cc6426255b3d1b39aeb4a"
+    },
+    {
+      "repo_path": "evidence/hakawi-e02-portrait-finite-20261029/gate-seated-1306__SOURCE_REVIEW.json",
+      "workspace_source": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/gate-seated-1306/SOURCE_REVIEW.json",
+      "sha256": "de290fa9169374d2282be5cbb5a1060c7d7c650040169f102485503b3d0d5344",
+      "bytes": 3199,
+      "git_blob_sha": "eca0b3c2a2d6f3e43b01bc77d52dc13961bd08d0"
+    },
+    {
+      "repo_path": "evidence/hakawi-e02-portrait-finite-20261029/gate-seated-1306__V6_SOURCE_REVIEW.json",
+      "workspace_source": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/gate-seated-1306/V6_SOURCE_REVIEW.json",
+      "sha256": "3614bf32ae7782694a2471c31acf228507b82b3f75728ef9c2ff7175d6fa9aa2",
+      "bytes": 2033,
+      "git_blob_sha": "538815d0b75401a580bfdb75fb1cf158c918a9c5"
+    },
+    {
+      "repo_path": "evidence/hakawi-e02-portrait-finite-20261029/gate-seated-1306__V6_ACTUAL_REVIEW.json",
+      "workspace_source": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/gate-seated-1306/V6_ACTUAL_REVIEW.json",
+      "sha256": "4e4ed37f3fe61561869f42f68e96c0414e064791d25f4fb60fce8ef8cf5f8ccc",
+      "bytes": 12590,
+      "git_blob_sha": "4dad28432bba84ccb43a691fc19fc8bdd526ef74"
+    },
+    {
+      "repo_path": "evidence/hakawi-e02-portrait-finite-20261029/late-1248__BATCH_VISUAL_REVIEW_1256.json",
+      "workspace_source": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/late-1248/BATCH_VISUAL_REVIEW_1256.json",
+      "sha256": "25aff28df1f8144e66ae8f590bb2f9f8f8b79fd0844f6a63874eacbd36d9ea90",
+      "bytes": 2667,
+      "git_blob_sha": "8273b71aaaa7dd2875caafd0d4521ea91102cff4"
+    },
+    {
+      "repo_path": "evidence/hakawi-e02-portrait-finite-20261029/late-1306__BATCH_VISUAL_REVIEW_1311.json",
+      "workspace_source": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/late-1306/BATCH_VISUAL_REVIEW_1311.json",
+      "sha256": "31597e6e296bbd5a5526f8f444d08eba1b8bfa8418e4cd1d4447e6d01906d458",
+      "bytes": 8913,
+      "git_blob_sha": "0aa91847767c6db13c410ea7150ad6c14ede92d5"
+    },
+    {
+      "repo_path": "evidence/hakawi-e02-portrait-finite-20261029/late-1321__BATCH_VISUAL_REVIEW_1327.json",
+      "workspace_source": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/late-1321/BATCH_VISUAL_REVIEW_1327.json",
+      "sha256": "07a8729eacd02e8bb4d32df20bff5479fd497af849ec8dcca50fa1052ecb16a6",
+      "bytes": 5153,
+      "git_blob_sha": "204f553d3368483a13712dae7d540b6dcd3dd7bd"
+    },
+    {
+      "repo_path": "evidence/hakawi-e02-portrait-finite-20261029/evidence-1327__ACTUAL_REVIEW.json",
+      "workspace_source": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/evidence-1327/ACTUAL_REVIEW.json",
+      "sha256": "23b3b68ec1a680e63f4ab9b8450796b2e976d76f6b1319c4efd25a47d7c5d413",
+      "bytes": 20726,
+      "git_blob_sha": "17ddf3430ecd011a2e142572ce3f2cd80117a3e4"
+    }
+  ]
+}

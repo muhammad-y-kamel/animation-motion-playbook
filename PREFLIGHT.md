@@ -214,3 +214,15 @@ Evidence: [final portrait closure and receipts](entries/HAKAWI-NATIVE-FINAL-CLOS
 - [ ] Stratify remaining storage forecasts by executed block; apply finite-to-production CRF margin once and include reused pilotbytes. Preserve safe stopped checkpoints; never disable guard or lower visual quality as an unapproved workaround.
 - [ ] Preserve explicit borrowed replay dependency identities when isolating Stages. Ceil final video grid and retain exact last audio samples without padding/truncation; verify entire decoded video/cadence and canonicalPCM separately from lossyAAC.
 Evidence: [E02 long closed lessons and receipts](entries/HAKAWI-E02-LONG-CLOSURE-20261029.md).
+
+
+## E02 native finite identity, anatomy and boundary gates
+- [ ] Separate true donor/state drift from encoded-size aliasing. Preserve canonical paper/grid/signature coordinates under one affine map, then test legibility, nib registration and support at native resolution.
+- [ ] An editorial cut changes meaningful framing; tint or same-plate actor reset cannot hide missing approach/contact. Review the entire changed shot and both joins.
+- [ ] Inspect passive hands for false ownership, arm-only foreground overlays for torso leakage, and seated donor crops for shoulder notches, duplicate jaw/neck and exposed attachment caps.
+- [ ] Keep vehicle facing/travel/wheel direction consistent and distinguish honest cutaway elision from continuous motion. Doors require an acting owner, or an already-open state established at a real cut.
+- [ ] Isolate whole atlas objects without neighboring fragments; check adult scale/common floor/rear overlap and both feet after depth repairs.
+- [ ] Ceil the visual grid without extending audio coverage: retain exact canonical final samples. Test separately primed AAC parts, route disposal and caption ownership at every actual derivative boundary.
+- [ ] Finite all-window acceptance is not complete final-media review. Preserve failed candidates and source-only holds, exact report/media hashes, and all required production/publishing gates.
+Evidence: [E02 native finite repairs](entries/HAKAWI-E02-PORTRAIT-FINITE-20261029.md).
+

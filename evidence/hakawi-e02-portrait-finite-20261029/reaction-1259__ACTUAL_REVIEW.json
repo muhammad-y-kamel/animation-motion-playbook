@@ -1,0 +1,463 @@
+{
+  "status": "PASS_FINITE_ACTUAL_REACTION_V1_802",
+  "sourceMiddleSHA256": "292257c5b5abdabbfba6df6c90cbc23a93330c7cca2ce15dbed62d3f94e3ef44",
+  "globalCoverage": [
+    12582,
+    13384
+  ],
+  "allActualFramesViewed": 802,
+  "coverage": [
+    {
+      "name": "NP19-reaction-v1a-1257",
+      "video": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/proofs/NP19-reaction-v1a-1257/proof.mp4",
+      "sha256": "303d506de124ed31275a1c3c48d5518fba7c79b773a4f8cdd809b7579fcb31e2",
+      "frames": 720,
+      "sourceStart": 209.7,
+      "recipe": [
+        "ffmpeg",
+        "-v",
+        "error",
+        "-i",
+        "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/proofs/NP19-reaction-v1a-1257/proof.mp4",
+        "-vf",
+        "scale=180:320",
+        "-f",
+        "rawvideo",
+        "-pix_fmt",
+        "rgb24",
+        "-"
+      ],
+      "sheets": [
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/reaction-1259/NP19-reaction-v1a-1257-000.jpg",
+          "frames": [
+            0,
+            30
+          ],
+          "sha256": "482dd9e37693d7a47ec0ee192284f4bf5446d298031eed8eecba6ae9192550cb"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/reaction-1259/NP19-reaction-v1a-1257-030.jpg",
+          "frames": [
+            30,
+            60
+          ],
+          "sha256": "5b8258b07a38a04350d775ada25fb75a2a5a2e48f3a2f3df3af3545f93b3ad4a"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/reaction-1259/NP19-reaction-v1a-1257-060.jpg",
+          "frames": [
+            60,
+            90
+          ],
+          "sha256": "d25f7b1b72eed2367acc01ae39528f0e54987f183998083e13b8794e43fb88f5"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/reaction-1259/NP19-reaction-v1a-1257-090.jpg",
+          "frames": [
+            90,
+            120
+          ],
+          "sha256": "814fb35453c891581ec47300036a77d2db1f022e4e98d045cb601a6ce87259e3"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/reaction-1259/NP19-reaction-v1a-1257-120.jpg",
+          "frames": [
+            120,
+            150
+          ],
+          "sha256": "5cfcd01fa6cb788c3a6a531f6b477a4e8276aa54af88bab4ffd91ccfb43d93df"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/reaction-1259/NP19-reaction-v1a-1257-150.jpg",
+          "frames": [
+            150,
+            180
+          ],
+          "sha256": "3b80753d2cd6935b6e8186d5548e3f0ea6955da527005399afffe7e6fa67f764"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/reaction-1259/NP19-reaction-v1a-1257-180.jpg",
+          "frames": [
+            180,
+            210
+          ],
+          "sha256": "8dd7312127eb08122d18983006189bd318e6b8f8e82a039f8be33774c6e784e8"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/reaction-1259/NP19-reaction-v1a-1257-210.jpg",
+          "frames": [
+            210,
+            240
+          ],
+          "sha256": "25f5e06d7866525e3a48de200a9ca829a2c67f443503ecf9fb9d580faa8de8d8"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/reaction-1259/NP19-reaction-v1a-1257-240.jpg",
+          "frames": [
+            240,
+            270
+          ],
+          "sha256": "3cfdda5b38d9bf54965e3af9f88da6804110dc0947878ef8ed5cfb35ceccec7e"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/reaction-1259/NP19-reaction-v1a-1257-270.jpg",
+          "frames": [
+            270,
+            300
+          ],
+          "sha256": "6ff6855a2a7a55b4f56619f0736220e5948ffe24475fafb15f318dc715dd48a9"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/reaction-1259/NP19-reaction-v1a-1257-300.jpg",
+          "frames": [
+            300,
+            330
+          ],
+          "sha256": "beeb25b23c32bf8fff7d0c1036555fc326243ce5dabf0af82c908e8775337a44"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/reaction-1259/NP19-reaction-v1a-1257-330.jpg",
+          "frames": [
+            330,
+            360
+          ],
+          "sha256": "03e91653bd4fa55c19299328103c6ea0730d1966a0c1ef90735caa51e2a55074"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/reaction-1259/NP19-reaction-v1a-1257-360.jpg",
+          "frames": [
+            360,
+            390
+          ],
+          "sha256": "50bf018116ec970a54460b9246673f51290f4c9d77f872ccd64d9fb9793c7894"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/reaction-1259/NP19-reaction-v1a-1257-390.jpg",
+          "frames": [
+            390,
+            420
+          ],
+          "sha256": "8dee205f4cc1f6043e253235ccecb4c76c4aa02dac0aa54baf8a282fad9fb689"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/reaction-1259/NP19-reaction-v1a-1257-420.jpg",
+          "frames": [
+            420,
+            450
+          ],
+          "sha256": "01d7d5113575670922030ebd544ae53d2c18355b9439aa8e32149c2c0de2ec2e"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/reaction-1259/NP19-reaction-v1a-1257-450.jpg",
+          "frames": [
+            450,
+            480
+          ],
+          "sha256": "1c9b10670a14009ff0164e34e236a86b57c3f565625c6268f61473de0b45c96c"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/reaction-1259/NP19-reaction-v1a-1257-480.jpg",
+          "frames": [
+            480,
+            510
+          ],
+          "sha256": "c8b195d3071eded24a9452b76b0f1b97ebf9c653fb1b1dd4eb5074c73777628a"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/reaction-1259/NP19-reaction-v1a-1257-510.jpg",
+          "frames": [
+            510,
+            540
+          ],
+          "sha256": "db2a7ed6638bf1f9a88cb6e8e0811d704f1f5dd2819b494795be897c362affe3"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/reaction-1259/NP19-reaction-v1a-1257-540.jpg",
+          "frames": [
+            540,
+            570
+          ],
+          "sha256": "46df98dec3057b235776c0fe9eadefcf7273fa736390f8ae62da9bb5fe423808"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/reaction-1259/NP19-reaction-v1a-1257-570.jpg",
+          "frames": [
+            570,
+            600
+          ],
+          "sha256": "403cde142e2c122656726b61e27155fd08be5ac0d7d92a18cd8889e6014b19f2"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/reaction-1259/NP19-reaction-v1a-1257-600.jpg",
+          "frames": [
+            600,
+            630
+          ],
+          "sha256": "aeebd7a49ab596c0626dc1d32644f82e73653371badc096d3788277d4d391e04"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/reaction-1259/NP19-reaction-v1a-1257-630.jpg",
+          "frames": [
+            630,
+            660
+          ],
+          "sha256": "43e8bb34b837b69842b727147d0606b1d3ccf285beb432f118502a4a75847904"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/reaction-1259/NP19-reaction-v1a-1257-660.jpg",
+          "frames": [
+            660,
+            690
+          ],
+          "sha256": "5b0bcd437fe926c44908d889e053fe0cdb92a42727b4395bfacfdf85c9ed5bff"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/reaction-1259/NP19-reaction-v1a-1257-690.jpg",
+          "frames": [
+            690,
+            720
+          ],
+          "sha256": "9fd8ca72885b92233b8e9a0061128ddf34636894faa749adfb2aea92eac72761"
+        }
+      ]
+    },
+    {
+      "name": "NP19-reaction-v1b-1258",
+      "video": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/proofs/NP19-reaction-v1b-1258/proof.mp4",
+      "sha256": "2b1f1b1480a21c3ee5ada10a18a4c73d89801f682c44d18251b78aba28dd40f6",
+      "frames": 82,
+      "sourceStart": 221.7,
+      "recipe": [
+        "ffmpeg",
+        "-v",
+        "error",
+        "-i",
+        "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/proofs/NP19-reaction-v1b-1258/proof.mp4",
+        "-vf",
+        "scale=180:320",
+        "-f",
+        "rawvideo",
+        "-pix_fmt",
+        "rgb24",
+        "-"
+      ],
+      "sheets": [
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/reaction-1259/NP19-reaction-v1b-1258-000.jpg",
+          "frames": [
+            0,
+            30
+          ],
+          "sha256": "9cf32294f823a3a361e878e7188991e2f47673d2e46fec94ce6b6b2ebc422b79"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/reaction-1259/NP19-reaction-v1b-1258-030.jpg",
+          "frames": [
+            30,
+            60
+          ],
+          "sha256": "423849479c5caa1fa4a9d3facf5136f0369c45ef9305ea21328870c351447d0f"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/reaction-1259/NP19-reaction-v1b-1258-060.jpg",
+          "frames": [
+            60,
+            82
+          ],
+          "sha256": "0170d8bd550f709c7bf76101e5c85bcc60aefc4b42434864bc0cdb8ea5c894cf"
+        }
+      ]
+    }
+  ],
+  "nativeCriticals": [
+    {
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/reaction-1259/a-native-9.jpg",
+      "sha256": "0e2b3e9188bda2103e54e302545a97e53d56a6e6c30c78f38302790ede92fc41",
+      "local": 9,
+      "global": 12591,
+      "videoSHA256": "303d506de124ed31275a1c3c48d5518fba7c79b773a4f8cdd809b7579fcb31e2",
+      "recipe": [
+        "ffmpeg",
+        "-v",
+        "error",
+        "-i",
+        "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/proofs/NP19-reaction-v1a-1257/proof.mp4",
+        "-vf",
+        "select=eq(n\\,9)",
+        "-frames:v",
+        "1",
+        "-q:v",
+        "2",
+        "-y",
+        "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/reaction-1259/a-native-9.jpg"
+      ]
+    },
+    {
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/reaction-1259/a-native-10.jpg",
+      "sha256": "9072c14769e7c53ed0178d95da0b70e52fe536d3be241c3c6927583eafc54ee5",
+      "local": 10,
+      "global": 12592,
+      "videoSHA256": "303d506de124ed31275a1c3c48d5518fba7c79b773a4f8cdd809b7579fcb31e2",
+      "recipe": [
+        "ffmpeg",
+        "-v",
+        "error",
+        "-i",
+        "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/proofs/NP19-reaction-v1a-1257/proof.mp4",
+        "-vf",
+        "select=eq(n\\,10)",
+        "-frames:v",
+        "1",
+        "-q:v",
+        "2",
+        "-y",
+        "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/reaction-1259/a-native-10.jpg"
+      ]
+    },
+    {
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/reaction-1259/a-native-380.jpg",
+      "sha256": "ab18cdbcc8f2c5c52d093d48238b34843762cda5861da0495d5f00f5ab45347a",
+      "local": 380,
+      "global": 12962,
+      "videoSHA256": "303d506de124ed31275a1c3c48d5518fba7c79b773a4f8cdd809b7579fcb31e2",
+      "recipe": [
+        "ffmpeg",
+        "-v",
+        "error",
+        "-i",
+        "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/proofs/NP19-reaction-v1a-1257/proof.mp4",
+        "-vf",
+        "select=eq(n\\,380)",
+        "-frames:v",
+        "1",
+        "-q:v",
+        "2",
+        "-y",
+        "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/reaction-1259/a-native-380.jpg"
+      ]
+    },
+    {
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/reaction-1259/a-native-719.jpg",
+      "sha256": "2fa3451e01172b4fd6ee496808d3d60f8d9a97cf95a4f05c2ea4ba65e1b1e174",
+      "local": 719,
+      "global": 13301,
+      "videoSHA256": "303d506de124ed31275a1c3c48d5518fba7c79b773a4f8cdd809b7579fcb31e2",
+      "recipe": [
+        "ffmpeg",
+        "-v",
+        "error",
+        "-i",
+        "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/proofs/NP19-reaction-v1a-1257/proof.mp4",
+        "-vf",
+        "select=eq(n\\,719)",
+        "-frames:v",
+        "1",
+        "-q:v",
+        "2",
+        "-y",
+        "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/reaction-1259/a-native-719.jpg"
+      ]
+    },
+    {
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/reaction-1259/b-native-0.jpg",
+      "sha256": "f894ee91105fe632360705e839f43995079d40cff3e05b86c8d50d1a7a7fed2d",
+      "local": 0,
+      "global": 13302,
+      "videoSHA256": "2b1f1b1480a21c3ee5ada10a18a4c73d89801f682c44d18251b78aba28dd40f6",
+      "recipe": [
+        "ffmpeg",
+        "-v",
+        "error",
+        "-i",
+        "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/proofs/NP19-reaction-v1b-1258/proof.mp4",
+        "-vf",
+        "select=eq(n\\,0)",
+        "-frames:v",
+        "1",
+        "-q:v",
+        "2",
+        "-y",
+        "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/reaction-1259/b-native-0.jpg"
+      ]
+    },
+    {
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/reaction-1259/b-native-79.jpg",
+      "sha256": "081739cc67dfa1af89b6cdb88161049f2cea748fe5fe493da28f7113786bb822",
+      "local": 79,
+      "global": 13381,
+      "videoSHA256": "2b1f1b1480a21c3ee5ada10a18a4c73d89801f682c44d18251b78aba28dd40f6",
+      "recipe": [
+        "ffmpeg",
+        "-v",
+        "error",
+        "-i",
+        "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/proofs/NP19-reaction-v1b-1258/proof.mp4",
+        "-vf",
+        "select=eq(n\\,79)",
+        "-frames:v",
+        "1",
+        "-q:v",
+        "2",
+        "-y",
+        "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/reaction-1259/b-native-79.jpg"
+      ]
+    },
+    {
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/reaction-1259/b-native-80.jpg",
+      "sha256": "60c9d98169137d52b190da36ff6063ae7cfb7017a3fcff47314eb27a3604ea0d",
+      "local": 80,
+      "global": 13382,
+      "videoSHA256": "2b1f1b1480a21c3ee5ada10a18a4c73d89801f682c44d18251b78aba28dd40f6",
+      "recipe": [
+        "ffmpeg",
+        "-v",
+        "error",
+        "-i",
+        "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/proofs/NP19-reaction-v1b-1258/proof.mp4",
+        "-vf",
+        "select=eq(n\\,80)",
+        "-frames:v",
+        "1",
+        "-q:v",
+        "2",
+        "-y",
+        "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/reaction-1259/b-native-80.jpg"
+      ]
+    },
+    {
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/reaction-1259/b-native-81.jpg",
+      "sha256": "8b606f541e72efadee62694c3eeeae91d5a93ef859da89e1165b9c2c30019e1c",
+      "local": 81,
+      "global": 13383,
+      "videoSHA256": "2b1f1b1480a21c3ee5ada10a18a4c73d89801f682c44d18251b78aba28dd40f6",
+      "recipe": [
+        "ffmpeg",
+        "-v",
+        "error",
+        "-i",
+        "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/proofs/NP19-reaction-v1b-1258/proof.mp4",
+        "-vf",
+        "select=eq(n\\,81)",
+        "-frames:v",
+        "1",
+        "-q:v",
+        "2",
+        "-y",
+        "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/reaction-1259/b-native-81.jpg"
+      ]
+    }
+  ],
+  "method": "All 802 actual encoded frames sequentially viewed in 27 numbered 6x5 sheets at 180x320; eight selected 1080x1920 critical frames viewed separately. MP4 hashes independently verified before decoding.",
+  "findings": [
+    "Entry local a9->a10/global12591->12592 is a genuine changed single-Adel closer composition, with rescaled/repositioned table and window and Karim absent, not same-camera mirror pop.",
+    "Whole Adel body including both feet remains inside closer frame. Raised arm remains connected, paper edge held by fingers; paper grid/time and signed-box identity persist, with lower signature naturally occluded by foreground shoulder/hand in closer angle.",
+    "Subtle paper/hand motion remains registered throughout; no new ownership/contact discontinuity observed.",
+    "Proof split a719->b0/global13301->13302 is continuous in pose, grip, paper and caption.",
+    "Exit b79->b80/global13381->13382 returns to distinct wider two-person framing; b80/81 carry unchanged scene. Caption remains continuous.",
+    "All captions remain inside top safe panel; no concrete new regression in assigned replacement."
+  ],
+  "limits": "Only this disjoint reaction replacement and included entry/exit guards. Does not supersede other middle/late holds or full-film/assembly checks. No audio listening claim. Historical NP19 hold retained.",
+  "evidenceSHA256": "3c4879c2b1504828482973219d892faa09460b5f77d3068001d571422886db28",
+  "nativeSHA256": "f2140ab94e0b391c794a5e865767370876c7be3b2c721dcb0cab3caf4f495d5d"
+}

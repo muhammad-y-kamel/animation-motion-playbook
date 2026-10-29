@@ -1,0 +1,40 @@
+{
+  "status": "PASS_FINITE_SOURCE_V6_PENDING_ACTUAL",
+  "sourceSHA256": "bd499b8bcc96a3b8883dd47f96ac69d7366fc07f0ce460004d8f1cc2d448c476",
+  "helperSHA256": "d6bef82bd609b40f87c0fdc8c73b8384bff44cf289c3b011539568679abc26a4",
+  "witnesses": [
+    {
+      "global": 15574,
+      "path": "hakawi_repair/native-portrait-e02/blocks/middle/gate-seated-v6-review/native-15574.jpg",
+      "sha256": "9d09d262679eec81d283e544ce7ebee354fca0c520f597d5e1df91d451f219c1"
+    },
+    {
+      "global": 15575,
+      "path": "hakawi_repair/native-portrait-e02/blocks/middle/gate-seated-v6-review/native-15575.jpg",
+      "sha256": "5623fb8a66377906fc39fda3c7e2df0f309ae655e94a1e7847b13c5671bc796b"
+    },
+    {
+      "global": 15700,
+      "path": "hakawi_repair/native-portrait-e02/blocks/middle/gate-seated-v6-review/native-15700.jpg",
+      "sha256": "b71ab9ed3255ca8df0afcd0b4038747568b2656366c7f10616e30e491fea1ac2"
+    },
+    {
+      "global": 15797,
+      "path": "hakawi_repair/native-portrait-e02/blocks/middle/gate-seated-v6-review/native-15797.jpg",
+      "sha256": "6e891465e16885de40970f13116e50ce43ed785f4086c2798f3646efd46e8a10"
+    },
+    {
+      "global": 15798,
+      "path": "hakawi_repair/native-portrait-e02/blocks/middle/gate-seated-v6-review/native-15798.jpg",
+      "sha256": "8abece7fd5b44be39b89519c20646de0d911d023676f4e3e2f8a29a74033c013"
+    }
+  ],
+  "findings": [
+    "All five captioned source composites visually inspected.",
+    "Gate15575/15700/15797 now have continuous natural single jaw/neck and full shoulders; passive upper-arm cap is contained beneath sleeve. Both exact v5 holds resolved in supplied witnesses.",
+    "Active arm/hand, seated support, feet, table and safe captions remain coherent.",
+    "Pre-entry office15574 and replacementKarim15798 guards visually unchanged."
+  ],
+  "proofMetadataSHA256": "d1080fa934e3e055e50054db88a52f99b1b78631f5cb7608f9d2d4907320698c",
+  "limits": "Finite source composites only, not encoded/motion/full-film or listening PASS. Actual NP23 retake still required."
+}

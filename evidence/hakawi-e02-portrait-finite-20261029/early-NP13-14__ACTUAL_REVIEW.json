@@ -1,0 +1,214 @@
+{
+  "status": "PASS_FINITE_ACTUAL_YELLOW_V4_NP12_GUARD_NP13_NP14",
+  "sourceSHA256": "127f2589d08cf70baed7eda3eb734417151d76956021d3f0153ae429723a1919",
+  "helperSHA256": "4e47dcd396d03e1ac60b15f98784329b9c8fe3967c14c9c413c0adfdd89e1f72",
+  "coverage": [
+    {
+      "clip": "NP12guard",
+      "global": [
+        7158,
+        7164
+      ],
+      "frames": 6,
+      "video": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/NP12-yellow-v4-tail-1232/proof.mp4",
+      "sha256": "78bd9808e864172caedabb131962f98d605e8b01a5c682ec214b5801ca0a2a99"
+    },
+    {
+      "name": "NP13",
+      "video": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/proofs/NP13-yellow-v4-1232/proof.mp4",
+      "sha256": "c252ddc97bf0a1a404e54bbddabb9c55713dffb2297b6f8c5a1a80d9ef935460",
+      "frames": 240,
+      "sourceStart": 119.4,
+      "recipe": [
+        "ffmpeg",
+        "-v",
+        "error",
+        "-i",
+        "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/proofs/NP13-yellow-v4-1232/proof.mp4",
+        "-vf",
+        "scale=180:320",
+        "-f",
+        "rawvideo",
+        "-pix_fmt",
+        "rgb24",
+        "-"
+      ],
+      "sheets": [
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/early-NP13-14/NP13-000.jpg",
+          "frames": [
+            0,
+            30
+          ],
+          "sha256": "097f59c0a5908f04800c187a9268135e9325670662eab6b69957fc41b5d303f9"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/early-NP13-14/NP13-030.jpg",
+          "frames": [
+            30,
+            60
+          ],
+          "sha256": "9827cc21ae4147005c9d815986330bee447373b9074b0c3696867956ed450758"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/early-NP13-14/NP13-060.jpg",
+          "frames": [
+            60,
+            90
+          ],
+          "sha256": "a46c592f43d1ec18ce514d0446d086555c621793bc09f99c6430fdbd5abc2928"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/early-NP13-14/NP13-090.jpg",
+          "frames": [
+            90,
+            120
+          ],
+          "sha256": "bffb71bac70ed85ff28668d26b3b337ce7b52a276e1329f92667403f2004b1c8"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/early-NP13-14/NP13-120.jpg",
+          "frames": [
+            120,
+            150
+          ],
+          "sha256": "3fb3402cd05a5efabcf0904f283e0570875755de8b450d685442b311c3a1caad"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/early-NP13-14/NP13-150.jpg",
+          "frames": [
+            150,
+            180
+          ],
+          "sha256": "8b7335ee5b4ea3a197e5a183aa92a3924fca474f8ee192e14d12691ebf816b8f"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/early-NP13-14/NP13-180.jpg",
+          "frames": [
+            180,
+            210
+          ],
+          "sha256": "1d70985f622a88f2ff3ba12a61d4b33dd642a25c3151404cb52bad2c24652db1"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/early-NP13-14/NP13-210.jpg",
+          "frames": [
+            210,
+            240
+          ],
+          "sha256": "c147183129f9ce690fa139bb9353b1858f7621efc5a3724431231132efdcc38d"
+        }
+      ]
+    },
+    {
+      "name": "NP14",
+      "video": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/proofs/NP14-yellow-v4-1232/proof.mp4",
+      "sha256": "a0053f706c1f937cf9499efe7090577e31159add607dca67c5a0320516f7f39e",
+      "frames": 228,
+      "sourceStart": 123.4,
+      "recipe": [
+        "ffmpeg",
+        "-v",
+        "error",
+        "-i",
+        "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/proofs/NP14-yellow-v4-1232/proof.mp4",
+        "-vf",
+        "scale=180:320",
+        "-f",
+        "rawvideo",
+        "-pix_fmt",
+        "rgb24",
+        "-"
+      ],
+      "sheets": [
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/early-NP13-14/NP14-000.jpg",
+          "frames": [
+            0,
+            30
+          ],
+          "sha256": "7d80ca9fedb6dbfabf0c797e9e0b0f8e0dc13349cc456cf3f9d6e3bb6bfe58ea"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/early-NP13-14/NP14-030.jpg",
+          "frames": [
+            30,
+            60
+          ],
+          "sha256": "66f497ceb607ddf50daeef68537a252ba4bff03730080638a7b99c87d3c42977"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/early-NP13-14/NP14-060.jpg",
+          "frames": [
+            60,
+            90
+          ],
+          "sha256": "509ff124e849eff56e3cfda78c4a012dd22a71188a531f1d63b25bdc21d629cc"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/early-NP13-14/NP14-090.jpg",
+          "frames": [
+            90,
+            120
+          ],
+          "sha256": "4afb6cdf02ee7335381eafda190197eec967c3c6afb002513936eb165b686150"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/early-NP13-14/NP14-120.jpg",
+          "frames": [
+            120,
+            150
+          ],
+          "sha256": "9e7a8d1d310179c54d241f83b80a056d92c0702aa57c30398e4ea9d7091ecff9"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/early-NP13-14/NP14-150.jpg",
+          "frames": [
+            150,
+            180
+          ],
+          "sha256": "715f0aebc1c33950099f5912dbd8d4742a0c502f6eb2abff08a00fe30994c193"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/early-NP13-14/NP14-180.jpg",
+          "frames": [
+            180,
+            210
+          ],
+          "sha256": "31fa7d0d433db99964acb2d8b3e744539cc7fdba4f04ee291a781f67e0d6457f"
+        },
+        {
+          "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/early-NP13-14/NP14-210.jpg",
+          "frames": [
+            210,
+            228
+          ],
+          "sha256": "4a006548ead6d4fc7a36d256697a2aa895e374b37f4095e432ee6dffef1ed53b"
+        }
+      ]
+    }
+  ],
+  "totalActualFramesViewed": 474,
+  "method": "Every frame viewed sequentially in numbered sheets; native critical inspection separately. Sheet labels are frame start, source shutter center is start+(n+.5)/60.",
+  "nativeInspected": [
+    "NP13-native-85.jpg",
+    "NP13-native-161.jpg",
+    "NP13-native-186.jpg",
+    "NP14-native-1.jpg",
+    "NP14-native-2.jpg",
+    "NP14-native-68.jpg",
+    "NP14-native-190.jpg",
+    "NP12guard-native-0.jpg",
+    "NP12guard-native-1.jpg"
+  ],
+  "findings": [
+    "Yellow grid, Arabic labels and 4:34 retained; progressive right-to-left canonical curve stays registered to nib, complete before lift, connected forearm exits right, sheet stays desk-supported.",
+    "Guard global7158 truck,7159 yellow; caption survives exact canonical119.32 scene cut. All six guard frames viewed.",
+    "NP14 local0/1 retain completed yellow signature, local2 cuts to forklift at canonical123.44; caption continuity preserved.",
+    "Forks support pallet through descent; pallet settles before forks withdraw left. Operator remains seated with connected arms and visible supported pose; cargo remains fixed after withdrawal.",
+    "Caption text stays inside top safe panel throughout; no concrete new geometry/contact/identity regression in scoped footage."
+  ],
+  "limits": "Finite clips only. No audio listening claim, full-film PASS, late replay PASS, assembly transfer or publication approval.",
+  "evidenceSHA256": "a17c19ed9d4a12cc41991fc9e6faaf6a03b37fcc93c0ba3017118e2808270161",
+  "nativeMetadataSHA256": "914f8a231b3217cdaa594afc2135154e46ccd95eae3a7429df6d35b5844a3c2b"
+}

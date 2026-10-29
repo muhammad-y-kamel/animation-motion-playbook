@@ -1,0 +1,172 @@
+{
+  "scope": "Independent finite actual encoded visual review",
+  "clips": [
+    {
+      "proof": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/NP32-door-v5-1305/proof.mp4",
+      "sha256": "5a99034db4c57fc54b3ac298b32bcd289f80a1a21922ad22b02a138fc09bd528",
+      "firstFrame": 23606,
+      "endFrame": 24024,
+      "framesReviewed": 418,
+      "verdict": "PASS",
+      "nativeLocalFramesViewed": [
+        282,
+        360,
+        412
+      ],
+      "findings": "All418 actual frames: ledger inventory/contact intact; doorway already open from first entrance frame, static throughout. No self-opening. Existing cuts elide push/travel; established group preserves carried ledger. Captions clear."
+    },
+    {
+      "proof": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/NP33-late-1306/proof.mp4",
+      "sha256": "76cbc353dd76b2046a3a8a3dc0d15f7102cd8bd6bf1ce33354fcc01a1c2bcfff",
+      "firstFrame": 24300,
+      "endFrame": 24480,
+      "framesReviewed": 180,
+      "verdict": "HOLD",
+      "nativeLocalFramesViewed": [
+        101,
+        125
+      ],
+      "findings": "All180 actual frames: continuous yellow paper placement onto table then hand release/withdrawal; same canonical yellow4:34 and cream1:15/signatures clear. Stray brown triangular atlas fragment x420-449,y901-915 below/right of ledger remains in native101/125; bounded isolation classification requested."
+    },
+    {
+      "proof": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/NP34-late-1306/proof.mp4",
+      "sha256": "e82e5cf08166009beae8dd7e8859463de4076dbd3d6c55ff00708e5c64154970",
+      "firstFrame": 25164,
+      "endFrame": 25614,
+      "framesReviewed": 450,
+      "verdict": "HOLD",
+      "nativeLocalFramesViewed": [
+        105,
+        130,
+        280
+      ],
+      "findings": "All450 actual frames: comparison supported, canonical distinct documents and release retained; driver introduced by genuine cut. Native280 driver foreground shoe overlays Karim trouser but soles are elevated ~100px above Karim floor/feet, smaller body reads floating/miniature foreground rather than coherent rear-depth. Bounded floor/layer classification requested."
+    }
+  ],
+  "totalFramesReviewed": 1048,
+  "limits": "No listening or full-film clearance. All sequential compact frame sheets reviewed plus listed native witnesses. Prior NP32 hold superseded only for retake bytes.",
+  "replayFilter": "scale=150:266,drawtext=fontfile=/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf:text='%{n}':x=4:y=240:fontsize=15:fontcolor=white:box=1:boxcolor=black,tile=6x6",
+  "sheetQuality": 8,
+  "sheets": [
+    {
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/late-1306/NP32-01.jpg",
+      "sha256": "02c8f1d5f51ffd978b7236702818566ea295a369c94bcf40ceb4f7d5fad2ce77"
+    },
+    {
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/late-1306/NP32-02.jpg",
+      "sha256": "d82074b0735c2982791234fc125b92eb452f247cf5f7991678fecd62ff2d872e"
+    },
+    {
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/late-1306/NP32-03.jpg",
+      "sha256": "d2bd9d0950c0d5de15887090537def500c2c2e97b1b67a72d202382381ab4a90"
+    },
+    {
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/late-1306/NP32-04.jpg",
+      "sha256": "3935f8b7dfc308dd7f6808a06a75b18ba631034f18e9f59074d20fa81a6c284b"
+    },
+    {
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/late-1306/NP32-05.jpg",
+      "sha256": "91fde7811149ea29de71d46c1a054f069a118b7ecfd94a4e15d9442b750f07f3"
+    },
+    {
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/late-1306/NP32-06.jpg",
+      "sha256": "354913e00644d4105584b73ef84d9a72c8cdd0882139af8d368414f7930378d2"
+    },
+    {
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/late-1306/NP32-07.jpg",
+      "sha256": "3d9580b6e852ced7b3c735808ab7ed2f7351c40575e81a8631db331d8c2e0ad1"
+    },
+    {
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/late-1306/NP32-08.jpg",
+      "sha256": "be9bf4677216b69c87d166962e117ea3c68fb52e8750845af3c57b9c01346b9c"
+    },
+    {
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/late-1306/NP32-09.jpg",
+      "sha256": "d00455f8684cecb32f28e1104be0e0c10ac4ad2155cce55a2adf4260445d65fc"
+    },
+    {
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/late-1306/NP32-10.jpg",
+      "sha256": "22039b7f964885c77ed136f976d33a7b72aa00420e4f30de2c8f35507dd22036"
+    },
+    {
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/late-1306/NP32-11.jpg",
+      "sha256": "6c7111bf8bce81a806e92792dd7c4fda3b29c2ae06f8a452826703ae09bad4d4"
+    },
+    {
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/late-1306/NP32-12.jpg",
+      "sha256": "195da07eb2ab6756317bc3c5088bfa022053e9bbc9ad2c0ff6d951787403cbc8"
+    },
+    {
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/late-1306/NP33-01.jpg",
+      "sha256": "105eb7badb7ece350c96714429d64fe94fc43fb6222240f0301b6f9c458ca53f"
+    },
+    {
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/late-1306/NP33-02.jpg",
+      "sha256": "8d076ba8472489d611b9c3182ce496269eee2de01cc253331fe830c96311c36f"
+    },
+    {
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/late-1306/NP33-03.jpg",
+      "sha256": "e10783c3bf003678c01a23951ecc383f818dd60585acc39adb24c2cfb3bb9f70"
+    },
+    {
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/late-1306/NP33-04.jpg",
+      "sha256": "597a15f4fec40d00f32e232c1ee6fd95a472638040dfc8dd5b76d05c7f9c22e2"
+    },
+    {
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/late-1306/NP33-05.jpg",
+      "sha256": "3994297762a03e2553c2969cd6682ceca497629c4b54163f7c33996e70c8e282"
+    },
+    {
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/late-1306/NP34-01.jpg",
+      "sha256": "4bd04f4c0e5235731dd9d0d1484629b57f58ca02eb6896f790c10c51b8123a0e"
+    },
+    {
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/late-1306/NP34-02.jpg",
+      "sha256": "94da6f888fbd3b113cf39afad4fae8bd2cd6a646ae845ffb200038e348a7a4a0"
+    },
+    {
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/late-1306/NP34-03.jpg",
+      "sha256": "759829fee3901a218ce620e38a9003ad991947803431ab17f6ec4dfbb4203fda"
+    },
+    {
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/late-1306/NP34-04.jpg",
+      "sha256": "d5d14f181289d6ea19df6d2e80ce7ab9e9eb589c842edf18eb8a737d47ef3bf1"
+    },
+    {
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/late-1306/NP34-05.jpg",
+      "sha256": "fc743b7c6ec9c464eff1f80d5791f90ae8ab2679229cf6b3812340995b1d566e"
+    },
+    {
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/late-1306/NP34-06.jpg",
+      "sha256": "c2345b2183c58a08f596ab8692eca1a8e482c8efc6bc8847b7d8d14397444e96"
+    },
+    {
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/late-1306/NP34-07.jpg",
+      "sha256": "71cae1fda56ac950e56e2710cc43a69df052a86684326f5616561e26a179c5ec"
+    },
+    {
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/late-1306/NP34-08.jpg",
+      "sha256": "fd0eabd74a4eb6f0803f1136bee6a5cfcf8b6df32d4198879319deb2d2850163"
+    },
+    {
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/late-1306/NP34-09.jpg",
+      "sha256": "3c9897d32d7cce2bf17e916c493c462b63d607d7b3e3c2e0ad5261fa06a65c7d"
+    },
+    {
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/late-1306/NP34-10.jpg",
+      "sha256": "959582938137f5eebd61cf5b5e5b9d9b9bc3c0e139e450604325d9ef79653839"
+    },
+    {
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/late-1306/NP34-11.jpg",
+      "sha256": "683b6e56582433a5b3edd392565684f4cafeada71578601e35048ebfbe76e0ab"
+    },
+    {
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/late-1306/NP34-12.jpg",
+      "sha256": "ed638b1c0e4f5d1c5a7d4df585c02f37eec9b9b04cbee620ea5c6302ef1e8197"
+    },
+    {
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/late-1306/NP34-13.jpg",
+      "sha256": "ae399196290bb7dd32afb11bd628e684c4d7145319b8eedeea7511f2f881b3d2"
+    }
+  ]
+}

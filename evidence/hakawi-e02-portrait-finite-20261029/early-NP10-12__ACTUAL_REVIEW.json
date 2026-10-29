@@ -1,0 +1,87 @@
+{
+  "status": "HOLD_NP11_PAPER_IDENTITY_NP10_NP12_SCOPED_PASS",
+  "reviewer": "/root/review_e02_final_second_half",
+  "sourceSHA256": "879c382540df3e1becd5e72d78c4483ba7d86c800ee31498be250e0c30dc935a",
+  "timeUTC": "2026-10-29T12:18:33.412287+00:00",
+  "actualFramesViewed": 1074,
+  "nativeWitnessesViewed": 11,
+  "coverage": [
+    {
+      "name": "NP10",
+      "sha256": "fc2dc7de7a749a9f70da75e6d7616c0c515c8be4e35eba742ddb8b9f2be43a99",
+      "video": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/proofs/NP10-early-1207/proof.mp4",
+      "sourceStart": 94,
+      "viewedLocalRange": [
+        0,
+        690
+      ],
+      "allSequentialSheetsViewed": true
+    },
+    {
+      "name": "NP11",
+      "sha256": "30ce56da07c3ffcf940700085ae3f470bd809c8ab5437e3edbef3bd022d2de24",
+      "video": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/proofs/NP11-early-1207/proof.mp4",
+      "sourceStart": 105.5,
+      "viewedLocalRange": [
+        0,
+        150
+      ],
+      "allSequentialSheetsViewed": true
+    },
+    {
+      "name": "NP12",
+      "sha256": "cd61173c37de0839c19f78c0fe3e666fae05c364d9762ed0a021fe79587d869c",
+      "video": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e02/runtime-finite/proofs/NP12-early-1207/proof.mp4",
+      "sourceStart": 115.5,
+      "viewedLocalRange": [
+        0,
+        234
+      ],
+      "allSequentialSheetsViewed": true
+    }
+  ],
+  "evidence": [
+    {
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/early-NP10-12/NP10_EVIDENCE.json",
+      "sha256": "263dccfa1ca5933976f0c4aa548aa5b9c4e38f912a08f781822bf37c9e26116f"
+    },
+    {
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/early-NP10-12/NP11_12_EVIDENCE.json",
+      "sha256": "e552b4040b3a3b8513b189555cb884c2ca30d09d091cd97c50d1c52666001727"
+    },
+    {
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/early-NP10-12/NATIVE.json",
+      "sha256": "ba139968ff4f22073422759c850b1d6c96d7539907f2a399e709253a622ba65b"
+    }
+  ],
+  "holds": [
+    {
+      "id": "NP11_PAPER_IDENTITY",
+      "transitionLocalFrames": [
+        10,
+        11
+      ],
+      "centralTimes": [
+        105.675,
+        105.691666666667
+      ],
+      "sourceCut": 105.68025,
+      "finding": "Preceding close shows blank cream three-column receipt with bottom-left zigzag signature; following wide desk sheet is densely marked generic form instead of the protected blank signed receipt.",
+      "witnesses": [
+        "NP10-native-636.jpg",
+        "NP11-native-30.jpg"
+      ],
+      "scope": "105.68025 to106.86 warning office shot",
+      "ownerNotified": true
+    }
+  ],
+  "passFindings": [
+    "NP10 signature grows with nib in signature box; cream three-column torn paper and blank fields persist through approach/slide/withdrawal. Connected hand and pen contact retained.",
+    "NP11 genuine cut to warning office and then coldroom; actor framing and captions clear, apart from stated paper identity hold.",
+    "NP12 truck progressively enters gate with consistent occlusion and whole vehicle support; no jump at part1 boundary. Local217 retains previous caption;218 begins expected blank caption gap;227 new caption begins119.2833 frame-start;228 remains truck;229 cuts to yellow security ledger at central119.325, consistent canonical119.32."
+  ],
+  "limitations": [
+    "Finite batch only, not full-film approval.",
+    "No audio listening performed."
+  ]
+}

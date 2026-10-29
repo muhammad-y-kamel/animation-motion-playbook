@@ -1,0 +1,73 @@
+{
+  "status": "NP03_BOUNDED_REPAIR_CLOSED",
+  "reviews": [
+    {
+      "proof": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/NP03-rest-v3-1130/proof.mp4",
+      "sha256": "22f4dbfce0535330edaf8c1d99b7553f22cded43b8129acb0eb3184a9e7386f2",
+      "firstFrame": 14254,
+      "endFrame": 14358,
+      "frames": 104,
+      "runtimeSHA256": "8bece9f940a3d8e641e5de5968a84911d2c6e7b616db422ca84698183155aafa",
+      "status": "SCOPED_VISUAL_PASS"
+    },
+    {
+      "proof": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/NP03-rest-v3-exit-1130/proof.mp4",
+      "sha256": "ae7474532238db6e601e9438cf9597f1e326a92034c02f39f82cd4c37ec8ed2c",
+      "firstFrame": 15573,
+      "endFrame": 15578,
+      "frames": 5,
+      "runtimeSHA256": "8bece9f940a3d8e641e5de5968a84911d2c6e7b616db422ca84698183155aafa",
+      "status": "SCOPED_VISUAL_PASS"
+    }
+  ],
+  "method": "All104 lower/entry frames sequential180x320 proxies plus native locals2,14,65,69,103; all5 exit frames270x480 proxies. Exact encoded output inspected, not mutable source stills.",
+  "findings": [
+    "Rest hand stays separated from receipt throughout lowered proof.",
+    "237.6 existing shot cut separates entry; complete active arm and supported settled paper retained.",
+    "Part boundary14323 has no scene reset; five-frame caption blank matches canonical next word onset238.8.",
+    "Exit15575 cleanly changes office to gate scene; no blended bodies or retained stray receipt."
+  ],
+  "limits": [
+    "Only these109frames accepted. Later aftermath interval not exhaustively covered.",
+    "Original failedNP03 not accepted; NP01/02 prior receipts unchanged.",
+    "No audio listening, fullfilm or release approval."
+  ],
+  "witnesses": [
+    {
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/NP03-rest-v3/exit-all5.jpg",
+      "sha256": "d5addb6f4ef1e0a3ff43ece3e71934304e67922d6f6288a2824eecaed087e19e"
+    },
+    {
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/NP03-rest-v3/native-103.jpg",
+      "sha256": "6cadb9ba2ba2bd45f3531443beb91f50aadb51b5645654b12e6cd9c82e5ed2d1"
+    },
+    {
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/NP03-rest-v3/native-14.jpg",
+      "sha256": "b942fc22177cc152e75d3fe5c983df1d469735891875872c17860828cd9b8e7b"
+    },
+    {
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/NP03-rest-v3/native-2.jpg",
+      "sha256": "baecd2700f3a255e87c02c6b4cbf0224003da83f41ab7ab801fa56040a29c9ed"
+    },
+    {
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/NP03-rest-v3/native-65.jpg",
+      "sha256": "f1f1f77b456e3a6a820288c6255c99524f1e268996745ab41be44d2c5162b1c1"
+    },
+    {
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/NP03-rest-v3/native-69.jpg",
+      "sha256": "15f07b973c56af3d14c297d52139d6c825144d9354a1fa5e88e73cb93bb75bf4"
+    },
+    {
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/NP03-rest-v3/sheet-01.jpg",
+      "sha256": "39c5970a2e3556c571ad7bc2b41721662d698fe8581d8b5c24629623d6b30976"
+    },
+    {
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/NP03-rest-v3/sheet-02.jpg",
+      "sha256": "762602770eddfb71da6e6e18bf648c0384e6ed1726bf00fc3363792fd590c6b5"
+    },
+    {
+      "path": "hakawi_repair/native-portrait-e02/runtime-finite/proofs/independent-review/NP03-rest-v3/sheet-03.jpg",
+      "sha256": "02463ba095fe6bbc392ef3772e922d7e7afc15b3d991326daf178fd24072dbc5"
+    }
+  ]
+}
