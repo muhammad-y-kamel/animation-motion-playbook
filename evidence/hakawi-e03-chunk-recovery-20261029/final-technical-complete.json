@@ -1,0 +1,114 @@
+{
+  "frames": 27922,
+  "videoPTSExact": true,
+  "videoDTSExact": true,
+  "audioPresentedSamples": 20522376,
+  "canonicalSourcePCMHash": "d41017a75d4f6fe1d24cea7e2e40d80b352e0a425f6740286baed8f93d619ca1",
+  "rawAACDecodedSamples": 20523008,
+  "AACPCMByteIdentityClaim": false,
+  "audioAlignmentWindows": [
+    {
+      "sampleStart": 0,
+      "count": 88200,
+      "bestLagSamples": 0,
+      "correlation": 0.9998545774932668,
+      "canonicalRMS": 4778.049389648524,
+      "silenceExempt": false
+    },
+    {
+      "sampleStart": 5086494,
+      "count": 88200,
+      "bestLagSamples": 0,
+      "correlation": 0.9999522977521965,
+      "canonicalRMS": 4227.247081635401,
+      "silenceExempt": false
+    },
+    {
+      "sampleStart": 10217088,
+      "count": 88200,
+      "bestLagSamples": 0,
+      "correlation": 0.9998815994516517,
+      "canonicalRMS": 3383.543505152328,
+      "silenceExempt": false
+    },
+    {
+      "sampleStart": 15347682,
+      "count": 88200,
+      "bestLagSamples": 0,
+      "correlation": 0.9999597890356198,
+      "canonicalRMS": 4550.592127868382,
+      "silenceExempt": false
+    },
+    {
+      "sampleStart": 20434176,
+      "count": 88200,
+      "bestLagSamples": 0,
+      "correlation": 0.9999453735455308,
+      "canonicalRMS": 3067.78556884189,
+      "silenceExempt": false
+    }
+  ],
+  "decodedVideoHashBaseline": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/runtime/chunk-v1/final-assembly-v1/decoded-video-hashes.json.gz",
+  "decodedVideoHashBaselineSHA256": "f65cea13f7f5eae501ec816cb8dc64bd83faf4dc92ec969256f4e3123649e781",
+  "lastRealFrameSamples": 441,
+  "subjectiveListeningClaim": false,
+  "status": "TECHNICAL_CLOSED_PENDING_FULL_ACTUAL_VISUAL_REVIEW",
+  "videoSHA256": "16b59f664b83d8af447bdf796f077a31abdb8fc49d44073d7633900652e90f21",
+  "videoDecodedEqualAllChunks": true,
+  "losslessReviewmasterForm": "Ordered immutable ALAC chunks, no redundant combined master",
+  "chunks": [
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/runtime/chunk-v1/outputs/chunk-00000-00180-1793307998197574410",
+      "receiptSHA256": "56aa9abdd9a18bf36c5415d2fff5c45badf0b202232067bb61c1dbd5a93e3263"
+    },
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/runtime/chunk-v1/outputs/chunk-00180-00360-1793308012304363076",
+      "receiptSHA256": "ba7b50b320d238da0505bfc3fa9c9a1bb9cab5125f45b174de0f4de2a5d245c1"
+    },
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/runtime/chunk-v1/outputs/chunk-00360-03360-1793308143832482014",
+      "receiptSHA256": "19f01bee6a98463e723e94ec72dd57efeb259522fd544b83a0d305359c1ed420"
+    },
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/runtime/chunk-v1/outputs/chunk-03360-06360-1793308366174100384",
+      "receiptSHA256": "3f75abef5d10574e22921bf5cc91d7ad4c7a6e36cdcfa008eb3b484d36dbbc68"
+    },
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/runtime/chunk-v1/outputs/chunk-06360-09360-1793308577683090479",
+      "receiptSHA256": "04b7112c48ee395bc95074000eeba2cc61739e7a1126660c9335c1f78b496116"
+    },
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/runtime/chunk-v1/outputs/chunk-09360-12360-1793308811337168933",
+      "receiptSHA256": "a65938c30f5e873f49cbaace2e49c3c71d70cc50bad2c26af0747912a8dd5168"
+    },
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/runtime/chunk-v1/outputs/chunk-12360-15360-1793309064392705257",
+      "receiptSHA256": "e3d847838099c20f2a0020838f6949380f68cd1ceb1fe9701c244d1cddff6f87"
+    },
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/runtime/chunk-v1/outputs/chunk-15360-18360-1793309323895087181",
+      "receiptSHA256": "eae0ed5e5279a5d1568507c7ea61b53a1b827c2a57751f5f7ebbff2e08f12dfe"
+    },
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/runtime/chunk-v1/outputs/chunk-18360-21360-1793309589087251021",
+      "receiptSHA256": "0b759d393c1ecc7dd27a9a276a9e4c53adf67baf899eced31f172afa2955aeff"
+    },
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/runtime/chunk-v1/outputs/chunk-21360-24360-1793309826425903959",
+      "receiptSHA256": "ad29220b8603d5c0adc739e5674c8fb40ef2a70668ee9a1ca057796efbd26c35"
+    },
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/runtime/chunk-v1/outputs/chunk-24360-27360-1793310149612368653",
+      "receiptSHA256": "ed6bb220b6ca103c22d0fb133840899bb6c9c17040f7689a57a788f31161b85a"
+    },
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/runtime/chunk-v1/outputs/chunk-27360-27908-1793310390796472681",
+      "receiptSHA256": "d88f37f9279a6bef60ec84e31c98f5749b0c400b951bebe39fbdc8fb5a5e9f21"
+    },
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/runtime/chunk-v1/outputs/chunk-27908-27922-1793308026645612714",
+      "receiptSHA256": "a64a30346bcf519dff25f5604eefc23ccf26decf3cd0514ccc1bdcfdb7728a39"
+    }
+  ],
+  "sourcePinsVerified": 154
+}

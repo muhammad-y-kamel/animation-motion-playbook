@@ -1,0 +1,470 @@
+{
+  "status": "COMPLETE_SCOPED_VISUAL_PASS",
+  "viewedSheets": [
+    518,
+    519,
+    520,
+    521,
+    522,
+    523,
+    524,
+    525,
+    526,
+    527,
+    528,
+    529,
+    530,
+    531,
+    532,
+    533,
+    534,
+    535,
+    536,
+    537,
+    538,
+    539,
+    540,
+    541,
+    542,
+    543,
+    544,
+    545,
+    546,
+    547,
+    548,
+    549,
+    550,
+    551,
+    552,
+    553,
+    554,
+    555,
+    556,
+    557,
+    558,
+    559,
+    560,
+    561,
+    562,
+    563,
+    564,
+    565,
+    566,
+    567,
+    568,
+    569,
+    570,
+    571,
+    572,
+    573,
+    574,
+    575,
+    576,
+    577,
+    578,
+    579,
+    580,
+    581
+  ],
+  "viewedNatives": [
+    24882,
+    25158,
+    25194,
+    25224,
+    25260,
+    25405,
+    25406,
+    25500,
+    25593,
+    25594,
+    25700,
+    25788,
+    25789,
+    25900,
+    26099,
+    26100,
+    26220,
+    26280,
+    26296,
+    26297,
+    26325,
+    26340,
+    26376,
+    26428,
+    26429,
+    26520,
+    26640,
+    26856,
+    26962,
+    26963,
+    27000,
+    27010,
+    27166,
+    27167,
+    27300,
+    27403,
+    27604,
+    27605,
+    27646,
+    27800,
+    27804,
+    27846,
+    27921
+  ],
+  "notes": [
+    "Initial table/paper support visible; key pinched between fingers then cut to symbolic key insert. No confirmed hold yet.",
+    "Resumed review completed all remaining sheets and natives; no confirmed visual holds."
+  ],
+  "scope": [
+    24882,
+    27922
+  ],
+  "block": "D",
+  "finalVideoSHA256": "16b59f664b83d8af447bdf796f077a31abdb8fc49d44073d7633900652e90f21",
+  "coverageSHA256": "4f224ed123109947a09464844b585442ff1c9af03be3358e21fa64f375856eec",
+  "sheetManifestSHA256": "60bae90165ae17a5e50dc6ae13b7cf718482407cd5df266d0b07fd78a339b5e6",
+  "nativeManifestSHA256": "8e4ad9e20c5bcfa5ae1896835fdf79e960bfc08a45187622e882c20155126b23",
+  "nativePTSProofSHA256": "7adcfd84715ecdb1d134ca1fe02296721cf1e5cba865574610e7ce99f5e83df8",
+  "firstFrame": 24882,
+  "endFrameExclusive": 27922,
+  "viewedFrameCount": 3040,
+  "viewedSheetTiles": [
+    {
+      "sheet": 518,
+      "firstTile": 18,
+      "lastTileInclusive": 47
+    },
+    {
+      "sheet": 519,
+      "firstTile": 0,
+      "lastTileInclusive": 47
+    },
+    {
+      "sheet": 520,
+      "firstTile": 0,
+      "lastTileInclusive": 47
+    },
+    {
+      "sheet": 521,
+      "firstTile": 0,
+      "lastTileInclusive": 47
+    },
+    {
+      "sheet": 522,
+      "firstTile": 0,
+      "lastTileInclusive": 47
+    },
+    {
+      "sheet": 523,
+      "firstTile": 0,
+      "lastTileInclusive": 47
+    },
+    {
+      "sheet": 524,
+      "firstTile": 0,
+      "lastTileInclusive": 47
+    },
+    {
+      "sheet": 525,
+      "firstTile": 0,
+      "lastTileInclusive": 47
+    },
+    {
+      "sheet": 526,
+      "firstTile": 0,
+      "lastTileInclusive": 47
+    },
+    {
+      "sheet": 527,
+      "firstTile": 0,
+      "lastTileInclusive": 47
+    },
+    {
+      "sheet": 528,
+      "firstTile": 0,
+      "lastTileInclusive": 47
+    },
+    {
+      "sheet": 529,
+      "firstTile": 0,
+      "lastTileInclusive": 47
+    },
+    {
+      "sheet": 530,
+      "firstTile": 0,
+      "lastTileInclusive": 47
+    },
+    {
+      "sheet": 531,
+      "firstTile": 0,
+      "lastTileInclusive": 47
+    },
+    {
+      "sheet": 532,
+      "firstTile": 0,
+      "lastTileInclusive": 47
+    },
+    {
+      "sheet": 533,
+      "firstTile": 0,
+      "lastTileInclusive": 47
+    },
+    {
+      "sheet": 534,
+      "firstTile": 0,
+      "lastTileInclusive": 47
+    },
+    {
+      "sheet": 535,
+      "firstTile": 0,
+      "lastTileInclusive": 47
+    },
+    {
+      "sheet": 536,
+      "firstTile": 0,
+      "lastTileInclusive": 47
+    },
+    {
+      "sheet": 537,
+      "firstTile": 0,
+      "lastTileInclusive": 47
+    },
+    {
+      "sheet": 538,
+      "firstTile": 0,
+      "lastTileInclusive": 47
+    },
+    {
+      "sheet": 539,
+      "firstTile": 0,
+      "lastTileInclusive": 47
+    },
+    {
+      "sheet": 540,
+      "firstTile": 0,
+      "lastTileInclusive": 47
+    },
+    {
+      "sheet": 541,
+      "firstTile": 0,
+      "lastTileInclusive": 47
+    },
+    {
+      "sheet": 542,
+      "firstTile": 0,
+      "lastTileInclusive": 47
+    },
+    {
+      "sheet": 543,
+      "firstTile": 0,
+      "lastTileInclusive": 47
+    },
+    {
+      "sheet": 544,
+      "firstTile": 0,
+      "lastTileInclusive": 47
+    },
+    {
+      "sheet": 545,
+      "firstTile": 0,
+      "lastTileInclusive": 47
+    },
+    {
+      "sheet": 546,
+      "firstTile": 0,
+      "lastTileInclusive": 47
+    },
+    {
+      "sheet": 547,
+      "firstTile": 0,
+      "lastTileInclusive": 47
+    },
+    {
+      "sheet": 548,
+      "firstTile": 0,
+      "lastTileInclusive": 47
+    },
+    {
+      "sheet": 549,
+      "firstTile": 0,
+      "lastTileInclusive": 47
+    },
+    {
+      "sheet": 550,
+      "firstTile": 0,
+      "lastTileInclusive": 47
+    },
+    {
+      "sheet": 551,
+      "firstTile": 0,
+      "lastTileInclusive": 47
+    },
+    {
+      "sheet": 552,
+      "firstTile": 0,
+      "lastTileInclusive": 47
+    },
+    {
+      "sheet": 553,
+      "firstTile": 0,
+      "lastTileInclusive": 47
+    },
+    {
+      "sheet": 554,
+      "firstTile": 0,
+      "lastTileInclusive": 47
+    },
+    {
+      "sheet": 555,
+      "firstTile": 0,
+      "lastTileInclusive": 47
+    },
+    {
+      "sheet": 556,
+      "firstTile": 0,
+      "lastTileInclusive": 47
+    },
+    {
+      "sheet": 557,
+      "firstTile": 0,
+      "lastTileInclusive": 47
+    },
+    {
+      "sheet": 558,
+      "firstTile": 0,
+      "lastTileInclusive": 47
+    },
+    {
+      "sheet": 559,
+      "firstTile": 0,
+      "lastTileInclusive": 47
+    },
+    {
+      "sheet": 560,
+      "firstTile": 0,
+      "lastTileInclusive": 47
+    },
+    {
+      "sheet": 561,
+      "firstTile": 0,
+      "lastTileInclusive": 47
+    },
+    {
+      "sheet": 562,
+      "firstTile": 0,
+      "lastTileInclusive": 47
+    },
+    {
+      "sheet": 563,
+      "firstTile": 0,
+      "lastTileInclusive": 47
+    },
+    {
+      "sheet": 564,
+      "firstTile": 0,
+      "lastTileInclusive": 47
+    },
+    {
+      "sheet": 565,
+      "firstTile": 0,
+      "lastTileInclusive": 47
+    },
+    {
+      "sheet": 566,
+      "firstTile": 0,
+      "lastTileInclusive": 47
+    },
+    {
+      "sheet": 567,
+      "firstTile": 0,
+      "lastTileInclusive": 47
+    },
+    {
+      "sheet": 568,
+      "firstTile": 0,
+      "lastTileInclusive": 47
+    },
+    {
+      "sheet": 569,
+      "firstTile": 0,
+      "lastTileInclusive": 47
+    },
+    {
+      "sheet": 570,
+      "firstTile": 0,
+      "lastTileInclusive": 47
+    },
+    {
+      "sheet": 571,
+      "firstTile": 0,
+      "lastTileInclusive": 47
+    },
+    {
+      "sheet": 572,
+      "firstTile": 0,
+      "lastTileInclusive": 47
+    },
+    {
+      "sheet": 573,
+      "firstTile": 0,
+      "lastTileInclusive": 47
+    },
+    {
+      "sheet": 574,
+      "firstTile": 0,
+      "lastTileInclusive": 47
+    },
+    {
+      "sheet": 575,
+      "firstTile": 0,
+      "lastTileInclusive": 47
+    },
+    {
+      "sheet": 576,
+      "firstTile": 0,
+      "lastTileInclusive": 47
+    },
+    {
+      "sheet": 577,
+      "firstTile": 0,
+      "lastTileInclusive": 47
+    },
+    {
+      "sheet": 578,
+      "firstTile": 0,
+      "lastTileInclusive": 47
+    },
+    {
+      "sheet": 579,
+      "firstTile": 0,
+      "lastTileInclusive": 47
+    },
+    {
+      "sheet": 580,
+      "firstTile": 0,
+      "lastTileInclusive": 47
+    },
+    {
+      "sheet": 581,
+      "firstTile": 0,
+      "lastTileInclusive": 33
+    }
+  ],
+  "holds": [],
+  "scopedPass": true,
+  "reviewMethod": "Actual visual inspection of every assigned contact-sheet tile and all 43 assigned native stills; prior persisted views 518-533 and first 5 natives retained from interrupted independent reviewer, remainder actually viewed in this resumed pass. Not playback/audio review.",
+  "observations": [
+    "Cash has visible thumb/finger grip in both sender and recipient inserts; transfer represented by cut.",
+    "Packing cloth moves with hand toward open bag supported by stool; no confirmed floating cloth or unsupported bag.",
+    "Attempted kiss/refusal: man leans closer, woman raises rejecting hand, no actual kiss shown in this block. Earlier kiss is outside D and not assessed.",
+    "Departure represented by cut to man alone, rather than a full walking exit.",
+    "End remains man-alone interior with final Quran quotation through f27921; no separate CTA/end card appears in D.",
+    "No confirmed detached/extra limb, ghost prop or caption-face overlap at reviewed resolutions. Apparent contact-sheet horizontal shifts were not treated as film faults."
+  ],
+  "limitations": [
+    "No audio/listening claim.",
+    "No full-film or outside-block visual claim.",
+    "Contact-sheet tiles are 240x136; detailed native inspection limited to the exact 43 listed frames.",
+    "This scoped pass does not independently establish editorial requirement for a separate CTA card."
+  ]
+}

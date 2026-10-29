@@ -1,0 +1,776 @@
+{
+  "utc": "2026-10-29T22:20:55.881898+00:00",
+  "status": "WIP technical closed; full visual acceptance NOT claimed by storage checkpoint",
+  "source_identity": "libfile_ead7361918c48191b115f1517cbce4d1",
+  "source_v2_receipt": {
+    "result": {
+      "local_path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/checkpoints/e03-v15-final-2215/Hakawi_E03_Repair_Source_v14_WIP.zip",
+      "purpose": "replace_library_file",
+      "status": "succeeded",
+      "file_id": "file_000000002d9481f5af901400806f7711",
+      "library_file_id": "libfile_ead7361918c48191b115f1517cbce4d1",
+      "file_name": "Hakawi_E03_Repair_Source_v14_WIP.zip",
+      "local_metadata_applied": true,
+      "path": "/Hakawi_E03_Repair_Source_v14_WIP.zip",
+      "current_version_number": 2
+    },
+    "bytes": 7158393,
+    "sha256": "20ddcc70af4ca4e95dad1acfc38032f2b358e2833766e4ccdec1a051cbb8527d",
+    "local_xattrs": {
+      "user.library-file-version": "2",
+      "user.library-file-id": "libfile_ead7361918c48191b115f1517cbce4d1"
+    },
+    "verified_utc": "2026-10-29T22:17:39.939417+00:00"
+  },
+  "canonical_donor": {
+    "library_file_id": "libfile_ea9c331d1d4c81919d6a2344548332e3",
+    "version": 7,
+    "untouched": true
+  },
+  "prior_nine_media": [
+    {
+      "local_path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/checkpoints/e03-v14-2007/Hakawi_E03_Repair_v14_Media_01.zip",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_0000000051388230a0710fe75e9d87a8",
+      "library_file_id": "libfile_41e9ee9b11e88191b0f658a3fba1abb5",
+      "file_name": "Hakawi_E03_Repair_v14_Media_01.zip",
+      "local_metadata_applied": true,
+      "path": "/Hakawi_E03_Repair_v14_Media_01.zip",
+      "current_version_number": 0,
+      "bytes": 27573072,
+      "sha256": "e4e59ff7d350ff0749649cae6bfcdc6216bca17b0bacc3d2e23ac546c69d3701",
+      "local_xattrs": {
+        "user.library-file-version": "0",
+        "user.library-file-id": "libfile_41e9ee9b11e88191b0f658a3fba1abb5"
+      }
+    },
+    {
+      "local_path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/checkpoints/e03-v14-2007/Hakawi_E03_Repair_v14_Media_02.zip",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_00000000867c81f590e9c0dc4ca73001",
+      "library_file_id": "libfile_369aab629aac8191aecb35c695ee5c4b",
+      "file_name": "Hakawi_E03_Repair_v14_Media_02.zip",
+      "local_metadata_applied": true,
+      "path": "/Hakawi_E03_Repair_v14_Media_02.zip",
+      "current_version_number": 0,
+      "bytes": 30630498,
+      "sha256": "daac3eb4254f436672dd6713fa245f231d284b202e11dc8c9b294dbf82a8277b",
+      "local_xattrs": {
+        "user.library-file-version": "0",
+        "user.library-file-id": "libfile_369aab629aac8191aecb35c695ee5c4b"
+      }
+    },
+    {
+      "local_path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/checkpoints/e03-v14-2007/Hakawi_E03_Repair_v14_Media_03.zip",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_00000000ca94820c85442f21a4840c84",
+      "library_file_id": "libfile_a4725fadc7948191b7aa12bfa5271920",
+      "file_name": "Hakawi_E03_Repair_v14_Media_03.zip",
+      "local_metadata_applied": true,
+      "path": "/Hakawi_E03_Repair_v14_Media_03.zip",
+      "current_version_number": 0,
+      "bytes": 27833135,
+      "sha256": "b9845760d10bbe0320a8e9c3dd948e34a6cb3782f1b5f0eb53dbb803142447a6",
+      "local_xattrs": {
+        "user.library-file-version": "0",
+        "user.library-file-id": "libfile_a4725fadc7948191b7aa12bfa5271920"
+      }
+    },
+    {
+      "local_path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/checkpoints/e03-v14-2007/Hakawi_E03_Repair_v14_Media_04.zip",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_000000001a9081fd8d19c183a4349355",
+      "library_file_id": "libfile_6af1a403f1708191b588779041163a80",
+      "file_name": "Hakawi_E03_Repair_v14_Media_04.zip",
+      "local_metadata_applied": true,
+      "path": "/Hakawi_E03_Repair_v14_Media_04.zip",
+      "current_version_number": 0,
+      "bytes": 30487858,
+      "sha256": "90e590dabf6215c9cf100dd4c011a917acc8721d85365af73012c6af267612c7",
+      "local_xattrs": {
+        "user.library-file-version": "0",
+        "user.library-file-id": "libfile_6af1a403f1708191b588779041163a80"
+      }
+    },
+    {
+      "local_path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/checkpoints/e03-v14-2007/Hakawi_E03_Repair_v14_Media_05.zip",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_00000000d8a481fd95f8903560d5e9df",
+      "library_file_id": "libfile_ac1948d69ba481918354c6a7325f9f7c",
+      "file_name": "Hakawi_E03_Repair_v14_Media_05.zip",
+      "local_metadata_applied": true,
+      "path": "/Hakawi_E03_Repair_v14_Media_05.zip",
+      "current_version_number": 0,
+      "bytes": 30471136,
+      "sha256": "2fe7f671785d6d287d4bf055000ee515df47e59164702c95f504a44ca0a6b8cc",
+      "local_xattrs": {
+        "user.library-file-version": "0",
+        "user.library-file-id": "libfile_ac1948d69ba481918354c6a7325f9f7c"
+      }
+    },
+    {
+      "local_path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/checkpoints/e03-v14-2007/Hakawi_E03_Repair_v14_Media_06.zip",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_000000009ab081f5ba24a4e7dc6ed529",
+      "library_file_id": "libfile_749ed6f6194c8191bae3dba54a9fb763",
+      "file_name": "Hakawi_E03_Repair_v14_Media_06.zip",
+      "local_metadata_applied": true,
+      "path": "/Hakawi_E03_Repair_v14_Media_06.zip",
+      "current_version_number": 0,
+      "bytes": 29961189,
+      "sha256": "efdd095bb768efa7ebaad5f7f7e5e422ab040fa7b16ad90a13a783a59d666dbc",
+      "local_xattrs": {
+        "user.library-file-version": "0",
+        "user.library-file-id": "libfile_749ed6f6194c8191bae3dba54a9fb763"
+      }
+    },
+    {
+      "local_path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/checkpoints/e03-v14-2007/Hakawi_E03_Repair_v14_Media_07.zip",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_00000000bf6081f5bcc7ea8afb060351",
+      "library_file_id": "libfile_2680a1de24c48191acc9d11f7e0c0836",
+      "file_name": "Hakawi_E03_Repair_v14_Media_07.zip",
+      "local_metadata_applied": true,
+      "path": "/Hakawi_E03_Repair_v14_Media_07.zip",
+      "current_version_number": 0,
+      "bytes": 30932708,
+      "sha256": "c09af281813164e1350aaca4d5b6c2683cba0c0b8f85769d2a94680bc1dd8cff",
+      "local_xattrs": {
+        "user.library-file-version": "0",
+        "user.library-file-id": "libfile_2680a1de24c48191acc9d11f7e0c0836"
+      }
+    },
+    {
+      "local_path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/checkpoints/e03-v14-2007/Hakawi_E03_Repair_v14_Media_08.zip",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_0000000040e08230af86c9e233b07ed4",
+      "library_file_id": "libfile_1308e82c2ac88191a8b1ecb2f3007e84",
+      "file_name": "Hakawi_E03_Repair_v14_Media_08.zip",
+      "local_metadata_applied": true,
+      "path": "/Hakawi_E03_Repair_v14_Media_08.zip",
+      "current_version_number": 0,
+      "bytes": 30925726,
+      "sha256": "5421bb284ceef056b93b23afdc5fc1aa9695588d6775c9a535b8752e62f9ce25",
+      "local_xattrs": {
+        "user.library-file-version": "0",
+        "user.library-file-id": "libfile_1308e82c2ac88191a8b1ecb2f3007e84"
+      }
+    },
+    {
+      "local_path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/checkpoints/e03-v14-2007/Hakawi_E03_Repair_v14_Media_09.zip",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_000000003d1481f5bcbf69febbed8e94",
+      "library_file_id": "libfile_5c0c228a5f848191b7b6277f7390e54c",
+      "file_name": "Hakawi_E03_Repair_v14_Media_09.zip",
+      "local_metadata_applied": true,
+      "path": "/Hakawi_E03_Repair_v14_Media_09.zip",
+      "current_version_number": 0,
+      "bytes": 9839080,
+      "sha256": "d778e92c29af13c23911a3f86861b04546bcba15ca20351e8f42a6daa039ec32",
+      "local_xattrs": {
+        "user.library-file-version": "0",
+        "user.library-file-id": "libfile_5c0c228a5f848191b7b6277f7390e54c"
+      }
+    }
+  ],
+  "restoration_instructions": [
+    "Restore source checkpoint original namespace including old v14 sources, retaining history.",
+    "Apply V15_DELTA/workspace/ entries to workspace-relative paths, never discard historical snapshots.",
+    "Restore original donorv7 dependency as specified in old CHECKPOINT_MANIFEST.json.",
+    "Restore nine old media v0 using embedded MEDIA_RESTORATION.json.",
+    "Restore all new ZIP blob hashes to listed paths, and direct originals to their listed paths. Validate exact SHA256 and byte counts before use.",
+    "No publication or visual acceptance implied. Review snapshots retain their individual limited scopes."
+  ],
+  "new_media": [
+    {
+      "result": {
+        "local_path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/runtime/chunk-v1/final-assembly-v1/final-aac.mp4",
+        "purpose": "create_library_file",
+        "status": "succeeded",
+        "file_id": "file_0000000002cc8230a9d8bc5123722623",
+        "library_file_id": "libfile_90afedb597e0819184f4148ab364c4bd",
+        "file_name": "final-aac.mp4",
+        "local_metadata_applied": true,
+        "path": "/final-aac.mp4",
+        "current_version_number": 0
+      },
+      "bytes": 76052021,
+      "sha256": "16b59f664b83d8af447bdf796f077a31abdb8fc49d44073d7633900652e90f21",
+      "local_xattrs": {
+        "user.library-file-version": "0",
+        "user.library-file-id": "libfile_90afedb597e0819184f4148ab364c4bd"
+      },
+      "verified_utc": "2026-10-29T22:18:00.195577+00:00",
+      "batch": 1,
+      "category": "runtime-media",
+      "kind": "direct-original"
+    },
+    {
+      "result": {
+        "local_path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/checkpoints/e03-v15-final-2215/Hakawi_E03_v15_Technical_WIP_Media_02.zip",
+        "purpose": "create_library_file",
+        "status": "succeeded",
+        "file_id": "file_00000000e9ac81f794f92a920339e1ba",
+        "library_file_id": "libfile_0613d157d5a081919720f186f7350a52",
+        "file_name": "Hakawi_E03_v15_Technical_WIP_Media_02.zip",
+        "local_metadata_applied": true,
+        "path": "/Hakawi_E03_v15_Technical_WIP_Media_02.zip",
+        "current_version_number": 0
+      },
+      "bytes": 23340358,
+      "sha256": "b42099bd5d9167c3479201d19ecdbb0c2fc6ceb81b6a8cf7b5a045328fc020ba",
+      "local_xattrs": {
+        "user.library-file-version": "0",
+        "user.library-file-id": "libfile_0613d157d5a081919720f186f7350a52"
+      },
+      "verified_utc": "2026-10-29T22:18:06.315033+00:00",
+      "batch": 2,
+      "category": "runtime-media",
+      "kind": "zip"
+    },
+    {
+      "result": {
+        "local_path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/checkpoints/e03-v15-final-2215/Hakawi_E03_v15_Technical_WIP_Media_03.zip",
+        "purpose": "create_library_file",
+        "status": "succeeded",
+        "file_id": "file_000000002fa4823091a81342908cf606",
+        "library_file_id": "libfile_320231036e8c8191bd7b59ff47f957e1",
+        "file_name": "Hakawi_E03_v15_Technical_WIP_Media_03.zip",
+        "local_metadata_applied": true,
+        "path": "/Hakawi_E03_v15_Technical_WIP_Media_03.zip",
+        "current_version_number": 0
+      },
+      "bytes": 24237118,
+      "sha256": "c0da9e6d971adf08c9f86b634f95183d462d9636a87e4ac4a8fc0063d1ac8faf",
+      "local_xattrs": {
+        "user.library-file-version": "0",
+        "user.library-file-id": "libfile_320231036e8c8191bd7b59ff47f957e1"
+      },
+      "verified_utc": "2026-10-29T22:18:22.846754+00:00",
+      "batch": 3,
+      "category": "runtime-media",
+      "kind": "zip"
+    },
+    {
+      "result": {
+        "local_path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/checkpoints/e03-v15-final-2215/Hakawi_E03_v15_Technical_WIP_Media_04.zip",
+        "purpose": "create_library_file",
+        "status": "succeeded",
+        "file_id": "file_000000006b7481fd8eaf66e4ef4f28ae",
+        "library_file_id": "libfile_c33e3ecfed1c8191bee38571d6bb11ea",
+        "file_name": "Hakawi_E03_v15_Technical_WIP_Media_04.zip",
+        "local_metadata_applied": true,
+        "path": "/Hakawi_E03_v15_Technical_WIP_Media_04.zip",
+        "current_version_number": 0
+      },
+      "bytes": 23770259,
+      "sha256": "f9d03b73a642e53d1cca69c96372ab6e6e1ac75c5fdc10f9ea48712af390c0d3",
+      "local_xattrs": {
+        "user.library-file-version": "0",
+        "user.library-file-id": "libfile_c33e3ecfed1c8191bee38571d6bb11ea"
+      },
+      "verified_utc": "2026-10-29T22:18:29.796063+00:00",
+      "batch": 4,
+      "category": "runtime-media",
+      "kind": "zip"
+    },
+    {
+      "result": {
+        "local_path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/checkpoints/e03-v15-final-2215/Hakawi_E03_v15_Technical_WIP_Media_05.zip",
+        "purpose": "create_library_file",
+        "status": "succeeded",
+        "file_id": "file_0000000091888230972aafb171e11ac0",
+        "library_file_id": "libfile_cf5adb5756408191a9761f84d6de8216",
+        "file_name": "Hakawi_E03_v15_Technical_WIP_Media_05.zip",
+        "local_metadata_applied": true,
+        "path": "/Hakawi_E03_v15_Technical_WIP_Media_05.zip",
+        "current_version_number": 0
+      },
+      "bytes": 29201369,
+      "sha256": "31f2647b7cc09813545ed8f4db36f889c8102f6b9a48f4c977d7aab65550075d",
+      "local_xattrs": {
+        "user.library-file-version": "0",
+        "user.library-file-id": "libfile_cf5adb5756408191a9761f84d6de8216"
+      },
+      "verified_utc": "2026-10-29T22:18:36.558786+00:00",
+      "batch": 5,
+      "category": "runtime-media",
+      "kind": "zip"
+    },
+    {
+      "result": {
+        "local_path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/checkpoints/e03-v15-final-2215/Hakawi_E03_v15_Technical_WIP_Media_06.zip",
+        "purpose": "create_library_file",
+        "status": "succeeded",
+        "file_id": "file_0000000097ac81fd8919e7880550e383",
+        "library_file_id": "libfile_f4ef1f066fa48191a95196ba697707e7",
+        "file_name": "Hakawi_E03_v15_Technical_WIP_Media_06.zip",
+        "local_metadata_applied": true,
+        "path": "/Hakawi_E03_v15_Technical_WIP_Media_06.zip",
+        "current_version_number": 0
+      },
+      "bytes": 19650469,
+      "sha256": "b3dfed6d33e08bf081e8d8bed37b613e5db0fe4c440c9c2c882fb1339056559d",
+      "local_xattrs": {
+        "user.library-file-version": "0",
+        "user.library-file-id": "libfile_f4ef1f066fa48191a95196ba697707e7"
+      },
+      "verified_utc": "2026-10-29T22:18:42.552592+00:00",
+      "batch": 6,
+      "category": "runtime-media",
+      "kind": "zip"
+    },
+    {
+      "result": {
+        "local_path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/runtime/full-v6/outputs/e03-full-v15-recovery-2042/proof.partial.mp4",
+        "purpose": "create_library_file",
+        "status": "succeeded",
+        "file_id": "file_00000000405081fdbd21cd53478608d8",
+        "library_file_id": "libfile_62c76c09a33481918ecbd8cf0878c57b",
+        "file_name": "proof.partial.mp4",
+        "local_metadata_applied": true,
+        "path": "/proof.partial.mp4",
+        "current_version_number": 0
+      },
+      "bytes": 51118128,
+      "sha256": "3c62c1e120baaffc70f484f389574f6e612a3ad6dd5d01becf1d39e96c2acef1",
+      "local_xattrs": {
+        "user.library-file-version": "0",
+        "user.library-file-id": "libfile_62c76c09a33481918ecbd8cf0878c57b"
+      },
+      "verified_utc": "2026-10-29T22:18:49.156835+00:00",
+      "batch": 7,
+      "category": "runtime-media",
+      "kind": "direct-original"
+    },
+    {
+      "result": {
+        "local_path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/checkpoints/e03-v15-final-2215/Hakawi_E03_v15_Technical_WIP_Media_08.zip",
+        "purpose": "create_library_file",
+        "status": "succeeded",
+        "file_id": "file_000000005d7c81fd925878d0669585d2",
+        "library_file_id": "libfile_fcd76d50106c8191bbaae0ab26a77f2f",
+        "file_name": "Hakawi_E03_v15_Technical_WIP_Media_08.zip",
+        "local_metadata_applied": true,
+        "path": "/Hakawi_E03_v15_Technical_WIP_Media_08.zip",
+        "current_version_number": 0
+      },
+      "bytes": 18092187,
+      "sha256": "35e54447a98f9000284198e58e89d6ba9f76d4f292289d0dfa684ca07f4fb20a",
+      "local_xattrs": {
+        "user.library-file-version": "0",
+        "user.library-file-id": "libfile_fcd76d50106c8191bbaae0ab26a77f2f"
+      },
+      "verified_utc": "2026-10-29T22:18:55.812366+00:00",
+      "batch": 8,
+      "category": "runtime-media",
+      "kind": "zip"
+    },
+    {
+      "result": {
+        "local_path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/checkpoints/e03-v15-final-2215/Hakawi_E03_v15_Technical_WIP_Media_09.zip",
+        "purpose": "create_library_file",
+        "status": "succeeded",
+        "file_id": "file_00000000295c81fda1f0f3d7848fad94",
+        "library_file_id": "libfile_dc27899f69a4819197162542b569b7af",
+        "file_name": "Hakawi_E03_v15_Technical_WIP_Media_09.zip",
+        "local_metadata_applied": true,
+        "path": "/Hakawi_E03_v15_Technical_WIP_Media_09.zip",
+        "current_version_number": 0
+      },
+      "bytes": 25698618,
+      "sha256": "3274a591e1ba5fe4dc8ddf34f9f69b1af2b91a241607533c1d2239a94c52f516",
+      "local_xattrs": {
+        "user.library-file-version": "0",
+        "user.library-file-id": "libfile_dc27899f69a4819197162542b569b7af"
+      },
+      "verified_utc": "2026-10-29T22:19:01.973377+00:00",
+      "batch": 9,
+      "category": "finite-and-other-qa",
+      "kind": "zip"
+    },
+    {
+      "result": {
+        "local_path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/checkpoints/e03-v15-final-2215/Hakawi_E03_v15_Technical_WIP_Media_10.zip",
+        "purpose": "create_library_file",
+        "status": "succeeded",
+        "file_id": "file_00000000d15481fbb6ae28abdf9cb7e2",
+        "library_file_id": "libfile_fdd52a999b10819185a2311950f3f3e9",
+        "file_name": "Hakawi_E03_v15_Technical_WIP_Media_10.zip",
+        "local_metadata_applied": true,
+        "path": "/Hakawi_E03_v15_Technical_WIP_Media_10.zip",
+        "current_version_number": 0
+      },
+      "bytes": 30851382,
+      "sha256": "8c0678eee732f98751e83e809dbea2c50ff480f05d34aa523a92eef9541763b4",
+      "local_xattrs": {
+        "user.library-file-version": "0",
+        "user.library-file-id": "libfile_fdd52a999b10819185a2311950f3f3e9"
+      },
+      "verified_utc": "2026-10-29T22:19:09.574959+00:00",
+      "batch": 10,
+      "category": "finite-and-other-qa",
+      "kind": "zip"
+    },
+    {
+      "result": {
+        "local_path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/checkpoints/e03-v15-final-2215/Hakawi_E03_v15_Technical_WIP_Media_11.zip",
+        "purpose": "create_library_file",
+        "status": "succeeded",
+        "file_id": "file_00000000c0f88230bc52fe9b3d82da9b",
+        "library_file_id": "libfile_d853c03082dc8191bfc9e26c39bb662e",
+        "file_name": "Hakawi_E03_v15_Technical_WIP_Media_11.zip",
+        "local_metadata_applied": true,
+        "path": "/Hakawi_E03_v15_Technical_WIP_Media_11.zip",
+        "current_version_number": 0
+      },
+      "bytes": 16852203,
+      "sha256": "6aa7492026afe409c6f919a4bb5a477ef2360fa4c4e7a6e9e8d85d19430a76e4",
+      "local_xattrs": {
+        "user.library-file-version": "0",
+        "user.library-file-id": "libfile_d853c03082dc8191bfc9e26c39bb662e"
+      },
+      "verified_utc": "2026-10-29T22:19:15.514102+00:00",
+      "batch": 11,
+      "category": "finite-and-other-qa",
+      "kind": "zip"
+    },
+    {
+      "result": {
+        "local_path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/checkpoints/e03-v15-final-2215/Hakawi_E03_v15_Technical_WIP_Media_12.zip",
+        "purpose": "create_library_file",
+        "status": "succeeded",
+        "file_id": "file_0000000041c881f78ef37eec96411916",
+        "library_file_id": "libfile_1d73ad7b07b88191abeb23e589b363a3",
+        "file_name": "Hakawi_E03_v15_Technical_WIP_Media_12.zip",
+        "local_metadata_applied": true,
+        "path": "/Hakawi_E03_v15_Technical_WIP_Media_12.zip",
+        "current_version_number": 0
+      },
+      "bytes": 30286594,
+      "sha256": "cedfd036613524f9ad9a3b1238de7859aa7e0949add32c87ff668a8c8a15f172",
+      "local_xattrs": {
+        "user.library-file-version": "0",
+        "user.library-file-id": "libfile_1d73ad7b07b88191abeb23e589b363a3"
+      },
+      "verified_utc": "2026-10-29T22:19:22.434916+00:00",
+      "batch": 12,
+      "category": "full-final-qa",
+      "kind": "zip"
+    },
+    {
+      "result": {
+        "local_path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/checkpoints/e03-v15-final-2215/Hakawi_E03_v15_Technical_WIP_Media_13.zip",
+        "purpose": "create_library_file",
+        "status": "succeeded",
+        "file_id": "file_00000000849881fbb59773d645ad4bf9",
+        "library_file_id": "libfile_63c53ebfa4488191aa2557a94d5d0852",
+        "file_name": "Hakawi_E03_v15_Technical_WIP_Media_13.zip",
+        "local_metadata_applied": true,
+        "path": "/Hakawi_E03_v15_Technical_WIP_Media_13.zip",
+        "current_version_number": 0
+      },
+      "bytes": 30538380,
+      "sha256": "5d9c83f360b79821aed8e91c023f763aee7e1b155b75d13f1f3405bdfe22dc74",
+      "local_xattrs": {
+        "user.library-file-version": "0",
+        "user.library-file-id": "libfile_63c53ebfa4488191aa2557a94d5d0852"
+      },
+      "verified_utc": "2026-10-29T22:19:29.257548+00:00",
+      "batch": 13,
+      "category": "full-final-qa",
+      "kind": "zip"
+    },
+    {
+      "result": {
+        "local_path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/checkpoints/e03-v15-final-2215/Hakawi_E03_v15_Technical_WIP_Media_14.zip",
+        "purpose": "create_library_file",
+        "status": "succeeded",
+        "file_id": "file_00000000242881fd85e6a981374b365b",
+        "library_file_id": "libfile_7b1e1df98d04819194be37e8f067dfdb",
+        "file_name": "Hakawi_E03_v15_Technical_WIP_Media_14.zip",
+        "local_metadata_applied": true,
+        "path": "/Hakawi_E03_v15_Technical_WIP_Media_14.zip",
+        "current_version_number": 0
+      },
+      "bytes": 24644416,
+      "sha256": "a63fe42cb16f51a3db2f76089a1b65c065ebfac3d3d3c9c2e5cbc23aeac403e3",
+      "local_xattrs": {
+        "user.library-file-version": "0",
+        "user.library-file-id": "libfile_7b1e1df98d04819194be37e8f067dfdb"
+      },
+      "verified_utc": "2026-10-29T22:19:35.190157+00:00",
+      "batch": 14,
+      "category": "full-final-qa",
+      "kind": "zip"
+    },
+    {
+      "result": {
+        "local_path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/checkpoints/e03-v15-final-2215/Hakawi_E03_v15_Technical_WIP_Media_15.zip",
+        "purpose": "create_library_file",
+        "status": "succeeded",
+        "file_id": "file_00000000269081f5ae1d3a7a71484163",
+        "library_file_id": "libfile_720624b3314c819185f2afda5493d9d6",
+        "file_name": "Hakawi_E03_v15_Technical_WIP_Media_15.zip",
+        "local_metadata_applied": true,
+        "path": "/Hakawi_E03_v15_Technical_WIP_Media_15.zip",
+        "current_version_number": 0
+      },
+      "bytes": 20847595,
+      "sha256": "1416d3817fc6d87db88a42a3eef20c06e727b107e1368f0cd653f9d8e1f7a10c",
+      "local_xattrs": {
+        "user.library-file-version": "0",
+        "user.library-file-id": "libfile_720624b3314c819185f2afda5493d9d6"
+      },
+      "verified_utc": "2026-10-29T22:19:42.336865+00:00",
+      "batch": 15,
+      "category": "full-final-qa",
+      "kind": "zip"
+    },
+    {
+      "result": {
+        "local_path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/checkpoints/e03-v15-final-2215/Hakawi_E03_v15_Technical_WIP_Media_16.zip",
+        "purpose": "create_library_file",
+        "status": "succeeded",
+        "file_id": "file_00000000505c81fda5d31ec80c7ca388",
+        "library_file_id": "libfile_4d3e5a9837dc81918e4740e128c2e680",
+        "file_name": "Hakawi_E03_v15_Technical_WIP_Media_16.zip",
+        "local_metadata_applied": true,
+        "path": "/Hakawi_E03_v15_Technical_WIP_Media_16.zip",
+        "current_version_number": 0
+      },
+      "bytes": 21149062,
+      "sha256": "c0875db055f7d82e936fff9560f4dde4edfbe01adb0ea893c339dd8d642e582d",
+      "local_xattrs": {
+        "user.library-file-version": "0",
+        "user.library-file-id": "libfile_4d3e5a9837dc81918e4740e128c2e680"
+      },
+      "verified_utc": "2026-10-29T22:19:48.336656+00:00",
+      "batch": 16,
+      "category": "full-final-qa",
+      "kind": "zip"
+    },
+    {
+      "result": {
+        "local_path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/checkpoints/e03-v15-final-2215/Hakawi_E03_v15_Technical_WIP_Media_17.zip",
+        "purpose": "create_library_file",
+        "status": "succeeded",
+        "file_id": "file_00000000281081f5b7259a48915fb232",
+        "library_file_id": "libfile_b46348a47ac48191884423c2dad647db",
+        "file_name": "Hakawi_E03_v15_Technical_WIP_Media_17.zip",
+        "local_metadata_applied": true,
+        "path": "/Hakawi_E03_v15_Technical_WIP_Media_17.zip",
+        "current_version_number": 0
+      },
+      "bytes": 21157495,
+      "sha256": "5c21518c115d165c5cdb964cf781f0a9a7c6fbd18c7317fc4f11739e4198a56d",
+      "local_xattrs": {
+        "user.library-file-version": "0",
+        "user.library-file-id": "libfile_b46348a47ac48191884423c2dad647db"
+      },
+      "verified_utc": "2026-10-29T22:19:54.921550+00:00",
+      "batch": 17,
+      "category": "full-final-qa",
+      "kind": "zip"
+    },
+    {
+      "result": {
+        "local_path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/checkpoints/e03-v15-final-2215/Hakawi_E03_v15_Technical_WIP_Media_18.zip",
+        "purpose": "create_library_file",
+        "status": "succeeded",
+        "file_id": "file_000000009e7c81f5b185e3d773a4cef7",
+        "library_file_id": "libfile_27eec90ae9908191b8085f4b197a924c",
+        "file_name": "Hakawi_E03_v15_Technical_WIP_Media_18.zip",
+        "local_metadata_applied": true,
+        "path": "/Hakawi_E03_v15_Technical_WIP_Media_18.zip",
+        "current_version_number": 0
+      },
+      "bytes": 20995431,
+      "sha256": "546b00febb728a7c75e776d55258211a9e2455bc587dba1baef1303b101398c3",
+      "local_xattrs": {
+        "user.library-file-version": "0",
+        "user.library-file-id": "libfile_27eec90ae9908191b8085f4b197a924c"
+      },
+      "verified_utc": "2026-10-29T22:20:01.582081+00:00",
+      "batch": 18,
+      "category": "full-final-qa",
+      "kind": "zip"
+    },
+    {
+      "result": {
+        "local_path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/checkpoints/e03-v15-final-2215/Hakawi_E03_v15_Technical_WIP_Media_19.zip",
+        "purpose": "create_library_file",
+        "status": "succeeded",
+        "file_id": "file_00000000685481fd9830a99d042bb431",
+        "library_file_id": "libfile_5ba572922c788191b4f1ef73954fc14a",
+        "file_name": "Hakawi_E03_v15_Technical_WIP_Media_19.zip",
+        "local_metadata_applied": true,
+        "path": "/Hakawi_E03_v15_Technical_WIP_Media_19.zip",
+        "current_version_number": 0
+      },
+      "bytes": 19929897,
+      "sha256": "36077e2dc00850b41eec5798c842c66f8897abbb872c868e823a59a48f044424",
+      "local_xattrs": {
+        "user.library-file-version": "0",
+        "user.library-file-id": "libfile_5ba572922c788191b4f1ef73954fc14a"
+      },
+      "verified_utc": "2026-10-29T22:20:07.747449+00:00",
+      "batch": 19,
+      "category": "full-final-qa",
+      "kind": "zip"
+    },
+    {
+      "result": {
+        "local_path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/checkpoints/e03-v15-final-2215/Hakawi_E03_v15_Technical_WIP_Media_20.zip",
+        "purpose": "create_library_file",
+        "status": "succeeded",
+        "file_id": "file_00000000d4b481fd8b793b85f4bd1232",
+        "library_file_id": "libfile_6038f2517bc48191aaed0a099d2b1e42",
+        "file_name": "Hakawi_E03_v15_Technical_WIP_Media_20.zip",
+        "local_metadata_applied": true,
+        "path": "/Hakawi_E03_v15_Technical_WIP_Media_20.zip",
+        "current_version_number": 0
+      },
+      "bytes": 20930783,
+      "sha256": "84fca66cee578a32392b961a6c9ebbbfc502cfdcbc90b0c0ed2e1f1665b72bb9",
+      "local_xattrs": {
+        "user.library-file-version": "0",
+        "user.library-file-id": "libfile_6038f2517bc48191aaed0a099d2b1e42"
+      },
+      "verified_utc": "2026-10-29T22:20:14.623163+00:00",
+      "batch": 20,
+      "category": "full-final-qa",
+      "kind": "zip"
+    },
+    {
+      "result": {
+        "local_path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/checkpoints/e03-v15-final-2215/Hakawi_E03_v15_Technical_WIP_Media_21.zip",
+        "purpose": "create_library_file",
+        "status": "succeeded",
+        "file_id": "file_000000006b9c820c92f777dd484648b7",
+        "library_file_id": "libfile_e2941b88b4ec8191b8a3e70c41b99cc7",
+        "file_name": "Hakawi_E03_v15_Technical_WIP_Media_21.zip",
+        "local_metadata_applied": true,
+        "path": "/Hakawi_E03_v15_Technical_WIP_Media_21.zip",
+        "current_version_number": 0
+      },
+      "bytes": 3012430,
+      "sha256": "f6f2644a8f13a2f7928682f6a24299071b56fc6302b1cce71deecc40e4a064f2",
+      "local_xattrs": {
+        "user.library-file-version": "0",
+        "user.library-file-id": "libfile_e2941b88b4ec8191b8a3e70c41b99cc7"
+      },
+      "verified_utc": "2026-10-29T22:20:20.021951+00:00",
+      "batch": 21,
+      "category": "full-final-qa",
+      "kind": "zip"
+    },
+    {
+      "result": {
+        "local_path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/checkpoints/e03-v15-final-2215/Hakawi_E03_v15_Technical_WIP_Media_22.zip",
+        "purpose": "create_library_file",
+        "status": "succeeded",
+        "file_id": "file_000000007bec820c8d8f682d81c36deb",
+        "library_file_id": "libfile_d685575771848191b1c63245094ac1b5",
+        "file_name": "Hakawi_E03_v15_Technical_WIP_Media_22.zip",
+        "local_metadata_applied": true,
+        "path": "/Hakawi_E03_v15_Technical_WIP_Media_22.zip",
+        "current_version_number": 0
+      },
+      "bytes": 30286590,
+      "sha256": "1b4355cb54e6618b6d59303ab8471a30b615efb9d07937c85cbe38e1f853e713",
+      "local_xattrs": {
+        "user.library-file-version": "0",
+        "user.library-file-id": "libfile_d685575771848191b1c63245094ac1b5"
+      },
+      "verified_utc": "2026-10-29T22:20:32.740327+00:00",
+      "batch": 22,
+      "category": "failed-qa",
+      "kind": "zip"
+    },
+    {
+      "result": {
+        "local_path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/checkpoints/e03-v15-final-2215/Hakawi_E03_v15_Technical_WIP_Media_23.zip",
+        "purpose": "create_library_file",
+        "status": "succeeded",
+        "file_id": "file_00000000496081fd9a336eda02ffe03a",
+        "library_file_id": "libfile_7b38b689465c8191a85ac9b3d5404295",
+        "file_name": "Hakawi_E03_v15_Technical_WIP_Media_23.zip",
+        "local_metadata_applied": true,
+        "path": "/Hakawi_E03_v15_Technical_WIP_Media_23.zip",
+        "current_version_number": 0
+      },
+      "bytes": 21894543,
+      "sha256": "fd09c0d0c6f1c84cd3afcce21150ec3f24aadd30ea003e34b5dd802ae5f7f048",
+      "local_xattrs": {
+        "user.library-file-version": "0",
+        "user.library-file-id": "libfile_7b38b689465c8191a85ac9b3d5404295"
+      },
+      "verified_utc": "2026-10-29T22:20:39.139092+00:00",
+      "batch": 23,
+      "category": "failed-qa",
+      "kind": "zip"
+    },
+    {
+      "result": {
+        "local_path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/checkpoints/e03-v15-final-2215/Hakawi_E03_v15_Technical_WIP_Media_24.zip",
+        "purpose": "create_library_file",
+        "status": "succeeded",
+        "file_id": "file_00000000f8dc81f5a3a0daaf272e140c",
+        "library_file_id": "libfile_d450dceda0a48191ad418b5ce9d8db53",
+        "file_name": "Hakawi_E03_v15_Technical_WIP_Media_24.zip",
+        "local_metadata_applied": true,
+        "path": "/Hakawi_E03_v15_Technical_WIP_Media_24.zip",
+        "current_version_number": 0
+      },
+      "bytes": 21122622,
+      "sha256": "55cf3c279314089b1c384870c21a83a90b4181d8628690168bc57f9128bd2be0",
+      "local_xattrs": {
+        "user.library-file-version": "0",
+        "user.library-file-id": "libfile_d450dceda0a48191ad418b5ce9d8db53"
+      },
+      "verified_utc": "2026-10-29T22:20:46.382190+00:00",
+      "batch": 24,
+      "category": "failed-qa",
+      "kind": "zip"
+    },
+    {
+      "result": {
+        "local_path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/checkpoints/e03-v15-final-2215/Hakawi_E03_v15_Technical_WIP_Media_25.zip",
+        "purpose": "create_library_file",
+        "status": "succeeded",
+        "file_id": "file_00000000213081f6bd32cca120d90b15",
+        "library_file_id": "libfile_0bb5950458748191a5d80685a29f62f4",
+        "file_name": "Hakawi_E03_v15_Technical_WIP_Media_25.zip",
+        "local_metadata_applied": true,
+        "path": "/Hakawi_E03_v15_Technical_WIP_Media_25.zip",
+        "current_version_number": 0
+      },
+      "bytes": 19616925,
+      "sha256": "f14d013baf1fda714ba4207384a20aaaeaf9d256a0870cc4c5b91a1272bbe974",
+      "local_xattrs": {
+        "user.library-file-version": "0",
+        "user.library-file-id": "libfile_0bb5950458748191a5d80685a29f62f4"
+      },
+      "verified_utc": "2026-10-29T22:20:52.918643+00:00",
+      "batch": 25,
+      "category": "failed-qa",
+      "kind": "zip"
+    }
+  ],
+  "complete_chain": {
+    "sha256": "726047a4891124bb8c04ff845de04bf149bcb6d85fffa670397c0788c4d64d01",
+    "bytes": 761192,
+    "within_source_v3": "V15_CLOSEOUT/DURABLE_MEDIA_CHAIN.json",
+    "note": "This compact index omits per-path mapping only; complete exact mapping preserved inside source v3."
+  }
+}

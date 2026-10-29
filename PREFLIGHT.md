@@ -251,3 +251,11 @@ Evidence: [Ezzay wound/scar production closure](entries/EZZAY-WOUND-20261029.md)
 - [ ] Same-layout hand resets are not meaningful editorial cuts. Prove suspected extraction artifacts in native pixels before renderer changes.
 - [ ] Pin scripts/new helpers and preserve canonical 24-bit PCM/presented tail samples; source recovery, encoded scope, full-film acceptance and durability remain separate.
 Evidence: [E03 repair trials and open holds](entries/HAKAWI-E03-WIP-20261029.md). V14 is not fully accepted; v15 repairs and full-film/native/release gates remain pending.
+
+
+## E03 interruption recovery gates — 2026-10-29
+- [ ] Unclosed moovless partials are not decoded coverage. Resume only identity-validated independently closed chunks; retain crash attempts and inherited lock FDs.
+- [ ] Prove concatenated pixels/timestamps, exact lossless PCM and all real tail samples; AAC correlation is not PCM identity or listening.
+- [ ] Use balanced large select expressions, verify actual selected PTS, and budget completed plus failed QA evidence without lowering review quality.
+- [ ] Treat sheet/native display discrepancies as uncertain until localized; separate technical closure, visual acceptance, durable source versions and release.
+Evidence: [E03 chunk recovery and technical WIP preservation](entries/HAKAWI-E03-CHUNK-RECOVERY-20261029.md). Sourcev3 preserved D review at22:21; later A/C closure does not imply full release while B/lead aggregate remain pending.

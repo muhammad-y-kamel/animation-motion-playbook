@@ -1,0 +1,26 @@
+{
+  "result": {
+    "local_path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/checkpoints/e03-v15-final-2215/Hakawi_E03_Repair_Source_v14_WIP.zip",
+    "purpose": "replace_library_file",
+    "status": "succeeded",
+    "file_id": "file_00000000ba888230a6b3c57bc51adf75",
+    "library_file_id": "libfile_ead7361918c48191b115f1517cbce4d1",
+    "file_name": "Hakawi_E03_Repair_Source_v14_WIP.zip",
+    "local_metadata_applied": true,
+    "path": "/Hakawi_E03_Repair_Source_v14_WIP.zip",
+    "current_version_number": 3
+  },
+  "bytes": 7547467,
+  "sha256": "10cade1500b9e1432fae045eacc520ec9a8c9aca57328cf8d8bbd0858a8da93e",
+  "local_xattrs": {
+    "user.library-file-version": "3",
+    "user.library-file-id": "libfile_ead7361918c48191b115f1517cbce4d1"
+  },
+  "closed_review_reports": [
+    {
+      "path": "hakawi_repair/e03-rebuild-20261029/qa/independent-review/final-block-d-2204/REVIEW.json",
+      "sha256": "5d30ded297683e9a708cac7f155e7a0f33763d52d584a67778f0d320a85edf0f",
+      "bytes": 8880
+    }
+  ]
+}

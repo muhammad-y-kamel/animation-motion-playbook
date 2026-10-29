@@ -1,0 +1,65 @@
+{
+  "status": "RECOVERY_TECHNICAL_AND_EXTRACTION_CLOSED_VISUAL_RELEASE_PENDING",
+  "episode": "Hakawi E03",
+  "finalVideo": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e03-rebuild-20261029/runtime/chunk-v1/final-assembly-v1/final-aac.mp4",
+  "finalVideoSHA256": "16b59f664b83d8af447bdf796f077a31abdb8fc49d44073d7633900652e90f21",
+  "sourcePinsUnchanged": 154,
+  "canonicalFrames": 27922,
+  "canonicalAudioSamples": 20522376,
+  "tailRealSamples": 441,
+  "failuresAndFixes": [
+    {
+      "failure": "Two environment interruptions left non-fragmented MP4 partials with no moov atom",
+      "evidence": [
+        "runtime/full-v6/outputs/e03-full-v15-2032",
+        "runtime/full-v6/outputs/e03-full-v15-recovery-2042"
+      ],
+      "fix": "Preserve partials; render bounded <=3000-frame independently closed ALAC chunks, validate exact global timeline and canonical24-bit PCM before reuse",
+      "scope": "No safe prefix salvage claimed; submitted progress is not decoded frame coverage"
+    },
+    {
+      "failure": "Potential orphan assembly encoder and retry crash windows found in code review",
+      "fix": "Inherit both kernel locks plus assembly slot FD; retain partial and renamed-but-unreceipted final attempts; reuse only exact matching config/source/renderer/files and receipt chain",
+      "evidence": "runtime/chunk-v1/RUNTIME_REVIEW_V2.json"
+    },
+    {
+      "failure": "Flat288-term select expression rejected by ffmpeg parser with Cannot allocate memory before frame0",
+      "fix": "Balanced equivalent expression tree; preserve original selected IDs; validate every actual emitted native PTS against planned frame*1000",
+      "evidence": "qa/full-final-chunk-v1-2149/INCOMPLETE.json"
+    },
+    {
+      "failure": "127MiB extraction reserve exhausted after11616 frames/242 sheets at unchanged review image quality",
+      "fix": "Safe stop preserves evidence. Root approved reallocation production416MiB+aggregateQA544MiB, total960MiB unchanged plus150MiB floor. New complete extraction same quality under384MiB attempt cap",
+      "evidence": "planning/REVIEW_REALLOCATION_PREFLIGHT_2155.json"
+    }
+  ],
+  "checks": {
+    "allVideoPTSAndDTSExact": true,
+    "allFinalDecodedFramesEqualOrderedChunkFrames": true,
+    "perChunkLosslessPCMExact": true,
+    "AACPresentedSamplesExact": true,
+    "AACComparedToCanonicalPCM": "Five zero-lag windows, correlation>=0.999854; lossy, not PCM byte identity or listening",
+    "fullDecodedCoverage": 27922,
+    "actualNativePTSCount": 288,
+    "allManifestImageHashesVerified": true
+  },
+  "receipts": {
+    "runtime/chunk-v1/final-assembly-v1/COMPLETE.json": "9ef9d4d864dcbcbf394f76afa396e1662b8ca72abffc6270dce7c10da50a42b1",
+    "qa/full-final-chunk-v1-2155/COVERAGE.json": "4f224ed123109947a09464844b585442ff1c9af03be3358e21fa64f375856eec",
+    "qa/full-final-chunk-v1-2155/NATIVE_SELECTED_PTS_PROOF.json": "7adcfd84715ecdb1d134ca1fe02296721cf1e5cba865574610e7ce99f5e83df8",
+    "planning/FINAL_QA_BLOCK_ASSIGNMENTS_CLOSED_2202.json": "e4ac99cd3b9984f601aaa23c8663bb0754e43608cfb85333119714dc0d0fa7a0",
+    "runtime/chunk-v1/RUNTIME_REVIEW_V2.json": "f8efb0c45c03be5cbc8fe0717aa8485f077d6d94e821f9776b47c18c1aa5cb6d"
+  },
+  "open": [
+    "Actual independent visual review of all27922 frames and288 native images",
+    "Any evidenced fixes and identity-bound retest",
+    "Durable source/media closeout",
+    "Native portrait derivatives after accepted long",
+    "External publication handled by root"
+  ],
+  "prohibitedClaims": [
+    "Full visual acceptance",
+    "Subjective listening",
+    "Published or scheduled from render success"
+  ]
+}
