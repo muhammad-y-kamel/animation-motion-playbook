@@ -50,3 +50,6 @@ The original 13 entries above remain intact. [Historical audit and case index](H
 
 ## Final-output regression replacements — 2026-10-28
 [Hope anatomical ascent and denial sentinel/gaze repairs](entries/HAKAWI-FINAL-REGRESSIONS-20261028.md): verified scoped replacements and actual adoption receipts, preserving original rejected chunks. No full-film release claim.
+
+## Native portrait finite gates — 2026-10-29
+[Native composition/contact trials and18 scoped closures](entries/HAKAWI-NATIVE-PORTRAIT-20261029.md), with rejected attempts, exact receipts and93-file source freeze. Actual full portrait render underway, not accepted; finite/source passes do not clear full audio/video or publication.

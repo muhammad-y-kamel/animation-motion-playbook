@@ -1,0 +1,269 @@
+{
+  "door-open-v1-review.json": {
+    "status": "HOLD_PORTAL_DEPTH",
+    "file": "hakawi_repair/native-portrait-e01/qa/native-door-open-v1.mp4",
+    "sha256": "f649cd7ab5bb9ce1d0b3eb2702ea78a2eff0cf69dbcda0f1a255d905f54e5c3d",
+    "coverage": {
+      "firstFrame": 0,
+      "endFrameExclusive": 178,
+      "time": [
+        311.92,
+        314.88
+      ],
+      "allFramesSequentialSheets": true,
+      "nativeWitnesses": [
+        30,
+        60,
+        90,
+        177
+      ]
+    },
+    "findings": [
+      "Open panel reveals the same unbroken wall, skirting and floor behind its frame at native60 and90: no visible passage/depth.",
+      "Pot remains owned by Sabah; Yaser releases and steps behind/aside without grabbing pot.",
+      "314.88 join is a distinct exterior landing shot and crouched action elision, not a continuous rise/lower claim."
+    ],
+    "limits": [
+      "Portal background correction needs encoded retest; no full portrait/audio clearance."
+    ]
+  },
+  "lowering-v1-review.json": {
+    "clip": "qa/native-lowering-v1.mp4",
+    "sha256": "a199b3b13e9fbcab3f18de8e4449b194ab2fa1e051b1db144a4f79d8dd4087d0",
+    "status": "HOLD_REACTION_CUT",
+    "framesReviewed": [
+      0,
+      197
+    ],
+    "nativeWitnesses": [
+      0,
+      78,
+      93,
+      94
+    ],
+    "passScope": "Hand/pot lowering, stable floor-owned pot after release, squat anatomy and foot support.",
+    "defect": {
+      "frames": [
+        93,
+        94
+      ],
+      "timeApproximately": 316.45,
+      "finding": "Crouched Sabah removed and standing Yaser inserted in same space against pixel-aligned fixed door/stair plate; absent change of camera makes character replacement rather than reverse reaction.",
+      "boundedFix": "Use visibly distinct reaction camera/plate composition or retain Sabah in shared wide. Preserve passed lowering contact."
+    },
+    "limits": "Exploratory output without runtime source ledger; exact encoded hash only, not mutable source approval. No audio/full-release claim."
+  },
+  "lowering-v2-review.json": {
+    "status": "CUT_FIX_PASS_FINAL_STANDING_PENDING_V3",
+    "sha256": "dab71e86dd4f7bfd22e8cf47604e35c445ce1b177855e9d86ddae3c3c15ddab7",
+    "framesReviewed": [
+      0,
+      212
+    ],
+    "finding": "Distinct interior reaction f94 and exterior return f197 read as intentional shot changes, stable pot outside. No new major contact defect in lowering/reaction.",
+    "pending": "Final15standingframes await announced sourceworldFeet/armfixv3. No blanketv2PASS."
+  },
+  "lowering-v3-review.json": {
+    "status": "HOLD_RETURN_EMPTY_HAND_OVERLAP",
+    "sha256": "560e6cd9058038d13293d7b20bbfaaed1a83d13b23e50f9cb44c1e534ced7b40",
+    "coverage": {
+      "pixelIdenticalToReviewedV2": [
+        0,
+        187
+      ],
+      "newlyViewed": [
+        187,
+        212
+      ]
+    },
+    "nativeWitness": 205,
+    "pass": "Distinct reaction/return cuts; hand/pot lowering/support; natural arm path.",
+    "defect": "Return197–211 Sabah far empty hand directly behind/below Yaser near empty hand at x700–735/y980–1030 reads as joined/holding hands.",
+    "boundedFix": "Modest stage spacing or rest orientation to separate silhouettes; preserve pot/lower/reaction."
+  },
+  "book-v1-review.json": {
+    "status": "CONTACT_PASS_LAYOUT_HOLD",
+    "clip": "qa/native-book-open-v1.mp4",
+    "sha256": "d06e8ad368ab66f66469a19f4dbf83590ea8cd67b6c60fc4a37aa5ef333f8edd",
+    "framesReviewed": [
+      0,
+      350
+    ],
+    "nativeWitnesses": [
+      84,
+      85,
+      100,
+      160,
+      200
+    ],
+    "contactFinding": "Near fingers support bottom; far hand drives cover continuously; 52 small metric alerts cause no visible ownership failure.",
+    "layoutDefects": [
+      {
+        "frames": [
+          0,
+          85
+        ],
+        "finding": "Foreground Yaser significantly undersized relative to Farouk/Sabah despite being nearer camera."
+      },
+      {
+        "frames": [
+          84,
+          85
+        ],
+        "time": 409.9167,
+        "finding": "Unchanged room plate while four other people, carton and stool disappear and Farouk scales/repositions: stage reset rather than distinct closer camera."
+      }
+    ],
+    "boundedFix": "Correct adult group scale; genuinely reframe close book camera/plate. Preserve hand/book motion.",
+    "limits": "Exact encoded output only; not fullrelease/audio clearance."
+  },
+  "warehouse-v1-review.json": {
+    "status": "HOLD",
+    "sha256": "0dbc6dde7a735c080903402c520702959f468481af8617e6e23a9b72d6ed0ab7",
+    "framesReviewed": 250,
+    "interval": [
+      483.2,
+      487.36
+    ],
+    "findings": [
+      {
+        "time": 487.35,
+        "frame": 249,
+        "defect": "Released box remains in front of abdomen while bench is behind actor; numeric bottom y1150 does not provide visible tabletop support."
+      }
+    ],
+    "passed": [
+      "Continuous held box support and hand withdrawal",
+      "No ownership teleport during held phase"
+    ],
+    "evidence": [
+      "warehouse-v1-native198.jpg",
+      "warehouse-v1-native249.jpg"
+    ]
+  },
+  "sleeve-v1-review.json": {
+    "status": "HOLD",
+    "sha256": "22a13c6d91c5fc2b20a4be05d9b19d86fcef649277e827263198f305f34ea211",
+    "framesReviewed": 548,
+    "findings": [
+      {
+        "frame": 49,
+        "defect": "Enlarged isolated hands over unchanged wide stair plate; repeated in release insert."
+      },
+      {
+        "frame": 466,
+        "time": 453.0466667,
+        "defect": "Binary clenched cuff to open separated hand transition, wrist jumps left; source classification requested."
+      }
+    ],
+    "passed": [
+      "World cuff grip and initial approach coherent",
+      "Native foot support on tread"
+    ],
+    "evidence": [
+      "sleeve-v1-native200.jpg",
+      "sleeve-v1-native465.jpg",
+      "sleeve-v1-native466.jpg"
+    ],
+    "staticRevision": "447 and453.5 revised native focal plate suitable for motion retest"
+  },
+  "ring-v1-review.json": {
+    "status": "HOLD",
+    "file": "hakawi_repair/native-portrait-e01/qa/native-ring-v1.mp4",
+    "sha256": "20ab92f4624a148074904a5b2e89ca3f06e5dd64fdfb984da3574abf73148f60",
+    "frames": 210,
+    "sourceInterval": [
+      421.9,
+      425.4
+    ],
+    "review": "All 210 encoded frames via nine sequential sheets; native 50,170,190,209.",
+    "defects": [
+      {
+        "frame": 50,
+        "time": 422.733333,
+        "description": "Both flat-cut sleeve ends visibly float inside portrait (approximately x100 and x868). Reframe native insert so arms bleed edges, preserving ring and sill."
+      }
+    ],
+    "otherFindings": [
+      "Pull, lowering and hand withdrawal are continuous. Native 170/190 shows single ring left at sill front lip as hand separates.",
+      "World return at 198 is an explicit camera cut; ring location is behind actors and not clearly visible enough to independently verify persistence from pixels."
+    ],
+    "limits": "No full portrait or audio clearance."
+  },
+  "phone-v1-review.json": {
+    "status": "HOLD pending knock staging classification",
+    "file": "hakawi_repair/native-portrait-e01/qa/native-phone-v1.mp4",
+    "sha256": "42a84cc0c647f2f7fd8af399182256ef303ea3a53dd95324df9048a872d8abf8",
+    "frames": 267,
+    "sourceInterval": [
+      467.85,
+      472.3
+    ],
+    "review": "All267 encoded frames in12 sequential sheets; native85 and220.",
+    "defects": [
+      {
+        "frame": 85,
+        "time": 469.266667,
+        "description": "Raised fist in front of torso while flat door is behind actor; actor faces parallel to door rather than visibly contacting it. Does not convincingly depict actual knock. Lead asked to classify intended action."
+      }
+    ],
+    "otherFindings": [
+      "Phone stays with hand and visible finger support; no detached-phone teleport.",
+      "Explicit scene cut263+ to old-room seated pose is coherent."
+    ],
+    "limits": "No audio listening or fullportrait clearance."
+  },
+  "denial-descent-v1-review.json": {
+    "status": "HOLD",
+    "file": "hakawi_repair/native-portrait-e01/qa/native-denial-descent-v1.mp4",
+    "sha256": "506720adb15a20a43e0b33306a4ef918b767751850ebef6f54a4385f9ee2090d",
+    "frames": 245,
+    "sourceInterval": [
+      346.8,
+      350.88
+    ],
+    "review": "All245 encoded frames via11 sequential sheets; native4,5,70,160,225.",
+    "defects": [
+      {
+        "frames": [
+          4,
+          5
+        ],
+        "time": 346.88,
+        "description": "Instant whole-body facing/foot/arm reset on unchanged native plate; intended departure turn requires distinct authored cut framing rather than apparent continuous reset."
+      }
+    ],
+    "otherFindings": [
+      "Descent tread/swing foot sequence coherent; pot stays on landing and hands remain empty.",
+      "Bedroom scene cut240+ explicit."
+    ],
+    "limits": "No fullportrait/audio clearance."
+  },
+  "door-v3-review.json": {
+    "status": "HOLD",
+    "sha256": "e70705a162b06276b5dd2958ad4bac23712cf3112841f36d1d7cff7c87c87bfd",
+    "framesReviewed": 135,
+    "additionalSeamFrames": 18,
+    "findings": [
+      {
+        "time": 266.4,
+        "defect": "Same-camera hand jumps from thigh to extended door target, seam frames5–6."
+      },
+      {
+        "time": 267.55,
+        "defect": "Same fixed room plate with instant mirrored whole bodies and pot, local68–69; needs genuine cut framing."
+      }
+    ],
+    "passed": [
+      "Door movement/painter occlusion",
+      "Forward Sabah step",
+      "Continuous pot support"
+    ],
+    "evidence": [
+      "door-seam-v3.jpg",
+      "door-v3-native0.jpg",
+      "door-v3-native68.jpg",
+      "door-v3-native69.jpg"
+    ]
+  }
+}

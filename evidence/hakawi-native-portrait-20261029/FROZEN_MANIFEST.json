@@ -1,0 +1,442 @@
+{
+  "status": "FINAL_FROZEN_NATIVE_PORTRAIT_SOURCE_CANDIDATE_NOT_RELEASE",
+  "createdUTC": "2026-10-29T02:41:38.163259+00:00",
+  "sourceRoot": "/workspace/scratch/bb6b47af6d33/hakawi_repair",
+  "frozenRoot": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-freeze-20261029-0240/hakawi_repair",
+  "entrypointRel": "native-portrait-e01/master-portrait.cjs",
+  "requiredEnvironment": {
+    "HAKAWI_SOURCE_ROOT": "/workspace/scratch/bb6b47af6d33"
+  },
+  "files": {
+    "native-portrait-e01/README.md": {
+      "sha256": "99686e19119e13b220811c2dff35001a37164cdbc796bb656b585af0dfa0c983",
+      "bytes": 2117
+    },
+    "native-portrait-e01/SOURCE_READY.md": {
+      "sha256": "0ebbd7f8f8193182822a2ba4a49ddb3a0d893afd5749bb06e6cc63ef90741dc9",
+      "bytes": 3131
+    },
+    "native-portrait-e01/STATUS.md": {
+      "sha256": "dcd5cda9b0191ff0efaa38eec027c2cccca89757d96e4d1903a346c355db5853",
+      "bytes": 13731
+    },
+    "native-portrait-e01/accepted-long-lock.json": {
+      "sha256": "cad394ceecc8707f77a9081447ddde45eeef6c13ca8f78536347ae0b512e52b5",
+      "bytes": 1390
+    },
+    "native-portrait-e01/backgrounds.cjs": {
+      "sha256": "87bb42d130a361ec455c56ab194352326f8a08372edfbf5f69480292d3c7fcc8",
+      "bytes": 15297
+    },
+    "native-portrait-e01/captions-portrait.cjs": {
+      "sha256": "06473dcb953c9905076b30af17f5f369897c70f7a240c37dd9b8f2d0da54a1f7",
+      "bytes": 626
+    },
+    "native-portrait-e01/contact.cjs": {
+      "sha256": "46da70918c4d3176984edadd61778e1062e3ad7a6b200d2bdfd363745e8ce9f4",
+      "bytes": 547
+    },
+    "native-portrait-e01/geometry/background-smoke-tests.json": {
+      "sha256": "ff731622a586c0081f30d2e34af8f9804c4e9ad2b63b56a5f153932facca7ef2",
+      "bytes": 2066
+    },
+    "native-portrait-e01/geometry/landing.json": {
+      "sha256": "afb3ea323c838611721d31104e3801cd5e4cc072897608de9e08708754935a0b",
+      "bytes": 2080
+    },
+    "native-portrait-e01/geometry/rentedRoom.json": {
+      "sha256": "5ff4750435cf2be7b74e40bedbd3619f1fc3d8d8970baae54d21810cb6d42758",
+      "bytes": 262
+    },
+    "native-portrait-e01/geometry/room.json": {
+      "sha256": "d116e65b1ee95b38b7534e5f1335683d59a2e41cd3e3cbfb893dbc023a278075",
+      "bytes": 895
+    },
+    "native-portrait-e01/geometry/size.json": {
+      "sha256": "6f56c8606f66364e6340081e599b30f12c7e4e5b29de905ece206903f2d8aae4",
+      "bytes": 18
+    },
+    "native-portrait-e01/geometry/tabletop.json": {
+      "sha256": "e2cee75b5e80366936b0c037b7c40b91ae19169150ab2bc4d2ba2c74849859ec",
+      "bytes": 178
+    },
+    "native-portrait-e01/geometry/warehouse.json": {
+      "sha256": "49bf3533cd4532932f25e52843b607285ce678e929cae800f3319f45453c64da",
+      "bytes": 291
+    },
+    "native-portrait-e01/inserts/pot-lowering.cjs": {
+      "sha256": "75f5ed3ff0b0b0217dbe804b39fad5d40ced24b1d87926d6deeaddaa207baa1a",
+      "bytes": 2027
+    },
+    "native-portrait-e01/inserts/ring.cjs": {
+      "sha256": "ffc9a6c8c2d3a3d63aa1bbcdf3863e9b6ed84e7be8d9fbf8db19bd329d9af2ca",
+      "bytes": 1701
+    },
+    "native-portrait-e01/inserts/sleeve.cjs": {
+      "sha256": "59b83c8562cac697769c093c291699f690f6de61af6de262c81f927fa10ebf5a",
+      "bytes": 1194
+    },
+    "native-portrait-e01/master-portrait.cjs": {
+      "sha256": "d7ca14055fcffa412db49d389182c8b04654c0f8443539132de0708918fd6849",
+      "bytes": 1328
+    },
+    "native-portrait-e01/portrait-stage.cjs": {
+      "sha256": "84bbc95e10eef39f1d99ea1fff28278f1e3bbdc3344ee740226cbdda6f875ebe",
+      "bytes": 1727
+    },
+    "native-portrait-e01/props/furniture.cjs": {
+      "sha256": "a7c50bd4bd247dfe256940a5c06abaa0a760d8bbdadfa0ff47f4d30e8fdae152",
+      "bytes": 1657
+    },
+    "native-portrait-e01/props/native-carrier.cjs": {
+      "sha256": "1829e6758698a1c6e18f0f08b0c0756de021b82a08800f2a98099ccf30b546aa",
+      "bytes": 1193
+    },
+    "native-portrait-e01/props/warehouse.cjs": {
+      "sha256": "cc85bd9f1a10b9cc666b32ea0b64f763cb9ed45f9d59af0b090d8cc528936f47",
+      "bytes": 2171
+    },
+    "native-portrait-e01/release-evidence/BACKGROUND_FINAL_SMOKE.json": {
+      "sha256": "c6280f0593c87aef72e2f9b95f5ad12374221270f9ca031c5d03cf20548b6b1e",
+      "bytes": 3389
+    },
+    "native-portrait-e01/release-evidence/DOOR_PREFIX_EQUIVALENCE.json": {
+      "sha256": "8141e0e3c83bf873f13d79dac19a1f5f74c4d20339283200b4789927de1e8d52",
+      "bytes": 762
+    },
+    "native-portrait-e01/release-evidence/FINITE_GATE_LEDGER.json": {
+      "sha256": "54f5b4c8bf174590310ae63fd1594a4f81b29b0ab8ab89c884537bf6ffa186d8",
+      "bytes": 7624
+    },
+    "native-portrait-e01/release-evidence/FULL_SOURCE_SWEEP.json": {
+      "sha256": "608c1dd12f6e7f4924a333fc16529f9cbabcbb88d27d913056332335ab82a213",
+      "bytes": 170873
+    },
+    "native-portrait-e01/release-evidence/LONG_GATE_RECEIPT_RECHECK.json": {
+      "sha256": "c3224df80fd8a9bcebb92000bc2533f02bdb5ce254b04af38ff43a791310b1e3",
+      "bytes": 538
+    },
+    "native-portrait-e01/release-evidence/PROPOSED_FINAL_FRAME_AUDIO_GRID.json": {
+      "sha256": "0eef190e30be0e7e668103cb314c93b3dee8b018daec73830077a6c73b801610",
+      "bytes": 2172
+    },
+    "native-portrait-e01/release-evidence/SLEEVE_PREFIX_DEPENDENCY_CLASSIFICATION.json": {
+      "sha256": "8fc172a38811f3d1b5e2de1255d9134cbfa3ec9d972e0095881698bb24e08096",
+      "bytes": 1180
+    },
+    "native-portrait-e01/release-evidence/SOURCE_GATE_CARRYFORWARD.json": {
+      "sha256": "6866d431ed68338426c071a06a40785abb6d55edd85c77be538f18432fee41ad",
+      "bytes": 40130
+    },
+    "native-portrait-e01/release-evidence/STATIC_LISTENER_CACHE_EQUIVALENCE.json": {
+      "sha256": "c77ad228f256732fa26655cebcd5f538f5eeb3c48789f224f3bb10dd79f3029d",
+      "bytes": 247
+    },
+    "native-portrait-e01/release-evidence/independent-review/abaya-ascent-v1-review.json": {
+      "sha256": "e487b05485921a85b02dcca7c5bd802e48ac1a702fc2e150374cd1033d5e808f",
+      "bytes": 851
+    },
+    "native-portrait-e01/release-evidence/independent-review/approach-handoff-v1-review.json": {
+      "sha256": "e028c880d06ce16085d08a0adb0db8cda060b2d7463b60c1cad165b7a16fec4c",
+      "bytes": 844
+    },
+    "native-portrait-e01/release-evidence/independent-review/arrival-carton-v1-review.json": {
+      "sha256": "6d0c79749a42adacecb770e6f1ac6d60f9acb4b15b27ad523cd58d2d8d7aba5e",
+      "bytes": 1043
+    },
+    "native-portrait-e01/release-evidence/independent-review/book-open-v2-review.json": {
+      "sha256": "d75cc5085ccb7b57904a1a1b10a91b3596e873341d6bfa7c0d861fa56d5ba743",
+      "bytes": 899
+    },
+    "native-portrait-e01/release-evidence/independent-review/chair-v1-review.json": {
+      "sha256": "151f49d281633006507703addc30536aeec0e50580d188d4e876ff740dd76d22",
+      "bytes": 795
+    },
+    "native-portrait-e01/release-evidence/independent-review/denial-descent-v2-review.json": {
+      "sha256": "da7f5a0c6635313001e27de13c3f78628b07c909768ced848ec670bc9602d02c",
+      "bytes": 818
+    },
+    "native-portrait-e01/release-evidence/independent-review/door-open-v2-review.json": {
+      "sha256": "78769d8286bbff482d44289945b2b2a145413bef22ed1e45fa5601aaf11868e3",
+      "bytes": 830
+    },
+    "native-portrait-e01/release-evidence/independent-review/door-v4-review.json": {
+      "sha256": "f59f057ef6a0aae8cc32b55cdcb48698a27361b198bf9050cc62ae6612c0bead",
+      "bytes": 807
+    },
+    "native-portrait-e01/release-evidence/independent-review/ending-v1-review.json": {
+      "sha256": "6b0046f55db19db5a22687ce7cedb74f8ed3818673302efd6077d681db0b0be6",
+      "bytes": 973
+    },
+    "native-portrait-e01/release-evidence/independent-review/farewell-descent-v1-review.json": {
+      "sha256": "e4aa66f125e4ebe03968e465d7d8be5b4d5a701cbc0ef4060a2c9a3f8c953071",
+      "bytes": 786
+    },
+    "native-portrait-e01/release-evidence/independent-review/lowering-v4-review.json": {
+      "sha256": "f82703449e1fbc3bc9ac10aa59c9c0d985cecab9b71cceb4658b66736bfab33b",
+      "bytes": 1027
+    },
+    "native-portrait-e01/release-evidence/independent-review/painter-ascent-v1-review.json": {
+      "sha256": "45354a533456fff0aaad392d5576502818f26ec3efc8032c2870173a58a68aa2",
+      "bytes": 698
+    },
+    "native-portrait-e01/release-evidence/independent-review/phone-v2-review.json": {
+      "sha256": "8451a9abc6ccf2e84abbdc824b2b5274536696d38dd449fa1d3e50855eb81908",
+      "bytes": 735
+    },
+    "native-portrait-e01/release-evidence/independent-review/pursuit-v1-review.json": {
+      "sha256": "d3511216a5c0f3fcaad71a71ff370d4f241ba428b1622f223be6a756c074f352",
+      "bytes": 941
+    },
+    "native-portrait-e01/release-evidence/independent-review/ring-v2-review.json": {
+      "sha256": "feb605b67b1ac791043fd2e0edca91608ef50dbb2f136fd7626394c8f792673d",
+      "bytes": 917
+    },
+    "native-portrait-e01/release-evidence/independent-review/sleeve-v2-review.json": {
+      "sha256": "d107de218ea7104a9667a2aeb65a4ad8164593ba5176c74007bae18581b252c4",
+      "bytes": 1125
+    },
+    "native-portrait-e01/release-evidence/independent-review/warehouse-v2-review.json": {
+      "sha256": "78610c3346fe03b5c0f74bcb1224bdab29cd5dc6e65600d34d73617ce8442028",
+      "bytes": 912
+    },
+    "native-portrait-e01/release-evidence/independent-review/withdrawal-v1-review.json": {
+      "sha256": "487de42381431ecf4faef982255b18ec330e5dbb9b6618f4ccc2f990177ee96e",
+      "bytes": 865
+    },
+    "native-portrait-e01/release-evidence/proof-ledgers/native-abaya-ascent-v1.mp4.json": {
+      "sha256": "342583db381a717fb39a267588aa1231ea0da13a91cc5447a44553d0b31eb222",
+      "bytes": 11456
+    },
+    "native-portrait-e01/release-evidence/proof-ledgers/native-approach-handoff-v1.mp4.json": {
+      "sha256": "0d26cd78cf4f482dd87179fc2f641336cc681af21dca79d60a871aa09d1ea389",
+      "bytes": 11826
+    },
+    "native-portrait-e01/release-evidence/proof-ledgers/native-arrival-carton-v1.mp4.json": {
+      "sha256": "07aaf4dce3226254874445ebf5dc960cd58819cb816bf7199b73289e997dacca",
+      "bytes": 11988
+    },
+    "native-portrait-e01/release-evidence/proof-ledgers/native-book-open-v1.mp4.json": {
+      "sha256": "24e1391d6544584eef06612801eeb2a928803b28f15d5d66d1b681248d7076f1",
+      "bytes": 47459
+    },
+    "native-portrait-e01/release-evidence/proof-ledgers/native-book-open-v2.mp4.json": {
+      "sha256": "9176165f26478735357a40a01697138976c87fe8b7d386ab53fa5ab4eafab005",
+      "bytes": 47547
+    },
+    "native-portrait-e01/release-evidence/proof-ledgers/native-chair-v1.mp4.json": {
+      "sha256": "72e47456a5cb0df3b3a9d2c1f29c7897eb6212880a21419d605fd6720aae4d55",
+      "bytes": 11379
+    },
+    "native-portrait-e01/release-evidence/proof-ledgers/native-denial-descent-v1.mp4.json": {
+      "sha256": "934e82abeb55ab1c6db31d2cfaf6d50faf6f65d39f550d68e081022d06cce3e8",
+      "bytes": 11641
+    },
+    "native-portrait-e01/release-evidence/proof-ledgers/native-denial-descent-v2.mp4.json": {
+      "sha256": "021797d7beedf56288c45a6da45c9f94b4df367c7075d47959661491fb03a4dc",
+      "bytes": 11641
+    },
+    "native-portrait-e01/release-evidence/proof-ledgers/native-door-close-v1.mp4.json": {
+      "sha256": "4a607a10b1ce09824cc44880ead80571e4da8473d3e5f1ee07b019559feadf50",
+      "bytes": 11731
+    },
+    "native-portrait-e01/release-evidence/proof-ledgers/native-door-close-v2.mp4.json": {
+      "sha256": "a66d0e0a0bcc97b74d0ada7380f9db7439ecd0779f95b9581fa0e4cc37cc4c18",
+      "bytes": 11731
+    },
+    "native-portrait-e01/release-evidence/proof-ledgers/native-door-close-v3.mp4.json": {
+      "sha256": "3e4af5b461932a9a5a8b3c83c57d5df0fa153f1e061139f2ad28d60872283416",
+      "bytes": 11461
+    },
+    "native-portrait-e01/release-evidence/proof-ledgers/native-door-close-v4.mp4.json": {
+      "sha256": "4a334d0f26618839976f533cbadba6e91b42452e2bbada8f7ea05f50d612141d",
+      "bytes": 11461
+    },
+    "native-portrait-e01/release-evidence/proof-ledgers/native-door-open-v1.mp4.json": {
+      "sha256": "3ba60714677b7ba7de6d64b4e205e21a72026c453f03388721121a64a96c5825",
+      "bytes": 11294
+    },
+    "native-portrait-e01/release-evidence/proof-ledgers/native-door-open-v2.mp4.json": {
+      "sha256": "cbcee6d1d843b48f6d77f40a4ab4ade3cfc5598182efd2e353eabea1bf67c0a9",
+      "bytes": 11294
+    },
+    "native-portrait-e01/release-evidence/proof-ledgers/native-door-seam-v3.mp4.json": {
+      "sha256": "d1fa80643e42ccd7dcd30c8a9bc9b79d08343f91bf15cc2d724b052af9aec11d",
+      "bytes": 11284
+    },
+    "native-portrait-e01/release-evidence/proof-ledgers/native-ending-v1.mp4.json": {
+      "sha256": "7f4156098c9e928a4aea28d550c0aaca14e87fe20fb30ddc7eb84dc46dca829d",
+      "bytes": 11568
+    },
+    "native-portrait-e01/release-evidence/proof-ledgers/native-farewell-descent-v1.mp4.json": {
+      "sha256": "fb7ad546c7dc189854b285886d90b841cecd36179f3329b2e9cf13cbcd47e82e",
+      "bytes": 11472
+    },
+    "native-portrait-e01/release-evidence/proof-ledgers/native-lowering-v1.mp4.json": {
+      "sha256": "c9a3d97537c0fb2f9c4556ff582780811896a3d1764f9a774262f9b6d4713104",
+      "bytes": 688
+    },
+    "native-portrait-e01/release-evidence/proof-ledgers/native-lowering-v2.mp4.json": {
+      "sha256": "b5d7a59dfff489167aaca81e8f9100072599cf04933c5c53b648bcee8e8c1ec0",
+      "bytes": 22613
+    },
+    "native-portrait-e01/release-evidence/proof-ledgers/native-lowering-v3.mp4.json": {
+      "sha256": "bc391406fdfcbdb119e3daf728a16ec59241ceb96cf3f29dac66ad11c14b66a0",
+      "bytes": 11543
+    },
+    "native-portrait-e01/release-evidence/proof-ledgers/native-lowering-v4.mp4.json": {
+      "sha256": "922497f73d5fb0800346fbb25a112b8e48b41c91a949546df5feff6058996f6e",
+      "bytes": 11543
+    },
+    "native-portrait-e01/release-evidence/proof-ledgers/native-painter-ascent-v1.mp4.json": {
+      "sha256": "622e8123a6064f5edc7459a97dce275665c0ef8a8e940a8581969bbeccab4ef3",
+      "bytes": 11190
+    },
+    "native-portrait-e01/release-evidence/proof-ledgers/native-phone-v1.mp4.json": {
+      "sha256": "3138b8a3c896c0dcd7725bbca8f1c2254125ee556bc1f8d31cfadec8b7c5855d",
+      "bytes": 11662
+    },
+    "native-portrait-e01/release-evidence/proof-ledgers/native-phone-v2.mp4.json": {
+      "sha256": "b513a7ab02d15fc85cefa09a215539a990e5ee12c04df1cd1e48f0f048946eaa",
+      "bytes": 11662
+    },
+    "native-portrait-e01/release-evidence/proof-ledgers/native-pursuit-v1.mp4.json": {
+      "sha256": "c663d8254f96c916f1c4fdf969306a5f416da1e91b0735af1d741eeda480e048",
+      "bytes": 11278
+    },
+    "native-portrait-e01/release-evidence/proof-ledgers/native-ring-v1.mp4.json": {
+      "sha256": "295d4fae54584ce07fa90c10dd893eebe7de7b792813ffff06210f539dee0117",
+      "bytes": 11358
+    },
+    "native-portrait-e01/release-evidence/proof-ledgers/native-ring-v2.mp4.json": {
+      "sha256": "0d5eb176772536aa7abcdbd278b602860603eda4748d4d44b70c881f96cfc722",
+      "bytes": 11358
+    },
+    "native-portrait-e01/release-evidence/proof-ledgers/native-sleeve-v1.mp4.json": {
+      "sha256": "1475b1bfb9175eaada4081f5abe001576d4108441c343f554ab952820d55cb89",
+      "bytes": 12093
+    },
+    "native-portrait-e01/release-evidence/proof-ledgers/native-sleeve-v2.mp4.json": {
+      "sha256": "2cf2b9527cd6a5f5b33367f44ade96cd5c5ff31cbb639c001ba9b05a7a481735",
+      "bytes": 12002
+    },
+    "native-portrait-e01/release-evidence/proof-ledgers/native-warehouse-v1.mp4.json": {
+      "sha256": "e47241bf5935309304488368454c84e229dbebe1e28d8b637045aa4b586b3b46",
+      "bytes": 11661
+    },
+    "native-portrait-e01/release-evidence/proof-ledgers/native-warehouse-v2.mp4.json": {
+      "sha256": "597c64f72ea5418d057697f53ce5267a7dca92a7cd4b5d8fd59cdc04a911f9a6",
+      "bytes": 11661
+    },
+    "native-portrait-e01/release-evidence/proof-ledgers/native-withdrawal-v1.mp4.json": {
+      "sha256": "76e468886512c9fa3378f3187fb975ec4385c7ce9f811c4394ee1a499c24665f",
+      "bytes": 11275
+    },
+    "native-portrait-e01/release-evidence/source-tests.json": {
+      "sha256": "db73309a9e98afb6b9f4d3f22810f267161aa1a1a0331fd74ec361118ed7bb2b",
+      "bytes": 233
+    },
+    "native-portrait-e01/scene-common.cjs": {
+      "sha256": "5661470e8f7fa8879f5439ecda4b0f3e09a7c14fd0b6b1d591943e9e0c243ae0",
+      "bytes": 2782
+    },
+    "native-portrait-e01/scenes/arrival.cjs": {
+      "sha256": "dbd369eb02d497e179c498dfc9572b64f6013515fce8dfd3e3571a6305028da0",
+      "bytes": 1928
+    },
+    "native-portrait-e01/scenes/confrontation.cjs": {
+      "sha256": "60c614ac81d25d190b0a7d4dd77d4077d3abb932f7f5f32a82e3e42b3feed003",
+      "bytes": 3105
+    },
+    "native-portrait-e01/scenes/consequences.cjs": {
+      "sha256": "9c0705cd4690b4660c34cf145a99df0ffb65622ec1a000b4d71c95732c90a25f",
+      "bytes": 5283
+    },
+    "native-portrait-e01/scenes/denial.cjs": {
+      "sha256": "e21d539ed76eddb505a731755ec4905f4c07459b2b6029268d90a9a0e9929a89",
+      "bytes": 2731
+    },
+    "native-portrait-e01/scenes/departure.cjs": {
+      "sha256": "3536ee9cc953e7356b94b7c4f4c111da9a607d3215fc912c4cd33ac7472189fa",
+      "bytes": 3329
+    },
+    "native-portrait-e01/scenes/evidence.cjs": {
+      "sha256": "db16468bb6147c7aa82c31f2696713c096d23b2aaed739210a8ac32ab7992f4a",
+      "bytes": 7381
+    },
+    "native-portrait-e01/scenes/painter.cjs": {
+      "sha256": "e33248d20bcbff620887edf6f7b4a65fa7e8f1e45a1b20ec5f0a83ee3457e12e",
+      "bytes": 3886
+    },
+    "native-portrait-e01/semantic-adapter.cjs": {
+      "sha256": "4795d6a1232c4628545ed83e665d5e19593f63debf102b272e7f0871aa62182d",
+      "bytes": 800
+    },
+    "native-portrait-e01/source-paths.cjs": {
+      "sha256": "3ac4df4bab589033f8bf07880a122deedc1cf7c62cf4937c2f7ac2bcac83e9dd",
+      "bytes": 600
+    },
+    "native-portrait-plan/SCENE_PLAN.json": {
+      "sha256": "611511440f3c69f35cce2ebfe340051364000f1c6bc0dea4255a5a9e2dd7f921",
+      "bytes": 18063
+    }
+  },
+  "fileCount": 93,
+  "bytes": 790349,
+  "externalImmutableRoots": [
+    {
+      "root": "/workspace/scratch/bb6b47af6d33/hakawi-native-freeze-20261028-2122",
+      "manifest": "/workspace/scratch/bb6b47af6d33/hakawi-native-freeze-20261028-2122/FROZEN_MANIFEST.json",
+      "sha256": "5839c366bbb2b89a4310e298c9d44851a088c9058b86be6248881f5ac3557b62"
+    },
+    {
+      "root": "/workspace/scratch/bb6b47af6d33/hakawi-native-hope-patch-20261028-2152",
+      "manifest": "/workspace/scratch/bb6b47af6d33/hakawi-native-hope-patch-20261028-2152/FROZEN_MANIFEST.json",
+      "sha256": "614b1c29e50837863df8d1e17aedffc16dd8b3d12d37f281427accac8bec9c84"
+    },
+    {
+      "root": "/workspace/scratch/bb6b47af6d33/hakawi-native-denial-patch-20261028-2329",
+      "manifest": "/workspace/scratch/bb6b47af6d33/hakawi-native-denial-patch-20261028-2329/FROZEN_MANIFEST.json",
+      "sha256": "0f1a349fcdbf05a2a583b708c7b163262597217e855265edff4f06868917ccd5"
+    }
+  ],
+  "nativeContract": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 60,
+    "samples": 3,
+    "globalFrameRange": [
+      14563,
+      30418
+    ],
+    "clipFrameCounts": [
+      4963,
+      5986,
+      4906
+    ],
+    "sourceTimeRange": [
+      242.72,
+      506.96
+    ],
+    "globalCenterFormula": "(globalFrame+0.5)/60",
+    "noLandscapeConversion": true
+  },
+  "audio": {
+    "sampleRate": 44100,
+    "canonicalPCMSHA256": "9ae559a48e1ee5d0d71a4385b65cc186a16923cb9396d8d3824443dbf0bf1ae4",
+    "sampleCutBoundaries": [
+      10703952,
+      14351904,
+      18751320,
+      22356936
+    ]
+  },
+  "finiteGateCount": 18,
+  "fullRenderAuthorized": false,
+  "releaseAuthorized": false,
+  "notes": [
+    "Root separately pins source/runtime lock and authorizes bounded pilot/full production after resource checks.",
+    "External donor chain remains read-only and deduplicated; this freeze includes isolated native source and exact local evidence only.",
+    "Full final encoded video/audio/continuity and fresh public-prefix audit still required."
+  ]
+}

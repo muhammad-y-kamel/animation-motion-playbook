@@ -188,3 +188,12 @@ Evidence: [scoped closure ledger](entries/HAKAWI-SCOPED-CLOSURE-20261028-2122.md
 - [ ] Check reciprocal gaze against explicit narration and existing editorial cuts; retain all world-foot/prop support and distinguish edited reorientation from continuous turn.
 - [ ] Adopt only hash-bound reviewed replacements and inspect adjacent seams. Preserve old rejected slots and reviewer corrections without changing frozen base.
 Evidence: [two final-output repair records](entries/HAKAWI-FINAL-REGRESSIONS-20261028.md).
+
+## Native portrait physical staging and editorial gates
+- [ ] Draw native architecture/depth, not landscape crop: a swinging door must reveal a real aperture, and knock targets must match actor-facing contact plane.
+- [ ] Preserve canonical action phases and meaningful camera cuts. Same plate plus mirrored body/cast reset is not a cut; do not invent finger morphs or continuous turns hidden by editorial coverage.
+- [ ] Inspect free hands for false ownership; stage apart rather than deforming limbs. Show actual bench/tread/sill support, not numeric coordinate equality behind actor occlusion.
+- [ ] Native close inserts keep connected donor ends beyond frame edges and active contacts visible. Correct transparent source padding by visible support, not image-box bounds.
+- [ ] Transform safe/action rectangles by actual camera matrix. Preserve raw residuals, metric semantics, failed attempts and bounded prefix-comparison scope; resource exit137 is not proof of media corruption.
+- [ ] Bind finite acceptance to exact source/encode identities. Frozen93-file integrity and18 finite passes do not clear full portrait render/audio/sync/release. Validate native pixels before changing accepted source over tiny-preview suspicions.
+Evidence: [native portrait trial/closure record](entries/HAKAWI-NATIVE-PORTRAIT-20261029.md).

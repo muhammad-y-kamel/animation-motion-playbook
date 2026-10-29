@@ -1,0 +1,7 @@
+{
+  "time": 410.5,
+  "changedChannels": 34532,
+  "maxChannelDifference": 3,
+  "meanChannelDifference": 0.004179325810185185,
+  "note": "Static listener actor cache only; book/hand motion unchanged. Source pixel comparison, not encode clearance."
+}

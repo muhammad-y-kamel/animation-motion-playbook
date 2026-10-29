@@ -1,0 +1,32 @@
+{
+  "status": "SOURCE_DEPENDENCY_CLASSIFICATION_NOT_FULL_PIXEL_COMPARISON",
+  "range": [
+    445.28,
+    445.9
+  ],
+  "sceneSourceUnchanged": true,
+  "sceneSHA256": "3536ee9cc953e7356b94b7c4f4c111da9a607d3215fc912c4cd33ac7472189fa",
+  "changedDependencies": [
+    {
+      "file": "portrait-stage.cjs",
+      "classification": "Only protect/action rectangles mapped through current transform; canvas drawing unchanged. No caption overlap in either proof."
+    },
+    {
+      "file": "inserts/sleeve.cjs",
+      "classification": "Not executed before446.1. Actual native insert/release changes reviewed in v2."
+    },
+    {
+      "file": "backgrounds.cjs",
+      "classification": "New drawWorkbench export only; landing draw code unchanged, unused warehouse function in this scope."
+    },
+    {
+      "file": "scenes/painter.cjs,scenes/arrival.cjs,scenes/consequences.cjs",
+      "classification": "Eager master imports, not executed by departure scene."
+    }
+  ],
+  "reviewedPrefix": "independent reviewer viewed all v1 frames, world contact coherent",
+  "limits": [
+    "Not independently reviewed dependency classification.",
+    "No full episode or release acceptance."
+  ]
+}

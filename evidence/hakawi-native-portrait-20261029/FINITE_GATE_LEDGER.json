@@ -1,0 +1,190 @@
+{
+  "status": "FINITE_SCOPED_GATES_NOT_FULL_PORTRAIT_RELEASE",
+  "updatedUTC": "2026-10-29T02:37:30.508Z",
+  "reports": [
+    {
+      "id": "lowering-v4",
+      "receipt": "independent-review/lowering-v4-review.json",
+      "status": "SCOPED_VISUAL_PASS",
+      "sha256": "848d9f53846f847d57338a62c7e864c80067fd7fbd8d152c5a107001afa5b819",
+      "frames": 212,
+      "interval": [
+        314.88,
+        318.4
+      ],
+      "limits": [
+        "Short encoded visual proof only; no audio listening or final release clearance.",
+        "Later source changes require new output or verified equivalence."
+      ]
+    },
+    {
+      "id": "book-open-v2",
+      "receipt": "independent-review/book-open-v2-review.json",
+      "status": "SCOPED_VISUAL_PASS",
+      "sha256": "3215cf59c3ffe4a45e46b6ba2df5cd1f15bdc6f46cc6c3e658280a72ebbe7a3a",
+      "frames": 367,
+      "interval": [
+        408.5,
+        414.6
+      ],
+      "limits": [
+        "Short encoded visual proof only; no audio listening or final release clearance.",
+        "Later source changes require new output or verified equivalence."
+      ]
+    },
+    {
+      "id": "door-v4",
+      "receipt": "independent-review/door-v4-review.json",
+      "status": "SCOPED_VISUAL_PASS",
+      "sha256": "23ce448cab813f54985be1e5f66402fc9c09e1365a17cf441f002959c123d2f6",
+      "interval": [
+        265.9,
+        268.64
+      ],
+      "limits": [
+        "Earlier263.6–265.9 prefix was viewed in v2; current frozen-source equality still required to carry forward.",
+        "No audio or full portrait release clearance."
+      ]
+    },
+    {
+      "id": "warehouse-v2",
+      "receipt": "independent-review/warehouse-v2-review.json",
+      "status": "PASS_SCOPED_VISUAL",
+      "sha256": "43fe5ba392631116fa858f35c6fdc8a39a35e89cc18187330571065ad5d640a2",
+      "limits": [
+        "Bounded encoded proof only; no full portrait, audio or release approval."
+      ]
+    },
+    {
+      "id": "sleeve-v2",
+      "receipt": "independent-review/sleeve-v2-review.json",
+      "status": "PASS_SCOPED_VISUAL",
+      "sha256": "86dd264e8e04cb2ec37c6c8267ecf6027a1e7a53049a8ad01f51f02c856861ae",
+      "limits": [
+        "Authored grip-to-open edit accepted, not an interpolated finger animation.",
+        "Earlier445.28–445.9 only previously reviewed v1; source equality required for carryforward.",
+        "No full portrait, audio or release approval."
+      ]
+    },
+    {
+      "id": "arrival-carton-v1",
+      "receipt": "independent-review/arrival-carton-v1-review.json",
+      "status": "PASS_SCOPED_VISUAL",
+      "sha256": "c781ae28c1e9b75183f3d9dfb37aa6d3ed2a5e3a0a5a832cc1ceda7718fb5765",
+      "limits": [
+        "Slow single-step timing retained, not a newly optimized gait.",
+        "No full portrait/audio/release approval."
+      ]
+    },
+    {
+      "id": "door-open-v2",
+      "receipt": "independent-review/door-open-v2-review.json",
+      "status": "PASS_SCOPED_VISUAL",
+      "sha256": "58425ec8d502f3f342a5ccee85eac116a1db96d26711deb05e8931103db6be20",
+      "limits": [
+        "Bounded proof only, no full portrait/audio/release clearance."
+      ]
+    },
+    {
+      "id": "abaya-ascent-v1",
+      "receipt": "independent-review/abaya-ascent-v1-review.json",
+      "status": "PASS_SCOPED_VISUAL",
+      "sha256": "19a0433592137444f108e84f42ecf9d07ed114fc6d5460e691b89516808b6938",
+      "limits": [
+        "Bounded encoded proof, not full portrait/audio/release clearance."
+      ]
+    },
+    {
+      "id": "approach-handoff-v1",
+      "receipt": "independent-review/approach-handoff-v1-review.json",
+      "status": "SCOPED PASS",
+      "sha256": "7693a01b3ee2bba499e529f99f569a56d7cb7855d653e328fbe3bccf6e69b280",
+      "frames": 519,
+      "limits": "Bounded native portrait proof only; no full portrait, audio listening or release clearance."
+    },
+    {
+      "id": "withdrawal-v1",
+      "receipt": "independent-review/withdrawal-v1-review.json",
+      "status": "SCOPED PASS",
+      "sha256": "8fe95ec3b593132ce502c81bb8deef8cf3e5986acbda5c02d96c69488d96e9f9",
+      "frames": 144,
+      "limits": "No full portrait or audio clearance; action elisions explicitly retained."
+    },
+    {
+      "id": "ring-v2",
+      "receipt": "independent-review/ring-v2-review.json",
+      "status": "SCOPED PASS",
+      "sha256": "2f4f7570d6e51018529026c1dbcd003fe10c1e28ef45ab8b995bc6683e132de8",
+      "frames": 210,
+      "limits": "Ring rests at sill front edge, not center of top plane. World return ring is occluded behind actors, so persistence there is not independently established from visible pixels. No full portrait or audio clearance."
+    },
+    {
+      "id": "painter-ascent-v1",
+      "receipt": "independent-review/painter-ascent-v1-review.json",
+      "status": "SCOPED PASS",
+      "sha256": "279593e0954c5a92207a41abcebd2c2804982ccf222c7698e76b270a348c1140",
+      "frames": 86,
+      "limits": "No fullportrait or audio clearance."
+    },
+    {
+      "id": "phone-v2",
+      "receipt": "independent-review/phone-v2-review.json",
+      "status": "SCOPED PASS",
+      "sha256": "a2bac388bfa0ce77dc9f9d3d5f8df24451bc7fe2f634c9a486f45ed6c507ce65",
+      "frames": 267,
+      "limits": "Bounded portrait motion proof only. No fullportrait or audio clearance."
+    },
+    {
+      "id": "denial-descent-v2",
+      "receipt": "independent-review/denial-descent-v2-review.json",
+      "status": "SCOPED PASS",
+      "sha256": "dca22ae776ee02dced344e4cb2963401b92646399d04a958e9b739a38b160f8a",
+      "frames": 245,
+      "limits": "Pose turn is elided at authored edit, not continuously animated. No fullportrait or audio clearance."
+    },
+    {
+      "id": "farewell-descent-v1",
+      "receipt": "independent-review/farewell-descent-v1-review.json",
+      "status": "SCOPED PASS",
+      "sha256": "9c19d38e57247a633dd4410b603dcc16b0dc13174c2dac871fcba21e7beb96e6",
+      "frames": 126,
+      "limits": "Only this final downstep and edit reviewed; no fullportrait or audio clearance."
+    },
+    {
+      "id": "chair-v1",
+      "receipt": "independent-review/chair-v1-review.json",
+      "status": "SCOPED PASS",
+      "sha256": "4e633770893722d2b078a1951f48799198f0dc88c31176f35a37864e0efbfc34",
+      "frames": 102,
+      "limits": "Contact approach only, not sale/removal action. No fullportrait or audio clearance."
+    },
+    {
+      "id": "ending-v1",
+      "receipt": "independent-review/ending-v1-review.json",
+      "status": "SCOPED PASS",
+      "sha256": "33f7bcceec4218c9e023f886b841d09dff9309efa556cbe062832e91766e0689",
+      "frames": 240,
+      "limits": "Sitting is explicitly elided, not continuously animated. No fullportrait or audio clearance."
+    },
+    {
+      "id": "pursuit-v1",
+      "receipt": "independent-review/pursuit-v1-review.json",
+      "status": "SCOPED PASS",
+      "sha256": "ff708668c1d0484ff0c07a46d77725658e151ae700bfad398e5d584e1b86938b",
+      "frames": 171,
+      "limits": "Wide approach cuts to completed grip insert; not a fully continuous finger-closing animation. No fullportrait or audio clearance."
+    }
+  ],
+  "pending": [],
+  "sourceCheckpoint": "qa/source-snapshots/20261029-0146/MANIFEST.json",
+  "sourceCarryforward": [
+    "qa/DOOR_PREFIX_EQUIVALENCE.json",
+    "qa/SLEEVE_PREFIX_DEPENDENCY_CLASSIFICATION.json",
+    "qa/STATIC_LISTENER_CACHE_EQUIVALENCE.json"
+  ],
+  "notes": [
+    "Reports bind exact encoded candidates, not blanket acceptance of every later source change.",
+    "Final frozen-source renders and exact canonical audio slices still require full technical/encoded visual/sync QA.",
+    "No publication or schedule operation authorized by this ledger."
+  ]
+}

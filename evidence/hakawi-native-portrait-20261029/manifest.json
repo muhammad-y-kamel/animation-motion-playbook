@@ -1,0 +1,222 @@
+{
+  "snapshotUTC": "2026-10-29T02:50:00Z",
+  "status": "FINITE_GATES_ONLY_FULL_RENDER_UNDERWAY_NOT_ACCEPTED",
+  "evidence": [
+    {
+      "source": "hakawi-native-portrait-freeze-20261029-0240/hakawi_repair/FROZEN_MANIFEST.json",
+      "snapshot": "FROZEN_MANIFEST.json",
+      "sha256": "c0d02deb6e828e5ae0d68a43143c2766c36e3a2ecc5ddc903878b5f1f6061368",
+      "bytes": 19681
+    },
+    {
+      "source": "hakawi-native-portrait-freeze-20261029-0240/hakawi_repair/native-portrait-e01/release-evidence/FINITE_GATE_LEDGER.json",
+      "snapshot": "FINITE_GATE_LEDGER.json",
+      "sha256": "54f5b4c8bf174590310ae63fd1594a4f81b29b0ab8ab89c884537bf6ffa186d8",
+      "bytes": 7624
+    },
+    {
+      "source": "hakawi_repair/native-portrait-e01/qa/FINAL_SOURCE_FREEZE_RECEIPT.json",
+      "snapshot": "FINAL_SOURCE_FREEZE_RECEIPT.json",
+      "sha256": "132aa0e08701b4cd4a8ca6f7ffaa0338b766f7b506f88f551634c33643c9bc81",
+      "bytes": 565
+    },
+    {
+      "source": "hakawi_repair/native-portrait-e01/qa/FINAL_SOURCE_FREEZE_VERIFICATION.json",
+      "snapshot": "FINAL_SOURCE_FREEZE_VERIFICATION.json",
+      "sha256": "0d6fd74afe33308b145aae3ee5b9cc562bb2a8e7ae287f130e81d9d2599e7fa1",
+      "bytes": 386
+    },
+    {
+      "source": "hakawi-native-portrait-freeze-20261029-0240/hakawi_repair/native-portrait-e01/release-evidence/independent-review/abaya-ascent-v1-review.json",
+      "bundleKey": "abaya-ascent-v1-review.json",
+      "sha256": "e487b05485921a85b02dcca7c5bd802e48ac1a702fc2e150374cd1033d5e808f",
+      "bytes": 851
+    },
+    {
+      "source": "hakawi-native-portrait-freeze-20261029-0240/hakawi_repair/native-portrait-e01/release-evidence/independent-review/approach-handoff-v1-review.json",
+      "bundleKey": "approach-handoff-v1-review.json",
+      "sha256": "e028c880d06ce16085d08a0adb0db8cda060b2d7463b60c1cad165b7a16fec4c",
+      "bytes": 844
+    },
+    {
+      "source": "hakawi-native-portrait-freeze-20261029-0240/hakawi_repair/native-portrait-e01/release-evidence/independent-review/arrival-carton-v1-review.json",
+      "bundleKey": "arrival-carton-v1-review.json",
+      "sha256": "6d0c79749a42adacecb770e6f1ac6d60f9acb4b15b27ad523cd58d2d8d7aba5e",
+      "bytes": 1043
+    },
+    {
+      "source": "hakawi-native-portrait-freeze-20261029-0240/hakawi_repair/native-portrait-e01/release-evidence/independent-review/book-open-v2-review.json",
+      "bundleKey": "book-open-v2-review.json",
+      "sha256": "d75cc5085ccb7b57904a1a1b10a91b3596e873341d6bfa7c0d861fa56d5ba743",
+      "bytes": 899
+    },
+    {
+      "source": "hakawi-native-portrait-freeze-20261029-0240/hakawi_repair/native-portrait-e01/release-evidence/independent-review/chair-v1-review.json",
+      "bundleKey": "chair-v1-review.json",
+      "sha256": "151f49d281633006507703addc30536aeec0e50580d188d4e876ff740dd76d22",
+      "bytes": 795
+    },
+    {
+      "source": "hakawi-native-portrait-freeze-20261029-0240/hakawi_repair/native-portrait-e01/release-evidence/independent-review/denial-descent-v2-review.json",
+      "bundleKey": "denial-descent-v2-review.json",
+      "sha256": "da7f5a0c6635313001e27de13c3f78628b07c909768ced848ec670bc9602d02c",
+      "bytes": 818
+    },
+    {
+      "source": "hakawi-native-portrait-freeze-20261029-0240/hakawi_repair/native-portrait-e01/release-evidence/independent-review/door-open-v2-review.json",
+      "bundleKey": "door-open-v2-review.json",
+      "sha256": "78769d8286bbff482d44289945b2b2a145413bef22ed1e45fa5601aaf11868e3",
+      "bytes": 830
+    },
+    {
+      "source": "hakawi-native-portrait-freeze-20261029-0240/hakawi_repair/native-portrait-e01/release-evidence/independent-review/door-v4-review.json",
+      "bundleKey": "door-v4-review.json",
+      "sha256": "f59f057ef6a0aae8cc32b55cdcb48698a27361b198bf9050cc62ae6612c0bead",
+      "bytes": 807
+    },
+    {
+      "source": "hakawi-native-portrait-freeze-20261029-0240/hakawi_repair/native-portrait-e01/release-evidence/independent-review/ending-v1-review.json",
+      "bundleKey": "ending-v1-review.json",
+      "sha256": "6b0046f55db19db5a22687ce7cedb74f8ed3818673302efd6077d681db0b0be6",
+      "bytes": 973
+    },
+    {
+      "source": "hakawi-native-portrait-freeze-20261029-0240/hakawi_repair/native-portrait-e01/release-evidence/independent-review/farewell-descent-v1-review.json",
+      "bundleKey": "farewell-descent-v1-review.json",
+      "sha256": "e4aa66f125e4ebe03968e465d7d8be5b4d5a701cbc0ef4060a2c9a3f8c953071",
+      "bytes": 786
+    },
+    {
+      "source": "hakawi-native-portrait-freeze-20261029-0240/hakawi_repair/native-portrait-e01/release-evidence/independent-review/lowering-v4-review.json",
+      "bundleKey": "lowering-v4-review.json",
+      "sha256": "f82703449e1fbc3bc9ac10aa59c9c0d985cecab9b71cceb4658b66736bfab33b",
+      "bytes": 1027
+    },
+    {
+      "source": "hakawi-native-portrait-freeze-20261029-0240/hakawi_repair/native-portrait-e01/release-evidence/independent-review/painter-ascent-v1-review.json",
+      "bundleKey": "painter-ascent-v1-review.json",
+      "sha256": "45354a533456fff0aaad392d5576502818f26ec3efc8032c2870173a58a68aa2",
+      "bytes": 698
+    },
+    {
+      "source": "hakawi-native-portrait-freeze-20261029-0240/hakawi_repair/native-portrait-e01/release-evidence/independent-review/phone-v2-review.json",
+      "bundleKey": "phone-v2-review.json",
+      "sha256": "8451a9abc6ccf2e84abbdc824b2b5274536696d38dd449fa1d3e50855eb81908",
+      "bytes": 735
+    },
+    {
+      "source": "hakawi-native-portrait-freeze-20261029-0240/hakawi_repair/native-portrait-e01/release-evidence/independent-review/pursuit-v1-review.json",
+      "bundleKey": "pursuit-v1-review.json",
+      "sha256": "d3511216a5c0f3fcaad71a71ff370d4f241ba428b1622f223be6a756c074f352",
+      "bytes": 941
+    },
+    {
+      "source": "hakawi-native-portrait-freeze-20261029-0240/hakawi_repair/native-portrait-e01/release-evidence/independent-review/ring-v2-review.json",
+      "bundleKey": "ring-v2-review.json",
+      "sha256": "feb605b67b1ac791043fd2e0edca91608ef50dbb2f136fd7626394c8f792673d",
+      "bytes": 917
+    },
+    {
+      "source": "hakawi-native-portrait-freeze-20261029-0240/hakawi_repair/native-portrait-e01/release-evidence/independent-review/sleeve-v2-review.json",
+      "bundleKey": "sleeve-v2-review.json",
+      "sha256": "d107de218ea7104a9667a2aeb65a4ad8164593ba5176c74007bae18581b252c4",
+      "bytes": 1125
+    },
+    {
+      "source": "hakawi-native-portrait-freeze-20261029-0240/hakawi_repair/native-portrait-e01/release-evidence/independent-review/warehouse-v2-review.json",
+      "bundleKey": "warehouse-v2-review.json",
+      "sha256": "78610c3346fe03b5c0f74bcb1224bdab29cd5dc6e65600d34d73617ce8442028",
+      "bytes": 912
+    },
+    {
+      "source": "hakawi-native-portrait-freeze-20261029-0240/hakawi_repair/native-portrait-e01/release-evidence/independent-review/withdrawal-v1-review.json",
+      "bundleKey": "withdrawal-v1-review.json",
+      "sha256": "487de42381431ecf4faef982255b18ec330e5dbb9b6618f4ccc2f990177ee96e",
+      "bytes": 865
+    },
+    {
+      "source": "hakawi-native-portrait-freeze-20261029-0240/hakawi_repair/native-portrait-e01/release-evidence/DOOR_PREFIX_EQUIVALENCE.json",
+      "snapshot": "DOOR_PREFIX_EQUIVALENCE.json",
+      "sha256": "8141e0e3c83bf873f13d79dac19a1f5f74c4d20339283200b4789927de1e8d52",
+      "bytes": 762
+    },
+    {
+      "source": "hakawi-native-portrait-freeze-20261029-0240/hakawi_repair/native-portrait-e01/release-evidence/SLEEVE_PREFIX_DEPENDENCY_CLASSIFICATION.json",
+      "snapshot": "SLEEVE_PREFIX_DEPENDENCY_CLASSIFICATION.json",
+      "sha256": "8fc172a38811f3d1b5e2de1255d9134cbfa3ec9d972e0095881698bb24e08096",
+      "bytes": 1180
+    },
+    {
+      "source": "hakawi-native-portrait-freeze-20261029-0240/hakawi_repair/native-portrait-e01/release-evidence/STATIC_LISTENER_CACHE_EQUIVALENCE.json",
+      "snapshot": "STATIC_LISTENER_CACHE_EQUIVALENCE.json",
+      "sha256": "c77ad228f256732fa26655cebcd5f538f5eeb3c48789f224f3bb10dd79f3029d",
+      "bytes": 247
+    },
+    {
+      "source": "hakawi_repair/native-portrait-e01/independent-review/door-open-v1-review.json",
+      "bundleKey": "door-open-v1-review.json",
+      "bundle": "REJECTED_OR_SUPERSEDED_RECEIPTS.json",
+      "sha256": "aa22d63e812a4be91c10b63bed7ebf52e9ab71bfb7ed0fe76f3367b62f52eeff"
+    },
+    {
+      "source": "hakawi_repair/native-portrait-e01/independent-review/lowering-v1-review.json",
+      "bundleKey": "lowering-v1-review.json",
+      "bundle": "REJECTED_OR_SUPERSEDED_RECEIPTS.json",
+      "sha256": "f4779c67da32eae54e4a75bc1c277dc6249ccce913b51a2199407461bd6e812e"
+    },
+    {
+      "source": "hakawi_repair/native-portrait-e01/independent-review/lowering-v2-review.json",
+      "bundleKey": "lowering-v2-review.json",
+      "bundle": "REJECTED_OR_SUPERSEDED_RECEIPTS.json",
+      "sha256": "b6f7e4e25ac632ed4c23789c9d79ce81910e968ef9eeda604a9bb1af1bba0f51"
+    },
+    {
+      "source": "hakawi_repair/native-portrait-e01/independent-review/lowering-v3-review.json",
+      "bundleKey": "lowering-v3-review.json",
+      "bundle": "REJECTED_OR_SUPERSEDED_RECEIPTS.json",
+      "sha256": "8df075955929373a30e803624e686226c8a17d789181053024d36cddebd360a2"
+    },
+    {
+      "source": "hakawi_repair/native-portrait-e01/independent-review/book-v1-review.json",
+      "bundleKey": "book-v1-review.json",
+      "bundle": "REJECTED_OR_SUPERSEDED_RECEIPTS.json",
+      "sha256": "21573bddead1d7946b52277bdda16118057a6540a474ee49eca951036197fdcb"
+    },
+    {
+      "source": "hakawi_repair/native-portrait-e01/independent-review/warehouse-v1-review.json",
+      "bundleKey": "warehouse-v1-review.json",
+      "bundle": "REJECTED_OR_SUPERSEDED_RECEIPTS.json",
+      "sha256": "ec07e7b14d9b2b3d774bd13c6bdc739aed9fba4622d62ac5c5dd3c2e1c11d559"
+    },
+    {
+      "source": "hakawi_repair/native-portrait-e01/independent-review/sleeve-v1-review.json",
+      "bundleKey": "sleeve-v1-review.json",
+      "bundle": "REJECTED_OR_SUPERSEDED_RECEIPTS.json",
+      "sha256": "4eab7eb671c2a003100c3cb8fdb73da83a1afd291526e798558faf6455e0375c"
+    },
+    {
+      "source": "hakawi_repair/native-portrait-e01/independent-review/ring-v1-review.json",
+      "bundleKey": "ring-v1-review.json",
+      "bundle": "REJECTED_OR_SUPERSEDED_RECEIPTS.json",
+      "sha256": "377bbfa4a38ec2cb733a9f86c70db4234526731ad2ea2fbc8ab8ab11ed276139"
+    },
+    {
+      "source": "hakawi_repair/native-portrait-e01/independent-review/phone-v1-review.json",
+      "bundleKey": "phone-v1-review.json",
+      "bundle": "REJECTED_OR_SUPERSEDED_RECEIPTS.json",
+      "sha256": "fa4ba3fa44ef005a522410f391d2fa39b9717a9d2ff3b29bd76515529efbadc4"
+    },
+    {
+      "source": "hakawi_repair/native-portrait-e01/independent-review/denial-descent-v1-review.json",
+      "bundleKey": "denial-descent-v1-review.json",
+      "bundle": "REJECTED_OR_SUPERSEDED_RECEIPTS.json",
+      "sha256": "9dfccf63d4b25ecdf8784f95c885f30e220bb4e4460ed27b11bc68eb57a117f4"
+    },
+    {
+      "source": "hakawi_repair/native-portrait-e01/independent-review/door-v3-review.json",
+      "bundleKey": "door-v3-review.json",
+      "bundle": "REJECTED_OR_SUPERSEDED_RECEIPTS.json",
+      "sha256": "200bbca542c51b964bfcd1605d1df980c8ff326249c71bccbd5332058e32bb59"
+    }
+  ]
+}

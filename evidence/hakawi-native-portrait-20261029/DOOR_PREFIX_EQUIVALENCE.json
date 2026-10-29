@@ -1,0 +1,16 @@
+{
+  "status": "EXACT_SAMPLED_PIXEL_EQUIVALENCE_AND_GUARDED_SOURCE_DELTA",
+  "range": [
+    263.6,
+    265.9
+  ],
+  "samples": 24,
+  "sampledFrames": 8,
+  "totalPrefixFrames": 138,
+  "shutterSamplesPerFrame": 3,
+  "priorPainterSHA256": "7f63ff1a654c54fa70dfb5ab8a1c7a44c04863c0c4bf59edbbe2e6200e929c02",
+  "currentPainterSHA256": "e33248d20bcbff620887edf6f7b4a65fa7e8f1e45a1b20ec5f0a83ee3457e12e",
+  "priorReceipt": "native-door-close-v3.mp4.json",
+  "mismatches": [],
+  "note": "Compiled exact reviewed v3 source reconstructed and hash-verified. Its pre266.4 branch unchanged from reviewed v2 prefix; later closure differs. This compares 24 deterministic current/prior-source RGBA shutter samples before new pre-reach begins265.95, not full episode clearance."
+}

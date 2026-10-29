@@ -1,0 +1,380 @@
+{
+  "abaya-ascent-v1-review.json": {
+    "status": "PASS_SCOPED_VISUAL",
+    "file": "hakawi_repair/native-portrait-e01/qa/native-abaya-ascent-v1.mp4",
+    "sha256": "19a0433592137444f108e84f42ecf9d07ed114fc6d5460e691b89516808b6938",
+    "coverage": {
+      "firstFrame": 0,
+      "endFrameExclusive": 293,
+      "time": [
+        373.52,
+        378.4
+      ],
+      "allFramesSequentialSheets": true,
+      "nativeWitnesses": [
+        35,
+        110,
+        180,
+        230,
+        292
+      ]
+    },
+    "findings": [
+      "Stair rise progresses across discrete treads with visible planted/swing shoes and intact dress silhouette.",
+      "Bag and notebook remain attached to their hands without ownership swaps or penetration.",
+      "Native35/110/180 show successive tread stance; final292 settles on landing clear of pot."
+    ],
+    "limits": [
+      "Bounded encoded proof, not full portrait/audio/release clearance."
+    ]
+  },
+  "approach-handoff-v1-review.json": {
+    "status": "SCOPED PASS",
+    "file": "hakawi_repair/native-portrait-e01/qa/native-approach-handoff-v1.mp4",
+    "sha256": "7693a01b3ee2bba499e529f99f569a56d7cb7855d653e328fbe3bccf6e69b280",
+    "frames": 519,
+    "sourceInterval": [
+      382.48,
+      391.12
+    ],
+    "review": "All encoded frames 0–518 sequentially via 22 compressed sheets; native frames 355,390,460,518 inspected.",
+    "findings": [
+      "Approach uses visible stepping with foreground occlusion, not a detached sliding silhouette.",
+      "Book remains supported through offer, shared support and recipient retention; Sabah withdraws an empty hand. Bag stays with Sabah.",
+      "No concrete hand/body intersection, unsupported prop, teleport or caption clipping found."
+    ],
+    "limits": "Bounded native portrait proof only; no full portrait, audio listening or release clearance."
+  },
+  "arrival-carton-v1-review.json": {
+    "status": "PASS_SCOPED_VISUAL",
+    "file": "hakawi_repair/native-portrait-e01/qa/native-arrival-carton-v1.mp4",
+    "sha256": "c781ae28c1e9b75183f3d9dfb37aa6d3ed2a5e3a0a5a832cc1ceda7718fb5765",
+    "coverage": {
+      "firstFrame": 0,
+      "endFrameExclusive": 375,
+      "time": [
+        367.28,
+        373.52
+      ],
+      "allFramesSequentialSheets": true,
+      "nativeWitnesses": [
+        100,
+        235,
+        300,
+        374
+      ]
+    },
+    "findings": [
+      "Worker box remains continuously held with both hands during slow authored stair step; native100 and235 show supported planted boot and final tread stance.",
+      "Family depth and threshold brother remain stable; no source teleport within shot.",
+      "Local244→245 is an explicit interior cut, eliding box transfer; carton is supported by chair seat.",
+      "Flap opening and hand withdrawal coherent; no floating carton or visible hand penetration."
+    ],
+    "limits": [
+      "Slow single-step timing retained, not a newly optimized gait.",
+      "No full portrait/audio/release approval."
+    ]
+  },
+  "book-open-v2-review.json": {
+    "status": "SCOPED_VISUAL_PASS",
+    "file": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e01/qa/native-book-open-v2.mp4",
+    "sha256": "3215cf59c3ffe4a45e46b6ba2df5cd1f15bdc6f46cc6c3e658280a72ebbe7a3a",
+    "frames": 367,
+    "interval": [
+      408.5,
+      414.6
+    ],
+    "findings": [
+      "All 367 encoded frames reviewed sequentially in 16 sheets; native witnesses 100,160,200,360.",
+      "Adult Yaser scale corrected; native close shot and return preserve room context.",
+      "Book support and cover manipulation remain continuous; reported 52 metric residual frames do not show visual contact failure.",
+      "One final duplicate-center sample acknowledged by producer; no complete timeline clearance."
+    ],
+    "limits": [
+      "Short encoded visual proof only; no audio listening or final release clearance.",
+      "Later source changes require new output or verified equivalence."
+    ]
+  },
+  "chair-v1-review.json": {
+    "status": "SCOPED PASS",
+    "file": "hakawi_repair/native-portrait-e01/qa/native-chair-v1.mp4",
+    "sha256": "4e633770893722d2b078a1951f48799198f0dc88c31176f35a37864e0efbfc34",
+    "frames": 102,
+    "sourceInterval": [
+      476.8,
+      478.5
+    ],
+    "review": "All 102 encoded frames in five sequential sheets; native witnesses 5,55,101.",
+    "findings": [
+      "Natural hanging hand reaches gradually to visible upper chair rail/post; palm/fingers overlap the rail coherently and elbow remains relaxed. No arm snap or stretch observed.",
+      "Feet remain supported, chair stationary. Seated to standing transition at local 4 to 5 is an explicit reframed edit, not a continuously animated stand."
+    ],
+    "limits": "Contact approach only, not sale/removal action. No fullportrait or audio clearance."
+  },
+  "denial-descent-v2-review.json": {
+    "status": "SCOPED PASS",
+    "file": "hakawi_repair/native-portrait-e01/qa/native-denial-descent-v2.mp4",
+    "sha256": "dca22ae776ee02dced344e4cb2963401b92646399d04a958e9b739a38b160f8a",
+    "frames": 245,
+    "sourceInterval": [
+      346.8,
+      350.88
+    ],
+    "review": "All 245 encoded frames in 11 sequential sheets; native witnesses 5,70,160,225.",
+    "findings": [
+      "Distinct native framing at local 4 to 5 / 346.88 now communicates authored edit into turned descent pose, not a same-camera continuous turn.",
+      "Successive stair treads and lifted swing foot remain coherent; empty hands clear pot. Pot stays supported on upper landing.",
+      "Local 240 onward is explicit bedroom scene cut."
+    ],
+    "limits": "Pose turn is elided at authored edit, not continuously animated. No fullportrait or audio clearance."
+  },
+  "door-open-v2-review.json": {
+    "status": "PASS_SCOPED_VISUAL",
+    "file": "hakawi_repair/native-portrait-e01/qa/native-door-open-v2.mp4",
+    "sha256": "58425ec8d502f3f342a5ccee85eac116a1db96d26711deb05e8931103db6be20",
+    "coverage": {
+      "firstFrame": 0,
+      "endFrameExclusive": 178,
+      "time": [
+        311.92,
+        314.88
+      ],
+      "allFramesSequentialSheets": true,
+      "nativeWitnesses": [
+        60,
+        90,
+        177
+      ]
+    },
+    "findings": [
+      "Clipped exterior landing depth/window/steps now visible behind panel, resolving false solid-wall portal.",
+      "Door motion, hand release and step-aside coherent; Sabah alone owns supported pot.",
+      "314.88 joins distinct exterior landing crouch shot as authored action elision; not continuous lowering."
+    ],
+    "limits": [
+      "Bounded proof only, no full portrait/audio/release clearance."
+    ]
+  },
+  "door-v4-review.json": {
+    "status": "SCOPED_VISUAL_PASS",
+    "sha256": "23ce448cab813f54985be1e5f66402fc9c09e1365a17cf441f002959c123d2f6",
+    "framesReviewed": 165,
+    "interval": [
+      265.9,
+      268.64
+    ],
+    "findings": [
+      "Pre-reach now continuous through266.4; no abrupt thigh-to-door jump.",
+      "Authored267.55 cut now changes native camera and plate scale, so pose turn reads as edit.",
+      "Painter progressively occluded by door; closed endpoint coherent.",
+      "Sabah pot support and forward step maintained."
+    ],
+    "evidence": [
+      "door-v4-01.jpg through07.jpg",
+      "door-v4-native15.jpg",
+      "door-v4-native99.jpg"
+    ],
+    "limits": [
+      "Earlier263.6–265.9 prefix was viewed in v2; current frozen-source equality still required to carry forward.",
+      "No audio or full portrait release clearance."
+    ]
+  },
+  "ending-v1-review.json": {
+    "status": "SCOPED PASS",
+    "file": "hakawi_repair/native-portrait-e01/qa/native-ending-v1.mp4",
+    "sha256": "33f7bcceec4218c9e023f886b841d09dff9309efa556cbe062832e91766e0689",
+    "frames": 240,
+    "sourceInterval": [
+      487.3,
+      491.3
+    ],
+    "review": "All 240 encoded frames in ten sequential sheets; native witnesses 2,95,150,220, plus comparison against warehouse-v2 native249.",
+    "findings": [
+      "Warehouse prefix retains foreground apron supporting released box; initial thumbnail concern cleared by native comparison.",
+      "Ascent progresses through support and lifted shoe poses, then settles on landing; empty hands do not own dry pot.",
+      "Dry-pot cutaway at local123 and seated return at183 communicate sitting elision. Pot base supported on landing; seated pelvis rests at landing edge, feet supported on lower tread; no chair artifact."
+    ],
+    "limits": "Sitting is explicitly elided, not continuously animated. No fullportrait or audio clearance."
+  },
+  "farewell-descent-v1-review.json": {
+    "status": "SCOPED PASS",
+    "file": "hakawi_repair/native-portrait-e01/qa/native-farewell-descent-v1.mp4",
+    "sha256": "9c19d38e57247a633dd4410b603dcc16b0dc13174c2dac871fcba21e7beb96e6",
+    "frames": 126,
+    "sourceInterval": [
+      461.5,
+      463.6
+    ],
+    "review": "All 126 actual encoded frames in six sequential sheets; native witnesses 45,90,110.",
+    "findings": [
+      "Final downstep shows separated support and swinging shoe, then both feet settle on lower tread; dress remains connected and bag stays in her hands.",
+      "Yaser stays separated behind her without accidental grip.",
+      "Local 121 onward is explicit rented-room edit; not a continuous departure into that room."
+    ],
+    "limits": "Only this final downstep and edit reviewed; no fullportrait or audio clearance."
+  },
+  "lowering-v4-review.json": {
+    "status": "SCOPED_VISUAL_PASS",
+    "file": "/workspace/scratch/bb6b47af6d33/hakawi_repair/native-portrait-e01/qa/native-lowering-v4.mp4",
+    "sha256": "848d9f53846f847d57338a62c7e864c80067fd7fbd8d152c5a107001afa5b819",
+    "frames": 212,
+    "interval": [
+      314.88,
+      318.4
+    ],
+    "findings": [
+      "Independent decoded framemd5 comparison against reviewed v3: frames 0–190 pixel-identical; only 191–211 changed.",
+      "Reviewed all changed frames and neighbors 180–211 plus native 205; prior verified lower and interior-reaction frames carried by exact pixel equality.",
+      "Standing return now separates both empty hands visibly; no false hand-holding overlap. Feet and pot remain supported on landing.",
+      "Separate interior reaction cut resolves previous same-plate character replacement; rising is elided rather than animated."
+    ],
+    "limits": [
+      "Short encoded visual proof only; no audio listening or final release clearance.",
+      "Later source changes require new output or verified equivalence."
+    ]
+  },
+  "painter-ascent-v1-review.json": {
+    "status": "SCOPED PASS",
+    "file": "hakawi_repair/native-portrait-e01/qa/native-painter-ascent-v1.mp4",
+    "sha256": "279593e0954c5a92207a41abcebd2c2804982ccf222c7698e76b270a348c1140",
+    "frames": 86,
+    "sourceInterval": [
+      244.18,
+      245.6
+    ],
+    "review": "All86 encoded frames via four sequential sheets; native25,55,79.",
+    "findings": [
+      "Successive stair foot placements and lifted swing shoe visible; final79 lands both shoes on upper landing.",
+      "Pot remains intact and supported by both hands throughout climb.",
+      "Balcony to stairs and stairs to bedroom are explicit scene cuts, not claimed continuous room travel."
+    ],
+    "limits": "No fullportrait or audio clearance."
+  },
+  "phone-v2-review.json": {
+    "status": "SCOPED PASS",
+    "file": "hakawi_repair/native-portrait-e01/qa/native-phone-v2.mp4",
+    "sha256": "a2bac388bfa0ce77dc9f9d3d5f8df24451bc7fe2f634c9a486f45ed6c507ce65",
+    "frames": 267,
+    "sourceInterval": [
+      467.85,
+      472.3
+    ],
+    "review": "All 267 actual encoded frames via 12 sequential sheets; native witnesses 85 and 220.",
+    "findings": [
+      "Side-facing right-wall door makes actual knuckle contact at the near panel edge clear. Reach and withdrawal are continuous, without apparent overstretch; shoes clear threshold.",
+      "Phone remains intact and attached to hand. Explicit terminal cut into old room is coherent."
+    ],
+    "limits": "Bounded portrait motion proof only. No fullportrait or audio clearance."
+  },
+  "pursuit-v1-review.json": {
+    "status": "SCOPED PASS",
+    "file": "hakawi_repair/native-portrait-e01/qa/native-pursuit-v1.mp4",
+    "sha256": "ff708668c1d0484ff0c07a46d77725658e151ae700bfad398e5d584e1b86938b",
+    "frames": 171,
+    "sourceInterval": [
+      443.3,
+      446.15
+    ],
+    "review": "All 171 encoded frames in eight sequential sheets; native witnesses 50,100,167,170.",
+    "findings": [
+      "Room to landing is an explicit scene edit. Yaser downstep has tread support and visible swing shoe, settling behind Sabah; minor projected shoe overlap reads rear depth, not foot ownership change.",
+      "Reach develops continuously toward cuff with natural elbow. Final close insert makes actual cloth grip clear, retaining intact fingers and arm edges outside frame.",
+      "Bag remains with Sabah, pot remains on landing."
+    ],
+    "limits": "Wide approach cuts to completed grip insert; not a fully continuous finger-closing animation. No fullportrait or audio clearance."
+  },
+  "ring-v2-review.json": {
+    "status": "SCOPED PASS",
+    "file": "hakawi_repair/native-portrait-e01/qa/native-ring-v2.mp4",
+    "sha256": "2f4f7570d6e51018529026c1dbcd003fe10c1e28ef45ab8b995bc6683e132de8",
+    "frames": 210,
+    "sourceInterval": [
+      421.9,
+      425.4
+    ],
+    "review": "All 210 encoded frames via nine sequential sheets, native 50 and190.",
+    "findings": [
+      "Native close insert eliminates both interior sleeve cutoffs; arms now bleed lateral image edges.",
+      "Ring remains visible during pull, continuous move to sill front lip, flattening and hand withdrawal. No duplicate ring or hand pop found.",
+      "Gentle detail tracking maintains contact visibility; explicit return cut is coherent."
+    ],
+    "limits": "Ring rests at sill front edge, not center of top plane. World return ring is occluded behind actors, so persistence there is not independently established from visible pixels. No full portrait or audio clearance."
+  },
+  "sleeve-v2-review.json": {
+    "status": "PASS_SCOPED_VISUAL",
+    "file": "hakawi_repair/native-portrait-e01/qa/native-sleeve-v2.mp4",
+    "sha256": "86dd264e8e04cb2ec37c6c8267ecf6027a1e7a53049a8ad01f51f02c856861ae",
+    "coverage": {
+      "firstFrame": 0,
+      "endFrameExclusive": 510,
+      "time": [
+        445.9,
+        454.4
+      ],
+      "allFramesSequentialSheets": true,
+      "nativeWitnesses": [
+        12,
+        428,
+        429,
+        480,
+        505
+      ]
+    },
+    "findings": [
+      "Native plate enlargement and arm endpoints bleeding lateral edges make cuff inserts coherent close shots.",
+      "At local428 to429 (453.05) distinct native framing marks authored release edit, not continuous finger unclenching; no crossfade/double hands.",
+      "After edit, continuous separation/withdrawal with intact fingers and cloth. Return504+ gives separated actors, supported feet and coherent empty hands."
+    ],
+    "limits": [
+      "Authored grip-to-open edit accepted, not an interpolated finger animation.",
+      "Earlier445.28–445.9 only previously reviewed v1; source equality required for carryforward.",
+      "No full portrait, audio or release approval."
+    ]
+  },
+  "warehouse-v2-review.json": {
+    "status": "PASS_SCOPED_VISUAL",
+    "file": "hakawi_repair/native-portrait-e01/qa/native-warehouse-v2.mp4",
+    "sha256": "43fe5ba392631116fa858f35c6fdc8a39a35e89cc18187330571065ad5d640a2",
+    "coverage": {
+      "firstFrame": 0,
+      "endFrameExclusive": 250,
+      "time": [
+        483.2,
+        487.36
+      ],
+      "allFramesSequentialSheets": true,
+      "nativeWitnesses": [
+        80,
+        198,
+        249
+      ]
+    },
+    "findings": [
+      "Continuous two-hand lift, translation and setdown; no unsupported box teleport.",
+      "Foreground bench top/apron now visibly supports released box at frame 249 and occludes actor abdomen.",
+      "Hands withdraw below box front continuously while box stays fixed on bench."
+    ],
+    "limits": [
+      "Bounded encoded proof only; no full portrait, audio or release approval."
+    ],
+    "evidence": "independent-review/warehouse-v2-01.jpg through warehouse-v2-11.jpg and native80/198/249"
+  },
+  "withdrawal-v1-review.json": {
+    "status": "SCOPED PASS",
+    "file": "hakawi_repair/native-portrait-e01/qa/native-withdrawal-v1.mp4",
+    "sha256": "8fe95ec3b593132ce502c81bb8deef8cf3e5986acbda5c02d96c69488d96e9f9",
+    "frames": 144,
+    "sourceInterval": [
+      429.7,
+      432.1
+    ],
+    "review": "All frames 0–143 via six sequential sheets; native 15 and126.",
+    "findings": [
+      "429.84 entry is an authored edit eliding closing/pickup, not a continuous lift. Worker carries box with two visible supporting hands and gait.",
+      "Worker clears left image before431.8; no on-screen body disappearance at that boundary.",
+      "431.8 distinct closer framing communicates chair-removal elision; no claim that chairs were visibly carried out.",
+      "Caption/contact detail coherent within scoped proof."
+    ],
+    "limits": "No full portrait or audio clearance; action elisions explicitly retained."
+  }
+}

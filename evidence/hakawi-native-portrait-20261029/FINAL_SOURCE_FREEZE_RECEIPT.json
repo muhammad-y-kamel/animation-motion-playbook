@@ -1,0 +1,8 @@
+{
+  "manifest": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-freeze-20261029-0240/hakawi_repair/FROZEN_MANIFEST.json",
+  "sha256": "c0d02deb6e828e5ae0d68a43143c2766c36e3a2ecc5ddc903878b5f1f6061368",
+  "files": 93,
+  "bytes": 790349,
+  "entry": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-freeze-20261029-0240/hakawi_repair/native-portrait-e01/master-portrait.cjs",
+  "grid": "/workspace/scratch/bb6b47af6d33/hakawi-native-portrait-freeze-20261029-0240/hakawi_repair/native-portrait-e01/release-evidence/PROPOSED_FINAL_FRAME_AUDIO_GRID.json"
+}

@@ -1,0 +1,16 @@
+{
+  "status": "PASS_FROZEN_SOURCE_IMPORT_AND_ALL93_HASHES_NOT_RENDER_QA",
+  "manifestSHA256": "c0d02deb6e828e5ae0d68a43143c2766c36e3a2ecc5ddc903878b5f1f6061368",
+  "checkedFiles": 93,
+  "sourceRoot": "/workspace/scratch/bb6b47af6d33",
+  "scenes": [
+    "painter",
+    "confrontation",
+    "denial",
+    "arrival",
+    "evidence",
+    "departure",
+    "consequences"
+  ],
+  "cuts": 102
+}
