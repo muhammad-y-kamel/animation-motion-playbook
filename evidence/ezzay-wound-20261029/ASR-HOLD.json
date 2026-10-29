@@ -1,0 +1,12 @@
+{
+  "status": "optional_service_declined_by_user",
+  "reason": "Included/prepaid Scribe quota not verified; possible metered charge",
+  "request_attempted": true,
+  "completion_unverified": true,
+  "no_retry": true,
+  "decline_message": "Sentinel_12a4287947908191a8c28326b91b9f0f",
+  "retry_authorized": false,
+  "independent_asr_completed": false,
+  "release_gate": false,
+  "prior_attempt_status": "auto-review rejected; provider completion unverified"
+}

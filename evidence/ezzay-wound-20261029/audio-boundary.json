@@ -1,0 +1,40 @@
+{
+  "packet_samples": 4013568,
+  "skip_samples": 1105,
+  "discard_padding": 1127,
+  "decoded_samples": 4011336,
+  "decoded_duration": 90.96,
+  "alignment_end": 91.04,
+  "alignment_end_offset": 0.08,
+  "first_last_signal_windows": [
+    {
+      "start": 0,
+      "end": 0.24,
+      "samples": 10584,
+      "rms_dbfs": -18.370750427246094,
+      "peak_dbfs": -3.901801347732544
+    },
+    {
+      "start": 89.04,
+      "end": 90.24,
+      "samples": 52920,
+      "rms_dbfs": -22.543535232543945,
+      "peak_dbfs": -5.2632293701171875
+    },
+    {
+      "start": 90.24,
+      "end": 90.96,
+      "samples": 31751,
+      "rms_dbfs": -23.92923355102539,
+      "peak_dbfs": -7.531872272491455
+    },
+    {
+      "start": 90.86,
+      "end": 90.96,
+      "samples": 4409,
+      "rms_dbfs": -80.146728515625,
+      "peak_dbfs": -64.97811126708984
+    }
+  ],
+  "scope": "Signal retained; does not establish pronunciation or complete last word"
+}

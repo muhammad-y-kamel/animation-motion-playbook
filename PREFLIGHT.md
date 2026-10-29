@@ -235,3 +235,11 @@ Evidence: [E02 native finite repairs](entries/HAKAWI-E02-PORTRAIT-FINITE-2026102
 - [ ] Reconcile exact final decoded differences, codec propagation, prior reviewed equal spans and every held interval. Source parity cannot substitute for delivered equality. New evidence can supersede an earlier PASS.
 - [ ] Bind mixed-version final files honestly, recheck reciprocal seams, exact canonical audio coverage and last real samples. AAC validation is not bit-identical PCM or subjective listening.
 Evidence: [E02 final production repairs and closure](entries/HAKAWI-E02-PORTRAIT-FINAL-20261029.md); [exact final manifest](evidence/hakawi-e02-portrait-final-20261029/FINAL_ACCEPTED_FOUR_PART_MANIFEST_1822.json).
+
+
+## Ezzay scientific narration and evidence gates
+- [ ] Keep caption negation and referents together; exact word reconstruction alone cannot detect a misleading orphaned phrase.
+- [ ] Resolve container delay/padding against decoded sample coverage; provider alignment is not independent speech recognition or listening.
+- [ ] A user-declined optional paid QA service must not be retried; preserve uncertainty about any earlier rejected invocation rather than inventing completion or billing facts.
+- [ ] Bind source/encoded visual scope, numeric audio checks, durable source version and verified external publication separately.
+Evidence: [Ezzay wound/scar production closure](entries/EZZAY-WOUND-20261029.md).

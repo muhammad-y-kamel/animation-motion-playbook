@@ -1,0 +1,41 @@
+{
+  "source_decoded_samples": 4011336,
+  "delivery_decoded_samples": 4012032,
+  "source_peak_dbfs": -2.2390434741973877,
+  "source_nan_count": 0,
+  "aac_correlation_windows": [
+    {
+      "start": 0,
+      "correlation": 0.9999271590565413
+    },
+    {
+      "start": 15,
+      "correlation": 0.9999766612054983
+    },
+    {
+      "start": 30,
+      "correlation": 0.9999686457602178
+    },
+    {
+      "start": 45,
+      "correlation": 0.9999673127778873
+    },
+    {
+      "start": 60,
+      "correlation": 0.9999708309230815
+    },
+    {
+      "start": 75,
+      "correlation": 0.9999338248322871
+    },
+    {
+      "start": 88,
+      "correlation": 0.9998709253193273
+    }
+  ],
+  "video_frames": 2749,
+  "cadence_uniform": true,
+  "mp4_sha256": "0792d76340494e18ae8ba9f6a8b243e9ae65c55e73d75b37a9955b26d4b25ac7",
+  "audio_sha256": "69ede728bf2d8f9eceb3c4e8d24e3d407194e3a86f5085599dc2b4bffc39c405",
+  "scope": "Numerical checks only; no listening or independent speech recognition claim"
+}

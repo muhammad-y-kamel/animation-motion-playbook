@@ -1,0 +1,13 @@
+{
+  "checked_utc": "2026-10-29T19:02:36Z",
+  "method": "GET",
+  "endpoint": "/v1/usage/character-stats",
+  "window_utc": [
+    "2026-10-29T18:25:00Z",
+    "2026-10-29T18:30:00Z"
+  ],
+  "status": "rejected_before_process_creation",
+  "reason": "Auto-review did not accept investigative account-usage scope after service decline and identified credential handling risk in the planned invocation.",
+  "retry": false,
+  "result": "No usage evidence obtained; earlier Scribe execution and billing remain inconclusive."
+}

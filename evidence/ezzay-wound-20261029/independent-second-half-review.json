@@ -1,0 +1,25 @@
+{
+  "reviewer": "/root/verify_wound_script_science",
+  "reviewed_utc": "2026-10-29T18:45:51Z",
+  "media_path": "ezzay-wound-request/output/ezzay-wounds-v1.mp4",
+  "media_sha256_independently_checked": "0792d76340494e18ae8ba9f6a8b243e9ae65c55e73d75b37a9955b26d4b25ac7",
+  "result": "PASS within stated encoded visual scope; no high-severity visual or anatomical defect found",
+  "actual_decoded_thumbnail_sheets_viewed": [15,16,17,18,19,20,21,22,23,24,25,26,27,28],
+  "frame_interval_half_open": [1400,2749],
+  "frame_count_covered": 1349,
+  "sheet_layout": "100 sequential frames per sheet; sheet 28 has 49 video tiles and 51 black padding tiles, not black video frames",
+  "native_encoded_times_viewed": [47.600,50.770,51.100,54.260,57.690,58.020,58.860,59.970,60.300,61.240,62.450,62.780,64.280,66.050,66.380,68.000,69.890,70.220,73.080,76.210,76.540,78.440,80.610,80.940,82.654,84.637,85.667,91.011,26.960],
+  "additional_exact_native_frame_extracted_and_viewed": 2748,
+  "technical_receipts_read": ["qa/final-probe.json", "qa/technical.json", "qa/audio-boundary.json", "qa/my-visual-review.json", "src/technical_qa.py"],
+  "technical_metadata_from_receipt": {"video_codec":"h264", "width":1080,"height":1920,"fps":30,"frames":2749,"video_duration_seconds":91.633333,"audio_codec":"aac","audio_sample_rate":44100},
+  "findings": [
+    "Dermal collagen/repair tissue remains below epidermis; superficial injury does not extend into dermis.",
+    "Pigmentation scene preserves underlying tissue architecture and is not a generalized visual diagnosis of every dark mark.",
+    "Scar comparison, regenerated surface, captions and complete CTA/endcard remain readable in viewed native frames.",
+    "26.960 second native frame confirms repaired caption: لانها بتقع بعد ما الجرح يلم; no standalone scar-falls-off clause.",
+    "Explanatory diagram resets occur between topics; not treated as literal time reversal of a single wound.",
+    "Last actual frame 2748 retains clean complete endcard, not black padding."
+  ],
+  "producer_coverage_receipt_verified": "qa/my-visual-review.json states same hash and frames 0..1399 inclusive; union with my interval is [0,2749), no coverage gap or overlapping claimed ownership",
+  "limitations": "Thumbnail contact-sheet inspection plus listed native frames, not continuous playback or native inspection of every frame. No listening, pronunciation, speech completeness, audio sync or independent speech recognition certification. No source or media edits, encoding, APIs or ASR performed."
+}

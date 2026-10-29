@@ -1,0 +1,21 @@
+{
+  "checked_utc": "2026-10-29T19:00:36Z",
+  "original_session": 19649,
+  "original_session_poll": "Unknown process id",
+  "visible_process_matches": 0,
+  "scope": "Current process namespace only; no remote server-side execution conclusion",
+  "local_marker": "audio/scribe-submitted.json exists, created before urllib POST",
+  "response_files_present": false,
+  "request_id_available": false,
+  "transcript_available": false,
+  "network_completion": "unverified; possibly sent",
+  "billing": "unverified",
+  "retry": false,
+  "user_service_decision": "declined",
+  "no_additional_charge_authorized": true,
+  "docs_checked": [
+    "https://elevenlabs.io/docs/api-reference/speech-to-text/get",
+    "https://elevenlabs.io/docs/api-reference/history/list"
+  ],
+  "docs_limitation": "Get transcript requires missing transcription_id; generated-audio history is not established complete STT billing evidence."
+}
