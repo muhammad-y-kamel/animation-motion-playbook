@@ -20,3 +20,9 @@ Authoritative original reports remain in the additive source Space archive, same
 
 ## Separate external release
 Long replacement UF-MX4-6qTI was scheduled Nov25,2026 using the original picker slot19:00 GMT+0300; confirmation displayed18:00 local. Original ETO20ODWaKg was then made Private, with disabled Save and fresh content-list rows verified23:39UTC. Published videos were untouched. Native portrait production retains its own separate layout/render/QA gates; long acceptance does not approve portrait output.
+
+## Additive timezone audit — 2026-10-29 23:44 UTC
+
+A full browser reload at23:44:08UTC showed the new scheduled picker as November25,2026 **6:00PM GMT+0200**, with Done disabled. The original verified picker had shown **7:00PM GMT+0300**. Both identify exactly **2026-11-25T16:00:00Z**. The open page's prior GMT+0300 label was stale across the Cairo DST transition; matching a displayed wall clock without refreshing its offset is not sufficient timezone proof. Preserve the instant, then compare date, wall clock, and displayed offset after a full reload before interpreting a one-hour difference as a schedule change.
+
+This is an additive clarification of the preceding publication subsection, not a claim that the refreshed visible clock remained7PM. The London-conversion attempt was denied before execution, and no London setting was saved. Evidence: updated REPLACEMENT_RECEIPT.json and FRESH_TIMEZONE_VERIFIED_2344.txt, appended without overwriting earlier receipt entries under PUBLICATION_TIMEZONE_ADDENDUM_20261029_2344 in source Space v6. All1327 prior archive entries remain byte-exact; three files appended. Source v6 SHA256: `a00d46d7ac72e695256a7afd2d2aa44d5cf98003f11472bdc5800cccb886de76`.
