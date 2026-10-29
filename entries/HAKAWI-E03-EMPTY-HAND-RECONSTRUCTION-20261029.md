@@ -30,3 +30,9 @@ This is an additive clarification of the preceding publication subsection, not a
 ## Superseding uncertainty notice — 2026-10-29 23:45 UTC
 
 The immediately preceding addendum's claim that the original and replacement schedule instants were proved equal is **withdrawn as unverified**. A stale offset label on the original open page cannot establish the original instant: its displayed hour may already have used the new offset. The fresh18:00 GMT+0200 observation is valid only for the new video's then-current picker. It does not prove the original19:00 stale-label instant. Do not use the16UTC-equivalence claim to validate a replacement schedule. Root is correcting against the user's known19:00 Cairo local slot using a freshly reloaded picker; save/readback remains pending at this notice. Historical assertions remain for audit, superseded by this section.
+
+## Final superseding schedule verification — 2026-10-29 23:45:48 UTC
+
+Root saved and freshly read back November25,2026 **7:00PM GMT+0200**, with Done disabled, for UF-MX4-6qTI. This is **17:00UTC** and restores the intended19:00 Cairo local clock. The earlier new18:00 state is superseded. The16UTC original-instant equivalence inference remains withdrawn, not proved. Old ETO20ODWaKg remains Private, and published videos are untouched.
+
+Regression lesson: fully reload timezone-sensitive scheduling UI before mutation and final readback, especially across DST; verify the user's intended local clock against the fresh offset rather than calculating from a stale label. Source Space v7 preserves all1330 prior entries and appends the final corrected receipt, actual fresh picker text, and superseding correction under FINAL_CLOCK_CORRECTION_20261029_2346. Source v7 SHA256: `3f6fa80b38d99dd6abc7e160de14e9f6ea5c8117f79f3b9f759bc2c70dcacd0f`.
