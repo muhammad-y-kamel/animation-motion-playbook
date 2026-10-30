@@ -167,3 +167,7 @@ AnswerAct reference final04 delivered with1852initial-frame review,704changed+16
 
 ## E04 donor-contour still repair — 2026-10-30
 [HAKAWI-E04-TAG-MASK-20261030](entries/HAKAWI-E04-TAG-MASK-20261030.md): failed split-mask edits, continuous-donor topology improvement with residual apron pixels, and precise donor-boundary v7 repair. Lead/root actual four-native-still PASS only (9902/9940/10002/10236); continuous motion, final episode/audio and portrait gates remain pending.
+
+
+## E04 bounded runtime pilot — 2026-10-30
+- [HAKAWI-E04-RUNTIME-PILOT-20261030](entries/HAKAWI-E04-RUNTIME-PILOT-20261030.md): terminal-loop false-success, explicit thread/input flag scoping, measured encoder/decoder envelopes and controller hard-limit inheritance. One240-frame pilot with exact PCM/PTS and scoped thumbnail/native review; no whole-film, listening or real-time playback acceptance.
