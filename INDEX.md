@@ -163,3 +163,7 @@ AnswerAct reference final04 delivered with1852initial-frame review,704changed+16
 
 ## Hakawi reopened — 28 October 2026
 [Current narrative/anatomy rejection](entries/HAKAWI-NARRATIVE-REOPENED-20261028.md): user reports fixed tableaux, unrelated arm motion and still-reversed arms. OPEN, no rendered repair yet; mandatory per-clause storyboard and bilateral whole-chain/all-frame gates. Old scoped passes remain historical.
+
+
+## E04 donor-contour still repair — 2026-10-30
+[HAKAWI-E04-TAG-MASK-20261030](entries/HAKAWI-E04-TAG-MASK-20261030.md): failed split-mask edits, continuous-donor topology improvement with residual apron pixels, and precise donor-boundary v7 repair. Lead/root actual four-native-still PASS only (9902/9940/10002/10236); continuous motion, final episode/audio and portrait gates remain pending.
