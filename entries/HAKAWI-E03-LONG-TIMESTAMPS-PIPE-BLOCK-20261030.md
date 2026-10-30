@@ -35,7 +35,7 @@ Inspect origin and cadence separately, including *unmapped input streams* and co
 ### Observation and diagnosis
 A whole-sheet display suggested an adjacent-frame/cut offset. Exact diagnostic `qa/long-v22-production/MAPPING_DIAGNOSTIC_0849.json` instead proved correspondence by sequential decoded ordinal, PTS, MD5 against the closed full-decode baseline, and scaled-frame versus JPEG-tile MAE.
 
-Witnesses: global11111/11112 and11346/11347/11348, mapped by global=9930+local without timestamp seeking. Corresponding local indices/60Hz PTS were1181/1182 and1416/1417/1418. JPEG tile MAE was approximately4.37–4.43, consistent with the actual comparison, not a claim of byte-identical JPEG pixels. The established cuts are11112 and11348;11111 is the table shot and11112 the kitchen shot. Native selection used select(n), atlas extraction trim(start_frame). There was no established offset bug to patch.
+Witnesses: global 11111/11112 and 11346/11347/11348, mapped by global=9930+local without timestamp seeking. Corresponding local indices/60Hz PTS were 1181/1182 and 1416/1417/1418. JPEG tile MAE was approximately 4.37–4.43, consistent with the actual comparison, not a claim of byte-identical JPEG pixels. The established cuts are 11112 and 11348; 11111 is the table shot and 11112 the kitchen shot. Native selection used select(n), atlas extraction trim(start_frame). There was no established offset bug to patch.
 
 Discovery attribution: the initial display suspicion's first reporter is not established by this diagnostic alone; the exact mapping investigation is an agent diagnostic. Preserve the suspicion separately from the disproved offset hypothesis.
 
@@ -44,9 +44,9 @@ Do not change a renderer, seek offset or caption/frame label because of a sliced
 
 ## 3. Correct byte guard, unsafe pipe cleanup: actual recovery still blocked
 ### Observed failure and mechanism
-The native-join32 MiB global QA guard correctly stopped **before writing the39th JPEG**, retaining38 proofs. The old cleanup then called terminate();wait() without closing stdout and without a timeout. A decoder blocked on a full stdout pipe can fail to exit while its parent waits, retaining both inherited kernel locks.
+The native-join 32 MiB global QA guard correctly stopped **before writing the 39th JPEG**, retaining 38 proofs. The old cleanup then called terminate();wait() without closing stdout and without a timeout. A decoder blocked on a full stdout pipe can fail to exit while its parent waits, retaining both inherited kernel locks.
 
-Reported decoder52300 and both locks remained unresolved at this entry's snapshot. Host/process visibility is not supported in the current execution context. Namespace-local process absence is not proof of host termination. **No successful actual decoder termination, lock release, or resumed18-frame extraction is claimed.** Do not attempt unsupported host control or start a duplicate process.
+Reported decoder 52300 and both locks remained unresolved at this entry's snapshot. Host/process visibility is not supported in the current execution context. Namespace-local process absence is not proof of host termination. **No successful actual decoder termination, lock release, or resumed 18-frame extraction is claimed.** Do not attempt unsupported host control or start a duplicate process.
 
 `discovered_by: agent`: extraction/resource failure and cleanup investigation. This entry does not convert an environmental visibility limitation into a successful repair.
 
@@ -54,17 +54,17 @@ Reported decoder52300 and both locks remained unresolved at this entry's snapsho
 Source candidate `runtime/long-v22-copyts-candidate-0904/resume_missing_18.py`:
 1. On exception close the owned stdout pipe.
 2. Request TERM of the owned child.
-3. Wait with a5-second timeout.
+3. Wait with a 5-second timeout.
 4. On TimeoutExpired, kill the owned child and reap it.
 5. Preserve partial receipts and re-raise; do not call the incomplete extraction reviewed.
 
-`PIPE_CLEANUP_TEST_0920.json`: own synthetic pipe writer, child reaped in about0.019s, no forced kill needed.  
-`PIPE_FORCED_KILL_TEST_0920.json`: synthetic writer ignored TERM and broken pipe, forced-kill fallback reaped it with returncode-9. No real decoder/media/shared locks were used.
+`PIPE_CLEANUP_TEST_0920.json`: own synthetic pipe writer, child reaped in about 0.019 s, no forced kill needed.  
+`PIPE_FORCED_KILL_TEST_0920.json`: synthetic writer ignored TERM and broken pipe, forced-kill fallback reaped it with return code -9. No real decoder/media/shared locks were used.
 
 These **two synthetic tests pass**. They demonstrate the cleanup pattern for owned test children only. They do not unblock the existing decoder, release historical locks, or authorize a real resume. Source fix and actual recovery must have separate receipts.
 
 ### Byte-budget discipline
-For JPEG output, encode to an in-memory buffer first, compute exact encoded bytes, and check subbudget + global cap + metadata margin + free-space reserve **before writing**. A root diagnostic derivative set reached approximately2.503 MB before an after-write assertion caught its2 MiB subbudget breach; the global32 MiB ceiling remained intact, but that does not make the local overshoot compliant. Preserve the failed budget assertion. Global headroom is not permission to ignore a narrower approved budget.
+For JPEG output, encode to an in-memory buffer first, compute exact encoded bytes, and check subbudget + global cap + metadata margin + free-space reserve **before writing**. A root diagnostic derivative set reached approximately 2.503 MB before an after-write assertion caught its 2 MiB subbudget breach; the global 32 MiB ceiling remained intact, but that does not make the local overshoot compliant. Preserve the failed budget assertion. Global headroom is not permission to ignore a narrower approved budget.
 
 The resume candidate uses buffered JPEG encoding and guard(len(data)) before p.write_bytes(data), preserving existing output on stop. This guards future writes; it does not retroactively fix the previous local overshoot.
 
@@ -72,7 +72,7 @@ The resume candidate uses buffered JPEG encoding and guard(len(data)) before p.w
 - Test cleanup with a pipe-filling child and with a child that resists TERM; close unused pipe endpoints and bound waits.
 - Inherit both global locks into actual media children; don't assume killing a controller releases descendants' descriptors.
 - Before real resume, establish original child/lock closure through supported execution evidence and separate authorization. If unavailable, report BLOCKED, preserve bytes and wait for supported resolution.
-- Reuse only identity-verified closed work; maintain exact38-existing/18-missing accounting.
+- Reuse only identity-verified closed work; maintain exact 38-existing/18-missing accounting.
 - Preserve technical mux closure, selected mapping diagnostics, synthetic cleanup tests and actual join review as distinct evidence classes.
 - No ASR, subjective listening, continuous real-time playback, full native-join visual acceptance, platform publication or successful actual deadlock recovery is claimed here.
 
