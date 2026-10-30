@@ -574,6 +574,17 @@
       "acceptance": "FOUR_SELECTED_NATIVE_STILLS_ONLY_FULL_MOTION_PENDING",
       "discovered_by": "agent; root independent review confirms scoped still closure",
       "file": "entries/HAKAWI-E04-TAG-MASK-20261030.md"
+    },
+    {
+      "id": "HAKAWI-E04-RUNTIME-PILOT-20261030",
+      "title": "Terminal-loop false success, bounded resource trials and measured E04 pilot",
+      "project": "حكاوي الحارة",
+      "episode": "E04",
+      "category": "runtime/process-lifecycle/resource-limits/PTS/PCM/QA",
+      "status": "validated_with_limits",
+      "acceptance": "ONE_240_FRAME_PILOT_SCOPED_THUMBNAIL_NATIVE_AND_TECHNICAL_AUDIO_ONLY",
+      "discovered_by": "agent source/runtime audit; root scoped actual visual review",
+      "file": "entries/HAKAWI-E04-RUNTIME-PILOT-20261030.md"
     }
   ]
 }
