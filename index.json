@@ -563,6 +563,17 @@
       "status": "user_observed_open_prompt_repair_unverified",
       "file": "entries/HAKAWI-NARRATIVE-REOPENED-20261028.md",
       "discovered_by": "user"
+    },
+    {
+      "id": "HAKAWI-E04-TAG-MASK-20261030",
+      "title": "Donor apron pixels mistaken for a joint seam; v5–v7 trials and four native stills",
+      "category": "donor-masking/limb-topology/card-grip/native-QA",
+      "project": "حكاوي الحارة",
+      "episode": "E04",
+      "status": "validated_with_limits",
+      "acceptance": "FOUR_SELECTED_NATIVE_STILLS_ONLY_FULL_MOTION_PENDING",
+      "discovered_by": "agent; root independent review confirms scoped still closure",
+      "file": "entries/HAKAWI-E04-TAG-MASK-20261030.md"
     }
   ]
 }
