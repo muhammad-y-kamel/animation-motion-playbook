@@ -80,3 +80,42 @@ The resume candidate uses buffered JPEG encoding and guard(len(data)) before p.w
 2026-10-30 09:23 UTC: documented actual timestamp/NAL/audio technical pass and exact mapping diagnosis; recorded pipe cleanup as synthetic-only with actual recovery BLOCKED. Later real recovery must append evidence rather than erase this failed/pending state.
 
 Related: [E03 immutable/mixed reuse](HAKAWI-E03-IMMUTABLE-MIXED-REUSE-20261030.md), [native chunk regressions](PLAYBOOK_NATIVE_CHUNK_REGRESSIONS.md).
+
+
+## Additive outcome — 2026-10-30 10:14 UTC: media accepted, original cleanup still OPEN
+This update supersedes the earlier *media-recovery pending* state only. It does not erase the failed attempts or close the original session/locks.
+
+### Explicit isolated recovery and measured trials
+Root authorized a one-time **application-scheduling coexistence exception** for the exact 17 missing native witnesses. Original session 52300 was still reported RUNNING and both original shared locks remained HELD with unchanged inodes. The exception did not claim free locks, change lock permissions/inodes, target guessed host PIDs, or bypass security access controls. Media was immutable and read-only; the new child had its own ownership/PID journal, bounded output, process-local limits and safe reap. Previously reviewed derivative evidence was archived/released to make room under the unchanged QA ceiling rather than silently enlarging it.
+
+Preserved sequence:
+1. A 256 MiB address-space trial failed allocation. No claim of successful recovery.
+2. A 512 MiB address-space trial with default stack failed pthread creation with EAGAIN. The full causal chain of EAGAIN is **not proved**; do not assert that stack alone universally explains it.
+3. Synthetic CPU-count/slice variants failed and were **not adopted**.
+4. The exact approved actual trial using 512 MiB address-space limits for each process, a 1 MiB child stack limit and the existing generic threads=1 configuration succeeded. This is a task-specific result, not a universal FFmpeg default. Generic threads=1 did not imply a one-thread process: observed thread count was six.
+
+The new recovery child exited 0 and was reaped. Observed child VmPeak was 521,364 KiB, VmRSS 119,568 KiB, and Threads 6. These are observed process measurements, not proof of total cgroup capacity, complete host accounting or global process closure. Host MemAvailable was not relabelled as an enforced container memory limit. All failed recovery receipts remain preserved.
+
+### Actual review and technical acceptance now closed
+`qa/long-v22-production/LONG_V22_FINAL_MEDIA_ACCEPTANCE_0946.json` records:
+- All 5,369 changed presentations actually reviewed, with exact final parity to approved replacements; 22,553 outside frames carried by exact decoded identity.
+- All 56 native join witnesses actually reviewed: 24 + 14 retained stable witnesses, one exact prior native frame26100 carry, and 17 newly recovered witnesses.
+- Strict all-27,922-frame technical, packet/NAL and canonical-audio checks passed for the same final SHA256 `2a3f4119af00ad10d68fcedd2de682c4444d9c53dd1aa710c1439c3d323404ac` (74,429,926 bytes).
+- New recovery child EXIT0_REAPED; original session OPEN_UNRESOLVED and original locks STILL_HELD_UNMODIFIED.
+- No subjective listening claim. AAC alignment is not byte-identical lossy PCM, ASR or a new continuous playback review.
+
+The 09:46 acceptance artifact itself still says durability/publication pending; it must not be rewritten to pretend it already contained the later external verification. Root subsequently verified durable Space version 2 and YouTube scheduling for `kisAuZYFOEc` on **2026-11-11 at 19:00 Cairo**, with the superseded item identified by root as `UF-MX` set Private. This is attributed root platform verification, not a new independent browser check by the compiler. Scheduled is not already public.
+
+### Separate lifecycle debt remains open
+Original session 52300 and its held leases remain an independent cleanup incident. Successful output review, storage and scheduling do **not** imply that old processes were stopped or locks released. No continued-production exception is inferred from the one-time recovery approval. Any future work must reconcile live ownership/resource needs and obtain its own scope/resource decision; never automatically reuse an exception or silently replace a lockfile.
+
+### Future source-only lifecycle contract
+Source proposal `playbook-draft/DECODER-LIFECYCLE-CONTRACT-20261030.md`, SHA256 `33c7ae78b8f5de0e8cafdf54f326deccf5ab171326ed66b04354247045047ad7`, records these requirements for future decoders:
+- Journal exact input/ordinal/authorization/output identities and verified newly owned PID, namespace, start time and process group where supported.
+- Cover process creation, pipe reads, image conversion, budget checks and cleanup with an exception-safe lifecycle and monotonic total deadline; use bounded/nonblocking I/O and bounded stderr logs.
+- Close/drain pipes, TERM only the verified owned child/group, wait at most five seconds, then bounded kill/reap fallback; failure receipts must report actual closure rather than assume it.
+- Retain original application lease identities until inheriting children really close. Explicit coexistence authority is not a security exemption or evidence of old lease release.
+- Pre-encode JPEG bytes and reserve metadata/telemetry before writing; prefer small exact-frame batches with actual review/archive/release between them.
+- Test stdout saturation, budget exceptions, timeout/controller interruption, refusal to allocate beyond declared limits, retained completed hashes and eventual lock availability only after true closure.
+
+That document is **source-only future engineering**, not proof that every proposed test was run, not permission to change system limits, and not a fix for the still-open original process. Preserve the distinction between proved one-time media recovery and unclosed lifecycle debt.
