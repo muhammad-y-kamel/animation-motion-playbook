@@ -294,3 +294,12 @@ Evidence: [additive successful 17-frame recovery with original cleanup OPEN](ent
 - [ ] Recheck the whole connected silhouette and real thumb/card depth at original native resolution, including proximal exit and captions; preserve failed split-mask trials.
 - [ ] Carry only the exact reviewed scope. Four selected native stills do not clear transfer/release motion, neighboring cuts, final episode/audio or portrait adaptation.
 Evidence: [E04 v5–v7 tag-mask trial history and exact four-still receipts](entries/HAKAWI-E04-TAG-MASK-20261030.md).
+
+
+## Bounded two-child runtime and decoder gate — E04
+- [ ] After draining pipes, unconditionally require both owned children reaped with exit0; repeat at finalization. Encoder error-level stderr and missing/duplicate/wrong renderer completion force HOLD even with a nonempty MP4.
+- [ ] Keep raw stderr channels for split receipt parsing. Do not confuse an in-loop return-code check or a unit test with terminal race closure under actual execution.
+- [ ] Scope threads per input/output/filter; measure renderer and encoder separately. Freeze task-specific AS/DATA/RSS/stack/thread limits and actual parent-hard/child inheritance; no implicit cap increases or global-memory guarantees.
+- [ ] Preserve failed output/false receipt with additive HOLD. Bound diagnostics and pre-encode image bytes before quota writes; maintain inherited leases and bounded owned-child reap.
+- [ ] Verify complete decoded ordinals/PTS plus canonical PCM bytes AND audio origin/cadence. State thumbnail/native/real-time/listening scopes separately; one pilot does not accept the episode.
+Evidence: [E04 measured pilot and retained failed trials](entries/HAKAWI-E04-RUNTIME-PILOT-20261030.md). Renderer EPIPE listener itself remains unchanged; terminal guard now rejects its nonzero failure.
