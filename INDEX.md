@@ -175,3 +175,8 @@ AnswerAct reference final04 delivered with1852initial-frame review,704changed+16
 
 ## E04 shutter cuts, historical carry and freeze race — 2026-10-30
 - [HAKAWI-E04-DISCRETE-FREEZE-20261030](entries/HAKAWI-E04-DISCRETE-FREEZE-20261030.md): sampled wide/detail G1951 repaired with central discrete/caption clock and six-native scoped root pass. G9857 caption mismatch rejected blanket carry; fresh196-frame tag7 proof plus1,677 exact symbolic samples support explicitly historical other-three evidence. Post-freeze test-writer race forced v7 HOLD/additive v8; prospective24MiB QA allowance retains JPEG94/88 and coverage. Full-film/audio-listening/publication gates remain separate.
+
+
+## Source anatomy, registered children and actual metadata gates — 2026-10-30
+- [WHATIF-SOURCE-LIFECYCLE-20261030](entries/WHATIF-SOURCE-LIFECYCLE-20261030.md): v010 anatomical rejection despite topology pass; v011 source-only forward-knee/hinge repair, v004 actual registered-child qualification versus old resource withdrawal, and six-still per-write reservation regression. Native/current-film gates remain separate.
+- [HAKAWI-E04-QA-SCHEMA-WORD-CUES-20261030](entries/HAKAWI-E04-QA-SCHEMA-WORD-CUES-20261030.md): additive QA-only recovery from missing nested actual-GO authorization, all20 downstream metadata schema checks, exact word-start actor cues and six-native scoped evidence. Full changed motion/film/audio listening remain separate.

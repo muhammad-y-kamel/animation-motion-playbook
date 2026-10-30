@@ -1,0 +1,205 @@
+{
+  "status": "PASS_20_ACTUAL_GO_SCHEMA_ROWS_NO_FUTURE_MEDIA_CLAIM",
+  "rows": [
+    {
+      "windowId": "return-restition-existing-1",
+      "status": "NESTED_AUTH_SCHEMA_VALIDATED_AGAINST_ACTUAL_GO",
+      "authorization": {
+        "status": "ROOT_APPROVED_EXACT_FRESH_RUNTIME_INVENTORY",
+        "sha256": "af8732012afab06890e4f2fa00fea908dc887791fdeb2c4ae53b4b0fcfe6e553",
+        "fileCount": 437,
+        "bootId": "01b20354-c996-45bd-a52d-4fbd4c679fce"
+      }
+    },
+    {
+      "windowId": "return-restition-existing-2",
+      "status": "NESTED_AUTH_SCHEMA_VALIDATED_AGAINST_ACTUAL_GO",
+      "authorization": {
+        "status": "ROOT_APPROVED_EXACT_FRESH_RUNTIME_INVENTORY",
+        "sha256": "af8732012afab06890e4f2fa00fea908dc887791fdeb2c4ae53b4b0fcfe6e553",
+        "fileCount": 437,
+        "bootId": "01b20354-c996-45bd-a52d-4fbd4c679fce"
+      }
+    },
+    {
+      "windowId": "return-restition-existing-3",
+      "status": "NESTED_AUTH_SCHEMA_VALIDATED_AGAINST_ACTUAL_GO",
+      "authorization": {
+        "status": "ROOT_APPROVED_EXACT_FRESH_RUNTIME_INVENTORY",
+        "sha256": "af8732012afab06890e4f2fa00fea908dc887791fdeb2c4ae53b4b0fcfe6e553",
+        "fileCount": 437,
+        "bootId": "01b20354-c996-45bd-a52d-4fbd4c679fce"
+      }
+    },
+    {
+      "windowId": "return-restition-existing-4",
+      "status": "NESTED_AUTH_SCHEMA_VALIDATED_AGAINST_ACTUAL_GO",
+      "authorization": {
+        "status": "ROOT_APPROVED_EXACT_FRESH_RUNTIME_INVENTORY",
+        "sha256": "af8732012afab06890e4f2fa00fea908dc887791fdeb2c4ae53b4b0fcfe6e553",
+        "fileCount": 437,
+        "bootId": "01b20354-c996-45bd-a52d-4fbd4c679fce"
+      }
+    },
+    {
+      "windowId": "return-restition-existing-5",
+      "status": "NESTED_AUTH_SCHEMA_VALIDATED_AGAINST_ACTUAL_GO",
+      "authorization": {
+        "status": "ROOT_APPROVED_EXACT_FRESH_RUNTIME_INVENTORY",
+        "sha256": "af8732012afab06890e4f2fa00fea908dc887791fdeb2c4ae53b4b0fcfe6e553",
+        "fileCount": 437,
+        "bootId": "01b20354-c996-45bd-a52d-4fbd4c679fce"
+      }
+    },
+    {
+      "windowId": "return-restition-existing-6",
+      "status": "NESTED_AUTH_SCHEMA_VALIDATED_AGAINST_ACTUAL_GO",
+      "authorization": {
+        "status": "ROOT_APPROVED_EXACT_FRESH_RUNTIME_INVENTORY",
+        "sha256": "af8732012afab06890e4f2fa00fea908dc887791fdeb2c4ae53b4b0fcfe6e553",
+        "fileCount": 437,
+        "bootId": "01b20354-c996-45bd-a52d-4fbd4c679fce"
+      }
+    },
+    {
+      "windowId": "furniture-sale-1",
+      "status": "NESTED_AUTH_SCHEMA_VALIDATED_AGAINST_ACTUAL_GO",
+      "authorization": {
+        "status": "ROOT_APPROVED_EXACT_FRESH_RUNTIME_INVENTORY",
+        "sha256": "af8732012afab06890e4f2fa00fea908dc887791fdeb2c4ae53b4b0fcfe6e553",
+        "fileCount": 437,
+        "bootId": "01b20354-c996-45bd-a52d-4fbd4c679fce"
+      }
+    },
+    {
+      "windowId": "phone-to-recording-1",
+      "status": "NESTED_AUTH_SCHEMA_VALIDATED_AGAINST_ACTUAL_GO",
+      "authorization": {
+        "status": "ROOT_APPROVED_EXACT_FRESH_RUNTIME_INVENTORY",
+        "sha256": "af8732012afab06890e4f2fa00fea908dc887791fdeb2c4ae53b4b0fcfe6e553",
+        "fileCount": 437,
+        "bootId": "01b20354-c996-45bd-a52d-4fbd4c679fce"
+      }
+    },
+    {
+      "windowId": "phone-to-recording-2",
+      "status": "NESTED_AUTH_SCHEMA_VALIDATED_AGAINST_ACTUAL_GO",
+      "authorization": {
+        "status": "ROOT_APPROVED_EXACT_FRESH_RUNTIME_INVENTORY",
+        "sha256": "af8732012afab06890e4f2fa00fea908dc887791fdeb2c4ae53b4b0fcfe6e553",
+        "fileCount": 437,
+        "bootId": "01b20354-c996-45bd-a52d-4fbd4c679fce"
+      }
+    },
+    {
+      "windowId": "cctv-all-excerpts-1",
+      "status": "NESTED_AUTH_SCHEMA_VALIDATED_AGAINST_ACTUAL_GO",
+      "authorization": {
+        "status": "ROOT_APPROVED_EXACT_FRESH_RUNTIME_INVENTORY",
+        "sha256": "af8732012afab06890e4f2fa00fea908dc887791fdeb2c4ae53b4b0fcfe6e553",
+        "fileCount": 437,
+        "bootId": "01b20354-c996-45bd-a52d-4fbd4c679fce"
+      }
+    },
+    {
+      "windowId": "cctv-all-excerpts-2",
+      "status": "NESTED_AUTH_SCHEMA_VALIDATED_AGAINST_ACTUAL_GO",
+      "authorization": {
+        "status": "ROOT_APPROVED_EXACT_FRESH_RUNTIME_INVENTORY",
+        "sha256": "af8732012afab06890e4f2fa00fea908dc887791fdeb2c4ae53b4b0fcfe6e553",
+        "fileCount": 437,
+        "bootId": "01b20354-c996-45bd-a52d-4fbd4c679fce"
+      }
+    },
+    {
+      "windowId": "cctv-all-excerpts-3",
+      "status": "NESTED_AUTH_SCHEMA_VALIDATED_AGAINST_ACTUAL_GO",
+      "authorization": {
+        "status": "ROOT_APPROVED_EXACT_FRESH_RUNTIME_INVENTORY",
+        "sha256": "af8732012afab06890e4f2fa00fea908dc887791fdeb2c4ae53b4b0fcfe6e553",
+        "fileCount": 437,
+        "bootId": "01b20354-c996-45bd-a52d-4fbd4c679fce"
+      }
+    },
+    {
+      "windowId": "furniture-sale-2",
+      "status": "NESTED_AUTH_SCHEMA_VALIDATED_AGAINST_ACTUAL_GO",
+      "authorization": {
+        "status": "ROOT_APPROVED_EXACT_FRESH_RUNTIME_INVENTORY",
+        "sha256": "af8732012afab06890e4f2fa00fea908dc887791fdeb2c4ae53b4b0fcfe6e553",
+        "fileCount": 437,
+        "bootId": "01b20354-c996-45bd-a52d-4fbd4c679fce"
+      }
+    },
+    {
+      "windowId": "ending-approach-notice-ignore-1",
+      "status": "NESTED_AUTH_SCHEMA_VALIDATED_AGAINST_ACTUAL_GO",
+      "authorization": {
+        "status": "ROOT_APPROVED_EXACT_FRESH_RUNTIME_INVENTORY",
+        "sha256": "af8732012afab06890e4f2fa00fea908dc887791fdeb2c4ae53b4b0fcfe6e553",
+        "fileCount": 437,
+        "bootId": "01b20354-c996-45bd-a52d-4fbd4c679fce"
+      }
+    },
+    {
+      "windowId": "ending-approach-notice-ignore-2",
+      "status": "NESTED_AUTH_SCHEMA_VALIDATED_AGAINST_ACTUAL_GO",
+      "authorization": {
+        "status": "ROOT_APPROVED_EXACT_FRESH_RUNTIME_INVENTORY",
+        "sha256": "af8732012afab06890e4f2fa00fea908dc887791fdeb2c4ae53b4b0fcfe6e553",
+        "fileCount": 437,
+        "bootId": "01b20354-c996-45bd-a52d-4fbd4c679fce"
+      }
+    },
+    {
+      "windowId": "ending-hold-exit-1",
+      "status": "NESTED_AUTH_SCHEMA_VALIDATED_AGAINST_ACTUAL_GO",
+      "authorization": {
+        "status": "ROOT_APPROVED_EXACT_FRESH_RUNTIME_INVENTORY",
+        "sha256": "af8732012afab06890e4f2fa00fea908dc887791fdeb2c4ae53b4b0fcfe6e553",
+        "fileCount": 437,
+        "bootId": "01b20354-c996-45bd-a52d-4fbd4c679fce"
+      }
+    },
+    {
+      "windowId": "office-fee-1",
+      "status": "NESTED_AUTH_SCHEMA_VALIDATED_AGAINST_ACTUAL_GO",
+      "authorization": {
+        "status": "ROOT_APPROVED_EXACT_FRESH_RUNTIME_INVENTORY",
+        "sha256": "af8732012afab06890e4f2fa00fea908dc887791fdeb2c4ae53b4b0fcfe6e553",
+        "fileCount": 437,
+        "bootId": "01b20354-c996-45bd-a52d-4fbd4c679fce"
+      }
+    },
+    {
+      "windowId": "direct-contract-ticket-1",
+      "status": "NESTED_AUTH_SCHEMA_VALIDATED_AGAINST_ACTUAL_GO",
+      "authorization": {
+        "status": "ROOT_APPROVED_EXACT_FRESH_RUNTIME_INVENTORY",
+        "sha256": "af8732012afab06890e4f2fa00fea908dc887791fdeb2c4ae53b4b0fcfe6e553",
+        "fileCount": 437,
+        "bootId": "01b20354-c996-45bd-a52d-4fbd4c679fce"
+      }
+    },
+    {
+      "windowId": "work-washing-1",
+      "status": "NESTED_AUTH_SCHEMA_VALIDATED_AGAINST_ACTUAL_GO",
+      "authorization": {
+        "status": "ROOT_APPROVED_EXACT_FRESH_RUNTIME_INVENTORY",
+        "sha256": "af8732012afab06890e4f2fa00fea908dc887791fdeb2c4ae53b4b0fcfe6e553",
+        "fileCount": 437,
+        "bootId": "01b20354-c996-45bd-a52d-4fbd4c679fce"
+      }
+    },
+    {
+      "windowId": "rejection-posecut-1",
+      "status": "NESTED_AUTH_SCHEMA_VALIDATED_AGAINST_ACTUAL_GO",
+      "authorization": {
+        "status": "ROOT_APPROVED_EXACT_FRESH_RUNTIME_INVENTORY",
+        "sha256": "af8732012afab06890e4f2fa00fea908dc887791fdeb2c4ae53b4b0fcfe6e553",
+        "fileCount": 437,
+        "bootId": "01b20354-c996-45bd-a52d-4fbd4c679fce"
+      }
+    }
+  ]
+}

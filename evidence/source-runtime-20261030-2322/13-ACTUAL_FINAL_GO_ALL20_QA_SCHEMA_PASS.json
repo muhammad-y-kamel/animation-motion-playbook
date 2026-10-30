@@ -1,0 +1,308 @@
+{
+  "status": "ALL20_QA_METADATA_SCHEMA_PASS",
+  "rows": [
+    {
+      "windowId": "return-restition-existing-1",
+      "assignment": {
+        "windowId": "return-restition-existing-1",
+        "qaSlotId": "slot-1",
+        "phaseDirectory": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/motion-preflight-v19-word-cues/controls/qa-return-restition-existing-1"
+      },
+      "freshRuntimeInventoryAuthorization": {
+        "status": "ROOT_APPROVED_EXACT_FRESH_RUNTIME_INVENTORY",
+        "sha256": "af8732012afab06890e4f2fa00fea908dc887791fdeb2c4ae53b4b0fcfe6e553",
+        "fileCount": 437,
+        "bootId": "01b20354-c996-45bd-a52d-4fbd4c679fce"
+      },
+      "status": "COMPLETE_METADATA_SCHEMA_PASS_NO_FUTURE_MEDIA_CLAIM"
+    },
+    {
+      "windowId": "return-restition-existing-2",
+      "assignment": {
+        "windowId": "return-restition-existing-2",
+        "qaSlotId": "slot-2",
+        "phaseDirectory": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/motion-preflight-v19-word-cues/controls/qa-return-restition-existing-2"
+      },
+      "freshRuntimeInventoryAuthorization": {
+        "status": "ROOT_APPROVED_EXACT_FRESH_RUNTIME_INVENTORY",
+        "sha256": "af8732012afab06890e4f2fa00fea908dc887791fdeb2c4ae53b4b0fcfe6e553",
+        "fileCount": 437,
+        "bootId": "01b20354-c996-45bd-a52d-4fbd4c679fce"
+      },
+      "status": "COMPLETE_METADATA_SCHEMA_PASS_NO_FUTURE_MEDIA_CLAIM"
+    },
+    {
+      "windowId": "return-restition-existing-3",
+      "assignment": {
+        "windowId": "return-restition-existing-3",
+        "qaSlotId": "slot-3",
+        "phaseDirectory": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/motion-preflight-v19-word-cues/controls/qa-return-restition-existing-3"
+      },
+      "freshRuntimeInventoryAuthorization": {
+        "status": "ROOT_APPROVED_EXACT_FRESH_RUNTIME_INVENTORY",
+        "sha256": "af8732012afab06890e4f2fa00fea908dc887791fdeb2c4ae53b4b0fcfe6e553",
+        "fileCount": 437,
+        "bootId": "01b20354-c996-45bd-a52d-4fbd4c679fce"
+      },
+      "status": "COMPLETE_METADATA_SCHEMA_PASS_NO_FUTURE_MEDIA_CLAIM"
+    },
+    {
+      "windowId": "return-restition-existing-4",
+      "assignment": {
+        "windowId": "return-restition-existing-4",
+        "qaSlotId": "slot-4",
+        "phaseDirectory": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/motion-preflight-v19-word-cues/controls/qa-return-restition-existing-4"
+      },
+      "freshRuntimeInventoryAuthorization": {
+        "status": "ROOT_APPROVED_EXACT_FRESH_RUNTIME_INVENTORY",
+        "sha256": "af8732012afab06890e4f2fa00fea908dc887791fdeb2c4ae53b4b0fcfe6e553",
+        "fileCount": 437,
+        "bootId": "01b20354-c996-45bd-a52d-4fbd4c679fce"
+      },
+      "status": "COMPLETE_METADATA_SCHEMA_PASS_NO_FUTURE_MEDIA_CLAIM"
+    },
+    {
+      "windowId": "return-restition-existing-5",
+      "assignment": {
+        "windowId": "return-restition-existing-5",
+        "qaSlotId": "slot-1",
+        "phaseDirectory": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/motion-preflight-v19-word-cues/controls/qa-return-restition-existing-5"
+      },
+      "freshRuntimeInventoryAuthorization": {
+        "status": "ROOT_APPROVED_EXACT_FRESH_RUNTIME_INVENTORY",
+        "sha256": "af8732012afab06890e4f2fa00fea908dc887791fdeb2c4ae53b4b0fcfe6e553",
+        "fileCount": 437,
+        "bootId": "01b20354-c996-45bd-a52d-4fbd4c679fce"
+      },
+      "status": "COMPLETE_METADATA_SCHEMA_PASS_NO_FUTURE_MEDIA_CLAIM"
+    },
+    {
+      "windowId": "return-restition-existing-6",
+      "assignment": {
+        "windowId": "return-restition-existing-6",
+        "qaSlotId": "slot-2",
+        "phaseDirectory": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/motion-preflight-v19-word-cues/controls/qa-return-restition-existing-6"
+      },
+      "freshRuntimeInventoryAuthorization": {
+        "status": "ROOT_APPROVED_EXACT_FRESH_RUNTIME_INVENTORY",
+        "sha256": "af8732012afab06890e4f2fa00fea908dc887791fdeb2c4ae53b4b0fcfe6e553",
+        "fileCount": 437,
+        "bootId": "01b20354-c996-45bd-a52d-4fbd4c679fce"
+      },
+      "status": "COMPLETE_METADATA_SCHEMA_PASS_NO_FUTURE_MEDIA_CLAIM"
+    },
+    {
+      "windowId": "furniture-sale-1",
+      "assignment": {
+        "windowId": "furniture-sale-1",
+        "qaSlotId": "slot-3",
+        "phaseDirectory": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/motion-preflight-v19-word-cues/controls/qa-furniture-sale-1"
+      },
+      "freshRuntimeInventoryAuthorization": {
+        "status": "ROOT_APPROVED_EXACT_FRESH_RUNTIME_INVENTORY",
+        "sha256": "af8732012afab06890e4f2fa00fea908dc887791fdeb2c4ae53b4b0fcfe6e553",
+        "fileCount": 437,
+        "bootId": "01b20354-c996-45bd-a52d-4fbd4c679fce"
+      },
+      "status": "COMPLETE_METADATA_SCHEMA_PASS_NO_FUTURE_MEDIA_CLAIM"
+    },
+    {
+      "windowId": "phone-to-recording-1",
+      "assignment": {
+        "windowId": "phone-to-recording-1",
+        "qaSlotId": "slot-4",
+        "phaseDirectory": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/motion-preflight-v19-word-cues/controls/qa-phone-to-recording-1"
+      },
+      "freshRuntimeInventoryAuthorization": {
+        "status": "ROOT_APPROVED_EXACT_FRESH_RUNTIME_INVENTORY",
+        "sha256": "af8732012afab06890e4f2fa00fea908dc887791fdeb2c4ae53b4b0fcfe6e553",
+        "fileCount": 437,
+        "bootId": "01b20354-c996-45bd-a52d-4fbd4c679fce"
+      },
+      "status": "COMPLETE_METADATA_SCHEMA_PASS_NO_FUTURE_MEDIA_CLAIM"
+    },
+    {
+      "windowId": "phone-to-recording-2",
+      "assignment": {
+        "windowId": "phone-to-recording-2",
+        "qaSlotId": "slot-1",
+        "phaseDirectory": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/motion-preflight-v19-word-cues/controls/qa-phone-to-recording-2"
+      },
+      "freshRuntimeInventoryAuthorization": {
+        "status": "ROOT_APPROVED_EXACT_FRESH_RUNTIME_INVENTORY",
+        "sha256": "af8732012afab06890e4f2fa00fea908dc887791fdeb2c4ae53b4b0fcfe6e553",
+        "fileCount": 437,
+        "bootId": "01b20354-c996-45bd-a52d-4fbd4c679fce"
+      },
+      "status": "COMPLETE_METADATA_SCHEMA_PASS_NO_FUTURE_MEDIA_CLAIM"
+    },
+    {
+      "windowId": "cctv-all-excerpts-1",
+      "assignment": {
+        "windowId": "cctv-all-excerpts-1",
+        "qaSlotId": "slot-2",
+        "phaseDirectory": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/motion-preflight-v19-word-cues/controls/qa-cctv-all-excerpts-1"
+      },
+      "freshRuntimeInventoryAuthorization": {
+        "status": "ROOT_APPROVED_EXACT_FRESH_RUNTIME_INVENTORY",
+        "sha256": "af8732012afab06890e4f2fa00fea908dc887791fdeb2c4ae53b4b0fcfe6e553",
+        "fileCount": 437,
+        "bootId": "01b20354-c996-45bd-a52d-4fbd4c679fce"
+      },
+      "status": "COMPLETE_METADATA_SCHEMA_PASS_NO_FUTURE_MEDIA_CLAIM"
+    },
+    {
+      "windowId": "cctv-all-excerpts-2",
+      "assignment": {
+        "windowId": "cctv-all-excerpts-2",
+        "qaSlotId": "slot-3",
+        "phaseDirectory": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/motion-preflight-v19-word-cues/controls/qa-cctv-all-excerpts-2"
+      },
+      "freshRuntimeInventoryAuthorization": {
+        "status": "ROOT_APPROVED_EXACT_FRESH_RUNTIME_INVENTORY",
+        "sha256": "af8732012afab06890e4f2fa00fea908dc887791fdeb2c4ae53b4b0fcfe6e553",
+        "fileCount": 437,
+        "bootId": "01b20354-c996-45bd-a52d-4fbd4c679fce"
+      },
+      "status": "COMPLETE_METADATA_SCHEMA_PASS_NO_FUTURE_MEDIA_CLAIM"
+    },
+    {
+      "windowId": "cctv-all-excerpts-3",
+      "assignment": {
+        "windowId": "cctv-all-excerpts-3",
+        "qaSlotId": "slot-4",
+        "phaseDirectory": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/motion-preflight-v19-word-cues/controls/qa-cctv-all-excerpts-3"
+      },
+      "freshRuntimeInventoryAuthorization": {
+        "status": "ROOT_APPROVED_EXACT_FRESH_RUNTIME_INVENTORY",
+        "sha256": "af8732012afab06890e4f2fa00fea908dc887791fdeb2c4ae53b4b0fcfe6e553",
+        "fileCount": 437,
+        "bootId": "01b20354-c996-45bd-a52d-4fbd4c679fce"
+      },
+      "status": "COMPLETE_METADATA_SCHEMA_PASS_NO_FUTURE_MEDIA_CLAIM"
+    },
+    {
+      "windowId": "furniture-sale-2",
+      "assignment": {
+        "windowId": "furniture-sale-2",
+        "qaSlotId": "slot-1",
+        "phaseDirectory": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/motion-preflight-v19-word-cues/controls/qa-furniture-sale-2"
+      },
+      "freshRuntimeInventoryAuthorization": {
+        "status": "ROOT_APPROVED_EXACT_FRESH_RUNTIME_INVENTORY",
+        "sha256": "af8732012afab06890e4f2fa00fea908dc887791fdeb2c4ae53b4b0fcfe6e553",
+        "fileCount": 437,
+        "bootId": "01b20354-c996-45bd-a52d-4fbd4c679fce"
+      },
+      "status": "COMPLETE_METADATA_SCHEMA_PASS_NO_FUTURE_MEDIA_CLAIM"
+    },
+    {
+      "windowId": "ending-approach-notice-ignore-1",
+      "assignment": {
+        "windowId": "ending-approach-notice-ignore-1",
+        "qaSlotId": "slot-2",
+        "phaseDirectory": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/motion-preflight-v19-word-cues/controls/qa-ending-approach-notice-ignore-1"
+      },
+      "freshRuntimeInventoryAuthorization": {
+        "status": "ROOT_APPROVED_EXACT_FRESH_RUNTIME_INVENTORY",
+        "sha256": "af8732012afab06890e4f2fa00fea908dc887791fdeb2c4ae53b4b0fcfe6e553",
+        "fileCount": 437,
+        "bootId": "01b20354-c996-45bd-a52d-4fbd4c679fce"
+      },
+      "status": "COMPLETE_METADATA_SCHEMA_PASS_NO_FUTURE_MEDIA_CLAIM"
+    },
+    {
+      "windowId": "ending-approach-notice-ignore-2",
+      "assignment": {
+        "windowId": "ending-approach-notice-ignore-2",
+        "qaSlotId": "slot-3",
+        "phaseDirectory": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/motion-preflight-v19-word-cues/controls/qa-ending-approach-notice-ignore-2"
+      },
+      "freshRuntimeInventoryAuthorization": {
+        "status": "ROOT_APPROVED_EXACT_FRESH_RUNTIME_INVENTORY",
+        "sha256": "af8732012afab06890e4f2fa00fea908dc887791fdeb2c4ae53b4b0fcfe6e553",
+        "fileCount": 437,
+        "bootId": "01b20354-c996-45bd-a52d-4fbd4c679fce"
+      },
+      "status": "COMPLETE_METADATA_SCHEMA_PASS_NO_FUTURE_MEDIA_CLAIM"
+    },
+    {
+      "windowId": "ending-hold-exit-1",
+      "assignment": {
+        "windowId": "ending-hold-exit-1",
+        "qaSlotId": "slot-4",
+        "phaseDirectory": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/motion-preflight-v19-word-cues/controls/qa-ending-hold-exit-1"
+      },
+      "freshRuntimeInventoryAuthorization": {
+        "status": "ROOT_APPROVED_EXACT_FRESH_RUNTIME_INVENTORY",
+        "sha256": "af8732012afab06890e4f2fa00fea908dc887791fdeb2c4ae53b4b0fcfe6e553",
+        "fileCount": 437,
+        "bootId": "01b20354-c996-45bd-a52d-4fbd4c679fce"
+      },
+      "status": "COMPLETE_METADATA_SCHEMA_PASS_NO_FUTURE_MEDIA_CLAIM"
+    },
+    {
+      "windowId": "office-fee-1",
+      "assignment": {
+        "windowId": "office-fee-1",
+        "qaSlotId": "slot-1",
+        "phaseDirectory": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/motion-preflight-v19-word-cues/controls/qa-office-fee-1"
+      },
+      "freshRuntimeInventoryAuthorization": {
+        "status": "ROOT_APPROVED_EXACT_FRESH_RUNTIME_INVENTORY",
+        "sha256": "af8732012afab06890e4f2fa00fea908dc887791fdeb2c4ae53b4b0fcfe6e553",
+        "fileCount": 437,
+        "bootId": "01b20354-c996-45bd-a52d-4fbd4c679fce"
+      },
+      "status": "COMPLETE_METADATA_SCHEMA_PASS_NO_FUTURE_MEDIA_CLAIM"
+    },
+    {
+      "windowId": "direct-contract-ticket-1",
+      "assignment": {
+        "windowId": "direct-contract-ticket-1",
+        "qaSlotId": "slot-2",
+        "phaseDirectory": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/motion-preflight-v19-word-cues/controls/qa-direct-contract-ticket-1"
+      },
+      "freshRuntimeInventoryAuthorization": {
+        "status": "ROOT_APPROVED_EXACT_FRESH_RUNTIME_INVENTORY",
+        "sha256": "af8732012afab06890e4f2fa00fea908dc887791fdeb2c4ae53b4b0fcfe6e553",
+        "fileCount": 437,
+        "bootId": "01b20354-c996-45bd-a52d-4fbd4c679fce"
+      },
+      "status": "COMPLETE_METADATA_SCHEMA_PASS_NO_FUTURE_MEDIA_CLAIM"
+    },
+    {
+      "windowId": "work-washing-1",
+      "assignment": {
+        "windowId": "work-washing-1",
+        "qaSlotId": "slot-3",
+        "phaseDirectory": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/motion-preflight-v19-word-cues/controls/qa-work-washing-1"
+      },
+      "freshRuntimeInventoryAuthorization": {
+        "status": "ROOT_APPROVED_EXACT_FRESH_RUNTIME_INVENTORY",
+        "sha256": "af8732012afab06890e4f2fa00fea908dc887791fdeb2c4ae53b4b0fcfe6e553",
+        "fileCount": 437,
+        "bootId": "01b20354-c996-45bd-a52d-4fbd4c679fce"
+      },
+      "status": "COMPLETE_METADATA_SCHEMA_PASS_NO_FUTURE_MEDIA_CLAIM"
+    },
+    {
+      "windowId": "rejection-posecut-1",
+      "assignment": {
+        "windowId": "rejection-posecut-1",
+        "qaSlotId": "slot-4",
+        "phaseDirectory": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/motion-preflight-v19-word-cues/controls/qa-rejection-posecut-1"
+      },
+      "freshRuntimeInventoryAuthorization": {
+        "status": "ROOT_APPROVED_EXACT_FRESH_RUNTIME_INVENTORY",
+        "sha256": "af8732012afab06890e4f2fa00fea908dc887791fdeb2c4ae53b4b0fcfe6e553",
+        "fileCount": 437,
+        "bootId": "01b20354-c996-45bd-a52d-4fbd4c679fce"
+      },
+      "status": "COMPLETE_METADATA_SCHEMA_PASS_NO_FUTURE_MEDIA_CLAIM"
+    }
+  ],
+  "scope": "Actual standing authority metadata only. Every later encoder closure/media hash/slot/decoder admission still separately fail-closed.",
+  "planSha256": "5ff9e0199eacedeb013957e0d778d2307128f47adeeb13924474d40ed40aa861",
+  "standingGoSha256": "a0b20689d7cd5006a3f9030f7c94cb3e7f812c120f4fac9b15ad8e4a3e558f7f"
+}

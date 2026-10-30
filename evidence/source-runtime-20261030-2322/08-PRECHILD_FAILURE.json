@@ -1,0 +1,25 @@
+{
+  "status": "METADATA_PREPARATION_FAILED_NO_QA_PHASE_OR_CHILD",
+  "failure": "KeyError: qaStandingAuthorization.freshRuntimeInventoryAuthorization at frozen build_bound_plan.py line134",
+  "rootCause": "Nested fresh runtime authorization omitted from prospective QA template; validate_standing_documents did not exercise prepare lookup.",
+  "standingPlan": {
+    "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/motion-preflight-v18-return-context/PLAN.json",
+    "sha256": "636b311c797109232bb4589d90c3a0148b23beba5729d3f772ff2c3396494a5a"
+  },
+  "standingGo": {
+    "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/motion-preflight-v18-return-context/GO.json",
+    "sha256": "f7f1c771cc197e35fe08484ebdeadb2000dcf578ac26eca11c9bb34470fe3938"
+  },
+  "closedEncoder": {
+    "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/motion-preflight-v18-return-context/controls/return-restition-existing-1/OWNED_PROCESSES.json",
+    "sha256": "d73a87d6f4cf0a17b9db7aa0025a88da8be6681ea1cc9a629abe08f5871058f8"
+  },
+  "encodedMedia": {
+    "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/motion-preflight-v18-return-context/retained/return-restition-existing-1/window.partial.mp4",
+    "bytes": 866206,
+    "sha256": "33c2b9d23b62fe373d0a76ef91893f6b3833ee0c3abbbcff397b5f4151383982"
+  },
+  "qaPhaseExists": false,
+  "qaSlotEmpty": true,
+  "policy": "Preserve original standing GO/journal. No rerender or fabricated metadata identity."
+}

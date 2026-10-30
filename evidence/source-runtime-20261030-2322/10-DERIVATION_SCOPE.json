@@ -1,0 +1,18 @@
+{
+  "originalBuilder": {
+    "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/planning-motion-v18-return-context/build_bound_plan.py",
+    "sha256": "6b3c295218f9c2d673e48bb35c8756f26ee9054c65257dc46721fe316d3fff67"
+  },
+  "changes": [
+    "Fixed runtime/test path bindings to frozen originals, since derivative resides separately.",
+    "Only missing nested authorization lookup replaced by validated explicit supplement.",
+    "Supplement+derivative provenance added to per-window PLAN and FREEZE."
+  ],
+  "unchanged": [
+    "Standing GO/journal/media identities",
+    "Full original frozen dependency rehash",
+    "QA runtime wrapper/engine",
+    "Caps/nativequality/PCM/PTS",
+    "Actual closed encoder and exact window/slot/empty proof checks"
+  ]
+}

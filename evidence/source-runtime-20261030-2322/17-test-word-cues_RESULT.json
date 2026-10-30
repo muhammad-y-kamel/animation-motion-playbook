@@ -1,0 +1,15 @@
+{
+  "status": "PURE_WORD_CUE_PASS_NOT_NATIVE_ACCEPTANCE",
+  "calls": 3786,
+  "wordsPinnedByFrozenInventory": true,
+  "cues": {
+    "returnStart": 23549,
+    "employer": 23823,
+    "reaction": 24096,
+    "mostafa": 24149,
+    "uncle": 24327,
+    "office": 24543,
+    "end": 24811
+  },
+  "limits": "Landmark/source bounds only; no native crop review or actual motion acceptance. Other copied predecessor test results are historical only."
+}

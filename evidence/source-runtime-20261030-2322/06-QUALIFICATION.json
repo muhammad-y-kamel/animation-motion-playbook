@@ -1,0 +1,410 @@
+{
+  "status": "RESOURCE_QUALIFICATION_CLOSED_EXISTING_VISUAL_EVIDENCE_BYTE_IDENTICAL",
+  "newRun": "channel-repair-inventory/whatif-milan-v009-silent-motion-admission-v004-20261030/run-portrait-20261030T223000Z",
+  "receiptSHA256": "b37b0c1e200db04ebebc87f8841d087b6d4eb0452bd2a2df9b9043a874d3ef85",
+  "priorRun": "channel-repair-inventory/whatif-milan-v009-silent-motion-admission-v002-20261030/run-portrait-20261030T220305Z",
+  "priorReviewPath": "channel-repair-inventory/whatif-milan-v009-portrait72-review-20261030/VISUAL_REVIEW.json",
+  "priorReviewSHA256": "81c9ab3fe68b421f7f8002b5bd1141936ffdc064412601d45b2f46e807f69341",
+  "videoSHA256": "4cfba5e9f74aab985864ac8d96d0da3d26b49741465c8045589252388582f2a6",
+  "exactVideoByteIdentity": true,
+  "decodedNativeFrameByteIdentity": [
+    {
+      "frame": 1,
+      "sha256": "5b5a20c93a6ebe37c7bab1f69fa9a92cf55a4d8e1dc2ac7ac0cf32c7bddeed63",
+      "priorReviewHashMatch": true
+    },
+    {
+      "frame": 2,
+      "sha256": "c25a6e7b0fb606f812d2d9602fa249b676133b1c56e72f1c57ba39af17827f8b",
+      "priorReviewHashMatch": true
+    },
+    {
+      "frame": 3,
+      "sha256": "595fb7f74a63bd426af093444359f1d77b4c78cd51b9cc361f1869b399e1236a",
+      "priorReviewHashMatch": true
+    },
+    {
+      "frame": 4,
+      "sha256": "6739415a8578cc0753f82c10a52fb66ab9785403302d81cee43184282235e2e3",
+      "priorReviewHashMatch": true
+    },
+    {
+      "frame": 5,
+      "sha256": "6115bab5c7cfc5b257285e24f72d2cc433ea53dbfbecfe992652ab7a5d244a7b",
+      "priorReviewHashMatch": true
+    },
+    {
+      "frame": 6,
+      "sha256": "080bd93f0c34aaa7df8714b601d23d2a0d8cf3d307bcdb5f1872d2c8cc5bc864",
+      "priorReviewHashMatch": true
+    },
+    {
+      "frame": 7,
+      "sha256": "50e094b2a85cfdd6492fbf9779b63751fa453d0ec420f9111036a9dd362375d8",
+      "priorReviewHashMatch": true
+    },
+    {
+      "frame": 8,
+      "sha256": "6a090ed7cb78aa97e86403f3b9869ca4fcddb8b6f11e5f4571636cc29c93bd9f",
+      "priorReviewHashMatch": true
+    },
+    {
+      "frame": 9,
+      "sha256": "4008a876e73df86b39c30f5844afb417c9f23187bbe14b4c3cec94699192ed87",
+      "priorReviewHashMatch": true
+    },
+    {
+      "frame": 10,
+      "sha256": "3bbda89d207349813d32bb0b322829e1cab6f0c0e199c12c6f092c8c2cd6ce6d",
+      "priorReviewHashMatch": true
+    },
+    {
+      "frame": 11,
+      "sha256": "27de2277faf601a6717d6117fe9e93336e5de25f6c41f2e7c45787c947b86873",
+      "priorReviewHashMatch": true
+    },
+    {
+      "frame": 12,
+      "sha256": "9ca6f31189fbac943b47250c5f79058cafba570b062e123148ac3cb26827ff4d",
+      "priorReviewHashMatch": true
+    },
+    {
+      "frame": 13,
+      "sha256": "1f5d4eb071c6668a7ce3f542eba8607646976ba535b5331816ab32c20a72270c",
+      "priorReviewHashMatch": true
+    },
+    {
+      "frame": 14,
+      "sha256": "bbbdf7b25ced0ae66bec1372db1ddd00f6209bfb3875682143f05824d62eac47",
+      "priorReviewHashMatch": true
+    },
+    {
+      "frame": 15,
+      "sha256": "ba437cebbf8c07f021dcab9c7dfdff147119bf51293b4b2e0fa00de0c6187537",
+      "priorReviewHashMatch": true
+    },
+    {
+      "frame": 16,
+      "sha256": "b8ffe465aec25faec462721c2cb8765390b33559b3278bed8f7fdd96f3d82655",
+      "priorReviewHashMatch": true
+    },
+    {
+      "frame": 17,
+      "sha256": "78c59c61ed6f8d0e64f891db82dc05c366fbde78b8d502f91b8cc2b7b435fdcf",
+      "priorReviewHashMatch": true
+    },
+    {
+      "frame": 18,
+      "sha256": "9979a9b590a33548febaae24d653554ee8843a8c213108257fab90fccf078158",
+      "priorReviewHashMatch": true
+    },
+    {
+      "frame": 19,
+      "sha256": "f87b8c500be115ee0ba90443382a8370b9c219b082a8f0c547b3083916aa8e05",
+      "priorReviewHashMatch": true
+    },
+    {
+      "frame": 20,
+      "sha256": "9f51c6f393bd909c8a8c3131b050c4c6fe274b2a674c9660e177c9e55fe8eacc",
+      "priorReviewHashMatch": true
+    },
+    {
+      "frame": 21,
+      "sha256": "de0b5f5bd1fa3f1a88497b8fffb6c3fd70ab18003e6745edea41de6a8ee63669",
+      "priorReviewHashMatch": true
+    },
+    {
+      "frame": 22,
+      "sha256": "cb405c4b07a66a589f233f490f1603f06ee19a7877b71b675591234e19bd18c7",
+      "priorReviewHashMatch": true
+    },
+    {
+      "frame": 23,
+      "sha256": "0d959f93cec35eaeaf5fc3c03e82d2a09cedc6572cf4510b9030e2a95716ed21",
+      "priorReviewHashMatch": true
+    },
+    {
+      "frame": 24,
+      "sha256": "5e1c939a16bf26099ebaa64a909b3aa45ea9ea9a6ae590bb7140c09ee5b3027d",
+      "priorReviewHashMatch": true
+    },
+    {
+      "frame": 25,
+      "sha256": "397792a0d635d7ed1ff700569986dfcdf2812d9cfa7dc4851ea0e36cda95000a",
+      "priorReviewHashMatch": true
+    },
+    {
+      "frame": 26,
+      "sha256": "ee859a195aafcbb909549776e3cb395df9793715c11c1be9f2d7e36036e08a0c",
+      "priorReviewHashMatch": true
+    },
+    {
+      "frame": 27,
+      "sha256": "beff1c559a78c748f23a78ae28c2c1d98ef4803c0632155de8b646d14bb61296",
+      "priorReviewHashMatch": true
+    },
+    {
+      "frame": 28,
+      "sha256": "1d71d95ace60d019969eaface36b409a561f7fd4e60e855465265387769e600f",
+      "priorReviewHashMatch": true
+    },
+    {
+      "frame": 29,
+      "sha256": "cd72966559232d2c964e896edf8f22dc9bb1ea64571a3da588d3075c46379f78",
+      "priorReviewHashMatch": true
+    },
+    {
+      "frame": 30,
+      "sha256": "19dbf5c96a26512fd51e7effd982b4386a6b50ca768783d3ec02a14ca224fac8",
+      "priorReviewHashMatch": true
+    },
+    {
+      "frame": 31,
+      "sha256": "cb33065d6153b5c9795ed32142dedf654c07724094884ea135ba58250c2c4bc1",
+      "priorReviewHashMatch": true
+    },
+    {
+      "frame": 32,
+      "sha256": "08d805aa6bb07b8a9bc81cbeead6eb8b10907e3b82cef7cb198e9d8069abaaad",
+      "priorReviewHashMatch": true
+    },
+    {
+      "frame": 33,
+      "sha256": "ec8a90d4456b1bfa6b807cbaef20714b33709a74414162b37f268e9b9fac7398",
+      "priorReviewHashMatch": true
+    },
+    {
+      "frame": 34,
+      "sha256": "3e07ce0d14fb4030cd7d3ab1319468306d10b97454ae2e6eec9bca57c521baa6",
+      "priorReviewHashMatch": true
+    },
+    {
+      "frame": 35,
+      "sha256": "7cc3a83b022cbfac33b79e95d53b69d91375f98ec0403027e07af92c63431d81",
+      "priorReviewHashMatch": true
+    },
+    {
+      "frame": 36,
+      "sha256": "2e1efd6d4f3a5cfa00f3b6e4d8b63c0862b52df908cdfa439cc7501d7126a7b8",
+      "priorReviewHashMatch": true
+    },
+    {
+      "frame": 37,
+      "sha256": "63389f4d5a0d6f388ee93d433f96adf94e175b18eee97554ea5034106936e9a7",
+      "priorReviewHashMatch": true
+    },
+    {
+      "frame": 38,
+      "sha256": "7b58a11dd4c479b7af6501ab2753ce3b14f68302910adfc3f885bff0c5258f58",
+      "priorReviewHashMatch": true
+    },
+    {
+      "frame": 39,
+      "sha256": "d11c7f2b3e590672e830ef3536594c50b4a85c9873472e2150e27868b6813815",
+      "priorReviewHashMatch": true
+    },
+    {
+      "frame": 40,
+      "sha256": "9f0a6507b0a0e23636b54354223ffb196ed46e09ef9fc0e96edb90698394c0c4",
+      "priorReviewHashMatch": true
+    },
+    {
+      "frame": 41,
+      "sha256": "5c66e83b54acc3414b776dcb6997281f733380af4a54fe6bec013e133d397b32",
+      "priorReviewHashMatch": true
+    },
+    {
+      "frame": 42,
+      "sha256": "e91f2a45ea24ec95c677c872ccbacf7f9874c3fd16280c633d81523c39775e54",
+      "priorReviewHashMatch": true
+    },
+    {
+      "frame": 43,
+      "sha256": "8c4b5e41f8bd3247f112c4a7a31593fd52c642ecd38f23eff43831446961806d",
+      "priorReviewHashMatch": true
+    },
+    {
+      "frame": 44,
+      "sha256": "27eb357e31f5f8d315bbbf7abb905bb88264c342c408d2807560b6bbf5cee51d",
+      "priorReviewHashMatch": true
+    },
+    {
+      "frame": 45,
+      "sha256": "fb4a53b4f87d6cc7f455b107561b705250f99a37a8c3583c9633a9f5bc353f49",
+      "priorReviewHashMatch": true
+    },
+    {
+      "frame": 46,
+      "sha256": "ad9de091b536e4d54c33de15307025f32f74dd923c9651572e8c27ccf1f1c27e",
+      "priorReviewHashMatch": true
+    },
+    {
+      "frame": 47,
+      "sha256": "e51cef1a942bc82d0a1d89ce9f2d00c71946feed0dd8c017823c75b2358a43f6",
+      "priorReviewHashMatch": true
+    },
+    {
+      "frame": 48,
+      "sha256": "0d6b738be4cf0c11251e1109226ab988dd6df9c3fc52192e652837ea1654f795",
+      "priorReviewHashMatch": true
+    },
+    {
+      "frame": 49,
+      "sha256": "b0f271d4c6f3d1efbc5b949de4624a44f5af2be98253cecfa80bfa53f0808638",
+      "priorReviewHashMatch": true
+    },
+    {
+      "frame": 50,
+      "sha256": "0694368a7128395f463e23d61e7c11f80ab2054fb81519d830d6f8928324d98e",
+      "priorReviewHashMatch": true
+    },
+    {
+      "frame": 51,
+      "sha256": "42bf8a21dcc2df5fcb53f7918dbb58946c7fbe42738123e68c86b7c441c4b2df",
+      "priorReviewHashMatch": true
+    },
+    {
+      "frame": 52,
+      "sha256": "d3acebb58f17eb502f77cb8dcdce5b9ff79d77108e6328389586308b9e4a27e2",
+      "priorReviewHashMatch": true
+    },
+    {
+      "frame": 53,
+      "sha256": "f89f3414755dffca1fc8d41c2225eb86e409394b2414d8dfd8fd137c48c712e4",
+      "priorReviewHashMatch": true
+    },
+    {
+      "frame": 54,
+      "sha256": "902dcc856c5ee0ce25de369add351bf0538231e6f55c65dad8b0ef132c8811ea",
+      "priorReviewHashMatch": true
+    },
+    {
+      "frame": 55,
+      "sha256": "bce1e2c33df269088340bfc91b5bfdf5a9e436a10860ff1ee33bcea58349b0cc",
+      "priorReviewHashMatch": true
+    },
+    {
+      "frame": 56,
+      "sha256": "87e264481eafb407e169cbe13ce42b32952235c94cbb8a2dddbbc78747b6c061",
+      "priorReviewHashMatch": true
+    },
+    {
+      "frame": 57,
+      "sha256": "1d62f2e03ba0d7f56ec36d473dc20beb85e7caa2759d2aa2641745328c9b0de5",
+      "priorReviewHashMatch": true
+    },
+    {
+      "frame": 58,
+      "sha256": "c0b5f15823cc129647b1b6894397a923fa19aded72149fae3c3349b9b89265bd",
+      "priorReviewHashMatch": true
+    },
+    {
+      "frame": 59,
+      "sha256": "7676c11cfd8e8e32eac093f066760a3e920901cf85543ff8feb466e0dcb77621",
+      "priorReviewHashMatch": true
+    },
+    {
+      "frame": 60,
+      "sha256": "f06e06f24494852e1467229805b4c51009c96a6a40096ba7b23be18d012c5660",
+      "priorReviewHashMatch": true
+    },
+    {
+      "frame": 61,
+      "sha256": "d53c6f415594953a463f6281e64f77a456498d189e928f5f4568734d3db4dcdd",
+      "priorReviewHashMatch": true
+    },
+    {
+      "frame": 62,
+      "sha256": "954990d9af16e871bd068edb5edd9cc90dd11e8634109ae1fd836c12ce7b32a1",
+      "priorReviewHashMatch": true
+    },
+    {
+      "frame": 63,
+      "sha256": "c676b2004a071822a8ecdcbbb3f56b9399814733f20a1894234f8b53180a306c",
+      "priorReviewHashMatch": true
+    },
+    {
+      "frame": 64,
+      "sha256": "54d9154def1751c4af1cfc4825fd7ad9ac33d9608ba795f9541011baa915cbac",
+      "priorReviewHashMatch": true
+    },
+    {
+      "frame": 65,
+      "sha256": "efa458fce42f5ab35f4fba101fb4a7c8d3a35f91ab56866eeb6a9b868aaded8b",
+      "priorReviewHashMatch": true
+    },
+    {
+      "frame": 66,
+      "sha256": "5bf3574b22eb62da241c7e3bde09596a0c6bcc0159cc58abb7f12570a85c2af8",
+      "priorReviewHashMatch": true
+    },
+    {
+      "frame": 67,
+      "sha256": "1d844de5a5e1f8bffefcdcf541a5cdd6ecbb3d646c865b687a612acf41c06959",
+      "priorReviewHashMatch": true
+    },
+    {
+      "frame": 68,
+      "sha256": "e144c0fc926a884e55d8338b4742af0f1b395bac560cfb9110881d0fb652d4c5",
+      "priorReviewHashMatch": true
+    },
+    {
+      "frame": 69,
+      "sha256": "71712df7112933c06f343a1a1e753afa7db5bb9116a7003812683e12f3e32983",
+      "priorReviewHashMatch": true
+    },
+    {
+      "frame": 70,
+      "sha256": "4c73bdf9cb9a7cd3b839d457657361b52983fcce219b62b0574dff6474a8614e",
+      "priorReviewHashMatch": true
+    },
+    {
+      "frame": 71,
+      "sha256": "66cfc2090f0bc716e1e9a9e575eb2a2448285d02ce66a90dc77accd664dac5af",
+      "priorReviewHashMatch": true
+    },
+    {
+      "frame": 72,
+      "sha256": "a70d948d1167bd7493928b749f212595ea4b4566d7c1605ef481f7ea704d487d",
+      "priorReviewHashMatch": true
+    }
+  ],
+  "seconds": 19.260524381000323,
+  "aggregatePeakRssBytes": 440762368,
+  "registeredChildren": [
+    {
+      "kind": "encoder",
+      "pid": 53,
+      "bootId": "01b20354-c996-45bd-a52d-4fbd4c679fce",
+      "pidNamespace": "pid:[4026532419]",
+      "startTicks": 565576,
+      "parentPid": 30
+    },
+    {
+      "kind": "probe",
+      "pid": 62,
+      "bootId": "01b20354-c996-45bd-a52d-4fbd4c679fce",
+      "pidNamespace": "pid:[4026532419]",
+      "startTicks": 566482,
+      "parentPid": 30
+    },
+    {
+      "kind": "decode",
+      "pid": 63,
+      "bootId": "01b20354-c996-45bd-a52d-4fbd4c679fce",
+      "pidNamespace": "pid:[4026532419]",
+      "startTicks": 566522,
+      "parentPid": 30
+    }
+  ],
+  "actualChildRelationshipsGone": true,
+  "remainingOwnedPids": [],
+  "reviewScope": "Prior full-native chronological72 discrete-frame review remains applicable by exact PNG+video byte identity. This resumed agent did not newly view all72. Old resource receipt remains withdrawn; this is new v004 supervision evidence only.",
+  "limitations": [
+    "No real-time playback or listening acceptance",
+    "No landscape qualification or acceptance",
+    "No full three-crate entry/lowering/release, illness/cane repair, knife handoff acceptance",
+    "No publishing authority exercised"
+  ],
+  "playbook": "Read current PREFLIGHT.md before qualification; exact identity transfer follows source/encode review invalidation rule."
+}

@@ -1,0 +1,155 @@
+{
+  "status": "SEVEN_HARMLESS_SYNTHETIC_TESTS_PASS_NO_MEDIA",
+  "admissionSHA256": "3567d35e029b233f542446bf8b0e900efcd9b75b3aa1ced2d9bdbe749c6510b0",
+  "tests": [
+    {
+      "case": "success",
+      "receipt": "synthetic-success-20261030T222226Z/PROCESS_RECEIPT.json",
+      "receiptSHA256": "1cebea6ff52a0cb0f9cb89a2d46ddb069238d6b90c32d74f292e9b52ac79d7f1",
+      "status": "CLOSED",
+      "reason": null,
+      "peakRssBytes": 40288256,
+      "actualChildRelationshipsGone": true,
+      "remainingOwnedPids": [],
+      "registered": [
+        {
+          "kind": "synthetic",
+          "pid": 1578,
+          "bootId": "01b20354-c996-45bd-a52d-4fbd4c679fce",
+          "pidNamespace": "pid:[4026532778]",
+          "startTicks": 520089,
+          "parentPid": 1571
+        }
+      ],
+      "reaped": []
+    },
+    {
+      "case": "deny-ack",
+      "receipt": "synthetic-deny-ack-20261030T222233Z/PROCESS_RECEIPT.json",
+      "receiptSHA256": "68a070346b82aeeb292e04aa263fcdeec377ee9cc33f0fa671ed1f749d2ef01b",
+      "status": "HOLD",
+      "reason": "post-validation: FileNotFoundError(2, 'No such file or directory')",
+      "peakRssBytes": 40288256,
+      "actualChildRelationshipsGone": true,
+      "remainingOwnedPids": [],
+      "registered": [
+        {
+          "kind": "synthetic",
+          "pid": 1629,
+          "bootId": "01b20354-c996-45bd-a52d-4fbd4c679fce",
+          "pidNamespace": "pid:[4026532778]",
+          "startTicks": 520795,
+          "parentPid": 1622
+        }
+      ],
+      "reaped": []
+    },
+    {
+      "case": "raise-after-register",
+      "receipt": "synthetic-raise-after-register-20261030T222246Z/PROCESS_RECEIPT.json",
+      "receiptSHA256": "e3d4794c855fa81bb9aeb2dc7c11316351b1cb2ca8be801a4f52d8715695ab48",
+      "status": "HOLD",
+      "reason": "RuntimeError('synthetic cleanup injection after owned registration before work')",
+      "peakRssBytes": 40292352,
+      "actualChildRelationshipsGone": true,
+      "remainingOwnedPids": [],
+      "registered": [
+        {
+          "kind": "synthetic",
+          "pid": 1680,
+          "bootId": "01b20354-c996-45bd-a52d-4fbd4c679fce",
+          "pidNamespace": "pid:[4026532778]",
+          "startTicks": 522093,
+          "parentPid": 1673
+        }
+      ],
+      "reaped": [
+        {
+          "pid": 1680,
+          "status": 15
+        }
+      ]
+    },
+    {
+      "case": "worker-failure-live-child",
+      "receipt": "synthetic-worker-failure-live-child-20261030T222251Z/PROCESS_RECEIPT.json",
+      "receiptSHA256": "88ee75f41e9e17bc8947f84acacf496ac539b31ee0dd3f93c6b0ecc68ef3d301",
+      "status": "HOLD",
+      "reason": "post-validation: FileNotFoundError(2, 'No such file or directory')",
+      "peakRssBytes": 39243776,
+      "actualChildRelationshipsGone": true,
+      "remainingOwnedPids": [],
+      "registered": [
+        {
+          "kind": "synthetic",
+          "pid": 1731,
+          "bootId": "01b20354-c996-45bd-a52d-4fbd4c679fce",
+          "pidNamespace": "pid:[4026532778]",
+          "startTicks": 522639,
+          "parentPid": 1724
+        }
+      ],
+      "reaped": [
+        {
+          "pid": 1731,
+          "status": 9
+        }
+      ]
+    },
+    {
+      "case": "raise-after-spawn",
+      "receipt": "synthetic-raise-after-spawn-20261030T222257Z/PROCESS_RECEIPT.json",
+      "receiptSHA256": "33c392b214d02e2b9969a9c81ff850bdaedebabce85a00a6a7eb949ac0f2ea7f",
+      "status": "HOLD",
+      "reason": "RuntimeError('synthetic controller exception immediately after Popen')",
+      "peakRssBytes": 0,
+      "actualChildRelationshipsGone": true,
+      "remainingOwnedPids": [],
+      "registered": [],
+      "reaped": []
+    },
+    {
+      "case": "aggregate-cap",
+      "receipt": "synthetic-aggregate-cap-20261030T222302Z/PROCESS_RECEIPT.json",
+      "receiptSHA256": "024c1c86ae21fcd9d3f33d850f9e23b00380efe35fe888fee8381a67a0b6ac44",
+      "status": "HOLD",
+      "reason": "RSS cap",
+      "peakRssBytes": 87478272,
+      "actualChildRelationshipsGone": true,
+      "remainingOwnedPids": [],
+      "registered": [
+        {
+          "kind": "synthetic",
+          "pid": 1826,
+          "bootId": "01b20354-c996-45bd-a52d-4fbd4c679fce",
+          "pidNamespace": "pid:[4026532778]",
+          "startTicks": 523707,
+          "parentPid": 1819
+        }
+      ],
+      "reaped": [
+        {
+          "pid": 1826,
+          "status": 15
+        }
+      ]
+    },
+    {
+      "case": "worker-failure-before-register",
+      "receipt": "synthetic-worker-failure-before-register-20261030T222307Z/PROCESS_RECEIPT.json",
+      "receiptSHA256": "f0210fffc84e3caa796691146ed44575daf78f287efcb07b371012cc1d1b0bc6",
+      "status": "HOLD",
+      "reason": "post-validation: FileNotFoundError(2, 'No such file or directory')",
+      "peakRssBytes": 28626944,
+      "actualChildRelationshipsGone": true,
+      "remainingOwnedPids": [],
+      "registered": [],
+      "reaped": [
+        {
+          "pid": 1877,
+          "status": 30720
+        }
+      ]
+    }
+  ]
+}

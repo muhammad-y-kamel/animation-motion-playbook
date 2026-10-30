@@ -313,3 +313,13 @@ Evidence: [E04 measured pilot and retained failed trials](entries/HAKAWI-E04-RUN
 - [ ] Bind dynamic checkpoint hashes, revalidate captured semantics and rehash controls before each child; forbid reexecution of explicitly carried windows.
 - [ ] Derive prospective QA budgets from measured proof sizes plus control headroom; preserve native/sheet quality and coverage. Enforce local/global caps before writing and obtain newly frozen authority for changed budgets.
 Evidence: [HAKAWI-E04-DISCRETE-FREEZE-20261030](entries/HAKAWI-E04-DISCRETE-FREEZE-20261030.md). Scoped196-frame/tag7 and six-native cut acceptance is not whole-film acceptance.
+
+
+## Actual authorization, semantic anatomy and registered-child gates — 2026-10-30
+- [ ] Test the actual finalized GO through downstream metadata construction for every planned row before encoding. Missing nested QA authority is a metadata HOLD, not permission to rewrite GO or rerender valid media; recover with explicit additive supplement/derivation.
+- [ ] Anchor actor/action timing to canonical word starts, not caption groups or interpolated character offsets. Preserve exact audio/caption identities, enumerate changed source ranges, then reproof affected actual output.
+- [ ] Check anatomical anterior from actual toe/ankle direction after mirroring, not only non-crossing polygons or bone lengths. Test both IK branches, filled limb/garment joins and full lowering trajectory; source tests do not accept native anatomy.
+- [ ] Register and verify every bounded owned child before work via ACK; include registered identities in aggregate sampled accounting. Test failures before registration, after spawn, on denied ACK and with live children; actual wait/reap and no-owned checks precede lease release. Generic descendant claims remain unproved.
+- [ ] Preserve every inherited runtime guard during adaptation: initial floor and final byte count do not replace per-write temporary/control/remaining-quota reservation. Keep failure-receipt headroom and font/import controls.
+- [ ] Retain old resource-HOLD/withdrawal unchanged. Byte-identical later output can transfer visual evidence, but new runtime qualification never retroactively upgrades an old receipt or proves real-time/full-film acceptance.
+Evidence: [WhatIf source/lifecycle trials](entries/WHATIF-SOURCE-LIFECYCLE-20261030.md), [E04 actual schema and word cues](entries/HAKAWI-E04-QA-SCHEMA-WORD-CUES-20261030.md), [exact copied text evidence](evidence/source-runtime-20261030-2322/manifest.json).

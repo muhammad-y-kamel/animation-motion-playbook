@@ -1,0 +1,681 @@
+{
+  "utc": "2026-10-30T22:56:33.611494+00:00",
+  "status": "SOURCE_ONLY_CUE_INVENTORY_NOT_PATCH_OR_PIXEL_PASS",
+  "inputs": [
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/channel-repair-inventory/hakawi-remaining/extracted/E04/hakawi-voice-sample/corrected-pass-20261024/E04/E04-word-alignment.json",
+      "sha256": "0d6f31c20e705e33a54d2f6374ae87974e06f4aa8d41b2366667dcac2c51f2be"
+    },
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/channel-repair-inventory/hakawi-remaining/extracted/E04/hakawi-production-20261024/E04-master/captions.json",
+      "sha256": "31d0576ef9869bbe673a997c83a305097ba7f0800bfd38e81e65e2881bccd178"
+    },
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/source-v18-return-context/return-restitution.cjs",
+      "sha256": "7ceefa1550445d8a236bda7b1510be0385dbac89e092d995481b812b30f59e15"
+    }
+  ],
+  "wordTimingMethod": "Use source-token ledger start_seconds; do not use interpolated within-word character anchor or six-word caption group as actor cue.",
+  "words": [
+    {
+      "canonical_word_id": "E04:w1009",
+      "canonical_text": "رجعت",
+      "source_start": 5530,
+      "source_end": 5534,
+      "tts_text": "رجعت",
+      "tts_start": 5590,
+      "tts_end": 5594,
+      "start_seconds": 392.47999999999996,
+      "end_seconds": 392.79999999999995
+    },
+    {
+      "canonical_word_id": "E04:w1010",
+      "canonical_text": "شبرا",
+      "source_start": 5535,
+      "source_end": 5539,
+      "tts_text": "شبرا",
+      "tts_start": 5595,
+      "tts_end": 5599,
+      "start_seconds": 392.88,
+      "end_seconds": 393.12
+    },
+    {
+      "canonical_word_id": "E04:w1011",
+      "canonical_text": "بشنطة",
+      "source_start": 5540,
+      "source_end": 5545,
+      "tts_text": "بشنطة",
+      "tts_start": 5600,
+      "tts_end": 5605,
+      "start_seconds": 393.15999999999997,
+      "end_seconds": 393.52
+    },
+    {
+      "canonical_word_id": "E04:w1012",
+      "canonical_text": "هدومي",
+      "source_start": 5546,
+      "source_end": 5551,
+      "tts_text": "هدومي",
+      "tts_start": 5606,
+      "tts_end": 5611,
+      "start_seconds": 393.55999999999995,
+      "end_seconds": 393.79999999999995
+    },
+    {
+      "canonical_word_id": "E04:w1013",
+      "canonical_text": "بالليل",
+      "source_start": 5552,
+      "source_end": 5558,
+      "tts_text": "بالليل",
+      "tts_start": 5612,
+      "tts_end": 5618,
+      "start_seconds": 393.84,
+      "end_seconds": 394.32
+    },
+    {
+      "canonical_word_id": "E04:w1014",
+      "canonical_text": "،لقيت",
+      "source_start": 5559,
+      "source_end": 5564,
+      "tts_text": "،لقيت",
+      "tts_start": 5619,
+      "tts_end": 5624,
+      "start_seconds": 394.71999999999997,
+      "end_seconds": 395.0
+    },
+    {
+      "canonical_word_id": "E04:w1015",
+      "canonical_text": "الحارة",
+      "source_start": 5565,
+      "source_end": 5571,
+      "tts_text": "الحارة",
+      "tts_start": 5625,
+      "tts_end": 5631,
+      "start_seconds": 395.03999999999996,
+      "end_seconds": 395.44
+    },
+    {
+      "canonical_word_id": "E04:w1016",
+      "canonical_text": "كلها",
+      "source_start": 5572,
+      "source_end": 5576,
+      "tts_text": "كلها",
+      "tts_start": 5632,
+      "tts_end": 5636,
+      "start_seconds": 395.52,
+      "end_seconds": 395.91999999999996
+    },
+    {
+      "canonical_word_id": "E04:w1017",
+      "canonical_text": "عرفت",
+      "source_start": 5577,
+      "source_end": 5581,
+      "tts_text": "عرفت",
+      "tts_start": 5637,
+      "tts_end": 5641,
+      "start_seconds": 396.0,
+      "end_seconds": 396.32
+    },
+    {
+      "canonical_word_id": "E04:w1018",
+      "canonical_text": "اللي",
+      "source_start": 5582,
+      "source_end": 5586,
+      "tts_text": "اللي",
+      "tts_start": 5642,
+      "tts_end": 5646,
+      "start_seconds": 396.35999999999996,
+      "end_seconds": 396.47999999999996
+    },
+    {
+      "canonical_word_id": "E04:w1019",
+      "canonical_text": "حصل",
+      "source_start": 5587,
+      "source_end": 5590,
+      "tts_text": "حصل",
+      "tts_start": 5647,
+      "tts_end": 5650,
+      "start_seconds": 396.64,
+      "end_seconds": 396.79999999999995
+    },
+    {
+      "canonical_word_id": "E04:w1020",
+      "canonical_text": "،والمعلم",
+      "source_start": 5591,
+      "source_end": 5599,
+      "tts_text": "،والمِعَلِّم",
+      "tts_start": 5651,
+      "tts_end": 5663,
+      "start_seconds": 397.03999999999996,
+      "end_seconds": 397.59999999999997
+    },
+    {
+      "canonical_word_id": "E04:w1021",
+      "canonical_text": "صاحب",
+      "source_start": 5600,
+      "source_end": 5604,
+      "tts_text": "صاحب",
+      "tts_start": 5664,
+      "tts_end": 5668,
+      "start_seconds": 397.71999999999997,
+      "end_seconds": 397.84
+    },
+    {
+      "canonical_word_id": "E04:w1022",
+      "canonical_text": "المحل",
+      "source_start": 5605,
+      "source_end": 5610,
+      "tts_text": "المحل",
+      "tts_start": 5669,
+      "tts_end": 5674,
+      "start_seconds": 397.91999999999996,
+      "end_seconds": 398.24
+    },
+    {
+      "canonical_word_id": "E04:w1023",
+      "canonical_text": "القديم",
+      "source_start": 5611,
+      "source_end": 5617,
+      "tts_text": "القديم",
+      "tts_start": 5675,
+      "tts_end": 5681,
+      "start_seconds": 398.28,
+      "end_seconds": 398.64
+    },
+    {
+      "canonical_word_id": "E04:w1024",
+      "canonical_text": "طردني",
+      "source_start": 5618,
+      "source_end": 5623,
+      "tts_text": "طردني",
+      "tts_start": 5682,
+      "tts_end": 5687,
+      "start_seconds": 398.71999999999997,
+      "end_seconds": 399.03999999999996
+    },
+    {
+      "canonical_word_id": "E04:w1025",
+      "canonical_text": "من",
+      "source_start": 5624,
+      "source_end": 5626,
+      "tts_text": "من",
+      "tts_start": 5688,
+      "tts_end": 5690,
+      "start_seconds": 399.12,
+      "end_seconds": 399.2
+    },
+    {
+      "canonical_word_id": "E04:w1026",
+      "canonical_text": "على",
+      "source_start": 5627,
+      "source_end": 5630,
+      "tts_text": "على",
+      "tts_start": 5691,
+      "tts_end": 5694,
+      "start_seconds": 399.24,
+      "end_seconds": 399.28
+    },
+    {
+      "canonical_word_id": "E04:w1027",
+      "canonical_text": "الباب",
+      "source_start": 5631,
+      "source_end": 5636,
+      "tts_text": "الباب",
+      "tts_start": 5695,
+      "tts_end": 5700,
+      "start_seconds": 399.32,
+      "end_seconds": 399.67999999999995
+    },
+    {
+      "canonical_word_id": "E04:w1028",
+      "canonical_text": "وحذر",
+      "source_start": 5637,
+      "source_end": 5641,
+      "tts_text": "وحَذَّر",
+      "tts_start": 5701,
+      "tts_end": 5708,
+      "start_seconds": 399.84,
+      "end_seconds": 400.32
+    },
+    {
+      "canonical_word_id": "E04:w1029",
+      "canonical_text": "كل",
+      "source_start": 5642,
+      "source_end": 5644,
+      "tts_text": "كل",
+      "tts_start": 5709,
+      "tts_end": 5711,
+      "start_seconds": 400.4,
+      "end_seconds": 400.64
+    },
+    {
+      "canonical_word_id": "E04:w1030",
+      "canonical_text": "محلات",
+      "source_start": 5645,
+      "source_end": 5650,
+      "tts_text": "محلات",
+      "tts_start": 5712,
+      "tts_end": 5717,
+      "start_seconds": 400.71999999999997,
+      "end_seconds": 401.12
+    },
+    {
+      "canonical_word_id": "E04:w1031",
+      "canonical_text": "المنطقة",
+      "source_start": 5651,
+      "source_end": 5658,
+      "tts_text": "المنطقة",
+      "tts_start": 5718,
+      "tts_end": 5725,
+      "start_seconds": 401.15999999999997,
+      "end_seconds": 401.52
+    },
+    {
+      "canonical_word_id": "E04:w1032",
+      "canonical_text": "يشغلوني",
+      "source_start": 5659,
+      "source_end": 5666,
+      "tts_text": "يشغلوني",
+      "tts_start": 5726,
+      "tts_end": 5733,
+      "start_seconds": 401.59999999999997,
+      "end_seconds": 402.15999999999997
+    },
+    {
+      "canonical_word_id": "E04:w1033",
+      "canonical_text": ".ومصطفى",
+      "source_start": 5667,
+      "source_end": 5674,
+      "tts_text": ".ومصطفى",
+      "tts_start": 5734,
+      "tts_end": 5741,
+      "start_seconds": 402.47999999999996,
+      "end_seconds": 403.12
+    },
+    {
+      "canonical_word_id": "E04:w1034",
+      "canonical_text": "مرضيش",
+      "source_start": 5675,
+      "source_end": 5680,
+      "tts_text": "مرضيش",
+      "tts_start": 5742,
+      "tts_end": 5747,
+      "start_seconds": 403.28,
+      "end_seconds": 403.67999999999995
+    },
+    {
+      "canonical_word_id": "E04:w1035",
+      "canonical_text": "يتكلم",
+      "source_start": 5681,
+      "source_end": 5686,
+      "tts_text": "يتكلم",
+      "tts_start": 5748,
+      "tts_end": 5753,
+      "start_seconds": 403.76,
+      "end_seconds": 404.08
+    },
+    {
+      "canonical_word_id": "E04:w1036",
+      "canonical_text": "معايا",
+      "source_start": 5687,
+      "source_end": 5692,
+      "tts_text": "معايا",
+      "tts_start": 5754,
+      "tts_end": 5759,
+      "start_seconds": 404.15999999999997,
+      "end_seconds": 404.4
+    },
+    {
+      "canonical_word_id": "E04:w1037",
+      "canonical_text": "نص",
+      "source_start": 5693,
+      "source_end": 5695,
+      "tts_text": "نص",
+      "tts_start": 5760,
+      "tts_end": 5762,
+      "start_seconds": 404.55999999999995,
+      "end_seconds": 404.71999999999997
+    },
+    {
+      "canonical_word_id": "E04:w1038",
+      "canonical_text": "كلمة",
+      "source_start": 5696,
+      "source_end": 5700,
+      "tts_text": "كلمة",
+      "tts_start": 5763,
+      "tts_end": 5767,
+      "start_seconds": 404.79999999999995,
+      "end_seconds": 405.12
+    },
+    {
+      "canonical_word_id": "E04:w1039",
+      "canonical_text": "،بعتلي",
+      "source_start": 5701,
+      "source_end": 5707,
+      "tts_text": "،بعتلي",
+      "tts_start": 5768,
+      "tts_end": 5774,
+      "start_seconds": 405.44,
+      "end_seconds": 405.84
+    },
+    {
+      "canonical_word_id": "E04:w1040",
+      "canonical_text": "خاله",
+      "source_start": 5708,
+      "source_end": 5712,
+      "tts_text": "خاله",
+      "tts_start": 5775,
+      "tts_end": 5779,
+      "start_seconds": 405.91999999999996,
+      "end_seconds": 406.15999999999997
+    },
+    {
+      "canonical_word_id": "E04:w1041",
+      "canonical_text": "يطالب",
+      "source_start": 5713,
+      "source_end": 5718,
+      "tts_text": "يطالب",
+      "tts_start": 5780,
+      "tts_end": 5785,
+      "start_seconds": 406.24,
+      "end_seconds": 406.55999999999995
+    },
+    {
+      "canonical_word_id": "E04:w1042",
+      "canonical_text": "بالخمسة",
+      "source_start": 5719,
+      "source_end": 5726,
+      "tts_text": "بالخمسة",
+      "tts_start": 5786,
+      "tts_end": 5793,
+      "start_seconds": 406.64,
+      "end_seconds": 407.0
+    },
+    {
+      "canonical_word_id": "E04:w1043",
+      "canonical_text": "وتلاتين",
+      "source_start": 5727,
+      "source_end": 5734,
+      "tts_text": "وتَلاتين",
+      "tts_start": 5794,
+      "tts_end": 5802,
+      "start_seconds": 407.03999999999996,
+      "end_seconds": 407.44
+    },
+    {
+      "canonical_word_id": "E04:w1044",
+      "canonical_text": "ألف",
+      "source_start": 5735,
+      "source_end": 5738,
+      "tts_text": "ألف",
+      "tts_start": 5803,
+      "tts_end": 5806,
+      "start_seconds": 407.52,
+      "end_seconds": 407.76
+    },
+    {
+      "canonical_word_id": "E04:w1045",
+      "canonical_text": "جنيه",
+      "source_start": 5739,
+      "source_end": 5743,
+      "tts_text": "جنيه",
+      "tts_start": 5807,
+      "tts_end": 5811,
+      "start_seconds": 407.84,
+      "end_seconds": 408.027
+    },
+    {
+      "canonical_word_id": "E04:w1046",
+      "canonical_text": "اللي",
+      "source_start": 5744,
+      "source_end": 5748,
+      "tts_text": "اللي",
+      "tts_start": 5812,
+      "tts_end": 5816,
+      "start_seconds": 408.053,
+      "end_seconds": 408.15999999999997
+    },
+    {
+      "canonical_word_id": "E04:w1047",
+      "canonical_text": "سلفهوملي",
+      "source_start": 5749,
+      "source_end": 5757,
+      "tts_text": "سلفهوملي",
+      "tts_start": 5817,
+      "tts_end": 5825,
+      "start_seconds": 408.28,
+      "end_seconds": 408.71999999999997
+    },
+    {
+      "canonical_word_id": "E04:w1048",
+      "canonical_text": "،والمكتب",
+      "source_start": 5758,
+      "source_end": 5766,
+      "tts_text": "،والمكتب",
+      "tts_start": 5826,
+      "tts_end": 5834,
+      "start_seconds": 409.03999999999996,
+      "end_seconds": 409.59999999999997
+    },
+    {
+      "canonical_word_id": "E04:w1049",
+      "canonical_text": "طبعًا",
+      "source_start": 5767,
+      "source_end": 5772,
+      "tts_text": "طبعًا",
+      "tts_start": 5835,
+      "tts_end": 5840,
+      "start_seconds": 409.71999999999997,
+      "end_seconds": 409.91999999999996
+    },
+    {
+      "canonical_word_id": "E04:w1050",
+      "canonical_text": "مرضيش",
+      "source_start": 5773,
+      "source_end": 5778,
+      "tts_text": "مرضيش",
+      "tts_start": 5841,
+      "tts_end": 5846,
+      "start_seconds": 410.0,
+      "end_seconds": 410.32
+    },
+    {
+      "canonical_word_id": "E04:w1051",
+      "canonical_text": "يرجعهم",
+      "source_start": 5779,
+      "source_end": 5785,
+      "tts_text": "يرجعهم",
+      "tts_start": 5847,
+      "tts_end": 5853,
+      "start_seconds": 410.4,
+      "end_seconds": 410.88
+    },
+    {
+      "canonical_word_id": "E04:w1052",
+      "canonical_text": "لأن",
+      "source_start": 5786,
+      "source_end": 5789,
+      "tts_text": "لأن",
+      "tts_start": 5854,
+      "tts_end": 5857,
+      "start_seconds": 411.12,
+      "end_seconds": 411.35999999999996
+    },
+    {
+      "canonical_word_id": "E04:w1053",
+      "canonical_text": "الفسخ",
+      "source_start": 5790,
+      "source_end": 5795,
+      "tts_text": "الفسخ",
+      "tts_start": 5858,
+      "tts_end": 5863,
+      "start_seconds": 411.44,
+      "end_seconds": 411.84
+    },
+    {
+      "canonical_word_id": "E04:w1054",
+      "canonical_text": "كان",
+      "source_start": 5796,
+      "source_end": 5799,
+      "tts_text": "كان",
+      "tts_start": 5864,
+      "tts_end": 5867,
+      "start_seconds": 411.91999999999996,
+      "end_seconds": 412.08
+    },
+    {
+      "canonical_word_id": "E04:w1055",
+      "canonical_text": "بسبب",
+      "source_start": 5800,
+      "source_end": 5804,
+      "tts_text": "بسبب",
+      "tts_start": 5868,
+      "tts_end": 5872,
+      "start_seconds": 412.12,
+      "end_seconds": 412.47999999999996
+    },
+    {
+      "canonical_word_id": "E04:w1056",
+      "canonical_text": "غشي",
+      "source_start": 5805,
+      "source_end": 5808,
+      "tts_text": "غشي",
+      "tts_start": 5873,
+      "tts_end": 5876,
+      "start_seconds": 412.52,
+      "end_seconds": 412.79999999999995
+    },
+    {
+      "canonical_word_id": "E04:w1057",
+      "canonical_text": "أنا",
+      "source_start": 5809,
+      "source_end": 5812,
+      "tts_text": "أنا",
+      "tts_start": 5877,
+      "tts_end": 5880,
+      "start_seconds": 412.88,
+      "end_seconds": 413.03999999999996
+    },
+    {
+      "canonical_word_id": "E04:w1058",
+      "canonical_text": ".أبويا",
+      "source_start": 5813,
+      "source_end": 5819,
+      "tts_text": ".أبويا",
+      "tts_start": 5881,
+      "tts_end": 5887,
+      "start_seconds": 413.44,
+      "end_seconds": 413.84
+    },
+    {
+      "canonical_word_id": "E04:w1059",
+      "canonical_text": "اضطر",
+      "source_start": 5820,
+      "source_end": 5824,
+      "tts_text": "اضطر",
+      "tts_start": 5888,
+      "tts_end": 5892,
+      "start_seconds": 413.88,
+      "end_seconds": 414.08
+    }
+  ],
+  "boundaries": [
+    {
+      "wordId": "E04:w1009",
+      "text": "رجعت",
+      "time": 392.47999999999996,
+      "frame": 23549
+    },
+    {
+      "wordId": "E04:w1020",
+      "text": "،والمعلم",
+      "time": 397.03999999999996,
+      "frame": 23823
+    },
+    {
+      "wordId": "E04:w1033",
+      "text": ".ومصطفى",
+      "time": 402.47999999999996,
+      "frame": 24149
+    },
+    {
+      "wordId": "E04:w1039",
+      "text": "،بعتلي",
+      "time": 405.44,
+      "frame": 24327
+    },
+    {
+      "wordId": "E04:w1048",
+      "text": "،والمكتب",
+      "time": 409.03999999999996,
+      "frame": 24543
+    },
+    {
+      "wordId": "E04:w1058",
+      "text": ".أبويا",
+      "time": 413.44,
+      "frame": 24807
+    }
+  ],
+  "sixViewsAudit": [
+    {
+      "view": "night-return-at-bakery",
+      "range": [
+        23549,
+        23823
+      ],
+      "finding": "Two-person employer refusal donor functions as return context but already contains raised refusal palm before employer cue; consider neutral night-street establishing to avoid anticipatory action. This would invalidate some accepted return1/2 coverage, so do not silently carry."
+    },
+    {
+      "view": "employer-refuses-at-door",
+      "range": [
+        23823,
+        24096
+      ],
+      "finding": "Correct employer cue starts token1020 at397.04/G23823; safe unchanged."
+    },
+    {
+      "view": "tareq-rejection-reaction",
+      "range": [
+        24096,
+        24155
+      ],
+      "finding": "First53frames continue employer warning; last6frames G24149..24154 enter Mostafa token but still show employer. Replace only after actual token cue."
+    },
+    {
+      "view": "uncle-visit-context",
+      "range": [
+        24155,
+        24288
+      ],
+      "finding": "Incorrect early actor substitution: Mostafa silence continues, uncle cue onlyG24327."
+    },
+    {
+      "view": "uncle-empty-palm-demand",
+      "range": [
+        24288,
+        24600
+      ],
+      "finding": "Early39frames G24288..24326 remain word kelma before uncle cue; late57frames G24543..24599 enter office refund cue. OnlyG24327..24542 belongs uncle demand."
+    },
+    {
+      "view": "tareq-debt-and-refund-refusal-reaction",
+      "range": [
+        24600,
+        24811
+      ],
+      "finding": "Includes uncle empty palm while office refuses refund; neutral context preferred. Last4framesG24807..24810 enter father cue but current canonical action cutG24811; neutral context avoids wrong person without changing next action."
+    }
+  ],
+  "neutralCandidate": {
+    "path": "/workspace/scratch/bb6b47af6d33/channel-repair-inventory/hakawi-remaining/extracted/E04/hakawi-production-20261024/E04-master/assets/curb-night.png",
+    "sha256": "0c0d7a03a3fcc2d24824a378769f9d95a0b389de055cb2f034d8538963379f93",
+    "actualPixelsInspected": true,
+    "size": [
+      1672,
+      941
+    ],
+    "purpose": "Unpictured Mostafa response / narrated office outcome, no actor attribution or literal mechanism claim"
+  },
+  "proposal": "Keep script/audio/captions/timeline unchanged. Use token-ledger visual override cuts atG24149,24327,24543; neutral night context for Mostafa/office beats, uncle only24327..24542. Resolve initial night return anticipatory refusal separately within same additive correction, not another narrow patch."
+}

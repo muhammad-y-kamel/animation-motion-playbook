@@ -1,0 +1,125 @@
+{
+  "scope": "Closed text/source/test evidence only; producer/reviewer findings attributed. No new visual inspection or full-film release claim.",
+  "files": [
+    {
+      "repository_path": "evidence/source-runtime-20261030-2322/01-PLAYBOOK_STAGE_LOG.md",
+      "original_local_path": "channel-repair-inventory/whatif-milan-v011-six-still-admission-review-20261030/PLAYBOOK_STAGE_LOG.md",
+      "bytes": 2308,
+      "sha256": "35222e56c5b8401cab0a4b88fba92a2e70d69d81b69b3caa0080962a48e29a7d"
+    },
+    {
+      "repository_path": "evidence/source-runtime-20261030-2322/02-AUDIT_TRANSCRIPTION.json",
+      "original_local_path": "channel-repair-inventory/whatif-milan-v011-independent-source-audit-20261030/AUDIT_TRANSCRIPTION.json",
+      "bytes": 1033,
+      "sha256": "eac652212275012bd520e01f330e2f8bdf61e77222863d295a2cfdf65c7ffbbd"
+    },
+    {
+      "repository_path": "evidence/source-runtime-20261030-2322/03-LIFECYCLE_TEST_RESULTS.json",
+      "original_local_path": "channel-repair-inventory/whatif-milan-v009-silent-motion-admission-v004-20261030/LIFECYCLE_TEST_RESULTS.json",
+      "bytes": 4991,
+      "sha256": "7e504c1f0451f27b7d61ecf1d97f63d0c5e57761fa8c535bf5aa2814faa5f8de"
+    },
+    {
+      "repository_path": "evidence/source-runtime-20261030-2322/04-V004_REGISTERED_ADMISSION_PASS.json",
+      "original_local_path": "channel-repair-inventory/whatif-v009-motion-independent-audit-20261030/V004_REGISTERED_ADMISSION_PASS.json",
+      "bytes": 7053,
+      "sha256": "05d35d229944df872602197b6bc476170f49cb97120c86ea2ca619c65197e173"
+    },
+    {
+      "repository_path": "evidence/source-runtime-20261030-2322/05-V002_RESOURCE_PASS_WITHDRAWAL.json",
+      "original_local_path": "channel-repair-inventory/whatif-v009-motion-independent-audit-20261030/V002_RESOURCE_PASS_WITHDRAWAL.json",
+      "bytes": 1068,
+      "sha256": "46bbbcefc02829930504e5703bba19e6d928abf9caa2fecf0306def0ab13ef49"
+    },
+    {
+      "repository_path": "evidence/source-runtime-20261030-2322/06-QUALIFICATION.json",
+      "original_local_path": "channel-repair-inventory/whatif-milan-v004-resource-qualification-20261030/QUALIFICATION.json",
+      "bytes": 13088,
+      "sha256": "c4d15608d2bffb9939c3b96ff775ad60c3a896ad1eae2f132c01d641959ea159"
+    },
+    {
+      "repository_path": "evidence/source-runtime-20261030-2322/07-INDEPENDENT_AUDIT_TRANSCRIPTION.json",
+      "original_local_path": "channel-repair-inventory/whatif-milan-v004-resource-qualification-20261030/INDEPENDENT_AUDIT_TRANSCRIPTION.json",
+      "bytes": 943,
+      "sha256": "2de72c0b7c9c02a3ebf6979d0b9736a043a39d7804cc28de2705bc17f6729e78"
+    },
+    {
+      "repository_path": "evidence/source-runtime-20261030-2322/08-PRECHILD_FAILURE.json",
+      "original_local_path": "hakawi_repair/e04-rebuild-20261029/qa-metadata-recovery-v18-r1/PRECHILD_FAILURE.json",
+      "bytes": 1538,
+      "sha256": "9fb3dbab25b48632762644d1a384d5ea7462a4c4e1ead274cec69a44723089fa"
+    },
+    {
+      "repository_path": "evidence/source-runtime-20261030-2322/09-ROOT_QA_ONLY_SUPPLEMENT.json",
+      "original_local_path": "hakawi_repair/e04-rebuild-20261029/qa-metadata-recovery-v18-r1/ROOT_QA_ONLY_SUPPLEMENT.json",
+      "bytes": 3390,
+      "sha256": "371841ac23e55bfc61f0fcd95f755bf677e898783d22d61210452c8a23f75174"
+    },
+    {
+      "repository_path": "evidence/source-runtime-20261030-2322/10-DERIVATION_SCOPE.json",
+      "original_local_path": "hakawi_repair/e04-rebuild-20261029/qa-metadata-recovery-v18-r1/DERIVATION_SCOPE.json",
+      "bytes": 782,
+      "sha256": "9f10191a9da8702815ac808fa5c262e3beb4941f23738548b4403a0c969dfcf7"
+    },
+    {
+      "repository_path": "evidence/source-runtime-20261030-2322/11-ALL20_SCHEMA_VALIDATION.json",
+      "original_local_path": "hakawi_repair/e04-rebuild-20261029/qa-metadata-recovery-v18-r1/ALL20_SCHEMA_VALIDATION.json",
+      "bytes": 7886,
+      "sha256": "0a4454fa2d2d14205bb4c6404039614cd0b60e63394687b355d19797ced783d8"
+    },
+    {
+      "repository_path": "evidence/source-runtime-20261030-2322/12-INDEPENDENT_REVIEW_RECEIPT.json",
+      "original_local_path": "hakawi_repair/e04-rebuild-20261029/qa-metadata-recovery-v18-r1/INDEPENDENT_REVIEW_RECEIPT.json",
+      "bytes": 846,
+      "sha256": "0f58935d72bee69eaedd6212a42fb01ae8300d52c0f44fe5ff559bccfc68d39b"
+    },
+    {
+      "repository_path": "evidence/source-runtime-20261030-2322/13-ACTUAL_FINAL_GO_ALL20_QA_SCHEMA_PASS.json",
+      "original_local_path": "hakawi_repair/e04-rebuild-20261029/motion-preflight-v19-word-cues/controls/ACTUAL_FINAL_GO_ALL20_QA_SCHEMA_PASS.json",
+      "bytes": 14065,
+      "sha256": "2ebc23ca69015c2ea82f3909ca8b3f233e085202d77897d7aa0c913d52265f68"
+    },
+    {
+      "repository_path": "evidence/source-runtime-20261030-2322/14-validate_all20_qa_schema.py",
+      "original_local_path": "hakawi_repair/e04-rebuild-20261029/planning-motion-v19-word-cues/validate_all20_qa_schema.py",
+      "bytes": 2034,
+      "sha256": "dd3d2ae445c83a6653092838caa0e2905fb3845e20db54f75821efe76ce13dc4"
+    },
+    {
+      "repository_path": "evidence/source-runtime-20261030-2322/15-ALL_RETURN_RESTITUTION_CUES.json",
+      "original_local_path": "hakawi_repair/e04-rebuild-20261029/audit-v19-semantic-cues/ALL_RETURN_RESTITUTION_CUES.json",
+      "bytes": 19349,
+      "sha256": "cd89328cd23fd4552bff7207f85ccaa48555715b378277ba6ed7eaa12ff71cab"
+    },
+    {
+      "repository_path": "evidence/source-runtime-20261030-2322/16-FULL_DRAW_V18_V19.json",
+      "original_local_path": "hakawi_repair/e04-rebuild-20261029/audit-v19-semantic-cues/FULL_DRAW_V18_V19.json",
+      "bytes": 2637,
+      "sha256": "85c441d53ff13ddf099ce74086f4af2026114b64cfd176e1ca0d58652b19d0d3"
+    },
+    {
+      "repository_path": "evidence/source-runtime-20261030-2322/17-test-word-cues_RESULT.json",
+      "original_local_path": "hakawi_repair/e04-rebuild-20261029/source-v19-word-cues/test-word-cues_RESULT.json",
+      "bytes": 439,
+      "sha256": "37fb4f58e51a24746ee2e0bce7a353ceadc50c7578a53da4d9a20dea3ea5ae76"
+    },
+    {
+      "repository_path": "evidence/source-runtime-20261030-2322/18-ROOT_ACTUAL_REVIEW.json",
+      "original_local_path": "hakawi_repair/e04-rebuild-20261029/preflight-v19-word-cue-six-native-r1/ROOT_ACTUAL_REVIEW.json",
+      "bytes": 3236,
+      "sha256": "0edb6e4e66f45784f9bf9d1eb7e56cb2222f0685a0efe70414966cbbcbb04c73"
+    },
+    {
+      "repository_path": "evidence/source-runtime-20261030-2322/19-LEAD_NATIVE_REVIEW.json",
+      "original_local_path": "hakawi_repair/e04-rebuild-20261029/preflight-v19-word-cue-six-native-r1/LEAD_NATIVE_REVIEW.json",
+      "bytes": 2653,
+      "sha256": "0792e527fda10587a987059f17ddb813836719790cc083ae42a67d52593998ee"
+    },
+    {
+      "repository_path": "evidence/source-runtime-20261030-2322/20-LEAD_ACTUAL_REVIEW_HOLD.json",
+      "original_local_path": "hakawi_repair/e04-rebuild-20261029/motion-preflight-v18-return-context/controls/return-restition-existing-3/LEAD_ACTUAL_REVIEW_HOLD.json",
+      "bytes": 4878,
+      "sha256": "062d85ae9bcbd32d8f1f2dd32c51d25afa2cb6fed2f99984de51de3411d934ba"
+    }
+  ]
+}

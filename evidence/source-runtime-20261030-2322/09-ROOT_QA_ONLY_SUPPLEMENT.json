@@ -1,0 +1,64 @@
+{
+  "status": "ROOT_APPROVED_QA_ONLY_METADATA_RECOVERY",
+  "rootGrantUTC": "2026-10-30T22:35:19Z",
+  "standingPlan": {
+    "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/motion-preflight-v18-return-context/PLAN.json",
+    "sha256": "636b311c797109232bb4589d90c3a0148b23beba5729d3f772ff2c3396494a5a"
+  },
+  "standingGo": {
+    "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/motion-preflight-v18-return-context/GO.json",
+    "sha256": "f7f1c771cc197e35fe08484ebdeadb2000dcf578ac26eca11c9bb34470fe3938"
+  },
+  "standingFreeze": {
+    "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/motion-preflight-v18-return-context/FREEZE.json",
+    "sha256": "8c1a45425b2cdd1707e3d657e8b1b9c9cdeaaa0a3c2a202af590d9e74288df1f"
+  },
+  "sourceFreezeSha256": "7451f3b0405c698674323f6c2ae87a2d8add00a2a7498b848634c5053d80db65",
+  "runtimeInventory": {
+    "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/recovery-motion-inputs-20261030/QA_RUNTIME_INVENTORY_FRESH_ENVIRONMENT_R2.json",
+    "sha256": "af8732012afab06890e4f2fa00fea908dc887791fdeb2c4ae53b4b0fcfe6e553"
+  },
+  "originalBuilder": {
+    "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/planning-motion-v18-return-context/build_bound_plan.py",
+    "sha256": "6b3c295218f9c2d673e48bb35c8756f26ee9054c65257dc46721fe316d3fff67"
+  },
+  "freshRuntimeInventoryAuthorization": {
+    "status": "ROOT_APPROVED_EXACT_FRESH_RUNTIME_INVENTORY",
+    "sha256": "af8732012afab06890e4f2fa00fea908dc887791fdeb2c4ae53b4b0fcfe6e553",
+    "fileCount": 437,
+    "bootId": "01b20354-c996-45bd-a52d-4fbd4c679fce"
+  },
+  "authorizedWindowIds": [
+    "return-restition-existing-1",
+    "return-restition-existing-2",
+    "return-restition-existing-3",
+    "return-restition-existing-4",
+    "return-restition-existing-5",
+    "return-restition-existing-6",
+    "furniture-sale-1",
+    "phone-to-recording-1",
+    "phone-to-recording-2",
+    "cctv-all-excerpts-1",
+    "cctv-all-excerpts-2",
+    "cctv-all-excerpts-3",
+    "furniture-sale-2",
+    "ending-approach-notice-ignore-1",
+    "ending-approach-notice-ignore-2",
+    "ending-hold-exit-1",
+    "office-fee-1",
+    "direct-contract-ticket-1",
+    "work-washing-1",
+    "rejection-posecut-1"
+  ],
+  "exactQaStandingAuthorizationSha256": "a2609d9f57b61537eefc8520c37119d72d92fa9d2b20cec81cb7634abe3792c2",
+  "firstClosedEncoder": {
+    "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/motion-preflight-v18-return-context/controls/return-restition-existing-1/OWNED_PROCESSES.json",
+    "sha256": "d73a87d6f4cf0a17b9db7aa0025a88da8be6681ea1cc9a629abe08f5871058f8"
+  },
+  "firstEncodedMedia": {
+    "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/motion-preflight-v18-return-context/retained/return-restition-existing-1/window.partial.mp4",
+    "bytes": 866206,
+    "sha256": "33c2b9d23b62fe373d0a76ef91893f6b3833ee0c3abbbcff397b5f4151383982"
+  },
+  "scope": "Only fill the missing nested freshRuntimeInventoryAuthorization in additive per-window QA metadata, with explicit provenance. Original standing GO/media/journal immutable. Same exact20windows, source/runtime/quality/caps/slots/criticalgates. Future per-window metadata must bind actual closed journal/media and original GO before derivation; no future media claimed."
+}

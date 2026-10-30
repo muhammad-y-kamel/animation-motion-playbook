@@ -1,0 +1,76 @@
+{
+  "status": "ROOT_SIX_NATIVE_COMPOSITION_ACCEPTED_SCOPED",
+  "rootMessageUTC": "2026-10-30T23:06:22Z",
+  "sourceFreezeSha256": "c49488ed3d25f06719b3e0c79cd9558254528ab9a7deec9814821d001f970291",
+  "frames": [
+    {
+      "frame": 23680,
+      "time": 394.6666666666667,
+      "block": "d",
+      "purpose": "neutral-night-return",
+      "name": "native-23680.jpg",
+      "bytes": 1043932,
+      "sha256": "2e93299c6999e6813e751401ff3a8dc17c849215aefdd2062aeba9cbd53a272c",
+      "scope": "native selected still; three shutter composite; not continuous motion"
+    },
+    {
+      "frame": 23950,
+      "time": 399.1666666666667,
+      "block": "d",
+      "purpose": "employer-refusal",
+      "name": "native-23950.jpg",
+      "bytes": 750658,
+      "sha256": "f2bbdae33317ae52282002300a252b64fe03220f3706ee68c9e4e2c98daf5885",
+      "scope": "native selected still; three shutter composite; not continuous motion"
+    },
+    {
+      "frame": 24148,
+      "time": 402.46666666666664,
+      "block": "d",
+      "purpose": "last-employer-context-before-mostafa",
+      "name": "native-24148.jpg",
+      "bytes": 718303,
+      "sha256": "6a0ecf3e18e7cca170d5ae4ab79de09a4d0e179f85ed9408528a527a616b8fec",
+      "scope": "native selected still; three shutter composite; not continuous motion"
+    },
+    {
+      "frame": 24220,
+      "time": 403.6666666666667,
+      "block": "d",
+      "purpose": "tareq-only-mostafa-unpictured",
+      "name": "native-24220.jpg",
+      "bytes": 445737,
+      "sha256": "d462104b7738514e11e480b32e9cc1ea150c0cf4bd99139536222260850f1375",
+      "scope": "native selected still; three shutter composite; not continuous motion"
+    },
+    {
+      "frame": 24440,
+      "time": 407.3333333333333,
+      "block": "d",
+      "purpose": "uncle-demand-context-no-transfer",
+      "name": "native-24440.jpg",
+      "bytes": 597754,
+      "sha256": "9320ce2b35807baa8ca20785545f9fdcf4aacadb97c4e85131cea26ee91600d0",
+      "scope": "native selected still; three shutter composite; not continuous motion"
+    },
+    {
+      "frame": 24700,
+      "time": 411.6666666666667,
+      "block": "d",
+      "purpose": "neutral-office-refusal",
+      "name": "native-24700.jpg",
+      "bytes": 1010660,
+      "sha256": "454d8a17896112e9a00b975405ab7274139afa68da3d46d7de1304f218db4e7f",
+      "scope": "native selected still; three shutter composite; not continuous motion"
+    }
+  ],
+  "receipt": {
+    "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/preflight-v19-word-cue-six-native-r1/proof/RECEIPT.json",
+    "sha256": "4f75ba24715fa6f72f05469a38f6cd61c2ee9dbe8cfe7e2926ba7dc0853c9129"
+  },
+  "leadReview": {
+    "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/preflight-v19-word-cue-six-native-r1/LEAD_NATIVE_REVIEW.json",
+    "sha256": "0792e527fda10587a987059f17ddb813836719790cc083ae42a67d52593998ee"
+  },
+  "scope": "Root actually viewed all six. Neutral establishing/refund contexts avoid wrong actors; Tareq24220 full head/shoulders and no employer fragment; employer/uncle views intact.24148 pre-Mostafa actual word despite grouped subtitle anticipation; preserve locked speech cue and no caption rewrite. Not motion/dwell/listening/fullfilm acceptance."
+}

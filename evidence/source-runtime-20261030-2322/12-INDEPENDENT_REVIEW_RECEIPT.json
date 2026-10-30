@@ -1,0 +1,15 @@
+{
+  "status": "INDEPENDENT_PASS_PENDING_ACTUAL_GO_AND_IO_EXCLUSION",
+  "auditor": "/root/resume_runtime_audits",
+  "utc": "2026-10-30T22:37:32Z",
+  "phase": "motion-preflight-v18-return-context/controls/qa-return-restition-existing-1",
+  "planSha256": "6d2b66b90d072fd65343eeceae5522ff49bee52c28b758052714c9708c840e30",
+  "freezeSha256": "737e4f74c40fb75ec5a87891b46e59c6e51cf52205b7cb56ceb1f19728619bfd",
+  "validatedPins": 583,
+  "pendingRejected": true,
+  "approvedInMemoryValidated": true,
+  "noMediaOrLeaseOrGoWrittenByAuditor": true,
+  "derivativeSha256": "d085e43d6b67bb52029f64012e490e7b0edc112068c292afae60cdd0e8492677",
+  "supplementSha256": "371841ac23e55bfc61f0fcd95f755bf677e898783d22d61210452c8a23f75174",
+  "fixedPredecessorPathsMustRemain": "First encoder journal and retained MP4 never relocated during QA-only slot rotation."
+}

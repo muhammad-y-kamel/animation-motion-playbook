@@ -1,0 +1,111 @@
+{
+  "status": "PASS_FULL_DEFAULT_DRAW_TRACE_SOURCE_ONLY",
+  "totalCentralFrames": 27778,
+  "sampleComparisons": 83334,
+  "changedFrames": 936,
+  "changedSamples": 2808,
+  "changedRangesInclusive": [
+    [
+      23549,
+      23822
+    ],
+    [
+      24149,
+      24810
+    ]
+  ],
+  "unchangedFrames": 26842,
+  "textCaptionCallDifferences": 0,
+  "firstDiff": {
+    "frame": 23549,
+    "offset": -0.005555555555555556,
+    "operation": 3,
+    "old": [
+      "set",
+      "fillStyle",
+      "#202c2e"
+    ],
+    "current": [
+      "set",
+      "fillStyle",
+      "#514335"
+    ]
+  },
+  "affectedWindows": [
+    {
+      "id": "furniture-sale-1",
+      "firstFrame": 24798,
+      "endFrameExclusive": 25038,
+      "affectedFrames": 13
+    },
+    {
+      "id": "return-restition-existing-1",
+      "firstFrame": 23536,
+      "endFrameExclusive": 23776,
+      "affectedFrames": 227
+    },
+    {
+      "id": "return-restition-existing-2",
+      "firstFrame": 23764,
+      "endFrameExclusive": 24004,
+      "affectedFrames": 59
+    },
+    {
+      "id": "return-restition-existing-3",
+      "firstFrame": 23992,
+      "endFrameExclusive": 24232,
+      "affectedFrames": 83
+    },
+    {
+      "id": "return-restition-existing-4",
+      "firstFrame": 24220,
+      "endFrameExclusive": 24460,
+      "affectedFrames": 240
+    },
+    {
+      "id": "return-restition-existing-5",
+      "firstFrame": 24448,
+      "endFrameExclusive": 24688,
+      "affectedFrames": 240
+    },
+    {
+      "id": "return-restition-existing-6",
+      "firstFrame": 24676,
+      "endFrameExclusive": 24840,
+      "affectedFrames": 135
+    }
+  ],
+  "unaffectedWindowCount": 35,
+  "unchangedRuntime": [
+    "actors.cjs",
+    "burn-outcome.cjs",
+    "cloth-grip.cjs",
+    "ending-approach.cjs",
+    "episode.cjs",
+    "gas-grip.cjs",
+    "intact-actions.cjs",
+    "intact-mix.cjs",
+    "legacy.cjs",
+    "oven-layout.cjs",
+    "props.cjs",
+    "rigs.cjs",
+    "runtime-contract.cjs",
+    "scenes.cjs",
+    "semantic-inserts.cjs",
+    "state.cjs",
+    "story-scenes.cjs",
+    "tag-grip-trial-poses.cjs",
+    "tag-grip.cjs"
+  ],
+  "sourceFreezes": [
+    {
+      "source": "source-v18-return-context",
+      "sha256": "7ceefa1550445d8a236bda7b1510be0385dbac89e092d995481b812b30f59e15"
+    },
+    {
+      "source": "source-v19-word-cues",
+      "sha256": "206bba0344ddce480bc9b7e750df5da8c8c776995412236ec819adac6dc7e4e0"
+    }
+  ],
+  "scope": "Complete context methods/property assignments and Stage calls including text compared. Equal symbolic image dimensions1536x1024 used; no image decoded. Source-call equivalence is not decoded pixel equivalence or v17 media acceptance."
+}

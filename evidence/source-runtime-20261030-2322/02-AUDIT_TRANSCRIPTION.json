@@ -1,0 +1,26 @@
+{
+  "status": "INDEPENDENT_SOURCE_MECHANISM_PASS_FOR_NATIVE_PROOF_NOT_VISUAL_ACCEPTANCE",
+  "reviewer": "/root/resume_runtime_audits",
+  "sourceFreezeSHA256": "cfd185c59806f49d61f7bee3e30c3ad24cd3d22d2c6eeb4bea04c069c4083784",
+  "pins": 93,
+  "independentStates": 10002,
+  "findings": [
+    "Every knee anterior >=2 local against actual toe axis after mirroring",
+    "Upper hinge/inverse wrist transforms agree",
+    "Elbow stroke outside active crate X >=40.52px",
+    "Actual coat/shoe join harness reproduced4964checks: hip >=99.0%, ankle>=74.26% filled crosssection overlap",
+    "Palm counterrotation agrees with overlay",
+    "Apron hem remains above floor while bib hinges",
+    "No new source-known blocker found"
+  ],
+  "nativeQuestions": [
+    "Bent back and neck",
+    "Thigh/calf proportions and interleg depth",
+    "Actual cuff and hip seams",
+    "Convincing two-person load and grip"
+  ],
+  "holds": [
+    "Source-only insert; doorway and full-film integration remain HOLD",
+    "No media authority conferred"
+  ]
+}

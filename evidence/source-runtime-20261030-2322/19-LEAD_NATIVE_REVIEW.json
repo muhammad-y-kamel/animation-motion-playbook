@@ -1,0 +1,36 @@
+{
+  "status": "LEAD_SIX_NATIVE_COMPOSITION_ACCEPTED_SCOPED",
+  "utc": "2026-10-30T23:04:32.948195+00:00",
+  "sourceFreezeSha256": "c49488ed3d25f06719b3e0c79cd9558254528ab9a7deec9814821d001f970291",
+  "planSha256": "5ef0893ba409595ce54b6c25795754869ba7a57de4185fbd8332ac7ab2498ef5",
+  "journalSha256": "6cf4ea8d8de777b7c380d7783bf846ae7769518accedbacf21e1beeadb235f75",
+  "receiptSha256": "4f75ba24715fa6f72f05469a38f6cd61c2ee9dbe8cfe7e2926ba7dc0853c9129",
+  "observations": "Actually viewed all six native1920x1080 JPEGs. Neutral fullwidth night contexts have no substitute actors. Employer/refusal head and palms intact. Tareq-only24220 chest-up shows complete hair/head/neck/shoulders and no employer hand/sliver; caption clear. Uncle24440 fullwidth context has complete heads, connected bag grip and empty demand palm, no money transfer. No mats/stretch.24148 employer context is last frame before locked Mostafa word cue, though six-word caption already mentions Mostafa; full encoded cut/word review remains mandatory.",
+  "limits": "Six representative stills only, not full motion/dwell/listening/cut-neighbor acceptance. Source/tests align actual token cues, not caption-group starts.",
+  "proofs": [
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/preflight-v19-word-cue-six-native-r1/proof/native-23680.jpg",
+      "sha256": "2e93299c6999e6813e751401ff3a8dc17c849215aefdd2062aeba9cbd53a272c"
+    },
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/preflight-v19-word-cue-six-native-r1/proof/native-23950.jpg",
+      "sha256": "f2bbdae33317ae52282002300a252b64fe03220f3706ee68c9e4e2c98daf5885"
+    },
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/preflight-v19-word-cue-six-native-r1/proof/native-24148.jpg",
+      "sha256": "6a0ecf3e18e7cca170d5ae4ab79de09a4d0e179f85ed9408528a527a616b8fec"
+    },
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/preflight-v19-word-cue-six-native-r1/proof/native-24220.jpg",
+      "sha256": "d462104b7738514e11e480b32e9cc1ea150c0cf4bd99139536222260850f1375"
+    },
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/preflight-v19-word-cue-six-native-r1/proof/native-24440.jpg",
+      "sha256": "9320ce2b35807baa8ca20785545f9fdcf4aacadb97c4e85131cea26ee91600d0"
+    },
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/preflight-v19-word-cue-six-native-r1/proof/native-24700.jpg",
+      "sha256": "454d8a17896112e9a00b975405ab7274139afa68da3d46d7de1304f218db4e7f"
+    }
+  ]
+}

@@ -596,6 +596,26 @@
       "acceptance": "SIX_NATIVE_CUT_STILLS_AND_FRESH_TAG7_WINDOW_SCOPED_ONLY_NOT_FULL_FILM",
       "discovered_by": "agent source audit; independent differential reviewer; root native/pin review",
       "file": "entries/HAKAWI-E04-DISCRETE-FREEZE-20261030.md"
+    },
+    {
+      "id": "WHATIF-SOURCE-LIFECYCLE-20261030",
+      "title": "Anatomical IK branches, registered-child lifecycle and per-write reservation",
+      "category": "geometry/runtime/admission/semantic-QA",
+      "project": "ماذا لو كنت",
+      "episode": "Milan",
+      "status": "validated_with_limits",
+      "discovered_by": "agent and independent reviewers; attributed root/lead scoped pixel evidence",
+      "file": "entries/WHATIF-SOURCE-LIFECYCLE-20261030.md"
+    },
+    {
+      "id": "HAKAWI-E04-QA-SCHEMA-WORD-CUES-20261030",
+      "title": "Actual GO-to-QA metadata validation and canonical word cues",
+      "category": "geometry/runtime/admission/semantic-QA",
+      "project": "حكاوي الحارة",
+      "episode": "E04",
+      "status": "validated_with_limits",
+      "discovered_by": "agent and independent reviewers; attributed root/lead scoped pixel evidence",
+      "file": "entries/HAKAWI-E04-QA-SCHEMA-WORD-CUES-20261030.md"
     }
   ]
 }

@@ -1,0 +1,67 @@
+{
+  "utc": "2026-10-30T22:54:37.050408+00:00",
+  "status": "LEAD_WINDOW_HOLD_SEMANTIC_CUE_ALIGNMENT",
+  "windowId": "return-restition-existing-3",
+  "videoSha256": "26fbf82af8794171857ad7f1298388ecc65a7245b571dce421836b856337897b",
+  "sourceFreezeSha256": "7451f3b0405c698674323f6c2ae87a2d8add00a2a7498b848634c5053d80db65",
+  "technicalClosureSha256": "9ba48fb8a591bbb4332a7807f8a4fd18e416426792dec0e6203876c14bc337a5",
+  "standingGoSha256": "f7f1c771cc197e35fe08484ebdeadb2000dcf578ac26eca11c9bb34470fe3938",
+  "scope": "Actually viewed all 240 chronological thumbnails and 8 selected native JPEGs. Technical receipt reports exact PTS/canonical PCM; no listening, real-time playback or every-frame-native claim.",
+  "scopedPass": "Full-width contexts, intact heads/palms/bag grip; clean hard cuts G24095/24096 and G24154/24155, no brown mats, stretching or cross-cut shutter blend.",
+  "hold": "Caption Mostafa refused to speak persists over employer/Tareq context and then uncle/Tareq empty-palm demand from G24155. The uncle-specific cue has not appeared by G24231. Cannot accept this as depicted Mostafa or treat composition approval as semantic approval. Existing source uses repay action start402.5714285714 for uncle context before second cut404.8 uncle demand.",
+  "nextAction": "Source-only exact caption/word-timing inventory and bounded cue-alignment proposal; preserve media and no next checkpoint or encode until resolved.",
+  "proofs": [
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/motion-preflight-v18-return-context/qa/slot-3/v18-return3-qa-r1/native-L000-G23992.jpg",
+      "sha256": "5594fc444c7b5ad5a3963a2d4b4a633f57d30c93f99f4b050d301f2cd421e2bc"
+    },
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/motion-preflight-v18-return-context/qa/slot-3/v18-return3-qa-r1/native-L048-G24040.jpg",
+      "sha256": "b533655328f40aac864c8caea3798806b7e4eef1190360519083a52b24927adc"
+    },
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/motion-preflight-v18-return-context/qa/slot-3/v18-return3-qa-r1/native-L096-G24088.jpg",
+      "sha256": "f41fd3639c7ca4c7eec549ca3639b6f45a10f60f6657e9c2a3f691ef39dd92fa"
+    },
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/motion-preflight-v18-return-context/qa/slot-3/v18-return3-qa-r1/native-L103-G24095.jpg",
+      "sha256": "a7f9419f8ff58101be8db2ee9a2a471f76ebca3ae24010c0cbeb27d099fcaabd"
+    },
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/motion-preflight-v18-return-context/qa/slot-3/v18-return3-qa-r1/native-L104-G24096.jpg",
+      "sha256": "30f25f9cbf42d5e75a913e4aa5bfbc9de7e826a63c7cc7a2bb6601e58650bb77"
+    },
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/motion-preflight-v18-return-context/qa/slot-3/v18-return3-qa-r1/native-L162-G24154.jpg",
+      "sha256": "55b0a80dd92e1b5c9be291c5a9ce5255f8493bc27fb08d348ac8a4c976c7bc9e"
+    },
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/motion-preflight-v18-return-context/qa/slot-3/v18-return3-qa-r1/native-L163-G24155.jpg",
+      "sha256": "889c553d9d81ee6a91736e52040106f29f4a6b0ce894fe773cdfff4cf30d5b28"
+    },
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/motion-preflight-v18-return-context/qa/slot-3/v18-return3-qa-r1/native-L239-G24231.jpg",
+      "sha256": "a5fb622f0d0a9891192ba44d72d8cfc1acf12c0c1fb7bf6bd92c5c39c0bec6c2"
+    },
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/motion-preflight-v18-return-context/qa/slot-3/v18-return3-qa-r1/sheet-00.jpg",
+      "sha256": "03b7d6bd61ec807b69efe032635009f01bb236cedbcb1ba191c0c2a3111cc6cd"
+    },
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/motion-preflight-v18-return-context/qa/slot-3/v18-return3-qa-r1/sheet-01.jpg",
+      "sha256": "d4055c8550d078885edf0e0d1584f1a395d876a71b01ed08f7b9edad91d114b4"
+    },
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/motion-preflight-v18-return-context/qa/slot-3/v18-return3-qa-r1/sheet-02.jpg",
+      "sha256": "cab3b235cda70ec31c93dc785c69634105afef550b8c56bf2ad24f15eb7f8441"
+    },
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/motion-preflight-v18-return-context/qa/slot-3/v18-return3-qa-r1/sheet-03.jpg",
+      "sha256": "12d4cd2e20c57fffb69c6457bb365e4d616800aa10006723380c1b3f3b5ce3ac"
+    },
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/motion-preflight-v18-return-context/qa/slot-3/v18-return3-qa-r1/sheet-04.jpg",
+      "sha256": "971b0af4c03b8ca8910e3e8531547ac17e51bd8627ccbf7d38c3f2f9fa356605"
+    }
+  ]
+}

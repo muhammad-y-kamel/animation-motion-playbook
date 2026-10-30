@@ -1,0 +1,19 @@
+{
+  "status": "WITHDRAWN_RESOURCE_DESCENDANT_SUPERVISION_PASS",
+  "createdUtc": "2026-10-30T22:06:03.254495+00:00",
+  "reason": "Live own process /proc/PID/task/TID/children returns ENOENT; launcher suppresses OSError and treats unsupported enumeration as empty descendant list.",
+  "actualEvidence": {
+    "run": "run-portrait-20261030T220305Z",
+    "ownedNodePid": 27,
+    "unobservedJournalChildPids": [
+      50,
+      59,
+      60
+    ],
+    "reportedPeakRssBytes": 163901440,
+    "peakScope": "Node only, not combined"
+  },
+  "scope": "Preserve all output/receipts. No actual pixel evidence discarded; movie motion acceptance remains separate. Prophets generic descendant guarantee unsupported; E04 direct renderer/encoder and QA decoder Popen ownership does not depend on children enumeration.",
+  "repair": "Additive explicit validated spawn registration/handshake before work; test bounded harmless descendants and cleanup; no broad guessed process ownership.",
+  "originalAdmissionSha256": "fa13386492296aa5cda58271559ba5d7aed22dd915e4be68af2b7c8d4374a52b"
+}
