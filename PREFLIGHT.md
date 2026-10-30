@@ -286,3 +286,11 @@ Evidence: [E03 long timestamp/mapping proof and still-blocked pipe recovery](ent
 - [ ] Journal owned child identity, bound per-process memory/stack and total I/O time, and prove actual reap. Record failed allocation/pthread trials; do not universalize a task-specific 512 MiB/1 MiB-stack success or claim the EAGAIN cause fully established.
 - [ ] Recheck observed thread count and accounting limits: generic threads=1 can still produce multiple threads; host available memory is not cgroup capacity proof. Pre-write byte caps and review/archive release still apply.
 Evidence: [additive successful 17-frame recovery with original cleanup OPEN](entries/HAKAWI-E03-LONG-TIMESTAMPS-PIPE-BLOCK-20261030.md#additive-outcome--2026-10-30-1014-utc-media-accepted-original-cleanup-still-open). Future lifecycle contract remains source-only.
+
+
+## Donor boundary is not joint topology — E04 scoped still repair
+- [ ] Classify a visible seam/crescent using the original donor pixels and native composite before repeatedly changing masks or topology. A continuous limb can remove joint gaps while still retaining apron/background contamination.
+- [ ] Trace the actual local skin/garment boundary, preserve donor identity and record pixel coordinates/margin. A donor-specific color threshold or one-pixel inset is not a general segmentation rule.
+- [ ] Recheck the whole connected silhouette and real thumb/card depth at original native resolution, including proximal exit and captions; preserve failed split-mask trials.
+- [ ] Carry only the exact reviewed scope. Four selected native stills do not clear transfer/release motion, neighboring cuts, final episode/audio or portrait adaptation.
+Evidence: [E04 v5–v7 tag-mask trial history and exact four-still receipts](entries/HAKAWI-E04-TAG-MASK-20261030.md).
