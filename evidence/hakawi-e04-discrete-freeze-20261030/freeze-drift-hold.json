@@ -1,0 +1,29 @@
+{
+  "status": "PRE_EXECUTION_FREEZE_DRIFT_HOLD_NO_MEDIA",
+  "cause": "Parent freeze15:48:13 preceded helper final auxiliary expected-budget test edits15:48:33; no child launched",
+  "files": [
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/planning-motion-v1/runtime-draft-v14/test-thread-watch-delta.py",
+      "oldFrozenSha256": "1fca7a5e69a955096da7eff5f58636dd73df09d7b423d49486c4855c574543a8",
+      "currentSha256": "d1ba533759b690a397e35bc135ea01646a62c488e7df999ceeeff25e61f32500",
+      "exactDiff": "Only expected QA aggregate budget64\u219296MiB; no command/limit assertion removed",
+      "testOutput": "{\"status\": \"PURE_V8_JOINT_ENCODER_ENVELOPE_TELEMETRY_PASS\", \"encoderWatch\": 12, \"nodeWatch\": 16, \"otherLimitsAndCommandsUnchanged\": true, \"maxNames\": 12, \"maxBytes\": 2048, \"rolesMeasuredInPreservedV4\": true}\n"
+    },
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/planning-motion-v1/runtime-draft-v14/test-input-thread-scoping.py",
+      "oldFrozenSha256": "39ba075c6b8598ac649e51a0786c5ad441156569b679ca0baf9c7de62f762486",
+      "currentSha256": "1a187069beaf9c9fe99dec4f761482c165647f4ab8287b429d40478d762fb525",
+      "exactDiff": "Only expected QA aggregate budget64\u219296MiB; no command/limit assertion removed",
+      "testOutput": "{\"status\": \"PURE_INPUT_THREAD_SCOPING_PASS_NO_LAUNCH\", \"firstRawDecoderThreads\": 1, \"secondAudioInputThreads\": 1, \"x264Threads\": 2, \"audioOutputThreads\": 1, \"filterThreads\": 1, \"onlyEncoderThreadWatchRootApproved12\": true, \"visualQualityAudioUnchanged\": true}\n"
+    },
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/planning-motion-v1/runtime-draft-v14/test-command-parity.py",
+      "oldFrozenSha256": "ecf6f37dc73e3af7716d7eb8e5bc9ac4e1561dea5b47006aed308bbe9703f8f0",
+      "currentSha256": "4f21818dc0a4fcf5a0e0bff5a2e1a24fcbcd9ab95a542f6182a1c0bcafcb3f53",
+      "exactDiff": "Only expected QA aggregate budget64\u219296MiB; no command/limit assertion removed",
+      "testOutput": "{\"status\": \"PURE_COMMAND_PARITY_PASS_NO_LAUNCH\", \"v8PoolSize\": 1, \"nodeThreadCapUnchanged\": 16, \"encoderOnlyRawInputThreads1Added\": true, \"explicitJointEncoderEnvelopeAS2048DataRss512MiB\": true, \"frames\": 240, \"samples\": 176400}\n"
+    }
+  ],
+  "supervisorSha256": "0375ad36591a58e57529528f9bad147a7d1d72cae7503688727fad3a5c271764",
+  "resolution": "New additive phase required; original FREEZE/PLAN retained unchanged"
+}

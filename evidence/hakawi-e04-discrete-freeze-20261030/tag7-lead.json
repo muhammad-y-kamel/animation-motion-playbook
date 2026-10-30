@@ -1,0 +1,65 @@
+{
+  "utc": "2026-10-30T15:55:04.781048+00:00",
+  "status": "LEAD_WINDOW_ACCEPTED_SCOPED",
+  "windowId": "tag7-1",
+  "videoSha256": "b970953af5f9657c04afa8e7bbf0e59341051316c084c5254a1a85aee5f6b2ff",
+  "sourceFreezeSha256": "5afc13343c814505433ec6f48cc7ee934e24a8b8cf6cb00eedef4a85cd22925e",
+  "technicalClosureSha256": "ce7ed573873d55cd474305b03d496218528532fced55d4dbf3cd3661f3e0754b",
+  "standingGoSha256": "08612786c445a140765dbb9b89fd7635dbcb5b9059bffe5f1d69b7d0e600b120",
+  "scope": "Lead actually viewed every contact-sheet thumbnail and all8selectednativeframes; technical allframePTS+canonicalPCM. Not realtimeplayback/listening, notnativeanatomyinspectioneveryframe orwholefilm. Root did not personally inspect these images yet.",
+  "observations": "Actual all196 frame thumbnails and8native witnesses reviewed. Caption presentG9856 then clean absent9857/9858 with no translucent sampled remnant; intended swap cut clear. Connected whole arm/opposing label grip, single7 glyph, carry/place/withdraw remain coherent. After release7and12 visibly side-by-side with clean gap; no stationary-label overpaint on activehand or number flip. Captions readable. Rootcritical pending; no successor. Not realtimeplayback/listening/everyframe-native/fullfilm acceptance.",
+  "proofs": [
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/motion-preflight-standing-v8/qa/slot-1/tag7-1/native-L000-G09856.jpg",
+      "sha256": "33d4d2316d9721a98447cb32f8508e752306ffb5152329ca8478d9f825704cca"
+    },
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/motion-preflight-standing-v8/qa/slot-1/tag7-1/native-L001-G09857.jpg",
+      "sha256": "4eba5a07c1a081e6eb24d375c7ed3527ee7489a0525c2895e3d53c6588b69719"
+    },
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/motion-preflight-standing-v8/qa/slot-1/tag7-1/native-L002-G09858.jpg",
+      "sha256": "3ef57ad6607d92a130c541e28425963ddbc30c6941ea1b141d931cf2cf45d4b9"
+    },
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/motion-preflight-standing-v8/qa/slot-1/tag7-1/native-L046-G09902.jpg",
+      "sha256": "85946b87df30f52811327cfb498971a506bf3091fb5d954571143d10ad6d8b4b"
+    },
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/motion-preflight-standing-v8/qa/slot-1/tag7-1/native-L076-G09932.jpg",
+      "sha256": "2f6c6bd5e463f1845c83ec0f906d9bc869dc9bf4cef634f982576ad827a0476c"
+    },
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/motion-preflight-standing-v8/qa/slot-1/tag7-1/native-L136-G09992.jpg",
+      "sha256": "e4bb548bad64a392d8c864b21e7a3f41363367dee887e387d36628a9e9fd0919"
+    },
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/motion-preflight-standing-v8/qa/slot-1/tag7-1/native-L184-G10040.jpg",
+      "sha256": "ebff0725e4ffb654274292b2db530e0dd16a484a87cb5400a5ff7d3e5e6f9afa"
+    },
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/motion-preflight-standing-v8/qa/slot-1/tag7-1/native-L195-G10051.jpg",
+      "sha256": "d109da627fef9abd326a094cc15b7e7a9dfdcfe806caf6f8deff9fbd5de05767"
+    },
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/motion-preflight-standing-v8/qa/slot-1/tag7-1/sheet-00.jpg",
+      "sha256": "01dccc757d30eace9754fbbd974d70259ddedd1584a282ca8c4f342e44f30d57"
+    },
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/motion-preflight-standing-v8/qa/slot-1/tag7-1/sheet-01.jpg",
+      "sha256": "8362cb4ce3e89725bb2819615024529de44defc8454b24a3c30116609e81e3c3"
+    },
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/motion-preflight-standing-v8/qa/slot-1/tag7-1/sheet-02.jpg",
+      "sha256": "c819e2f386ae50374163ea3433d2f3d3cdc3e96fb092338be884d34e176a033b"
+    },
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/motion-preflight-standing-v8/qa/slot-1/tag7-1/sheet-03.jpg",
+      "sha256": "e9e7c8e937d6e2c532942b006bc3dbc02a5e1759b2069ca78bfacf98def3f8db"
+    },
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/motion-preflight-standing-v8/qa/slot-1/tag7-1/sheet-04.jpg",
+      "sha256": "29a95511237a80b237a6b4d3f8ba876e85a6f481e357165da566656bdfa732db"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "status": "PROPOSAL_ONLY_NO_RUNTIME_OR_CAP_CHANGE",
+  "measured": {
+    "eightNativeJPEG94Bytes": 10772817,
+    "fourSheetJPEG88Bytes": 4645470,
+    "maxSheetBytes": 1163609,
+    "partialTreeBytes": 15562831,
+    "decodedFrames": 240,
+    "fifthSheetRejectedBeforeWrite": true
+  },
+  "projection": {
+    "eightNativesPlusFiveMaxSheetsBytes": 16590862,
+    "metadataAllowanceBytes": 1048576,
+    "scope": "Estimate from this actual scene, not guaranteed bound for every future scene"
+  },
+  "proposed": {
+    "qaPerWindowBytes": 25165824,
+    "fourSlotAggregateBytes": 100663296,
+    "retainedMiB": 128,
+    "qaMiB": 96,
+    "tempMiB": 64,
+    "controlsMiB": 16,
+    "floorMiB": 150,
+    "globalMiB": 454,
+    "quality": "NativeJPEG94 unchanged; review sheetsJPEG88 unchanged, full240thumbs and8natives retained; no fewerframes/smallerimages",
+    "runtimeScope": "Prospective explicit QA prewrite/builder/standing resource budget constants only; no child memory/thread/codec/source/audio change; new audit/freeze/GO required"
+  },
+  "freshFreeBytes": 761253888,
+  "failedOriginalsRetained": true
+}

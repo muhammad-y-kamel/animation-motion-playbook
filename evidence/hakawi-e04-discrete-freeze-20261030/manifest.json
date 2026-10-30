@@ -1,0 +1,67 @@
+{
+  "status": "TEXT_EVIDENCE_SNAPSHOT_SCOPED_NOT_FULL_FILM",
+  "date": "2026-10-30",
+  "records": [
+    {
+      "file": "source-discrete-audit.json",
+      "sha256": "f0f2966be2d270a95964979f73654aed277bf75fd8eca06dca15a0dfc391876b",
+      "originalLocalPath": "hakawi_repair/e04-rebuild-20261029/audit-v15-discrete/RESULT.json",
+      "scope": "text receipt only; linked binary evidence not newly inspected or copied"
+    },
+    {
+      "file": "carry-trace.json",
+      "sha256": "5bc993bb0c001f6bf26334d34ea9326b896c1ebeee7b428cca7f753b130b86eb",
+      "originalLocalPath": "hakawi_repair/e04-rebuild-20261029/audit-v15-discrete/CARRY_TRACE_RESULT.json",
+      "scope": "text receipt only; linked binary evidence not newly inspected or copied"
+    },
+    {
+      "file": "bridge-audit.json",
+      "sha256": "7e2cba3e93c527e2fb24a174ef2cedfd49f1b9cf6328eae277693c8822dd116f",
+      "originalLocalPath": "hakawi_repair/e04-rebuild-20261029/audit-v15-discrete/CARRY_AUDIT_RECEIPT.json",
+      "scope": "text receipt only; linked binary evidence not newly inspected or copied"
+    },
+    {
+      "file": "native-six-root.json",
+      "sha256": "51f2e7ef02816d8debbff2de1a916a779d4b9c8553fc32173d15a9aad827b62f",
+      "originalLocalPath": "hakawi_repair/e04-rebuild-20261029/preflight-v15-story-cut-anchors-r2/ROOT_ACTUAL_REVIEW.json",
+      "scope": "text receipt only; linked binary evidence not newly inspected or copied"
+    },
+    {
+      "file": "tag7-lead.json",
+      "sha256": "d6e2bf76e0bf3ff910fd85cb107d4ca3c07f0f64978d7a425d1c58fc9e0633a4",
+      "originalLocalPath": "hakawi_repair/e04-rebuild-20261029/motion-preflight-standing-v8/controls/tag7-1/LEAD_ACTUAL_REVIEW.json",
+      "scope": "text receipt only; linked binary evidence not newly inspected or copied"
+    },
+    {
+      "file": "tag7-root.json",
+      "sha256": "ce4d3bd7eb7601c60b237fc16e8c2f1c93934c1857808574069748c51e9db785",
+      "originalLocalPath": "hakawi_repair/e04-rebuild-20261029/motion-preflight-standing-v8/controls/tag7-1/ROOT_CRITICAL_REVIEW.json",
+      "scope": "text receipt only; linked binary evidence not newly inspected or copied"
+    },
+    {
+      "file": "tag7-technical.json",
+      "sha256": "ce7ed573873d55cd474305b03d496218528532fced55d4dbf3cd3661f3e0754b",
+      "originalLocalPath": "hakawi_repair/e04-rebuild-20261029/motion-preflight-standing-v8/controls/tag7-1/QA_TECHNICAL_CLOSED.json",
+      "scope": "text receipt only; linked binary evidence not newly inspected or copied"
+    },
+    {
+      "file": "freeze-drift-hold.json",
+      "sha256": "bceed3a8b7152f1c939d901deb1253fdabe8dc3c65beba95ae60f4d42ebab66a",
+      "originalLocalPath": "hakawi_repair/e04-rebuild-20261029/motion-preflight-standing-v7/FREEZE_DRIFT_HOLD.json",
+      "scope": "text receipt only; linked binary evidence not newly inspected or copied"
+    },
+    {
+      "file": "budget-proposal.json",
+      "sha256": "34e78b536291917f387ec33bb0c632154aa54e356ca1a012fd4fa20ca669d24b",
+      "originalLocalPath": "hakawi_repair/e04-rebuild-20261029/planning-v15/QA_BUDGET_PROPOSAL.json",
+      "scope": "text receipt only; linked binary evidence not newly inspected or copied"
+    }
+  ],
+  "rootReportedAdditionalFacts": {
+    "standingV8Checks": 834,
+    "mismatches": 0,
+    "tag7ExactPCMSamples": 144060,
+    "tag7LibraryArchive": "libfile_df4f699566388191959045665886a313v0"
+  },
+  "attribution": "Native findings and834-pin finalcheck attributed to root; source trace independently performed."
+}

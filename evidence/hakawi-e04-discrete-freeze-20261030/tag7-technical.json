@@ -1,0 +1,41 @@
+{
+  "status": "TECHNICALLY_DECODED_AND_PCM_MATCHED_ACTUAL_REVIEW_PENDING",
+  "windowId": "tag7-1",
+  "videoSha256": "b970953af5f9657c04afa8e7bbf0e59341051316c084c5254a1a85aee5f6b2ff",
+  "sourceFreezeSha256": "5afc13343c814505433ec6f48cc7ee934e24a8b8cf6cb00eedef4a85cd22925e",
+  "videoReceiptSha256": "2fe33c060c6ec5df310f9beb207b9e3d71714f183471c9a7c317a895ce7a06eb",
+  "audioReceiptSha256": "281ae44828cebe372d80bc183c5d5739796d2db5ca31672a86451cd144f8cc05",
+  "actualVisualReview": "NOT_PERFORMED",
+  "actualListening": "NOT_PERFORMED",
+  "errors": [],
+  "children": [
+    {
+      "kind": "video",
+      "pid": 9,
+      "startTick": "20514759",
+      "bootId": "808510ce-dc4f-4a04-a59e-e0dae3a3b505",
+      "peaks": {
+        "rss": 210644992,
+        "as": 668413952,
+        "data": 230682624,
+        "threads": 6
+      },
+      "exitCode": 0,
+      "observedReaped": true
+    },
+    {
+      "kind": "audio",
+      "pid": 15,
+      "startTick": "20516155",
+      "bootId": "808510ce-dc4f-4a04-a59e-e0dae3a3b505",
+      "peaks": {
+        "rss": 41168896,
+        "as": 606023680,
+        "data": 58994688,
+        "threads": 6
+      },
+      "exitCode": 0,
+      "observedReaped": true
+    }
+  ]
+}

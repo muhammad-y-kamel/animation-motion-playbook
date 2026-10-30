@@ -171,3 +171,7 @@ AnswerAct reference final04 delivered with1852initial-frame review,704changed+16
 
 ## E04 bounded runtime pilot — 2026-10-30
 - [HAKAWI-E04-RUNTIME-PILOT-20261030](entries/HAKAWI-E04-RUNTIME-PILOT-20261030.md): terminal-loop false-success, explicit thread/input flag scoping, measured encoder/decoder envelopes and controller hard-limit inheritance. One240-frame pilot with exact PCM/PTS and scoped thumbnail/native review; no whole-film, listening or real-time playback acceptance.
+
+
+## E04 shutter cuts, historical carry and freeze race — 2026-10-30
+- [HAKAWI-E04-DISCRETE-FREEZE-20261030](entries/HAKAWI-E04-DISCRETE-FREEZE-20261030.md): sampled wide/detail G1951 repaired with central discrete/caption clock and six-native scoped root pass. G9857 caption mismatch rejected blanket carry; fresh196-frame tag7 proof plus1,677 exact symbolic samples support explicitly historical other-three evidence. Post-freeze test-writer race forced v7 HOLD/additive v8; prospective24MiB QA allowance retains JPEG94/88 and coverage. Full-film/audio-listening/publication gates remain separate.

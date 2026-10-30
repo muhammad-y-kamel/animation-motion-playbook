@@ -1,0 +1,33 @@
+{
+  "status": "ROOT_CRITICAL_WINDOW_ACCEPTED",
+  "windowId": "tag7-1",
+  "sourceFreezeSha256": "5afc13343c814505433ec6f48cc7ee934e24a8b8cf6cb00eedef4a85cd22925e",
+  "videoSha256": "b970953af5f9657c04afa8e7bbf0e59341051316c084c5254a1a85aee5f6b2ff",
+  "technicalClosureSha256": "ce7ed573873d55cd474305b03d496218528532fced55d4dbf3cd3661f3e0754b",
+  "leadReviewSha256": "d6e2bf76e0bf3ff910fd85cb107d4ca3c07f0f64978d7a425d1c58fc9e0633a4",
+  "standingGoSha256": "08612786c445a140765dbb9b89fd7635dbcb5b9059bffe5f1d69b7d0e600b120",
+  "rootActualViews": [
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/motion-preflight-standing-v8/qa/slot-1/tag7-1/native-L000-G09856.jpg",
+      "sha256": "33d4d2316d9721a98447cb32f8508e752306ffb5152329ca8478d9f825704cca"
+    },
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/motion-preflight-standing-v8/qa/slot-1/tag7-1/native-L001-G09857.jpg",
+      "sha256": "4eba5a07c1a081e6eb24d375c7ed3527ee7489a0525c2895e3d53c6588b69719"
+    },
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/motion-preflight-standing-v8/qa/slot-1/tag7-1/native-L002-G09858.jpg",
+      "sha256": "3ef57ad6607d92a130c541e28425963ddbc30c6941ea1b141d931cf2cf45d4b9"
+    },
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/motion-preflight-standing-v8/qa/slot-1/tag7-1/native-L136-G09992.jpg",
+      "sha256": "e4bb548bad64a392d8c864b21e7a3f41363367dee887e387d36628a9e9fd0919"
+    },
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/motion-preflight-standing-v8/qa/slot-1/tag7-1/native-L184-G10040.jpg",
+      "sha256": "ebff0725e4ffb654274292b2db530e0dd16a484a87cb5400a5ff7d3e5e6f9afa"
+    }
+  ],
+  "observations": "Root personally viewed five native witnesses: clean caption disappearance9856\u21929857/9858, connected grip9992, stablelegible7beside12at10040. Lead196thumbnails/eightnatives and exactcanonicalPCM/PTS acknowledged separately. No realtime/listening/fullfilm claim.",
+  "explicitResume": "Root15:55 permits noncriticalfamily continuation under exactv8 afterfreshdurability/slotrelease; pauseatcriticalgift/anyHOLD. Never reencode carriedhistorical3."
+}

@@ -585,6 +585,17 @@
       "acceptance": "ONE_240_FRAME_PILOT_SCOPED_THUMBNAIL_NATIVE_AND_TECHNICAL_AUDIO_ONLY",
       "discovered_by": "agent source/runtime audit; root scoped actual visual review",
       "file": "entries/HAKAWI-E04-RUNTIME-PILOT-20261030.md"
+    },
+    {
+      "id": "HAKAWI-E04-DISCRETE-FREEZE-20261030",
+      "title": "Shutter-mixed editorial cuts, caption-aware historical carry and freeze writer races",
+      "project": "حكاوي الحارة",
+      "episode": "E04",
+      "category": "editorial-cuts/shutter-sampling/captions/provenance/freeze/resource-QA",
+      "status": "validated_with_limits",
+      "acceptance": "SIX_NATIVE_CUT_STILLS_AND_FRESH_TAG7_WINDOW_SCOPED_ONLY_NOT_FULL_FILM",
+      "discovered_by": "agent source audit; independent differential reviewer; root native/pin review",
+      "file": "entries/HAKAWI-E04-DISCRETE-FREEZE-20261030.md"
     }
   ]
 }

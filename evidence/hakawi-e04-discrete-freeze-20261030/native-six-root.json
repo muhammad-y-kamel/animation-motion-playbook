@@ -1,0 +1,34 @@
+{
+  "status": "ROOT_SCOPED_SIX_NATIVE_CUT_REGRESSION_ACCEPTED",
+  "sourceFreezeSha256": "5afc13343c814505433ec6f48cc7ee934e24a8b8cf6cb00eedef4a85cd22925e",
+  "planSha256": "1ae8a967029b4b30510c77c67ea695af511e285dffdc57c82d27fc58cd206fa1",
+  "phaseFreezeSha256": "046e97249d6debf18fe48516ca9939045a9b63269b4517d9f548cde103c4a66e",
+  "leadReviewSha256": "8ce9fd9d2993defdaa64268ca198f1df7cecc2ecde21340052eedb13ba4ac8fc",
+  "actualViews": [
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/preflight-v15-story-cut-anchors-r2/proof/native-01951.jpg",
+      "sha256": "76c19619e972ca4e2fcc00c2200a58265391b721950748d3d86d6d034d4c1673"
+    },
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/preflight-v15-story-cut-anchors-r2/proof/native-01952.jpg",
+      "sha256": "f76dc53b1930da45c260a1b66f7c723163612fa5cb652a359211792de05fddda"
+    },
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/preflight-v15-story-cut-anchors-r2/proof/native-02708.jpg",
+      "sha256": "fe0524deae71bd33aca2ddeb57379503a6238438a47c7fa849fc36c275974f24"
+    },
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/preflight-v15-story-cut-anchors-r2/proof/native-02709.jpg",
+      "sha256": "250753d54b5ffc515a1ba41a42952b3c87686b9d4a0e5427fb4112821f33facf"
+    },
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/preflight-v15-story-cut-anchors-r2/proof/native-03654.jpg",
+      "sha256": "7129fd55493ba75d074c61b6740d31744e41c0cc2d7550a6d32777ff02bfc3c0"
+    },
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/preflight-v15-story-cut-anchors-r2/proof/native-03655.jpg",
+      "sha256": "820e03ac30345f00ac44eea6c2e0fcfc1322f9567b7f05593a45b950b9a4ef25"
+    }
+  ],
+  "observations": "Root personally viewed all6: no wide/detail double exposure, single captions, limbs unbroken in selected samples. Scoped discrete-cut still acceptance only, not continuous wrist pressing/action quality or full-window/audio acceptance."
+}

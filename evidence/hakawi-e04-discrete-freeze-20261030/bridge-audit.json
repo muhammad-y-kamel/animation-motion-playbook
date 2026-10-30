@@ -1,0 +1,23 @@
+{
+  "status": "SOURCE_ONLY_HYBRID_BRIDGE_REVIEW_COMPLETE_NOT_NATIVE_ACCEPTANCE",
+  "reviewedSupervisorSha256": "0375ad36591a58e57529528f9bad147a7d1d72cae7503688727fad3a5c271764",
+  "matchingHistoricalSamples": 1677,
+  "freshTag7Required": true,
+  "tag7MismatchPreserved": true,
+  "independentSyntheticBridgeTestsPassed": 6,
+  "independentBudgetTestsPassed": 7,
+  "files": [
+    {
+      "path": "hakawi_repair/e04-rebuild-20261029/audit-v15-discrete/CARRY_AUDIT.md",
+      "sha256": "10f51d2f527a1d45e154526d131bed3a39ca2b1483d474881156b90f2feb694d"
+    },
+    {
+      "path": "hakawi_repair/e04-rebuild-20261029/audit-v15-discrete/CARRY_TRACE_RESULT.json",
+      "sha256": "5bc993bb0c001f6bf26334d34ea9326b896c1ebeee7b428cca7f753b130b86eb"
+    },
+    {
+      "path": "hakawi_repair/e04-rebuild-20261029/audit-v15-discrete/audit-carry.cjs",
+      "sha256": "6aa1725bafffb5e211be575da00e018eef3a56b4b2f1a46dd7e4f0fe1bcbc435"
+    }
+  ]
+}

@@ -303,3 +303,13 @@ Evidence: [E04 v5–v7 tag-mask trial history and exact four-still receipts](ent
 - [ ] Preserve failed output/false receipt with additive HOLD. Bound diagnostics and pre-encode image bytes before quota writes; maintain inherited leases and bounded owned-child reap.
 - [ ] Verify complete decoded ordinals/PTS plus canonical PCM bytes AND audio origin/cadence. State thumbnail/native/real-time/listening scopes separately; one pilot does not accept the episode.
 Evidence: [E04 measured pilot and retained failed trials](entries/HAKAWI-E04-RUNTIME-PILOT-20261030.md). Renderer EPIPE listener itself remains unchanged; terminal guard now rejects its nonzero failure.
+
+
+## Central editorial clock and immutable writer barrier — E04
+- [ ] Select shots, camera/crop, pose, visibility and captions from central frame time; keep genuine continuous movement shutter-sampled. Audit every reachable legacy/override branch, not just the outer shot.
+- [ ] Test exact thresholds±epsilon and adjacent native-frame centers; compare resulting full calls including captions and assets. Re-render the failed boundary and neighbors: mocked equality alone cannot accept pixels.
+- [ ] Historical reuse requires exact scoped equivalence and old-source/plan/GO/range/assets/media/QA/review identities. A single changed caption invalidates blanket carry; reproof affected windows and keep unchanged evidence honestly labelled historical.
+- [ ] Close ALL source, test and receipt writers before freezing. Rehash complete pins independently after freeze and before admission. Even an auxiliary expected-value change means HOLD and additive replacement, never edit the old freeze into validity.
+- [ ] Bind dynamic checkpoint hashes, revalidate captured semantics and rehash controls before each child; forbid reexecution of explicitly carried windows.
+- [ ] Derive prospective QA budgets from measured proof sizes plus control headroom; preserve native/sheet quality and coverage. Enforce local/global caps before writing and obtain newly frozen authority for changed budgets.
+Evidence: [HAKAWI-E04-DISCRETE-FREEZE-20261030](entries/HAKAWI-E04-DISCRETE-FREEZE-20261030.md). Scoped196-frame/tag7 and six-native cut acceptance is not whole-film acceptance.

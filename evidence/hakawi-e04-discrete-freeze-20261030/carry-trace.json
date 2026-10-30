@@ -1,0 +1,143 @@
+{
+  "status": "FAIL_FULL_DRAW_EQUIVALENCE",
+  "differences": [
+    {
+      "window": "tag7-1",
+      "frame": 9857,
+      "offset": -0.005555555555555556,
+      "operation": 735,
+      "v14": [
+        "set",
+        "fillStyle",
+        "rgba(10,27,27,.92)"
+      ],
+      "v15": [
+        "restore"
+      ]
+    }
+  ],
+  "totalFrames": 755,
+  "totalSampleComparisons": 2265,
+  "windows": [
+    {
+      "id": "tag7-1",
+      "firstFrame": 9856,
+      "endFrameExclusive": 10052,
+      "frames": 196,
+      "samples": 588,
+      "actions": {
+        "decision": 39,
+        "swap-one": 549
+      },
+      "legacySamples": 39,
+      "drawImageAssets": [
+        "poor",
+        "props",
+        "seatedgift",
+        "tareq"
+      ],
+      "assetPaths": {
+        "poor": "/workspace/scratch/bb6b47af6d33/channel-repair-inventory/hakawi-remaining/extracted/E04/hakawi-production-20261024/E04-master/assets/poor-tray.png",
+        "props": "/workspace/scratch/bb6b47af6d33/channel-repair-inventory/hakawi-remaining/extracted/E04/hakawi-production-20261024/E04-master/assets/props.png",
+        "seatedgift": "/workspace/scratch/bb6b47af6d33/channel-repair-inventory/hakawi-remaining/extracted/E04/hakawi-production-20261024/E04-master/assets/seated-gift.png",
+        "tareq": "/workspace/scratch/bb6b47af6d33/channel-repair-inventory/hakawi-remaining/extracted/E04/hakawi-production-20261024/E04-master/assets/tareq-intact.png"
+      }
+    },
+    {
+      "id": "tag12-1",
+      "firstFrame": 10154,
+      "endFrameExclusive": 10350,
+      "frames": 196,
+      "samples": 588,
+      "actions": {
+        "swap-one": 39,
+        "swap-two": 549
+      },
+      "legacySamples": 0,
+      "drawImageAssets": [
+        "poor",
+        "props",
+        "seatedgift"
+      ],
+      "assetPaths": {
+        "poor": "/workspace/scratch/bb6b47af6d33/channel-repair-inventory/hakawi-remaining/extracted/E04/hakawi-production-20261024/E04-master/assets/poor-tray.png",
+        "props": "/workspace/scratch/bb6b47af6d33/channel-repair-inventory/hakawi-remaining/extracted/E04/hakawi-production-20261024/E04-master/assets/props.png",
+        "seatedgift": "/workspace/scratch/bb6b47af6d33/channel-repair-inventory/hakawi-remaining/extracted/E04/hakawi-production-20261024/E04-master/assets/seated-gift.png"
+      }
+    },
+    {
+      "id": "cloth-1",
+      "firstFrame": 10380,
+      "endFrameExclusive": 10563,
+      "frames": 183,
+      "samples": 549,
+      "actions": {
+        "swap-two": 36,
+        "lower-tray": 513
+      },
+      "legacySamples": 0,
+      "drawImageAssets": [
+        "poor",
+        "props",
+        "traygrip"
+      ],
+      "assetPaths": {
+        "poor": "/workspace/scratch/bb6b47af6d33/channel-repair-inventory/hakawi-remaining/extracted/E04/hakawi-production-20261024/E04-master/assets/poor-tray.png",
+        "props": "/workspace/scratch/bb6b47af6d33/channel-repair-inventory/hakawi-remaining/extracted/E04/hakawi-production-20261024/E04-master/assets/props.png",
+        "traygrip": "/workspace/scratch/bb6b47af6d33/channel-repair-inventory/hakawi-remaining/extracted/E04/hakawi-production-20261024/E04-master/assets/tray-cloth-grip.png"
+      }
+    },
+    {
+      "id": "gas-door-1",
+      "firstFrame": 10644,
+      "endFrameExclusive": 10824,
+      "frames": 180,
+      "samples": 540,
+      "actions": {
+        "lower-tray": 39,
+        "raise-gas": 501
+      },
+      "legacySamples": 0,
+      "drawImageAssets": [
+        "closedoven",
+        "gasgrip",
+        "oven",
+        "poor",
+        "props"
+      ],
+      "assetPaths": {
+        "closedoven": "/workspace/scratch/bb6b47af6d33/channel-repair-inventory/hakawi-remaining/extracted/E04/hakawi-production-20261024/E04-master/assets/oven-closed.png",
+        "gasgrip": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/assets-v10/gas-grip-v1.png",
+        "oven": "/workspace/scratch/bb6b47af6d33/channel-repair-inventory/hakawi-remaining/extracted/E04/hakawi-production-20261024/E04-master/assets/oven.png",
+        "poor": "/workspace/scratch/bb6b47af6d33/channel-repair-inventory/hakawi-remaining/extracted/E04/hakawi-production-20261024/E04-master/assets/poor-tray.png",
+        "props": "/workspace/scratch/bb6b47af6d33/channel-repair-inventory/hakawi-remaining/extracted/E04/hakawi-production-20261024/E04-master/assets/props.png"
+      }
+    }
+  ],
+  "byteIdenticalHelpers": [
+    "state.cjs",
+    "scenes.cjs",
+    "gas-grip.cjs",
+    "cloth-grip.cjs",
+    "tag-grip.cjs",
+    "props.cjs",
+    "rigs.cjs",
+    "actors.cjs",
+    "burn-outcome.cjs",
+    "semantic-inserts.cjs",
+    "ending-approach.cjs",
+    "return-restitution.cjs",
+    "oven-layout.cjs"
+  ],
+  "scope": "All context methods/property assignments and Stage calls including captions compare exactly for all source samples. Mock image dimensions fixed equally at1536x1024; actual raster not decoded. Same asset paths and byte-identical helper equations establish symbolic equivalence, not new media acceptance.",
+  "sourceFreezeHashes": [
+    {
+      "source": "source-v14",
+      "sha256": "1d43652a3073b0a5db62c4a5b8733d13a0b2f9912a69ddf1c150e1dcf45d04d8"
+    },
+    {
+      "source": "source-v15",
+      "sha256": "5afc13343c814505433ec6f48cc7ee934e24a8b8cf6cb00eedef4a85cd22925e"
+    }
+  ]
+}
