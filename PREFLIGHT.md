@@ -259,3 +259,13 @@ Evidence: [E03 repair trials and open holds](entries/HAKAWI-E03-WIP-20261029.md)
 - [ ] Use balanced large select expressions, verify actual selected PTS, and budget completed plus failed QA evidence without lowering review quality.
 - [ ] Treat sheet/native display discrepancies as uncertain until localized; separate technical closure, visual acceptance, durable source versions and release.
 Evidence: [E03 chunk recovery and technical WIP preservation](entries/HAKAWI-E03-CHUNK-RECOVERY-20261029.md). Sourcev3 preserved D review at22:21; later A/C closure does not imply full release while B/lead aggregate remain pending.
+
+
+## E03 immutable phase / mixed-source actual-output gates — 2026-10-30
+- [ ] Freeze the complete source/config/runtime/AUTH and prefix chunk plan before a reusable pilot; approve later phases with separately hash-bound GO receipts. Stop only after encoder closure; never blindly rerender unclosed media.
+- [ ] Cross-config reuse needs explicit historical identities and immutable derivation, not relabelled chunks. Require exact decoded carry for reused spans and exact final parity to approved new/old chunks.
+- [ ] Keep semantic source scope distinct from codec propagation: measure decoded differences and actually review every newly encoded frame, not only source-edited frames. Full-output QA must cover pre-contact holds as well as critical transfer windows.
+- [ ] Gate assembly on hash-bound actual changed-output coverage, joins, exact replacement COMPLETE/media hashes and current evidence; do not rewrite AUTH to add future approvals.
+- [ ] Reserve archive temporary bytes explicitly in enforced headroom (E03: 96 MiB output + 80 MiB QA + 32 MiB archive + 150 MiB floor). Preserve failed local guard receipts when recovering complete orphan evidence read-only within the preapproved global ceiling.
+- [ ] Distinguish exact lossless PCM, bounded lossy AAC alignment, actual listening/ASR, durable storage and verified Scheduled status. Bounded/native proof does not clear an entire film.
+Evidence: [E03 immutable phases, mixed reuse and Part 1 closure](entries/HAKAWI-E03-IMMUTABLE-MIXED-REUSE-20261030.md). v3 pure tests32; final v4 pure tests68; mocks are not media acceptance.
