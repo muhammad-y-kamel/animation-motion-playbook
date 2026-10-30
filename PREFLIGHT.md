@@ -269,3 +269,12 @@ Evidence: [E03 chunk recovery and technical WIP preservation](entries/HAKAWI-E03
 - [ ] Reserve archive temporary bytes explicitly in enforced headroom (E03: 96 MiB output + 80 MiB QA + 32 MiB archive + 150 MiB floor). Preserve failed local guard receipts when recovering complete orphan evidence read-only within the preapproved global ceiling.
 - [ ] Distinguish exact lossless PCM, bounded lossy AAC alignment, actual listening/ASR, durable storage and verified Scheduled status. Bounded/native proof does not clear an entire film.
 Evidence: [E03 immutable phases, mixed reuse and Part 1 closure](entries/HAKAWI-E03-IMMUTABLE-MIXED-REUSE-20261030.md). v3 pure tests32; final v4 pure tests68; mocks are not media acceptance.
+
+
+## Long concat origins, exact atlas mapping and pipe-safe stops — 2026-10-30
+- [ ] Verify timestamp origin separately from cadence: unmapped AAC priming can shift concat video uniformly. Test copyts/negative-timestamp policy against exact PTS/DTS, pixels/NAL and canonical audio; never waive the origin assertion.
+- [ ] Diagnose suspicious sheet labels with exact ordinal/PTS/MD5 and tile correspondence before changing source or seek offsets. A sliced sheet view is not proof of a frame-index bug.
+- [ ] Encode derivative JPEG bytes in memory and enforce both local subbudget and global cap before writing; an after-write assertion records an overshoot, not compliance.
+- [ ] Close owned stdout pipes before bounded TERM/wait and kill/reap fallback. Test blocked writers synthetically, but do not equate those tests with actual decoder closure or inherited-lock release.
+- [ ] Unsupported host visibility means BLOCKED, not safe-to-rerun. Preserve partial outputs and require supported original-process/lock closure before a separately authorized resume.
+Evidence: [E03 long timestamp/mapping proof and still-blocked pipe recovery](entries/HAKAWI-E03-LONG-TIMESTAMPS-PIPE-BLOCK-20261030.md). Technical final closure is not pending native-join acceptance or publication.
