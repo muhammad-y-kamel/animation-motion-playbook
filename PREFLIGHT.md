@@ -278,3 +278,11 @@ Evidence: [E03 immutable phases, mixed reuse and Part 1 closure](entries/HAKAWI-
 - [ ] Close owned stdout pipes before bounded TERM/wait and kill/reap fallback. Test blocked writers synthetically, but do not equate those tests with actual decoder closure or inherited-lock release.
 - [ ] Unsupported host visibility means BLOCKED, not safe-to-rerun. Preserve partial outputs and require supported original-process/lock closure before a separately authorized resume.
 Evidence: [E03 long timestamp/mapping proof and still-blocked pipe recovery](entries/HAKAWI-E03-LONG-TIMESTAMPS-PIPE-BLOCK-20261030.md). Technical final closure is not pending native-join acceptance or publication.
+
+
+## One-time decoder coexistence is not global cleanup — E03 outcome 2026-10-30
+- [ ] Keep successful media acceptance/durability/scheduling distinct from original process closure. A still-held application lease must remain reported held even after a separately authorized bounded recovery succeeds.
+- [ ] Treat an explicit application-scheduling exception as exact-scope, one-time coexistence authority, never a security-access exemption, reusable production approval or excuse to replace lock inodes.
+- [ ] Journal owned child identity, bound per-process memory/stack and total I/O time, and prove actual reap. Record failed allocation/pthread trials; do not universalize a task-specific 512 MiB/1 MiB-stack success or claim the EAGAIN cause fully established.
+- [ ] Recheck observed thread count and accounting limits: generic threads=1 can still produce multiple threads; host available memory is not cgroup capacity proof. Pre-write byte caps and review/archive release still apply.
+Evidence: [additive successful 17-frame recovery with original cleanup OPEN](entries/HAKAWI-E03-LONG-TIMESTAMPS-PIPE-BLOCK-20261030.md#additive-outcome--2026-10-30-1014-utc-media-accepted-original-cleanup-still-open). Future lifecycle contract remains source-only.
