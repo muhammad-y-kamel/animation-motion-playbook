@@ -1,0 +1,44 @@
+{
+  "status": "INDEPENDENT_SOURCE_REVIEW_HOLD_BEFORE_LIVE_CASES",
+  "reviewer": "resume_runtime_audits",
+  "scope": "Downloaded and read only the authorized87326-byte source ZIP; safe-extracted17UTF8 members266379bytes. No execution, native call, child, media, or runtime inventory read on BAT.",
+  "zipSha256": "d888cb17d8e06523352a5b91ef98fb824c2016bc28518f918b76c280c82a4d2d",
+  "libraryFileId": "libfile_e0ecaec6d4fc819185fc614b1a83c0c1",
+  "version": 0,
+  "sourceFreezeSha256": "dda97d68c10b9be4f5d5193c77a41e5a989e7a798c59a8921b47f17bc03181cb",
+  "runtimeManifestSha256": "54260c19fd753b14e78aa7ada37c5b0c51ccfbb7bf4059b7cf02dfd8df4b3cd4",
+  "normalConfigSha256": "409c3a3c2830622963d4f528203c0faa00e076b267ff00b962ad74bc448053c4",
+  "deathConfigSha256": "829a3f7103ee83447a9ce74e0d076eb609678aadaf47eba78463035cbc1717fa",
+  "sourceMembersVerified": 14,
+  "runtimeBytesVerified": false,
+  "blockers": [
+    {
+      "location": "guard.py Guard.spawn",
+      "finding": "After Popen returns, item construction computes c.encode(argv)/hash before self.owned insertion. Failure can omit an actual child from cleanup.",
+      "required": "Precompute digest/template before Popen; immediately retain actual Popen before further fallible work; fault-injection coverage."
+    },
+    {
+      "location": "guard.py Guard.stop_owned",
+      "finding": "TERM and deadline KILL share one try. Repeated TERM exception skips KILL indefinitely.",
+      "required": "Independent signal attempts or deadline-first KILL; TERM-always-fails regression."
+    },
+    {
+      "location": "COMMANDS.json and guard.py main",
+      "finding": "No outer prlimit. GUARD_LIMITS applied only after source/runtime699-file validation and imports, leaving startup outside advertised caps.",
+      "required": "Exact capped invocation before interpreter startup with readback, or separately justified bounded startup; preserve resource ceilings."
+    },
+    {
+      "location": "guard.py Guard.run finally and main terminal-error loop",
+      "finding": "Unresolved cleanup loops do not call monitor; memory/floor/cadence checks stop during cleanup.",
+      "required": "Cleanup-aware checks record errors but cannot skip exact-owned stop/reap; sleep-exception coverage."
+    }
+  ],
+  "positiveScopedFindings": [
+    "Exact explicit role selection removes identical-argv ambiguity.",
+    "Normal-before-controller-death dependency binds config/source/runtime and durable PASS_NORMAL.",
+    "Direct-parent raw waitpid evidence separated from pidfd exit observation.",
+    "Retained proc directory plus identity checks avoids reopening saved numeric PID for child telemetry."
+  ],
+  "qualification": "No live approval or successful cleanup claim. Original002 and005r3 UNKNOWN unaffected.",
+  "writers": "CLOSED"
+}
