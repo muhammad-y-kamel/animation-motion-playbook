@@ -1,0 +1,32 @@
+{
+  "status": "SCOPED_SOURCE_AND_NO_CHILD_PREFLIGHT_EVIDENCE_PASS_PENDING_NEW_LIVE_GRANT",
+  "reviewer": "resume_runtime_audits",
+  "zipSha256": "d1a8103454f01a206c50c1a369f87184958e31e5f39ddd263cd15edb4315999b",
+  "zipBytes": 169828,
+  "sourceMembersVerified": 27,
+  "hashes": {
+    "SOURCE_FREEZE.json": "28ca4389feffa6736d88b706c44c8a764b8632bd547b7ee17e28c7a6a12cdeb8",
+    "RUNTIME_FREEZE.json": "7ed95ed99380994d23d95f93c5fe4ef7a1ec5ee4dd5cd83e8a0014607fb04646",
+    "COMMANDS.json": "c984c328e4c46183b9b1b835b73c910e29a630ab9c48e4a795645940a33ce488",
+    "configs/normal.json": "b4bdeb14d77cbeaa48076dd335d06ca612c933b443be3eeb8bd01f1918bf5ce9",
+    "configs/controller-death.json": "1ae48ed8a3073354ce15f8925ed8bbcadba09d7adff72848412fccab9d745072",
+    "FIX2_MINIMAL.patch": "027fc6bad9cf03056d7a0abde9be5a457798b860fb30d9fabbb9d401c59bd6a8",
+    "PREFLIGHT_GUARD.json": "1a4a9569b3159f370d76cfc14c67d4425429ef019eeaa4c97afa74b4a72fa088",
+    "PREFLIGHT_CHILD.json": "ab83216ff1750f2a489e214c6219905be24835c1e577ac439edc9e582145c772"
+  },
+  "scope": [
+    "guard/common/child byte-identical FIX1; prior four corrections retained.",
+    "Exactly one legacy.so runtime entry added; all701prior rows unchanged.",
+    "Read actual capped guard and child imports/CDLL/maps preflight records;11and13mapped identities match702manifest, stable maps, zero forbidden counters.",
+    "Exact live command argv path-only changes, caps/delays unchanged.",
+    "Death prerequisite binds new normal config/generation and same source/runtime; failed FIX1 not promoted."
+  ],
+  "limitations": [
+    "No live test or native execution by reviewer.",
+    "No actual BAT runtime byte sweep by reviewer; reviewed bound evidence and source manifest.",
+    "Imports/maps preflight does not qualify pidfd/PDEATHSIG/ACK/reap behavior.",
+    "Root must separately grant first two cases; stop if normal fails.",
+    "Historical002/005r3 UNKNOWN unaffected."
+  ],
+  "writers": "CLOSED"
+}
