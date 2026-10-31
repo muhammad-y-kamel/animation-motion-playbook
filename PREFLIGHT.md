@@ -323,3 +323,9 @@ Evidence: [HAKAWI-E04-DISCRETE-FREEZE-20261030](entries/HAKAWI-E04-DISCRETE-FREE
 - [ ] Preserve every inherited runtime guard during adaptation: initial floor and final byte count do not replace per-write temporary/control/remaining-quota reservation. Keep failure-receipt headroom and font/import controls.
 - [ ] Retain old resource-HOLD/withdrawal unchanged. Byte-identical later output can transfer visual evidence, but new runtime qualification never retroactively upgrades an old receipt or proves real-time/full-film acceptance.
 Evidence: [WhatIf source/lifecycle trials](entries/WHATIF-SOURCE-LIFECYCLE-20261030.md), [E04 actual schema and word cues](entries/HAKAWI-E04-QA-SCHEMA-WORD-CUES-20261030.md), [exact copied text evidence](evidence/source-runtime-20261030-2322/manifest.json).
+
+
+## Loaded asset completeness before native proof
+- [ ] Enumerate image/bg/sprite dependencies from every actual admitted frame/shutter dispatch, including unchanged neighboring and held branches. Require every key in the phase's loaded mapping and pin each mapped file; global hash validity does not establish completeness.
+- [ ] Preserve missing-asset failures and retry only a separately frozen map with unchanged source/quality/caps and actual terminal/reap proof. Pure dependency closure and actual pixel/semantic review are separate gates.
+Evidence: [HAKAWI-E04-NATIVE-ASSET-CLOSURE-20261031](entries/HAKAWI-E04-NATIVE-ASSET-CLOSURE-20261031.md); selected six-native result only.

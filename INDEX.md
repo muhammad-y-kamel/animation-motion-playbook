@@ -180,3 +180,7 @@ AnswerAct reference final04 delivered with1852initial-frame review,704changed+16
 ## Source anatomy, registered children and actual metadata gates — 2026-10-30
 - [WHATIF-SOURCE-LIFECYCLE-20261030](entries/WHATIF-SOURCE-LIFECYCLE-20261030.md): v010 anatomical rejection despite topology pass; v011 source-only forward-knee/hinge repair, v004 actual registered-child qualification versus old resource withdrawal, and six-still per-write reservation regression. Native/current-film gates remain separate.
 - [HAKAWI-E04-QA-SCHEMA-WORD-CUES-20261030](entries/HAKAWI-E04-QA-SCHEMA-WORD-CUES-20261030.md): additive QA-only recovery from missing nested actual-GO authorization, all20 downstream metadata schema checks, exact word-start actor cues and six-native scoped evidence. Full changed motion/film/audio listening remain separate.
+
+
+## E04 native asset completeness — 2026-10-31
+- [HAKAWI-E04-NATIVE-ASSET-CLOSURE-20261031](entries/HAKAWI-E04-NATIVE-ASSET-CLOSURE-20261031.md): failed r1 had valid hashes but missing dispatched image mappings; additive exact18-sample asset closure and actual r2 six-native scoped lead/root PASS. No motion/full-film acceptance.

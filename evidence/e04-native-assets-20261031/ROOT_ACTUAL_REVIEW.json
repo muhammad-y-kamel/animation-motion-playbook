@@ -1,0 +1,41 @@
+{
+  "status": "PASS_ROOT_ACTUAL_SIX_NATIVE_SCOPED_COMPOSITION_CUES",
+  "at": "2026-10-31T00:28:22Z",
+  "sourceFreezeSha256": "09418581ba8915657c934cff00bcc603c6ce7c0879e8466682845cb47b456720",
+  "planSha256": "24c89ff1a30ada48d08e4d561c536ddf9254cf28dfa614cb080cd331832a5ba0",
+  "leadActualReviewSha256": "4175e2419f290aefafdb9e92f0e7b1c4358c01876c8270d16adcb7a44abe7f2b",
+  "reviewedImages": [
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/preflight-v20-phone-six-native-r2/proof/native-21621.jpg",
+      "sha256": "de9bb3222de0f1f9f89d385eb81311e4a42ee99c348a7f96ad61f25dc33d2b43",
+      "frame": 21621
+    },
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/preflight-v20-phone-six-native-r2/proof/native-21622.jpg",
+      "sha256": "a603fb58cadab9fdf17a1d75a848388a25caf0faa252d11f2d678fbafcab6e0c",
+      "frame": 21622
+    },
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/preflight-v20-phone-six-native-r2/proof/native-21682.jpg",
+      "sha256": "b948aa3155581d78d00ed919d243796de63518ec41df5b00c74446f94f159b8c",
+      "frame": 21682
+    },
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/preflight-v20-phone-six-native-r2/proof/native-21716.jpg",
+      "sha256": "b948aa3155581d78d00ed919d243796de63518ec41df5b00c74446f94f159b8c",
+      "frame": 21716
+    },
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/preflight-v20-phone-six-native-r2/proof/native-21763.jpg",
+      "sha256": "b948aa3155581d78d00ed919d243796de63518ec41df5b00c74446f94f159b8c",
+      "frame": 21763
+    },
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/preflight-v20-phone-six-native-r2/proof/native-21764.jpg",
+      "sha256": "7e5188c8ab75ed1cf02ac21f5d04e8719cf778c3a2ed44c1aae19a5a735b575c",
+      "frame": 21764
+    }
+  ],
+  "rootObservations": "Root actually viewed all six. Full identities, shared single handset/gaze, connected grip above caption; pre-open original then shared view until camera cue, clean first recording image.",
+  "scope": "Selected composite/cue staging only. Static pose, no tapping or continuous mechanics claim. New13window admission/actualQA and3CCTV+ending critical gates remain; no fullfilm or publishing authority."
+}

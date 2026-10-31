@@ -1,0 +1,16 @@
+{
+  "status": "PASS_EXACT_SIX_PURE_LOADED_ASSET_CLOSURE",
+  "samples": 18,
+  "drawImageCalls": 27,
+  "requiredAssets": [
+    "fahd",
+    "oven",
+    "phoneshared",
+    "poor",
+    "props",
+    "riyadh",
+    "seatedgift",
+    "tareq"
+  ],
+  "scope": "No native canvas load or pixel claim; all source image/bg keys required in admitted assetmap."
+}

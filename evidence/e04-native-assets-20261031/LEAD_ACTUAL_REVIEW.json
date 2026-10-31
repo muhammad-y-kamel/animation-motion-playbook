@@ -1,0 +1,50 @@
+{
+  "status": "PASS_SCOPED_ACTUAL_SIX_NATIVE_COMPOSITION_CUE_REVIEW",
+  "reviewedAt": "2026-10-31T00:27:29Z",
+  "planSha256": "24c89ff1a30ada48d08e4d561c536ddf9254cf28dfa614cb080cd331832a5ba0",
+  "sourceFreezeSha256": "09418581ba8915657c934cff00bcc603c6ce7c0879e8466682845cb47b456720",
+  "technicalJournalSha256": "ca66aca81a9ffcf35cc67261135db1f3b7f267a35df2aa96ada576f2d836db7d",
+  "actualViewedImages": [
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/preflight-v20-phone-six-native-r2/proof/native-21621.jpg",
+      "sha256": "de9bb3222de0f1f9f89d385eb81311e4a42ee99c348a7f96ad61f25dc33d2b43",
+      "frame": 21621
+    },
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/preflight-v20-phone-six-native-r2/proof/native-21622.jpg",
+      "sha256": "a603fb58cadab9fdf17a1d75a848388a25caf0faa252d11f2d678fbafcab6e0c",
+      "frame": 21622
+    },
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/preflight-v20-phone-six-native-r2/proof/native-21682.jpg",
+      "sha256": "b948aa3155581d78d00ed919d243796de63518ec41df5b00c74446f94f159b8c",
+      "frame": 21682
+    },
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/preflight-v20-phone-six-native-r2/proof/native-21716.jpg",
+      "sha256": "b948aa3155581d78d00ed919d243796de63518ec41df5b00c74446f94f159b8c",
+      "frame": 21716
+    },
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/preflight-v20-phone-six-native-r2/proof/native-21763.jpg",
+      "sha256": "b948aa3155581d78d00ed919d243796de63518ec41df5b00c74446f94f159b8c",
+      "frame": 21763
+    },
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/preflight-v20-phone-six-native-r2/proof/native-21764.jpg",
+      "sha256": "7e5188c8ab75ed1cf02ac21f5d04e8719cf778c3a2ed44c1aae19a5a735b575c",
+      "frame": 21764
+    }
+  ],
+  "observations": [
+    "G21621 preserves original pre-opening setup; no early recording remains. G21622 is clean editorial cut to shared-view close two-shot at locked opening word.",
+    "Both complete heads/recognizable identities and gazes focus one handset; connected Fahd wrist/hand/grip; screen toward characters, no invented visible screen UI.",
+    "G21682/21716/21763 retain same shared-pose image and caption; captions below grip/heads, no blank mats, stretch or double-exposure.",
+    "G21763/21764 clean hardcut from joint-view to held first fullframe oven recording at camera word; caption unchanged."
+  ],
+  "limits": [
+    "Selected six three-shutter native composites only; not motion/dwell/real-time acceptance.",
+    "Joint pose is static illustrated presentation, not proof of finger tap/opening mechanics.",
+    "No audio listening or full-film claim; root actual native review and new motion admission still required."
+  ]
+}

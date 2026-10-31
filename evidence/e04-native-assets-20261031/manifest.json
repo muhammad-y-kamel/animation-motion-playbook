@@ -1,0 +1,47 @@
+{
+  "scope": "Closed source/test/terminal and attributed actual-review evidence; no new compiler image inspection.",
+  "files": [
+    {
+      "repository_path": "evidence/e04-native-assets-20261031/ASSET_ADMISSION_FAILURE.json",
+      "original_local_path": "hakawi_repair/e04-rebuild-20261029/preflight-v20-phone-six-native-r1/ASSET_ADMISSION_FAILURE.json",
+      "bytes": 1039,
+      "sha256": "a71f0d697110ab952f63eedae572b0ccd2f34a08f85940124b6510caa95b3272"
+    },
+    {
+      "repository_path": "evidence/e04-native-assets-20261031/test-assets.cjs",
+      "original_local_path": "hakawi_repair/e04-rebuild-20261029/preflight-v20-phone-six-native-r2/test-assets.cjs",
+      "bytes": 1209,
+      "sha256": "4482c41f1e6fe1ca5100a7ba9f0928743eba9bf8c3628ad0aa47bf24a1002285"
+    },
+    {
+      "repository_path": "evidence/e04-native-assets-20261031/test-assets_RESULT.json",
+      "original_local_path": "hakawi_repair/e04-rebuild-20261029/preflight-v20-phone-six-native-r2/test-assets_RESULT.json",
+      "bytes": 347,
+      "sha256": "4bc1d050a03a809a6d43f886b049c2188afe0a0290b4d4a645771d2a7563d150"
+    },
+    {
+      "repository_path": "evidence/e04-native-assets-20261031/OWNED_PROCESS.json",
+      "original_local_path": "hakawi_repair/e04-rebuild-20261029/preflight-v20-phone-six-native-r2/OWNED_PROCESS.json",
+      "bytes": 2684,
+      "sha256": "ca66aca81a9ffcf35cc67261135db1f3b7f267a35df2aa96ada576f2d836db7d"
+    },
+    {
+      "repository_path": "evidence/e04-native-assets-20261031/RECEIPT.json",
+      "original_local_path": "hakawi_repair/e04-rebuild-20261029/preflight-v20-phone-six-native-r2/proof/RECEIPT.json",
+      "bytes": 2379,
+      "sha256": "47dc534ee2c8e891df8f1dd0181b660daac12a39030af466d11ba21c8e99ff46"
+    },
+    {
+      "repository_path": "evidence/e04-native-assets-20261031/LEAD_ACTUAL_REVIEW.json",
+      "original_local_path": "hakawi_repair/e04-rebuild-20261029/preflight-v20-phone-six-native-r2/LEAD_ACTUAL_REVIEW.json",
+      "bytes": 2912,
+      "sha256": "4175e2419f290aefafdb9e92f0e7b1c4358c01876c8270d16adcb7a44abe7f2b"
+    },
+    {
+      "repository_path": "evidence/e04-native-assets-20261031/ROOT_ACTUAL_REVIEW.json",
+      "original_local_path": "hakawi_repair/e04-rebuild-20261029/preflight-v20-phone-six-native-r2/ROOT_ACTUAL_REVIEW.json",
+      "bytes": 2379,
+      "sha256": "0deb6945dc118b30e29b9db55f55128cf9910e9c2082652e99f0179c6f38acb1"
+    }
+  ]
+}

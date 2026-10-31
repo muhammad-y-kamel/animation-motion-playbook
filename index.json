@@ -616,6 +616,16 @@
       "status": "validated_with_limits",
       "discovered_by": "agent and independent reviewers; attributed root/lead scoped pixel evidence",
       "file": "entries/HAKAWI-E04-QA-SCHEMA-WORD-CUES-20261030.md"
+    },
+    {
+      "id": "HAKAWI-E04-NATIVE-ASSET-CLOSURE-20261031",
+      "title": "Valid input pins did not prove loaded native asset completeness",
+      "project": "حكاوي الحارة",
+      "episode": "E04",
+      "category": "asset-admission/native-runtime",
+      "status": "validated_with_limits",
+      "discovered_by": "agent actual renderer failure; independent reviewer; lead/root scoped native review",
+      "file": "entries/HAKAWI-E04-NATIVE-ASSET-CLOSURE-20261031.md"
     }
   ]
 }

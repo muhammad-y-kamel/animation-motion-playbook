@@ -1,0 +1,22 @@
+{
+  "status": "ACTUAL_ATTEMPT_FAILED_ASSET_ADMISSION_NO_JPEGS",
+  "journal": {
+    "status": "FAILED",
+    "scope": "Exact direct sole in-process Node child only; no generic descendant assertion",
+    "bootId": "01b20354-c996-45bd-a52d-4fbd4c679fce",
+    "pid": 6,
+    "startTick": "1252681",
+    "leaseInode": 1048622,
+    "leaseDevice": 27,
+    "exitCode": 1,
+    "error": "RuntimeError('Renderer exit 1')",
+    "peakObservedRssBytes": 123392000,
+    "peakObservedVmBytes": 1712971776,
+    "peakObservedThreads": 14,
+    "observedDirectChildReaped": true
+  },
+  "proofEntries": [],
+  "rootCause": "Copied return-only native asset map lacked required phone original and firstrecording donors. Pins proved identity of included inputs, not completeness of dependencies.",
+  "prospectiveRepair": "Additive r2 same six/source/runtime/quality/caps; canonical phone1 donor map+phoneshared and exact18shutter image/bg dependency test.",
+  "scope": "No nativeacceptance; exactsoleNodeexit1 reaped; genericdescendants not asserted; oldGO kept."
+}

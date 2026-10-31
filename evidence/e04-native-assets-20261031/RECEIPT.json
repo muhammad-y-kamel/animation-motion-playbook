@@ -1,0 +1,67 @@
+{
+  "status": "SELECTED_NATIVE_STILLS_CREATED_NOT_REVIEWED",
+  "frames": [
+    {
+      "frame": 21621,
+      "time": 360.35,
+      "block": "d",
+      "purpose": "last-original-before-open-word",
+      "name": "native-21621.jpg",
+      "bytes": 1117044,
+      "sha256": "de9bb3222de0f1f9f89d385eb81311e4a42ee99c348a7f96ad61f25dc33d2b43",
+      "scope": "native selected still; three shutter composite; not continuous motion"
+    },
+    {
+      "frame": 21622,
+      "time": 360.3666666666667,
+      "block": "d",
+      "purpose": "first-shared-at-open-word",
+      "name": "native-21622.jpg",
+      "bytes": 890411,
+      "sha256": "a603fb58cadab9fdf17a1d75a848388a25caf0faa252d11f2d678fbafcab6e0c",
+      "scope": "native selected still; three shutter composite; not continuous motion"
+    },
+    {
+      "frame": 21682,
+      "time": 361.3666666666667,
+      "block": "d",
+      "purpose": "handset-word-joint-view",
+      "name": "native-21682.jpg",
+      "bytes": 890887,
+      "sha256": "b948aa3155581d78d00ed919d243796de63518ec41df5b00c74446f94f159b8c",
+      "scope": "native selected still; three shutter composite; not continuous motion"
+    },
+    {
+      "frame": 21716,
+      "time": 361.93333333333334,
+      "block": "d",
+      "purpose": "face-word-joint-view",
+      "name": "native-21716.jpg",
+      "bytes": 890887,
+      "sha256": "b948aa3155581d78d00ed919d243796de63518ec41df5b00c74446f94f159b8c",
+      "scope": "native selected still; three shutter composite; not continuous motion"
+    },
+    {
+      "frame": 21763,
+      "time": 362.71666666666664,
+      "block": "d",
+      "purpose": "last-shared-before-camera",
+      "name": "native-21763.jpg",
+      "bytes": 890887,
+      "sha256": "b948aa3155581d78d00ed919d243796de63518ec41df5b00c74446f94f159b8c",
+      "scope": "native selected still; three shutter composite; not continuous motion"
+    },
+    {
+      "frame": 21764,
+      "time": 362.73333333333335,
+      "block": "d",
+      "purpose": "first-held-recording-at-camera",
+      "name": "native-21764.jpg",
+      "bytes": 1101868,
+      "sha256": "7e5188c8ab75ed1cf02ac21f5d04e8719cf778c3a2ed44c1aae19a5a735b575c",
+      "scope": "native selected still; three shutter composite; not continuous motion"
+    }
+  ],
+  "proofBytesBeforeReceipt": 5781984,
+  "sourceFreezeSha256": "09418581ba8915657c934cff00bcc603c6ce7c0879e8466682845cb47b456720"
+}

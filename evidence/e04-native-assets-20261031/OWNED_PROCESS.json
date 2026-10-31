@@ -1,0 +1,76 @@
+{
+  "status": "CLOSED",
+  "scope": "Exact direct sole in-process Node child only; no generic descendant assertion",
+  "bootId": "01b20354-c996-45bd-a52d-4fbd4c679fce",
+  "pid": 6,
+  "startTick": "1266603",
+  "leaseInode": 1048622,
+  "leaseDevice": 27,
+  "proofVerification": {
+    "status": "SIX_NATIVE_BYTES_HEADERS_VERIFIED_NOT_VISUALLY_REVIEWED",
+    "files": [
+      {
+        "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/preflight-v20-phone-six-native-r2/proof/native-21621.jpg",
+        "sha256": "de9bb3222de0f1f9f89d385eb81311e4a42ee99c348a7f96ad61f25dc33d2b43",
+        "bytes": 1117044,
+        "dimensions": [
+          1920,
+          1080
+        ]
+      },
+      {
+        "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/preflight-v20-phone-six-native-r2/proof/native-21622.jpg",
+        "sha256": "a603fb58cadab9fdf17a1d75a848388a25caf0faa252d11f2d678fbafcab6e0c",
+        "bytes": 890411,
+        "dimensions": [
+          1920,
+          1080
+        ]
+      },
+      {
+        "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/preflight-v20-phone-six-native-r2/proof/native-21682.jpg",
+        "sha256": "b948aa3155581d78d00ed919d243796de63518ec41df5b00c74446f94f159b8c",
+        "bytes": 890887,
+        "dimensions": [
+          1920,
+          1080
+        ]
+      },
+      {
+        "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/preflight-v20-phone-six-native-r2/proof/native-21716.jpg",
+        "sha256": "b948aa3155581d78d00ed919d243796de63518ec41df5b00c74446f94f159b8c",
+        "bytes": 890887,
+        "dimensions": [
+          1920,
+          1080
+        ]
+      },
+      {
+        "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/preflight-v20-phone-six-native-r2/proof/native-21763.jpg",
+        "sha256": "b948aa3155581d78d00ed919d243796de63518ec41df5b00c74446f94f159b8c",
+        "bytes": 890887,
+        "dimensions": [
+          1920,
+          1080
+        ]
+      },
+      {
+        "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/preflight-v20-phone-six-native-r2/proof/native-21764.jpg",
+        "sha256": "7e5188c8ab75ed1cf02ac21f5d04e8719cf778c3a2ed44c1aae19a5a735b575c",
+        "bytes": 1101868,
+        "dimensions": [
+          1920,
+          1080
+        ]
+      }
+    ],
+    "totalBytes": 5784363,
+    "receiptSha256": "47dc534ee2c8e891df8f1dd0181b660daac12a39030af466d11ba21c8e99ff46"
+  },
+  "exitCode": 0,
+  "error": null,
+  "peakObservedRssBytes": 203575296,
+  "peakObservedVmBytes": 1781989376,
+  "peakObservedThreads": 14,
+  "observedDirectChildReaped": true
+}
