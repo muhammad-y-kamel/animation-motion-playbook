@@ -1,0 +1,402 @@
+{
+  "status": "SOURCE_ONLY_COVERAGE_REVIEW_NO_PLAN_CHANGE",
+  "planPath": "hakawi_repair/prophets-e01-v007-motion-proof-v005-20261030/PLAN.json",
+  "nonGrainWindows": 16,
+  "nonGrainFramesBothFormats": 1818,
+  "allWindowsPerLayoutFrames": 1281,
+  "tailFramesPerLayout": 7296,
+  "windows": [
+    {
+      "id": "retained-recap-portrait",
+      "layout": "portrait",
+      "firstFrame": 17724,
+      "endFrameExclusive": 17874,
+      "width": 1080,
+      "height": 1920,
+      "purpose": "S09 staged retained gift, water, family, paired gifts",
+      "nativeLocalFrames": [
+        0,
+        50,
+        75,
+        100,
+        149
+      ],
+      "frames": 150,
+      "seconds": [
+        295.4,
+        297.9
+      ],
+      "intersectedShots": [
+        "S09"
+      ]
+    },
+    {
+      "id": "retained-recap-landscape",
+      "layout": "landscape",
+      "firstFrame": 17724,
+      "endFrameExclusive": 17874,
+      "width": 1920,
+      "height": 1080,
+      "purpose": "S09 staged retained gift, water, family, paired gifts",
+      "nativeLocalFrames": [
+        0,
+        50,
+        75,
+        100,
+        149
+      ],
+      "frames": 150,
+      "seconds": [
+        295.4,
+        297.9
+      ],
+      "intersectedShots": [
+        "S09"
+      ]
+    },
+    {
+      "id": "botanical-detail-portrait",
+      "layout": "portrait",
+      "firstFrame": 18777,
+      "endFrameExclusive": 18933,
+      "width": 1080,
+      "height": 1920,
+      "purpose": "Source-linked botanical reveal and structural detail",
+      "nativeLocalFrames": [
+        0,
+        52,
+        78,
+        104,
+        155
+      ],
+      "frames": 156,
+      "seconds": [
+        312.95,
+        315.55
+      ],
+      "intersectedShots": [
+        "S11",
+        "S12"
+      ]
+    },
+    {
+      "id": "botanical-detail-landscape",
+      "layout": "landscape",
+      "firstFrame": 18777,
+      "endFrameExclusive": 18933,
+      "width": 1920,
+      "height": 1080,
+      "purpose": "Source-linked botanical reveal and structural detail",
+      "nativeLocalFrames": [
+        0,
+        52,
+        78,
+        104,
+        155
+      ],
+      "frames": 156,
+      "seconds": [
+        312.95,
+        315.55
+      ],
+      "intersectedShots": [
+        "S11",
+        "S12"
+      ]
+    },
+    {
+      "id": "botanical-duty-portrait",
+      "layout": "portrait",
+      "firstFrame": 19162,
+      "endFrameExclusive": 19186,
+      "width": 1080,
+      "height": 1920,
+      "purpose": "Cue-linked duty transition",
+      "nativeLocalFrames": [
+        0,
+        8,
+        12,
+        16,
+        23
+      ],
+      "frames": 24,
+      "seconds": [
+        319.3666666666667,
+        319.76666666666665
+      ],
+      "intersectedShots": [
+        "S12"
+      ]
+    },
+    {
+      "id": "botanical-duty-landscape",
+      "layout": "landscape",
+      "firstFrame": 19162,
+      "endFrameExclusive": 19186,
+      "width": 1920,
+      "height": 1080,
+      "purpose": "Cue-linked duty transition",
+      "nativeLocalFrames": [
+        0,
+        8,
+        12,
+        16,
+        23
+      ],
+      "frames": 24,
+      "seconds": [
+        319.3666666666667,
+        319.76666666666665
+      ],
+      "intersectedShots": [
+        "S12"
+      ]
+    },
+    {
+      "id": "praise-portrait",
+      "layout": "portrait",
+      "firstFrame": 20100,
+      "endFrameExclusive": 20240,
+      "width": 1080,
+      "height": 1920,
+      "purpose": "S15 praise attribution stage",
+      "nativeLocalFrames": [
+        0,
+        46,
+        70,
+        93,
+        139
+      ],
+      "frames": 140,
+      "seconds": [
+        335.0,
+        337.3333333333333
+      ],
+      "intersectedShots": [
+        "S14",
+        "S15"
+      ]
+    },
+    {
+      "id": "praise-landscape",
+      "layout": "landscape",
+      "firstFrame": 20100,
+      "endFrameExclusive": 20240,
+      "width": 1920,
+      "height": 1080,
+      "purpose": "S15 praise attribution stage",
+      "nativeLocalFrames": [
+        0,
+        46,
+        70,
+        93,
+        139
+      ],
+      "frames": 140,
+      "seconds": [
+        335.0,
+        337.3333333333333
+      ],
+      "intersectedShots": [
+        "S14",
+        "S15"
+      ]
+    },
+    {
+      "id": "locust-portrait",
+      "layout": "portrait",
+      "firstFrame": 21138,
+      "endFrameExclusive": 21294,
+      "width": 1080,
+      "height": 1920,
+      "purpose": "Independent report opening through single illustrative arrival/retention",
+      "nativeLocalFrames": [
+        0,
+        52,
+        78,
+        104,
+        155
+      ],
+      "frames": 156,
+      "seconds": [
+        352.3,
+        354.9
+      ],
+      "intersectedShots": [
+        "S17",
+        "S18",
+        "S19"
+      ]
+    },
+    {
+      "id": "locust-landscape",
+      "layout": "landscape",
+      "firstFrame": 21138,
+      "endFrameExclusive": 21294,
+      "width": 1920,
+      "height": 1080,
+      "purpose": "Independent report opening through single illustrative arrival/retention",
+      "nativeLocalFrames": [
+        0,
+        52,
+        78,
+        104,
+        155
+      ],
+      "frames": 156,
+      "seconds": [
+        352.3,
+        354.9
+      ],
+      "intersectedShots": [
+        "S17",
+        "S18",
+        "S19"
+      ]
+    },
+    {
+      "id": "gift-transition-portrait",
+      "layout": "portrait",
+      "firstFrame": 22400,
+      "endFrameExclusive": 22424,
+      "width": 1080,
+      "height": 1920,
+      "purpose": "S21 cue-linked reflective gift transition",
+      "nativeLocalFrames": [
+        0,
+        8,
+        12,
+        16,
+        23
+      ],
+      "frames": 24,
+      "seconds": [
+        373.3333333333333,
+        373.73333333333335
+      ],
+      "intersectedShots": [
+        "S21"
+      ]
+    },
+    {
+      "id": "gift-transition-landscape",
+      "layout": "landscape",
+      "firstFrame": 22400,
+      "endFrameExclusive": 22424,
+      "width": 1920,
+      "height": 1080,
+      "purpose": "S21 cue-linked reflective gift transition",
+      "nativeLocalFrames": [
+        0,
+        8,
+        12,
+        16,
+        23
+      ],
+      "frames": 24,
+      "seconds": [
+        373.3333333333333,
+        373.73333333333335
+      ],
+      "intersectedShots": [
+        "S21"
+      ]
+    },
+    {
+      "id": "summary-portrait",
+      "layout": "portrait",
+      "firstFrame": 22606,
+      "endFrameExclusive": 22841,
+      "width": 1080,
+      "height": 1920,
+      "purpose": "S22 staged summary",
+      "nativeLocalFrames": [
+        0,
+        78,
+        117,
+        156,
+        234
+      ],
+      "frames": 235,
+      "seconds": [
+        376.76666666666665,
+        380.68333333333334
+      ],
+      "intersectedShots": [
+        "S22"
+      ]
+    },
+    {
+      "id": "summary-landscape",
+      "layout": "landscape",
+      "firstFrame": 22606,
+      "endFrameExclusive": 22841,
+      "width": 1920,
+      "height": 1080,
+      "purpose": "S22 staged summary",
+      "nativeLocalFrames": [
+        0,
+        78,
+        117,
+        156,
+        234
+      ],
+      "frames": 235,
+      "seconds": [
+        376.76666666666665,
+        380.68333333333334
+      ],
+      "intersectedShots": [
+        "S22"
+      ]
+    },
+    {
+      "id": "canonical-tail-portrait",
+      "layout": "portrait",
+      "firstFrame": 22968,
+      "endFrameExclusive": 22992,
+      "width": 1080,
+      "height": 1920,
+      "purpose": "Final canonical mix samples and occupied last frame",
+      "nativeLocalFrames": [
+        0,
+        8,
+        12,
+        16,
+        23
+      ],
+      "frames": 24,
+      "seconds": [
+        382.8,
+        383.2
+      ],
+      "intersectedShots": [
+        "S22"
+      ]
+    },
+    {
+      "id": "canonical-tail-landscape",
+      "layout": "landscape",
+      "firstFrame": 22968,
+      "endFrameExclusive": 22992,
+      "width": 1920,
+      "height": 1080,
+      "purpose": "Final canonical mix samples and occupied last frame",
+      "nativeLocalFrames": [
+        0,
+        8,
+        12,
+        16,
+        23
+      ],
+      "frames": 24,
+      "seconds": [
+        382.8,
+        383.2
+      ],
+      "intersectedShots": [
+        "S22"
+      ]
+    }
+  ]
+}

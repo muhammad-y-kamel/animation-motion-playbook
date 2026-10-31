@@ -626,6 +626,16 @@
       "status": "validated_with_limits",
       "discovered_by": "agent actual renderer failure; independent reviewer; lead/root scoped native review",
       "file": "entries/HAKAWI-E04-NATIVE-ASSET-CLOSURE-20261031.md"
+    },
+    {
+      "id": "PROPHETS-E01-BOUNDED-CANVAS-HISTORY-20261031",
+      "title": "Persistent native history can freeze art while captions and technical QA pass",
+      "category": "native-rendering/lifecycle/visual-QA",
+      "project": "Prophets stories",
+      "episode": "E01",
+      "status": "validated_with_limits",
+      "discovered_by": "agent runtime failures and decoded visual review; independent auditor and root scoped image review",
+      "file": "entries/PROPHETS-E01-BOUNDED-CANVAS-HISTORY-20261031.md"
     }
   ]
 }

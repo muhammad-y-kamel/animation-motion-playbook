@@ -184,3 +184,6 @@ AnswerAct reference final04 delivered with1852initial-frame review,704changed+16
 
 ## E04 native asset completeness — 2026-10-31
 - [HAKAWI-E04-NATIVE-ASSET-CLOSURE-20261031](entries/HAKAWI-E04-NATIVE-ASSET-CLOSURE-20261031.md): failed r1 had valid hashes but missing dispatched image mappings; additive exact18-sample asset closure and actual r2 six-native scoped lead/root PASS. No motion/full-film acceptance.
+
+
+| [PROPHETS-E01-BOUNDED-CANVAS-HISTORY-20261031](entries/PROPHETS-E01-BOUNDED-CANVAS-HISTORY-20261031.md) | native rendering / lifecycle / visual QA | Prophets E01 | Persistent art freeze despite moving captions and technical completion; bounded history-to-encoder remedy | validated_with_limits |

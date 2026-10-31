@@ -329,3 +329,11 @@ Evidence: [WhatIf source/lifecycle trials](entries/WHATIF-SOURCE-LIFECYCLE-20261
 - [ ] Enumerate image/bg/sprite dependencies from every actual admitted frame/shutter dispatch, including unchanged neighboring and held branches. Require every key in the phase's loaded mapping and pin each mapped file; global hash validity does not establish completeness.
 - [ ] Preserve missing-asset failures and retry only a separately frozen map with unchanged source/quality/caps and actual terminal/reap proof. Pure dependency closure and actual pixel/semantic review are separate gates.
 Evidence: [HAKAWI-E04-NATIVE-ASSET-CLOSURE-20261031](entries/HAKAWI-E04-NATIVE-ASSET-CLOSURE-20261031.md); selected six-native result only.
+
+
+## Persistent native history and diagnostic-observer parity
+- [ ] Test persistent history separately from same-frame compatibility. Caption/full-frame changes and terminal zero do not prove art motion; inspect art-only state, contact and retention with chronological sheets/native witnesses.
+- [ ] Copy native ImageData before awaited writes, preserve callback/drain lifetime, reuse compilation where appropriate, and clean partially initialized runtimes. A synthetic test or frame-count receipt cannot override actual nonzero child exit/reap.
+- [ ] Compare the actual encoder's full clocked raw-RGBA ledger against the diagnostic without diagnostic PNG/ROI/reset intervention. Keep isolated package and binary pins; do not attribute a multi-change pipeline result to a sole upstream version/commit without controlled evidence.
+- [ ] Retain failed attempts, exact decoded PTS/PCM evidence and reviewer scope. Normal-speed playback/listening, other formats/windows and full-tail acceptance remain separate gates.
+Evidence: [bounded Prophets history remedy](entries/PROPHETS-E01-BOUNDED-CANVAS-HISTORY-20261031.md).

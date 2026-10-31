@@ -1,0 +1,235 @@
+{
+  "status": "READ_ONLY_LOCAL_EVIDENCE_HASHED_NO_MEDIA_DECODE",
+  "files": [
+    {
+      "path": "hakawi_repair/prophets-canvas-1.0.10-isolated-20261031/STAGING_FREEZE.json",
+      "bytes": 6264,
+      "sha256": "f2176643a844b933e7005aad259e6b342a1cdf3d20caad949f98baf11ef49e8f"
+    },
+    {
+      "path": "hakawi_repair/prophets-e01-canvas1010-history-audit-20261031/LEAD_ACTUAL_REVIEW.json",
+      "bytes": 5075,
+      "sha256": "baa09f32c95fb709929213e291023626515991df767af45001ac758f4d1ee220"
+    },
+    {
+      "path": "hakawi_repair/prophets-e01-canvas1010-history-audit-20261031/ROOT_REVIEW.json",
+      "bytes": 2069,
+      "sha256": "12143943fefa23b5d28eb536ca19ab99e16af7e0458c3cebe6f7c47ff176f9a8"
+    },
+    {
+      "path": "hakawi_repair/prophets-e01-canvas1010-history-audit-20261031/TRACE_ANALYSIS.json",
+      "bytes": 42416,
+      "sha256": "d683d27b61912f862288538c116fe100928264115ffa61f81bc56f8883cb8a14"
+    },
+    {
+      "path": "hakawi_repair/prophets-e01-canvas1010-history-v001-20261031/proof/RECEIPT.json",
+      "bytes": 262380,
+      "sha256": "eaf1b82b37f289db54e148d96690e0a0cecc56a60a6079c03866899621ccf221"
+    },
+    {
+      "path": "hakawi_repair/prophets-e01-canvas1010-reference-audit-20261031/ROOT_AUTHORIZATION.md",
+      "bytes": 564,
+      "sha256": "173e3f4d3d92c3060776104122e7271918ab65ae4f2da404cf8d55fd00b0a797"
+    },
+    {
+      "path": "hakawi_repair/prophets-e01-canvas1010-reference-audit-20261031/ROOT_REVIEW.md",
+      "bytes": 777,
+      "sha256": "cbeede207a272f2b5df12d3e8b0bd07e4405b752f268686922e2772a5bb48b05"
+    },
+    {
+      "path": "hakawi_repair/prophets-e01-motion-persistence-diagnosis-20261031/STACK_TRACE_SUMMARY.json",
+      "bytes": 3965,
+      "sha256": "43ebb440c1956c31ee5a2654065f4c100b803a3ed7bb8a21a10b345665f02a79"
+    },
+    {
+      "path": "hakawi_repair/prophets-e01-motion-persistence-diagnosis-20261031/UPSTREAM_FIX_RESEARCH.md",
+      "bytes": 6979,
+      "sha256": "409318391394a75278b9ecbc7d10940380eaf1c78589a4331326e3eb87aa6ab7"
+    },
+    {
+      "path": "hakawi_repair/prophets-e01-restaged-source-v007-20261030/coverage-spec.json",
+      "bytes": 19671,
+      "sha256": "4569c563aa2f0120921569c852f9bfbf0f58673914ab8f454163aa664152aec0"
+    },
+    {
+      "path": "hakawi_repair/prophets-e01-restaged-source-v007-20261030/restaged-tail.cjs",
+      "bytes": 25336,
+      "sha256": "e9bfd7d37af8480aaeddca69403b5d7db8cb0ebaeff54e1879c1ecf5c32f9317"
+    },
+    {
+      "path": "hakawi_repair/prophets-e01-v007-motion-proof-v001-20261030/media-controls/grain-portrait/OWNED_PROCESSES.json",
+      "bytes": 8922,
+      "sha256": "c201d166488189e90af79786f2303834f5ffe567893abd0ac482aba54fcea360"
+    },
+    {
+      "path": "hakawi_repair/prophets-e01-v007-motion-proof-v002-20261030/MEMORY_REPAIR.md",
+      "bytes": 1696,
+      "sha256": "d17b3d2abcc9e3765c22ac913b425057f439e0099d7efe8b7baa5adea8d5db4f"
+    },
+    {
+      "path": "hakawi_repair/prophets-e01-v007-motion-proof-v002-20261030/media-controls/grain-portrait/OWNED_PROCESSES.json",
+      "bytes": 8924,
+      "sha256": "6b461e49287a714c0d54e1af9fed8d32de979fab3497b5e418e66d7f2ac004ae"
+    },
+    {
+      "path": "hakawi_repair/prophets-e01-v007-motion-proof-v003-20261030/MEMORY_REPAIR.md",
+      "bytes": 1696,
+      "sha256": "d17b3d2abcc9e3765c22ac913b425057f439e0099d7efe8b7baa5adea8d5db4f"
+    },
+    {
+      "path": "hakawi_repair/prophets-e01-v007-motion-proof-v003-20261030/VM_REPAIR.md",
+      "bytes": 1528,
+      "sha256": "a0e47fb151f162c42961f0ef199ea25883e6251032c55fa853fa382547477b6e"
+    },
+    {
+      "path": "hakawi_repair/prophets-e01-v007-motion-proof-v003-20261030/media-controls/grain-portrait/OWNED_PROCESSES.json",
+      "bytes": 8923,
+      "sha256": "13faa3ac680ce7f761b1cd6c3f07c6e3ef717648c5644b6591dd4095b9e8a890"
+    },
+    {
+      "path": "hakawi_repair/prophets-e01-v007-motion-proof-v004-20261030/DISPOSAL_REPAIR.md",
+      "bytes": 1280,
+      "sha256": "ad59e2a32a7c12d4fe86b1c62fa49bca411145be81d06c4489b14b9877152372"
+    },
+    {
+      "path": "hakawi_repair/prophets-e01-v007-motion-proof-v004-20261030/MEMORY_REPAIR.md",
+      "bytes": 1696,
+      "sha256": "d17b3d2abcc9e3765c22ac913b425057f439e0099d7efe8b7baa5adea8d5db4f"
+    },
+    {
+      "path": "hakawi_repair/prophets-e01-v007-motion-proof-v004-20261030/VM_REPAIR.md",
+      "bytes": 1528,
+      "sha256": "a0e47fb151f162c42961f0ef199ea25883e6251032c55fa853fa382547477b6e"
+    },
+    {
+      "path": "hakawi_repair/prophets-e01-v007-motion-proof-v005-20261030/DISPOSAL_REPAIR.md",
+      "bytes": 1280,
+      "sha256": "ad59e2a32a7c12d4fe86b1c62fa49bca411145be81d06c4489b14b9877152372"
+    },
+    {
+      "path": "hakawi_repair/prophets-e01-v007-motion-proof-v005-20261030/INITIALIZATION_CLEANUP.md",
+      "bytes": 906,
+      "sha256": "4af0017748511701166f1bd9c39f7a14aaf60a8e31281f4bd5367f906fb03549"
+    },
+    {
+      "path": "hakawi_repair/prophets-e01-v007-motion-proof-v005-20261030/MEMORY_REPAIR.md",
+      "bytes": 1696,
+      "sha256": "d17b3d2abcc9e3765c22ac913b425057f439e0099d7efe8b7baa5adea8d5db4f"
+    },
+    {
+      "path": "hakawi_repair/prophets-e01-v007-motion-proof-v005-20261030/PLAN.json",
+      "bytes": 137910,
+      "sha256": "f3b1453c9e4db64840c2e01434ad8da8454451983a289e4721dd6043c4844e14"
+    },
+    {
+      "path": "hakawi_repair/prophets-e01-v007-motion-proof-v005-20261030/VM_REPAIR.md",
+      "bytes": 1528,
+      "sha256": "a0e47fb151f162c42961f0ef199ea25883e6251032c55fa853fa382547477b6e"
+    },
+    {
+      "path": "hakawi_repair/prophets-e01-v007-motion-proof-v005-20261030/media-controls/grain-portrait/OWNED_PROCESSES.json",
+      "bytes": 10470,
+      "sha256": "f98f550a2df4909384aedcb2683e3c8857d78eb8e73260d3fbe6cd3b46e8a1e6"
+    },
+    {
+      "path": "hakawi_repair/prophets-e01-v007-motion-proof-v006-20261031/FREEZE.json",
+      "bytes": 7664,
+      "sha256": "d65f3505542fae4dae5b708a1a63024b118ac6b6f54c358c768fedb494ba3e75"
+    },
+    {
+      "path": "hakawi_repair/prophets-e01-v007-motion-proof-v006-20261031/LIFECYCLE_PARITY.json",
+      "bytes": 343,
+      "sha256": "e906f09819ca7499d307a65b3d81d4c6672895e8e96d020fdf10170f81016091"
+    },
+    {
+      "path": "hakawi_repair/prophets-e01-v007-motion-proof-v006-20261031/PLAN.json",
+      "bytes": 138568,
+      "sha256": "d575236df54ad54ee8c674fb11e6c914a26d2dca7acb6e79a2322cf3f4c5aa70"
+    },
+    {
+      "path": "hakawi_repair/prophets-e01-v007-motion-proof-v006-20261031/media-controls/grain-portrait/OWNED_PROCESSES.json",
+      "bytes": 10787,
+      "sha256": "97516c8cd1b8dcded30b1ab2cfe2f64e061bf1772ea98f8b6bac6d53ff558173"
+    },
+    {
+      "path": "hakawi_repair/prophets-e01-v007-motion-proof-v006-20261031/media-qa/grain-portrait-qa-v001/AUDIO_TECHNICAL.json",
+      "bytes": 24420,
+      "sha256": "3ba00fdee21b4629845b0159d17599ff4f5583dcdcdb71114952800bdd74087f"
+    },
+    {
+      "path": "hakawi_repair/prophets-e01-v007-motion-proof-v006-20261031/media-qa/grain-portrait-qa-v001/TECHNICAL_CLOSED.json",
+      "bytes": 1235,
+      "sha256": "2458fd5b1b6a0699cb12282e2b6fae1e59e64259fab715d5efdbadae727754f0"
+    },
+    {
+      "path": "hakawi_repair/prophets-e01-v007-motion-proof-v006-20261031/media-qa/grain-portrait-qa-v001/VIDEO_TECHNICAL.json",
+      "bytes": 235483,
+      "sha256": "8b3f4639dd3d212b1cf4f763c16f4236142de9d1660bd2fdf3e99e7a07acc6b0"
+    },
+    {
+      "path": "hakawi_repair/prophets-e01-v007-motion-v005-review-20261031/REVIEW.json",
+      "bytes": 4423,
+      "sha256": "7a8841dd959bb8d24a73951e54838d5516996f642a2aa043f2ad1fca8851ea07"
+    },
+    {
+      "path": "hakawi_repair/prophets-e01-v007-motion-v006-independent-audit-20261031/ACTUAL_LEDGER_COMPARISON.json",
+      "bytes": 1745,
+      "sha256": "9ac237d07e529b64a3e0ca2dcac19e87c8d1af07d295fada6b16c82b85428c7d"
+    },
+    {
+      "path": "hakawi_repair/prophets-e01-v007-motion-v006-independent-audit-20261031/ADMISSION.md",
+      "bytes": 1054,
+      "sha256": "8d588de961b3c88a9cec1ffb53b5a155557da2e53085200be8fb0f4b7505ec17"
+    },
+    {
+      "path": "hakawi_repair/prophets-e01-v007-motion-v006-independent-audit-20261031/ENCODER_TERMINAL.json",
+      "bytes": 492,
+      "sha256": "120f44364beabf970537c25c79fc79285b62eaa4cdd15791a8cac1db0bc95f89"
+    },
+    {
+      "path": "hakawi_repair/prophets-e01-v007-motion-v006-independent-audit-20261031/EXPECTED_HISTORY_LEDGER.json",
+      "bytes": 648,
+      "sha256": "cc959c8c1422c4feda8e546f357d1ac31d3b42777bb70b9c95015c835c7b568d"
+    },
+    {
+      "path": "hakawi_repair/prophets-e01-v007-motion-v006-independent-audit-20261031/LEAD_ACTUAL_DECODED_REVIEW.json",
+      "bytes": 5867,
+      "sha256": "96d9d528ae86c3adb7fcd6a4a8ba5bed74dcf7eea66266b7ac1120e91c0d1326"
+    },
+    {
+      "path": "hakawi_repair/prophets-e01-v007-motion-v006-independent-audit-20261031/QA_ADMISSION.md",
+      "bytes": 847,
+      "sha256": "95846fa7197e26dcf659c7021da5d16cd939da8ff4cbf5baafe82df6c5c3e829"
+    },
+    {
+      "path": "hakawi_repair/prophets-e01-v007-motion-v006-independent-audit-20261031/QA_ADMISSION_TEST_RESULTS.json",
+      "bytes": 448,
+      "sha256": "a07ca7a2b8029d475751453ca1bfa403f2818d0dd7f788b963008aadf3d352ad"
+    },
+    {
+      "path": "hakawi_repair/prophets-e01-v007-motion-v006-independent-audit-20261031/QA_TERMINAL_INDEPENDENT.md",
+      "bytes": 614,
+      "sha256": "5436b8b926b5572d70da03263e27ad286792d7db5a5a8bdecb9c1d9c4d114b64"
+    },
+    {
+      "path": "hakawi_repair/prophets-e01-v007-motion-v006-independent-audit-20261031/ROOT_AUTHORIZATION.md",
+      "bytes": 644,
+      "sha256": "14c2da6c4affa743dd6ae93c50714602929d19b1a72f4a8acd2f8c34f1b72cf8"
+    },
+    {
+      "path": "hakawi_repair/prophets-e01-v007-motion-v006-independent-audit-20261031/ROOT_DECODED_REVIEW.json",
+      "bytes": 1725,
+      "sha256": "c30e5af6848e8d4124f7966407df33dda8add00e12a461405e68dd34bbbbd996"
+    },
+    {
+      "path": "hakawi_repair/prophets-e01-v007-motion-v006-independent-audit-20261031/ROOT_QA_AUTHORIZATION.md",
+      "bytes": 492,
+      "sha256": "8ee10e34e8a53af1dee68b0ed8462559905b44f2de2321717bb0e3cc54eb0c93"
+    },
+    {
+      "path": "hakawi_repair/prophets-e01-v007-motion-v006-independent-audit-20261031/test_actual_qa_admission.py",
+      "bytes": 1243,
+      "sha256": "513e71dc46ab28af950a29cc0fef313fc6d6748406e936b4d37a1bf435b1541b"
+    }
+  ]
+}
