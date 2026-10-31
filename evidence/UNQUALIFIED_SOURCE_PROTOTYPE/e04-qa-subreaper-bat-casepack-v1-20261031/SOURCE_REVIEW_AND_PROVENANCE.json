@@ -1,0 +1,11 @@
+{
+  "prototypeSourceFreeze": {
+    "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/fullfilm-production-v20-v2/qa-subreaper-source-prototype-v1/FREEZE.json",
+    "sha256": "7cb39ccfe541ee0db04ee91c223bb0181d12a77d0a875a18773a757d1f96c34d"
+  },
+  "primarySemanticsSource": "https://man7.org/linux/man-pages/man2/pidfd_open.2.html",
+  "independentReviewer": "/root/resume_runtime_audits",
+  "reviewScope": "Conceptually sound distinct exit-only disposition under continuous original processpidfd provenance, qualified currentkernel semantics and separate rootpolicy; no ownreap/exitcode/QAacceptance. Currentunknowns lack retainedpidfds, no retrospective use.",
+  "liveQualification": "NOT_RUN",
+  "actualSourceAdoption": "NOT_AUTHORIZED"
+}

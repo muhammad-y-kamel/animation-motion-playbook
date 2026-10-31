@@ -1,0 +1,13 @@
+{
+  "status": "PASS_PURE_PROPOSED_CLASSIFIER_NOT_KERNEL_QUALIFICATION",
+  "tests": 4,
+  "bounds": {
+    "ASBytes": 134217728,
+    "CPUSeconds": 30
+  },
+  "rawPollPerformed": false,
+  "waitPerformed": false,
+  "childrenSpawned": 0,
+  "registryLeaseWrites": false,
+  "log": "test_errors_no_event_threadfd_or_unknown_wait_hold (__main__.ExitModel.test_errors_no_event_threadfd_or_unknown_wait_hold) ... ok\ntest_every_missing_provenance_or_authority_holds (__main__.ExitModel.test_every_missing_provenance_or_authority_holds) ... ok\ntest_in_and_hup_failure_only_no_fake_reap (__main__.ExitModel.test_in_and_hup_failure_only_no_fake_reap) ... ok\ntest_later_runner_or_reopened_numeric_pid_never_suffices (__main__.ExitModel.test_later_runner_or_reopened_numeric_pid_never_suffices) ... ok\n\n----------------------------------------------------------------------\nRan 4 tests in 0.000s\n\nOK\n"
+}

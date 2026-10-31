@@ -1,0 +1,37 @@
+{
+  "status": "CLOSED_SOURCE_CASEPACK_AND_PURE_EXIT_CLASSIFIER_NOT_GO",
+  "writers": "CLOSED",
+  "pathBase": "directory_containing_this_manifest",
+  "files": [
+    {
+      "path": "CASES.json",
+      "sha256": "fa947996b3410fb3035263bf685c0453eb6712dab52e1724dbf373a00f6488da",
+      "bytes": 6390
+    },
+    {
+      "path": "PURE_TEST_RESULT.json",
+      "sha256": "80c86da3cf0291902cfd3bbaeca86e079cf9e6c43bdaafc8e16be29a2205355c",
+      "bytes": 894
+    },
+    {
+      "path": "README.md",
+      "sha256": "a4411c372d63e80ec37f9c2dc4793748d94b65ab0837a6b4e4ee3877638d765a",
+      "bytes": 2974
+    },
+    {
+      "path": "SOURCE_REVIEW_AND_PROVENANCE.json",
+      "sha256": "3905b93596ce234d8dbde4ca779dc25d68ad192416d38667d719fcd816306619",
+      "bytes": 766
+    },
+    {
+      "path": "pidfd_exit_model.py",
+      "sha256": "9485dcf9ad06173ece992b6e2ad157aa1653998404ba0a61f66da73c57690e96",
+      "bytes": 1240
+    },
+    {
+      "path": "test_exit_model.py",
+      "sha256": "1bea441ae2280366410e41c7048c862e602e3bf0d0bbfa543a72113c7f91c12f",
+      "bytes": 1820
+    }
+  ]
+}

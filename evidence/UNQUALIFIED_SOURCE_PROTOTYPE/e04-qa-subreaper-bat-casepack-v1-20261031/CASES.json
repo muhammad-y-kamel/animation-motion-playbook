@@ -1,0 +1,103 @@
+{
+  "status": "SOURCE_ONLY_REQUIRED_BAT_CASES_NOT_RUN",
+  "noMedia": true,
+  "noHostMemoryStress": true,
+  "currentEnvironmentLiveTestsForbidden": true,
+  "pureTestCommandCaps": {
+    "ASBytes": 134217728,
+    "CPUSeconds": 30
+  },
+  "caseExecutionRequires": "Separately restored/certified BAT +actualcapability/runtime/source/pidfdqualification +exact caseconfig/rootGO, bounded independentharness ownership. Casepack is not execution authority.",
+  "cases": [
+    {
+      "id": "normal-zero",
+      "stimulus": "Normal controller +sequential synthetic child exit0",
+      "requiredEvidence": "All registered identities/commands/limits match; actual wait observations, durable terminal, lease released only afterward; byte-exact syntheticstdout/stderr; no media acceptance.",
+      "status": "NOT_RUN"
+    },
+    {
+      "id": "normal-nonzero",
+      "stimulus": "Synthetic child exits nonzero through deterministic fixture or invalid bounded test input",
+      "requiredEvidence": "Real returncode preserved; controller/supervisor failure; all actualownedchildren reaped; failure artifacts retained; never QAacceptance.",
+      "status": "NOT_RUN"
+    },
+    {
+      "id": "controller-kill-child-live",
+      "stimulus": "Separate continuously-live harness waits exact registered target identity+targetexec evidence, then pidfd SIGKILL controller",
+      "requiredEvidence": "Outer adopts exact child, requests stop if needed, observes actualwait closure, persistsfailure; lease held until every target closes. NumericPID lookup alone forbidden.",
+      "status": "NOT_RUN"
+    },
+    {
+      "id": "controller-kill-before-exec-release",
+      "stimulus": "Deterministic BAT-only pause hook AFTER durable childACK but BEFORE one-byte release; harness kills exactcontroller",
+      "requiredEvidence": "No target exec release after cancellation; bootstrap dies/exits, outer adopts/reaps; no execution-success claim. Hook source must be separately frozen before test.",
+      "status": "NOT_RUN"
+    },
+    {
+      "id": "durable-write-failure-before-ack-release",
+      "stimulus": "Inject deterministic journal/fsync failure before ACK-release, after truePopen/pidfd ownership",
+      "requiredEvidence": "No release byte; cleanup still runs despite journal failure; lease held until exact closure and writable terminal. Requires audited test-only fault injection.",
+      "status": "NOT_RUN"
+    },
+    {
+      "id": "lost-reaped-report-retained-pidfd",
+      "stimulus": "Controller actually wait-reaps child; suppress only its REAPED packet; then terminate controller; independent outer retains ORIGINAL processpidfd",
+      "requiredEvidence": "Record wait ECHILD plus raw poll mask on same retained flags0pidfd. Currentv1 remainsHOLD. Proposed classifier may yield EXIT_OBSERVED...NO_OWN_REAP only after explicitqualifiedkernel/rootpolicy; exitcode unknown/no QA acceptance.",
+      "status": "NOT_RUN"
+    },
+    {
+      "id": "supervisor-loss-pdeath-chain",
+      "stimulus": "Independent testharness retains original pidfds of outer/controller/child BEFORE rootauthorized SIGKILL outer",
+      "requiredEvidence": "Observer records actual kernel events on exact held handles, parentdeath cascade and any remaininglive targets; no PDEATHSIG-intent=closure shortcut. Uninterruptible/loss produces HOLD. Harness must outlive tested processes.",
+      "status": "NOT_RUN"
+    },
+    {
+      "id": "lease-fd-and-limits-ack",
+      "stimulus": "Compare ACK exact regular lease dev/inode and actual getrlimit values before release; negative wrongFD/inode/limits variants",
+      "requiredEvidence": "Correct tuple required; negative cases never released, and already-owned children still cleaned/reaped.",
+      "status": "NOT_RUN"
+    },
+    {
+      "id": "target-hash-symlink-fdexec",
+      "stimulus": "Correct held verifiedFD target vs wronghash/symlink/privilegecap variants; explicit pathreplacement test only synthetic fixture",
+      "requiredEvidence": "Wrong or privileged targets reject. Held-FDexec preserves selected identity across renamedpath. In-place writers remain excluded, no twohash TOCTOU claim. Target-I-B flags verified afterexec.",
+      "status": "NOT_RUN"
+    },
+    {
+      "id": "bounded-ack-timeout",
+      "stimulus": "Syntheticbootstrap delays ACK or release beyond explicit<=30s bound",
+      "requiredEvidence": "Outer deadline/cancellation stops onlyowned children; no abandons/no stale release; observed exit+failure receipt and lease sequence.",
+      "status": "NOT_RUN"
+    },
+    {
+      "id": "soft-cpu-warning-before-hardkill",
+      "stimulus": "Separate approved synthetic controller CPU-warning profile and retained supervisor; deterministic bounded CPU-only fixture, no hostmemory stress",
+      "requiredEvidence": "SIGXCPU records stop path while outerhealthy; hardkill ifneeded still contained/reaped. Child/outer resourceprofiles remain audited; no fake elapsedwall=CPU claim.",
+      "status": "NOT_RUN"
+    },
+    {
+      "id": "thresholds-fake-only",
+      "stimulus": "Inject MemAvailable/RSS/cadence/AS/CPU telemetry failure in fake-I/O tests",
+      "requiredEvidence": "All thresholds failclosed and cleanup still called. No hostmemory exhaustion/allocation stress permitted.",
+      "status": "NOT_RUN"
+    },
+    {
+      "id": "report-identity-conflict",
+      "stimulus": "Duplicate identical report, conflicting returncode, wrongstart/namespace/generation, wrongsender",
+      "requiredEvidence": "Identicalduplicate idempotent; conflict rejects without overwriting original observedstate; wrongsender never grants closure.",
+      "status": "NOT_RUN"
+    },
+    {
+      "id": "ipc-eof-backpressure",
+      "stimulus": "Bounded controlchannel EOF/truncation/malformedFDs plus rawstdout/stderr partialread/backpressure tests using syntheticbytes",
+      "requiredEvidence": "Control faults cause exactowned cleanup; no media bytes relayed/modified; allFDs closed once; no blocking wait escapes monitoring.",
+      "status": "NOT_RUN"
+    },
+    {
+      "id": "registry-and-lease-interruption",
+      "stimulus": "Interrupt outer before/after durableSTART/registration/ACK/terminal fsync",
+      "requiredEvidence": "UnresolvedSTART rejects every subsequent attempt. No descriptor/PID reconstruction after fresh namespace/toolrunner; validterminal must bindSTART and actualownedoutcomes.",
+      "status": "NOT_RUN"
+    }
+  ]
+}
