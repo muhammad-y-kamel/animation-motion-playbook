@@ -208,3 +208,8 @@ AnswerAct reference final04 delivered with1852initial-frame review,704changed+16
 ## Ezzay S01 mechanism repair trials — 2026-10-31
 
 | [EZZAY-S01-001–004](entries/EZZAY-S01-MECHANISM-TRIALS-20261031.md) | mechanism/contact/composition | S01 Thermos | Static branch/CTA clocks; invisible heat waves; transformed spout/flow disconnect; duplicate CTA crowding | source_and_selected_native_WIP_not_final |
+
+
+## Ezzay S02 mechanism and caption repair trials — 2026-10-31
+
+| [EZZAY-S02](entries/EZZAY-S02-MECHANISM-TRIALS-20261031.md) | retained mechanism / path contact / semantic captions | Onion tears | Knife-label collision, wrong-end divider and wall-crossing path; negation/name splitting repaired | source_selected_native_PASS_full_delivery_pending |
