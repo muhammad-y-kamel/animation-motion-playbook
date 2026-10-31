@@ -20,3 +20,14 @@ Status: source and selected native still PASS; full encode, playback, upload and
 
 ## Prevention
 Audit actual compartment breaches, remaining partition and transport paths rather than generic arrows. Review annotation/handle contacts at intermediate frames. Keep captions semantic, not fixed word chunks. Maintain canonical speech, persistent context and time-driven CTA. Distinguish source tests, selected stills, all-frame encoded evidence, listening, durable archives and actual external scheduling.
+
+
+## First complete encode and newly discovered hold — 19:43 UTC
+
+Full v0012052frames closed in59.898s, sampled owned peak455303168B, encoder/direct children reaped. Full PTS and exact2,988,216PCM samples PASS. AAC delivery3,406,020B SHA256 c20b9b5f2ef804a97901bdf70f24dc0e11b58e68cb9d630f09ca936e179c73b1; all2052decoded video hashes identical to master, ten zero-offset correlation windows≥0.999920. No subjective listening claim.
+
+All22 timeline sheets and critical native stills exposed a NEW defect: the newly centered schematic label collides with approaching knife handle at36.2s. Native source confirms it; v001 is HOLD and not uploaded. v002 moves only that label to x700; measured text left594.84 versus complete knife right including outline474 guarantees120.84px horizontal separation throughout approach/cut/withdraw. Fresh native36.2/59.5 checked; rerender pending media slot. Prior blade/contact/tear scoped acceptance cannot clear this different interval.
+
+Apparent duplicated particles in default resized sheet previews were NOT movie corruption. The exact same sheet020 viewed with original detail in BOTH view_image and image forwarding is clean, matching native frames. Do not alter renderer based on preview distortion. A native-RGB-to-PIL fallback helper was prepared but not run or claimed validated; unnecessary after original-detail verification.
+
+v002 frozen46files SHA256 aec05e3ce5777aa0aa72b261416a844bfbd2a4360fcfd8cfbc616e1fa47b598f. Old scheduled video unchanged; no publication/replacement claim.
