@@ -25,3 +25,11 @@ All geometry is explicitly schematic, not an exact microscopic scale or universa
 
 ## Open gates
 Full encoded decode/PTS/PCM, AAC alignment, all-timeline native/thumbnail inspection, private processing/playback, exact schedule replacement and durable final archive. No publication claim from this entry.
+
+## Final encoded and replacement closure — 2026-10-31 20:45 UTC
+- Final frozen source: 43 files, manifest SHA256 abdc627784c3059c06787a94aaeb94463f2d8382170588df8791a4d1052d93f6.
+- Cover helper initially omitted timeline validation and rendered a blank hero. Fixed by validateTimeline before prepare, regenerated and actually reviewed the cover; main video renderer already validated its input.
+- Full 1,896-frame 63.2s render/decode/PTS/exact canonical PCM PASS. AAC delivery keeps compressed video identical; 10 zero-offset NCC windows >= .9999126186. Delivery SHA256 d30e279a33f95d92474cc9d2e3cbf52f9aaed1b55fcc64005a540fa7e7ce3834.
+- All 20 sheets (1,896 frame thumbnails) actually inspected at original detail, supplemented by seven full-native frames for hook/chemistry/roughening/primer/coating/oven/CTA. Scoped visual PASS, not full-resolution inspection of every frame. Reopening one sheet per call resolved viewer preview distortion without changing video.
+- Studio replacement a9D6jojoJGI saved private, SD/HD complete; normal-speed player reached 63.204717s endpoint. No claim of actual hearing. Scheduled Nov3 2026 19:00 Cairo GMT+0200, exact dialog verified after reload. Only then old OUsHMduKkOI changed to Private and verified after reload. Published videos untouched.
+- Source/delivery/QA archive libfile_804fb9310dec81918a76c0494722f87f v0: 159 entries fresh whole/every-entry readback PASS. ZIP SHA256 5a28f45f421b3e23b90cac829ec50b0db4dd313115a2042c052f1d77b588197c. Schedule receipt is a separate additive record.
