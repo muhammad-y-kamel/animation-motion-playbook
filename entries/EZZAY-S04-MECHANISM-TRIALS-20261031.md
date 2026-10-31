@@ -16,3 +16,8 @@ NIDCD https://www.nidcd.nih.gov/health/how-do-we-hear supports vibration→senso
 
 ## Prevention
 Use arrows/lines only when connected to causal geometry. Missing font glyphs need native review; avoid unsupported symbolic arrows in Arabic labels. Keep uncertainty visible, no invented hair-cell death or repair. Recheck exact final encoded pixels/PTS/PCM and label bounds after changes. No numerical audio test substitutes for listening.
+
+## Encoded v001 hold and narrow v002 source fix — 21:10 UTC
+All 1909 frames decoded with correct PTS and exact canonical PCM. AAC video pixel sequence identical; ten zero-offset audio windows NCC >=0.999771, not listening. Twenty contact sheets were inspected at original detail, but full native29.5 exposed a thin leader crossing the right end of the magnifier title. v001 encoded artifact and rejected witness retained, upload held. Thumbnail review alone had missed this.
+
+v002 changes only the magnifier title y635→704: inside inset below leader endpoints655 and above minimum hair-tip y738. Canonical audio/scripts/jobs/runtime trees byte-identical. Actual source29.5 reviewed by operator and parent, scoped PASS; new full encode still pending. Other v001 full natives44.5/55.5/60.2 clean within layout scope. No schedule or overall completion claim. Prevention: put inset title inside reserved header band and measure leader/text/hair swept bounds, then inspect encoded native.
