@@ -213,3 +213,8 @@ AnswerAct reference final04 delivered with1852initial-frame review,704changed+16
 ## Ezzay S02 mechanism and caption repair trials — 2026-10-31
 
 | [EZZAY-S02](entries/EZZAY-S02-MECHANISM-TRIALS-20261031.md) | retained mechanism / path contact / semantic captions | Onion tears | Knife-label collision, wrong-end divider and wall-crossing path; negation/name splitting repaired | v002_delivery_QA_and_Nov2_19Cairo_schedule_verified_old_Private |
+
+
+## Ezzay S03 coating mechanism trials — 2026-10-31
+
+| [EZZAY-S03](entries/EZZAY-S03-MECHANISM-TRIALS-20261031.md) | retained substrate / deposition contact / semantic captions | PTFE coating | Non-monotonic chain reveal, nozzle-label and oven-label collisions repaired in source | source_only_native_review_full_encode_and_schedule_OPEN |
