@@ -218,3 +218,8 @@ AnswerAct reference final04 delivered with1852initial-frame review,704changed+16
 ## Ezzay S03 coating mechanism trials — 2026-10-31
 
 | [EZZAY-S03](entries/EZZAY-S03-MECHANISM-TRIALS-20261031.md) | retained substrate / deposition contact / semantic captions | PTFE coating | Non-monotonic chain reveal, nozzle-label and oven-label collisions repaired in source | closed_scoped_visual_and_technical_QA_Nov3_19Cairo_replacement_verified_old_Private |
+
+
+## Ezzay S04 tinnitus mechanism trials — 2026-10-31
+
+| [EZZAY-S04](entries/EZZAY-S04-MECHANISM-TRIALS-20261031.md) | causal sensory path / scientific uncertainty / native labels | Transient tinnitus | Disconnected sensory diagram, unsupported symbol and leader-label clearance repaired | source_native_scoped_PASS_full_encode_and_schedule_pending |
