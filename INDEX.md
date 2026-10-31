@@ -203,3 +203,8 @@ AnswerAct reference final04 delivered with1852initial-frame review,704changed+16
 | [ANIM-0021](entries/ANIM-0021-interrupted-identity-unknown.md) | Same boot and a free lease do not close interrupted ownership | observed; exact entry scope only |
 | [ANIM-0022](entries/ANIM-0022-reactive-cleanup-first-breach.md) | Retained exact-owned cleanup and first rejecting checkpoint telemetry | validated_with_limits; exact entry scope only |
 | [ANIM-0023](entries/ANIM-0023-streamed-exact-archive.md) | Streaming exact preservation, remaining reservations and truthful transfer boundaries | validated_with_limits; exact entry scope only |
+
+
+## Ezzay S01 mechanism repair trials — 2026-10-31
+
+| [EZZAY-S01-001–004](entries/EZZAY-S01-MECHANISM-TRIALS-20261031.md) | mechanism/contact/composition | S01 Thermos | Static branch/CTA clocks; invisible heat waves; transformed spout/flow disconnect; duplicate CTA crowding | source_and_selected_native_WIP_not_final |
