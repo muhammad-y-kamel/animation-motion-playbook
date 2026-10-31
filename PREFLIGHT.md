@@ -337,3 +337,10 @@ Evidence: [HAKAWI-E04-NATIVE-ASSET-CLOSURE-20261031](entries/HAKAWI-E04-NATIVE-A
 - [ ] Compare the actual encoder's full clocked raw-RGBA ledger against the diagnostic without diagnostic PNG/ROI/reset intervention. Keep isolated package and binary pins; do not attribute a multi-change pipeline result to a sole upstream version/commit without controlled evidence.
 - [ ] Retain failed attempts, exact decoded PTS/PCM evidence and reviewer scope. Normal-speed playback/listening, other formats/windows and full-tail acceptance remain separate gates.
 Evidence: [bounded Prophets history remedy](entries/PROPHETS-E01-BOUNDED-CANVAS-HISTORY-20261031.md).
+
+
+## Isolated pilot versus actual main painter
+- [ ] Exercise actual painter commands with inherited furniture, wall planes, camera-relative depth and carried primitives. Metadata-only ordering tests cannot certify painted occlusion.
+- [ ] Recompute moved objects' camera-relative side visibility and slats; test both camera-axis boundaries instead of translating cached projections.
+- [ ] Preserve rejected native output and negative fixtures. Source-only repairs require new native/context and join review; isolated pilot acceptance never automatically clears integrated composition.
+Evidence: [WhatIf main-context rejection and r006 source repair](entries/WHATIF-MAIN-PAINTER-CONTEXT-20261031.md).

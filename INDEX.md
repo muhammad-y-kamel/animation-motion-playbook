@@ -187,3 +187,6 @@ AnswerAct reference final04 delivered with1852initial-frame review,704changed+16
 
 
 | [PROPHETS-E01-BOUNDED-CANVAS-HISTORY-20261031](entries/PROPHETS-E01-BOUNDED-CANVAS-HISTORY-20261031.md) | native rendering / lifecycle / visual QA | Prophets E01 | Persistent art freeze despite moving captions and technical completion; bounded history-to-encoder remedy | validated_with_limits |
+
+
+| [WHATIF-MAIN-PAINTER-CONTEXT-20261031](entries/WHATIF-MAIN-PAINTER-CONTEXT-20261031.md) | painter context / camera geometry | WhatIf Milan | Isolated proof missed main furniture/depth; translated crate kept stale face | repair_attempted / source-only scoped PASS |

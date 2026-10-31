@@ -636,6 +636,16 @@
       "status": "validated_with_limits",
       "discovered_by": "agent runtime failures and decoded visual review; independent auditor and root scoped image review",
       "file": "entries/PROPHETS-E01-BOUNDED-CANVAS-HISTORY-20261031.md"
+    },
+    {
+      "id": "WHATIF-MAIN-PAINTER-CONTEXT-20261031",
+      "title": "Isolated lowering proof did not validate main painter depth and moved crate faces",
+      "category": "composition/painter-order/camera-relative-geometry",
+      "project": "ماذا لو كنت",
+      "episode": "Milan cellar",
+      "status": "repair_attempted",
+      "discovered_by": "lead/root actual native review; independent source reviewer",
+      "file": "entries/WHATIF-MAIN-PAINTER-CONTEXT-20261031.md"
     }
   ]
 }
