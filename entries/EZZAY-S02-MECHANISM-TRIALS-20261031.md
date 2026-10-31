@@ -31,3 +31,11 @@ All22 timeline sheets and critical native stills exposed a NEW defect: the newly
 Apparent duplicated particles in default resized sheet previews were NOT movie corruption. The exact same sheet020 viewed with original detail in BOTH view_image and image forwarding is clean, matching native frames. Do not alter renderer based on preview distortion. A native-RGB-to-PIL fallback helper was prepared but not run or claimed validated; unnecessary after original-detail verification.
 
 v002 frozen46files SHA256 aec05e3ce5777aa0aa72b261416a844bfbd2a4360fcfd8cfbc616e1fa47b598f. Old scheduled video unchanged; no publication/replacement claim.
+
+## v002 closed repair and schedule replacement — 20:06 UTC
+
+Full corrected encode and ownership closure PASS; 2052 frames at 30fps, 1080×1920. Exact canonical PCM and full PTS/decode PASS. Accepted MP4 3,405,258 bytes SHA256 e0e724a4745b7fb48d55a646ada0bea12aef2e24c6f1165636b59546ae2d5057. AAC video pixels equal master; ten zero-offset audio windows minimum correlation0.9999202632. All22 original-detail timeline sheets reviewed; selected native36.2/36.7/59.5 clean and independent36.2 clearance review PASS. This is not full-resolution every-frame or actual listening proof.
+
+Uploaded once as Private YUBhyHFKBm4; SD/HD processing and platform checks complete, no issues. Normal-speed Studio player observed start, intermediate advance and ended68.405986s. Saved/reloaded Scheduled Nov2,2026 at19:00 GMT+0200. Only after exact replacement date/time confirmed, old6algh9baYjY saved/reloaded Private. Published videos untouched.
+
+Durable source/delivery/QA archive libfile_a576cb43cf688191affeceb68ba4f058, ZIP26,862,442bytes SHA256 f64e7a870e1c5414328144eef36406a27d9cf3c600ba5f9b3424266bcaee1b57; fresh whole and all129members readback PASS. Schedule receipt separately additive, SHA256 5ae7d462a15a2c378c2439415503bcd4e2389f70d82020af40fb911c6c697ceb.
