@@ -217,4 +217,4 @@ AnswerAct reference final04 delivered with1852initial-frame review,704changed+16
 
 ## Ezzay S03 coating mechanism trials — 2026-10-31
 
-| [EZZAY-S03](entries/EZZAY-S03-MECHANISM-TRIALS-20261031.md) | retained substrate / deposition contact / semantic captions | PTFE coating | Non-monotonic chain reveal, nozzle-label and oven-label collisions repaired in source | source_only_native_review_full_encode_and_schedule_OPEN |
+| [EZZAY-S03](entries/EZZAY-S03-MECHANISM-TRIALS-20261031.md) | retained substrate / deposition contact / semantic captions | PTFE coating | Non-monotonic chain reveal, nozzle-label and oven-label collisions repaired in source | closed_scoped_visual_and_technical_QA_Nov3_19Cairo_replacement_verified_old_Private |
