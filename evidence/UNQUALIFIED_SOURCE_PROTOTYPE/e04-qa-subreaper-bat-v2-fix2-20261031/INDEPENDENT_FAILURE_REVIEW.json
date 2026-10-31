@@ -1,0 +1,19 @@
+{
+  "status": "SOURCE_BOUND_FAILURE_DIAGNOSIS_NO_LIVE_QUALIFICATION",
+  "artifactSha256": "af1dacf8b26e79273b375be96eb7e6ef4de022d394964d649167cba6b12ceb64",
+  "embeddedRecordsVerified": 11,
+  "guardExit": 1,
+  "childCreation": "NOT_ESTABLISHED",
+  "childReaping": "NOT_ESTABLISHED; empty allOwnedWaited is vacuous",
+  "sourceInference": "Empty final ownership is consistent with failure before Popen returned. Successful return immediately retains the Popen; subsequent pidfd/proc capture failure would retain nonempty ownership. Exact syscall unavailable.",
+  "limitAssessment": "All child hard limits are no greater than inherited guard limits. Child set_limits executes after Popen launch; no evidence supports a hard-limit increase as this parent EPERM cause.",
+  "remainingCandidates": [
+    "socketpair(AF_UNIX, SOCK_SEQPACKET)",
+    "SO_PASSCRED setup",
+    "other pre-Popen setup",
+    "Popen launch restriction or failure before successful return"
+  ],
+  "requiredNextStep": "Source-only bounded phase and traceback diagnostics; separate authority before any retry. Respect real permission restriction, no bypass.",
+  "deathCase": "NOT_RUN; normal prerequisite unsatisfied",
+  "currentHostUnknowns": "Unchanged; no retrospective exclusion"
+}
