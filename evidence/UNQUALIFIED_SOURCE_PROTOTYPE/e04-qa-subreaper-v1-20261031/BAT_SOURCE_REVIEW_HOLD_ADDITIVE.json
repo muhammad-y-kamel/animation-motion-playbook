@@ -1,0 +1,14 @@
+{
+  "status": "UNQUALIFIED_PROTOTYPE_SOURCE_HOLD_NOT_MEDIA_FAILURE",
+  "sourceFreezeSha256": "7cb39ccfe541ee0db04ee91c223bb0181d12a77d0a875a18773a757d1f96c34d",
+  "reportedBy": "Root BAT review 2026-10-31T06:50:24Z",
+  "findings": [
+    "Synthetic identical video/audio argv contradicts len(choices)==1 role selector; pre-Popen source blocker.",
+    "Post-Popen ownership/registration fallible-work gap requires exact local retained-child cleanup.",
+    "Numeric PID resource sampling needs retained identity/pidfd-aware reuse protection."
+  ],
+  "priorScope": "14fake tests and conceptual model review were not complete executable/live BAT admission.",
+  "next": "Separate BAT v2 owned implementation+independent diff/fault review; firstnormal/controllerdeath livecases require rootgate. No parallel divergent implementation.",
+  "oldSourceUnchanged": true,
+  "currentHostUnknowns": "Original002r1 and005r3 unresolved; no newcurrenthostmedia/archive authority."
+}
