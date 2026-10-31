@@ -344,3 +344,11 @@ Evidence: [bounded Prophets history remedy](entries/PROPHETS-E01-BOUNDED-CANVAS-
 - [ ] Recompute moved objects' camera-relative side visibility and slats; test both camera-axis boundaries instead of translating cached projections.
 - [ ] Preserve rejected native output and negative fixtures. Source-only repairs require new native/context and join review; isolated pilot acceptance never automatically clears integrated composition.
 Evidence: [WhatIf main-context rejection and r006 source repair](entries/WHATIF-MAIN-PAINTER-CONTEXT-20261031.md).
+
+
+## Extended wall depth and shared raster boundaries
+- [ ] Check actual ray depth of extended walls against actor/prop overlap; nearest-endpoint sorting can hide a nearer cap behind a farther wall portion.
+- [ ] Share adjacent clip boundaries in device space under the complete painter transform. Avoid internal strokes, overlap hacks and independent antialiased gaps; state point-sampling approximation explicitly.
+- [ ] Transform all four bounds corners, include opaque reveal contents, and fail closed on unsupported painter methods. Sampled zero ambiguities are not a continuous proof.
+- [ ] Quantify rejected seam columns and review actual native output; exact flat-wall samples do not imply whole-image equality or motion acceptance.
+Evidence: [WhatIf wall-depth and raster-partition trials](entries/WHATIF-WALL-DEPTH-RASTER-PARTITION-20261031.md).

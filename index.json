@@ -646,6 +646,16 @@
       "status": "repair_attempted",
       "discovered_by": "lead/root actual native review; independent source reviewer",
       "file": "entries/WHATIF-MAIN-PAINTER-CONTEXT-20261031.md"
+    },
+    {
+      "id": "WHATIF-WALL-DEPTH-RASTER-PARTITION-20261031",
+      "title": "Whole-wall depth sorting clipped a cap; independently antialiased slabs introduced seams",
+      "category": "depth-order/rasterization/verification",
+      "project": "ماذا لو كنت",
+      "episode": "Milan cellar",
+      "status": "validated_with_limits",
+      "discovered_by": "lead/root actual native review; independent ray-depth and test-coverage audits",
+      "file": "entries/WHATIF-WALL-DEPTH-RASTER-PARTITION-20261031.md"
     }
   ]
 }
