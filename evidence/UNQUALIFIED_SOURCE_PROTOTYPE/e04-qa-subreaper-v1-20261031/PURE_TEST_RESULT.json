@@ -1,0 +1,20 @@
+{
+  "status": "PASS_FAKE_PROCESS_FD_ONLY_NOT_LINUX_QUALIFICATION",
+  "tests": 14,
+  "invocation": [
+    "/usr/bin/prlimit",
+    "--as=134217728:134217728",
+    "--data=134217728:134217728",
+    "--cpu=30:30",
+    "--stack=8388608:8388608",
+    "--core=0:0",
+    "--",
+    "python",
+    "-B",
+    "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/fullfilm-production-v20-v2/qa-subreaper-source-prototype-v1/test_pure.py"
+  ],
+  "realChildrenSpawned": 0,
+  "nativeGuardSyscallsExecuted": false,
+  "socketLeaseRegistryWrites": false,
+  "output": "test_ipc_registration_error_still_returns_owned_popen (__main__.Adapter.test_ipc_registration_error_still_returns_owned_popen) ... ok\ntest_real_popen_object_and_original_wait_preserved (__main__.Adapter.test_real_popen_object_and_original_wait_preserved) ... ok\ntest_unknown_command_no_spawn (__main__.Adapter.test_unknown_command_no_spawn) ... ok\ntest_inherited_hard_ceiling_checked_before_spawn (__main__.Caps.test_inherited_hard_ceiling_checked_before_spawn) ... ok\ntest_no_native_calls_in_module_import_path (__main__.Caps.test_no_native_calls_in_module_import_path) ... ok\ntest_all_faults_do_not_skip_child_reap_or_lease (__main__.Cleanup.test_all_faults_do_not_skip_child_reap_or_lease) ... ok\ntest_new_adopted_child_discovered_at_terminal_reenters_cleanup (__main__.Cleanup.test_new_adopted_child_discovered_at_terminal_reenters_cleanup) ... ok\ntest_cap_and_no_media_packet (__main__.IPC.test_cap_and_no_media_packet) ... ok\ntest_credentials_and_bounded_frame (__main__.IPC.test_credentials_and_bounded_frame) ... ok\ntest_eof_truncation_and_missing_credentials_fail (__main__.IPC.test_eof_truncation_and_missing_credentials_fail) ... ok\ntest_controller_exit_zero_does_not_promote_active_child (__main__.SupervisorReports.test_controller_exit_zero_does_not_promote_active_child) ... ok\ntest_duplicate_same_reap_idempotent_conflict_rejected (__main__.SupervisorReports.test_duplicate_same_reap_idempotent_conflict_rejected) ... ok\ntest_lost_normal_reap_report_echild_not_promoted (__main__.SupervisorReports.test_lost_normal_reap_report_echild_not_promoted) ... ok\ntest_wrong_start_identity_rejected_even_same_pid (__main__.SupervisorReports.test_wrong_start_identity_rejected_even_same_pid) ... ok\n\n----------------------------------------------------------------------\nRan 14 tests in 0.017s\n\nOK\n"
+}

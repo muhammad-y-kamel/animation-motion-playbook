@@ -1,0 +1,25 @@
+{
+  "status": "SYNTHETIC_SOURCE_PROTOTYPE_PENDING_FINAL_FROZEN_REVIEW_AND_BAT_QUALIFICATION",
+  "reviewer": "/root/resume_runtime_audits",
+  "reviewedScope": "Subreaper tradeoff, registered fullidentity+generation REAPED reports, idempotent duplicate/conflict rejection, preserved lost-report ECHILD HOLD. No operational qualification.",
+  "laterExplicitFixes": [
+    "Both bootstrap and target synthetic interpreter argv require-I-B",
+    "Supervisor lowsoft/hard-inheritance ceiling profile enforced",
+    "Per-roleRSS128/384/256 undernewaggregate2GiB",
+    "Portable relative source manifest; separatelyaudited actualBATruntimepins mandatory",
+    "UnresolvedSTART and generationreuse deny futureattempts",
+    "Only fixedbat_controller/bat_child targetargv admitted"
+  ],
+  "mandatoryUnresolvedGates": [
+    "Certified separate BAT restored capability/permissions",
+    "Exact actual Python/ctypes/libffi/target loader closure",
+    "Live subreaper/adoption/pidfd/FDexec/PDEATHSIG and retainedcreator-thread qualification",
+    "Controller death before/after ACK/release/wait/reap report",
+    "FD stdout/stderr byte/backpressure/EOF equivalence",
+    "Actual resource/cadence/lease/fsync/terminal behavior",
+    "Lost-report ECHILD remains HOLD, not falseclosure",
+    "Separate later productionintegration source/admission ifBATpasses"
+  ],
+  "currentEnvironment": "Original002r1 and005r3 unresolved. No currentnative/media/writerexecution authorized.",
+  "actualConfigOrGoCreated": false
+}

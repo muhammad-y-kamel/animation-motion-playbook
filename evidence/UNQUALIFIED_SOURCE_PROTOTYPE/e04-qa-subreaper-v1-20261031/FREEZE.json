@@ -1,0 +1,62 @@
+{
+  "status": "CLOSED_PORTABLE_EXECUTABLE_SOURCE_PROTOTYPE_SYNTHETIC_ONLY_NOT_GO",
+  "writers": "CLOSED",
+  "pathBase": "directory_containing_this_manifest",
+  "files": [
+    {
+      "path": "PURE_TEST_RESULT.json",
+      "sha256": "b27a50fc57d0024d1a3124c2dbd0f4029ebc2d2110a71c045a39e1563aa029eb",
+      "bytes": 2388
+    },
+    {
+      "path": "README.md",
+      "sha256": "49f5669539340c6a5f53757482e41f33893f3584ffa605266cfb193f5b214c59",
+      "bytes": 7992
+    },
+    {
+      "path": "SOURCE_REVIEW_AND_GATES.json",
+      "sha256": "1ab4594f6aad7a601d2d1da44873ce4e54c5cecf6d58edf322319cdc73b1e475",
+      "bytes": 1497
+    },
+    {
+      "path": "bat_child.py",
+      "sha256": "0db8d64558b7957981e6274d185ebd536c3b8551b67801c43f601ac2330dc3f7",
+      "bytes": 301
+    },
+    {
+      "path": "bat_controller.py",
+      "sha256": "0d397ea31c71e15078e63428171b0e93aea090f1da4dc8b0dcfac268b2249f0c",
+      "bytes": 1369
+    },
+    {
+      "path": "bootstrap.py",
+      "sha256": "94a07521559a5ece9433d9210eac3ec9a8f7fa5b1ee21d8d3e4366fcb183dbea",
+      "bytes": 3988
+    },
+    {
+      "path": "controller_adapter.py",
+      "sha256": "ec7fb4ed3d80bd4d8a2109809fc417cbe9b995d9db00da6bd9547f65c75882a7",
+      "bytes": 2822
+    },
+    {
+      "path": "ipc.py",
+      "sha256": "87daa9e5d7a8c8297b123f16a5c1b9699b84fe1670b8d5a5f774252bdc55d319",
+      "bytes": 1576
+    },
+    {
+      "path": "ownership.py",
+      "sha256": "dda8215e55c9f2a29a482098789cfbb5bf136ecfc48f51e619bb4a9a0b9395cb",
+      "bytes": 1606
+    },
+    {
+      "path": "supervisor.py",
+      "sha256": "720b84f31ccc950f441f17504a1b08c49326b0c7bdc69791fdb10a760f1072b1",
+      "bytes": 16902
+    },
+    {
+      "path": "test_pure.py",
+      "sha256": "fabfc82f75b82d08b5c47abd58bc85150bc20d4466f35729fda19b74bd324715",
+      "bytes": 7720
+    }
+  ]
+}
