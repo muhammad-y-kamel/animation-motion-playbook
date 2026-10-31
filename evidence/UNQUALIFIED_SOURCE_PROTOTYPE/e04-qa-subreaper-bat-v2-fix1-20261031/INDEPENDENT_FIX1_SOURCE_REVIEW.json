@@ -1,0 +1,31 @@
+{
+  "status": "SCOPED_SOURCE_ADMISSION_PASS_FOR_SEPARATELY_GATED_FIRST_TWO_SYNTHETIC_CASES",
+  "reviewer": "resume_runtime_audits",
+  "sourceMembersVerified": 19,
+  "zipBytes": 114143,
+  "zipSha256": "3a5bd32fc8677049d543d6a741facdd27f984e049160834a09952bfd5e831bf4",
+  "hashes": {
+    "SOURCE_FREEZE.json": "f55b36e8f2d4927479dee59227383239a34238a4b749fd0432d2af232e36d7c8",
+    "RUNTIME_FREEZE.json": "016a05afe05a97fc09262e308f35af91b92f2483441e0fb29f18731e2606b83e",
+    "COMMANDS.json": "337a95c5260e23e65bca1f18c259de27dda48c731d468b2e581934712855ef76",
+    "configs/normal.json": "500fd052a4a126041c7964ad507fb0c39a783cf807d194899e1de11909916fc6",
+    "configs/controller-death.json": "5ea9f37f6a1614b24de9bde7bb293fcc217a35e79dfa809357cfea4779ab3bb1",
+    "FIX1_LOGIC.patch": "cb61212f85895b5953dbe2099015184ed924d802805d2a1a426de2a0231e6572"
+  },
+  "verifiedFixes": [
+    "Deadline KILL independent of repeated TERM exception.",
+    "Digest/item preparation and ownership-slot insertion precede Popen; real return immediately stored.",
+    "Pinned outer prlimit before Python startup; exact early readback.",
+    "Cleanup stop/wait, health sampling and stream collection isolated; sleep failure recorded and cleanup continues."
+  ],
+  "testEvidence": "Read frozen28-fake-test result and matching regression source; no tests executed by reviewer.",
+  "limits": "Guard AS128MiB DATA64MiB CPU8:10; child AS96MiB DATA48MiB CPU2:3. Exact COMMANDS use env-i/prlimit/Python-I-S-B.",
+  "dependency": "Controller-death only after exact normal PASS_NORMAL with same source/runtime.",
+  "remainingQualification": [
+    "Actual BAT701 runtime byte revalidation.",
+    "Live normal and injected controller-death behavior, streams, raw waitpid, retained handles, startup limits and durable terminal.",
+    "Stop if first case fails or unresolved START appears."
+  ],
+  "exclusions": "No current-host live child/native/media test. No production QA semantics qualification; historical002/005r3 unknowns unaffected.",
+  "writers": "CLOSED"
+}
