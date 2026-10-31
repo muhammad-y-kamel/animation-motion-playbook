@@ -222,4 +222,9 @@ AnswerAct reference final04 delivered with1852initial-frame review,704changed+16
 
 ## Ezzay S04 tinnitus mechanism trials — 2026-10-31
 
-| [EZZAY-S04](entries/EZZAY-S04-MECHANISM-TRIALS-20261031.md) | causal sensory path / scientific uncertainty / native labels | Transient tinnitus | Disconnected sensory diagram, unsupported symbol and leader-label clearance repaired | source_native_scoped_PASS_full_encode_and_schedule_pending |
+| [EZZAY-S04](entries/EZZAY-S04-MECHANISM-TRIALS-20261031.md) | causal sensory path / scientific uncertainty / native labels | Transient tinnitus | Disconnected sensory diagram, unsupported symbol and leader-label clearance repaired | v002_scoped_QA_Nov4_19Cairo_replacement_verified_old_Private |
+
+
+## Ezzay S05 inductive card mechanism trials — 2026-10-31
+
+| [EZZAY-S05](entries/EZZAY-S05-MECHANISM-TRIALS-20261031.md) | inductive coupling / load modulation / label swept bounds | Contactless card | Insulated coil lead, magnifier two-terminal attachment, screen/withdrawal/CTA clearance | source_native_scoped_PASS_full_encode_and_schedule_pending |
