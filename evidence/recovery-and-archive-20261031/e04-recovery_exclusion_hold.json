@@ -1,0 +1,15 @@
+{
+  "status": "RECOVERY_EXCLUSION_HOLD_NO_QA_RETRY",
+  "utc": "2026-10-31T03:31:17.938541+00:00",
+  "window": "fullfilm-002",
+  "originalQaTerminal": "UNKNOWN_NOT_REAPED_CLAIM",
+  "partialFilesPreserved": 13,
+  "historyMap": "controls/fullfilm-002/INTERRUPTED_QA_HISTORY_MAP.json",
+  "preparedRetryPhase": "controls/qa-fullfilm-002-recovery-r2",
+  "retryLaunched": false,
+  "independentFindings": "Wrapper pass_fds proves inheritance at exec but retained evidence does not prove exact lease FD retained throughout FFmpeg lifetime. Parent finally holds until reap only on normal controller lifetime. Free flock cannot establish arbitrary old decoder absence. New PID namespace PID7 absence is not original-process evidence.",
+  "unsupportedHostCheck": "Read-only escalated /proc command never executed: bwrap infrastructure Read-only file system at denied sessions path. No access attempted to that path, no workaround.",
+  "permittedContinuation": "Source-only finalmaster implementation; await supported teardown/host identity evidence or explicit root revised exclusion policy.",
+  "noGlobalAbsenceClaim": true,
+  "noOriginalSuccessfulClosureClaim": true
+}

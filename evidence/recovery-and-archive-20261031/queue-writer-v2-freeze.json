@@ -1,0 +1,25 @@
+{
+  "status": "SOURCE_CLOSED_PENDING_INDEPENDENT_AUDIT",
+  "files": [
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/recovered_preservation_20261030/queue_streaming_writer_v2/README.md",
+      "sha256": "a2db219a16e4ba7c442559aee296deffcd05059a0b8403b8aebb5bb8aa1ede14",
+      "bytes": 1403
+    },
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/recovered_preservation_20261030/queue_streaming_writer_v2/SOURCE_TESTS.json",
+      "sha256": "b10de07cfbd8268483a6e97f7f6114c177398f8c08d340da9c63f7def0e23c64",
+      "bytes": 743
+    },
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/recovered_preservation_20261030/queue_streaming_writer_v2/stream_archive.py",
+      "sha256": "fb9b6342573b4b5218aa61434cbdb7a8c45c4fc66b4130e94fab238a8bd2fbcc",
+      "bytes": 14759
+    },
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/recovered_preservation_20261030/queue_streaming_writer_v2/test_literal_exception.py",
+      "sha256": "76f9cbd46c6d057e996c55fd980fba82f83dfcfafd97604aecf05e7f911e23a6",
+      "bytes": 1585
+    }
+  ]
+}

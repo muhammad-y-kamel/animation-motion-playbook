@@ -193,3 +193,13 @@ AnswerAct reference final04 delivered with1852initial-frame review,704changed+16
 
 
 | [WHATIF-WALL-DEPTH-RASTER-PARTITION-20261031](entries/WHATIF-WALL-DEPTH-RASTER-PARTITION-20261031.md) | depth / raster / audit | WhatIf Milan | Extended-wall nearest-depth sorting clipped cap; independent clip AA created seams; corrected audit and shared device partition | validated_with_limits / eight static samples |
+
+
+## Additive recovery, monitoring and preservation — 2026-10-31
+
+| ID | Mechanism | Status / limit |
+|---|---|---|
+| [ANIM-0020](entries/ANIM-0020-painted-sleeve-support.md) | Painted sleeve envelopes and support intervals, not just joint spacing | validated_with_limits; exact entry scope only |
+| [ANIM-0021](entries/ANIM-0021-interrupted-identity-unknown.md) | Same boot and a free lease do not close interrupted ownership | observed; exact entry scope only |
+| [ANIM-0022](entries/ANIM-0022-reactive-cleanup-first-breach.md) | Retained exact-owned cleanup and first rejecting checkpoint telemetry | validated_with_limits; exact entry scope only |
+| [ANIM-0023](entries/ANIM-0023-streamed-exact-archive.md) | Streaming exact preservation, remaining reservations and truthful transfer boundaries | validated_with_limits; exact entry scope only |

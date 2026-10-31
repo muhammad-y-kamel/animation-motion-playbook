@@ -1,0 +1,22 @@
+{
+  "status": "LOCAL_ARCHIVE_PHASE_PASS",
+  "mode": "package",
+  "newControllerReturned": true,
+  "childReaped": true,
+  "childExit": 0,
+  "error": null,
+  "cleanupErrors": [],
+  "signals": [],
+  "monitor": {
+    "samples": 27,
+    "peakNewAggregateRss": 32067584,
+    "peakParentRss": 15622144,
+    "minimumMemAvailable": 7800958976,
+    "maximumObservedGapSeconds": 0.31488287599859177,
+    "hardIsolation": false,
+    "oldTerminal": "UNKNOWN"
+  },
+  "stdout": "{\"sha256\": \"8de14b6208103c100db801daad2305784e150bf9ff65193bc5598e0fc7f9314c\", \"bytes\": 7323924, \"entries\": 389, \"path\": \"/workspace/scratch/bb6b47af6d33/closed_queue_archive_20261031/source_native/source_native.zip\", \"writer\": \"LOCAL_PACKAGE_CLOSED_NOT_YET_DURABLE\"}\n",
+  "stderr": "",
+  "oldTerminal": "UNKNOWN"
+}

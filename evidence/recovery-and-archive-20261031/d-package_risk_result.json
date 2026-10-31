@@ -1,0 +1,22 @@
+{
+  "status": "LOCAL_ARCHIVE_PHASE_PASS",
+  "mode": "package",
+  "newControllerReturned": true,
+  "childReaped": true,
+  "childExit": 0,
+  "error": null,
+  "cleanupErrors": [],
+  "signals": [],
+  "monitor": {
+    "samples": 59,
+    "peakNewAggregateRss": 31879168,
+    "peakParentRss": 15695872,
+    "minimumMemAvailable": 7766818816,
+    "maximumObservedGapSeconds": 0.07389774699913687,
+    "hardIsolation": false,
+    "oldTerminal": "UNKNOWN"
+  },
+  "stdout": "{\"sha256\": \"c2953a84f39117b88cc6c2d953d775c19e64095f12c9a2557de96c3fe8f313e3\", \"bytes\": 41660972, \"entries\": 107, \"path\": \"/workspace/scratch/bb6b47af6d33/closed_queue_archive_20261031/whatif_d/whatif_d.zip\", \"writer\": \"LOCAL_PACKAGE_CLOSED_NOT_YET_DURABLE\"}\n",
+  "stderr": "",
+  "oldTerminal": "UNKNOWN"
+}

@@ -1,0 +1,14 @@
+{
+  "sha256": "9e2dd687443b14d6a8b9462d434cb021330c78c55e178520c0095d191f8043c3",
+  "bytes": 42096745,
+  "entries": 97,
+  "library_file_id": "libfile_ff298a75e88c8191958929bdb4bf3e7a",
+  "version": 0,
+  "file_id": "file_000000002e8c81f5b8f6aecc85920135",
+  "current_version_number": 0,
+  "local_path": "/workspace/scratch/bb6b47af6d33/closed_queue_archive_20261031/whatif_c/whatif_c.zip",
+  "readback_path": "/workspace/scratch/bb6b47af6d33/closed_queue_archive_20261031/whatif_c/readback/whatif_c.zip",
+  "entries_verified": 97,
+  "status": "PASS_WHOLE_AND_EVERY_ENTRY",
+  "writer": "CLOSED"
+}

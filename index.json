@@ -656,6 +656,42 @@
       "status": "validated_with_limits",
       "discovered_by": "lead/root actual native review; independent ray-depth and test-coverage audits",
       "file": "entries/WHATIF-WALL-DEPTH-RASTER-PARTITION-20261031.md"
+    },
+    {
+      "id": "ANIM-0020",
+      "title": "Painted sleeve envelopes and support intervals, not just joint spacing",
+      "category": "geometry/support/projected-clearance",
+      "project": "WhatIf Milan",
+      "status": "validated_with_limits",
+      "discovered_by": "agent observations and independently attributed reviewer findings; see component-level entry evidence",
+      "file": "entries/ANIM-0020-painted-sleeve-support.md"
+    },
+    {
+      "id": "ANIM-0021",
+      "title": "Same boot and a free lease do not close interrupted ownership",
+      "category": "runtime/interruption/identity",
+      "project": "Shared animation runtime / E04",
+      "status": "observed",
+      "discovered_by": "agent observations and independently attributed reviewer findings; see component-level entry evidence",
+      "file": "entries/ANIM-0021-interrupted-identity-unknown.md"
+    },
+    {
+      "id": "ANIM-0022",
+      "title": "Retained exact-owned cleanup and first rejecting checkpoint telemetry",
+      "category": "runtime/cleanup/cadence/diagnostics",
+      "project": "WhatIf and shared runtime",
+      "status": "validated_with_limits",
+      "discovered_by": "agent observations and independently attributed reviewer findings; see component-level entry evidence",
+      "file": "entries/ANIM-0022-reactive-cleanup-first-breach.md"
+    },
+    {
+      "id": "ANIM-0023",
+      "title": "Streaming exact preservation, remaining reservations and truthful transfer boundaries",
+      "category": "archive/privacy/resource/provenance",
+      "project": "Shared animation preservation",
+      "status": "validated_with_limits",
+      "discovered_by": "agent observations and independently attributed reviewer findings; see component-level entry evidence",
+      "file": "entries/ANIM-0023-streamed-exact-archive.md"
     }
   ]
 }

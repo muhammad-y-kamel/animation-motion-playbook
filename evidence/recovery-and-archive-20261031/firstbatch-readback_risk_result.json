@@ -1,0 +1,22 @@
+{
+  "status": "LOCAL_ARCHIVE_PHASE_PASS",
+  "mode": "readback",
+  "newControllerReturned": true,
+  "childReaped": true,
+  "childExit": 0,
+  "error": null,
+  "cleanupErrors": [],
+  "signals": [],
+  "monitor": {
+    "samples": 18,
+    "peakNewAggregateRss": 32096256,
+    "peakParentRss": 14954496,
+    "minimumMemAvailable": 7779782656,
+    "maximumObservedGapSeconds": 0.0527960819999862,
+    "hardIsolation": false,
+    "oldTerminal": "UNKNOWN"
+  },
+  "stdout": "{\"sha256\": \"3ede9dd6f86ff2f6f87e38d39bf04158be4ca60214fc571932f52780b352a443\", \"bytes\": 58441469, \"entries\": 234, \"library_file_id\": \"libfile_fe9391e2a7008191a34b5739e2b9fc77\", \"version\": 0, \"file_id\": \"file_00000000a8c081fdbd12f6a2b3adbfdc\", \"current_version_number\": 0, \"local_path\": \"/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/fullfilm-production-v20-v2/archive/batch-01/Hakawi_E04_Fullfilm_Batch01_Proof.zip\", \"readback_path\": \"/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/fullfilm-production-v20-v2/archive/batch-01/readback/Hakawi_E04_Fullfilm_Batch01_Proof.zip\", \"entries_verified\": 234, \"status\": \"PASS_WHOLE_AND_EVERY_ENTRY\", \"writer\": \"CLOSED\"}\n",
+  "stderr": "",
+  "oldTerminal": "UNKNOWN"
+}

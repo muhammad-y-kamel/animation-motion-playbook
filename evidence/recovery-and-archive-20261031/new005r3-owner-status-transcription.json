@@ -1,0 +1,8 @@
+{
+  "status": "ATTRIBUTED_UNRESOLVED_OWNER_REPORT_NOT_PROCESS_RECONCILIATION",
+  "reportedAt": "2026-10-31T06:07:36Z",
+  "origin": "E04 owner message to preservation; root confirmed documentation scope06:08:55Z",
+  "observation": "Fullfilm005 QA r3 controller session13030 returned247/nooutput; shared registry had START without TERMINAL or decoder closure. New controller/possible decoder terminal UNKNOWN. Old002 UNKNOWN remains separate.",
+  "limitations": "No cause established; no claim of PID absence, reap, resource release, or safe local continuation. No active registry or potentially open proof bytes were copied.",
+  "policy_snapshot": "All local media/archive/heavy-I/O held pending root recovery review. Small connected-GitHub text documentation explicitly permitted separately."
+}

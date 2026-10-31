@@ -1,0 +1,20 @@
+{
+  "status": "SOURCE_ONLY_SYNTHETIC_SCREEN_REGRESSIONS_PASS_NO_ARCHIVE",
+  "tests": [
+    "exact old scanner literal with source pin PASS",
+    "unpinned literal denied PASS",
+    "incorrect hash denied PASS",
+    "actual key header  PASS",
+    "actual key header RSA PASS",
+    "actual key header EC PASS",
+    "actual key header ENCRYPTED PASS",
+    "actual key header OPENSSH PASS",
+    "credential-pattern negative fixture PASS",
+    "credential-pattern negative fixture PASS",
+    "credential-pattern negative fixture PASS",
+    "credential-pattern negative fixture PASS",
+    "credential-pattern negative fixture PASS",
+    "credential-pattern negative fixture PASS",
+    "allowed literal does not excuse second real header PASS"
+  ]
+}

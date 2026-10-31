@@ -1,0 +1,93 @@
+{
+  "status": "ROOT_ALL12_ACTUAL_NATIVE_SCOPED_STATIC_PASS",
+  "receivedUTC": "2026-10-31T04:29:03Z",
+  "method": "Actually viewed all12 in four separate3-image batches; earlier truncated all12 output NOT counted.",
+  "finding": "Connected limbs, separated precontact sleeves, distinct hero fist and chef cupped grip, readable opaque corner lighting, no visible cap/wall seam/table intrusion at these12 witnesses.",
+  "frames": [
+    {
+      "id": "portrait-approach-mid",
+      "path": "/workspace/scratch/bb6b47af6d33/channel-repair-inventory/whatif-milan-v012-r016-twelve-still-risk-admission-20261031-v3/proof/portrait-approach-mid.png",
+      "sha256": "a64a6a2d456a114172bfb28b16519a6105fe3781262988dfa1d0dbde69c3df0e",
+      "time": 171.75,
+      "layout": "portrait"
+    },
+    {
+      "id": "portrait-approach-settled",
+      "path": "/workspace/scratch/bb6b47af6d33/channel-repair-inventory/whatif-milan-v012-r016-twelve-still-risk-admission-20261031-v3/proof/portrait-approach-settled.png",
+      "sha256": "5e0675668fbeb29e7bf5b02e9e68d3d25e63c2672f01222020671a051399ad00",
+      "time": 172.24,
+      "layout": "portrait"
+    },
+    {
+      "id": "portrait-hand-topology-witness",
+      "path": "/workspace/scratch/bb6b47af6d33/channel-repair-inventory/whatif-milan-v012-r016-twelve-still-risk-admission-20261031-v3/proof/portrait-hand-topology-witness.png",
+      "sha256": "c3839b3fe3f89973b62ba3fc605826fad98a04783f6d9a21415abe52171a6151",
+      "time": 188.5,
+      "layout": "portrait"
+    },
+    {
+      "id": "portrait-forearm-held",
+      "path": "/workspace/scratch/bb6b47af6d33/channel-repair-inventory/whatif-milan-v012-r016-twelve-still-risk-admission-20261031-v3/proof/portrait-forearm-held.png",
+      "sha256": "d3405b87fbcec1f7b2dd0ce08875c961019023f44f31b853f411dac166f88d75",
+      "time": 188.64,
+      "layout": "portrait"
+    },
+    {
+      "id": "portrait-pull-clearance-witness",
+      "path": "/workspace/scratch/bb6b47af6d33/channel-repair-inventory/whatif-milan-v012-r016-twelve-still-risk-admission-20261031-v3/proof/portrait-pull-clearance-witness.png",
+      "sha256": "eb1edfa703e0d2f894a601edb7d35f6323169fef21a325d2976c9f5c2215a90c",
+      "time": 189.838771,
+      "layout": "portrait"
+    },
+    {
+      "id": "portrait-pull-destination",
+      "path": "/workspace/scratch/bb6b47af6d33/channel-repair-inventory/whatif-milan-v012-r016-twelve-still-risk-admission-20261031-v3/proof/portrait-pull-destination.png",
+      "sha256": "9ff4b8911f96fb75838cf76e664f185269e897feef559831c6118f2fda493bad",
+      "time": 190.72,
+      "layout": "portrait"
+    },
+    {
+      "id": "landscape-approach-mid",
+      "path": "/workspace/scratch/bb6b47af6d33/channel-repair-inventory/whatif-milan-v012-r016-twelve-still-risk-admission-20261031-v3/proof/landscape-approach-mid.png",
+      "sha256": "e318fea5e9bed73373f41c755533f263c0685c7a24e8e7b4e251f8c9fb3f6ec0",
+      "time": 171.75,
+      "layout": "landscape"
+    },
+    {
+      "id": "landscape-approach-settled",
+      "path": "/workspace/scratch/bb6b47af6d33/channel-repair-inventory/whatif-milan-v012-r016-twelve-still-risk-admission-20261031-v3/proof/landscape-approach-settled.png",
+      "sha256": "70c966820ed9a31b21d5ceb023bcbfdd2d075657728e1a5dd7bc320da54b4132",
+      "time": 172.24,
+      "layout": "landscape"
+    },
+    {
+      "id": "landscape-hand-topology-witness",
+      "path": "/workspace/scratch/bb6b47af6d33/channel-repair-inventory/whatif-milan-v012-r016-twelve-still-risk-admission-20261031-v3/proof/landscape-hand-topology-witness.png",
+      "sha256": "08c469f133b1f72fe62da644f14146f44adf349703fb60a99fd52faf8575bb76",
+      "time": 188.5,
+      "layout": "landscape"
+    },
+    {
+      "id": "landscape-forearm-held",
+      "path": "/workspace/scratch/bb6b47af6d33/channel-repair-inventory/whatif-milan-v012-r016-twelve-still-risk-admission-20261031-v3/proof/landscape-forearm-held.png",
+      "sha256": "25515e66ac8fde4f6b5d60e1ce0d591070686de8f5627634d1e5b1399085fb54",
+      "time": 188.64,
+      "layout": "landscape"
+    },
+    {
+      "id": "landscape-pull-clearance-witness",
+      "path": "/workspace/scratch/bb6b47af6d33/channel-repair-inventory/whatif-milan-v012-r016-twelve-still-risk-admission-20261031-v3/proof/landscape-pull-clearance-witness.png",
+      "sha256": "acb6601ebb07c0c12dc32581732cf018feca1dd43b1e3ff9f6d38dd0cfb53770",
+      "time": 189.838771,
+      "layout": "landscape"
+    },
+    {
+      "id": "landscape-pull-destination",
+      "path": "/workspace/scratch/bb6b47af6d33/channel-repair-inventory/whatif-milan-v012-r016-twelve-still-risk-admission-20261031-v3/proof/landscape-pull-destination.png",
+      "sha256": "dbd5152a47b22845f3a86cd5a0644b642fda8f8143d5f0fa1602e3711c0c6b3a",
+      "time": 190.72,
+      "layout": "landscape"
+    }
+  ],
+  "scope": "Static only; no continuous motion/clearance,196join or fullcellar acceptance. No D launch authorization."
+}

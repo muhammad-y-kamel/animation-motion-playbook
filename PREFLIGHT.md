@@ -352,3 +352,11 @@ Evidence: [WhatIf main-context rejection and r006 source repair](entries/WHATIF-
 - [ ] Transform all four bounds corners, include opaque reveal contents, and fail closed on unsupported painter methods. Sampled zero ambiguities are not a continuous proof.
 - [ ] Quantify rejected seam columns and review actual native output; exact flat-wall samples do not imply whole-image equality or motion acceptance.
 Evidence: [WhatIf wall-depth and raster-partition trials](entries/WHATIF-WALL-DEPTH-RASTER-PARTITION-20261031.md).
+
+
+## Painted envelopes, interrupted identities and truthful bounded preservation — 2026-10-31
+- [ ] Test support-window overlap and actual stroked limb capsules, including later inherited poses, not only joint centers. Separate sampled world clearance, projected separation and reviewed native witnesses (ANIM-0020).
+- [ ] Same boot, namespace-local absence and free flock do not close an interrupted identity. Keep potentially open forensic snapshots distinct from immutable closed inputs, and old UNKNOWN distinct from separately authorized new work (ANIM-0021).
+- [ ] Preserve the initiating rejecting checkpoint; count later cleanup breaches separately. A successful diagnostic retry, parent CPU or wall-minus-parent-CPU does not prove the original cause or cure. Maintain exact-owner cleanup and unchanged cadence/resource gates (ANIM-0022).
+- [ ] Pin exact closed archive scopes, all retained copies and combined remaining reservations. Separate local monitored phases from explicitly bounded RSS-unobservable connector transfers; derive readback gates from actual IDs/version and verify whole ZIP plus every member. Narrow literal-source screening exceptions require exact path/hash and must never excuse real credentials or caches (ANIM-0023).
+- [ ] Storage PASS, new runtime PASS, creative review and owner relocation remain distinct; never rewrite historical HOLDs or old UNKNOWN into success.

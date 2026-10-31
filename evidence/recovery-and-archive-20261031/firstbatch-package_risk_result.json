@@ -1,0 +1,22 @@
+{
+  "status": "LOCAL_ARCHIVE_PHASE_PASS",
+  "mode": "package",
+  "newControllerReturned": true,
+  "childReaped": true,
+  "childExit": 0,
+  "error": null,
+  "cleanupErrors": [],
+  "signals": [],
+  "monitor": {
+    "samples": 92,
+    "peakNewAggregateRss": 31252480,
+    "peakParentRss": 14761984,
+    "minimumMemAvailable": 7729524736,
+    "maximumObservedGapSeconds": 0.18422569100221153,
+    "hardIsolation": false,
+    "oldTerminal": "UNKNOWN"
+  },
+  "stdout": "{\"sha256\": \"3ede9dd6f86ff2f6f87e38d39bf04158be4ca60214fc571932f52780b352a443\", \"bytes\": 58441469, \"entries\": 234, \"path\": \"/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/fullfilm-production-v20-v2/archive/batch-01/Hakawi_E04_Fullfilm_Batch01_Proof.zip\", \"writer\": \"LOCAL_PACKAGE_CLOSED_NOT_YET_DURABLE\"}\n",
+  "stderr": "",
+  "oldTerminal": "UNKNOWN"
+}

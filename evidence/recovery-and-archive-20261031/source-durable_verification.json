@@ -1,0 +1,14 @@
+{
+  "sha256": "8de14b6208103c100db801daad2305784e150bf9ff65193bc5598e0fc7f9314c",
+  "bytes": 7323924,
+  "entries": 389,
+  "library_file_id": "libfile_74f0ec6a06e081918d8a534c9eb94473",
+  "version": 0,
+  "file_id": "file_000000005a708230a34dbe015189b610",
+  "current_version_number": 0,
+  "local_path": "/workspace/scratch/bb6b47af6d33/closed_queue_archive_20261031/source_native/source_native.zip",
+  "readback_path": "/workspace/scratch/bb6b47af6d33/closed_queue_archive_20261031/source_native/readback/source_native.zip",
+  "entries_verified": 389,
+  "status": "PASS_WHOLE_AND_EVERY_ENTRY",
+  "writer": "CLOSED"
+}

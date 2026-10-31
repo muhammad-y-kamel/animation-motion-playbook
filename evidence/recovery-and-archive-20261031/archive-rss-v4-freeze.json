@@ -1,0 +1,30 @@
+{
+  "status": "SOURCE_CANDIDATE_CLOSED_FOR_INDEPENDENT_AUDIT_NO_RUNTIME_AUTHORITY",
+  "files": [
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/recovered_preservation_20261030/archive_rss_adapter_v4/README.md",
+      "sha256": "e51ba09877f1110c3626e2005f042f9786732662f8888e55c673c274d6086ed7",
+      "bytes": 3172
+    },
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/recovered_preservation_20261030/archive_rss_adapter_v4/RUNTIME_CLOSURE.json",
+      "sha256": "a6292b7b612c342c8c19a47ea90b5eb3051edb0e6889f399c56784332b561be5",
+      "bytes": 16003
+    },
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/recovered_preservation_20261030/archive_rss_adapter_v4/SOURCE_TESTS.json",
+      "sha256": "1060b0f58903a5b79031adcc2c60804ccfbccf4acfa256946a3719c433615ae2",
+      "bytes": 254
+    },
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/recovered_preservation_20261030/archive_rss_adapter_v4/TRANSFER_LIMITED_UNOBSERVABILITY.md",
+      "sha256": "b6bc53f3cbf9016152f478ecf39997e29cad221cce1c70febd3f16ef56224abe",
+      "bytes": 2920
+    },
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/recovered_preservation_20261030/archive_rss_adapter_v4/gate.py",
+      "sha256": "07ccac065fc5727d7a04aa031863868bd3be960b8e8d9ee314989866ca413625",
+      "bytes": 12754
+    }
+  ]
+}

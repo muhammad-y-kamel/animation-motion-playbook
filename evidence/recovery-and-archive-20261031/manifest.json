@@ -1,0 +1,175 @@
+{
+  "compiled": "2026-10-31",
+  "scope": "Closed text-only evidence copied unchanged. Historic pending/HOLD statements remain snapshot facts; later attributed results are separate. No media/auth/private transfer tokens. No universal secret-detection or old-process closure claim.",
+  "files": [
+    {
+      "file": "whatif-approach-sleeve-stage.md",
+      "source_path": "channel-repair-inventory/whatif-milan-v012-r011-r012-source-review-20261031/PLAYBOOK_STAGE_LOG.md",
+      "sha256": "2fb26ce1a39904e6a295577b65d702b96320dd22794612722716c5445f517a1d",
+      "bytes": 2474,
+      "copied_unchanged": true
+    },
+    {
+      "file": "whatif-r016-runtime-stage.md",
+      "source_path": "channel-repair-inventory/whatif-milan-v012-r016-twelve-still-review-20261031/PLAYBOOK_RUNTIME_STAGE_LOG.md",
+      "sha256": "70aedfb969b10e28f02c700d1d27a44a2a6b142c9bb5ca43ee1702877e0d31ce",
+      "bytes": 4724,
+      "copied_unchanged": true
+    },
+    {
+      "file": "whatif-r016-root-static-review.json",
+      "source_path": "channel-repair-inventory/whatif-milan-v012-r016-twelve-still-review-20261031/ROOT_REVIEW.json",
+      "sha256": "10b0121d5fd4f1cac0678f30df6dce33a02bed158ce295a20407468ba4f5782d",
+      "bytes": 4910,
+      "copied_unchanged": true
+    },
+    {
+      "file": "whatif-e-cadence-stage.md",
+      "source_path": "channel-repair-inventory/whatif-milan-main-e-cadence-stage-log-20261031/PLAYBOOK_STAGE_LOG.md",
+      "sha256": "a402b2ba681408436b93f8b434cb92ba394e8eb31c5aa991778ef2b682b7ae8b",
+      "bytes": 3147,
+      "copied_unchanged": true
+    },
+    {
+      "file": "e04-interruption-historical-stage.md",
+      "source_path": "playbook_staged_e04_interruption_20261031/OPEN_LESSON.md",
+      "sha256": "c010ceba236305b6aea6b2ceb36bd9a5503dbf0a43fc8a9dcf896e6118acc73f",
+      "bytes": 2216,
+      "copied_unchanged": true
+    },
+    {
+      "file": "e04-interruption_recovery_observation.json",
+      "source_path": "hakawi_repair/e04-rebuild-20261029/fullfilm-production-v20-v2/phase/controls/fullfilm-002/INTERRUPTION_RECOVERY_OBSERVATION.json",
+      "sha256": "e37472d83c0b334083be50c8dc16f83150e739b015331cfd7ea87c1e186edc90",
+      "bytes": 5479,
+      "copied_unchanged": true
+    },
+    {
+      "file": "e04-interrupted_qa_history_map.json",
+      "source_path": "hakawi_repair/e04-rebuild-20261029/fullfilm-production-v20-v2/phase/controls/fullfilm-002/INTERRUPTED_QA_HISTORY_MAP.json",
+      "sha256": "6e770e666b28d154a0f5e649d8c417c285e1c4592c99ae38b145ef2c69087c53",
+      "bytes": 7063,
+      "copied_unchanged": true
+    },
+    {
+      "file": "e04-recovery_exclusion_hold.json",
+      "source_path": "hakawi_repair/e04-rebuild-20261029/fullfilm-production-v20-v2/phase/controls/fullfilm-002/RECOVERY_EXCLUSION_HOLD.json",
+      "sha256": "d004e4419a01dcfded1ea9ed1ef74883a07f3657af9be30d4c7a2ebd7a62a80d",
+      "bytes": 1159,
+      "copied_unchanged": true
+    },
+    {
+      "file": "firstbatch-durable_verification.json",
+      "source_path": "hakawi_repair/e04-rebuild-20261029/fullfilm-production-v20-v2/archive/batch-01/DURABLE_VERIFICATION.json",
+      "sha256": "790f4450ee5d7f065f70546309771e9869973c71975528e31d0e2bc547c57849",
+      "bytes": 727,
+      "copied_unchanged": true
+    },
+    {
+      "file": "firstbatch-package_risk_result.json",
+      "source_path": "hakawi_repair/e04-rebuild-20261029/fullfilm-production-v20-v2/archive/batch-01/PACKAGE_RISK_RESULT.json",
+      "sha256": "3143227c391a0fae9297bf2a58223621fa0a5f52fa0ce0cf2f54eb2860807cbe",
+      "bytes": 853,
+      "copied_unchanged": true
+    },
+    {
+      "file": "firstbatch-readback_risk_result.json",
+      "source_path": "hakawi_repair/e04-rebuild-20261029/fullfilm-production-v20-v2/archive/batch-01/READBACK_RISK_RESULT.json",
+      "sha256": "96aa2db5062521580769f06d02a14d27c4aa61acfbac21c60f7906f43cb0d29e",
+      "bytes": 1252,
+      "copied_unchanged": true
+    },
+    {
+      "file": "source-durable_verification.json",
+      "source_path": "closed_queue_archive_20261031/source_native/DURABLE_VERIFICATION.json",
+      "sha256": "00e56800f524eee0e31b261b257197ab3f70792f304f1585c7f1ef92d174d4f6",
+      "bytes": 616,
+      "copied_unchanged": true
+    },
+    {
+      "file": "source-package_risk_result.json",
+      "source_path": "closed_queue_archive_20261031/source_native/PACKAGE_RISK_RESULT.json",
+      "sha256": "659f864919521b2a457c428a68e9679ecc9fc865c099c5f3fe7f87b68248aa9a",
+      "bytes": 797,
+      "copied_unchanged": true
+    },
+    {
+      "file": "source-readback_risk_result.json",
+      "source_path": "closed_queue_archive_20261031/source_native/READBACK_RISK_RESULT.json",
+      "sha256": "6ba32ff85df1d80702aac98fc5f6076689858e34ae667df6ec07191c25b84ca8",
+      "bytes": 1142,
+      "copied_unchanged": true
+    },
+    {
+      "file": "c-durable_verification.json",
+      "source_path": "closed_queue_archive_20261031/whatif_c/DURABLE_VERIFICATION.json",
+      "sha256": "1213a78b87bdadcb3eaab22cf53d55e09642d644d009db735a8b277186750b88",
+      "bytes": 595,
+      "copied_unchanged": true
+    },
+    {
+      "file": "c-package_risk_result.json",
+      "source_path": "closed_queue_archive_20261031/whatif_c/PACKAGE_RISK_RESULT.json",
+      "sha256": "be02f9071041a1ebfd21759b0375bc72ada7458d23da15241294ee48238e832f",
+      "bytes": 787,
+      "copied_unchanged": true
+    },
+    {
+      "file": "c-readback_risk_result.json",
+      "source_path": "closed_queue_archive_20261031/whatif_c/READBACK_RISK_RESULT.json",
+      "sha256": "56ac5132e0b557c90184d5f9f1f44283fdd133355a70aa98ce80033431a8f007",
+      "bytes": 1121,
+      "copied_unchanged": true
+    },
+    {
+      "file": "d-durable_verification.json",
+      "source_path": "closed_queue_archive_20261031/whatif_d/DURABLE_VERIFICATION.json",
+      "sha256": "bc1e2edca069de905c2f79f7c15cbda2873923a291613cd3c61af93e8a6fe90e",
+      "bytes": 597,
+      "copied_unchanged": true
+    },
+    {
+      "file": "d-package_risk_result.json",
+      "source_path": "closed_queue_archive_20261031/whatif_d/PACKAGE_RISK_RESULT.json",
+      "sha256": "2a45a476a0236c853b5151e656b72537e5e123573342f34dc801da0810969d15",
+      "bytes": 788,
+      "copied_unchanged": true
+    },
+    {
+      "file": "d-readback_risk_result.json",
+      "source_path": "closed_queue_archive_20261031/whatif_d/READBACK_RISK_RESULT.json",
+      "sha256": "20f0c1571b19c4092b3a810b5512f2b8de2798dbba01966ca84920df2bbeadc7",
+      "bytes": 1123,
+      "copied_unchanged": true
+    },
+    {
+      "file": "archive-rss-v4-freeze.json",
+      "source_path": "recovered_preservation_20261030/archive_rss_adapter_v4/FREEZE.json",
+      "sha256": "51c1f1fd016944d05b115d84579dd27579e0f116ec47352087b720e1cd501857",
+      "bytes": 1300,
+      "copied_unchanged": true
+    },
+    {
+      "file": "queue-literal-regression-results.json",
+      "source_path": "recovered_preservation_20261030/queue_streaming_writer_v2/SOURCE_TESTS.json",
+      "sha256": "b10de07cfbd8268483a6e97f7f6114c177398f8c08d340da9c63f7def0e23c64",
+      "bytes": 743,
+      "copied_unchanged": true
+    },
+    {
+      "file": "queue-writer-v2-freeze.json",
+      "source_path": "recovered_preservation_20261030/queue_streaming_writer_v2/FREEZE.json",
+      "sha256": "fa0e38a3f4bddaebfc32ac2e784b0b55a7a4ec34881e632e7864ebb4a547be0c",
+      "bytes": 1043,
+      "copied_unchanged": true
+    },
+    {
+      "file": "new005r3-owner-status-transcription.json",
+      "source_kind": "owner_message_transcription",
+      "sha256": "3e2c2bd7587133f51a14ba17f928a489c26f3161e23a85eb3c87da8f475d318a",
+      "bytes": 795,
+      "copied_unchanged": false,
+      "limitations": "Attributed message, not new process observation"
+    }
+  ]
+}

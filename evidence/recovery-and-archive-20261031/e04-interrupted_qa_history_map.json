@@ -1,0 +1,96 @@
+{
+  "status": "INTERRUPTED_WITHOUT_TERMINAL_PROOF_PRESERVED_NOT_ACCEPTED",
+  "rootAuthority": "Root narrow recovery grant 2026-10-31 03:28 UTC: immutable failed-history move plus QA-only additive retry; no deletion, no prior reap/durable/acceptance claim. Same verified inherited shared lease exclusion.",
+  "standingGo": {
+    "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/fullfilm-production-v20-v2/phase/GO.json",
+    "sha256": "fd5f0dee93008ff3b3d264f6acf8b80865cc766dff3dd87833e5f3e2e95a58cb"
+  },
+  "observation": {
+    "path": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/fullfilm-production-v20-v2/phase/controls/fullfilm-002/INTERRUPTION_RECOVERY_OBSERVATION.json",
+    "sha256": "e37472d83c0b334083be50c8dc16f83150e739b015331cfd7ea87c1e186edc90"
+  },
+  "historyMapping": [
+    {
+      "oldPath": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/fullfilm-production-v20-v2/phase/qa/slot-2/fullfilm-002-qa-r1/ADMISSION.json",
+      "newPath": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/fullfilm-production-v20-v2/phase/history/interrupted-qa/fullfilm-002-qa-r1/ADMISSION.json",
+      "sha256": "99f174b7f67d6c12949ab2e1dc02571dcdae85cfbcf4ab8063b384a4ca122adf",
+      "bytes": 765
+    },
+    {
+      "oldPath": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/fullfilm-production-v20-v2/phase/qa/slot-2/fullfilm-002-qa-r1/OWNED_CHILD.json",
+      "newPath": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/fullfilm-production-v20-v2/phase/history/interrupted-qa/fullfilm-002-qa-r1/OWNED_CHILD.json",
+      "sha256": "3fafbefc7377690fcbd2013073681c144bc05b82d3be84ed40095c1814ce2909",
+      "bytes": 692
+    },
+    {
+      "oldPath": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/fullfilm-production-v20-v2/phase/qa/slot-2/fullfilm-002-qa-r1/native-L012-G00252.jpg",
+      "newPath": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/fullfilm-production-v20-v2/phase/history/interrupted-qa/fullfilm-002-qa-r1/native-L012-G00252.jpg",
+      "sha256": "de9cb27b381813a798c627017af017d7d8b45c50bf269c70904af9b8c754267c",
+      "bytes": 1408230
+    },
+    {
+      "oldPath": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/fullfilm-production-v20-v2/phase/qa/slot-2/fullfilm-002-qa-r1/native-L023-G00263.jpg",
+      "newPath": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/fullfilm-production-v20-v2/phase/history/interrupted-qa/fullfilm-002-qa-r1/native-L023-G00263.jpg",
+      "sha256": "2b7275216fbb52bb249c2c58ec4777290fbb8cb9ce029c63860c0ac699dbcd43",
+      "bytes": 1356186
+    },
+    {
+      "oldPath": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/fullfilm-production-v20-v2/phase/qa/slot-2/fullfilm-002-qa-r1/native-L024-G00264.jpg",
+      "newPath": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/fullfilm-production-v20-v2/phase/history/interrupted-qa/fullfilm-002-qa-r1/native-L024-G00264.jpg",
+      "sha256": "b3fc0b9d2b3c4c2aa29c03f9e68b7f80e9f504c7258dc7980e101981f891a225",
+      "bytes": 1227769
+    },
+    {
+      "oldPath": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/fullfilm-production-v20-v2/phase/qa/slot-2/fullfilm-002-qa-r1/native-L120-G00360.jpg",
+      "newPath": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/fullfilm-production-v20-v2/phase/history/interrupted-qa/fullfilm-002-qa-r1/native-L120-G00360.jpg",
+      "sha256": "ee08203c87c9d40b3fc2cd8fd5a1a92aee9e3d4908644a1136583783379e09de",
+      "bytes": 1228722
+    },
+    {
+      "oldPath": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/fullfilm-production-v20-v2/phase/qa/slot-2/fullfilm-002-qa-r1/native-L121-G00361.jpg",
+      "newPath": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/fullfilm-production-v20-v2/phase/history/interrupted-qa/fullfilm-002-qa-r1/native-L121-G00361.jpg",
+      "sha256": "d88b6666a53ef922882240b9bee581e5570ac60f9e083658163a42dca7ba76ec",
+      "bytes": 1181504
+    },
+    {
+      "oldPath": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/fullfilm-production-v20-v2/phase/qa/slot-2/fullfilm-002-qa-r1/sheet-00.jpg",
+      "newPath": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/fullfilm-production-v20-v2/phase/history/interrupted-qa/fullfilm-002-qa-r1/sheet-00.jpg",
+      "sha256": "cfc1a6c407903d5fe86d8b54d9bc2dca34a21f6fdb594206dec3a7455cd9fc52",
+      "bytes": 1029622
+    },
+    {
+      "oldPath": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/fullfilm-production-v20-v2/phase/qa/slot-2/fullfilm-002-qa-r1/sheet-01.jpg",
+      "newPath": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/fullfilm-production-v20-v2/phase/history/interrupted-qa/fullfilm-002-qa-r1/sheet-01.jpg",
+      "sha256": "bbd40caf40ce2219c02c6352ece6dfde152f37f866a43065d42324d68f897429",
+      "bytes": 1035884
+    },
+    {
+      "oldPath": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/fullfilm-production-v20-v2/phase/qa/slot-2/fullfilm-002-qa-r1/sheet-02.jpg",
+      "newPath": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/fullfilm-production-v20-v2/phase/history/interrupted-qa/fullfilm-002-qa-r1/sheet-02.jpg",
+      "sha256": "e7ad49d4a1de3ce7be54a6c61f1330f68af54378b5ed9231a4ed081388e2b1c7",
+      "bytes": 1066065
+    },
+    {
+      "oldPath": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/fullfilm-production-v20-v2/phase/qa/slot-2/fullfilm-002-qa-r1/sheet-03.jpg",
+      "newPath": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/fullfilm-production-v20-v2/phase/history/interrupted-qa/fullfilm-002-qa-r1/sheet-03.jpg",
+      "sha256": "d054106ec11e87c32f5724657412e30c866c2ec8915bbf2f551df2288cb40d66",
+      "bytes": 1090385
+    },
+    {
+      "oldPath": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/fullfilm-production-v20-v2/phase/qa/slot-2/fullfilm-002-qa-r1/video-OWNED_IDENTITY.json",
+      "newPath": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/fullfilm-production-v20-v2/phase/history/interrupted-qa/fullfilm-002-qa-r1/video-OWNED_IDENTITY.json",
+      "sha256": "2f93910185209c320c5dce88d178399bc1da44be4142ee8b74fc1abac955395d",
+      "bytes": 189
+    },
+    {
+      "oldPath": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/fullfilm-production-v20-v2/phase/qa/slot-2/fullfilm-002-qa-r1/video-OWNED_INITIAL.json",
+      "newPath": "/workspace/scratch/bb6b47af6d33/hakawi_repair/e04-rebuild-20261029/fullfilm-production-v20-v2/phase/history/interrupted-qa/fullfilm-002-qa-r1/video-OWNED_INITIAL.json",
+      "sha256": "86c6d1f44d5b9d82f429770379bc9a8d2bd3d0b1c93cc2cda44998548534f0d6",
+      "bytes": 659
+    }
+  ],
+  "oldAttemptAccepted": false,
+  "oldAttemptObservedReaped": false,
+  "durableVerificationClaimed": false,
+  "mediaRerendered": false
+}
