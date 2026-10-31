@@ -228,3 +228,8 @@ AnswerAct reference final04 delivered with1852initial-frame review,704changed+16
 ## Ezzay S05 inductive card mechanism trials — 2026-10-31
 
 | [EZZAY-S05](entries/EZZAY-S05-MECHANISM-TRIALS-20261031.md) | inductive coupling / load modulation / label swept bounds | Contactless card | Insulated coil lead, magnifier two-terminal attachment, screen/withdrawal/CTA clearance | source_native_scoped_PASS_full_encode_and_schedule_pending |
+
+
+## Ezzay S06 self-voice mechanism trials — 2026-10-31
+
+| [EZZAY-S06](entries/EZZAY-S06-MECHANISM-TRIALS-20261031.md) | air/bone pathways / source anchoring / CTA clock | Recorded versus own voice | Profile ambiguity, label collision, orphan hook leader and frozen topic CTA repaired | source_native_scoped_PASS_full_encode_and_schedule_pending |
