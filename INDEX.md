@@ -260,3 +260,7 @@ AnswerAct reference final04 delivered with1852initial-frame review,704changed+16
 
 ## Ezzay S10 foil contact and CTA trials — 2026-11-01
 - [EZZAY-S10-FOIL-CONTACT-CTA-TRIALS-20261101](entries/EZZAY-S10-FOIL-CONTACT-CTA-TRIALS-20261101.md): persistent symbolic cooling mechanism, leader/contact-panel/CTA collisions repaired additively; metadata-only guessed-output failure retained. Full1,781-frame PTS/PCM and all1,781 thumbnails/32 natives scoped PASS. No source-worker playback/listening/scheduling claim.
+
+
+## Ezzay S11 dark-adaptation and admission trials — 2026-11-01
+- [EZZAY-S11-DARK-ADAPTATION-TRIALS-20261101](entries/EZZAY-S11-DARK-ADAPTATION-TRIALS-20261101.md): persistent dim-room/retinal mechanism; failed cover callback, native arrow/title and CTA conflicts, and stale pending authority template retained with additive repairs. Full2,022-frame PTS/canonical PCM and all2,022 thumbnails/32 natives scoped PASS. No actual listening or normal-speed/scheduling claim.
