@@ -233,3 +233,8 @@ AnswerAct reference final04 delivered with1852initial-frame review,704changed+16
 ## Ezzay S06 self-voice mechanism trials — 2026-10-31
 
 | [EZZAY-S06](entries/EZZAY-S06-MECHANISM-TRIALS-20261031.md) | air/bone pathways / source anchoring / CTA clock | Recorded versus own voice | Profile ambiguity, label collision, orphan hook leader and frozen topic CTA repaired | source_native_scoped_PASS_full_encode_and_schedule_pending |
+
+
+## Ezzay L02 bounded GOP annotation repair — 2026-11-01
+
+- [EZZAY-L02-BOUNDED-GOP-LABEL-PATCH-20261101](entries/EZZAY-L02-BOUNDED-GOP-LABEL-PATCH-20261101.md): moving bracket/Arabic-label tangent repaired in the actual 750-frame closed GOP; full PTS/PCM and 10,780 unaffected RGB frames exact, all 750 patch thumbnails and 10 native/join witnesses reviewed. Scoped correction only; no normal-speed/listening or scheduling claim.
