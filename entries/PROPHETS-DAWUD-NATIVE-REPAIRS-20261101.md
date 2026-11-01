@@ -30,3 +30,8 @@ Canonical script/audio unchanged. Full audio21903360samples456.32s and27380video
 
 Final scoped receipts: portrait COMBINED_VISUAL_REVIEW.json (lead480tiles+16natives, independent492tiles); landscape LEAD_VISUAL_REVIEW.json SHA3f4cfcbe501eef6b32b63e87cdc1e72d97639c9301588cd80c7a78c9edb66b23. Full run/review/source supplement allowlist64608c3f1c1787d6c18bbf18ad363ec88a7ee01dd67f1ed9cacab9c828ec7c74.
 
+
+## Full-production creative HOLD discovered after the valid river proof
+2026-11-01 05:55 UTC: V004 long01–02 completed technically (5,042 frames, exact PCM/PTS, every directly owned child reaped), but are NOT accepted creative production. Lead actually viewed long01 native G0; independent reviewer actually viewed sheets025–039 / 720 tiles, then stopped after finding the known source-authored limitation. Long02 has no actual pixel review claimed. Sparse held book/wave cards in opening and inherited CTA are not missing-render corruption, but fail the user's linked-action requirement. Passing a representative river sequence does not qualify unrelated scene families.
+
+Exact HOLD archive manifest: recovery-20261101/prophets-e02/CLOSED_LONG01_02_CREATIVE_HOLD_MANIFEST.json SHA d539a5884b36c40820d98454d38a276a709c3e63d73a24d41c271ceb7f64f380,174 files. V005 targeted source rewrite is IN PROGRESS, not yet native-tested or accepted: ordinary soldiers/request/objection/river preview, case presentation and retained crop/rights evidence; sacred/devotional subjects remain explicit editorial explanation without prophet proxies. Actual before/action/retained witnesses are required for each changed family. Preserve V004 failed creative chunks and valid river proof separately; no unnecessary rerender of unchanged mechanisms is inferred.
