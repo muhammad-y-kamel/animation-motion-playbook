@@ -272,3 +272,7 @@ AnswerAct reference final04 delivered with1852initial-frame review,704changed+16
 
 ## Ezzay S13 ball contact and persistent stroke — 2026-11-01
 - [EZZAY-S13-BALL-CONTACT-STROKE-20261101](entries/EZZAY-S13-BALL-CONTACT-STROKE-20261101.md): phase-local reset/receding stroke and actual annotation/casing overlap repaired additively; full1,609-frame PTS/canonicalPCM and actual1,609-thumbnail/32-native scoped PASS. Earlier test/native HOLD retained; no reviewer normal-speed/listening/publication claim.
+
+
+## Ezzay L03 native landscape guard recovery — 2026-11-01
+- [EZZAY-L03-LANDSCAPE-GUARD-RECOVERY-20261101](entries/EZZAY-L03-LANDSCAPE-GUARD-RECOVERY-20261101.md): inherited portrait-only guard rejected actual landscape job before frames; additive guard-only correction then completed 12,687 native frames and full PTS/canonical PCM. Earlier source-review miss retained; visual closure separate, no listening or unexpected-parent-loss qualification.
