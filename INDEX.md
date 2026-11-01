@@ -242,3 +242,7 @@ AnswerAct reference final04 delivered with1852initial-frame review,704changed+16
 
 ## Ezzay S07 receptor and PCM trials — 2026-11-01
 - [EZZAY-S07-RECEPTOR-PCM-TRIALS-20261101](entries/EZZAY-S07-RECEPTOR-PCM-TRIALS-20261101.md): occupancy versus activation, pocket contact/legend/CTA native corrections; failed 1-LSB PCM comparison retained and explicit s16-to-ALAC remedy actually byte-verified. All1,733 thumbnails and28 native witnesses scoped PASS; no normal-speed/listening/scheduling claim.
+
+
+## Ezzay S08 condensation and RTL annotation trials — 2026-11-01
+- [EZZAY-S08-CONDENSATION-RTL-TRIALS-20261101](entries/EZZAY-S08-CONDENSATION-RTL-TRIALS-20261101.md): retained mirror/contact/scattered-ray mechanism, misleading outside vapor dots and ambiguous RTL inequality repaired additively. Full1,925-frame/PTS and canonical PCM exact; all1,925 thumbnails and32 selected natives scoped PASS. No normal-speed/listening/scheduling claim.
