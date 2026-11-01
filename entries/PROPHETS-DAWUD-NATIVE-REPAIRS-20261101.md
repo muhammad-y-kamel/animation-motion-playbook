@@ -91,3 +91,10 @@ V010 is the additive exact one-line removal from V009. Source tests establish ch
 - Spatial/cue-progression scope passes. Deliberate retained editorial intervals remain; do not label these continuous rich physical acting. One-frame shutter boundary composites settle cleanly. No normal-speed playback, audio-listening, whole-episode or publication claim.
 - Lead receipt 0d4aa0a16741b022796a3a1d97b9733dde36b35eae8c98d431e5954c2211e92b; independent receipt 07e9ac5ce89b0b5ed3f4ac3d2c3a0e0b510768b882d548caf39a441415bf1fe4. Exact closed manifest 9e505ce219698e583a09d73719ea822cc3cc15a98bb65c8a353a2103e06477b4 sent for preservation; historical creative HOLD unchanged.
 - Corrected long04 also technically closed/reaped, but its actual visual review is still underway. Technical closure alone does not clear its prior creative HOLD.
+
+
+## 2026-11-01 08:59 UTC — V010 corrected river range scoped closure
+- Long04 [8221,10705), 2,484 frames: exact physical PTS/canonical PCM and all owned children reaped. All 52 chronological sheets (2,484 real tiles) and 97 native images actually reviewed individually: root natives001–032, source reviewer sheets001–052 and natives033–097.
+- Finite grounded approach/restraint, prominent water-to-mouth-to-release closeups, supported crossing, then postcross camera/speaker/listener/widening/forward-attention materially resolve the old unchanged-composition HOLD. No concrete support/anatomy/caption/proxy defect found in that scope.
+- Short two-to-three-second retained beats and sparse manuscript styling remain; no nonstop-acting, normal-speed playback, listening or full-film claim. Global9446 shutter-boundary overlap settles immediately. Historical V007 HOLD remains unchanged.
+- Root receipt 14cde5ab6c1169335b922bc6aca9240b2654f38b665570fb6f1dbe062e7efd1d; worker receipt 31ea886bdab69cc731e14b00678d3d9ddfbda3fd7316ddb3c10e5236f7d5059d. Closed manifest 71bac50151daa6ec14389c680376e6ca389d23af60858133fd85fca639d55a5c sent for exact preservation. Frozen V010 long05–10 and four Shorts still require production/actual review; do not extrapolate whole-film acceptance.
