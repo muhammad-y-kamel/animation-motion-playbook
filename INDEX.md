@@ -286,3 +286,5 @@ AnswerAct reference final04 delivered with1852initial-frame review,704changed+16
 - [EZZAY-S15-WIRELESS-PULSE-ANNOTATION-20261101](entries/EZZAY-S15-WIRELESS-PULSE-ANNOTATION-20261101.md): wire-like static guide and camera/filter box-label tangency repaired additively. Full1,685-frame PTS/canonical PCM and actual1,685-thumbnail/32-native scoped PASS; no reviewer normal-speed/listening/publication claim.
 
 - [Ezzay S16: interface admission and nerve contact contours](entries/EZZAY-S16-NERVE-CONTACT-INTERFACE-20261101.md) — full technical and saved-pixel scoped closure; no listening/medical validation claim.
+
+- [Ezzay S17: force-arrow readability](entries/EZZAY-S17-FORCE-ARROW-READABILITY-20261101.md) — label repair followed by missed blunt-head defect and additive directional repair; all1819 thumbnails/32 natives scoped PASS, no listening/CFD claim.
