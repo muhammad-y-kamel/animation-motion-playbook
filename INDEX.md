@@ -280,3 +280,7 @@ AnswerAct reference final04 delivered with1852initial-frame review,704changed+16
 
 ## Ezzay S14 same-material popcorn continuity — 2026-11-01
 - [EZZAY-S14-POPCORN-CONTINUITY-20261101](entries/EZZAY-S14-POPCORN-CONTINUITY-20261101.md): phase-local reset, early hook state, escaping pores and shell/heat leader ambiguity repaired additively. Full1,803-frame PTS/canonical PCM and actual1,803-thumbnail/32-native scoped PASS; no reviewer normal-speed/listening/publication claim.
+
+
+## Ezzay S15 wireless pulse and annotation trials — 2026-11-01
+- [EZZAY-S15-WIRELESS-PULSE-ANNOTATION-20261101](entries/EZZAY-S15-WIRELESS-PULSE-ANNOTATION-20261101.md): wire-like static guide and camera/filter box-label tangency repaired additively. Full1,685-frame PTS/canonical PCM and actual1,685-thumbnail/32-native scoped PASS; no reviewer normal-speed/listening/publication claim.
