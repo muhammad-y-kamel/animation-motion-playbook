@@ -264,3 +264,7 @@ AnswerAct reference final04 delivered with1852initial-frame review,704changed+16
 
 ## Ezzay S11 dark-adaptation and admission trials — 2026-11-01
 - [EZZAY-S11-DARK-ADAPTATION-TRIALS-20261101](entries/EZZAY-S11-DARK-ADAPTATION-TRIALS-20261101.md): persistent dim-room/retinal mechanism; failed cover callback, native arrow/title and CTA conflicts, and stale pending authority template retained with additive repairs. Full2,022-frame PTS/canonical PCM and all2,022 thumbnails/32 natives scoped PASS. No actual listening or normal-speed/scheduling claim.
+
+
+## Ezzay S12 chemistry and unused asset trials — 2026-11-01
+- [EZZAY-S12-CHEMISTRY-UNUSED-ASSET-20261101](entries/EZZAY-S12-CHEMISTRY-UNUSED-ASSET-20261101.md): symbolic conserved-atom reaction, fuel/water contact and bounded safety qualifiers; preimage unused-reference failure retained and additively corrected. Full2,067-frame PTS/canonical PCM and actual2,067-thumbnail/32-native scoped PASS. No reviewer normal-speed/listening or publication claim.
