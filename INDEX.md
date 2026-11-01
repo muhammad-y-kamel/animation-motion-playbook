@@ -246,3 +246,7 @@ AnswerAct reference final04 delivered with1852initial-frame review,704changed+16
 
 ## Ezzay S08 condensation and RTL annotation trials — 2026-11-01
 - [EZZAY-S08-CONDENSATION-RTL-TRIALS-20261101](entries/EZZAY-S08-CONDENSATION-RTL-TRIALS-20261101.md): retained mirror/contact/scattered-ray mechanism, misleading outside vapor dots and ambiguous RTL inequality repaired additively. Full1,925-frame/PTS and canonical PCM exact; all1,925 thumbnails and32 selected natives scoped PASS. No normal-speed/listening/scheduling claim.
+
+
+## Prophets Ayyub recovered full-master closure — 2026-11-01
+- [PROPHETS-AYYUB-RECOVERY-CLOSURE-20261101](entries/PROPHETS-AYYUB-RECOVERY-CLOSURE-20261101.md): fresh bounded owned runtime after workspace loss; exact 22,992-frame full assembly and canonical PCM, all chronological thumbnails plus selected natives/joins reviewed, native 80.25-second remaining Short and AAC delivery durably verified. Scoped offline closure only; no continuous playback, listening or Studio claim.
