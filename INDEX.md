@@ -254,3 +254,5 @@ AnswerAct reference final04 delivered with1852initial-frame review,704changed+16
 
 ## Ezzay S09 airbag contact and annotation trials — 2026-11-01
 - [EZZAY-S09-AIRBAG-CONTACT-ANNOTATION-20261101](entries/EZZAY-S09-AIRBAG-CONTACT-ANNOTATION-20261101.md): pre-native hand/rim gap and actual empty hook boxes/orphan leaders repaired additively; connected causal diagram retains belt and historical chemistry qualifiers. Full1,663-frame/PTS/PCM and actual1,663-thumbnail/32-native scoped PASS. No normal-speed/listening/scheduling claim.
+
+- [Dawud native repairs: stance anchors, fraction glyphs, full river crossing](entries/PROPHETS-DAWUD-NATIVE-REPAIRS-20261101.md) — actual selected native and 2×972-frame river scoped proof; UNKNOWN interruption preserved; no full-episode/listening claim.
