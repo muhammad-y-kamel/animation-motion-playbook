@@ -250,3 +250,7 @@ AnswerAct reference final04 delivered with1852initial-frame review,704changed+16
 
 ## Prophets Ayyub recovered full-master closure — 2026-11-01
 - [PROPHETS-AYYUB-RECOVERY-CLOSURE-20261101](entries/PROPHETS-AYYUB-RECOVERY-CLOSURE-20261101.md): fresh bounded owned runtime after workspace loss; exact 22,992-frame full assembly and canonical PCM, all chronological thumbnails plus selected natives/joins reviewed, native 80.25-second remaining Short and AAC delivery durably verified. Scoped offline closure only; no continuous playback, listening or Studio claim.
+
+
+## Ezzay S09 airbag contact and annotation trials — 2026-11-01
+- [EZZAY-S09-AIRBAG-CONTACT-ANNOTATION-20261101](entries/EZZAY-S09-AIRBAG-CONTACT-ANNOTATION-20261101.md): pre-native hand/rim gap and actual empty hook boxes/orphan leaders repaired additively; connected causal diagram retains belt and historical chemistry qualifiers. Full1,663-frame/PTS/PCM and actual1,663-thumbnail/32-native scoped PASS. No normal-speed/listening/scheduling claim.
