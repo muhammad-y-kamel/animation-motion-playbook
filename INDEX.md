@@ -276,3 +276,7 @@ AnswerAct reference final04 delivered with1852initial-frame review,704changed+16
 
 ## Ezzay L03 native landscape guard recovery — 2026-11-01
 - [EZZAY-L03-LANDSCAPE-GUARD-RECOVERY-20261101](entries/EZZAY-L03-LANDSCAPE-GUARD-RECOVERY-20261101.md): inherited portrait-only guard rejected actual landscape job before frames; additive guard-only correction then completed 12,687 native frames and full PTS/canonical PCM. Earlier source-review miss retained; visual closure separate, no listening or unexpected-parent-loss qualification.
+
+
+## Ezzay S14 same-material popcorn continuity — 2026-11-01
+- [EZZAY-S14-POPCORN-CONTINUITY-20261101](entries/EZZAY-S14-POPCORN-CONTINUITY-20261101.md): phase-local reset, early hook state, escaping pores and shell/heat leader ambiguity repaired additively. Full1,803-frame PTS/canonical PCM and actual1,803-thumbnail/32-native scoped PASS; no reviewer normal-speed/listening/publication claim.
