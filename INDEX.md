@@ -268,3 +268,7 @@ AnswerAct reference final04 delivered with1852initial-frame review,704changed+16
 
 ## Ezzay S12 chemistry and unused asset trials — 2026-11-01
 - [EZZAY-S12-CHEMISTRY-UNUSED-ASSET-20261101](entries/EZZAY-S12-CHEMISTRY-UNUSED-ASSET-20261101.md): symbolic conserved-atom reaction, fuel/water contact and bounded safety qualifiers; preimage unused-reference failure retained and additively corrected. Full2,067-frame PTS/canonical PCM and actual2,067-thumbnail/32-native scoped PASS. No reviewer normal-speed/listening or publication claim.
+
+
+## Ezzay S13 ball contact and persistent stroke — 2026-11-01
+- [EZZAY-S13-BALL-CONTACT-STROKE-20261101](entries/EZZAY-S13-BALL-CONTACT-STROKE-20261101.md): phase-local reset/receding stroke and actual annotation/casing overlap repaired additively; full1,609-frame PTS/canonicalPCM and actual1,609-thumbnail/32-native scoped PASS. Earlier test/native HOLD retained; no reviewer normal-speed/listening/publication claim.
