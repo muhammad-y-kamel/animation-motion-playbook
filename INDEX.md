@@ -238,3 +238,7 @@ AnswerAct reference final04 delivered with1852initial-frame review,704changed+16
 ## Ezzay L02 bounded GOP annotation repair — 2026-11-01
 
 - [EZZAY-L02-BOUNDED-GOP-LABEL-PATCH-20261101](entries/EZZAY-L02-BOUNDED-GOP-LABEL-PATCH-20261101.md): moving bracket/Arabic-label tangent repaired in the actual 750-frame closed GOP; full PTS/PCM and 10,780 unaffected RGB frames exact, all 750 patch thumbnails and 10 native/join witnesses reviewed. Scoped correction only; no normal-speed/listening or scheduling claim.
+
+
+## Ezzay S07 receptor and PCM trials — 2026-11-01
+- [EZZAY-S07-RECEPTOR-PCM-TRIALS-20261101](entries/EZZAY-S07-RECEPTOR-PCM-TRIALS-20261101.md): occupancy versus activation, pocket contact/legend/CTA native corrections; failed 1-LSB PCM comparison retained and explicit s16-to-ALAC remedy actually byte-verified. All1,733 thumbnails and28 native witnesses scoped PASS; no normal-speed/listening/scheduling claim.
