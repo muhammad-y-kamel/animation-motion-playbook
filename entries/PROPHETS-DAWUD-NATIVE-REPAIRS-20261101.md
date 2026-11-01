@@ -83,3 +83,11 @@ V010 is the additive exact one-line removal from V009. Source tests establish ch
 - Scoped clearance PASS: redundant secondary departure line removed, primary heading retained, cap clearance clean, attached ordinary actors and supported shoes. Frame8221 is the documented one-frame three-shutter scene-boundary composite, not persistent stale artwork.
 - Exact review: runtime-v010/stills/clearance-v010-r1/LEAD_CLEARANCE_NATIVE_REVIEW.json SHA256 a6bcdf8855898412b3ec7fd1c9b10d0090c640fde4195def8cd69c6901854bcd. Closed additive manifest SHA256 987ca53a98c10c873a83b65aef0ff37b154a11643e72460e982450b5de8b30ee.
 - Corrected full03 then04 launched sequentially at08:20:49 under unchanged proven limits. These are ACTIVE, not accepted. Full chronological temporal-density review remains necessary to resolve the earlier chest/river creative HOLDs. No listening or realtime playback claim; canonical script/audio unchanged.
+
+
+## 2026-11-01 08:48 UTC — V010 corrected chest range encoded and scoped review closed
+- Corrected long03 [5042,8221), 3,179 frames, closed technically with exact physical PTS/canonical PCM and all owned children reaped; video SHA256 f5ce1734f858faef3a536e31d8fc2eb3f2cb2d397b000100861e4641a70cb45c.
+- Actual individually viewed scope: all 3,179 chronological thumbnail cells and 84 native witnesses, split between lead and independent reviewer. Finite objector gestures, argument/evidence comparison, exterior-detail reveal, subsequent comparison gestures, and ordinary-soldier departure replace the prior sustained unchanged chest composition.
+- Spatial/cue-progression scope passes. Deliberate retained editorial intervals remain; do not label these continuous rich physical acting. One-frame shutter boundary composites settle cleanly. No normal-speed playback, audio-listening, whole-episode or publication claim.
+- Lead receipt 0d4aa0a16741b022796a3a1d97b9733dde36b35eae8c98d431e5954c2211e92b; independent receipt 07e9ac5ce89b0b5ed3f4ac3d2c3a0e0b510768b882d548caf39a441415bf1fe4. Exact closed manifest 9e505ce219698e583a09d73719ea822cc3cc15a98bb65c8a353a2103e06477b4 sent for preservation; historical creative HOLD unchanged.
+- Corrected long04 also technically closed/reaped, but its actual visual review is still underway. Technical closure alone does not clear its prior creative HOLD.
