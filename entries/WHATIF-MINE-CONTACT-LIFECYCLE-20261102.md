@@ -42,3 +42,6 @@ Evidence preserved with fresh whole/all-member readback:
 - V005 affected portrait1681: libfile_0d244fbbfe1c8191b38aee5080363fb5, ZIP SHA3a8c70fd296172ca46f728f5c313d76441394970b65207aa429f2ce583fa0d49.
 
 Regression lesson: inspect action boundary minus/at/plus frames and retained later states, not just the peak event. A correct terminal pose still fails continuity if the next dispatch omits its persistent objects. No normal-speed/listening claim, and full-film admission remains separate.
+
+### Landscape persistence closure (later same session)
+All five V005 landscape gates1921 subsequently closed full technical checks and actual22 sheets/1921 real thumbnails plus12 selected originals. Owner reviewed bed/return/hammer; independent lead reviewed palm/lamp. The same contact, persistence and density qualifications remain; no full-film, normal-speed or listening acceptance. Durable libfile_3c78a458b3cc8191bfbad3f8b773bc64, ZIP SHA3c05b9c2810b54dfe099598d206aae58ea46017137a089640c0c6174f7c7e3b9,233 entries, fresh whole/all-member readback. Parent conditionally admits future full landscape only after exact final partial-frame audio/runtime peer and full chronology QA.
