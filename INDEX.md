@@ -291,3 +291,5 @@ AnswerAct reference final04 delivered with1852initial-frame review,704changed+16
 
 
 - [Ezzay S18: oxygen trajectory and annotation envelope](entries/EZZAY-S18-OXYGEN-ANNOTATION-20261102.md) — full v002 technical PASS held by actual oxygen/title collision; additive v003 label-only repair and fresh 1,606-thumbnail/32-native scoped PASS. No listening/playback/scientific certification.
+
+- [Ezzay S19: callback contracts and single CTA ownership](entries/EZZAY-S19-CALLBACK-CTA-OWNERSHIP-20261102.md) — failed cover dispatch and ineffective CTA guard retained; final 1,860-thumbnail/32-native scoped PASS with exact canonical PCM, no listening/clinical validation claim.
