@@ -309,3 +309,5 @@ AnswerAct reference final04 delivered with1852initial-frame review,704changed+16
 - [Ezzay S25: induction interface and residual warning](entries/EZZAY-S25-INDUCTION-INTERFACE-20261102.md) — off-footprint heat arrow, glass-label and CTA-warning native HOLD repaired additively; all1,627 thumbnails/32 originals scoped PASS with exact canonical master PCM, no listening or measured-physics claim.
 
 - [Ezzay L05: swept title envelopes and minimal multi-GOP repair](entries/EZZAY-L05-SWEPT-LABEL-MULTIGOP-20261102.md) — sparse endpoint proof missed frames81–83; consolidated annotation/cover corrections validated with919 actual patch thumbnails/27 originals, full13378 PTS/PCM and12459 outside RGB identities. Historical HOLDs retained; no listening/playback/publication claim.
+
+- [Mine bounded contact and owned-child occurrence](entries/WHATIF-MINE-CONTACT-LIFECYCLE-20261102.md) — hidden arm/board depth and wrong-function patch trials; first2053frames/layout scoped motion review and exact cancellation/reap admission. Full episode/listening pending.
