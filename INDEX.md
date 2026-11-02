@@ -288,3 +288,6 @@ AnswerAct reference final04 delivered with1852initial-frame review,704changed+16
 - [Ezzay S16: interface admission and nerve contact contours](entries/EZZAY-S16-NERVE-CONTACT-INTERFACE-20261101.md) — full technical and saved-pixel scoped closure; no listening/medical validation claim.
 
 - [Ezzay S17: force-arrow readability](entries/EZZAY-S17-FORCE-ARROW-READABILITY-20261101.md) — label repair followed by missed blunt-head defect and additive directional repair; all1819 thumbnails/32 natives scoped PASS, no listening/CFD claim.
+
+
+- [Ezzay S18: oxygen trajectory and annotation envelope](entries/EZZAY-S18-OXYGEN-ANNOTATION-20261102.md) — full v002 technical PASS held by actual oxygen/title collision; additive v003 label-only repair and fresh 1,606-thumbnail/32-native scoped PASS. No listening/playback/scientific certification.
