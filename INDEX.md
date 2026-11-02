@@ -295,3 +295,5 @@ AnswerAct reference final04 delivered with1852initial-frame review,704changed+16
 - [Ezzay S19: callback contracts and single CTA ownership](entries/EZZAY-S19-CALLBACK-CTA-OWNERSHIP-20261102.md) — failed cover dispatch and ineffective CTA guard retained; final 1,860-thumbnail/32-native scoped PASS with exact canonical PCM, no listening/clinical validation claim.
 
 - [Ezzay S20: shock cue and contract metadata](entries/EZZAY-S20-SHOCK-CUE-CONTRACT-20261102.md) — additive hook/knob-label correction and stale prose reconciliation; all1,743 thumbnails/32 natives scoped PASS, no listening/playback/calibrated-physics claim.
+
+- [Ezzay L04: clip bounds and opening GOP repair](entries/EZZAY-L04-CLIP-OPENING-GOP-20261102.md) — rejected label shifts and opening title occlusion retained; first250-frame GOP repair with12,161 unaffected RGB frames exact, all250 patch thumbnails/12 native joins scoped PASS. No listening/playback/publication claim.
