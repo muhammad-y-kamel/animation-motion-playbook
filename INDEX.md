@@ -299,3 +299,5 @@ AnswerAct reference final04 delivered with1852initial-frame review,704changed+16
 - [Ezzay L04: clip bounds and opening GOP repair](entries/EZZAY-L04-CLIP-OPENING-GOP-20261102.md) — rejected label shifts and opening title occlusion retained; first250-frame GOP repair with12,161 unaffected RGB frames exact, all250 patch thumbnails/12 native joins scoped PASS. No listening/playback/publication claim.
 
 - [Ezzay S21: retained adhesive interface and admission paths](entries/EZZAY-S21-INTERFACE-ADMISSION-20261102.md) — source-only pacing/seal contradictions and prechild path rejection retained; full1,837 thumbnails/32 natives scoped PASS with exact canonical PCM, no listening/playback/chemical-kinetics claim.
+
+- [Ezzay S22: anchored cupula and locator routing](entries/EZZAY-S22-CUPULA-LOCATOR-20261102.md) — phase-state/contact repair and actual leader-label HOLD retained; all1,961 thumbnails/32 selected natives scoped PASS with exact canonical PCM, no listening/playback/calibrated-physiology claim.
