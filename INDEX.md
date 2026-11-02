@@ -303,3 +303,5 @@ AnswerAct reference final04 delivered with1852initial-frame review,704changed+16
 - [Ezzay S22: anchored cupula and locator routing](entries/EZZAY-S22-CUPULA-LOCATOR-20261102.md) — phase-state/contact repair and actual leader-label HOLD retained; all1,961 thumbnails/32 selected natives scoped PASS with exact canonical PCM, no listening/playback/calibrated-physiology claim.
 
 - [Ezzay S23: foreground contact and suppressed-label identity](entries/EZZAY-S23-FOREGROUND-CONTACT-IDENTITY-20261102.md) — hidden ray/contact and blank hook-output defects repaired additively; all1,702 thumbnails/32 selected natives scoped PASS with exact canonical PCM, no listening/playback/live-scanner claim.
+
+- [Ezzay S24: ligand labels and suppressed-mode identity](entries/EZZAY-S24-LIGAND-LABEL-SUPPRESSED-IDENTITY-20261102.md) — annotation/blank-panel/premature-activation native HOLD repaired additively; all1,812 thumbnails/32 originals scoped PASS, exact canonical PCM, no listening or calibrated-physiology claim.
