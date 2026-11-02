@@ -28,3 +28,17 @@ All reported archives received fresh whole/every-entry readback by preservation 
 
 ## Regression practice
 Verify painted whole-arm depth, sole/rung stroke extents, initial and retained states, both layouts and actual chronology. Source patch anchors must identify the intended function uniquely; mock-dispatch all branches before native. Exact tuple admission and pre/post source/tool hashes prevent accidental scope expansion. Register/cancel/reap separately-sessioned children explicitly; never upgrade an interrupted or unverified child to closure.
+
+## Later persistence failures and V005 bounded correction
+The second portrait motion group1921 (bed150, return240, hammer648, palm246, lamp637) was actually reviewed and held for two concrete resets. In bunkScene, missing_tools used opacity1-u after the preceding empty-bed state, making absent tools reappear. In mineScene, broken beam pieces were only painted for collapse, so they disappeared at the next rubble action. These are retained-state/painter-dispatch failures, not IK failures.
+
+V005 changes only those two state rules: tools stay absent after the earlier tie-bundle scene; the same two broken beam transforms retain fall=1 throughout rubble actions. Dust and the collapse pile remain collapse-only, avoiding a duplicate pile. Exact source peer plus36 boundary originals (18/layout) clear the targeted static persistence. The original full bowed background roof remains behind broken foreground pieces, explicitly qualified as stylized layering rather than physically consistent fracture.
+
+Four affected portrait gates1681 were rerendered with unchanged quality/canonical timing. All19 sheets/1681 real chronological thumbnails plus10 selected originals were actually reviewed; both resets are corrected in this bounded scope. Unchanged return_walk240 retains its separate earlier review. Bed standing/seated/standing cuts are editorial elisions, not continuous sitting. Palm contact uses a schematic rock panel and an authored trapped-companion finger cue: the script narrates hearing behind blocked rubble, not literal visible hand emergence. Bell inset is conditional and is not struck. Lamp stays unlit during finite rung steps, followed by a retained upper stance. Landscape1921 technical closure has occurred, but its final saved visual review is still pending at this update; no landscape/full-production acceptance is implied.
+
+Evidence preserved with fresh whole/all-member readback:
+- Original portrait1921 mixed HOLD: libfile_341ab5bd5c708191a6fad54c55da661d, ZIP SHA3486bb72c7034b2b4816acc98b44cd65011626eac38dc4c0bbf66657443b36d7.
+- V005 source/native36: libfile_918c8f3085688191982b36deed58afd3, ZIP SHA4328413cd7dca7bbb2f34561948bbe17e7c60bd194f3ec93f3774c3123396486.
+- V005 affected portrait1681: libfile_0d244fbbfe1c8191b38aee5080363fb5, ZIP SHA3a8c70fd296172ca46f728f5c313d76441394970b65207aa429f2ce583fa0d49.
+
+Regression lesson: inspect action boundary minus/at/plus frames and retained later states, not just the peak event. A correct terminal pose still fails continuity if the next dispatch omits its persistent objects. No normal-speed/listening claim, and full-film admission remains separate.
