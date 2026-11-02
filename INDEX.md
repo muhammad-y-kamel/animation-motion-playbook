@@ -305,3 +305,5 @@ AnswerAct reference final04 delivered with1852initial-frame review,704changed+16
 - [Ezzay S23: foreground contact and suppressed-label identity](entries/EZZAY-S23-FOREGROUND-CONTACT-IDENTITY-20261102.md) — hidden ray/contact and blank hook-output defects repaired additively; all1,702 thumbnails/32 selected natives scoped PASS with exact canonical PCM, no listening/playback/live-scanner claim.
 
 - [Ezzay S24: ligand labels and suppressed-mode identity](entries/EZZAY-S24-LIGAND-LABEL-SUPPRESSED-IDENTITY-20261102.md) — annotation/blank-panel/premature-activation native HOLD repaired additively; all1,812 thumbnails/32 originals scoped PASS, exact canonical PCM, no listening or calibrated-physiology claim.
+
+- [Ezzay S25: induction interface and residual warning](entries/EZZAY-S25-INDUCTION-INTERFACE-20261102.md) — off-footprint heat arrow, glass-label and CTA-warning native HOLD repaired additively; all1,627 thumbnails/32 originals scoped PASS with exact canonical master PCM, no listening or measured-physics claim.
