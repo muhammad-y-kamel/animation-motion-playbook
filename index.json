@@ -692,6 +692,16 @@
       "status": "validated_with_limits",
       "discovered_by": "agent observations and independently attributed reviewer findings; see component-level entry evidence",
       "file": "entries/ANIM-0023-streamed-exact-archive.md"
+    },
+    {
+      "id": "WHATIF-ARAN-PREMATURE-SEVER-20261103",
+      "title": "Cuff sever preceded teeth contact and detached cloth jumped to hand",
+      "category": "animation/contact/custody",
+      "project": "ماذا لو كنت",
+      "episode": "Aran",
+      "status": "validated_with_limits",
+      "discovered_by": "landscape and independent portrait actual dense decoded review",
+      "file": "entries/WHATIF-ARAN-PREMATURE-SEVER-20261103.md"
     }
   ]
 }
