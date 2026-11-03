@@ -1,0 +1,11 @@
+# EP010 V7: tail RGB stress and terminal wall enforcement
+
+The prior full RGB240-second guard failure remains immutable and unaccepted. Before retrying any media, source preflight found a terminal timing hole: a while-poll loop could first observe exit0 after a scheduling delay and skip its in-loop child wall check. Stress candidate v1 was held and preserved. V2 captures observed elapsed immediately after wait, rejects observed elapsed greater than240 seconds even with exit0, and reports post-child proof/hash time separately. Twenty-four bounded pure fixtures and independent source review passed before exact root admission. This is conservative observed-wall enforcement, not a claim of continuous scheduling or hard isolation.
+
+One separately admitted decode-only diagnostic then read the unchanged full H264 timeline and selected global9000–10259 before RGB24 conversion, without seek or timestamp reset. All1260 complete rows have exact absolutePTS/DTS,1/60 cadence and6220800 bytes perframe. Child observedwall51.698287885s, total52.164754089s, sampledaggregate peak235458560bytes. One child exited0/reaped, errornull, empty stderr/cleanup. PLAN f2569e9d62a401b229a541158f9832b320c0de99baa0acb29ae03ad3edc4a0cc; RESULT SHA77d3cd26480b43e797c3a4341cde5d41a9b5907858d6ac1ae96e10f4841e2c1d.
+
+All original capacities remained unchanged:240s child,1200s overall, originalAS/DATA/CPU/RSS/availablememory safeguards and combined512MiB preserved-origin plus new output ceiling. Single filter threads are a tighter scheduling choice. No rerender/reencode or original-file rewrite occurred.
+
+This is tail stress only, not complete decoded QA, full visual acceptance, hearing or publication approval. It does not prove3000-output earlier slices fit. Any later explicit full-recovery admission must count the52.165s already spent if reusing this receipt, account every repeated fullH264 pass and enforce exact complete coverage plus all guards. Never relabel the original FAILED result.
+
+Archive MOKI_EP010_V7_Tail1260_RGB_Stress_20261103.zip,148171bytes,SHAa1c7874e5d0ba7f65300c212aa134230a2eec826510443957f28fada5d8b1749, Space libfile_2ee0e05c122881919430266c2158f73d. Includes both stress runtime versions and complete actual evidence.
