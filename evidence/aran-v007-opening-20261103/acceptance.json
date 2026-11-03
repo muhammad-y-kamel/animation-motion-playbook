@@ -1,0 +1,44 @@
+{
+  "status": "OPENING_ONLY_DENSE_SEQUENCE_PASS_BOTH_FORMATS",
+  "sourceFreezeSHA256": "49bf4d86faecbd5d5b13252ac4bca7ec454e095a5e6e761b2a62bccfc35c5725",
+  "motionPlanSHA256": "e06dfe79d84c0b7fec7f9557041848916e06af9e1c5a8d5f5c4ec3cd8edb75b8",
+  "range": "absolute frames0\u2013215,0\u20133.6sec exclusive,60fps",
+  "reviewedDecodedThumbnails": 432,
+  "evidence": [
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/aran-motion-v007-r2-opening-cut/LANDSCAPE_REVIEW.json",
+      "sha256": "41f172ba0d69635d2c449706d5e791e0d54961d9a758b5c7eca50a9d1680feb1"
+    },
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/aran-motion-v007-r2-opening-cut/PORTRAIT_REVIEW.json",
+      "sha256": "4ce0ff9eadc1218a7d725dd0abbca7af1dce64e5b2546938ac23d1a6fc48f7e3"
+    },
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/aran-motion-v007-r2-opening-cut/LANDSCAPE_NATIVE_DECODE_COMPARISON.json",
+      "sha256": "554a1b0ab462b968e55fe6b5e05b23675a5021d02078daae6981452418a8d129"
+    },
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/aran-motion-v007-r2-opening-cut/opening_cut-landscape-01/OWNED.json",
+      "sha256": "dcad123b38601390104fd66e15aa9b2025e5882a76bc51333d647f56e758a9fb"
+    },
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/aran-motion-v007-r2-opening-cut/opening_cut-landscape-02/OWNED.json",
+      "sha256": "0f1f9a92cd17d69bf23a1aa1e488fbda91d7a7a338cecf726cd38ec4bc405d0c"
+    },
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/aran-motion-v007-r2-opening-cut/opening_cut-portrait-01/OWNED.json",
+      "sha256": "7c590f293373ba72c4a5aed6a078241086b9de7932ed02c6482e196270ec7f83"
+    },
+    {
+      "path": "/workspace/scratch/bb6b47af6d33/aran-motion-v007-r2-opening-cut/opening_cut-portrait-02/OWNED.json",
+      "sha256": "4d43f2992f351378ad345f305e4628c5eadc61f01305df87385ed42e0a4b9a2b"
+    }
+  ],
+  "remaining": "opening_transition then bounded critical-action windows in MOTION_WINDOW_ORDER_V007.json",
+  "notAccepted": [
+    "normal-speed playback",
+    "audio synchronization",
+    "full film",
+    "production upload"
+  ]
+}
