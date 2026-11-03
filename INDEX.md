@@ -315,3 +315,5 @@ AnswerAct reference final04 delivered with1852initial-frame review,704changed+16
 - [Aran premature sever and continuous cloth custody](entries/WHATIF-ARAN-PREMATURE-SEVER-20261103.md) — V006 causal failure retained; V007 opening only,432 decoded thumbnails plus selected native comparisons. Twelve action windows and playback/audio/full-film gates remain pending.
 
 - [WHATIF-ARAN-SAME-LAYOUT-RESET-20261103](entries/WHATIF-ARAN-SAME-LAYOUT-RESET-20261103.md): same-layout hand/patch reset, staged V008 transition and bounded source regression; dense still proof only.
+
+- [Mine native Short caption boundary ownership](entries/WHATIF-MINE-SHORT-CAPTION-BOUNDARY-20261103.md) — three cross-groups/six sides, exact263 changed-caption frames; actual18-thumbnail/12-native preflight and corrected1400-thumbnail/4-native chunk scoped PASS. Long/audio unchanged; no playback/listening/full-film claim.
