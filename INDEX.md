@@ -317,3 +317,5 @@ AnswerAct reference final04 delivered with1852initial-frame review,704changed+16
 - [WHATIF-ARAN-SAME-LAYOUT-RESET-20261103](entries/WHATIF-ARAN-SAME-LAYOUT-RESET-20261103.md): same-layout hand/patch reset, staged V008 transition and bounded source regression; dense still proof only.
 
 - [Mine native Short caption boundary ownership](entries/WHATIF-MINE-SHORT-CAPTION-BOUNDARY-20261103.md) — three cross-groups/six sides, exact263 changed-caption frames; actual18-thumbnail/12-native preflight and corrected1400-thumbnail/4-native chunk scoped PASS. Long/audio unchanged; no playback/listening/full-film claim.
+
+- [Aran cloth causal contact and visible contrast](entries/WHATIF-ARAN-CLOTH-CONTACT-CONTRAST-20261103.md) — V008 remote-hand HOLD and V009 pale-yarn HOLD preserved; V010 both-format420-thumbnail plus selected native scoped PASS. Diagrammatic discrete release retained; no playback/listening/full-film claim.
