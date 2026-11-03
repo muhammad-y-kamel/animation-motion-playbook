@@ -313,3 +313,5 @@ AnswerAct reference final04 delivered with1852initial-frame review,704changed+16
 - [Mine bounded contact and owned-child occurrence](entries/WHATIF-MINE-CONTACT-LIFECYCLE-20261102.md) — hidden arm/board depth and wrong-function patch trials; first2053frames/layout scoped motion review and exact cancellation/reap admission. Full episode/listening pending.
 
 - [Aran premature sever and continuous cloth custody](entries/WHATIF-ARAN-PREMATURE-SEVER-20261103.md) — V006 causal failure retained; V007 opening only,432 decoded thumbnails plus selected native comparisons. Twelve action windows and playback/audio/full-film gates remain pending.
+
+- [WHATIF-ARAN-SAME-LAYOUT-RESET-20261103](entries/WHATIF-ARAN-SAME-LAYOUT-RESET-20261103.md): same-layout hand/patch reset, staged V008 transition and bounded source regression; dense still proof only.
