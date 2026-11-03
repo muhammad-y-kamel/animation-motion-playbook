@@ -1,6 +1,6 @@
 # EP008 V5 full visual and AAC scoped closure
 
-2026-11-03. V5 return correction retained rigid-object trajectory bounds after rejecting V4's hand-only continuity surrogate. Full171? No: this episode remains exactly58seconds,3480frames at60fps,1080x1920, canonical2784000stereo48k sample frames.
+2026-11-03. V5 return correction retained rigid-object trajectory bounds after rejecting V4's hand-only continuity surrogate. This episode remains exactly58seconds,3480frames at60fps,1080x1920, canonical2784000stereo48k sample frames.
 
 Full V5 run: all13direct children exited0 and reaped, cleanupempty,errornull;190.74seconds, sampled aggregate peak624259072bytes. Exact full frame/PTS/PCM tests passed. Two actual-image reviewers inspected all3480physical thumbnails and75native decoded witnesses. No new blocker. Brow/white overlaps, narrow torso-layer transition and authored tangle upper-pupil overlap remain qualified, not a universal clean-eye claim.
 
