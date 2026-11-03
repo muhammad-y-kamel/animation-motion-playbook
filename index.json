@@ -712,6 +712,15 @@
       "status": "validated_with_limits",
       "discovered_by": "landscape and independent portrait dense decoded review",
       "file": "entries/WHATIF-ARAN-SAME-LAYOUT-RESET-20261103.md"
+    },
+    {
+      "id": "WHATIF-MINE-SHORT-CAPTION-BOUNDARY-20261103",
+      "title": "Native Short boundary caption leaks adjacent sentence",
+      "category": "subtitles / derivative cuts",
+      "project": "WhatIf Arabic",
+      "episode": "Mine",
+      "status": "validated_with_limits",
+      "file": "entries/WHATIF-MINE-SHORT-CAPTION-BOUNDARY-20261103.md"
     }
   ]
 }
