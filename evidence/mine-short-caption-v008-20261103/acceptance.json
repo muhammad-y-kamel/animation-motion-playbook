@@ -1,0 +1,300 @@
+{
+  "status": "VALIDATED_WITH_LIMITS",
+  "evidence": [
+    {
+      "path": "mine-production-20261103/caption-preflight-v008/COMBINED_REVIEW.json",
+      "sha256": "3dca420113ceab44c90ac8d4858fb6462c17f8c28f6d4bcad0049db655b37683",
+      "report": {
+        "status": "SCOPED_BOUNDARY_CAPTION_PASS",
+        "actualDecodedThumbnails": 18,
+        "actualNativeImages": 12,
+        "reports": [
+          {
+            "path": "/workspace/scratch/bb6b47af6d33/mine-production-20261103/caption-preflight-v008/REVIEW_FIRST_AND_THUMBS.json",
+            "sha256": "295162ff356ab2faebccdc08f61c0829a58b336c8171a47511a2a2545a2a15df"
+          },
+          {
+            "path": "/workspace/scratch/bb6b47af6d33/mine-production-20261103/caption-preflight-v008/REVIEW_LAST_NATIVES.json",
+            "sha256": "7f93feba63b9109c8dc6921b38b5790ab05364b7623b861adde3b0d651115141"
+          }
+        ],
+        "scope": "Six3frame boundaries only. Expected exactword subsets visible, no crosssentencecaption spill or crop. No audio/listening/fullshort acceptance inferred."
+      }
+    },
+    {
+      "path": "mine-production-20261103/caption-preflight-v008/REVIEW_FIRST_AND_THUMBS.json",
+      "sha256": "295162ff356ab2faebccdc08f61c0829a58b336c8171a47511a2a2545a2a15df",
+      "report": {
+        "status": "SCOPED_ACTUAL_IMAGE_PASS",
+        "reviewedUTC": "2026-11-03T10:52:08.325537+00:00",
+        "sheetCount": 6,
+        "decodedThumbnailCount": 18,
+        "nativeImageCount": 6,
+        "uniqueFrameCount": 18,
+        "detail": "original",
+        "jobs": [
+          {
+            "firstFrame": 4997,
+            "frames": [
+              4997,
+              4998,
+              4999
+            ],
+            "expectedAndObservedCaption": "عودتي.",
+            "videoSHA256": "540422468650b73eb7a2528a7e0f0673a9768a31aae0f685024c2c8e269e8769",
+            "viewedSHA256": {
+              "sheets/sheet-001.png": "0260a1336cdfc8cb8d3abf049872beb315e766fd9886798a72ae9bf13b97feee",
+              "native/frame-001.png": "9c232d2fa6b882e0249d6b8d05b3444f1ae3f51239d48c65400e179f336ff817",
+              "TECHNICAL_QA.json": "6e765892c2e16f00f32858838af4d0d9eb136a55947784b7142a54df2220d8cf"
+            },
+            "result": "PASS_NO_SPILL_OR_CROP"
+          },
+          {
+            "firstFrame": 5000,
+            "frames": [
+              5000,
+              5001,
+              5002
+            ],
+            "expectedAndObservedCaption": "كنتُ قد",
+            "videoSHA256": "5ce58e565020e60613a2df938872a7c113fef0cded23a26e2cce8371e9d734b5",
+            "viewedSHA256": {
+              "sheets/sheet-001.png": "df9878b49c289f5625963198405a906a31737d28652fb2bbece5e231a73d37c3",
+              "native/frame-001.png": "a7968127c7a8b4a1497c0fc87234226d03d51d24a9bace766accc8fb5995a0a3",
+              "TECHNICAL_QA.json": "da56bdd3610f1234ebe3439ae94fd9a24c19ef26f87f949710a967bf21db8abf"
+            },
+            "result": "PASS_NO_SPILL_OR_CROP"
+          },
+          {
+            "firstFrame": 22414,
+            "frames": [
+              22414,
+              22415,
+              22416
+            ],
+            "expectedAndObservedCaption": "يرتكز عليها.",
+            "videoSHA256": "e25366473f2855c238e81df65d15e219e54cf3ef860ba2aa244b6426322a95e4",
+            "viewedSHA256": {
+              "sheets/sheet-001.png": "dd77b7dbc3290daf9755915a0b0bcdc3180e994f58c8fe8e3cdf750259103843",
+              "native/frame-001.png": "9d1d47628546f9d9c6319c7126772d7335dfad9282c032ab012f49b431228f3d",
+              "TECHNICAL_QA.json": "2f233464bab9997f72a149f4709021718c139b1af256a6d996d3028b16820930"
+            },
+            "result": "PASS_NO_SPILL_OR_CROP"
+          },
+          {
+            "firstFrame": 22417,
+            "frames": [
+              22417,
+              22418,
+              22419
+            ],
+            "expectedAndObservedCaption": "وقبل",
+            "videoSHA256": "f5f82f146dbd8767e8cce44684eb5ccc9b578a62a13ec0607f6ce1c5fc24e3b2",
+            "viewedSHA256": {
+              "sheets/sheet-001.png": "1727a18e90fc28ac85aa2cfa68a8e986fd488681a8630f9b881bdbf0578f99c1",
+              "native/frame-001.png": "808329a58ca6838b1a0ae822f4eb3a968bf2015eb56159b374090a3b560cc95b",
+              "TECHNICAL_QA.json": "35259cfd1505c0e70a1b6e3c25aa3dcc093aa3362eb83ea0915d3b68c44f67d8"
+            },
+            "result": "PASS_NO_SPILL_OR_CROP"
+          },
+          {
+            "firstFrame": 28695,
+            "frames": [
+              28695,
+              28696,
+              28697
+            ],
+            "expectedAndObservedCaption": "جوعًا.",
+            "videoSHA256": "bd5e0ae24948fbb08dde5ed1a7444234eb5763e505d381fb07355d12c6ee6c89",
+            "viewedSHA256": {
+              "sheets/sheet-001.png": "d324f565561fad42d0bed4634783a82e87967e231aa18ed2a3467dc728c7ac39",
+              "native/frame-001.png": "f01afb45c763e070690bae365ab32d95274fe217d1d99e0185e532d64eb72eed",
+              "TECHNICAL_QA.json": "457dab9b0fac7f7ef012a490ea9001248ccdf67d400808e538af79b1e33e39a4"
+            },
+            "result": "PASS_NO_SPILL_OR_CROP"
+          },
+          {
+            "firstFrame": 28698,
+            "frames": [
+              28698,
+              28699,
+              28700
+            ],
+            "expectedAndObservedCaption": "أما لو",
+            "videoSHA256": "932a276c3071e9752955c0f087de5f846d905270887c25183046e64a969d79c1",
+            "viewedSHA256": {
+              "sheets/sheet-001.png": "3dcabbe9353df83b674e747ca8429487be646a70dea516dc14834068ecb2ba4c",
+              "native/frame-001.png": "086ccdc6824afb5e95446ff2ef25bfaa638a137370ecf3367fb5ec7bc5814b90",
+              "TECHNICAL_QA.json": "1e896db2f7cc013bf72c0f073967dd53a9ffbd5756ac33ca92c5b6b02f7f193a"
+            },
+            "result": "PASS_NO_SPILL_OR_CROP"
+          }
+        ],
+        "findings": [
+          "Exact expected caption only in each group. No visible neighboring-sentence spill.",
+          "Caption remains centered within safe margins. Scene subjects remain within composition."
+        ],
+        "limitations": [
+          "Thumbnail text is small; exact letter and punctuation reading corroborated with six native first frames.",
+          "No playback or listening performed. No full-film or full-chunk acceptance. Parent independently reviews frame-002."
+        ]
+      }
+    },
+    {
+      "path": "mine-production-20261103/caption-preflight-v008/REVIEW_LAST_NATIVES.json",
+      "sha256": "7f93feba63b9109c8dc6921b38b5790ab05364b7623b861adde3b0d651115141",
+      "report": {
+        "status": "SCOPED_PASS",
+        "actualNativeImagesViewed": 6,
+        "expectedCaptions": [
+          "عودتي.",
+          "كنتُ قد",
+          "يرتكز عليها.",
+          "وقبل",
+          "جوعًا.",
+          "أما لو"
+        ],
+        "notes": "Actual six lastnative captions show correct section-only exactword subsets, no textspill/crop; unrelated symbolicstaging retained.",
+        "evidence": [
+          {
+            "path": "/workspace/scratch/bb6b47af6d33/mine-production-20261103/caption-preflight-v008/from-4997/native/frame-002.png",
+            "sha256": "3c6d52e7591559e340c64a21d9652b77fe97bfc896f1cc257676b06d53972652"
+          },
+          {
+            "path": "/workspace/scratch/bb6b47af6d33/mine-production-20261103/caption-preflight-v008/from-5000/native/frame-002.png",
+            "sha256": "31b74b0a82f922017dde63531e07a25a401dbfd71e388b6ee11f6cdbd410e357"
+          },
+          {
+            "path": "/workspace/scratch/bb6b47af6d33/mine-production-20261103/caption-preflight-v008/from-22414/native/frame-002.png",
+            "sha256": "1d7037ff61977cd9a6e364c558686600183fb07b14fdd7fef6cd4491580c5ecc"
+          },
+          {
+            "path": "/workspace/scratch/bb6b47af6d33/mine-production-20261103/caption-preflight-v008/from-22417/native/frame-002.png",
+            "sha256": "217ef5fc8083d07ceb5ff12dad19058c8f807c6e32705a8d25a6c69817f4a1ab"
+          },
+          {
+            "path": "/workspace/scratch/bb6b47af6d33/mine-production-20261103/caption-preflight-v008/from-28695/native/frame-002.png",
+            "sha256": "7f7529d22d171def90befa8e0fc561507d6358e94fdccbadcd7d09377fb87a92"
+          },
+          {
+            "path": "/workspace/scratch/bb6b47af6d33/mine-production-20261103/caption-preflight-v008/from-28698/native/frame-002.png",
+            "sha256": "db7c7f74b58c0cbeaeed263aa244828b09b39f345845fc1a58ae3aade6e424e5"
+          }
+        ]
+      }
+    },
+    {
+      "path": "mine-production-20261103/portrait-short01-chunk03-caption-v008/COMBINED_REVIEW.json",
+      "sha256": "3d1ccea9aac372f6e80b9114310f447f47ec9e8ec8f68fbdd8124ebf8a2ff6e2",
+      "report": {
+        "status": "SCOPED_PASS",
+        "frames": 1400,
+        "actualThumbnailCount": 1400,
+        "uniqueSelectedNativeCount": 4,
+        "videoSHA256": "afea50d506996e520030b45e010e63199b82a9609fb36ed0bb865d3190f2c4fd",
+        "reviewReports": [
+          {
+            "path": "/workspace/scratch/bb6b47af6d33/mine-production-20261103/portrait-short01-chunk03-caption-v008/REVIEW_SHEETS_001_007.json",
+            "sha256": "7149744a5e371a3fa6cd2e07e97bb5130b097dbf033de203c45361ba85e71671"
+          },
+          {
+            "path": "/workspace/scratch/bb6b47af6d33/mine-production-20261103/portrait-short01-chunk03-caption-v008/REVIEW_SHEETS_008_014.json",
+            "sha256": "eaa1c416b50bc7f29552c753ffc4a6c931a44665210d57ab01e0013dfb8f9ac3"
+          }
+        ],
+        "scope": "All1400decoded thumbnails plus fourselected natives actualreviewed. Finalcaption only عودتي. Symbolicmillwheel/scale and sparseposes retained. No normal-speed playback/listening."
+      }
+    },
+    {
+      "path": "mine-production-20261103/portrait-short01-chunk03-caption-v008/TECHNICAL_QA.json",
+      "sha256": "5f6a8e300071c6c4d4023acbb0fa89ff43c312714d3c8b3ba3e93aac66639998",
+      "report": {
+        "status": "FULL_DECODE_PTS_EXACT_PCM_PASS_VISUAL_PENDING",
+        "frames": 1400,
+        "canonicalSampleStart": 2646000,
+        "canonicalSampleEnd": 3675000,
+        "canonicalSampleCount": 1029000,
+        "PCMsha256": "7cce7db5f1a4d14970777a41bd0f738eb499d6b4523f5353f36317bfa08f4278",
+        "videoSHA256": "afea50d506996e520030b45e010e63199b82a9609fb36ed0bb865d3190f2c4fd",
+        "scope": "No pixel or normal-speed/listening acceptance inferred"
+      }
+    },
+    {
+      "path": "mine-production-20261103/short-caption-v008/PURE_CAPTION_TEST.json",
+      "sha256": "1eb5c0be423aaac8cf79fe818c416d6c66dd9f0347037949b1dce591ee173f80",
+      "report": {
+        "status": "PURE_CAPTION_AND_NONCAPTION_STATE_PASS",
+        "frames": 34556,
+        "shutters": 103668,
+        "changedFrames": 263,
+        "ranges": [
+          {
+            "short": 1,
+            "changedFrames": 46
+          },
+          {
+            "short": 2,
+            "changedFrames": 41
+          },
+          {
+            "short": 3,
+            "changedFrames": 0
+          },
+          {
+            "short": 4,
+            "changedFrames": 70
+          },
+          {
+            "short": 5,
+            "changedFrames": 70
+          },
+          {
+            "short": 6,
+            "changedFrames": 36
+          }
+        ],
+        "ungatedPortraitAndLandscapeUnchanged": true,
+        "scope": "Canvas-free player execution. Scene raster mocked; no actual pixels/audio claim."
+      }
+    },
+    {
+      "path": "mine-production-20261103/short-caption-v008/DRAW_COMPATIBILITY_TEST.json",
+      "sha256": "3ae943ac9bc1627cf29c6d6c62adae980d2fd2d56ab34aa2a609c8280dd33d4c",
+      "report": {
+        "status": "PURE_COMPOSITOR_DRAW_TRACE_COMPATIBILITY_PASS",
+        "frames": 34556,
+        "shutters": 103668,
+        "changedFrames": 263,
+        "ranges": [
+          {
+            "short": 1,
+            "changedFrames": 46
+          },
+          {
+            "short": 2,
+            "changedFrames": 41
+          },
+          {
+            "short": 3,
+            "changedFrames": 0
+          },
+          {
+            "short": 4,
+            "changedFrames": 70
+          },
+          {
+            "short": 5,
+            "changedFrames": 70
+          },
+          {
+            "short": 6,
+            "changedFrames": 36
+          }
+        ],
+        "ungatedPortraitAndLandscapeUnchanged": true,
+        "scope": "Every unchanged-caption shutter compares exact compositor draw operations and scene arguments. Actual scene source hash unchanged; native raster not executed. No pixel/audio claim."
+      }
+    }
+  ],
+  "scope": "18 preflight thumbnails and12 natives;1400 corrected chunk thumbnails and4 natives. No playback/listening/full-film claim."
+}
