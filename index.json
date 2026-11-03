@@ -721,6 +721,16 @@
       "episode": "Mine",
       "status": "validated_with_limits",
       "file": "entries/WHATIF-MINE-SHORT-CAPTION-BOUNDARY-20261103.md"
+    },
+    {
+      "id": "WHATIF-ARAN-CLOTH-CONTACT-CONTRAST-20261103",
+      "title": "Remote-hand unravelling and pale-on-pale yarn hide custody",
+      "category": "causal contact / contrast",
+      "project": "WhatIf Arabic",
+      "episode": "Aran",
+      "status": "validated_with_limits",
+      "discovered_by": "agent and independent reviewer",
+      "file": "entries/WHATIF-ARAN-CLOTH-CONTACT-CONTRAST-20261103.md"
     }
   ]
 }
