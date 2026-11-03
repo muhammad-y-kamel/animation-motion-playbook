@@ -1,0 +1,7 @@
+# EP010 V7 AAC delivery: proven bounded closure
+
+After full recovered technical QA and genuine 10,260-thumbnail/116-native review, independently admitted PLAN 1a58ebdf663a45743840e9ff020bc6d55a0f7f2aebdbf62af8efde6e375aeaf3 copied the immutable H264 stream and encoded canonical audio to AAC at configured 320k stereo48k. All seven sequential owned children exited zero and were reaped, with no error or cleanup issue and observed terminal walls within original caps. Total elapsed20.804384822seconds; sampled peak71,655,424bytes.
+
+Final31303426-byte MP4 SHA256 9b5451aafe74a779c4d0860b59347bd92697ff1806f942327666377dee51faa4. Complete AnnexB bytes and10,260 packet/display metadata matched the reviewed master. This is compressed-stream evidence, not a fresh decoded-pixel comparison. AAC metadata171s/8,208,000samples; raw full decode8,208,384sampleframes includes384codec padding. Ten one-second joint/L/R normalized zero-offset NCC, gain, RMS and DC tests passed. These are not full lossy signal identity, perceptual listening or realtime playback.
+
+RESULT SHA c4fe33ba74b439df95ad02cdddc7b5f1773e5965df9a38b4daad1ae9a199b37d. Final Space libfile_467aac681ce881918e5cf4b340e58d05; QA archive libfile_f53c1b4d82608191934021026b3fed18 (141320573bytes, SHA44a7ccf88c8ab390ca358f874969af371914fd6ba7f512598fd051be7687ca48,29members,ZIPtestPASS). Original scheduled video remains unchanged pending private Studio verification. No publication acceptance inferred.
