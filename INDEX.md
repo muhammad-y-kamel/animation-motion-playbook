@@ -311,3 +311,5 @@ AnswerAct reference final04 delivered with1852initial-frame review,704changed+16
 - [Ezzay L05: swept title envelopes and minimal multi-GOP repair](entries/EZZAY-L05-SWEPT-LABEL-MULTIGOP-20261102.md) — sparse endpoint proof missed frames81–83; consolidated annotation/cover corrections validated with919 actual patch thumbnails/27 originals, full13378 PTS/PCM and12459 outside RGB identities. Historical HOLDs retained; no listening/playback/publication claim.
 
 - [Mine bounded contact and owned-child occurrence](entries/WHATIF-MINE-CONTACT-LIFECYCLE-20261102.md) — hidden arm/board depth and wrong-function patch trials; first2053frames/layout scoped motion review and exact cancellation/reap admission. Full episode/listening pending.
+
+- [Aran premature sever and continuous cloth custody](entries/WHATIF-ARAN-PREMATURE-SEVER-20261103.md) — V006 causal failure retained; V007 opening only,432 decoded thumbnails plus selected native comparisons. Twelve action windows and playback/audio/full-film gates remain pending.
