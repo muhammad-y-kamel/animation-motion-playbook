@@ -1,0 +1,1233 @@
+{
+  "status": "VALIDATED_WITH_LIMITS",
+  "reports": {
+    "LANDSCAPE_REVIEW.json": {
+      "sha256": "dd63e698bcff54f2be7caf33bfde9a67539f333eaa451e3027cff045b93ad2c0",
+      "report": {
+        "status": "SCOPED_SEQUENTIAL_IMAGE_PASS",
+        "reviewer": "repair_mine_aran_videos",
+        "utc": "2026-11-03T11:09:37.623224+00:00",
+        "coverage": {
+          "decodedThumbnailCount": 210,
+          "absoluteFramesInclusive": [
+            27630,
+            27839
+          ],
+          "jobs": [
+            {
+              "job": {
+                "id": "cloth_unmake-landscape-01",
+                "window": "cloth_unmake",
+                "format": "landscape",
+                "firstAbsoluteFrame": 27630,
+                "frames": 144,
+                "start": 460.5,
+                "endExclusive": 462.9,
+                "fps": 60,
+                "newOutputDirectoryRequired": true
+              },
+              "videoSHA256": "bc5a8add482a006e2741ae6346643407d3b962142720f87228f5686645066785",
+              "planSHA256": "b71e61b6d0219ce3c054f0e014f935c44b2c413349ee22275c94a78a7098ccaf",
+              "planSnapshotSHA256": "b71e61b6d0219ce3c054f0e014f935c44b2c413349ee22275c94a78a7098ccaf",
+              "owned": {
+                "job": "cloth_unmake-landscape-01",
+                "workerPID": 7,
+                "exitCode": 0,
+                "reapedWorker": true,
+                "reapedAdoptedDescendants": [],
+                "liveGroupAfterCleanup": [],
+                "observedProcessIdentities": {
+                  "7": "955188",
+                  "8": "955195",
+                  "9": "955195",
+                  "31": "956669",
+                  "32": "956703"
+                },
+                "peakAggregateRSS": 643244032,
+                "wallSeconds": 20.982538704000035,
+                "error": null,
+                "cleanupErrors": [],
+                "laneBlocked": false,
+                "acceptedTechnicalProof": true,
+                "synthetic": false,
+                "planSHA256": "b71e61b6d0219ce3c054f0e014f935c44b2c413349ee22275c94a78a7098ccaf",
+                "acceptanceRule": "RESULT alone is provisional. Require acceptedTechnicalProof true, reaped worker, no cleanup errors, empty live group and visual review."
+              },
+              "sourceDecodedPairFrames": [
+                27726
+              ],
+              "decodedOnlyNativeFrames": [
+                27666,
+                27667,
+                27773
+              ],
+              "viewedAssets": [
+                {
+                  "path": "aran-motion-v010-r2-cloth_unmake/cloth_unmake-landscape-01/frames-01.jpg",
+                  "sha256": "ca0382fb44091a3a011a681725863c535b7f570dcdedb7f5d23e4a62c53dceaa"
+                },
+                {
+                  "path": "aran-motion-v010-r2-cloth_unmake/cloth_unmake-landscape-01/frames-02.jpg",
+                  "sha256": "daa2228408adb7452f4f640848bb10603dbfa7f059669cbe1b1977a8a0ec2c7d"
+                },
+                {
+                  "path": "aran-motion-v010-r2-cloth_unmake/cloth_unmake-landscape-01/frames-03.jpg",
+                  "sha256": "8724c9dfe85ca31c533498e5f44b69710edd79dce085829208eac20d2fac3454"
+                },
+                {
+                  "path": "aran-motion-v010-r2-cloth_unmake/cloth_unmake-landscape-01/frames-04.jpg",
+                  "sha256": "a4444385871c9404421a6f373bc12f18d8d025c79854d1bdb603b52f26ad1514"
+                },
+                {
+                  "path": "aran-motion-v010-r2-cloth_unmake/cloth_unmake-landscape-01/frames-05.jpg",
+                  "sha256": "cff34f233c98fa94efc166400e677d76f2e41e0e4a4baab6122788ba21cc79ab"
+                },
+                {
+                  "path": "aran-motion-v010-r2-cloth_unmake/cloth_unmake-landscape-01/frames-06.jpg",
+                  "sha256": "7309a60e1751a441cade327f023bef8e375be24a8de5b6fa62cc22db4c4710c9"
+                },
+                {
+                  "path": "aran-motion-v010-r2-cloth_unmake/cloth_unmake-landscape-01/native-27726.png",
+                  "sha256": "00deef747994c2b1876b8c2ed745ae5edbb471b5e1d53dce3198d4e84fa1f9af"
+                },
+                {
+                  "path": "aran-motion-v010-r2-cloth_unmake/cloth_unmake-landscape-01/decoded-native-27726.png",
+                  "sha256": "6da4d3ab24231438814496e1a70ff537a084fcfbac004a9810bce9da4f0af001"
+                },
+                {
+                  "path": "aran-motion-v010-r2-cloth_unmake/cloth_unmake-landscape-01/decoded-native-27666.png",
+                  "sha256": "9dbb5d76c76ca59f4a720c3fb2d5b4d30049e8872db030abd2b659e71f38a0df"
+                },
+                {
+                  "path": "aran-motion-v010-r2-cloth_unmake/cloth_unmake-landscape-01/decoded-native-27667.png",
+                  "sha256": "57a8b220d20b13da56ce364f8023ce2a485f7e35e2fffb2215af49e68a3c9210"
+                },
+                {
+                  "path": "aran-motion-v010-r2-cloth_unmake/cloth_unmake-landscape-01/decoded-native-27773.png",
+                  "sha256": "fb4c937f0f99b175f60b7dee10d55209b31720da06f6e592e77be24971c89f12"
+                }
+              ],
+              "evidenceHashes": {
+                "RESULT.json": "40756216dc15c96b47f13b4789c612020ecb8130a1e5f6ccab054ea40c3e23d7",
+                "OWNED.json": "15c5471c08e5b3e70a9f341d5d644f57c0f9d8035354600079e7c91d5d92fa8a",
+                "DECODED_FRAMES.json": "70ffb6cf72e2b150311e7dca1ee96219a3be6d36c20dd5b4bdeb825347fb51df"
+              }
+            },
+            {
+              "job": {
+                "id": "cloth_unmake-landscape-02",
+                "window": "cloth_unmake",
+                "format": "landscape",
+                "firstAbsoluteFrame": 27774,
+                "frames": 66,
+                "start": 462.9,
+                "endExclusive": 464.0,
+                "fps": 60,
+                "newOutputDirectoryRequired": true
+              },
+              "videoSHA256": "6052e5844acbae5463c1584e4497a6592a9791700799e837bbc49cbf1094bf88",
+              "planSHA256": "b71e61b6d0219ce3c054f0e014f935c44b2c413349ee22275c94a78a7098ccaf",
+              "planSnapshotSHA256": "b71e61b6d0219ce3c054f0e014f935c44b2c413349ee22275c94a78a7098ccaf",
+              "owned": {
+                "job": "cloth_unmake-landscape-02",
+                "workerPID": 49,
+                "exitCode": 0,
+                "reapedWorker": true,
+                "reapedAdoptedDescendants": [],
+                "liveGroupAfterCleanup": [],
+                "observedProcessIdentities": {
+                  "49": "957321",
+                  "50": "957327",
+                  "51": "957327",
+                  "73": "958044",
+                  "74": "958065"
+                },
+                "peakAggregateRSS": 606760960,
+                "wallSeconds": 10.883861492000506,
+                "error": null,
+                "cleanupErrors": [],
+                "laneBlocked": false,
+                "acceptedTechnicalProof": true,
+                "synthetic": false,
+                "planSHA256": "b71e61b6d0219ce3c054f0e014f935c44b2c413349ee22275c94a78a7098ccaf",
+                "acceptanceRule": "RESULT alone is provisional. Require acceptedTechnicalProof true, reaped worker, no cleanup errors, empty live group and visual review."
+              },
+              "sourceDecodedPairFrames": [
+                27803,
+                27807
+              ],
+              "decodedOnlyNativeFrames": [
+                27774
+              ],
+              "viewedAssets": [
+                {
+                  "path": "aran-motion-v010-r2-cloth_unmake/cloth_unmake-landscape-02/frames-01.jpg",
+                  "sha256": "9ab8469f1ee53f0d680091691f84324a89c7a80f299b9cb9807f57364cea6d34"
+                },
+                {
+                  "path": "aran-motion-v010-r2-cloth_unmake/cloth_unmake-landscape-02/frames-02.jpg",
+                  "sha256": "c2207075e6feba497031aebe2dc28845c17cb01e65b33f10cb417ee4a7aeec31"
+                },
+                {
+                  "path": "aran-motion-v010-r2-cloth_unmake/cloth_unmake-landscape-02/frames-03.jpg",
+                  "sha256": "c6862d8de99e4623cd9fd16aee177961a082ca4bd66ccd1c4dec9ff91d560193"
+                },
+                {
+                  "path": "aran-motion-v010-r2-cloth_unmake/cloth_unmake-landscape-02/native-27803.png",
+                  "sha256": "54568f6316ba798d0882cd1166060216dfc80fa208eec7cdf67e45a863dc9be9"
+                },
+                {
+                  "path": "aran-motion-v010-r2-cloth_unmake/cloth_unmake-landscape-02/decoded-native-27803.png",
+                  "sha256": "4ce54d28d81919474fa28e470433ec2deb250c9a9327228a5abfb2498f213d61"
+                },
+                {
+                  "path": "aran-motion-v010-r2-cloth_unmake/cloth_unmake-landscape-02/native-27807.png",
+                  "sha256": "296bdc9e93d213403d002ee76ebbb51c0fabcd871cbbe607eb2574b276fd409e"
+                },
+                {
+                  "path": "aran-motion-v010-r2-cloth_unmake/cloth_unmake-landscape-02/decoded-native-27807.png",
+                  "sha256": "220bcd507f7783d535225dcfa990927afad4d4af797c20cd3242363d97a0c7f7"
+                },
+                {
+                  "path": "aran-motion-v010-r2-cloth_unmake/cloth_unmake-landscape-02/decoded-native-27774.png",
+                  "sha256": "4e80b4c6a625ff9d6336d690490f101f6795ab92ddd6a8da3e6cce8c470943b8"
+                }
+              ],
+              "evidenceHashes": {
+                "RESULT.json": "529f6476de0c95cfdd598e8893dca61854445176820e98449eeb6803762e5a26",
+                "OWNED.json": "f69eb408cbebb27b77295bb28c23e03db5e80c2e4306de8b5c5652db6050287b",
+                "DECODED_FRAMES.json": "437832242ee52a993193b8b6585869ab11b8cb6666309570c8aa71de4fb23c0f"
+              }
+            }
+          ]
+        },
+        "findings": [
+          "All 210 landscape decoded thumbnails inspected in sequence. The grasp closes at the cuff before the strand-pull phase at 27667.",
+          "Visible yarn bridges cuff to pinch through 27803; discrete release at 27804 leaves cuff-rooted fringe and retained loops at the hand.",
+          "Actual native source/decoded pairs 27726, 27803 and 27807 show no obvious mismatch; join 27773/27774 is consistent."
+        ],
+        "qualifications": [
+          "Diagrammatic angular dark backing and discrete release retained; not a realistic textile simulation.",
+          "Dense sequential-image review and selected native stills only; no normal-speed playback, listening, or full-film acceptance."
+        ]
+      }
+    },
+    "PORTRAIT_REVIEW.json": {
+      "sha256": "44c8b116ca036fae975044810b424f174a82c559d5ffbc869af0a827b4c4a201",
+      "report": {
+        "status": "SCOPED_SEQUENTIAL_IMAGE_PASS",
+        "reviewer": "review_aran_portrait",
+        "utc": "2026-11-03T11:05:56.903565+00:00",
+        "coverage": {
+          "decodedThumbnailCount": 210,
+          "absoluteFramesInclusive": [
+            27630,
+            27839
+          ],
+          "jobs": [
+            {
+              "job": {
+                "id": "cloth_unmake-portrait-01",
+                "window": "cloth_unmake",
+                "format": "portrait",
+                "firstAbsoluteFrame": 27630,
+                "frames": 144,
+                "start": 460.5,
+                "endExclusive": 462.9,
+                "fps": 60,
+                "newOutputDirectoryRequired": true
+              },
+              "videoSHA256": "1c12e7c92f47fff10ec338e3ae92464f86d1627424fbac161c4f0cc9d9e2afd6",
+              "planSHA256": "b71e61b6d0219ce3c054f0e014f935c44b2c413349ee22275c94a78a7098ccaf",
+              "planSnapshotSHA256": "b71e61b6d0219ce3c054f0e014f935c44b2c413349ee22275c94a78a7098ccaf",
+              "owned": {
+                "job": "cloth_unmake-portrait-01",
+                "workerPID": 91,
+                "exitCode": 0,
+                "reapedWorker": true,
+                "reapedAdoptedDescendants": [],
+                "liveGroupAfterCleanup": [],
+                "observedProcessIdentities": {
+                  "91": "958446",
+                  "92": "958452",
+                  "93": "958452",
+                  "115": "959876",
+                  "116": "959908"
+                },
+                "peakAggregateRSS": 651177984,
+                "wallSeconds": 19.68474250899999,
+                "error": null,
+                "cleanupErrors": [],
+                "laneBlocked": false,
+                "acceptedTechnicalProof": true,
+                "synthetic": false,
+                "planSHA256": "b71e61b6d0219ce3c054f0e014f935c44b2c413349ee22275c94a78a7098ccaf",
+                "acceptanceRule": "RESULT alone is provisional. Require acceptedTechnicalProof true, reaped worker, no cleanup errors, empty live group and visual review."
+              },
+              "sourceDecodedPairFrames": [
+                27726
+              ],
+              "decodedOnlyNativeFrames": [
+                27666,
+                27667,
+                27773
+              ],
+              "viewedAssets": [
+                {
+                  "path": "aran-motion-v010-r2-cloth_unmake/cloth_unmake-portrait-01/frames-01.jpg",
+                  "sha256": "9a124dae318d5dff52e7bbaefbfcdd1d7302268e9043f85b46d88060fcfc8a3a"
+                },
+                {
+                  "path": "aran-motion-v010-r2-cloth_unmake/cloth_unmake-portrait-01/frames-02.jpg",
+                  "sha256": "5d29cc13be4efa5592deba79146577766fe70aad8b88a58b2f07e53be0913840"
+                },
+                {
+                  "path": "aran-motion-v010-r2-cloth_unmake/cloth_unmake-portrait-01/frames-03.jpg",
+                  "sha256": "b5a3b63edf19aa796c9023f08c356dfb166685c917a4d2e0a36d94f3d4b9e8af"
+                },
+                {
+                  "path": "aran-motion-v010-r2-cloth_unmake/cloth_unmake-portrait-01/frames-04.jpg",
+                  "sha256": "2ae5aec8e78a094bb7cf2841432641bf1d7e318287b8150061c5bda0740e2376"
+                },
+                {
+                  "path": "aran-motion-v010-r2-cloth_unmake/cloth_unmake-portrait-01/frames-05.jpg",
+                  "sha256": "2e9d512b09992eafe66bdcf027512458c8eff225b2818e4055c34873c9f0fd44"
+                },
+                {
+                  "path": "aran-motion-v010-r2-cloth_unmake/cloth_unmake-portrait-01/frames-06.jpg",
+                  "sha256": "51f7b7f67e004725be0724d4a932db1966cab6d3920f2b4ed0f53c19d6e9fb01"
+                },
+                {
+                  "path": "aran-motion-v010-r2-cloth_unmake/cloth_unmake-portrait-01/native-27726.png",
+                  "sha256": "434147a0bcefb9071a11fbca90aa672f754def962e8211e72e0b56b085c8bdb2"
+                },
+                {
+                  "path": "aran-motion-v010-r2-cloth_unmake/cloth_unmake-portrait-01/decoded-native-27726.png",
+                  "sha256": "a03f94debd5b619c1257d2bb0ce8110c1f9b0f78e7abb574c1ba157d1c5ef8ca"
+                },
+                {
+                  "path": "aran-motion-v010-r2-cloth_unmake/cloth_unmake-portrait-01/decoded-native-27666.png",
+                  "sha256": "77ac431c5485481282cf5a6db4ad2d22d2d1c0a5a81580c2f23cceac3a0e145a"
+                },
+                {
+                  "path": "aran-motion-v010-r2-cloth_unmake/cloth_unmake-portrait-01/decoded-native-27667.png",
+                  "sha256": "4b8e8e3ab84981ba1b7ad5491d085c948f8540a0b12483f2cc88a706ef35530f"
+                },
+                {
+                  "path": "aran-motion-v010-r2-cloth_unmake/cloth_unmake-portrait-01/decoded-native-27773.png",
+                  "sha256": "8a1aa1accee8e0d62ef12d58387c3f6d07fc3eb71047304988d1deed5924ab76"
+                }
+              ]
+            },
+            {
+              "job": {
+                "id": "cloth_unmake-portrait-02",
+                "window": "cloth_unmake",
+                "format": "portrait",
+                "firstAbsoluteFrame": 27774,
+                "frames": 66,
+                "start": 462.9,
+                "endExclusive": 464.0,
+                "fps": 60,
+                "newOutputDirectoryRequired": true
+              },
+              "videoSHA256": "0549e053b3f214815e19e1acb1298899b1a633350ce1d12e8828f2e3257ed394",
+              "planSHA256": "b71e61b6d0219ce3c054f0e014f935c44b2c413349ee22275c94a78a7098ccaf",
+              "planSnapshotSHA256": "b71e61b6d0219ce3c054f0e014f935c44b2c413349ee22275c94a78a7098ccaf",
+              "owned": {
+                "job": "cloth_unmake-portrait-02",
+                "workerPID": 133,
+                "exitCode": 0,
+                "reapedWorker": true,
+                "reapedAdoptedDescendants": [],
+                "liveGroupAfterCleanup": [],
+                "observedProcessIdentities": {
+                  "133": "960450",
+                  "134": "960456",
+                  "135": "960456",
+                  "157": "961329",
+                  "158": "961362"
+                },
+                "peakAggregateRSS": 599392256,
+                "wallSeconds": 11.894151719001457,
+                "error": null,
+                "cleanupErrors": [],
+                "laneBlocked": false,
+                "acceptedTechnicalProof": true,
+                "synthetic": false,
+                "planSHA256": "b71e61b6d0219ce3c054f0e014f935c44b2c413349ee22275c94a78a7098ccaf",
+                "acceptanceRule": "RESULT alone is provisional. Require acceptedTechnicalProof true, reaped worker, no cleanup errors, empty live group and visual review."
+              },
+              "sourceDecodedPairFrames": [
+                27803,
+                27807
+              ],
+              "decodedOnlyNativeFrames": [
+                27774
+              ],
+              "viewedAssets": [
+                {
+                  "path": "aran-motion-v010-r2-cloth_unmake/cloth_unmake-portrait-02/frames-01.jpg",
+                  "sha256": "5b05ede6ef3a2f03c516148e29b413b4880b1dffd632365598cb1b9eca0bdebf"
+                },
+                {
+                  "path": "aran-motion-v010-r2-cloth_unmake/cloth_unmake-portrait-02/frames-02.jpg",
+                  "sha256": "f0c239a5622f5ea3ce73d18b214ae0863d0f1799d63ba71397ee0202a66dd5d5"
+                },
+                {
+                  "path": "aran-motion-v010-r2-cloth_unmake/cloth_unmake-portrait-02/frames-03.jpg",
+                  "sha256": "28b58dfce6b3814ce2363461261e0c2ecfb42e1fb869b8d7ebdae5421c5c6fe6"
+                },
+                {
+                  "path": "aran-motion-v010-r2-cloth_unmake/cloth_unmake-portrait-02/native-27803.png",
+                  "sha256": "08b52dda2f79ecae9982eba192532bf4345ee072036288d1ffcf2043b1294146"
+                },
+                {
+                  "path": "aran-motion-v010-r2-cloth_unmake/cloth_unmake-portrait-02/decoded-native-27803.png",
+                  "sha256": "5fcfbb82afbdae4561272c3c1e8a9d206a8a6b801067eaa86c7a4ca8f9e1e8e2"
+                },
+                {
+                  "path": "aran-motion-v010-r2-cloth_unmake/cloth_unmake-portrait-02/native-27807.png",
+                  "sha256": "983a47cf18ff01f08cfa7827136b3e1d520020676b318486f08c36ce6c2c5d72"
+                },
+                {
+                  "path": "aran-motion-v010-r2-cloth_unmake/cloth_unmake-portrait-02/decoded-native-27807.png",
+                  "sha256": "aaeaeb2e6e653b687b278dd65304736e41cbaaa2333d31c27ba3f962fa3a8704"
+                },
+                {
+                  "path": "aran-motion-v010-r2-cloth_unmake/cloth_unmake-portrait-02/decoded-native-27774.png",
+                  "sha256": "0636e4a1d5176323466f11a3a515f981dba9ac94719d2e28f9372f6ef3cdb797"
+                }
+              ]
+            }
+          ]
+        },
+        "findings": [
+          {
+            "severity": "pass_in_scope",
+            "frames": [
+              27666,
+              27667
+            ],
+            "detail": "Closed grip precedes visible strand-pull phase; native decoded witnesses confirm held pose at onset."
+          },
+          {
+            "severity": "pass_in_scope",
+            "frames": [
+              27726,
+              27773,
+              27774,
+              27803
+            ],
+            "detail": "Yarn continuity remains readable across dark cuff and light inset into pinching-hand edge; no join pose discontinuity27773/27774."
+          },
+          {
+            "severity": "pass_in_scope",
+            "frames": [
+              27804,
+              27807
+            ],
+            "detail": "Defined discrete release at27804 changes tensioned fan to cuff-rooted fringe. Held loops remain visible against dark backing in decoded27807."
+          },
+          {
+            "severity": "pass_in_scope",
+            "detail": "No obvious source/decoded mismatch in three actual native pairs27726,27803,27807."
+          },
+          {
+            "severity": "qualification",
+            "detail": "Dark hand backing remains conspicuously diagrammatic; discrete release is stylized rather than physically simulated."
+          }
+        ],
+        "hashVerification": "Proof video hashes independently verified against RESULT; every viewed sheet/native and plan snapshot independently hashed.",
+        "limitations": [
+          "All210 sequential thumbnails reviewed; full native detail limited to listed files.",
+          "No media execution, normal-speed playback, listening or full-film acceptance."
+        ]
+      }
+    },
+    "COMBINED_REVIEW.json": {
+      "sha256": "ae0e835ea6410ecad44eb80dca017108665e71621f9bad808eef8a8b74970a93",
+      "report": {
+        "status": "SCOPED_PASS",
+        "window": "cloth_unmake",
+        "sourceVersion": "V010",
+        "framesPerLayout": 210,
+        "totalDecodedThumbnailFrames": 420,
+        "absoluteFramesInclusive": [
+          27630,
+          27839
+        ],
+        "reports": {
+          "LANDSCAPE_REVIEW.json": "dd63e698bcff54f2be7caf33bfde9a67539f333eaa451e3027cff045b93ad2c0",
+          "PORTRAIT_REVIEW.json": "44c8b116ca036fae975044810b424f174a82c559d5ffbc869af0a827b4c4a201"
+        },
+        "sourceFreezeSHA256": "650dec4b0b83a02329fc636329b777a486fb4eb45bece2918b11e4c382d5e8a9",
+        "scope": "Both-format dense sequential-image plus selected source/decoded native review; no normal-speed audiovisual or full-film acceptance.",
+        "qualification": [
+          "Diagrammatic angular dark backing and discrete release retained; not a realistic textile simulation.",
+          "Dense sequential-image review and selected native stills only; no normal-speed playback, listening, or full-film acceptance."
+        ]
+      }
+    }
+  },
+  "evidence": [
+    {
+      "path": "aran-repair-20261103/SOURCE_FREEZE_V008.json",
+      "sha256": "44a324176fcef5f28ce4d78655a600dc8b9cf7f947dedca1c6ba04a66001e00e"
+    },
+    {
+      "path": "aran-repair-20261103/SOURCE_FREEZE_V009.json",
+      "sha256": "cb2091f5a72c50880816bb0028730bc34044553b4365bb0b4f2012395b181b7a"
+    },
+    {
+      "path": "aran-repair-20261103/SOURCE_FREEZE_V010.json",
+      "sha256": "650dec4b0b83a02329fc636329b777a486fb4eb45bece2918b11e4c382d5e8a9"
+    },
+    {
+      "path": "aran-motion-v008-r2-cloth_unmake/LANDSCAPE_REVIEW.json",
+      "sha256": "13a7be8c43b00f77665191414f65c86da3e650767566531398979527f6be351e"
+    },
+    {
+      "path": "aran-native-v010-20261103/LANDSCAPE_REVIEW.json",
+      "sha256": "6e8f8b90c3681d3fb427047d13ea461683684756ce1bb48ec3b79ffcc62d9473"
+    },
+    {
+      "path": "aran-repair-20261103/REGRESSION_TRACE_V008_V009.json",
+      "sha256": "a5902e884e335a8bd592f980326042653eccccb79c17ed628d8c2a57d05eddfc"
+    },
+    {
+      "path": "aran-repair-20261103/REGRESSION_TRACE_V009_V010.json",
+      "sha256": "a5902e884e335a8bd592f980326042653eccccb79c17ed628d8c2a57d05eddfc"
+    },
+    {
+      "path": "aran-motion-v010-r2-cloth_unmake/cloth_unmake-landscape-01/proof.mp4",
+      "sha256": "bc5a8add482a006e2741ae6346643407d3b962142720f87228f5686645066785"
+    },
+    {
+      "path": "aran-motion-v010-r2-cloth_unmake/cloth_unmake-landscape-01/RESULT.json",
+      "sha256": "40756216dc15c96b47f13b4789c612020ecb8130a1e5f6ccab054ea40c3e23d7"
+    },
+    {
+      "path": "aran-motion-v010-r2-cloth_unmake/cloth_unmake-landscape-01/OWNED.json",
+      "sha256": "15c5471c08e5b3e70a9f341d5d644f57c0f9d8035354600079e7c91d5d92fa8a"
+    },
+    {
+      "path": "aran-motion-v010-r2-cloth_unmake/cloth_unmake-landscape-01/PLAN.snapshot.json",
+      "sha256": "b71e61b6d0219ce3c054f0e014f935c44b2c413349ee22275c94a78a7098ccaf"
+    },
+    {
+      "path": "aran-motion-v010-r2-cloth_unmake/cloth_unmake-landscape-01/DECODED_FRAMES.json",
+      "sha256": "70ffb6cf72e2b150311e7dca1ee96219a3be6d36c20dd5b4bdeb825347fb51df"
+    },
+    {
+      "path": "aran-motion-v010-r2-cloth_unmake/cloth_unmake-landscape-02/proof.mp4",
+      "sha256": "6052e5844acbae5463c1584e4497a6592a9791700799e837bbc49cbf1094bf88"
+    },
+    {
+      "path": "aran-motion-v010-r2-cloth_unmake/cloth_unmake-landscape-02/RESULT.json",
+      "sha256": "529f6476de0c95cfdd598e8893dca61854445176820e98449eeb6803762e5a26"
+    },
+    {
+      "path": "aran-motion-v010-r2-cloth_unmake/cloth_unmake-landscape-02/OWNED.json",
+      "sha256": "f69eb408cbebb27b77295bb28c23e03db5e80c2e4306de8b5c5652db6050287b"
+    },
+    {
+      "path": "aran-motion-v010-r2-cloth_unmake/cloth_unmake-landscape-02/PLAN.snapshot.json",
+      "sha256": "b71e61b6d0219ce3c054f0e014f935c44b2c413349ee22275c94a78a7098ccaf"
+    },
+    {
+      "path": "aran-motion-v010-r2-cloth_unmake/cloth_unmake-landscape-02/DECODED_FRAMES.json",
+      "sha256": "437832242ee52a993193b8b6585869ab11b8cb6666309570c8aa71de4fb23c0f"
+    },
+    {
+      "path": "aran-motion-v010-r2-cloth_unmake/cloth_unmake-portrait-01/proof.mp4",
+      "sha256": "1c12e7c92f47fff10ec338e3ae92464f86d1627424fbac161c4f0cc9d9e2afd6"
+    },
+    {
+      "path": "aran-motion-v010-r2-cloth_unmake/cloth_unmake-portrait-01/RESULT.json",
+      "sha256": "7d81199357b6a9ac72c72e35070a32598b9dd4f447a6f7f8d5c6e507bcd49a59"
+    },
+    {
+      "path": "aran-motion-v010-r2-cloth_unmake/cloth_unmake-portrait-01/OWNED.json",
+      "sha256": "fc9b3ce29de65cb19fa09f9d6c2c6509fe62225de98bdf7e1c31a16146545c4a"
+    },
+    {
+      "path": "aran-motion-v010-r2-cloth_unmake/cloth_unmake-portrait-01/PLAN.snapshot.json",
+      "sha256": "b71e61b6d0219ce3c054f0e014f935c44b2c413349ee22275c94a78a7098ccaf"
+    },
+    {
+      "path": "aran-motion-v010-r2-cloth_unmake/cloth_unmake-portrait-01/DECODED_FRAMES.json",
+      "sha256": "6cabeb0e70e8a6d2a2f58fdfcfb5d436cb2514ae5a8d3ec241474bd3c126eef6"
+    },
+    {
+      "path": "aran-motion-v010-r2-cloth_unmake/cloth_unmake-portrait-02/proof.mp4",
+      "sha256": "0549e053b3f214815e19e1acb1298899b1a633350ce1d12e8828f2e3257ed394"
+    },
+    {
+      "path": "aran-motion-v010-r2-cloth_unmake/cloth_unmake-portrait-02/RESULT.json",
+      "sha256": "056647e4415faaadda03ccb2b14ef5bf3015ede73acd696b8e3e5e297182c4af"
+    },
+    {
+      "path": "aran-motion-v010-r2-cloth_unmake/cloth_unmake-portrait-02/OWNED.json",
+      "sha256": "90e21052b11d120ae209a1707a1116b61f6079c78f8552ec1704622f2d4d7270"
+    },
+    {
+      "path": "aran-motion-v010-r2-cloth_unmake/cloth_unmake-portrait-02/PLAN.snapshot.json",
+      "sha256": "b71e61b6d0219ce3c054f0e014f935c44b2c413349ee22275c94a78a7098ccaf"
+    },
+    {
+      "path": "aran-motion-v010-r2-cloth_unmake/cloth_unmake-portrait-02/DECODED_FRAMES.json",
+      "sha256": "61f5d560fb5f5bdfec01c5603854ea5dda8026fbdea5bdfedf4f301b1500056c"
+    },
+    {
+      "path": "aran-native-v009-20261103/LANDSCAPE_REVIEW.json",
+      "sha256": "5e41e17599cd16ea96ad21079cfbf0aa887d47d7c383272e8f2a8e3ebb482777",
+      "report": {
+        "status": "HOLD_YARN_AND_HELD_WOOL_VISIBILITY",
+        "sourceVersion": "V009",
+        "actualNativeImagesViewed": 3,
+        "frames": [
+          27726,
+          27803,
+          27807
+        ],
+        "evidence": [
+          {
+            "path": "/workspace/scratch/bb6b47af6d33/aran-native-v009-20261103/batch01/images/landscape-4018.png",
+            "sha256": "93324d4bd42704dbf22d56576ffef4fb9bb595472ce85a37c7886e49d8d9c85e"
+          },
+          {
+            "path": "/workspace/scratch/bb6b47af6d33/aran-native-v009-20261103/batch01/images/landscape-4022.png",
+            "sha256": "10fb875b71aa6554c9f14cca561188a23a64da832bfb867e641902efb5833ce0"
+          },
+          {
+            "path": "/workspace/scratch/bb6b47af6d33/aran-native-v009-20261103/batch01/images/landscape-4025.png",
+            "sha256": "2f91c5bc301277af85f04355180636ce675af96502d1a84ed32a3bf69eff91cc"
+          }
+        ],
+        "findings": [
+          "At27803 before definedrelease, pale connectingyarn disappears outside darktextile against lightinset so apparentgap remains beforepinch.",
+          "At27807 afterrelease, heldwool is not visually distinguishable against light fingers.",
+          "Geometry source repair alone cannot establish visually readable custody."
+        ],
+        "scope": "Three actual native images only; enough to HOLD. Remaining25landscape witnesses not reviewed. No motion/audio/playback acceptance."
+      }
+    },
+    {
+      "path": "aran-native-v009-20261103/PORTRAIT_REVIEW.json",
+      "sha256": "ee400536e0ef3a1ed22e695e0975516d711c751976cd571fcda2dc6f41bf0c31",
+      "report": {
+        "status": "HOLD_VISIBLE_YARN_CONTINUITY_AND_CUSTODY",
+        "utc": "2026-11-03T10:41:41.042547+00:00",
+        "reviewer": "review_aran_portrait",
+        "scope": "Native static witness review only; no rendering, media execution, playback, listening or dense/full-film acceptance.",
+        "overviewCoverage": [
+          {
+            "id": 4028,
+            "format": "portrait",
+            "time": 1.6,
+            "path": "/workspace/scratch/bb6b47af6d33/aran-native-v009-20261103/batch01/images/portrait-4028.png",
+            "bytes": 188486,
+            "sha256": "108ee85741e56d3b8e200ee359c35b07796b6b5c1337dd889ab814cdc6553835",
+            "info": {
+              "time": 1.6,
+              "part": 1,
+              "action": "cut_thread",
+              "room": "shore",
+              "caption": "من معصم أخي",
+              "zoom": 1
+            },
+            "scope": "Native static only; actual review pending",
+            "originalFrame": 96
+          },
+          {
+            "id": 4029,
+            "format": "portrait",
+            "time": 2.183333333333333,
+            "path": "/workspace/scratch/bb6b47af6d33/aran-native-v009-20261103/batch01/images/portrait-4029.png",
+            "bytes": 180066,
+            "sha256": "a5addac3ded14c865e9b5bed2cba2e5ef640db67ddaa8ae848fc8436770ca319",
+            "info": {
+              "time": 2.183333333333333,
+              "part": 1,
+              "action": "cut_thread",
+              "room": "shore",
+              "caption": "",
+              "zoom": 1
+            },
+            "scope": "Native static only; actual review pending",
+            "originalFrame": 131
+          },
+          {
+            "id": 4030,
+            "format": "portrait",
+            "time": 2.2,
+            "path": "/workspace/scratch/bb6b47af6d33/aran-native-v009-20261103/batch01/images/portrait-4030.png",
+            "bytes": 180457,
+            "sha256": "c6c11fcc48235f47702f4c94f2a76af1969a8b4b844bc67beedb3fb25137cc36",
+            "info": {
+              "time": 2.2,
+              "part": 1,
+              "action": "cut_thread",
+              "room": "shore",
+              "caption": "",
+              "zoom": 1
+            },
+            "scope": "Native static only; actual review pending",
+            "originalFrame": 132
+          },
+          {
+            "id": 4031,
+            "format": "portrait",
+            "time": 2.216666666666667,
+            "path": "/workspace/scratch/bb6b47af6d33/aran-native-v009-20261103/batch01/images/portrait-4031.png",
+            "bytes": 180401,
+            "sha256": "dbdb304b32affe8fcb593b98725342df7d18fd8eeecaa325ffc736515a16be9b",
+            "info": {
+              "time": 2.216666666666667,
+              "part": 1,
+              "action": "cut_thread",
+              "room": "shore",
+              "caption": "",
+              "zoom": 1
+            },
+            "scope": "Native static only; actual review pending",
+            "originalFrame": 133
+          },
+          {
+            "id": 4032,
+            "format": "portrait",
+            "time": 3.2,
+            "path": "/workspace/scratch/bb6b47af6d33/aran-native-v009-20261103/batch02/images/portrait-4032.png",
+            "bytes": 200479,
+            "sha256": "326e2906345d279ee38b53750c68d880d9cdb740f40fccf40e5c115a637def91",
+            "info": {
+              "time": 3.2,
+              "part": 1,
+              "action": "cut_thread",
+              "room": "shore",
+              "caption": "بأسناني لأن السكين",
+              "zoom": 1
+            },
+            "scope": "Native static only; actual review pending",
+            "originalFrame": 192
+          },
+          {
+            "id": 4033,
+            "format": "portrait",
+            "time": 17.216666666666665,
+            "path": "/workspace/scratch/bb6b47af6d33/aran-native-v009-20261103/batch02/images/portrait-4033.png",
+            "bytes": 200759,
+            "sha256": "31b16b961fcb1e7338a412014cb56205536c9a8c3a3b021aac9be567592c835f",
+            "info": {
+              "time": 17.216666666666665,
+              "part": 1,
+              "action": "cut_thread",
+              "room": "shore",
+              "caption": "الأكبر «شيموس»، ولما",
+              "zoom": 1
+            },
+            "scope": "Native static only; actual review pending",
+            "originalFrame": 1033
+          },
+          {
+            "id": 4034,
+            "format": "portrait",
+            "time": 17.233333333333334,
+            "path": "/workspace/scratch/bb6b47af6d33/aran-native-v009-20261103/batch02/images/portrait-4034.png",
+            "bytes": 201174,
+            "sha256": "505dd3ad6cc20a06077ea44c98dcf1c2f809ee9ca3fe19b7f2ad391d531f4a41",
+            "info": {
+              "time": 17.233333333333334,
+              "part": 1,
+              "action": "thread_boat",
+              "room": "shore",
+              "caption": "الأكبر «شيموس»، ولما",
+              "zoom": 1
+            },
+            "scope": "Native static only; actual review pending",
+            "originalFrame": 1034
+          },
+          {
+            "id": 4035,
+            "format": "portrait",
+            "time": 17.4,
+            "path": "/workspace/scratch/bb6b47af6d33/aran-native-v009-20261103/batch02/images/portrait-4035.png",
+            "bytes": 192140,
+            "sha256": "f0e0161c698ecbfec9ce2718dd7fff5033bafed7b63a8358cb2520f22e47fb68",
+            "info": {
+              "time": 17.4,
+              "part": 1,
+              "action": "thread_boat",
+              "room": "shore",
+              "caption": "",
+              "zoom": 1
+            },
+            "scope": "Native static only; actual review pending",
+            "originalFrame": 1044
+          },
+          {
+            "id": 4036,
+            "format": "portrait",
+            "time": 17.6,
+            "path": "/workspace/scratch/bb6b47af6d33/aran-native-v009-20261103/batch02/images/portrait-4036.png",
+            "bytes": 203753,
+            "sha256": "a8f24b5d1e974e3083472fca891833295266c68bdffac125786025abf45ecefb",
+            "info": {
+              "time": 17.6,
+              "part": 1,
+              "action": "thread_boat",
+              "room": "shore",
+              "caption": "استطعتُ أبدًا أن",
+              "zoom": 1
+            },
+            "scope": "Native static only; actual review pending",
+            "originalFrame": 1056
+          },
+          {
+            "id": 4037,
+            "format": "portrait",
+            "time": 17.716666666666665,
+            "path": "/workspace/scratch/bb6b47af6d33/aran-native-v009-20261103/batch02/images/portrait-4037.png",
+            "bytes": 198782,
+            "sha256": "2cca0cdcb209b0e2ec40fe4aa16d984c6d23d30919d197adc6588a197bad5dd1",
+            "info": {
+              "time": 17.716666666666665,
+              "part": 1,
+              "action": "thread_boat",
+              "room": "shore",
+              "caption": "استطعتُ أبدًا أن",
+              "zoom": 1
+            },
+            "scope": "Native static only; actual review pending",
+            "originalFrame": 1063
+          },
+          {
+            "id": 4038,
+            "format": "portrait",
+            "time": 17.9,
+            "path": "/workspace/scratch/bb6b47af6d33/aran-native-v009-20261103/batch02/images/portrait-4038.png",
+            "bytes": 197360,
+            "sha256": "3765fb1e2e2969b8ccf1d2f4c1612f6246134ba9370da061b15fa7862fa1a959",
+            "info": {
+              "time": 17.9,
+              "part": 1,
+              "action": "thread_boat",
+              "room": "shore",
+              "caption": "استطعتُ أبدًا أن",
+              "zoom": 1
+            },
+            "scope": "Native static only; actual review pending",
+            "originalFrame": 1074
+          },
+          {
+            "id": 4039,
+            "format": "portrait",
+            "time": 460.78333333333336,
+            "path": "/workspace/scratch/bb6b47af6d33/aran-native-v009-20261103/batch02/images/portrait-4039.png",
+            "bytes": 199732,
+            "sha256": "627cb6ea5e840383f262b5ce194c2fe1e3aaa3b49020e5e60f40dd7530a0d486",
+            "info": {
+              "time": 460.78333333333336,
+              "part": 8,
+              "action": "knife_shadow",
+              "room": "shore",
+              "caption": "الأيسر حيث العقدتان",
+              "zoom": 1
+            },
+            "scope": "Native static only; actual review pending",
+            "originalFrame": 27647
+          },
+          {
+            "id": 4040,
+            "format": "portrait",
+            "time": 460.8,
+            "path": "/workspace/scratch/bb6b47af6d33/aran-native-v009-20261103/batch02/images/portrait-4040.png",
+            "bytes": 198450,
+            "sha256": "1f6ac5d9a20894b9a123d7e981419b7ba519d0a6ab73da726ea8d45e480c2fe0",
+            "info": {
+              "time": 460.8,
+              "part": 8,
+              "action": "unmake_pattern",
+              "room": "shore",
+              "caption": "الأيسر حيث العقدتان",
+              "zoom": 1
+            },
+            "scope": "Native static only; actual review pending",
+            "originalFrame": 27648
+          },
+          {
+            "id": 4041,
+            "format": "portrait",
+            "time": 460.81666666666666,
+            "path": "/workspace/scratch/bb6b47af6d33/aran-native-v009-20261103/batch02/images/portrait-4041.png",
+            "bytes": 198764,
+            "sha256": "e418fcd17f87e9cfd4588bac1e3baf9f9874163f5ca4607a0f6756d299ca45af",
+            "info": {
+              "time": 460.81666666666666,
+              "part": 8,
+              "action": "unmake_pattern",
+              "room": "shore",
+              "caption": "الأيسر حيث العقدتان",
+              "zoom": 1
+            },
+            "scope": "Native static only; actual review pending",
+            "originalFrame": 27649
+          },
+          {
+            "id": 4042,
+            "format": "portrait",
+            "time": 460.95,
+            "path": "/workspace/scratch/bb6b47af6d33/aran-native-v009-20261103/batch02/images/portrait-4042.png",
+            "bytes": 198145,
+            "sha256": "a044b358fee6a2d08c6110133cd893831d0f22db259b5e8248eeb215aa647dc7",
+            "info": {
+              "time": 460.95,
+              "part": 8,
+              "action": "unmake_pattern",
+              "room": "shore",
+              "caption": "الأيسر حيث العقدتان",
+              "zoom": 1
+            },
+            "scope": "Native static only; actual review pending",
+            "originalFrame": 27657
+          },
+          {
+            "id": 4043,
+            "format": "portrait",
+            "time": 461.1,
+            "path": "/workspace/scratch/bb6b47af6d33/aran-native-v009-20261103/batch02/images/portrait-4043.png",
+            "bytes": 196321,
+            "sha256": "5e017733814566cea538eb8d732bb48e41c0628438494c3ce834c311a99052d7",
+            "info": {
+              "time": 461.1,
+              "part": 8,
+              "action": "unmake_pattern",
+              "room": "shore",
+              "caption": "الأيسر حيث العقدتان",
+              "zoom": 1
+            },
+            "scope": "Native static only; actual review pending",
+            "originalFrame": 27666
+          },
+          {
+            "id": 4044,
+            "format": "portrait",
+            "time": 461.1166666666667,
+            "path": "/workspace/scratch/bb6b47af6d33/aran-native-v009-20261103/batch02/images/portrait-4044.png",
+            "bytes": 203720,
+            "sha256": "df02c7c44b4b7994c160a0d952b6a80df34de4ae51c026c2a577d94665d3c443",
+            "info": {
+              "time": 461.1166666666667,
+              "part": 8,
+              "action": "unmake_pattern",
+              "room": "shore",
+              "caption": "الأيسر حيث العقدتان",
+              "zoom": 1
+            },
+            "scope": "Native static only; actual review pending",
+            "originalFrame": 27667
+          },
+          {
+            "id": 4045,
+            "format": "portrait",
+            "time": 461.5,
+            "path": "/workspace/scratch/bb6b47af6d33/aran-native-v009-20261103/batch02/images/portrait-4045.png",
+            "bytes": 201501,
+            "sha256": "ae4d3e286683dd29b082013bbd51a3982364528cded940ebe376b5aeb1089a0a",
+            "info": {
+              "time": 461.5,
+              "part": 8,
+              "action": "unmake_pattern",
+              "room": "shore",
+              "caption": "الأيسر حيث العقدتان",
+              "zoom": 1
+            },
+            "scope": "Native static only; actual review pending",
+            "originalFrame": 27690
+          },
+          {
+            "id": 4046,
+            "format": "portrait",
+            "time": 462.1,
+            "path": "/workspace/scratch/bb6b47af6d33/aran-native-v009-20261103/batch02/images/portrait-4046.png",
+            "bytes": 193532,
+            "sha256": "ed8d1cc38fcf29a825200e8c4539871e7331cfa25070cfc282b25d1fc15f0947",
+            "info": {
+              "time": 462.1,
+              "part": 8,
+              "action": "unmake_pattern",
+              "room": "shore",
+              "caption": "المميزتان، ثم شققتُ",
+              "zoom": 1
+            },
+            "scope": "Native static only; actual review pending",
+            "originalFrame": 27726
+          },
+          {
+            "id": 4047,
+            "format": "portrait",
+            "time": 462.5,
+            "path": "/workspace/scratch/bb6b47af6d33/aran-native-v009-20261103/batch02/images/portrait-4047.png",
+            "bytes": 194088,
+            "sha256": "8409e973bfd4f8e38a7b110979f37f10cef290d35b456e5ada7e16976b66d117",
+            "info": {
+              "time": 462.5,
+              "part": 8,
+              "action": "unmake_pattern",
+              "room": "shore",
+              "caption": "المميزتان، ثم شققتُ",
+              "zoom": 1
+            },
+            "scope": "Native static only; actual review pending",
+            "originalFrame": 27750
+          },
+          {
+            "id": 4048,
+            "format": "portrait",
+            "time": 462.8833333333333,
+            "path": "/workspace/scratch/bb6b47af6d33/aran-native-v009-20261103/batch02/images/portrait-4048.png",
+            "bytes": 191196,
+            "sha256": "45f20902f3219bf33f5fa5e140aee2e3a9095cbc58c6b9be0b8e91cd19f4f206",
+            "info": {
+              "time": 462.8833333333333,
+              "part": 8,
+              "action": "unmake_pattern",
+              "room": "shore",
+              "caption": "المميزتان، ثم شققتُ",
+              "zoom": 1
+            },
+            "scope": "Native static only; actual review pending",
+            "originalFrame": 27773
+          },
+          {
+            "id": 4049,
+            "format": "portrait",
+            "time": 462.9,
+            "path": "/workspace/scratch/bb6b47af6d33/aran-native-v009-20261103/batch02/images/portrait-4049.png",
+            "bytes": 190593,
+            "sha256": "56d79a81526c7251d25969ef162c51a84bda181f13be0e7ec1e84bfce91ebdad",
+            "info": {
+              "time": 462.9,
+              "part": 8,
+              "action": "unmake_pattern",
+              "room": "shore",
+              "caption": "المميزتان، ثم شققتُ",
+              "zoom": 1
+            },
+            "scope": "Native static only; actual review pending",
+            "originalFrame": 27774
+          },
+          {
+            "id": 4050,
+            "format": "portrait",
+            "time": 463.3833333333333,
+            "path": "/workspace/scratch/bb6b47af6d33/aran-native-v009-20261103/batch02/images/portrait-4050.png",
+            "bytes": 188472,
+            "sha256": "6e1a2f80ce748e99fb0c59215f99358b8e6a60ad9e212614231645962e91a2e2",
+            "info": {
+              "time": 463.3833333333333,
+              "part": 8,
+              "action": "unmake_pattern",
+              "room": "shore",
+              "caption": "المميزتان، ثم شققتُ",
+              "zoom": 1
+            },
+            "scope": "Native static only; actual review pending",
+            "originalFrame": 27803
+          },
+          {
+            "id": 4051,
+            "format": "portrait",
+            "time": 463.4,
+            "path": "/workspace/scratch/bb6b47af6d33/aran-native-v009-20261103/batch02/images/portrait-4051.png",
+            "bytes": 189128,
+            "sha256": "588301ba3f38a7842931132b8864aff955785c29c1774c3fbb8d5b33c653c8f4",
+            "info": {
+              "time": 463.4,
+              "part": 8,
+              "action": "unmake_pattern",
+              "room": "shore",
+              "caption": "المميزتان، ثم شققتُ",
+              "zoom": 1
+            },
+            "scope": "Native static only; actual review pending",
+            "originalFrame": 27804
+          },
+          {
+            "id": 4052,
+            "format": "portrait",
+            "time": 463.4166666666667,
+            "path": "/workspace/scratch/bb6b47af6d33/aran-native-v009-20261103/batch02/images/portrait-4052.png",
+            "bytes": 188309,
+            "sha256": "6729ea2ff5b681131ac0915b9c7c2a646df96bef918fb55d7d1b182c4cbdee18",
+            "info": {
+              "time": 463.4166666666667,
+              "part": 8,
+              "action": "unmake_pattern",
+              "room": "shore",
+              "caption": "المميزتان، ثم شققتُ",
+              "zoom": 1
+            },
+            "scope": "Native static only; actual review pending",
+            "originalFrame": 27805
+          },
+          {
+            "id": 4053,
+            "format": "portrait",
+            "time": 463.45,
+            "path": "/workspace/scratch/bb6b47af6d33/aran-native-v009-20261103/batch02/images/portrait-4053.png",
+            "bytes": 187883,
+            "sha256": "208d6706e2824be9f04c517e9730bb448684c2462eeb4b256ae72d765d691065",
+            "info": {
+              "time": 463.45,
+              "part": 8,
+              "action": "unmake_pattern",
+              "room": "shore",
+              "caption": "المميزتان، ثم شققتُ",
+              "zoom": 1
+            },
+            "scope": "Native static only; actual review pending",
+            "originalFrame": 27807
+          },
+          {
+            "id": 4054,
+            "format": "portrait",
+            "time": 463.98333333333335,
+            "path": "/workspace/scratch/bb6b47af6d33/aran-native-v009-20261103/batch02/images/portrait-4054.png",
+            "bytes": 188044,
+            "sha256": "50db2031f3d13b88e845d658ba8110c38285a8a34d0fd96f6fe258e6e9b18117",
+            "info": {
+              "time": 463.98333333333335,
+              "part": 8,
+              "action": "unmake_pattern",
+              "room": "shore",
+              "caption": "الصوف عند الصدر",
+              "zoom": 1
+            },
+            "scope": "Native static only; actual review pending",
+            "originalFrame": 27839
+          },
+          {
+            "id": 4055,
+            "format": "portrait",
+            "time": 473.46666666666664,
+            "path": "/workspace/scratch/bb6b47af6d33/aran-native-v009-20261103/batch02/images/portrait-4055.png",
+            "bytes": 190977,
+            "sha256": "a7772b65d05873cfb171fa2034b46d6a00634f62ac9f0158b04a7cc0f07b7ed7",
+            "info": {
+              "time": 473.46666666666664,
+              "part": 8,
+              "action": "unmake_pattern",
+              "room": "shore",
+              "caption": "مزقتها الصخور. خبأتُ",
+              "zoom": 1
+            },
+            "scope": "Native static only; actual review pending",
+            "originalFrame": 28408
+          }
+        ],
+        "actualNativeOpenedIds": [
+          4046,
+          4048,
+          4049,
+          4050,
+          4051,
+          4053
+        ],
+        "hashVerification": "All28 portrait witness file hashes independently verified against WITNESSES metadata.",
+        "ownedReceipts": {
+          "batch01": {
+            "pid": 7,
+            "exitCode": 0,
+            "reaped": true,
+            "wallSeconds": 7.035629374999189,
+            "peakRSS": 339329024,
+            "error": null,
+            "batch": 1,
+            "scope": "Only this new owned native child; no historical unknown/process-absence claim"
+          },
+          "batch02": {
+            "pid": 24,
+            "exitCode": 0,
+            "reaped": true,
+            "wallSeconds": 5.015319355001338,
+            "peakRSS": 249765888,
+            "error": null,
+            "batch": 2,
+            "scope": "Only this new owned native child; no historical unknown/process-absence claim"
+          }
+        },
+        "findings": [
+          {
+            "severity": "HOLD",
+            "ids": [
+              4048,
+              4049,
+              4050
+            ],
+            "frames": [
+              27773,
+              27774,
+              27803
+            ],
+            "detail": "Yarn fan is visible on dark cuff but becomes indistinguishable over the light inset before reaching the pinching hand. Apparent gap prevents visible causal pull continuity."
+          },
+          {
+            "severity": "HOLD",
+            "ids": [
+              4051,
+              4053
+            ],
+            "frames": [
+              27804,
+              27807
+            ],
+            "detail": "Post-release cuff strands are visible, but held wool is not distinguishable on light fingers/inset, leaving custody visually unproven."
+          },
+          {
+            "severity": "improved",
+            "ids": [
+              4046
+            ],
+            "frames": [
+              27726
+            ],
+            "detail": "A strand visibly reaches closed hand while dark cuff remains behind it; initial grip improvement does not solve later light-background visibility."
+          },
+          {
+            "severity": "pass_in_scope",
+            "ids": [
+              4048,
+              4049
+            ],
+            "frames": [
+              27773,
+              27774
+            ],
+            "detail": "Neighbor witness pose and layout continuous; both retain yarn contrast issue."
+          },
+          {
+            "severity": "overview_only",
+            "ids": [
+              4028,
+              4029,
+              4030,
+              4031,
+              4032,
+              4033,
+              4034,
+              4035,
+              4036,
+              4037,
+              4038
+            ],
+            "detail": "Opening contact/sever and phased face-to-boat regression witnesses show no obvious new overview-level blocker; not full-native/dense acceptance."
+          }
+        ],
+        "requiredRetest": "Increase visible yarn/held-wool contrast against light inset and fingers; recheck27726,27773/27774,27803 before release and27804/27807 after release at actual native scale before dense proof."
+      }
+    }
+  ],
+  "limits": "420 decoded thumbnails and selected source/decoded natives; no playback/listening/fullfilm."
+}
