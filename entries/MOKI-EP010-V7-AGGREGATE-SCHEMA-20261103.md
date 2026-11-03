@@ -1,0 +1,5 @@
+# EP010 V7 aggregate schema mismatch caught before AAC
+
+The first aggregate copied common range-gate fields and accidentally inherited the range schema instead of the full aggregate schema. Source-only AAC binding rejected it before any media action. Preserve the prior aggregate SHA 218e140bed1cf96f22d3c756bfafbbfb8992649b8d1a2082cc6bb766d5215925 as schema HOLD. Correct only schema to moki.ep010.full_actual_visual_review.recovery.v1; corrected aggregate SHA 2fd7661f9ffde7940dbf211f352374d8b655dbc44cfc76417cbb89c44e6290ab. Actual three reports, inspected images, coverage and qualifications are unchanged. Future builders must exclude schema when copying shared identity fields and validate aggregate schema before archival/admission.
+
+Correction archive 5123 bytes, SHA256 44c3afaca174b568166857568f5ab6b73fcdcad80782d7dc92f5f64767a7808f, ZIP test passed, Space libfile_9e45f85856788191ab57db8e678b0762. Prior full archive retained. Fresh AAC binding/independent review remains required; this correction is not media or publication acceptance.
