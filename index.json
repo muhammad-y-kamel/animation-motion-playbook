@@ -702,6 +702,16 @@
       "status": "validated_with_limits",
       "discovered_by": "landscape and independent portrait actual dense decoded review",
       "file": "entries/WHATIF-ARAN-PREMATURE-SEVER-20261103.md"
+    },
+    {
+      "id": "WHATIF-ARAN-SAME-LAYOUT-RESET-20261103",
+      "title": "Same-layout hand and patch reset repaired with staged transition",
+      "category": "animation/contact/continuity/verification",
+      "project": "ماذا لو كنت",
+      "episode": "Aran",
+      "status": "validated_with_limits",
+      "discovered_by": "landscape and independent portrait dense decoded review",
+      "file": "entries/WHATIF-ARAN-SAME-LAYOUT-RESET-20261103.md"
     }
   ]
 }
