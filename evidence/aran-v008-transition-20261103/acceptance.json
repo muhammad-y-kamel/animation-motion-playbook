@@ -1,0 +1,69 @@
+{
+  "status": "TRANSITION_ONLY_DENSE_SEQUENCE_PASS_BOTH_FORMATS",
+  "framesPerFormat": 64,
+  "rangeInclusive": [
+    1013,
+    1076
+  ],
+  "fps": 60,
+  "decodedThumbnailsReviewed": 128,
+  "sourceNativeImagesReviewed": 8,
+  "decodedNativeImagesReviewed": 8,
+  "sourceVersion": "V008",
+  "evidence": [
+    {
+      "path": "aran-motion-v008-r2-opening_transition/LANDSCAPE_REVIEW.json",
+      "sha256": "6b785ed2f823d6e407139fbb117a9a0a6d206aaec61e9dea4e186897bf6a22c9"
+    },
+    {
+      "path": "aran-motion-v008-r2-opening_transition/PORTRAIT_REVIEW.json",
+      "sha256": "7b87ea8538bc73d64d20355f68dd91af76b04a2ad8712df348c0029c1c5240ac"
+    },
+    {
+      "path": "aran-repair-20261103/SOURCE_FREEZE_V008.json",
+      "sha256": "44a324176fcef5f28ce4d78655a600dc8b9cf7f947dedca1c6ba04a66001e00e"
+    },
+    {
+      "path": "aran-repair-20261103/REGRESSION_SCOPE_V007_V008.json",
+      "sha256": "b59f98439d0b2eafc449f709b25d26c593bfe7f8a3f9749a26c27cb7f3f597e1"
+    },
+    {
+      "path": "aran-repair-20261103/REGRESSION_TRACE_V007_V008.json",
+      "sha256": "a278c9ac9f77055a98e5ef3a1fabf97648815efec99d373cd43ae9c1f2279d59"
+    },
+    {
+      "path": "aran-motion-v008-r2-opening_transition/opening_transition-portrait-01/OWNED.json",
+      "sha256": "84ec2a404dfa1693d3547442743122f0a3743a0a750a40b4a50e778dda95ee81"
+    },
+    {
+      "path": "aran-motion-v008-r2-opening_transition/opening_transition-portrait-01/proof.mp4",
+      "sha256": "9fd6882fc503a28f832356e2aff47e73bc9c68abe6048e8d2b83cb8b136983cb"
+    },
+    {
+      "path": "aran-motion-v008-r2-opening_transition/opening_transition-portrait-01/PLAN.snapshot.json",
+      "sha256": "f9e8253db8f0d26c6043a3768bc7271444ba1ffc328502a7cf2e2186dfa945f6"
+    },
+    {
+      "path": "aran-motion-v008-r2-opening_transition/opening_transition-portrait-01/DECODED_FRAMES.json",
+      "sha256": "157b4fef616f82fc36a0f1c46a1c1890d8421a5181ac696be2889d587f93c2f8"
+    },
+    {
+      "path": "aran-motion-v008-r2-opening_transition/opening_transition-landscape-01/OWNED.json",
+      "sha256": "6a5195ddccaaa7fe308d75a48836582af01573cc222e4e1a3a583064db9c1da1"
+    },
+    {
+      "path": "aran-motion-v008-r2-opening_transition/opening_transition-landscape-01/proof.mp4",
+      "sha256": "3e79f10f2e6a418d6b9ab85d2189ccd703c856686e2bfd02f954e86951ace01a"
+    },
+    {
+      "path": "aran-motion-v008-r2-opening_transition/opening_transition-landscape-01/PLAN.snapshot.json",
+      "sha256": "f9e8253db8f0d26c6043a3768bc7271444ba1ffc328502a7cf2e2186dfa945f6"
+    },
+    {
+      "path": "aran-motion-v008-r2-opening_transition/opening_transition-landscape-01/DECODED_FRAMES.json",
+      "sha256": "eeb38e47129ae8079fd0ad476fc8db7f3892baaff74abd43582711b54fb8a97f"
+    }
+  ],
+  "priorOpening": "V007 opening evidence remains narrowly usable with V008 source-equivalence trace; not a newly rendered V008 opening proof.",
+  "pending": "11 other critical motion windows; normal-speed playback, audio, full-film review and publication remain separate."
+}
