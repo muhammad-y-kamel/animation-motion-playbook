@@ -731,6 +731,357 @@
       "status": "validated_with_limits",
       "discovered_by": "agent and independent reviewer",
       "file": "entries/WHATIF-ARAN-CLOTH-CONTACT-CONTRAST-20261103.md"
+    },
+    {
+      "id": "EZZAY-L02-BOUNDED-GOP-LABEL-PATCH-20261101",
+      "title": "L02 nail-label GOP patch — proven scoped correction",
+      "file": "entries/EZZAY-L02-BOUNDED-GOP-LABEL-PATCH-20261101.md",
+      "project": "إزاي",
+      "episode": "L02",
+      "status": "validated_with_limits",
+      "registration_note": "added 2026-11-21 to close INDEX.md/index.json drift per WORKFLOW step 7; metadata verbatim from INDEX.md where present"
+    },
+    {
+      "id": "EZZAY-L03-LANDSCAPE-GUARD-RECOVERY-20261101",
+      "title": "L03: native landscape guard recovery — 2026-11-01",
+      "file": "entries/EZZAY-L03-LANDSCAPE-GUARD-RECOVERY-20261101.md",
+      "project": "إزاي",
+      "episode": "L03",
+      "status": "validated_with_limits",
+      "registration_note": "added 2026-11-21 to close INDEX.md/index.json drift per WORKFLOW step 7; metadata verbatim from INDEX.md where present"
+    },
+    {
+      "id": "EZZAY-L04-CLIP-OPENING-GOP-20261102",
+      "title": "Ezzay L04 — annotation clip bounds and opening GOP repair",
+      "file": "entries/EZZAY-L04-CLIP-OPENING-GOP-20261102.md",
+      "project": "إزاي",
+      "episode": "L04",
+      "status": "validated_with_limits",
+      "registration_note": "added 2026-11-21 to close INDEX.md/index.json drift per WORKFLOW step 7; metadata verbatim from INDEX.md where present"
+    },
+    {
+      "id": "EZZAY-L05-SWEPT-LABEL-MULTIGOP-20261102",
+      "title": "EZZAY L05 — transition envelopes, annotation lanes and minimal GOP repair",
+      "file": "entries/EZZAY-L05-SWEPT-LABEL-MULTIGOP-20261102.md",
+      "project": "إزاي",
+      "episode": "L05",
+      "status": "validated_with_limits",
+      "registration_note": "added 2026-11-21 to close INDEX.md/index.json drift per WORKFLOW step 7; metadata verbatim from INDEX.md where present"
+    },
+    {
+      "id": "EZZAY-S01-MECHANISM-TRIALS-20261031",
+      "title": "Ezzay S01 Thermos — mechanism/native source trials (2026-10-31)",
+      "file": "entries/EZZAY-S01-MECHANISM-TRIALS-20261031.md",
+      "project": "إزاي",
+      "category": "mechanism/contact/composition",
+      "episode": "S01 Thermos",
+      "status": "v006_delivery_QA_and_Nov1_19Cairo_schedule_verified_old_Private",
+      "registration_note": "added 2026-11-21 to close INDEX.md/index.json drift per WORKFLOW step 7; metadata verbatim from INDEX.md where present"
+    },
+    {
+      "id": "EZZAY-S02-MECHANISM-TRIALS-20261031",
+      "title": "EZZAY-S02: persistent mechanism and semantic caption trials — 2026-10-31",
+      "file": "entries/EZZAY-S02-MECHANISM-TRIALS-20261031.md",
+      "project": "إزاي",
+      "category": "retained mechanism / path contact / semantic captions",
+      "episode": "Onion tears",
+      "status": "v002_delivery_QA_and_Nov2_19Cairo_schedule_verified_old_Private",
+      "registration_note": "added 2026-11-21 to close INDEX.md/index.json drift per WORKFLOW step 7; metadata verbatim from INDEX.md where present"
+    },
+    {
+      "id": "EZZAY-S03-MECHANISM-TRIALS-20261031",
+      "title": "Ezzay S03 — retained coating mechanism trials (2026-10-31)",
+      "file": "entries/EZZAY-S03-MECHANISM-TRIALS-20261031.md",
+      "project": "إزاي",
+      "category": "retained substrate / deposition contact / semantic captions",
+      "episode": "PTFE coating",
+      "status": "closed_scoped_visual_and_technical_QA_Nov3_19Cairo_replacement_verified_old_Private",
+      "registration_note": "added 2026-11-21 to close INDEX.md/index.json drift per WORKFLOW step 7; metadata verbatim from INDEX.md where present"
+    },
+    {
+      "id": "EZZAY-S04-MECHANISM-TRIALS-20261031",
+      "title": "EZZAY S04 — tinnitus mechanism source trials (2026-10-31)",
+      "file": "entries/EZZAY-S04-MECHANISM-TRIALS-20261031.md",
+      "project": "إزاي",
+      "category": "causal sensory path / scientific uncertainty / native labels",
+      "episode": "Transient tinnitus",
+      "status": "v002_scoped_QA_Nov4_19Cairo_replacement_verified_old_Private",
+      "registration_note": "added 2026-11-21 to close INDEX.md/index.json drift per WORKFLOW step 7; metadata verbatim from INDEX.md where present"
+    },
+    {
+      "id": "EZZAY-S05-MECHANISM-TRIALS-20261031",
+      "title": "EZZAY S05 — inductive card source repair trials (2026-10-31)",
+      "file": "entries/EZZAY-S05-MECHANISM-TRIALS-20261031.md",
+      "project": "إزاي",
+      "category": "inductive coupling / load modulation / label swept bounds",
+      "episode": "Contactless card",
+      "status": "encoded_2137_thumbnail_35_native_scoped_PASS_AAC_verified_Nov5_19Cairo_scheduled_old_Private",
+      "registration_note": "added 2026-11-21 to close INDEX.md/index.json drift per WORKFLOW step 7; metadata verbatim from INDEX.md where present"
+    },
+    {
+      "id": "EZZAY-S06-MECHANISM-TRIALS-20261031",
+      "title": "EZZAY S06 — self-voice pathway source trials (2026-10-31)",
+      "file": "entries/EZZAY-S06-MECHANISM-TRIALS-20261031.md",
+      "project": "إزاي",
+      "category": "air/bone pathways / source anchoring / CTA clock",
+      "episode": "Recorded versus own voice",
+      "status": "source_native_scoped_PASS_full_encode_and_schedule_pending",
+      "registration_note": "added 2026-11-21 to close INDEX.md/index.json drift per WORKFLOW step 7; metadata verbatim from INDEX.md where present"
+    },
+    {
+      "id": "EZZAY-S07-RECEPTOR-PCM-TRIALS-20261101",
+      "title": "Ezzay S07 — receptor causality and explicit audio quantization",
+      "file": "entries/EZZAY-S07-RECEPTOR-PCM-TRIALS-20261101.md",
+      "project": "إزاي",
+      "episode": "S07",
+      "status": "validated_with_limits",
+      "registration_note": "added 2026-11-21 to close INDEX.md/index.json drift per WORKFLOW step 7; metadata verbatim from INDEX.md where present"
+    },
+    {
+      "id": "EZZAY-S08-CONDENSATION-RTL-TRIALS-20261101",
+      "title": "Ezzay S08 — condensation mechanism and RTL annotation trials",
+      "file": "entries/EZZAY-S08-CONDENSATION-RTL-TRIALS-20261101.md",
+      "project": "إزاي",
+      "episode": "S08",
+      "status": "validated_with_limits",
+      "registration_note": "added 2026-11-21 to close INDEX.md/index.json drift per WORKFLOW step 7; metadata verbatim from INDEX.md where present"
+    },
+    {
+      "id": "EZZAY-S09-AIRBAG-CONTACT-ANNOTATION-20261101",
+      "title": "Ezzay S09: airbag contact and annotation closure",
+      "file": "entries/EZZAY-S09-AIRBAG-CONTACT-ANNOTATION-20261101.md",
+      "project": "إزاي",
+      "episode": "S09",
+      "status": "validated_with_limits",
+      "registration_note": "added 2026-11-21 to close INDEX.md/index.json drift per WORKFLOW step 7; metadata verbatim from INDEX.md where present"
+    },
+    {
+      "id": "EZZAY-S10-FOIL-CONTACT-CTA-TRIALS-20261101",
+      "title": "S10 foil/tray — full production closure",
+      "file": "entries/EZZAY-S10-FOIL-CONTACT-CTA-TRIALS-20261101.md",
+      "project": "إزاي",
+      "episode": "S10",
+      "status": "validated_with_limits",
+      "registration_note": "added 2026-11-21 to close INDEX.md/index.json drift per WORKFLOW step 7; metadata verbatim from INDEX.md where present"
+    },
+    {
+      "id": "EZZAY-S11-DARK-ADAPTATION-TRIALS-20261101",
+      "title": "S11 dark-adaptation mechanism — closed production review",
+      "file": "entries/EZZAY-S11-DARK-ADAPTATION-TRIALS-20261101.md",
+      "project": "إزاي",
+      "episode": "S11",
+      "status": "validated_with_limits",
+      "registration_note": "added 2026-11-21 to close INDEX.md/index.json drift per WORKFLOW step 7; metadata verbatim from INDEX.md where present"
+    },
+    {
+      "id": "EZZAY-S12-CHEMISTRY-UNUSED-ASSET-20261101",
+      "title": "Ezzay S12 — symbolic chemistry, heat contact and unused asset failure",
+      "file": "entries/EZZAY-S12-CHEMISTRY-UNUSED-ASSET-20261101.md",
+      "project": "إزاي",
+      "episode": "S12",
+      "status": "validated_with_limits",
+      "registration_note": "added 2026-11-21 to close INDEX.md/index.json drift per WORKFLOW step 7; metadata verbatim from INDEX.md where present"
+    },
+    {
+      "id": "EZZAY-S13-BALL-CONTACT-STROKE-20261101",
+      "title": "Ezzay S13 — ball contact, persistent stroke and annotation trials",
+      "file": "entries/EZZAY-S13-BALL-CONTACT-STROKE-20261101.md",
+      "project": "إزاي",
+      "episode": "S13",
+      "status": "validated_with_limits",
+      "registration_note": "added 2026-11-21 to close INDEX.md/index.json drift per WORKFLOW step 7; metadata verbatim from INDEX.md where present"
+    },
+    {
+      "id": "EZZAY-S14-POPCORN-CONTINUITY-20261101",
+      "title": "S14 popcorn — closed technical and saved-pixel review",
+      "file": "entries/EZZAY-S14-POPCORN-CONTINUITY-20261101.md",
+      "project": "إزاي",
+      "episode": "S14",
+      "status": "validated_with_limits",
+      "registration_note": "added 2026-11-21 to close INDEX.md/index.json drift per WORKFLOW step 7; metadata verbatim from INDEX.md where present"
+    },
+    {
+      "id": "EZZAY-S15-WIRELESS-PULSE-ANNOTATION-20261101",
+      "title": "Ezzay S15 — wireless pulse and annotation trials",
+      "file": "entries/EZZAY-S15-WIRELESS-PULSE-ANNOTATION-20261101.md",
+      "project": "إزاي",
+      "episode": "S15",
+      "status": "validated_with_limits",
+      "registration_note": "added 2026-11-21 to close INDEX.md/index.json drift per WORKFLOW step 7; metadata verbatim from INDEX.md where present"
+    },
+    {
+      "id": "EZZAY-S16-NERVE-CONTACT-INTERFACE-20261101",
+      "title": "S16 — contact contours, interface admission, and annotation closure",
+      "file": "entries/EZZAY-S16-NERVE-CONTACT-INTERFACE-20261101.md",
+      "project": "إزاي",
+      "episode": "S16",
+      "status": "validated_with_limits",
+      "registration_note": "added 2026-11-21 to close INDEX.md/index.json drift per WORKFLOW step 7; metadata verbatim from INDEX.md where present"
+    },
+    {
+      "id": "EZZAY-S17-FORCE-ARROW-READABILITY-20261101",
+      "title": "Ezzay S17 — visible force direction, not merely an arrow primitive",
+      "file": "entries/EZZAY-S17-FORCE-ARROW-READABILITY-20261101.md",
+      "project": "إزاي",
+      "episode": "S17",
+      "status": "validated_with_limits",
+      "registration_note": "added 2026-11-21 to close INDEX.md/index.json drift per WORKFLOW step 7; metadata verbatim from INDEX.md where present"
+    },
+    {
+      "id": "EZZAY-S18-OXYGEN-ANNOTATION-20261102",
+      "title": "S18: oxygen trajectory versus annotation placement",
+      "file": "entries/EZZAY-S18-OXYGEN-ANNOTATION-20261102.md",
+      "project": "إزاي",
+      "episode": "S18",
+      "status": "validated_with_limits",
+      "registration_note": "added 2026-11-21 to close INDEX.md/index.json drift per WORKFLOW step 7; metadata verbatim from INDEX.md where present"
+    },
+    {
+      "id": "EZZAY-S19-CALLBACK-CTA-OWNERSHIP-20261102",
+      "title": "S19: callback contracts and single CTA ownership",
+      "file": "entries/EZZAY-S19-CALLBACK-CTA-OWNERSHIP-20261102.md",
+      "project": "إزاي",
+      "episode": "S19",
+      "status": "validated_with_limits",
+      "registration_note": "added 2026-11-21 to close INDEX.md/index.json drift per WORKFLOW step 7; metadata verbatim from INDEX.md where present"
+    },
+    {
+      "id": "EZZAY-S20-SHOCK-CUE-CONTRACT-20261102",
+      "title": "Ezzay S20 — shock cue, annotation clearance and contract metadata",
+      "file": "entries/EZZAY-S20-SHOCK-CUE-CONTRACT-20261102.md",
+      "project": "إزاي",
+      "episode": "S20",
+      "status": "validated_with_limits",
+      "registration_note": "added 2026-11-21 to close INDEX.md/index.json drift per WORKFLOW step 7; metadata verbatim from INDEX.md where present"
+    },
+    {
+      "id": "EZZAY-S21-INTERFACE-ADMISSION-20261102",
+      "title": "Ezzay S21 — retained adhesive interface, sealed storage and admission paths",
+      "file": "entries/EZZAY-S21-INTERFACE-ADMISSION-20261102.md",
+      "project": "إزاي",
+      "episode": "S21",
+      "status": "validated_with_limits",
+      "registration_note": "added 2026-11-21 to close INDEX.md/index.json drift per WORKFLOW step 7; metadata verbatim from INDEX.md where present"
+    },
+    {
+      "id": "EZZAY-S22-CUPULA-LOCATOR-20261102",
+      "title": "Ezzay S22 — anchored vestibular diagram and locator routing",
+      "file": "entries/EZZAY-S22-CUPULA-LOCATOR-20261102.md",
+      "project": "إزاي",
+      "episode": "S22",
+      "status": "validated_with_limits",
+      "registration_note": "added 2026-11-21 to close INDEX.md/index.json drift per WORKFLOW step 7; metadata verbatim from INDEX.md where present"
+    },
+    {
+      "id": "EZZAY-S23-FOREGROUND-CONTACT-IDENTITY-20261102",
+      "title": "Ezzay S23 — foreground contact and text-suppressed identity",
+      "file": "entries/EZZAY-S23-FOREGROUND-CONTACT-IDENTITY-20261102.md",
+      "project": "إزاي",
+      "episode": "S23",
+      "status": "validated_with_limits",
+      "registration_note": "added 2026-11-21 to close INDEX.md/index.json drift per WORKFLOW step 7; metadata verbatim from INDEX.md where present"
+    },
+    {
+      "id": "EZZAY-S24-LIGAND-LABEL-SUPPRESSED-IDENTITY-20261102",
+      "title": "Ezzay S24 — ligand labels and suppressed-mode identity",
+      "file": "entries/EZZAY-S24-LIGAND-LABEL-SUPPRESSED-IDENTITY-20261102.md",
+      "project": "إزاي",
+      "episode": "S24",
+      "status": "validated_with_limits",
+      "registration_note": "added 2026-11-21 to close INDEX.md/index.json drift per WORKFLOW step 7; metadata verbatim from INDEX.md where present"
+    },
+    {
+      "id": "EZZAY-S25-INDUCTION-INTERFACE-20261102",
+      "title": "Ezzay S25 — induction interface and residual-heat annotation",
+      "file": "entries/EZZAY-S25-INDUCTION-INTERFACE-20261102.md",
+      "project": "إزاي",
+      "episode": "S25",
+      "status": "validated_with_limits",
+      "registration_note": "added 2026-11-21 to close INDEX.md/index.json drift per WORKFLOW step 7; metadata verbatim from INDEX.md where present"
+    },
+    {
+      "id": "HAKAWI-ANATOMY-20261024-0529",
+      "title": "HAKAWI-ANATOMY-021 — user caught disproportionate arms despite rig checks",
+      "file": "entries/HAKAWI-ANATOMY-20261024-0529.md",
+      "project": "حكاوي الحارة",
+      "category": "anatomy / user rejection / QA",
+      "episode": "E01 first45s",
+      "status": "OPEN / repair_in_progress",
+      "registration_note": "added 2026-11-21 to close INDEX.md/index.json drift per WORKFLOW step 7; metadata verbatim from INDEX.md where present"
+    },
+    {
+      "id": "HAKAWI-BILATERAL-20261024-0812",
+      "title": "HAKAWI bilateral anatomy and escaped contact defects — 2026-10-24 08:12 UTC",
+      "file": "entries/HAKAWI-BILATERAL-20261024-0812.md",
+      "project": "حكاوي الحارة",
+      "category": "bilateral anatomy / proximal chain / grip / native QA",
+      "episode": "E01–E04",
+      "status": "OPEN / scoped repairs / encoded retests pending",
+      "registration_note": "added 2026-11-21 to close INDEX.md/index.json drift per WORKFLOW step 7; metadata verbatim from INDEX.md where present"
+    },
+    {
+      "id": "HAKAWI-CORRECTED-PASS-20261024-0644",
+      "title": "Hakawi corrected pass — bounded evidence, 24 October 2026 06:44 UTC",
+      "file": "entries/HAKAWI-CORRECTED-PASS-20261024-0644.md",
+      "project": "حكاوي الحارة",
+      "category": "pronunciation / anatomy / render / covers",
+      "episode": "E01–E04",
+      "status": "best_effort_audio_completed / narrow_QA_only / full_release_pending",
+      "registration_note": "added 2026-11-21 to close INDEX.md/index.json drift per WORKFLOW step 7; metadata verbatim from INDEX.md where present"
+    },
+    {
+      "id": "HAKAWI-PACING-20261024-0514",
+      "title": "HAKAWI-PACING-020 — semantic shot duration incorrectly drives physical action",
+      "file": "entries/HAKAWI-PACING-20261024-0514.md",
+      "project": "حكاوي الحارة",
+      "category": "pacing / continuity / shared workflow",
+      "episode": "E01–E04",
+      "status": "OPEN / repair_in_progress",
+      "registration_note": "added 2026-11-21 to close INDEX.md/index.json drift per WORKFLOW step 7; metadata verbatim from INDEX.md where present"
+    },
+    {
+      "id": "HAKAWI-PRODUCTION-20261024",
+      "title": "HAKAWI-PRODUCTION-20261024 — bounded production trials",
+      "file": "entries/HAKAWI-PRODUCTION-20261024.md",
+      "project": "حكاوي الحارة",
+      "category": "audio / art / rig / render",
+      "episode": "E01 proof",
+      "status": "sample_user_accepted / proof_validated_with_limits / full_media_pending",
+      "registration_note": "added 2026-11-21 to close INDEX.md/index.json drift per WORKFLOW step 7; metadata verbatim from INDEX.md where present"
+    },
+    {
+      "id": "HAKAWI-PRODUCTION-QA-20261024-0503",
+      "title": "HAKAWI-PRODUCTION-QA-20261024-0503 — sampled repairs, not release clearance",
+      "file": "entries/HAKAWI-PRODUCTION-QA-20261024-0503.md",
+      "project": "حكاوي الحارة",
+      "category": "rig / acting / crop / mix / tool",
+      "episode": "E01–E04",
+      "status": "targeted_sampled_fixes / full_release_pending",
+      "registration_note": "added 2026-11-21 to close INDEX.md/index.json drift per WORKFLOW step 7; metadata verbatim from INDEX.md where present"
+    },
+    {
+      "id": "PROPHETS-AYYUB-RECOVERY-CLOSURE-20261101",
+      "title": "PROPHETS-AYYUB-20261101 — Recovered owned runtime and exact full-master closure",
+      "file": "entries/PROPHETS-AYYUB-RECOVERY-CLOSURE-20261101.md",
+      "project": "قصص الأنبياء",
+      "status": "validated_with_limits",
+      "registration_note": "added 2026-11-21 to close INDEX.md/index.json drift per WORKFLOW step 7; metadata verbatim from INDEX.md where present"
+    },
+    {
+      "id": "PROPHETS-DAWUD-NATIVE-REPAIRS-20261101",
+      "title": "PROPHETS-DAWUD-NATIVE-REPAIRS-20261101 — Stance anchors, glyph coverage, and crossing endpoints",
+      "file": "entries/PROPHETS-DAWUD-NATIVE-REPAIRS-20261101.md",
+      "project": "قصص الأنبياء",
+      "status": "validated_with_limits",
+      "registration_note": "added 2026-11-21 to close INDEX.md/index.json drift per WORKFLOW step 7; metadata verbatim from INDEX.md where present"
+    },
+    {
+      "id": "WHATIF-MINE-CONTACT-LIFECYCLE-20261102",
+      "title": "Mine bounded contact and owned-child occurrence — 2026-11-02",
+      "file": "entries/WHATIF-MINE-CONTACT-LIFECYCLE-20261102.md",
+      "project": "ماذا لو كنت",
+      "status": "validated_with_limits",
+      "registration_note": "added 2026-11-21 to close INDEX.md/index.json drift per WORKFLOW step 7; metadata verbatim from INDEX.md where present"
     }
   ]
 }
