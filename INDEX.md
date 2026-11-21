@@ -117,7 +117,7 @@ IDs never change or get reused. New occurrence of same mechanism links the origi
 
 
 ## GetMotion fresh rebuild — 2026-10-27
-| [GETMOTION-REALITYUNZIP-20261027](entries/GETMOTION-REALITYUNZIP-20261027.md) | semantics / geometry / rendering / review | GMX03_AR | Old 24 outputs rejected; v1–v3 fail source-specific spatial choreography; bounded native SVG fixtures and unavailable AV review recorded | OPEN; v4 tests pending |
+| [GETMOTION-REALITYUNZIP-20261027](entries/GETMOTION-REALITYUNZIP-20261027.md) | semantics / geometry / rendering / review | GMX03_AR | Old 24 outputs rejected; v1–v3 fail source-specific spatial choreography; v8 corrected delivery user-rejected for arbitrary motion unrelated to narration | user_rejected_open_semantic_failure |
 
 - GetMotion follow-up: first GMX03_AR v7 local MP4 passes technical decode and receives a 16-native-frame review; remains **review_candidate_with_limits**, with cue-boundary text blending, discrete shutter ghosting, weak price-sheet composition and unperformed AV playback/listening. See [case follow-up](entries/GETMOTION-REALITYUNZIP-20261027.md#follow-up--v5v6-trials-and-first-v7-encoded-review-candidate-2026-10-27-0112-utc).
 
